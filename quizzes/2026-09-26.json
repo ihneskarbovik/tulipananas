@@ -1,0 +1,467 @@
+{
+  "id": "2026-09-26",
+  "date": "2026-09-26",
+  "title": "Hvilken kake er du i dag?",
+  "intro": "Spørsmålene er glutenfrie.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du på bursdagen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stor fest med alle",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe ingen har gjort før – og bedre enn i fjor",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Film og sofa",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Middag på en fin restaurant",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Samme tradisjon som alltid",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilket ord beskriver deg best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varm",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ambisiøs",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Koselig",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Elegant",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nostalgisk",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags musikk setter du på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Allsang",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det som topper listene",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rolig musikk og regnlyder",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Klassisk",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gamle julesanger",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken årstid er din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sommer",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vår – alt er mulig",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Høst",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vinterens første snø",
+          "scores": {
+            "suksessterte": 1,
+            "krumkake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jul (det er en årstid)",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan pakker du til ferie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Masse – jeg tar med til alle",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lister, planer og reserveplaner",
+          "scores": {
+            "kvaefjordkake": 2,
+            "suksessterte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I siste liten",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Alt matcher, ingenting er tilfeldig",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Samme koffert som i tjue år",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når noen er lei seg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inviterer til fest for å muntre opp",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager en plan for å fikse problemet",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kommer med sjokolade og blir",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skriver et fint kort",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller en gammel historie som får dem til å le",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Velg et sted:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hagefest",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Toppen av et fjell",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sofakroken",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et elegant konditori i Paris",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjøkkenet til besteforeldrene",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "Hvordan tar du imot kritikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir litt såret, men tilgir fort",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker den til å bli enda bedre",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Trekker på skuldrene",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har allerede tenkt på det",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg er sprø, men tåler mer enn du tror",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "Hva er ditt skjulte talent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Holde tale",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vinne konkurranser",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sove hvor som helst",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pynte ting perfekt",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Huske alles gamle historier",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "Hva vil du bli husket for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At jeg samlet folk",
+          "scores": {
+            "blotkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "At jeg var den beste",
+          "scores": {
+            "kvaefjordkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "At jeg var god å være sammen med",
+          "scores": {
+            "brownie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "At jeg gjorde ting ordentlig",
+          "scores": {
+            "suksessterte": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "At jeg holdt tradisjonene i live",
+          "scores": {
+            "krumkake": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "blotkake",
+      "name": "Bløtkake",
+      "emoji": "🎂",
+      "description": "Du er festens midtpunkt! Lag på lag med varme, og ingen feiring er komplett uten deg.",
+      "funFact": "Bløtkaken har navnet sitt fordi kakebunnene fuktes – «bløtes» – med melk eller saft før fyllet legges på.",
+      "image": "images/kake/blotkake.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "kvaefjordkake",
+      "name": "Kvæfjordkake",
+      "emoji": "🏆",
+      "description": "Ambisiøs, selvsikker og ofte kalt verdens beste. Du nøyer deg ikke med nest best.",
+      "funFact": "Kvæfjordkaka ble kåret til Norges nasjonalkake i 2002, og kalles ofte «verdens beste».",
+      "image": "images/kake/kvaefjordkake.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "emoji": "🍫",
+      "description": "Koselig, uhøytidelig og alltid der når noen trenger trøst. Du er en klem i kakeform.",
+      "funFact": "Ifølge historien ble brownien laget første gang på Palmer House-hotellet i Chicago i 1893.",
+      "image": "images/kake/brownie.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "suksessterte",
+      "name": "Suksessterte",
+      "emoji": "✨",
+      "description": "Elegant, gjennomført og alltid i balanse. Det du gjør, gjør du ordentlig.",
+      "funFact": "Suksessterte er glutenfri av natur: bunnen lages av mandler, eggehvite og sukker.",
+      "image": "images/kake/suksessterte.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "krumkake",
+      "name": "Krumkake",
+      "emoji": "🎄",
+      "description": "Tradisjonsbærer med sprø humor. Du tar vare på det gode fra før – og gjør det til noe nytt.",
+      "funFact": "Krumkaker stekes i et eget mønstret jern og rulles til kjegler mens de er varme. Etter noen sekunder er det for sent!",
+      "image": "images/kake/krumkake.jpg",
+      "imageCredit": null
+    }
+  ]
+}

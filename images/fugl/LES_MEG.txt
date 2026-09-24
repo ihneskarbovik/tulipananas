@@ -1,0 +1,9 @@
+Legg bildene her:
+  lunde.jpg
+  skjaere.jpg
+  hubro.jpg
+  rodstrupe.jpg
+  kjottmeis.jpg
+
+Ca. 1200x900 px, JPG, under 300 kB. Bare bilder du har rett til å bruke kommersielt.
+Krediter fotograf/lisens i "imageCredit" i quiz-filen hvis lisensen krever det.

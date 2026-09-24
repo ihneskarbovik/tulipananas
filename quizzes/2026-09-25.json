@@ -1,0 +1,467 @@
+{
+  "id": "2026-09-25",
+  "date": "2026-09-25",
+  "title": "Hvilken sopp er du i dag?",
+  "intro": "Ingen fasit, bare skog.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan liker du å tilbringe en regnværsdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ut i skogen – regn er jo det beste som finnes",
+          "scores": {
+            "kantarell": 2,
+            "steinsopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pynte meg og gå på fest likevel",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lage suppe fra bunnen av",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringe rundt til alle vennene mine",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Krype under et pledd og dukke opp igjen om noen dager",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags gjest er du på fest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den alle blir glade av å se",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den med det mest spektakulære antrekket",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som hjelper til på kjøkkenet",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som kjenner alle og introduserer folk",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som kommer uanmeldt – og forsvinner like brått",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Velg en farge:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eggeplommegul",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knallrød med hvite prikker",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nøttebrun",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Honninggull",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Askegrå",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva er din største styrke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg sprer godt humør",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg tør å skille meg ut",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg er til å stole på",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg holder sammen på ting",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg reiser meg alltid igjen",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor ville du helst bodd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I en lys bjørkeskog",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inni et eventyr",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "I et gammelt hus med tykke vegger",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Midt i sentrum, nær alle",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et sted ingen har funnet ennå",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan reagerer du på kaos?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg ser etter lyspunktene",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir enda mer dramatisk",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg holder meg rolig og står støtt",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg organiserer alle rundt meg",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg blomstrer – det er da jeg gjør mitt beste",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva frister mest å spise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toast med smør",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe jeg aldri har smakt før",
+          "scores": {
+            "fluesopp": 2,
+            "morkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Risotto",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Taco, så alle kan lage sin egen",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe skikkelig eksklusivt",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "Hvordan ser en perfekt lørdag ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tur med matpakke og solskinn",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kostymefest",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lang frokost og avis",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Dugnad med naboene",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen plan i det hele tatt",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "Hva tenker folk når de møter deg første gang?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Så hyggelig!»",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Wow.»",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Hen virker trygg.»",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Hen kjenner visst alle.»",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Hvem var det egentlig?»",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "Velg en superkraft:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gjøre alle glade",
+          "scores": {
+            "kantarell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Forvandle meg",
+          "scores": {
+            "fluesopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tåle hva som helst",
+          "scores": {
+            "steinsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lese tankene til alle i rommet",
+          "scores": {
+            "honningsopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bli usynlig og dukke opp når ingen venter det",
+          "scores": {
+            "morkel": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kantarell",
+      "name": "Kantarell",
+      "emoji": "🌼",
+      "description": "Du er skogens solstråle! Varm, gyllen og elsket av alle – men du vet nøyaktig hvor du trives, og der blir du.",
+      "funFact": "Kantarellen er nesten umulig å dyrke. Den lever i samliv med trærnes røtter, så nesten alle kantareller du spiser er plukket i skogen.",
+      "image": "images/sopp/kantarell.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "fluesopp",
+      "name": "Fluesopp",
+      "emoji": "🍄",
+      "description": "Dramatisk, eventyrlig og umulig å overse. Du kom, du så, og alle snudde seg etter deg.",
+      "funFact": "Fluesoppen har fått navnet sitt fordi den i gamle dager ble lagt i melk for å drepe fluer. Den er giftig, så nyt den med øynene!",
+      "image": "images/sopp/fluesopp.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "steinsopp",
+      "name": "Steinsopp",
+      "emoji": "🌰",
+      "description": "Solid, jordnær og til å stole på. Du er den alle vil ha på laget når det gjelder.",
+      "funFact": "Steinsopp kan bli over to kilo tung, og er en av de mest ettertraktede matsoppene i Europa.",
+      "image": "images/sopp/steinsopp.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "honningsopp",
+      "name": "Honningsopp",
+      "emoji": "🍯",
+      "description": "Du er limet i gjengen! Det du bygger under overflaten er mye større enn noen aner.",
+      "funFact": "En honningsopp i Oregon i USA regnes som en av verdens største levende organismer. Den brer seg over nesten ti kvadratkilometer under bakken.",
+      "image": "images/sopp/honningsopp.jpg",
+      "imageCredit": null
+    },
+    {
+      "id": "morkel",
+      "name": "Morkel",
+      "emoji": "🔥",
+      "description": "Sjelden, mystisk og full av comeback. Du dukker opp når ingen venter det – og da blir alle glade.",
+      "funFact": "Morkler dukker ofte opp i store mengder året etter en skogbrann.",
+      "image": "images/sopp/morkel.jpg",
+      "imageCredit": null
+    }
+  ]
+}
