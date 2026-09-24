@@ -303,13 +303,13 @@
   "outcomes": [
     {
       "id": "lunde",
-      "name": "Lunde",
+      "name": "Lundefugl",
       "emoji": "🐦",
       "description": "Du er dagens sjarmør! Fargerik, sosial og alltid klar for et eventyr – selv om landingene ikke alltid er like elegante.",
-      "funFact": "Lunden kan bære over ti småfisk i nebbet samtidig. Den har små pigger i ganen som holder fisken på plass mens den fanger enda flere.",
+      "funFact": "Lundefuglen kan bære over ti småfisk i nebbet samtidig. Den har små pigger i ganen som holder fisken på plass mens den fanger enda flere.",
       "image": "images/fugl/lunde.jpg",
       "imageCredit": null,
-      "shareName": "en lunde"
+      "shareName": "en lundefugl"
     },
     {
       "id": "skjaere",
