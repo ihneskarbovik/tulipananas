@@ -213,47 +213,6 @@
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når noen er lei seg?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Inviterer til fest for å muntre opp",
-          "scores": {
-            "blotkake": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Lager en plan for å fikse problemet",
-          "scores": {
-            "kvaefjordkake": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Kommer med sjokolade og blir",
-          "scores": {
-            "brownie": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Skriver et fint kort",
-          "scores": {
-            "suksessterte": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Forteller en gammel historie som får dem til å le",
-          "scores": {
-            "krumkake": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
       "text": "Velg et sted:",
       "options": [
         {
@@ -294,7 +253,7 @@
       ]
     },
     {
-      "id": "q8",
+      "id": "q7",
       "text": "Hvordan tar du imot kritikk?",
       "options": [
         {
@@ -328,88 +287,6 @@
         {
           "id": "e",
           "text": "Jeg er sprø, men tåler mer enn du tror",
-          "scores": {
-            "krumkake": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q9",
-      "text": "Hva er ditt skjulte talent?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Holde tale",
-          "scores": {
-            "blotkake": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Vinne konkurranser",
-          "scores": {
-            "kvaefjordkake": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Sove hvor som helst",
-          "scores": {
-            "brownie": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Pynte ting perfekt",
-          "scores": {
-            "suksessterte": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Huske alles gamle historier",
-          "scores": {
-            "krumkake": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q10",
-      "text": "Hva vil du bli husket for?",
-      "options": [
-        {
-          "id": "a",
-          "text": "At jeg samlet folk",
-          "scores": {
-            "blotkake": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "At jeg var den beste",
-          "scores": {
-            "kvaefjordkake": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "At jeg var god å være sammen med",
-          "scores": {
-            "brownie": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "At jeg gjorde ting ordentlig",
-          "scores": {
-            "suksessterte": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "At jeg holdt tradisjonene i live",
           "scores": {
             "krumkake": 2
           }

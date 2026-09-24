@@ -130,88 +130,6 @@
     },
     {
       "id": "q4",
-      "text": "Hva er din største styrke?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jeg sprer godt humør",
-          "scores": {
-            "kantarell": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg tør å skille meg ut",
-          "scores": {
-            "fluesopp": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg er til å stole på",
-          "scores": {
-            "steinsopp": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg holder sammen på ting",
-          "scores": {
-            "honningsopp": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg reiser meg alltid igjen",
-          "scores": {
-            "morkel": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hvor ville du helst bodd?",
-      "options": [
-        {
-          "id": "a",
-          "text": "I en lys bjørkeskog",
-          "scores": {
-            "kantarell": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Inni et eventyr",
-          "scores": {
-            "fluesopp": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "I et gammelt hus med tykke vegger",
-          "scores": {
-            "steinsopp": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Midt i sentrum, nær alle",
-          "scores": {
-            "honningsopp": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Et sted ingen har funnet ennå",
-          "scores": {
-            "morkel": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
       "text": "Hvordan reagerer du på kaos?",
       "options": [
         {
@@ -252,7 +170,7 @@
       ]
     },
     {
-      "id": "q7",
+      "id": "q5",
       "text": "Hva frister mest å spise?",
       "options": [
         {
@@ -294,7 +212,7 @@
       ]
     },
     {
-      "id": "q8",
+      "id": "q6",
       "text": "Hvordan ser en perfekt lørdag ut?",
       "options": [
         {
@@ -335,7 +253,7 @@
       ]
     },
     {
-      "id": "q9",
+      "id": "q7",
       "text": "Hva tenker folk når de møter deg første gang?",
       "options": [
         {
@@ -369,47 +287,6 @@
         {
           "id": "e",
           "text": "«Hvem var det egentlig?»",
-          "scores": {
-            "morkel": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q10",
-      "text": "Velg en superkraft:",
-      "options": [
-        {
-          "id": "a",
-          "text": "Gjøre alle glade",
-          "scores": {
-            "kantarell": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Forvandle meg",
-          "scores": {
-            "fluesopp": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Tåle hva som helst",
-          "scores": {
-            "steinsopp": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Lese tankene til alle i rommet",
-          "scores": {
-            "honningsopp": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Bli usynlig og dukke opp når ingen venter det",
           "scores": {
             "morkel": 2
           }

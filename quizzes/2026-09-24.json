@@ -127,48 +127,6 @@
     },
     {
       "id": "q4",
-      "text": "Hvilken rolle har du i vennegjengen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Den som får alle til å le",
-          "scores": {
-            "lunde": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Den som alltid har en plan (og en plan B)",
-          "scores": {
-            "kjottmeis": 2,
-            "skjaere": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Den kloke alle ringer når noe er vanskelig",
-          "scores": {
-            "hubro": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Den som husker alle bursdager",
-          "scores": {
-            "rodstrupe": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den som får med seg all sladder først",
-          "scores": {
-            "skjaere": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
       "text": "Hva er favorittiden din på døgnet?",
       "options": [
         {
@@ -209,91 +167,7 @@
       ]
     },
     {
-      "id": "q6",
-      "text": "Noen tar den siste kanelbollen din. Du …",
-      "options": [
-        {
-          "id": "a",
-          "text": "… lar det gå, men glemmer det aldri",
-          "scores": {
-            "hubro": 1,
-            "rodstrupe": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "… tar den tilbake. Uten å spørre",
-          "scores": {
-            "skjaere": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "… sier tydelig ifra – dette er MITT revir",
-          "scores": {
-            "rodstrupe": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "… har funnet en ny snack på null komma niks",
-          "scores": {
-            "kjottmeis": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "… ler og lager en vits om det",
-          "scores": {
-            "lunde": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva slags musikk setter du på?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Allsang og noe man kan danse til",
-          "scores": {
-            "lunde": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Rolig jazz eller klassisk",
-          "scores": {
-            "hubro": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Julesanger – hele året",
-          "scores": {
-            "rodstrupe": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "En spilleliste som hopper mellom alt",
-          "scores": {
-            "kjottmeis": 2,
-            "skjaere": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Det nyeste, før noen andre har hørt det",
-          "scores": {
-            "skjaere": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q8",
+      "id": "q5",
       "text": "Velg en superkraft:",
       "options": [
         {
@@ -342,7 +216,7 @@
       ]
     },
     {
-      "id": "q9",
+      "id": "q6",
       "text": "Hvordan ser rommet ditt ut?",
       "options": [
         {
@@ -383,7 +257,7 @@
       ]
     },
     {
-      "id": "q10",
+      "id": "q7",
       "text": "Hva ville vennene dine sagt om deg?",
       "options": [
         {
