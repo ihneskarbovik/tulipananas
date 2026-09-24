@@ -1,294 +1,300 @@
 {
   "id": "2026-09-26",
   "date": "2026-09-26",
-  "title": "Hvilken kake er du i dag?",
-  "intro": "Spørsmålene er glutenfrie.",
+  "title": "Hvilken fugl er du i dag?",
+  "intro": "Svar ærlig – fuglene merker det hvis du jukser.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva gjør du på bursdagen din?",
+      "text": "Hvordan starter du helst dagen?",
       "options": [
         {
           "id": "a",
-          "text": "Stor fest med alle",
+          "text": "Sover så lenge jeg kan – jeg våkner egentlig først på kvelden",
           "scores": {
-            "blotkake": 2
+            "hubro": 2
           }
         },
         {
           "id": "b",
-          "text": "Noe ingen har gjort før – og bedre enn i fjor",
+          "text": "Tidlig opp og rett ut døra",
           "scores": {
-            "kvaefjordkake": 2
+            "kjottmeis": 2,
+            "rodstrupe": 1
           }
         },
         {
           "id": "c",
-          "text": "Film og sofa",
+          "text": "Kaffe og nyheter – jeg må vite hva som skjer",
           "scores": {
-            "brownie": 2
+            "skjaere": 2
           }
         },
         {
           "id": "d",
-          "text": "Middag på en fin restaurant",
+          "text": "Frokost med noen jeg er glad i",
           "scores": {
-            "suksessterte": 2
+            "rodstrupe": 2,
+            "lunde": 1
           }
         },
         {
           "id": "e",
-          "text": "Samme tradisjon som alltid",
+          "text": "Et morgenbad, gjerne iskaldt",
           "scores": {
-            "krumkake": 2
+            "lunde": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvilket ord beskriver deg best?",
+      "text": "Du finner en lommebok på bakken. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Varm",
+          "text": "Leverer den inn med én gang",
           "scores": {
-            "blotkake": 2
+            "rodstrupe": 2
           }
         },
         {
           "id": "b",
-          "text": "Ambisiøs",
+          "text": "Kikker litt nøye på innholdet først …",
           "scores": {
-            "kvaefjordkake": 2
+            "skjaere": 2
           }
         },
         {
           "id": "c",
-          "text": "Koselig",
+          "text": "Poster et bilde i nabogruppa",
           "scores": {
-            "brownie": 2
+            "lunde": 1,
+            "kjottmeis": 1
           }
         },
         {
           "id": "d",
-          "text": "Elegant",
+          "text": "Sporer opp eieren selv, som en detektiv",
           "scores": {
-            "suksessterte": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Nostalgisk",
-          "scores": {
-            "krumkake": 2
+            "hubro": 2,
+            "skjaere": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva slags musikk setter du på?",
+      "text": "Hva er drømmeferien?",
       "options": [
         {
           "id": "a",
-          "text": "Allsang",
+          "text": "En klippeøy med havutsikt og fiskesuppe",
           "scores": {
-            "blotkake": 2
+            "lunde": 2
           }
         },
         {
           "id": "b",
-          "text": "Det som topper listene",
+          "text": "En storby med masse å utforske",
           "scores": {
-            "kvaefjordkake": 2
+            "skjaere": 2,
+            "kjottmeis": 1
           }
         },
         {
           "id": "c",
-          "text": "Rolig musikk og regnlyder",
+          "text": "Ei hytte i skogen uten naboer",
           "scores": {
-            "brownie": 2
+            "hubro": 2
           }
         },
         {
           "id": "d",
-          "text": "Klassisk",
+          "text": "Hjemme – det er best der",
           "scores": {
-            "suksessterte": 2
+            "rodstrupe": 2
           }
         },
         {
           "id": "e",
-          "text": "Gamle julesanger",
+          "text": "Aktivitetsferie med noe nytt hver dag",
           "scores": {
-            "krumkake": 2
+            "kjottmeis": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvilken årstid er din?",
+      "text": "Hva er favorittiden din på døgnet?",
       "options": [
         {
           "id": "a",
-          "text": "Sommer",
+          "text": "Soloppgang",
           "scores": {
-            "blotkake": 2
+            "rodstrupe": 2
           }
         },
         {
           "id": "b",
-          "text": "Vår – alt er mulig",
+          "text": "Formiddag",
           "scores": {
-            "kvaefjordkake": 2
+            "kjottmeis": 2
           }
         },
         {
           "id": "c",
-          "text": "Høst",
+          "text": "Gyllen ettermiddag",
           "scores": {
-            "brownie": 2
+            "lunde": 2
           }
         },
         {
           "id": "d",
-          "text": "Vinterens første snø",
+          "text": "Skumring",
           "scores": {
-            "suksessterte": 1,
-            "krumkake": 1
+            "skjaere": 2
           }
         },
         {
           "id": "e",
-          "text": "Jul (det er en årstid)",
+          "text": "Midt på natta",
           "scores": {
-            "krumkake": 2
+            "hubro": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan pakker du til ferie?",
+      "text": "Velg en superkraft:",
       "options": [
         {
           "id": "a",
-          "text": "Masse – jeg tar med til alle",
+          "text": "Se i mørket",
           "scores": {
-            "blotkake": 2
+            "hubro": 2
           }
         },
         {
           "id": "b",
-          "text": "Lister, planer og reserveplaner",
+          "text": "Aldri bli sliten",
           "scores": {
-            "kvaefjordkake": 2,
-            "suksessterte": 1
+            "kjottmeis": 2
           }
         },
         {
           "id": "c",
-          "text": "I siste liten",
+          "text": "Svømme like godt som jeg går",
           "scores": {
-            "brownie": 2
+            "lunde": 2
           }
         },
         {
           "id": "d",
-          "text": "Alt matcher, ingenting er tilfeldig",
+          "text": "Huske absolutt alt",
           "scores": {
-            "suksessterte": 2
+            "skjaere": 2
           }
         },
         {
           "id": "e",
-          "text": "Samme koffert som i tjue år",
+          "text": "Få alle til å føle seg velkomne",
           "scores": {
-            "krumkake": 2
+            "rodstrupe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fly, selvfølgelig",
+          "scores": {
+            "kjottmeis": 1,
+            "lunde": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Velg et sted:",
+      "text": "Hvordan ser rommet ditt ut?",
       "options": [
         {
           "id": "a",
-          "text": "Hagefest",
+          "text": "Fullt av småting jeg har samlet på",
           "scores": {
-            "blotkake": 2
+            "skjaere": 2
           }
         },
         {
           "id": "b",
-          "text": "Toppen av et fjell",
+          "text": "Koselig, med pledd og stearinlys",
           "scores": {
-            "kvaefjordkake": 2
+            "rodstrupe": 2
           }
         },
         {
           "id": "c",
-          "text": "Sofakroken",
+          "text": "Minimalistisk og litt mørkt",
           "scores": {
-            "brownie": 2
+            "hubro": 2
           }
         },
         {
           "id": "d",
-          "text": "Et elegant konditori i Paris",
+          "text": "Fargerikt kaos",
           "scores": {
-            "suksessterte": 2
+            "lunde": 2
           }
         },
         {
           "id": "e",
-          "text": "Kjøkkenet til besteforeldrene",
+          "text": "Praktisk – alt har sin faste plass",
           "scores": {
-            "krumkake": 2
+            "kjottmeis": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvordan tar du imot kritikk?",
+      "text": "Hva ville vennene dine sagt om deg?",
       "options": [
         {
           "id": "a",
-          "text": "Blir litt såret, men tilgir fort",
+          "text": "«Umulig å ikke like»",
           "scores": {
-            "blotkake": 2
+            "lunde": 2,
+            "rodstrupe": 1
           }
         },
         {
           "id": "b",
-          "text": "Bruker den til å bli enda bedre",
+          "text": "«Altfor smart for sitt eget beste»",
           "scores": {
-            "kvaefjordkake": 2
+            "skjaere": 2
           }
         },
         {
           "id": "c",
-          "text": "Trekker på skuldrene",
+          "text": "«Stille vann har dyp bunn»",
           "scores": {
-            "brownie": 2
+            "hubro": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg har allerede tenkt på det",
+          "text": "«Liten, men tøff»",
           "scores": {
-            "suksessterte": 2
+            "kjottmeis": 2,
+            "rodstrupe": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg er sprø, men tåler mer enn du tror",
+          "text": "«Trofast som få»",
           "scores": {
-            "krumkake": 2
+            "rodstrupe": 2
           }
         }
       ]
@@ -296,142 +302,142 @@
   ],
   "outcomes": [
     {
-      "id": "blotkake",
-      "name": "Bløtkake",
-      "emoji": "🎂",
-      "description": "Du er festens midtpunkt! Lag på lag med varme, og ingen feiring er komplett uten deg.",
-      "funFact": "Bløtkaken har navnet sitt fordi kakebunnene fuktes – «bløtes» – med melk eller saft før fyllet legges på.",
-      "image": "images/kake/blotkake.jpg",
+      "id": "lunde",
+      "name": "Lundefugl",
+      "emoji": "🐦",
+      "description": "Du er dagens sjarmør! Fargerik, sosial og alltid klar for et eventyr – selv om landingene ikke alltid er like elegante.",
+      "funFact": "Lundefuglen kan bære over ti småfisk i nebbet samtidig. Den har små pigger i ganen som holder fisken på plass mens den fanger enda flere.",
+      "image": "images/fugl/lunde.jpg",
       "imageCredit": null,
-      "shareName": "en bløtkake",
+      "shareName": "en lundefugl",
       "traits": [
         {
-          "title": "Festlig",
-          "text": "Ingen fest uten deg."
+          "title": "Sosial",
+          "text": "Trives best i store flokker."
         },
+        {
+          "title": "Fargerik",
+          "text": "Umulig å overse."
+        },
+        {
+          "title": "Klønete",
+          "text": "Landingen? Tja."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid klar for tur."
+        }
+      ]
+    },
+    {
+      "id": "skjaere",
+      "name": "Skjære",
+      "emoji": "🐦‍⬛",
+      "description": "Nysgjerrig, lur og alltid ett steg foran. Du legger merke til alt – spesielt det som glitrer.",
+      "funFact": "Skjæra var det første dyret utenom pattedyrene som besto speiltesten – den skjønte at det var seg selv den så i speilet.",
+      "image": "images/fugl/skjaere.jpg",
+      "imageCredit": null,
+      "shareName": "en skjære",
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Må alltid vite mer."
+        },
+        {
+          "title": "Lur",
+          "text": "Ett steg foran."
+        },
+        {
+          "title": "Samler",
+          "text": "Elsker ting som glitrer."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        }
+      ]
+    },
+    {
+      "id": "hubro",
+      "name": "Hubro",
+      "emoji": "🦉",
+      "description": "Rolig, klok og litt mystisk. Du trenger ikke si så mye – men når du først sier noe, lytter alle.",
+      "funFact": "Hubroen er Norges største ugle, med et vingespenn på godt over halvannen meter.",
+      "image": "images/fugl/hubro.jpg",
+      "imageCredit": null,
+      "shareName": "en hubro",
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite stresser deg."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner når det mørkner."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Ingen vet helt hva du tenker."
+        }
+      ]
+    },
+    {
+      "id": "rodstrupe",
+      "name": "Rødstrupe",
+      "emoji": "🐦",
+      "description": "Varm, trofast og modigere enn du ser ut. Du er den alle vil ha i nærheten når det er kaldt ute.",
+      "funFact": "Hos rødstrupa synger også hunnen – og begge kjønn synger gjerne midt på vinteren for å forsvare reviret sitt.",
+      "image": "images/fugl/rodstrupe.jpg",
+      "imageCredit": null,
+      "shareName": "en rødstrupe",
+      "traits": [
         {
           "title": "Varm",
-          "text": "Lag på lag med omsorg."
+          "text": "Den alle vil ha nær."
         },
         {
-          "title": "Raus",
-          "text": "Deler gjerne."
+          "title": "Trofast",
+          "text": "Stiller opp hver gang."
         },
         {
-          "title": "Midtpunkt",
-          "text": "Alle samles rundt deg."
+          "title": "Modig",
+          "text": "Tøffere enn du ser ut."
+        },
+        {
+          "title": "Sanglysten",
+          "text": "Nynner mens du jobber."
         }
       ]
     },
     {
-      "id": "kvaefjordkake",
-      "name": "Kvæfjordkake",
-      "emoji": "🍰",
-      "description": "Ambisiøs, selvsikker og ofte kalt verdens beste. Du nøyer deg ikke med nest best.",
-      "funFact": "Kvæfjordkaka ble kåret til Norges nasjonalkake i 2002, og kalles ofte «verdens beste».",
-      "image": "images/kake/kvaefjordkake.jpg",
+      "id": "kjottmeis",
+      "name": "Kjøttmeis",
+      "emoji": "🐤",
+      "description": "Energisk, tilpasningsdyktig og overraskende tøff. Du fikser det meste – gjerne tre ting samtidig.",
+      "funFact": "I Ungarn er kjøttmeis observert mens de jakter på flaggermus i dvale inne i grotter når maten er knapp om vinteren.",
+      "image": "images/fugl/kjottmeis.jpg",
       "imageCredit": null,
-      "shareName": "en kvæfjordkake",
+      "shareName": "en kjøttmeis",
       "traits": [
         {
-          "title": "Ambisiøs",
-          "text": "Nest best holder ikke."
+          "title": "Energisk",
+          "text": "Alltid i farta."
         },
         {
-          "title": "Selvsikker",
-          "text": "Og med god grunn."
+          "title": "Tøff",
+          "text": "Tåler det meste."
         },
         {
-          "title": "Kjent",
-          "text": "Kalt verdens beste."
+          "title": "Løsningsorientert",
+          "text": "Fikser tre ting samtidig."
         },
         {
-          "title": "Nordnorsk",
-          "text": "Litt tøff, mye god."
-        }
-      ]
-    },
-    {
-      "id": "brownie",
-      "name": "Brownie",
-      "emoji": "🍫",
-      "description": "Koselig, uhøytidelig og alltid der når noen trenger trøst. Du er en klem i kakeform.",
-      "funFact": "Ifølge historien ble brownien laget første gang på Palmer House-hotellet i Chicago i 1893.",
-      "image": "images/kake/brownie.jpg",
-      "imageCredit": null,
-      "shareName": "en brownie",
-      "traits": [
-        {
-          "title": "Koselig",
-          "text": "Som et ullteppe."
-        },
-        {
-          "title": "Uhøytidelig",
-          "text": "Ingen pynt nødvendig."
-        },
-        {
-          "title": "Trøstende",
-          "text": "En klem i kakeform."
-        },
-        {
-          "title": "Søt",
-          "text": "Litt for god."
-        }
-      ]
-    },
-    {
-      "id": "suksessterte",
-      "name": "Suksessterte",
-      "emoji": "🥧",
-      "description": "Elegant, gjennomført og alltid i balanse. Det du gjør, gjør du ordentlig.",
-      "funFact": "Suksessterte er glutenfri av natur: bunnen lages av mandler, eggehvite og sukker.",
-      "image": "images/kake/suksessterte.jpg",
-      "imageCredit": null,
-      "shareName": "en suksessterte",
-      "traits": [
-        {
-          "title": "Elegant",
-          "text": "Alltid ordentlig."
-        },
-        {
-          "title": "Balansert",
-          "text": "Ikke for mye, ikke for lite."
-        },
-        {
-          "title": "Grundig",
-          "text": "Gjør ting skikkelig."
-        },
-        {
-          "title": "Gyllen",
-          "text": "Glir inn overalt."
-        }
-      ]
-    },
-    {
-      "id": "krumkake",
-      "name": "Krumkake",
-      "emoji": "🍦",
-      "description": "Tradisjonsbærer med sprø humor. Du tar vare på det gode fra før – og gjør det til noe nytt.",
-      "funFact": "Krumkaker stekes i et eget mønstret jern og rulles til kjegler mens de er varme. Etter noen sekunder er det for sent!",
-      "image": "images/kake/krumkake.jpg",
-      "imageCredit": null,
-      "shareName": "en krumkake",
-      "traits": [
-        {
-          "title": "Tradisjonell",
-          "text": "Tar vare på det gode."
-        },
-        {
-          "title": "Sprø",
-          "text": "Særlig humoren."
-        },
-        {
-          "title": "Kreativ",
-          "text": "Gjør det gamle nytt."
-        },
-        {
-          "title": "Julete",
-          "text": "Hele året."
+          "title": "Tilpasser seg",
+          "text": "Trives overalt."
         }
       ]
     }
