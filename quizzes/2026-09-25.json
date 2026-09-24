@@ -298,11 +298,12 @@
     {
       "id": "kantarell",
       "name": "Kantarell",
-      "emoji": "🌼",
+      "emoji": "🍄",
       "description": "Du er skogens solstråle! Varm, gyllen og elsket av alle – men du vet nøyaktig hvor du trives, og der blir du.",
       "funFact": "Kantarellen er nesten umulig å dyrke. Den lever i samliv med trærnes røtter, så nesten alle kantareller du spiser er plukket i skogen.",
       "image": "images/sopp/kantarell.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en kantarell"
     },
     {
       "id": "fluesopp",
@@ -311,34 +312,38 @@
       "description": "Dramatisk, eventyrlig og umulig å overse. Du kom, du så, og alle snudde seg etter deg.",
       "funFact": "Fluesoppen har fått navnet sitt fordi den i gamle dager ble lagt i melk for å drepe fluer. Den er giftig, så nyt den med øynene!",
       "image": "images/sopp/fluesopp.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en fluesopp"
     },
     {
       "id": "steinsopp",
       "name": "Steinsopp",
-      "emoji": "🌰",
+      "emoji": "🍄",
       "description": "Solid, jordnær og til å stole på. Du er den alle vil ha på laget når det gjelder.",
       "funFact": "Steinsopp kan bli over to kilo tung, og er en av de mest ettertraktede matsoppene i Europa.",
       "image": "images/sopp/steinsopp.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en steinsopp"
     },
     {
       "id": "honningsopp",
       "name": "Honningsopp",
-      "emoji": "🍯",
+      "emoji": "🍄",
       "description": "Du er limet i gjengen! Det du bygger under overflaten er mye større enn noen aner.",
       "funFact": "En honningsopp i Oregon i USA regnes som en av verdens største levende organismer. Den brer seg over nesten ti kvadratkilometer under bakken.",
       "image": "images/sopp/honningsopp.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en honningsopp"
     },
     {
       "id": "morkel",
       "name": "Morkel",
-      "emoji": "🔥",
+      "emoji": "🍄",
       "description": "Sjelden, mystisk og full av comeback. Du dukker opp når ingen venter det – og da blir alle glade.",
       "funFact": "Morkler dukker ofte opp i store mengder året etter en skogbrann.",
       "image": "images/sopp/morkel.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en morkel"
     }
   ]
 }

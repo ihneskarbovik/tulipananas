@@ -304,11 +304,12 @@
     {
       "id": "lunde",
       "name": "Lunde",
-      "emoji": "🌊",
+      "emoji": "🐦",
       "description": "Du er dagens sjarmør! Fargerik, sosial og alltid klar for et eventyr – selv om landingene ikke alltid er like elegante.",
       "funFact": "Lunden kan bære over ti småfisk i nebbet samtidig. Den har små pigger i ganen som holder fisken på plass mens den fanger enda flere.",
       "image": "images/fugl/lunde.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en lunde"
     },
     {
       "id": "skjaere",
@@ -317,7 +318,8 @@
       "description": "Nysgjerrig, lur og alltid ett steg foran. Du legger merke til alt – spesielt det som glitrer.",
       "funFact": "Skjæra var det første dyret utenom pattedyrene som besto speiltesten – den skjønte at det var seg selv den så i speilet.",
       "image": "images/fugl/skjaere.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en skjære"
     },
     {
       "id": "hubro",
@@ -326,7 +328,8 @@
       "description": "Rolig, klok og litt mystisk. Du trenger ikke si så mye – men når du først sier noe, lytter alle.",
       "funFact": "Hubroen er Norges største ugle, med et vingespenn på godt over halvannen meter.",
       "image": "images/fugl/hubro.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en hubro"
     },
     {
       "id": "rodstrupe",
@@ -335,7 +338,8 @@
       "description": "Varm, trofast og modigere enn du ser ut. Du er den alle vil ha i nærheten når det er kaldt ute.",
       "funFact": "Hos rødstrupa synger også hunnen – og begge kjønn synger gjerne midt på vinteren for å forsvare reviret sitt.",
       "image": "images/fugl/rodstrupe.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en rødstrupe"
     },
     {
       "id": "kjottmeis",
@@ -344,7 +348,8 @@
       "description": "Energisk, tilpasningsdyktig og overraskende tøff. Du fikser det meste – gjerne tre ting samtidig.",
       "funFact": "I Ungarn er kjøttmeis observert mens de jakter på flaggermus i dvale inne i grotter når maten er knapp om vinteren.",
       "image": "images/fugl/kjottmeis.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en kjøttmeis"
     }
   ]
 }

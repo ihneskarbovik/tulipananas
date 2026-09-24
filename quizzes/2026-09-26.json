@@ -302,16 +302,18 @@
       "description": "Du er festens midtpunkt! Lag på lag med varme, og ingen feiring er komplett uten deg.",
       "funFact": "Bløtkaken har navnet sitt fordi kakebunnene fuktes – «bløtes» – med melk eller saft før fyllet legges på.",
       "image": "images/kake/blotkake.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en bløtkake"
     },
     {
       "id": "kvaefjordkake",
       "name": "Kvæfjordkake",
-      "emoji": "🏆",
+      "emoji": "🍰",
       "description": "Ambisiøs, selvsikker og ofte kalt verdens beste. Du nøyer deg ikke med nest best.",
       "funFact": "Kvæfjordkaka ble kåret til Norges nasjonalkake i 2002, og kalles ofte «verdens beste».",
       "image": "images/kake/kvaefjordkake.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en kvæfjordkake"
     },
     {
       "id": "brownie",
@@ -320,25 +322,28 @@
       "description": "Koselig, uhøytidelig og alltid der når noen trenger trøst. Du er en klem i kakeform.",
       "funFact": "Ifølge historien ble brownien laget første gang på Palmer House-hotellet i Chicago i 1893.",
       "image": "images/kake/brownie.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en brownie"
     },
     {
       "id": "suksessterte",
       "name": "Suksessterte",
-      "emoji": "✨",
+      "emoji": "🥧",
       "description": "Elegant, gjennomført og alltid i balanse. Det du gjør, gjør du ordentlig.",
       "funFact": "Suksessterte er glutenfri av natur: bunnen lages av mandler, eggehvite og sukker.",
       "image": "images/kake/suksessterte.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en suksessterte"
     },
     {
       "id": "krumkake",
       "name": "Krumkake",
-      "emoji": "🎄",
+      "emoji": "🍦",
       "description": "Tradisjonsbærer med sprø humor. Du tar vare på det gode fra før – og gjør det til noe nytt.",
       "funFact": "Krumkaker stekes i et eget mønstret jern og rulles til kjegler mens de er varme. Etter noen sekunder er det for sent!",
       "image": "images/kake/krumkake.jpg",
-      "imageCredit": null
+      "imageCredit": null,
+      "shareName": "en krumkake"
     }
   ]
 }
