@@ -303,7 +303,25 @@
       "funFact": "Kantarellen er nesten umulig å dyrke. Den lever i samliv med trærnes røtter, så nesten alle kantareller du spiser er plukket i skogen.",
       "image": "images/sopp/kantarell.jpg",
       "imageCredit": null,
-      "shareName": "en kantarell"
+      "shareName": "en kantarell",
+      "traits": [
+        {
+          "title": "Solstråle",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Stedbunden",
+          "text": "Vet hvor du trives."
+        },
+        {
+          "title": "Elsket",
+          "text": "Alle blir glade av deg."
+        },
+        {
+          "title": "Varm",
+          "text": "Gyllen helt inn."
+        }
+      ]
     },
     {
       "id": "fluesopp",
@@ -313,7 +331,25 @@
       "funFact": "Fluesoppen har fått navnet sitt fordi den i gamle dager ble lagt i melk for å drepe fluer. Den er giftig, så nyt den med øynene!",
       "image": "images/sopp/fluesopp.jpg",
       "imageCredit": null,
-      "shareName": "en fluesopp"
+      "shareName": "en fluesopp",
+      "traits": [
+        {
+          "title": "Dramatisk",
+          "text": "Stor entré, alltid."
+        },
+        {
+          "title": "Eventyrlig",
+          "text": "Rett ut av en bok."
+        },
+        {
+          "title": "Synlig",
+          "text": "Alle snur seg."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Hold avstand, kanskje."
+        }
+      ]
     },
     {
       "id": "steinsopp",
@@ -323,7 +359,25 @@
       "funFact": "Steinsopp kan bli over to kilo tung, og er en av de mest ettertraktede matsoppene i Europa.",
       "image": "images/sopp/steinsopp.jpg",
       "imageCredit": null,
-      "shareName": "en steinsopp"
+      "shareName": "en steinsopp",
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt i alt vær."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Den alle vil ha med."
+        }
+      ]
     },
     {
       "id": "honningsopp",
@@ -333,7 +387,25 @@
       "funFact": "En honningsopp i Oregon i USA regnes som en av verdens største levende organismer. Den brer seg over nesten ti kvadratkilometer under bakken.",
       "image": "images/sopp/honningsopp.jpg",
       "imageCredit": null,
-      "shareName": "en honningsopp"
+      "shareName": "en honningsopp",
+      "traits": [
+        {
+          "title": "Limet",
+          "text": "Holder gjengen sammen."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer under overflaten."
+        },
+        {
+          "title": "Sosial",
+          "text": "Aldri alene lenge."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir seg aldri."
+        }
+      ]
     },
     {
       "id": "morkel",
@@ -343,7 +415,25 @@
       "funFact": "Morkler dukker ofte opp i store mengder året etter en skogbrann.",
       "image": "images/sopp/morkel.jpg",
       "imageCredit": null,
-      "shareName": "en morkel"
+      "shareName": "en morkel",
+      "traits": [
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag, heldigvis."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt av en gåte."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp når ingen venter det."
+        },
+        {
+          "title": "Tidlig ute",
+          "text": "Først på våren."
+        }
+      ]
     }
   ]
 }

@@ -309,7 +309,25 @@
       "funFact": "Lundefuglen kan bære over ti småfisk i nebbet samtidig. Den har små pigger i ganen som holder fisken på plass mens den fanger enda flere.",
       "image": "images/fugl/lunde.jpg",
       "imageCredit": null,
-      "shareName": "en lundefugl"
+      "shareName": "en lundefugl",
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives best i store flokker."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Umulig å overse."
+        },
+        {
+          "title": "Klønete",
+          "text": "Landingen? Tja."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid klar for tur."
+        }
+      ]
     },
     {
       "id": "skjaere",
@@ -319,7 +337,25 @@
       "funFact": "Skjæra var det første dyret utenom pattedyrene som besto speiltesten – den skjønte at det var seg selv den så i speilet.",
       "image": "images/fugl/skjaere.jpg",
       "imageCredit": null,
-      "shareName": "en skjære"
+      "shareName": "en skjære",
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Må alltid vite mer."
+        },
+        {
+          "title": "Lur",
+          "text": "Ett steg foran."
+        },
+        {
+          "title": "Samler",
+          "text": "Elsker ting som glitrer."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        }
+      ]
     },
     {
       "id": "hubro",
@@ -329,7 +365,25 @@
       "funFact": "Hubroen er Norges største ugle, med et vingespenn på godt over halvannen meter.",
       "image": "images/fugl/hubro.jpg",
       "imageCredit": null,
-      "shareName": "en hubro"
+      "shareName": "en hubro",
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite stresser deg."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner når det mørkner."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Ingen vet helt hva du tenker."
+        }
+      ]
     },
     {
       "id": "rodstrupe",
@@ -339,7 +393,25 @@
       "funFact": "Hos rødstrupa synger også hunnen – og begge kjønn synger gjerne midt på vinteren for å forsvare reviret sitt.",
       "image": "images/fugl/rodstrupe.jpg",
       "imageCredit": null,
-      "shareName": "en rødstrupe"
+      "shareName": "en rødstrupe",
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Den alle vil ha nær."
+        },
+        {
+          "title": "Trofast",
+          "text": "Stiller opp hver gang."
+        },
+        {
+          "title": "Modig",
+          "text": "Tøffere enn du ser ut."
+        },
+        {
+          "title": "Sanglysten",
+          "text": "Nynner mens du jobber."
+        }
+      ]
     },
     {
       "id": "kjottmeis",
@@ -349,7 +421,25 @@
       "funFact": "I Ungarn er kjøttmeis observert mens de jakter på flaggermus i dvale inne i grotter når maten er knapp om vinteren.",
       "image": "images/fugl/kjottmeis.jpg",
       "imageCredit": null,
-      "shareName": "en kjøttmeis"
+      "shareName": "en kjøttmeis",
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler det meste."
+        },
+        {
+          "title": "Løsningsorientert",
+          "text": "Fikser tre ting samtidig."
+        },
+        {
+          "title": "Tilpasser seg",
+          "text": "Trives overalt."
+        }
+      ]
     }
   ]
 }

@@ -303,7 +303,25 @@
       "funFact": "Bløtkaken har navnet sitt fordi kakebunnene fuktes – «bløtes» – med melk eller saft før fyllet legges på.",
       "image": "images/kake/blotkake.jpg",
       "imageCredit": null,
-      "shareName": "en bløtkake"
+      "shareName": "en bløtkake",
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Ingen fest uten deg."
+        },
+        {
+          "title": "Varm",
+          "text": "Lag på lag med omsorg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Midtpunkt",
+          "text": "Alle samles rundt deg."
+        }
+      ]
     },
     {
       "id": "kvaefjordkake",
@@ -313,7 +331,25 @@
       "funFact": "Kvæfjordkaka ble kåret til Norges nasjonalkake i 2002, og kalles ofte «verdens beste».",
       "image": "images/kake/kvaefjordkake.jpg",
       "imageCredit": null,
-      "shareName": "en kvæfjordkake"
+      "shareName": "en kvæfjordkake",
+      "traits": [
+        {
+          "title": "Ambisiøs",
+          "text": "Nest best holder ikke."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Og med god grunn."
+        },
+        {
+          "title": "Kjent",
+          "text": "Kalt verdens beste."
+        },
+        {
+          "title": "Nordnorsk",
+          "text": "Litt tøff, mye god."
+        }
+      ]
     },
     {
       "id": "brownie",
@@ -323,7 +359,25 @@
       "funFact": "Ifølge historien ble brownien laget første gang på Palmer House-hotellet i Chicago i 1893.",
       "image": "images/kake/brownie.jpg",
       "imageCredit": null,
-      "shareName": "en brownie"
+      "shareName": "en brownie",
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Som et ullteppe."
+        },
+        {
+          "title": "Uhøytidelig",
+          "text": "Ingen pynt nødvendig."
+        },
+        {
+          "title": "Trøstende",
+          "text": "En klem i kakeform."
+        },
+        {
+          "title": "Søt",
+          "text": "Litt for god."
+        }
+      ]
     },
     {
       "id": "suksessterte",
@@ -333,7 +387,25 @@
       "funFact": "Suksessterte er glutenfri av natur: bunnen lages av mandler, eggehvite og sukker.",
       "image": "images/kake/suksessterte.jpg",
       "imageCredit": null,
-      "shareName": "en suksessterte"
+      "shareName": "en suksessterte",
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid ordentlig."
+        },
+        {
+          "title": "Balansert",
+          "text": "Ikke for mye, ikke for lite."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Gyllen",
+          "text": "Glir inn overalt."
+        }
+      ]
     },
     {
       "id": "krumkake",
@@ -343,7 +415,25 @@
       "funFact": "Krumkaker stekes i et eget mønstret jern og rulles til kjegler mens de er varme. Etter noen sekunder er det for sent!",
       "image": "images/kake/krumkake.jpg",
       "imageCredit": null,
-      "shareName": "en krumkake"
+      "shareName": "en krumkake",
+      "traits": [
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gode."
+        },
+        {
+          "title": "Sprø",
+          "text": "Særlig humoren."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Gjør det gamle nytt."
+        },
+        {
+          "title": "Julete",
+          "text": "Hele året."
+        }
+      ]
     }
   ]
 }
