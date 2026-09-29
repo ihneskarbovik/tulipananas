@@ -1,341 +1,334 @@
 {
   "id": "2026-10-04",
   "date": "2026-10-04",
-  "title": "Hvilket instrument er du i dag?",
-  "intro": "Alle har sin egen lyd. Finn ut hvilken tone du slår an i dag.",
+  "title": "Hvilken grønnsak er du i dag?",
+  "intro": "Det er høst og innhøsting. Grav litt i deg selv og finn ut hvilken grønnsak du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan er stemmen din i dag?",
+      "text": "Hvordan er humøret ditt i dag?",
       "options": [
         {
           "id": "a",
-          "text": "Høy og tydelig",
+          "text": "Solid og stabilt",
           "scores": {
-            "trompet": 2
+            "potet": 2
           }
         },
         {
           "id": "b",
-          "text": "Myk og drømmende",
+          "text": "Friskt og kjølig",
           "scores": {
-            "fiolin": 2
+            "agurk": 2
           }
         },
         {
           "id": "c",
-          "text": "Rytmisk og bestemt",
+          "text": "Sprudlende og fargerikt",
           "scores": {
-            "tromme": 2
+            "paprika": 2,
+            "tomat": 1
           }
         },
         {
           "id": "d",
-          "text": "Glad og litt pipete",
+          "text": "Litt følelsesladet",
           "scores": {
-            "blokkflote": 2
+            "lok": 2
           }
         },
         {
           "id": "e",
-          "text": "Liten, men den høres",
+          "text": "Klar for høst og kos",
           "scores": {
-            "triangel": 2
+            "gresskar": 2
           }
         },
         {
           "id": "f",
-          "text": "Varm og avslappet",
+          "text": "Sprekt og fullt av energi",
           "scores": {
-            "gitar": 2
+            "gulrot": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fest?",
+      "text": "Hva gjør du helst i helgen?",
       "options": [
         {
           "id": "a",
-          "text": "Starter allsangen",
+          "text": "Trener og er mye ute",
           "scores": {
-            "gitar": 2,
-            "trekkspill": 1
+            "brokkoli": 2,
+            "gulrot": 1
           }
         },
         {
           "id": "b",
-          "text": "Danser hele natta",
+          "text": "Lager mat til hele familien",
           "scores": {
-            "trekkspill": 2
+            "potet": 2
           }
         },
         {
           "id": "c",
-          "text": "Holder takten på bordet",
+          "text": "Pynter til fest",
           "scores": {
-            "tromme": 2
+            "gresskar": 2
           }
         },
         {
           "id": "d",
-          "text": "Holder en tale",
+          "text": "Drar på stranda eller spa",
           "scores": {
-            "trompet": 2
+            "agurk": 2
           }
         },
         {
           "id": "e",
-          "text": "Står i hjørnet og smiler",
+          "text": "Prøver noe helt nytt",
           "scores": {
-            "triangel": 2
+            "paprika": 2
           }
         },
         {
           "id": "f",
-          "text": "Leker med alle barna",
+          "text": "Drømmer meg bort til en kafé i Italia",
           "scores": {
-            "xylofon": 2,
-            "blokkflote": 1
+            "tomat": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Velg en farge:",
+      "text": "Hvilken rolle har du i vennegjengen?",
       "options": [
         {
           "id": "a",
-          "text": "Knallrød",
+          "text": "Den sunne som får alle med på tur",
           "scores": {
-            "tromme": 2
+            "brokkoli": 2
           }
         },
         {
           "id": "b",
-          "text": "Gull",
+          "text": "Den alle kan stole på",
           "scores": {
-            "trompet": 2
+            "potet": 2
           }
         },
         {
           "id": "c",
-          "text": "Mørk vinrød",
+          "text": "Den med mange lag",
           "scores": {
-            "fiolin": 2
+            "lok": 2
           }
         },
         {
           "id": "d",
-          "text": "Regnbuefarget",
+          "text": "Den som holder hodet kaldt",
           "scores": {
-            "xylofon": 2
+            "agurk": 2
           }
         },
         {
           "id": "e",
-          "text": "Sølv",
+          "text": "Den varme som rødmer lett",
           "scores": {
-            "triangel": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Brun som tre",
-          "scores": {
-            "gitar": 2,
-            "fiolin": 1
+            "tomat": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva liker du best med helgen?",
+      "text": "Hva slags vær liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Bål og gode samtaler",
+          "text": "Sol og varme",
           "scores": {
-            "gitar": 2
+            "paprika": 2,
+            "tomat": 1
           }
         },
         {
           "id": "b",
-          "text": "Gammeldans på lokalet",
+          "text": "Gyllen høst",
           "scores": {
-            "trekkspill": 2
+            "gresskar": 2
           }
         },
         {
           "id": "c",
-          "text": "En rolig konsert",
+          "text": "Kjølig og friskt",
           "scores": {
-            "fiolin": 2
+            "brokkoli": 2,
+            "agurk": 1
           }
         },
         {
           "id": "d",
-          "text": "Å leke og tulle",
+          "text": "Litt vind og regn",
           "scores": {
-            "xylofon": 2
+            "lok": 2
           }
         },
         {
           "id": "e",
-          "text": "Å øve på noe nytt",
+          "text": "Klarvær og frost",
           "scores": {
-            "blokkflote": 2
+            "gulrot": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva er din styrke?",
+      "text": "Hva er din skjulte egenskap?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg tar ordet",
+          "text": "Jeg ser lyst på alt",
           "scores": {
-            "trompet": 2
+            "gulrot": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg holder alle i takt",
+          "text": "Jeg blir bedre med tiden",
           "scores": {
-            "tromme": 2
+            "lok": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg har mange sider",
+          "text": "Jeg passer til alt",
           "scores": {
-            "trekkspill": 2,
-            "xylofon": 1
+            "potet": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg kommer inn akkurat når det trengs",
+          "text": "Jeg er mye sterkere enn folk tror",
           "scores": {
-            "triangel": 2
+            "brokkoli": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg får folk til å føle ting",
+          "text": "Jeg er egentlig en frukt",
           "scores": {
-            "fiolin": 2
+            "tomat": 2,
+            "gresskar": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg er enkel og ærlig",
+          "text": "Jeg kan være både mild og sterk",
           "scores": {
-            "blokkflote": 2
+            "paprika": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvor er du helst?",
+      "text": "Velg en rett:",
       "options": [
         {
           "id": "a",
-          "text": "På en scene",
+          "text": "Pizza",
           "scores": {
-            "trompet": 2
+            "tomat": 2
           }
         },
         {
           "id": "b",
-          "text": "I en garasje med bandet",
+          "text": "Suppe",
           "scores": {
-            "tromme": 2,
-            "gitar": 1
+            "gresskar": 2,
+            "lok": 1
           }
         },
         {
           "id": "c",
-          "text": "På en bygdefest",
+          "text": "Wok",
           "scores": {
-            "trekkspill": 2
+            "brokkoli": 2,
+            "paprika": 1
           }
         },
         {
           "id": "d",
-          "text": "I et klasserom",
+          "text": "Salat",
           "scores": {
-            "blokkflote": 2
+            "agurk": 2
           }
         },
         {
           "id": "e",
-          "text": "I et stort orkester",
+          "text": "Fiskeboller med poteter",
           "scores": {
-            "triangel": 2
+            "potet": 2
           }
         },
         {
           "id": "f",
-          "text": "På en lekeplass",
+          "text": "Smoothie",
           "scores": {
-            "xylofon": 2
+            "gulrot": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva sier folk om deg?",
+      "text": "Hva ville vennene dine sagt om deg?",
       "options": [
         {
           "id": "a",
-          "text": "«Du får alle til å synge med»",
+          "text": "«Alltid kul og avslappet»",
           "scores": {
-            "gitar": 2
+            "agurk": 2
           }
         },
         {
           "id": "b",
-          "text": "«Du er så elegant»",
+          "text": "«Så sprek og blid»",
           "scores": {
-            "fiolin": 2
+            "gulrot": 2
           }
         },
         {
           "id": "c",
-          "text": "«Du gjør alt til fest»",
+          "text": "«Full av overraskelser»",
           "scores": {
-            "trekkspill": 2
+            "paprika": 2
           }
         },
         {
           "id": "d",
-          "text": "«Du er så fargerik»",
+          "text": "«Det tok tid å bli kjent med deg, men det var verdt det»",
           "scores": {
-            "xylofon": 2
+            "lok": 2
           }
         },
         {
           "id": "e",
-          "text": "«Du er modigere enn folk tror»",
+          "text": "«Stor, rund og koselig»",
           "scores": {
-            "blokkflote": 2,
-            "triangel": 1
+            "gresskar": 2
           }
         },
         {
           "id": "f",
-          "text": "«Du er umulig å overse»",
+          "text": "«Kjempesunn og litt stolt av det»",
           "scores": {
-            "tromme": 2,
-            "trompet": 1
+            "brokkoli": 2
           }
         }
       ]
@@ -343,226 +336,226 @@
   ],
   "outcomes": [
     {
-      "id": "gitar",
-      "name": "Gitar",
-      "shareName": "en gitar",
+      "id": "gulrot",
+      "name": "Gulrot",
+      "shareName": "en gulrot",
       "emoji": null,
-      "description": "Du er varm, avslappet og samler folk rundt bålet. Med deg blir det allsang før noen vet ordet av det.",
-      "funFact": "Den moderne klassiske gitaren fikk formen sin i Spania på 1800-tallet, blant annet takket være gitarbyggeren Antonio de Torres.",
-      "image": "images/2026-10-04/gitar.jpg",
+      "description": "Du er sprek, blid og full av energi. Du ser lyst på det meste og har røttene godt plantet.",
+      "funFact": "De første dyrkede gulrøttene var lilla og gule. Den oransje gulrota ble vanlig først på 1600-tallet, blant annet i Nederland.",
+      "image": "images/2026-10-04/gulrot.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Samlende",
-          "text": "Alle synger med."
+          "title": "Sprek",
+          "text": "Alltid klar for tur."
         },
         {
-          "title": "Avslappet",
-          "text": "Tar det på gehør."
+          "title": "Blid",
+          "text": "Oransje humør hele dagen."
         },
+        {
+          "title": "Sprø",
+          "text": "Knasende morsom."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Røttene på plass."
+        }
+      ]
+    },
+    {
+      "id": "brokkoli",
+      "name": "Brokkoli",
+      "shareName": "en brokkoli",
+      "emoji": null,
+      "description": "Du er sterk, sunn og mye tøffere enn folk tror. Du ser ut som et lite tre og står like støtt.",
+      "funFact": "Brokkoli er samme planteart som blomkål, hodekål og rosenkål, bare foredlet på forskjellige måter.",
+      "image": "images/2026-10-04/brokkoli.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på deg."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står rakt som et tre."
+        },
+        {
+          "title": "Grønn",
+          "text": "Elsker natur og friluft."
+        }
+      ]
+    },
+    {
+      "id": "tomat",
+      "name": "Tomat",
+      "shareName": "en tomat",
+      "emoji": null,
+      "description": "Du er varm, saftig og litt sjenert. Du har mye italiensk temperament under det røde skallet.",
+      "funFact": "Botanisk sett er tomaten et bær.",
+      "image": "images/2026-10-04/tomat.jpg",
+      "imageCredit": null,
+      "traits": [
         {
           "title": "Varm",
-          "text": "Myke, gode toner."
+          "text": "Rødmer lett."
         },
         {
-          "title": "Allsidig",
-          "text": "Spiller alle sjangre."
-        }
-      ]
-    },
-    {
-      "id": "tromme",
-      "name": "Tromme",
-      "shareName": "en tromme",
-      "emoji": null,
-      "description": "Du er energisk og holder takten for alle rundt deg. Du merkes godt, og det er helt greit.",
-      "funFact": "Trommer er blant verdens eldste instrumenter og finnes i nesten alle kulturer.",
-      "image": "images/2026-10-04/tromme.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Rytmisk",
-          "text": "Takten sitter i kroppen."
-        },
-        {
-          "title": "Energisk",
-          "text": "Full av kraft."
-        },
-        {
-          "title": "Bestemt",
-          "text": "Slår an tonen."
-        },
-        {
-          "title": "Høylytt",
-          "text": "Ingen kan overhøre deg."
-        }
-      ]
-    },
-    {
-      "id": "trompet",
-      "name": "Trompet",
-      "shareName": "en trompet",
-      "emoji": null,
-      "description": "Du er modig, tydelig og elsker å ta ordet. Når du kommer inn, vet alle det.",
-      "funFact": "Hvis du hadde rettet ut røret i en vanlig trompet, ville det vært nesten halvannen meter langt.",
-      "image": "images/2026-10-04/trompet.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Tydelig",
-          "text": "Sier ting rett ut."
-        },
-        {
-          "title": "Modig",
-          "text": "Tør å stå fremst."
-        },
-        {
-          "title": "Skinnende",
-          "text": "Blank som gull."
-        },
-        {
-          "title": "Festlig",
-          "text": "Blåser liv i alt."
-        }
-      ]
-    },
-    {
-      "id": "fiolin",
-      "name": "Fiolin",
-      "shareName": "en fiolin",
-      "emoji": null,
-      "description": "Du er følsom, elegant og full av stemninger. Du kan få hvem som helst til å felle en tåre.",
-      "funFact": "En fiolin er satt sammen av rundt 70 små deler, de fleste av tre.",
-      "image": "images/2026-10-04/fiolin.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Følsom",
-          "text": "Kjenner alt sterkt."
-        },
-        {
-          "title": "Elegant",
-          "text": "Stilig til fingerspissene."
-        },
-        {
-          "title": "Dyktig",
-          "text": "Øvelse gjør mester."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Tankene spiller videre."
-        }
-      ]
-    },
-    {
-      "id": "trekkspill",
-      "name": "Trekkspill",
-      "shareName": "et trekkspill",
-      "emoji": null,
-      "description": "Du er festlig, sosial og har mange sider. Du puster liv i enhver bygdefest.",
-      "funFact": "Trekkspillet har luft i en belg som presses gjennom små metalltunger, og det er et av de mest brukte instrumentene i norsk gammeldans.",
-      "image": "images/2026-10-04/trekkspill.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Festlig",
-          "text": "Starter dansen."
+          "title": "Saftig",
+          "text": "Full av liv."
         },
         {
           "title": "Sosial",
-          "text": "Elsker et fullt lokale."
+          "text": "Passer i alt godt."
         },
         {
-          "title": "Mangfoldig",
-          "text": "Mange knapper å trykke."
-        },
-        {
-          "title": "Tradisjonell",
-          "text": "Glad i gammeldans."
+          "title": "Overraskende",
+          "text": "Egentlig et bær."
         }
       ]
     },
     {
-      "id": "triangel",
-      "name": "Triangel",
-      "shareName": "en triangel",
+      "id": "potet",
+      "name": "Potet",
+      "shareName": "en potet",
       "emoji": null,
-      "description": "Du er liten, men du høres godt. Du kommer inn akkurat når det trengs, og da skinner du.",
-      "funFact": "Triangelen er ikke helt lukket. Den lille åpningen i ett hjørne gjør at den klinger lenger og friere.",
-      "image": "images/2026-10-04/triangel.jpg",
+      "description": "Du er jordnær, trygg og passer inn overalt. Alle trenger en som deg på middagsbordet.",
+      "funFact": "Poteten ble vanlig i Norge på 1700-tallet, og prestene som reklamerte for den, ble kalt potetprester.",
+      "image": "images/2026-10-04/potet.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Presis",
-          "text": "Treffer alltid riktig."
+          "title": "Trygg",
+          "text": "Alle kan stole på deg."
         },
         {
-          "title": "Beskjeden",
-          "text": "Trenger lite plass."
+          "title": "Allsidig",
+          "text": "Passer i alt."
         },
         {
-          "title": "Klar",
-          "text": "Tonen høres tydelig."
+          "title": "Jordnær",
+          "text": "Beina godt plantet."
         },
         {
-          "title": "Tålmodig",
-          "text": "Venter på ditt øyeblikk."
+          "title": "Folkekjær",
+          "text": "Alle liker deg."
         }
       ]
     },
     {
-      "id": "xylofon",
-      "name": "Xylofon",
-      "shareName": "en xylofon",
+      "id": "agurk",
+      "name": "Agurk",
+      "shareName": "en agurk",
       "emoji": null,
-      "description": "Du er fargerik, leken og full av glede. Du gjør alt litt morsommere bare ved å være der.",
-      "funFact": "Navnet xylofon kommer fra gresk og betyr «trelyd».",
-      "image": "images/2026-10-04/xylofon.jpg",
+      "description": "Du er kul, rolig og forfriskende å være sammen med. Du holder hodet kaldt selv når det koker rundt deg.",
+      "funFact": "En agurk består av rundt 95 prosent vann.",
+      "image": "images/2026-10-04/agurk.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Leken",
-          "text": "Alltid klar for moro."
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
         },
+        {
+          "title": "Frisk",
+          "text": "Forfriskende selskap."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress her."
+        },
+        {
+          "title": "Lett",
+          "text": "Nesten bare vann."
+        }
+      ]
+    },
+    {
+      "id": "gresskar",
+      "name": "Gresskar",
+      "shareName": "et gresskar",
+      "emoji": null,
+      "description": "Du er stor, rund og full av høstkos. Du lyser opp mørke kvelder og gjør alt litt mer festlig.",
+      "funFact": "Gresskar er i samme plantefamilie som agurk, squash og melon.",
+      "image": "images/2026-10-04/gresskar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Mester i høstkos."
+        },
+        {
+          "title": "Festlig",
+          "text": "Elsker å pynte."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        },
+        {
+          "title": "Lysende",
+          "text": "Lyser opp mørket."
+        }
+      ]
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "shareName": "en paprika",
+      "emoji": null,
+      "description": "Du er fargerik og full av overraskelser. Du kan være både mild og sterk, alt etter dagen.",
+      "funFact": "Grønn paprika er som regel bare en paprika som er høstet før den har blitt moden og fått farge.",
+      "image": "images/2026-10-04/paprika.jpg",
+      "imageCredit": null,
+      "traits": [
         {
           "title": "Fargerik",
-          "text": "Én farge per tone."
+          "text": "Rød, gul eller grønn."
         },
         {
-          "title": "Glad",
-          "text": "Smitter over på alle."
+          "title": "Variert",
+          "text": "Aldri helt lik."
         },
         {
-          "title": "Kreativ",
-          "text": "Finner på nye melodier."
+          "title": "Sprø",
+          "text": "Knaser av glede."
+        },
+        {
+          "title": "Spennende",
+          "text": "Full av overraskelser."
         }
       ]
     },
     {
-      "id": "blokkflote",
-      "name": "Blokkfløyte",
-      "shareName": "en blokkfløyte",
+      "id": "lok",
+      "name": "Løk",
+      "shareName": "en løk",
       "emoji": null,
-      "description": "Du er enkel, ærlig og modigere enn folk tror. Mange startet med deg, og ingen har glemt deg.",
-      "funFact": "Blokkfløyta var svært populær i barokken, og både Bach og Händel skrev musikk for den.",
-      "image": "images/2026-10-04/blokkflote.jpg",
+      "description": "Du er full av lag og store følelser. Du gjør alt du er med på litt bedre.",
+      "funFact": "Løk får deg til å gråte fordi den slipper ut en gass som irriterer øynene når du skjærer i den.",
+      "image": "images/2026-10-04/lok.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ærlig",
-          "text": "Alltid rett fram."
+          "title": "Dyp",
+          "text": "Mange lag inni."
         },
         {
-          "title": "Modig",
-          "text": "Spiller foran hele klassen."
+          "title": "Følsom",
+          "text": "Rører folk til tårer."
         },
         {
-          "title": "Enkel",
-          "text": "Liker det ukompliserte."
+          "title": "Viktig",
+          "text": "Ingen middag uten deg."
         },
         {
-          "title": "Minnerik",
-          "text": "Alle husker deg."
+          "title": "Tøff",
+          "text": "Står imot det meste."
         }
       ]
     }

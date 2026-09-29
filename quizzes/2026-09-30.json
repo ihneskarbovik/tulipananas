@@ -1,334 +1,341 @@
 {
   "id": "2026-09-30",
   "date": "2026-09-30",
-  "title": "Hva slags vær er du i dag?",
-  "intro": "Sjekk værmeldingen for sjelen din. Det kan bli både sol og byger.",
+  "title": "Hvilken pastatype er du i dag?",
+  "intro": "Kok opp vann, tilsett en klype salt og finn ut hvilken pasta du er i dag. Al dente anbefales.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan våknet du i dag?",
+      "text": "Hvordan er humøret ditt i dag?",
       "options": [
         {
           "id": "a",
-          "text": "Strålende fornøyd",
+          "text": "Litt vrient, men i godt driv",
           "scores": {
-            "sol": 2
+            "fusilli": 2
           }
         },
         {
           "id": "b",
-          "text": "Litt grinete, ærlig talt",
+          "text": "Lett og flagrende",
           "scores": {
-            "torden": 2
+            "farfalle": 2
           }
         },
         {
           "id": "c",
-          "text": "Trøtt og tåkete i hodet",
+          "text": "Rolig og lagdelt",
           "scores": {
-            "take": 2
+            "lasagne": 2
           }
         },
         {
           "id": "d",
-          "text": "Rolig og litt drømmende",
+          "text": "Klassisk godt",
           "scores": {
-            "sno": 2,
-            "nordlys": 1
+            "spagetti": 2
           }
         },
         {
           "id": "e",
-          "text": "Rastløs – jeg må ut og bevege meg",
+          "text": "Full av hemmeligheter",
           "scores": {
-            "bris": 2
+            "ravioli": 2
           }
         },
         {
           "id": "f",
-          "text": "Glad, etter en litt tung kveld",
+          "text": "Enkelt og fornøyd",
           "scores": {
-            "regnbue": 2
+            "makaroni": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva har du lyst til å gjøre i kveld?",
+      "text": "Hva gjør du helst en fredagskveld?",
       "options": [
         {
           "id": "a",
-          "text": "Se en film under et pledd",
+          "text": "Stor middag med hele familien",
           "scores": {
-            "regn": 2
+            "lasagne": 2,
+            "spagetti": 1
           }
         },
         {
           "id": "b",
-          "text": "Ligge ute og se på stjernene",
+          "text": "Film og kos i sofaen",
           "scores": {
-            "nordlys": 2
+            "makaroni": 2
           }
         },
         {
           "id": "c",
-          "text": "Danse vilt til høy musikk",
+          "text": "Går ut og danser",
           "scores": {
-            "torden": 2,
-            "bris": 1
+            "farfalle": 2,
+            "fusilli": 1
           }
         },
         {
           "id": "d",
-          "text": "Grille med venner",
+          "text": "Lager noe hjemmelaget fra bunnen av",
           "scores": {
-            "sol": 2
+            "tagliatelle": 2
           }
         },
         {
           "id": "e",
-          "text": "Lage noe kreativt",
+          "text": "Overrasker noen med en gave",
           "scores": {
-            "regnbue": 2
+            "ravioli": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Trener, og så rett i seng",
+          "scores": {
+            "penne": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Velg en farge:",
+      "text": "Velg en saus:",
       "options": [
         {
           "id": "a",
-          "text": "Gul",
+          "text": "Tomatsaus med kjøttdeig",
           "scores": {
-            "sol": 2
+            "spagetti": 2
           }
         },
         {
           "id": "b",
-          "text": "Grå",
+          "text": "Fløtesaus med sopp",
           "scores": {
-            "take": 2,
-            "regn": 1
+            "tagliatelle": 2
           }
         },
         {
           "id": "c",
-          "text": "Hvit",
+          "text": "Ostesaus – og mye av den",
           "scores": {
-            "sno": 2
+            "makaroni": 2
           }
         },
         {
           "id": "d",
-          "text": "Grønn",
+          "text": "Pesto",
           "scores": {
-            "nordlys": 2
+            "fusilli": 2,
+            "farfalle": 1
           }
         },
         {
           "id": "e",
-          "text": "Alle sammen!",
+          "text": "Smør og salvie",
           "scores": {
-            "regnbue": 2
+            "ravioli": 2
           }
         },
         {
           "id": "f",
-          "text": "Lyseblå",
+          "text": "Sterk tomatsaus med chili",
           "scores": {
-            "bris": 2
+            "penne": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan er du i en diskusjon?",
+      "text": "Hvordan er du i en gruppe?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg tordner løs",
+          "text": "Den som holder alt sammen",
           "scores": {
-            "torden": 2
+            "lasagne": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg lytter og holder meg litt i bakgrunnen",
+          "text": "Den som er med på alt",
           "scores": {
-            "take": 2
+            "spagetti": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg prøver å få alle til å bli venner igjen",
+          "text": "Den effektive som får ting gjort",
           "scores": {
-            "regnbue": 2,
-            "sol": 1
+            "penne": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg bytter mening like fort som vinden",
+          "text": "Den som gjør alt litt penere",
           "scores": {
-            "bris": 2
+            "farfalle": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg blir stille og lar det renne av meg",
+          "text": "Den som snakker rett fra hjertet",
           "scores": {
-            "regn": 2
+            "ravioli": 2,
+            "tagliatelle": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva er drømmeferien?",
+      "text": "Hvor ville du helst bodd?",
       "options": [
         {
           "id": "a",
-          "text": "Strandferie i sørlandssol",
+          "text": "I en koselig leilighet i Roma",
           "scores": {
-            "sol": 2
+            "spagetti": 2
           }
         },
         {
           "id": "b",
-          "text": "Skiferie i dyp snø",
+          "text": "På en vingård i Toscana",
           "scores": {
-            "sno": 2
+            "tagliatelle": 2
           }
         },
         {
           "id": "c",
-          "text": "Nord-Norge i mørketida",
+          "text": "I en storby med mye tempo",
           "scores": {
-            "nordlys": 2
+            "penne": 2,
+            "fusilli": 1
           }
         },
         {
           "id": "d",
-          "text": "Seiltur langs kysten",
+          "text": "I et fargerikt hus ved sjøen",
           "scores": {
-            "bris": 2
+            "farfalle": 2
           }
         },
         {
           "id": "e",
-          "text": "Ei hytte i skogen med regnet på taket",
+          "text": "I et stort hus med plass til alle",
           "scores": {
-            "regn": 2,
-            "take": 1
+            "lasagne": 2
           }
         },
         {
           "id": "f",
-          "text": "Et mystisk slott i Skottland",
+          "text": "Der det er varmt og trygt",
           "scores": {
-            "take": 2
+            "makaroni": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilket dyr ville du vært?",
+      "text": "Hva er supermakten din?",
       "options": [
         {
           "id": "a",
-          "text": "En isbjørn",
+          "text": "Å holde på alt – spesielt saus",
           "scores": {
-            "sno": 2
+            "fusilli": 2
           }
         },
         {
           "id": "b",
-          "text": "En and som elsker dammer",
+          "text": "Å være god i alt",
           "scores": {
-            "regn": 2
+            "penne": 2
           }
         },
         {
           "id": "c",
-          "text": "En løve med stort brøl",
+          "text": "Å ha overraskelser inni meg",
           "scores": {
-            "torden": 2
+            "ravioli": 2
           }
         },
         {
           "id": "d",
-          "text": "En papegøye",
+          "text": "Å få alle til å føle seg som barn igjen",
           "scores": {
-            "regnbue": 2
+            "makaroni": 2
           }
         },
         {
           "id": "e",
-          "text": "En rein på vidda",
+          "text": "Å være elegant uten å prøve",
           "scores": {
-            "nordlys": 2,
-            "sno": 1
+            "tagliatelle": 2
           }
         },
         {
           "id": "f",
-          "text": "En ugle i skumringen",
+          "text": "Å strekke meg langt",
           "scores": {
-            "take": 2
+            "spagetti": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva sier folk når du kommer inn i rommet?",
+      "text": "Hva ville vennene dine sagt om deg?",
       "options": [
         {
           "id": "a",
-          "text": "«Endelig! Nå ble det lysere her»",
+          "text": "«Du har så mange lag»",
           "scores": {
-            "sol": 2
+            "lasagne": 2
           }
         },
         {
           "id": "b",
-          "text": "«Å, så fint!»",
+          "text": "«Du er alltid i spinn»",
           "scores": {
-            "regnbue": 2
+            "fusilli": 2
           }
         },
         {
           "id": "c",
-          "text": "«Hold dere fast!»",
+          "text": "«Du er så søt og sjarmerende»",
           "scores": {
-            "torden": 2,
-            "bris": 1
+            "farfalle": 2,
+            "makaroni": 1
           }
         },
         {
           "id": "d",
-          "text": "«Wow, hvor kom du fra?»",
+          "text": "«Du er skarp i kantene, på en god måte»",
           "scores": {
-            "nordlys": 2
+            "penne": 2
           }
         },
         {
           "id": "e",
-          "text": "«Så deilig og rolig det ble»",
+          "text": "«Du er stilig og litt fancy»",
           "scores": {
-            "sno": 2
+            "tagliatelle": 2
           }
         },
         {
           "id": "f",
-          "text": "«Kom inn, du ser litt våt ut»",
+          "text": "«Det du har inni er det beste»",
           "scores": {
-            "regn": 2
+            "ravioli": 2,
+            "lasagne": 1
           }
         }
       ]
@@ -336,226 +343,226 @@
   ],
   "outcomes": [
     {
-      "id": "sol",
-      "name": "Solskinn",
-      "shareName": "solskinn",
+      "id": "spagetti",
+      "name": "Spagetti",
+      "shareName": "en spagetti",
       "emoji": null,
-      "description": "Du er solskinn og sprer varme overalt der du går. I dag blir alle i nærheten litt gladere av deg.",
-      "funFact": "Lyset fra sola bruker litt over åtte minutter på å nå fram til jorda.",
-      "image": "images/2026-09-30/sol.jpg",
+      "description": "Du er en ekte klassiker som alle blir glade av. Du er lang, fleksibel og alltid klar for en god middag.",
+      "funFact": "Spaghetti betyr «små hyssinger» på italiensk.",
+      "image": "images/2026-09-30/spagetti.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Strålende",
-          "text": "Lyser opp hele rommet."
+          "title": "Klassisk",
+          "text": "Alle kjenner og elsker deg."
         },
         {
-          "title": "Varm",
-          "text": "Varmer hender og hjerter."
+          "title": "Fleksibel",
+          "text": "Bøyer deg etter situasjonen."
         },
         {
-          "title": "Positiv",
-          "text": "Ser alltid lyse sider."
+          "title": "Sosial",
+          "text": "Best i en stor haug."
         },
         {
-          "title": "Tidlig",
-          "text": "Står opp med hanen."
+          "title": "Utholdende",
+          "text": "Strekker deg langt."
         }
       ]
     },
     {
-      "id": "regn",
-      "name": "Regnbyge",
-      "shareName": "en regnbyge",
+      "id": "penne",
+      "name": "Penne",
+      "shareName": "en penne",
       "emoji": null,
-      "description": "Du er en regnbyge som får ting til å vokse. Du liker rolige dager, varme sokker og lyden av dråper mot vinduet.",
-      "funFact": "Store regndråper er ikke formet som dråper når de faller, men er runde og flate i bunnen, litt som en hamburgerbolle.",
-      "image": "images/2026-09-30/regn.jpg",
+      "description": "Du er effektiv, skarp og god på det meste. Du har retning og får ting gjort.",
+      "funFact": "Penne betyr «fjærpenner» på italiensk, fordi de skrå endene ligner tuppen på en gammeldags fjærpenn.",
+      "image": "images/2026-09-30/penne.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Koselig",
-          "text": "Elsker pledd og te."
+          "title": "Effektiv",
+          "text": "Får ting gjort."
         },
         {
-          "title": "Hjemmekjær",
-          "text": "Trives best innendørs."
+          "title": "Skarp",
+          "text": "Spiss i kantene."
         },
         {
-          "title": "Givende",
-          "text": "Får alt til å vokse."
+          "title": "Allsidig",
+          "text": "Passer til alt."
         },
         {
-          "title": "Ærlig",
-          "text": "Viser følelsene dine."
+          "title": "Sprek",
+          "text": "Alltid i form."
         }
       ]
     },
     {
-      "id": "sno",
-      "name": "Snøfall",
-      "shareName": "snøfall",
+      "id": "fusilli",
+      "name": "Fusilli",
+      "shareName": "en fusilli",
       "emoji": null,
-      "description": "Du er stille, myk og litt magisk. Du gjør verden roligere bare ved å være til stede.",
-      "funFact": "Nesten alle snøkrystaller har seks armer, men ingen to ser helt like ut.",
-      "image": "images/2026-09-30/sno.jpg",
+      "description": "Du er full av energi og snurrer rundt i full fart. Du holder godt på det som betyr noe.",
+      "funFact": "Navnet fusilli kommer fra det italienske ordet «fuso», som betyr spindel, fordi pastaen ble laget ved å rulle deigen rundt en tynn stav.",
+      "image": "images/2026-09-30/fusilli.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Stille",
-          "text": "Gjør alt litt roligere."
-        },
-        {
-          "title": "Unik",
-          "text": "Ingen er helt like deg."
+          "title": "Energisk",
+          "text": "Alltid i spinn."
         },
         {
           "title": "Leken",
-          "text": "Klar for snøballkrig."
+          "text": "Litt vri på alt."
         },
         {
-          "title": "Myk",
-          "text": "Lander alltid mykt."
-        }
-      ]
-    },
-    {
-      "id": "take",
-      "name": "Tåke",
-      "shareName": "tåke",
-      "emoji": null,
-      "description": "Du er mystisk og litt vanskelig å få tak på. Folk vet aldri helt hva som skjuler seg i deg.",
-      "funFact": "Tåke er egentlig en sky som ligger helt nede ved bakken.",
-      "image": "images/2026-09-30/take.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Mystisk",
-          "text": "Full av hemmeligheter."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Tankene svever av gårde."
-        },
-        {
-          "title": "Sindig",
-          "text": "Beveger deg sakte."
-        },
-        {
-          "title": "Stemningsfull",
-          "text": "Gjør alt litt magisk."
-        }
-      ]
-    },
-    {
-      "id": "torden",
-      "name": "Tordenvær",
-      "shareName": "et tordenvær",
-      "emoji": null,
-      "description": "Du er full av kraft og merkes lang vei. Når du først sier ifra, rister det i veggene.",
-      "funFact": "Tell sekundene fra lynet til tordenet og del på tre, så vet du omtrent hvor mange kilometer unna uværet er.",
-      "image": "images/2026-09-30/torden.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kraftfull",
-          "text": "Merkes lang vei."
-        },
-        {
-          "title": "Lidenskapelig",
-          "text": "Føler alt veldig sterkt."
-        },
-        {
-          "title": "Modig",
-          "text": "Tør å si ifra."
-        },
-        {
-          "title": "Dramatisk",
-          "text": "Elsker en stor entré."
-        }
-      ]
-    },
-    {
-      "id": "regnbue",
-      "name": "Regnbue",
-      "shareName": "en regnbue",
-      "emoji": null,
-      "description": "Du er fargerik og dukker opp akkurat når noen trenger deg. Du viser at noe fint kan komme etter en grå dag.",
-      "funFact": "Du kan bare se en regnbue når sola er bak deg og regnet er foran deg.",
-      "image": "images/2026-09-30/regnbue.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Fargerik",
-          "text": "Umulig å overse."
-        },
-        {
-          "title": "Håpefull",
-          "text": "Tror alltid på bedring."
+          "title": "Grepsfast",
+          "text": "Holder på sausen."
         },
         {
           "title": "Kreativ",
-          "text": "Full av ideer."
-        },
-        {
-          "title": "Samlende",
-          "text": "Får alle til å smile."
+          "text": "Tenker i spiraler."
         }
       ]
     },
     {
-      "id": "bris",
-      "name": "Frisk bris",
-      "shareName": "en frisk bris",
+      "id": "farfalle",
+      "name": "Farfalle",
+      "shareName": "en farfalle",
       "emoji": null,
-      "description": "Du er full av nye ideer og liker ikke å stå stille. Du tar med deg frisk luft overalt du går.",
-      "funFact": "Vind måles ofte på Beauforts skala, som går fra 0 (stille) til 12 (orkan). Frisk bris er nummer 5.",
-      "image": "images/2026-09-30/bris.jpg",
+      "description": "Du er sjarmerende, lett og litt festpyntet. Du gjør hverdagen penere bare ved å være med.",
+      "funFact": "Farfalle betyr «sommerfugler» på italiensk, men på norsk kalles den ofte sløyfepasta.",
+      "image": "images/2026-09-30/farfalle.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Rastløs",
-          "text": "Må alltid videre."
+          "title": "Sjarmerende",
+          "text": "Pen som en sløyfe."
         },
         {
-          "title": "Frisk",
-          "text": "Blåser bort gråværet."
+          "title": "Lett",
+          "text": "Flagrer gjennom dagen."
         },
         {
-          "title": "Spontan",
-          "text": "Skifter retning plutselig."
+          "title": "Festlig",
+          "text": "Alltid litt pyntet."
         },
         {
           "title": "Fri",
-          "text": "Lar deg ikke stoppe."
+          "text": "Lar deg ikke stenge inne."
         }
       ]
     },
     {
-      "id": "nordlys",
-      "name": "Nordlys",
-      "shareName": "nordlys",
+      "id": "lasagne",
+      "name": "Lasagne",
+      "shareName": "en lasagne",
       "emoji": null,
-      "description": "Du er sjelden, magisk og får folk til å måpe. Du trives best når det er mørkt og stille rundt deg.",
-      "funFact": "Nordlyset oppstår når partikler fra sola treffer atmosfæren, og det grønne lyset kommer fra oksygen.",
-      "image": "images/2026-09-30/nordlys.jpg",
+      "description": "Du er varm, raus og full av lag. Du samler folk rundt bordet og holder alt sammen.",
+      "funFact": "Lasagne er en av de eldste pastatypene, og ordet kan spores tilbake til gresk «laganon», en flat deigplate.",
+      "image": "images/2026-09-30/lasagne.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Magisk",
-          "text": "Får folk til å måpe."
+          "title": "Lagdelt",
+          "text": "Mer enn det ser ut."
         },
         {
-          "title": "Sjelden",
-          "text": "Ikke hver dag, dessverre."
+          "title": "Raus",
+          "text": "Nok til alle."
         },
         {
-          "title": "Nattmenneske",
-          "text": "Våkner når det mørkner."
+          "title": "Samlende",
+          "text": "Holder alt sammen."
         },
         {
-          "title": "Uforutsigbar",
-          "text": "Dukker opp når du vil."
+          "title": "Tålmodig",
+          "text": "Blir best i ovnen."
+        }
+      ]
+    },
+    {
+      "id": "ravioli",
+      "name": "Ravioli",
+      "shareName": "en ravioli",
+      "emoji": null,
+      "description": "Du er full av gode overraskelser. Det viktigste med deg er det du har inni.",
+      "funFact": "Ravioli var populært i Italia allerede i middelalderen og nevnes i Boccaccios fortellingssamling Dekameron fra 1300-tallet.",
+      "image": "images/2026-09-30/ravioli.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Full av gode ting."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk innerst inne."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Pakker inn med omhu."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Viser ikke alt."
+        }
+      ]
+    },
+    {
+      "id": "tagliatelle",
+      "name": "Tagliatelle",
+      "shareName": "en tagliatelle",
+      "emoji": null,
+      "description": "Du er stilig, elegant og litt fancy. Du liker gode råvarer og ting som er laget med kjærlighet.",
+      "funFact": "Tagliatelle kommer fra Emilia-Romagna i Nord-Italia, og navnet kommer fra «tagliare», som betyr å skjære.",
+      "image": "images/2026-09-30/tagliatelle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stilig i alle situasjoner."
+        },
+        {
+          "title": "Kvalitetsbevisst",
+          "text": "Bare det beste."
+        },
+        {
+          "title": "Hjemmekoselig",
+          "text": "Laget fra bunnen av."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar deg god tid."
+        }
+      ]
+    },
+    {
+      "id": "makaroni",
+      "name": "Makaroni",
+      "shareName": "en makaroni",
+      "emoji": null,
+      "description": "Du er enkel, trygg og umulig å ikke like. Du får alle til å føle seg som barn igjen.",
+      "funFact": "I England på 1700-tallet ble ordet «macaroni» brukt om unge menn som kledde seg ekstra fancy etter å ha vært på reise i Italia.",
+      "image": "images/2026-09-30/makaroni.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid en god følelse."
+        },
+        {
+          "title": "Barnslig",
+          "text": "På en god måte."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det ukompliserte."
+        },
+        {
+          "title": "Koselig",
+          "text": "Best med ostesaus."
         }
       ]
     }

@@ -1,245 +1,243 @@
 {
   "id": "2026-10-06",
   "date": "2026-10-06",
-  "title": "Hvilket eventyrvesen er du i dag?",
-  "intro": "Det var en gang ... deg! Finn ut hvilket eventyrvesen du er i dag.",
+  "title": "Hvilket sted i Norge er du i dag?",
+  "intro": "Fra fjord til fjell. Finn ut hvilket norsk sted som passer deg akkurat i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan er humøret ditt i dag?",
+      "text": "Hvordan starter du en perfekt dag?",
       "options": [
         {
           "id": "a",
-          "text": "Litt grumsete før frokost",
+          "text": "Med en tidlig fjelltur",
           "scores": {
-            "troll": 2
+            "preikestolen": 2
           }
         },
         {
           "id": "b",
-          "text": "Lurt og lekent",
+          "text": "Med kaffe på en brygge",
           "scores": {
-            "nisse": 2
+            "bryggen": 2,
+            "lofoten": 1
           }
         },
         {
           "id": "c",
-          "text": "Brennhett",
+          "text": "Med en stille stund for meg selv",
           "scores": {
-            "drage": 2
+            "nidaros": 2
           }
         },
         {
           "id": "d",
-          "text": "Glitrende",
+          "text": "Med en skitur",
           "scores": {
-            "enhjorning": 2,
-            "fe": 1
+            "holmenkollen": 2
           }
         },
         {
           "id": "e",
-          "text": "Drømmende",
+          "text": "Med en biltur og god musikk",
           "scores": {
-            "havfrue": 2
+            "atlanterhavsveien": 2
           }
         },
         {
           "id": "f",
-          "text": "Mystisk",
+          "text": "Med utsikt over vannet",
           "scores": {
-            "nokken": 2,
-            "huldra": 1
+            "geiranger": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvor bor du helst?",
+      "text": "Hva slags vær liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Under en bro",
+          "text": "Midnattssol",
           "scores": {
-            "troll": 2
+            "nordkapp": 2
           }
         },
         {
           "id": "b",
-          "text": "På låven",
+          "text": "Regn – det hører med",
           "scores": {
-            "nisse": 2
+            "bryggen": 2
           }
         },
         {
           "id": "c",
-          "text": "I en hule full av gull",
+          "text": "Kaldt og snøfullt",
           "scores": {
-            "drage": 2
+            "holmenkollen": 2
           }
         },
         {
           "id": "d",
-          "text": "I et regnbueland",
+          "text": "Storm og høye bølger",
           "scores": {
-            "enhjorning": 2
+            "atlanterhavsveien": 2
           }
         },
         {
           "id": "e",
-          "text": "I havet",
+          "text": "Klarvær over fjorden",
           "scores": {
-            "havfrue": 2
+            "geiranger": 2,
+            "preikestolen": 1
           }
         },
         {
           "id": "f",
-          "text": "Ved et stille skogsvann",
+          "text": "Skiftende – alt på én dag",
           "scores": {
-            "nokken": 2,
-            "huldra": 1
+            "lofoten": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva er favorittmaten din?",
+      "text": "Hva er du mest glad i?",
       "options": [
         {
           "id": "a",
-          "text": "Grøt med smør",
+          "text": "Utsikt",
           "scores": {
-            "nisse": 2
+            "preikestolen": 2
           }
         },
         {
           "id": "b",
-          "text": "Alt jeg finner i skogen",
+          "text": "Historie",
           "scores": {
-            "huldra": 2,
-            "troll": 1
+            "nidaros": 2,
+            "bryggen": 1
           }
         },
         {
           "id": "c",
-          "text": "Grillmat – jeg tenner grillen selv",
+          "text": "Eventyr langt mot nord",
           "scores": {
-            "drage": 2
+            "nordkapp": 2
           }
         },
         {
           "id": "d",
-          "text": "Honning og blomsternektar",
+          "text": "Fisk og frisk sjøluft",
           "scores": {
-            "fe": 2
+            "lofoten": 2
           }
         },
         {
           "id": "e",
-          "text": "Sushi",
+          "text": "Spenning og fart",
           "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Sukkerspinn",
-          "scores": {
-            "enhjorning": 2
+            "holmenkollen": 2,
+            "atlanterhavsveien": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva er din beste egenskap?",
+      "text": "Hvordan er du i en gruppe?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg er sterk som bare det",
+          "text": "Den som tør mest",
           "scores": {
-            "troll": 2
+            "preikestolen": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg holder orden på alt",
+          "text": "Den som alltid går lengst",
           "scores": {
-            "nisse": 2
+            "nordkapp": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg ser det fine i alle",
+          "text": "Den mest fargerike",
           "scores": {
-            "enhjorning": 2
+            "bryggen": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg synger vakkert",
+          "text": "Den rolige og kloke",
           "scores": {
-            "havfrue": 2,
-            "nokken": 1
+            "nidaros": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg er fri og vill",
+          "text": "Den som får alle til å måpe",
           "scores": {
-            "huldra": 2
+            "geiranger": 2
           }
         },
         {
           "id": "f",
-          "text": "Jeg kan gjøre meg bitteliten",
+          "text": "Den kunstneriske",
           "scores": {
-            "fe": 2
+            "lofoten": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva gjør du en søndag?",
+      "text": "Velg en snacks:",
       "options": [
         {
           "id": "a",
-          "text": "Sover lenge i en hule",
+          "text": "Fiskesuppe",
           "scores": {
-            "drage": 2,
-            "troll": 1
+            "bryggen": 2
           }
         },
         {
           "id": "b",
-          "text": "Flyr rundt og hjelper andre",
+          "text": "Tørrfisk",
           "scores": {
-            "fe": 2
+            "lofoten": 2
           }
         },
         {
           "id": "c",
-          "text": "Svømmer i et vann",
+          "text": "Appelsin og sjokolade på toppen",
           "scores": {
-            "nokken": 2,
-            "havfrue": 1
+            "holmenkollen": 2,
+            "preikestolen": 1
           }
         },
         {
           "id": "d",
-          "text": "Går på tur i skogen",
+          "text": "Svele på ferja",
           "scores": {
-            "huldra": 2
+            "geiranger": 2
           }
         },
         {
           "id": "e",
-          "text": "Lager overraskelser til noen",
+          "text": "Sjokolade i bilen",
           "scores": {
-            "nisse": 2
+            "atlanterhavsveien": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Varm kakao ved verdens ende",
+          "scores": {
+            "nordkapp": 2
           }
         }
       ]
@@ -250,45 +248,37 @@
       "options": [
         {
           "id": "a",
-          "text": "Å bli usynlig",
+          "text": "Å se langt, langt unna",
           "scores": {
-            "huldra": 2
+            "nordkapp": 2
           }
         },
         {
           "id": "b",
-          "text": "Å forvandle meg",
+          "text": "Å holde meg rolig i stormen",
           "scores": {
-            "nokken": 2
+            "atlanterhavsveien": 2
           }
         },
         {
           "id": "c",
-          "text": "Å fly",
+          "text": "Å gi folk håp",
           "scores": {
-            "fe": 2,
-            "drage": 1
+            "nidaros": 2
           }
         },
         {
           "id": "d",
-          "text": "Å helbrede",
+          "text": "Å fly",
           "scores": {
-            "enhjorning": 2
+            "holmenkollen": 2
           }
         },
         {
           "id": "e",
-          "text": "Å puste under vann",
+          "text": "Å være vakker uten å prøve",
           "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Å flytte fjell",
-          "scores": {
-            "troll": 2
+            "geiranger": 2
           }
         }
       ]
@@ -299,46 +289,47 @@
       "options": [
         {
           "id": "a",
-          "text": "«Liten, men lur»",
+          "text": "«Du står støtt, uansett»",
           "scores": {
-            "nisse": 1,
-            "huldra": 1
+            "preikestolen": 2
           }
         },
         {
           "id": "b",
-          "text": "«Stor og snill – egentlig»",
+          "text": "«Du er en ekte klassiker»",
           "scores": {
-            "troll": 2
+            "nidaros": 2
           }
         },
         {
           "id": "c",
-          "text": "«Et hjerte av gull»",
+          "text": "«Du svinger deg gjennom alt»",
           "scores": {
-            "drage": 2
+            "atlanterhavsveien": 2
           }
         },
         {
           "id": "d",
-          "text": "«Helt magisk»",
+          "text": "«Du er så vakker at det nesten er urettferdig»",
           "scores": {
-            "enhjorning": 2
+            "geiranger": 2,
+            "lofoten": 1
           }
         },
         {
           "id": "e",
-          "text": "«Litt vanskelig å bli klok på»",
+          "text": "«Du elsker å være på toppen»",
           "scores": {
-            "nokken": 2,
-            "huldra": 1
+            "holmenkollen": 2,
+            "nordkapp": 1
           }
         },
         {
           "id": "f",
-          "text": "«Så lett på foten»",
+          "text": "«Du er full av sjarm»",
           "scores": {
-            "fe": 2
+            "lofoten": 2,
+            "bryggen": 1
           }
         }
       ]
@@ -346,226 +337,226 @@
   ],
   "outcomes": [
     {
-      "id": "troll",
-      "name": "Troll",
-      "shareName": "et troll",
+      "id": "preikestolen",
+      "name": "Preikestolen",
+      "shareName": "Preikestolen",
       "emoji": null,
-      "description": "Du er stor, sterk og mye snillere enn folk tror. Du blir bare litt gretten når du er sulten.",
-      "funFact": "I norske folkeeventyr sprekker trollene hvis de ser sola.",
-      "image": "images/2026-10-06/troll.jpg",
+      "description": "Du er modig, stødig og har utsikt over alt. Du tar gjerne en tøff tur for å oppleve noe stort.",
+      "funFact": "Preikestolen er et flatt fjellplatå som ruver rundt 600 meter rett over Lysefjorden i Rogaland.",
+      "image": "images/2026-10-06/preikestolen.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sterk",
-          "text": "Flytter fjell."
+          "title": "Modig",
+          "text": "Tør å stå ytterst."
         },
         {
-          "title": "Snill",
-          "text": "Myk innerst inne."
+          "title": "Stødig",
+          "text": "Flat og trygg på toppen."
         },
         {
-          "title": "Gretten",
-          "text": "Bare før frokost."
+          "title": "Utsiktsglad",
+          "text": "Elsker en god utsikt."
         },
         {
-          "title": "Nattmenneske",
-          "text": "Unngår sola, selvfølgelig."
+          "title": "Tøff",
+          "text": "Tar de bratte bakkene."
         }
       ]
     },
     {
-      "id": "nisse",
-      "name": "Nisse",
-      "shareName": "en nisse",
+      "id": "nordkapp",
+      "name": "Nordkapp",
+      "shareName": "Nordkapp",
       "emoji": null,
-      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
-      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
-      "image": "images/2026-10-06/nisse.jpg",
+      "description": "Du er eventyrlysten og vil alltid litt lenger enn alle andre. Du trives best med horisonten i sikte.",
+      "funFact": "Nordkapp ligger på Magerøya i Finnmark, og der står midnattssola over horisonten fra midten av mai til slutten av juli.",
+      "image": "images/2026-10-06/nordkapp.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Lur",
-          "text": "Alltid et triks."
+          "title": "Eventyrlysten",
+          "text": "Vil alltid lenger."
         },
         {
-          "title": "Omsorgsfull",
-          "text": "Passer på gården."
+          "title": "Utholdende",
+          "text": "Holder ut i kulda."
         },
         {
-          "title": "Rampete",
-          "text": "Litt tull må til."
-        },
-        {
-          "title": "Grøtglad",
-          "text": "Med smør, takk."
-        }
-      ]
-    },
-    {
-      "id": "drage",
-      "name": "Drage",
-      "shareName": "en drage",
-      "emoji": null,
-      "description": "Du er kraftfull, varm og har et hjerte av gull. Du passer på skattene dine, og vennene dine er de største.",
-      "funFact": "Komodovaranen, som også kalles komododrage, er verdens største nålevende øgle.",
-      "image": "images/2026-10-06/drage.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kraftfull",
-          "text": "Merkes lang vei."
-        },
-        {
-          "title": "Varm",
-          "text": "Alltid fyr i ovnen."
-        },
-        {
-          "title": "Beskyttende",
-          "text": "Vokter det du elsker."
-        },
-        {
-          "title": "Stolt",
-          "text": "Løfter hodet høyt."
-        }
-      ]
-    },
-    {
-      "id": "enhjorning",
-      "name": "Enhjørning",
-      "shareName": "en enhjørning",
-      "emoji": null,
-      "description": "Du er magisk, god og ser det fine i alle. Det er ikke hver dag noen møter en som deg.",
-      "funFact": "Enhjørningen er Skottlands nasjonaldyr.",
-      "image": "images/2026-10-06/enhjorning.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Magisk",
-          "text": "Glitrer i sola."
-        },
-        {
-          "title": "God",
-          "text": "Ser det fine overalt."
-        },
-        {
-          "title": "Sjelden",
-          "text": "Ikke hver dag."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Lever litt i regnbuen."
-        }
-      ]
-    },
-    {
-      "id": "havfrue",
-      "name": "Havfrue",
-      "shareName": "en havfrue",
-      "emoji": null,
-      "description": "Du er nysgjerrig, sangglad og elsker vann. Du drømmer ofte om livet på den andre siden av bølgene.",
-      "funFact": "Statuen Den lille havfrue i København har sittet på steinen sin siden 1913.",
-      "image": "images/2026-10-06/havfrue.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Nysgjerrig",
-          "text": "Utforsker hele havet."
-        },
-        {
-          "title": "Sangglad",
-          "text": "Synger med bølgene."
-        },
-        {
-          "title": "Lengtende",
-          "text": "Drømmer om land."
+          "title": "Lys",
+          "text": "Sol midt på natta."
         },
         {
           "title": "Fri",
-          "text": "Havet er ditt."
+          "text": "Havet er grensen."
         }
       ]
     },
     {
-      "id": "huldra",
-      "name": "Huldra",
-      "shareName": "huldra",
+      "id": "bryggen",
+      "name": "Bryggen i Bergen",
+      "shareName": "Bryggen i Bergen",
       "emoji": null,
-      "description": "Du er vill, fri og litt mystisk. Du hører hjemme i skogen og lar deg ikke temme.",
-      "funFact": "Ifølge folketroen var huldra vakker forfra, men hadde kuhale og hul rygg.",
-      "image": "images/2026-10-06/huldra.jpg",
+      "description": "Du er fargerik, sjarmerende og full av historier. Du tåler litt regn og blir bare finere av det.",
+      "funFact": "Bryggen i Bergen har stått på UNESCOs verdensarvliste siden 1979.",
+      "image": "images/2026-10-06/bryggen.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Vill",
-          "text": "Lar deg ikke temme."
+          "title": "Fargerik",
+          "text": "Rød, gul og hvit."
         },
         {
-          "title": "Mystisk",
-          "text": "Forsvinner mellom trærne."
+          "title": "Historisk",
+          "text": "Full av gamle historier."
         },
         {
-          "title": "Naturglad",
-          "text": "Skogen er ditt hjem."
+          "title": "Sosial",
+          "text": "Alltid folk i nærheten."
         },
         {
-          "title": "Sjarmerende",
-          "text": "Folk blir fortryllet."
+          "title": "Værbestandig",
+          "text": "Regn? Helt greit."
         }
       ]
     },
     {
-      "id": "fe",
-      "name": "Fe",
-      "shareName": "en fe",
+      "id": "nidaros",
+      "name": "Nidarosdomen",
+      "shareName": "Nidarosdomen",
       "emoji": null,
-      "description": "Du er lett, kjapp og full av små gode gjerninger. Der du har vært, ligger det alltid litt glitter igjen.",
-      "funFact": "Ordet fe kommer via fransk fra latin «fata», som har med skjebne å gjøre.",
-      "image": "images/2026-10-06/fe.jpg",
+      "description": "Du er rolig, klok og full av historie. Folk kommer langveisfra for å være i nærheten av deg.",
+      "funFact": "Nidarosdomen i Trondheim er bygget over graven til Olav den hellige og regnes som verdens nordligste middelalderkatedral.",
+      "image": "images/2026-10-06/nidaros.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Hjelpsom",
-          "text": "Gjør små mirakler."
-        },
-        {
-          "title": "Lett",
-          "text": "Svever over bakken."
-        },
-        {
-          "title": "Kjapp",
-          "text": "Fort som et vingeslag."
-        },
-        {
-          "title": "Glitrende",
-          "text": "Etterlater alltid glitter."
-        }
-      ]
-    },
-    {
-      "id": "nokken",
-      "name": "Nøkken",
-      "shareName": "nøkken",
-      "emoji": null,
-      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
-      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
-      "image": "images/2026-10-06/nokken.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Gåtefull",
-          "text": "Vanskelig å bli klok på."
-        },
-        {
-          "title": "Skiftende",
-          "text": "Endrer form ofte."
+          "title": "Klok",
+          "text": "Har sett mye."
         },
         {
           "title": "Rolig",
-          "text": "Liker stille vann."
+          "text": "Hviler i deg selv."
         },
         {
-          "title": "Musikalsk",
-          "text": "Vannet synger for deg."
+          "title": "Imponerende",
+          "text": "Ruver i landskapet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tok hundrevis av år."
+        }
+      ]
+    },
+    {
+      "id": "holmenkollen",
+      "name": "Holmenkollbakken",
+      "shareName": "Holmenkollbakken",
+      "emoji": null,
+      "description": "Du er sprek, modig og elsker fart. Du hopper rett ut i det og lander med stil.",
+      "funFact": "Det har vært hoppbakke i Holmenkollen i Oslo siden 1892.",
+      "image": "images/2026-10-06/holmenkollen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Alltid i form."
+        },
+        {
+          "title": "Modig",
+          "text": "Hopper uten å nøle."
+        },
+        {
+          "title": "Folkekjær",
+          "text": "Hele Norge heier."
+        },
+        {
+          "title": "Rask",
+          "text": "Elsker full fart."
+        }
+      ]
+    },
+    {
+      "id": "geiranger",
+      "name": "Geirangerfjorden",
+      "shareName": "Geirangerfjorden",
+      "emoji": null,
+      "description": "Du er vakker, rolig og får folk til å stoppe opp. Du trenger ikke rope for å bli lagt merke til.",
+      "funFact": "Ved Geirangerfjorden ligger fossen De syv søstrene, og rett over fjorden ligger fossen Friaren.",
+      "image": "images/2026-10-06/geiranger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vakker",
+          "text": "Folk stopper for å se."
+        },
+        {
+          "title": "Rolig",
+          "text": "Blank som et speil."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer enn overflaten."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Høye fjell rundt deg."
+        }
+      ]
+    },
+    {
+      "id": "lofoten",
+      "name": "Lofoten",
+      "shareName": "Lofoten",
+      "emoji": null,
+      "description": "Du er kreativ, sjarmerende og full av kontraster. Du byr på både storm og stille samme dag.",
+      "funFact": "Lofoten ligger langt nord for polarsirkelen, men har mildt klima for breddegraden takket være Golfstrømmen.",
+      "image": "images/2026-10-06/lofoten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Kunstnere elsker deg."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Røde rorbuer og tinder."
+        },
+        {
+          "title": "Skiftende",
+          "text": "Alle vær på én dag."
+        },
+        {
+          "title": "Sjøglad",
+          "text": "Hjemme ved havet."
+        }
+      ]
+    },
+    {
+      "id": "atlanterhavsveien",
+      "name": "Atlanterhavsveien",
+      "shareName": "Atlanterhavsveien",
+      "emoji": null,
+      "description": "Du er spennende, svingete og full av fart. Du holder deg rolig selv når bølgene slår.",
+      "funFact": "Atlanterhavsveien i Møre og Romsdal er drøyt åtte kilometer lang og har åtte bruer mellom holmer og skjær.",
+      "image": "images/2026-10-06/atlanterhavsveien.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spennende",
+          "text": "Aldri en kjedelig tur."
+        },
+        {
+          "title": "Svingete",
+          "text": "Tar gjerne en omvei."
+        },
+        {
+          "title": "Standhaftig",
+          "text": "Står støtt i stormen."
+        },
+        {
+          "title": "Kystkjær",
+          "text": "Bor midt i havet."
         }
       ]
     }

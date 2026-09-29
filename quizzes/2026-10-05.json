@@ -1,335 +1,341 @@
 {
   "id": "2026-10-05",
   "date": "2026-10-05",
-  "title": "Hvilket sted i Norge er du i dag?",
-  "intro": "Fra fjord til fjell. Finn ut hvilket norsk sted som passer deg akkurat i dag.",
+  "title": "Hvilket instrument er du i dag?",
+  "intro": "Alle har sin egen lyd. Finn ut hvilken tone du slår an i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan starter du en perfekt dag?",
+      "text": "Hvordan er stemmen din i dag?",
       "options": [
         {
           "id": "a",
-          "text": "Med en tidlig fjelltur",
+          "text": "Høy og tydelig",
           "scores": {
-            "preikestolen": 2
+            "trompet": 2
           }
         },
         {
           "id": "b",
-          "text": "Med kaffe på en brygge",
+          "text": "Myk og drømmende",
           "scores": {
-            "bryggen": 2,
-            "lofoten": 1
+            "fiolin": 2
           }
         },
         {
           "id": "c",
-          "text": "Med en stille stund for meg selv",
+          "text": "Rytmisk og bestemt",
           "scores": {
-            "nidaros": 2
+            "tromme": 2
           }
         },
         {
           "id": "d",
-          "text": "Med en skitur",
+          "text": "Glad og litt pipete",
           "scores": {
-            "holmenkollen": 2
+            "blokkflote": 2
           }
         },
         {
           "id": "e",
-          "text": "Med en biltur og god musikk",
+          "text": "Liten, men den høres",
           "scores": {
-            "atlanterhavsveien": 2
+            "triangel": 2
           }
         },
         {
           "id": "f",
-          "text": "Med utsikt over vannet",
+          "text": "Varm og avslappet",
           "scores": {
-            "geiranger": 2
+            "gitar": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva slags vær liker du best?",
+      "text": "Hva gjør du på en fest?",
       "options": [
         {
           "id": "a",
-          "text": "Midnattssol",
+          "text": "Starter allsangen",
           "scores": {
-            "nordkapp": 2
+            "gitar": 2,
+            "trekkspill": 1
           }
         },
         {
           "id": "b",
-          "text": "Regn – det hører med",
+          "text": "Danser hele natta",
           "scores": {
-            "bryggen": 2
+            "trekkspill": 2
           }
         },
         {
           "id": "c",
-          "text": "Kaldt og snøfullt",
+          "text": "Holder takten på bordet",
           "scores": {
-            "holmenkollen": 2
+            "tromme": 2
           }
         },
         {
           "id": "d",
-          "text": "Storm og høye bølger",
+          "text": "Holder en tale",
           "scores": {
-            "atlanterhavsveien": 2
+            "trompet": 2
           }
         },
         {
           "id": "e",
-          "text": "Klarvær over fjorden",
+          "text": "Står i hjørnet og smiler",
           "scores": {
-            "geiranger": 2,
-            "preikestolen": 1
+            "triangel": 2
           }
         },
         {
           "id": "f",
-          "text": "Skiftende – alt på én dag",
+          "text": "Leker med alle barna",
           "scores": {
-            "lofoten": 2
+            "xylofon": 2,
+            "blokkflote": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva er du mest glad i?",
+      "text": "Velg en farge:",
       "options": [
         {
           "id": "a",
-          "text": "Utsikt",
+          "text": "Knallrød",
           "scores": {
-            "preikestolen": 2
+            "tromme": 2
           }
         },
         {
           "id": "b",
-          "text": "Historie",
+          "text": "Gull",
           "scores": {
-            "nidaros": 2,
-            "bryggen": 1
+            "trompet": 2
           }
         },
         {
           "id": "c",
-          "text": "Eventyr langt mot nord",
+          "text": "Mørk vinrød",
           "scores": {
-            "nordkapp": 2
+            "fiolin": 2
           }
         },
         {
           "id": "d",
-          "text": "Fisk og frisk sjøluft",
+          "text": "Regnbuefarget",
           "scores": {
-            "lofoten": 2
+            "xylofon": 2
           }
         },
         {
           "id": "e",
-          "text": "Spenning og fart",
+          "text": "Sølv",
           "scores": {
-            "holmenkollen": 2,
-            "atlanterhavsveien": 1
+            "triangel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Brun som tre",
+          "scores": {
+            "gitar": 2,
+            "fiolin": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan er du i en gruppe?",
+      "text": "Hva liker du best med helgen?",
       "options": [
         {
           "id": "a",
-          "text": "Den som tør mest",
+          "text": "Bål og gode samtaler",
           "scores": {
-            "preikestolen": 2
+            "gitar": 2
           }
         },
         {
           "id": "b",
-          "text": "Den som alltid går lengst",
+          "text": "Gammeldans på lokalet",
           "scores": {
-            "nordkapp": 2
+            "trekkspill": 2
           }
         },
         {
           "id": "c",
-          "text": "Den mest fargerike",
+          "text": "En rolig konsert",
           "scores": {
-            "bryggen": 2
+            "fiolin": 2
           }
         },
         {
           "id": "d",
-          "text": "Den rolige og kloke",
+          "text": "Å leke og tulle",
           "scores": {
-            "nidaros": 2
+            "xylofon": 2
           }
         },
         {
           "id": "e",
-          "text": "Den som får alle til å måpe",
+          "text": "Å øve på noe nytt",
           "scores": {
-            "geiranger": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den kunstneriske",
-          "scores": {
-            "lofoten": 2
+            "blokkflote": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Velg en snacks:",
+      "text": "Hva er din styrke?",
       "options": [
         {
           "id": "a",
-          "text": "Fiskesuppe",
+          "text": "Jeg tar ordet",
           "scores": {
-            "bryggen": 2
+            "trompet": 2
           }
         },
         {
           "id": "b",
-          "text": "Tørrfisk",
+          "text": "Jeg holder alle i takt",
           "scores": {
-            "lofoten": 2
+            "tromme": 2
           }
         },
         {
           "id": "c",
-          "text": "Appelsin og sjokolade på toppen",
+          "text": "Jeg har mange sider",
           "scores": {
-            "holmenkollen": 2,
-            "preikestolen": 1
+            "trekkspill": 2,
+            "xylofon": 1
           }
         },
         {
           "id": "d",
-          "text": "Svele på ferja",
+          "text": "Jeg kommer inn akkurat når det trengs",
           "scores": {
-            "geiranger": 2
+            "triangel": 2
           }
         },
         {
           "id": "e",
-          "text": "Sjokolade i bilen",
+          "text": "Jeg får folk til å føle ting",
           "scores": {
-            "atlanterhavsveien": 2
+            "fiolin": 2
           }
         },
         {
           "id": "f",
-          "text": "Varm kakao ved verdens ende",
+          "text": "Jeg er enkel og ærlig",
           "scores": {
-            "nordkapp": 2
+            "blokkflote": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva er supermakten din?",
+      "text": "Hvor er du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Å se langt, langt unna",
+          "text": "På en scene",
           "scores": {
-            "nordkapp": 2
+            "trompet": 2
           }
         },
         {
           "id": "b",
-          "text": "Å holde meg rolig i stormen",
+          "text": "I en garasje med bandet",
           "scores": {
-            "atlanterhavsveien": 2
+            "tromme": 2,
+            "gitar": 1
           }
         },
         {
           "id": "c",
-          "text": "Å gi folk håp",
+          "text": "På en bygdefest",
           "scores": {
-            "nidaros": 2
+            "trekkspill": 2
           }
         },
         {
           "id": "d",
-          "text": "Å fly",
+          "text": "I et klasserom",
           "scores": {
-            "holmenkollen": 2
+            "blokkflote": 2
           }
         },
         {
           "id": "e",
-          "text": "Å være vakker uten å prøve",
+          "text": "I et stort orkester",
           "scores": {
-            "geiranger": 2
+            "triangel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "På en lekeplass",
+          "scores": {
+            "xylofon": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva ville vennene dine sagt om deg?",
+      "text": "Hva sier folk om deg?",
       "options": [
         {
           "id": "a",
-          "text": "«Du står støtt, uansett»",
+          "text": "«Du får alle til å synge med»",
           "scores": {
-            "preikestolen": 2
+            "gitar": 2
           }
         },
         {
           "id": "b",
-          "text": "«Du er en ekte klassiker»",
+          "text": "«Du er så elegant»",
           "scores": {
-            "nidaros": 2
+            "fiolin": 2
           }
         },
         {
           "id": "c",
-          "text": "«Du svinger deg gjennom alt»",
+          "text": "«Du gjør alt til fest»",
           "scores": {
-            "atlanterhavsveien": 2
+            "trekkspill": 2
           }
         },
         {
           "id": "d",
-          "text": "«Du er så vakker at det nesten er urettferdig»",
+          "text": "«Du er så fargerik»",
           "scores": {
-            "geiranger": 2,
-            "lofoten": 1
+            "xylofon": 2
           }
         },
         {
           "id": "e",
-          "text": "«Du elsker å være på toppen»",
+          "text": "«Du er modigere enn folk tror»",
           "scores": {
-            "holmenkollen": 2,
-            "nordkapp": 1
+            "blokkflote": 2,
+            "triangel": 1
           }
         },
         {
           "id": "f",
-          "text": "«Du er full av sjarm»",
+          "text": "«Du er umulig å overse»",
           "scores": {
-            "lofoten": 2,
-            "bryggen": 1
+            "tromme": 2,
+            "trompet": 1
           }
         }
       ]
@@ -337,226 +343,226 @@
   ],
   "outcomes": [
     {
-      "id": "preikestolen",
-      "name": "Preikestolen",
-      "shareName": "Preikestolen",
+      "id": "gitar",
+      "name": "Gitar",
+      "shareName": "en gitar",
       "emoji": null,
-      "description": "Du er modig, stødig og har utsikt over alt. Du tar gjerne en tøff tur for å oppleve noe stort.",
-      "funFact": "Preikestolen er et flatt fjellplatå som ruver rundt 600 meter rett over Lysefjorden i Rogaland.",
-      "image": "images/2026-10-05/preikestolen.jpg",
+      "description": "Du er varm, avslappet og samler folk rundt bålet. Med deg blir det allsang før noen vet ordet av det.",
+      "funFact": "Den moderne klassiske gitaren fikk formen sin i Spania på 1800-tallet, blant annet takket være gitarbyggeren Antonio de Torres.",
+      "image": "images/2026-10-05/gitar.jpg",
       "imageCredit": null,
       "traits": [
+        {
+          "title": "Samlende",
+          "text": "Alle synger med."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det på gehør."
+        },
+        {
+          "title": "Varm",
+          "text": "Myke, gode toner."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Spiller alle sjangre."
+        }
+      ]
+    },
+    {
+      "id": "tromme",
+      "name": "Tromme",
+      "shareName": "en tromme",
+      "emoji": null,
+      "description": "Du er energisk og holder takten for alle rundt deg. Du merkes godt, og det er helt greit.",
+      "funFact": "Trommer er blant verdens eldste instrumenter og finnes i nesten alle kulturer.",
+      "image": "images/2026-10-05/tromme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rytmisk",
+          "text": "Takten sitter i kroppen."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av kraft."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Slår an tonen."
+        },
+        {
+          "title": "Høylytt",
+          "text": "Ingen kan overhøre deg."
+        }
+      ]
+    },
+    {
+      "id": "trompet",
+      "name": "Trompet",
+      "shareName": "en trompet",
+      "emoji": null,
+      "description": "Du er modig, tydelig og elsker å ta ordet. Når du kommer inn, vet alle det.",
+      "funFact": "Hvis du hadde rettet ut røret i en vanlig trompet, ville det vært nesten halvannen meter langt.",
+      "image": "images/2026-10-05/trompet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier ting rett ut."
+        },
         {
           "title": "Modig",
-          "text": "Tør å stå ytterst."
+          "text": "Tør å stå fremst."
         },
         {
-          "title": "Stødig",
-          "text": "Flat og trygg på toppen."
+          "title": "Skinnende",
+          "text": "Blank som gull."
         },
         {
-          "title": "Utsiktsglad",
-          "text": "Elsker en god utsikt."
-        },
-        {
-          "title": "Tøff",
-          "text": "Tar de bratte bakkene."
+          "title": "Festlig",
+          "text": "Blåser liv i alt."
         }
       ]
     },
     {
-      "id": "nordkapp",
-      "name": "Nordkapp",
-      "shareName": "Nordkapp",
+      "id": "fiolin",
+      "name": "Fiolin",
+      "shareName": "en fiolin",
       "emoji": null,
-      "description": "Du er eventyrlysten og vil alltid litt lenger enn alle andre. Du trives best med horisonten i sikte.",
-      "funFact": "Nordkapp ligger på Magerøya i Finnmark, og der står midnattssola over horisonten fra midten av mai til slutten av juli.",
-      "image": "images/2026-10-05/nordkapp.jpg",
+      "description": "Du er følsom, elegant og full av stemninger. Du kan få hvem som helst til å felle en tåre.",
+      "funFact": "En fiolin er satt sammen av rundt 70 små deler, de fleste av tre.",
+      "image": "images/2026-10-05/fiolin.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Eventyrlysten",
-          "text": "Vil alltid lenger."
+          "title": "Følsom",
+          "text": "Kjenner alt sterkt."
         },
         {
-          "title": "Utholdende",
-          "text": "Holder ut i kulda."
+          "title": "Elegant",
+          "text": "Stilig til fingerspissene."
         },
         {
-          "title": "Lys",
-          "text": "Sol midt på natta."
+          "title": "Dyktig",
+          "text": "Øvelse gjør mester."
         },
         {
-          "title": "Fri",
-          "text": "Havet er grensen."
+          "title": "Drømmende",
+          "text": "Tankene spiller videre."
         }
       ]
     },
     {
-      "id": "bryggen",
-      "name": "Bryggen i Bergen",
-      "shareName": "Bryggen i Bergen",
+      "id": "trekkspill",
+      "name": "Trekkspill",
+      "shareName": "et trekkspill",
       "emoji": null,
-      "description": "Du er fargerik, sjarmerende og full av historier. Du tåler litt regn og blir bare finere av det.",
-      "funFact": "Bryggen i Bergen har stått på UNESCOs verdensarvliste siden 1979.",
-      "image": "images/2026-10-05/bryggen.jpg",
+      "description": "Du er festlig, sosial og har mange sider. Du puster liv i enhver bygdefest.",
+      "funFact": "Trekkspillet har luft i en belg som presses gjennom små metalltunger, og det er et av de mest brukte instrumentene i norsk gammeldans.",
+      "image": "images/2026-10-05/trekkspill.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Fargerik",
-          "text": "Rød, gul og hvit."
-        },
-        {
-          "title": "Historisk",
-          "text": "Full av gamle historier."
+          "title": "Festlig",
+          "text": "Starter dansen."
         },
         {
           "title": "Sosial",
-          "text": "Alltid folk i nærheten."
+          "text": "Elsker et fullt lokale."
         },
         {
-          "title": "Værbestandig",
-          "text": "Regn? Helt greit."
+          "title": "Mangfoldig",
+          "text": "Mange knapper å trykke."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i gammeldans."
         }
       ]
     },
     {
-      "id": "nidaros",
-      "name": "Nidarosdomen",
-      "shareName": "Nidarosdomen",
+      "id": "triangel",
+      "name": "Triangel",
+      "shareName": "en triangel",
       "emoji": null,
-      "description": "Du er rolig, klok og full av historie. Folk kommer langveisfra for å være i nærheten av deg.",
-      "funFact": "Nidarosdomen i Trondheim er bygget over graven til Olav den hellige og regnes som verdens nordligste middelalderkatedral.",
-      "image": "images/2026-10-05/nidaros.jpg",
+      "description": "Du er liten, men du høres godt. Du kommer inn akkurat når det trengs, og da skinner du.",
+      "funFact": "Triangelen er ikke helt lukket. Den lille åpningen i ett hjørne gjør at den klinger lenger og friere.",
+      "image": "images/2026-10-05/triangel.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Klok",
-          "text": "Har sett mye."
+          "title": "Presis",
+          "text": "Treffer alltid riktig."
         },
         {
-          "title": "Rolig",
-          "text": "Hviler i deg selv."
+          "title": "Beskjeden",
+          "text": "Trenger lite plass."
         },
         {
-          "title": "Imponerende",
-          "text": "Ruver i landskapet."
+          "title": "Klar",
+          "text": "Tonen høres tydelig."
         },
         {
           "title": "Tålmodig",
-          "text": "Tok hundrevis av år."
+          "text": "Venter på ditt øyeblikk."
         }
       ]
     },
     {
-      "id": "holmenkollen",
-      "name": "Holmenkollbakken",
-      "shareName": "Holmenkollbakken",
+      "id": "xylofon",
+      "name": "Xylofon",
+      "shareName": "en xylofon",
       "emoji": null,
-      "description": "Du er sprek, modig og elsker fart. Du hopper rett ut i det og lander med stil.",
-      "funFact": "Det har vært hoppbakke i Holmenkollen i Oslo siden 1892.",
-      "image": "images/2026-10-05/holmenkollen.jpg",
+      "description": "Du er fargerik, leken og full av glede. Du gjør alt litt morsommere bare ved å være der.",
+      "funFact": "Navnet xylofon kommer fra gresk og betyr «trelyd».",
+      "image": "images/2026-10-05/xylofon.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sprek",
-          "text": "Alltid i form."
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Én farge per tone."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter over på alle."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner på nye melodier."
+        }
+      ]
+    },
+    {
+      "id": "blokkflote",
+      "name": "Blokkfløyte",
+      "shareName": "en blokkfløyte",
+      "emoji": null,
+      "description": "Du er enkel, ærlig og modigere enn folk tror. Mange startet med deg, og ingen har glemt deg.",
+      "funFact": "Blokkfløyta var svært populær i barokken, og både Bach og Händel skrev musikk for den.",
+      "image": "images/2026-10-05/blokkflote.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Alltid rett fram."
         },
         {
           "title": "Modig",
-          "text": "Hopper uten å nøle."
+          "text": "Spiller foran hele klassen."
         },
         {
-          "title": "Folkekjær",
-          "text": "Hele Norge heier."
+          "title": "Enkel",
+          "text": "Liker det ukompliserte."
         },
         {
-          "title": "Rask",
-          "text": "Elsker full fart."
-        }
-      ]
-    },
-    {
-      "id": "geiranger",
-      "name": "Geirangerfjorden",
-      "shareName": "Geirangerfjorden",
-      "emoji": null,
-      "description": "Du er vakker, rolig og får folk til å stoppe opp. Du trenger ikke rope for å bli lagt merke til.",
-      "funFact": "Ved Geirangerfjorden ligger fossen De syv søstrene, og rett over fjorden ligger fossen Friaren.",
-      "image": "images/2026-10-05/geiranger.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Vakker",
-          "text": "Folk stopper for å se."
-        },
-        {
-          "title": "Rolig",
-          "text": "Blank som et speil."
-        },
-        {
-          "title": "Dyp",
-          "text": "Mer enn overflaten."
-        },
-        {
-          "title": "Dramatisk",
-          "text": "Høye fjell rundt deg."
-        }
-      ]
-    },
-    {
-      "id": "lofoten",
-      "name": "Lofoten",
-      "shareName": "Lofoten",
-      "emoji": null,
-      "description": "Du er kreativ, sjarmerende og full av kontraster. Du byr på både storm og stille samme dag.",
-      "funFact": "Lofoten ligger langt nord for polarsirkelen, men har mildt klima for breddegraden takket være Golfstrømmen.",
-      "image": "images/2026-10-05/lofoten.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kreativ",
-          "text": "Kunstnere elsker deg."
-        },
-        {
-          "title": "Sjarmerende",
-          "text": "Røde rorbuer og tinder."
-        },
-        {
-          "title": "Skiftende",
-          "text": "Alle vær på én dag."
-        },
-        {
-          "title": "Sjøglad",
-          "text": "Hjemme ved havet."
-        }
-      ]
-    },
-    {
-      "id": "atlanterhavsveien",
-      "name": "Atlanterhavsveien",
-      "shareName": "Atlanterhavsveien",
-      "emoji": null,
-      "description": "Du er spennende, svingete og full av fart. Du holder deg rolig selv når bølgene slår.",
-      "funFact": "Atlanterhavsveien i Møre og Romsdal er drøyt åtte kilometer lang og har åtte bruer mellom holmer og skjær.",
-      "image": "images/2026-10-05/atlanterhavsveien.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Spennende",
-          "text": "Aldri en kjedelig tur."
-        },
-        {
-          "title": "Svingete",
-          "text": "Tar gjerne en omvei."
-        },
-        {
-          "title": "Standhaftig",
-          "text": "Står støtt i stormen."
-        },
-        {
-          "title": "Kystkjær",
-          "text": "Bor midt i havet."
+          "title": "Minnerik",
+          "text": "Alle husker deg."
         }
       ]
     }

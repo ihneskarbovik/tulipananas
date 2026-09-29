@@ -1,335 +1,334 @@
 {
   "id": "2026-10-01",
   "date": "2026-10-01",
-  "title": "Hvilken sko er du i dag?",
-  "intro": "Alle har en sko som passer akkurat i dag. Snør deg inn og finn ut hvilken.",
+  "title": "Hva slags vær er du i dag?",
+  "intro": "Sjekk værmeldingen for sjelen din. Det kan bli både sol og byger.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hvordan våknet du i dag?",
       "options": [
         {
           "id": "a",
-          "text": "Løper en lang tur",
+          "text": "Strålende fornøyd",
           "scores": {
-            "joggesko": 2
+            "sol": 2
           }
         },
         {
           "id": "b",
-          "text": "Hopper i sølepytter",
+          "text": "Litt grinete, ærlig talt",
           "scores": {
-            "gummistovel": 2
+            "torden": 2
           }
         },
         {
           "id": "c",
-          "text": "Blir i pysjen hele dagen",
+          "text": "Trøtt og tåkete i hodet",
           "scores": {
-            "toffel": 2
+            "take": 2
           }
         },
         {
           "id": "d",
-          "text": "Går på fjellet",
+          "text": "Rolig og litt drømmende",
           "scores": {
-            "fjellstovel": 2
+            "sno": 2,
+            "nordlys": 1
           }
         },
         {
           "id": "e",
-          "text": "Danser rundt i stua",
+          "text": "Rastløs – jeg må ut og bevege meg",
           "scores": {
-            "ballettsko": 2,
-            "skoyte": 1
+            "bris": 2
           }
         },
         {
           "id": "f",
-          "text": "Sitter i sola på en benk",
+          "text": "Glad, etter en litt tung kveld",
           "scores": {
-            "sandal": 2
+            "regnbue": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvordan er du når det er dårlig vær?",
+      "text": "Hva har du lyst til å gjøre i kveld?",
       "options": [
         {
           "id": "a",
-          "text": "Endelig! Jeg elsker regn",
+          "text": "Se en film under et pledd",
           "scores": {
-            "gummistovel": 2
+            "regn": 2
           }
         },
         {
           "id": "b",
-          "text": "Tenner peisen og blir inne",
+          "text": "Ligge ute og se på stjernene",
           "scores": {
-            "toffel": 2
+            "nordlys": 2
           }
         },
         {
           "id": "c",
-          "text": "Tar på meg alt og går ut likevel",
+          "text": "Danse vilt til høy musikk",
           "scores": {
-            "fjellstovel": 2
+            "torden": 2,
+            "bris": 1
           }
         },
         {
           "id": "d",
-          "text": "Drømmer meg bort til Syden",
+          "text": "Grille med venner",
           "scores": {
-            "sandal": 2
+            "sol": 2
           }
         },
         {
           "id": "e",
-          "text": "Håper det blir kaldt nok til is på vannet",
+          "text": "Lage noe kreativt",
           "scores": {
-            "skoyte": 2
+            "regnbue": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilket ord beskriver deg best?",
+      "text": "Velg en farge:",
       "options": [
         {
           "id": "a",
-          "text": "Rask",
+          "text": "Gul",
           "scores": {
-            "joggesko": 2,
-            "skoyte": 1
+            "sol": 2
           }
         },
         {
           "id": "b",
-          "text": "Elegant",
+          "text": "Grå",
           "scores": {
-            "ballettsko": 2
+            "take": 2,
+            "regn": 1
           }
         },
         {
           "id": "c",
-          "text": "Avslappet",
+          "text": "Hvit",
           "scores": {
-            "sandal": 2,
-            "toffel": 1
+            "sno": 2
           }
         },
         {
           "id": "d",
-          "text": "Solid",
+          "text": "Grønn",
           "scores": {
-            "fjellstovel": 2,
-            "tresko": 1
+            "nordlys": 2
           }
         },
         {
           "id": "e",
-          "text": "Annerledes",
+          "text": "Alle sammen!",
           "scores": {
-            "tresko": 2
+            "regnbue": 2
           }
         },
         {
           "id": "f",
-          "text": "Uredd",
+          "text": "Lyseblå",
           "scores": {
-            "gummistovel": 2
+            "bris": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva liker du best å spise?",
+      "text": "Hvordan er du i en diskusjon?",
       "options": [
         {
           "id": "a",
-          "text": "Pasta før en treningsøkt",
+          "text": "Jeg tordner løs",
           "scores": {
-            "joggesko": 2
+            "torden": 2
           }
         },
         {
           "id": "b",
-          "text": "Varm kakao",
+          "text": "Jeg lytter og holder meg litt i bakgrunnen",
           "scores": {
-            "skoyte": 2,
-            "toffel": 1
+            "take": 2
           }
         },
         {
           "id": "c",
-          "text": "Is på stranda",
+          "text": "Jeg prøver å få alle til å bli venner igjen",
           "scores": {
-            "sandal": 2
+            "regnbue": 2,
+            "sol": 1
           }
         },
         {
           "id": "d",
-          "text": "Nistepakke på en topp",
+          "text": "Jeg bytter mening like fort som vinden",
           "scores": {
-            "fjellstovel": 2
+            "bris": 2
           }
         },
         {
           "id": "e",
-          "text": "Ost fra et marked",
+          "text": "Jeg blir stille og lar det renne av meg",
           "scores": {
-            "tresko": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Noe lett og lekkert",
-          "scores": {
-            "ballettsko": 2
+            "regn": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan er du i en gruppe?",
+      "text": "Hva er drømmeferien?",
       "options": [
         {
           "id": "a",
-          "text": "Den som alltid er først",
+          "text": "Strandferie i sørlandssol",
           "scores": {
-            "joggesko": 2
+            "sol": 2
           }
         },
         {
           "id": "b",
-          "text": "Den som holder takten",
+          "text": "Skiferie i dyp snø",
           "scores": {
-            "ballettsko": 2
+            "sno": 2
           }
         },
         {
           "id": "c",
-          "text": "Den som gjør alle rolige",
+          "text": "Nord-Norge i mørketida",
           "scores": {
-            "toffel": 2
+            "nordlys": 2
           }
         },
         {
           "id": "d",
-          "text": "Den som tør å skille seg ut",
+          "text": "Seiltur langs kysten",
           "scores": {
-            "tresko": 2
+            "bris": 2
           }
         },
         {
           "id": "e",
-          "text": "Den som glir inn overalt",
+          "text": "Ei hytte i skogen med regnet på taket",
           "scores": {
-            "skoyte": 2
+            "regn": 2,
+            "take": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et mystisk slott i Skottland",
+          "scores": {
+            "take": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Velg en lyd:",
+      "text": "Hvilket dyr ville du vært?",
       "options": [
         {
           "id": "a",
-          "text": "Plask i en vannpytt",
+          "text": "En isbjørn",
           "scores": {
-            "gummistovel": 2
+            "sno": 2
           }
         },
         {
           "id": "b",
-          "text": "Knirk i et gammelt tregulv",
+          "text": "En and som elsker dammer",
           "scores": {
-            "tresko": 2,
-            "toffel": 1
+            "regn": 2
           }
         },
         {
           "id": "c",
-          "text": "Bølger mot stranda",
+          "text": "En løve med stort brøl",
           "scores": {
-            "sandal": 2
+            "torden": 2
           }
         },
         {
           "id": "d",
-          "text": "Klassisk piano",
+          "text": "En papegøye",
           "scores": {
-            "ballettsko": 2
+            "regnbue": 2
           }
         },
         {
           "id": "e",
-          "text": "Skraping mot blank is",
+          "text": "En rein på vidda",
           "scores": {
-            "skoyte": 2
+            "nordlys": 2,
+            "sno": 1
           }
         },
         {
           "id": "f",
-          "text": "Vind over vidda",
+          "text": "En ugle i skumringen",
           "scores": {
-            "fjellstovel": 2
+            "take": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva ville vennene dine sagt om deg?",
+      "text": "Hva sier folk når du kommer inn i rommet?",
       "options": [
         {
           "id": "a",
-          "text": "«Umulig å holde følge med»",
+          "text": "«Endelig! Nå ble det lysere her»",
           "scores": {
-            "joggesko": 2
+            "sol": 2
           }
         },
         {
           "id": "b",
-          "text": "«Tåler alt»",
+          "text": "«Å, så fint!»",
           "scores": {
-            "gummistovel": 2,
-            "fjellstovel": 1
+            "regnbue": 2
           }
         },
         {
           "id": "c",
-          "text": "«Den koseligste jeg vet»",
+          "text": "«Hold dere fast!»",
           "scores": {
-            "toffel": 2
+            "torden": 2,
+            "bris": 1
           }
         },
         {
           "id": "d",
-          "text": "«Litt gammeldags, på en god måte»",
+          "text": "«Wow, hvor kom du fra?»",
           "scores": {
-            "tresko": 2
+            "nordlys": 2
           }
         },
         {
           "id": "e",
-          "text": "«Alltid på ferie i hodet»",
+          "text": "«Så deilig og rolig det ble»",
           "scores": {
-            "sandal": 2
+            "sno": 2
           }
         },
         {
           "id": "f",
-          "text": "«Så grasiøs»",
+          "text": "«Kom inn, du ser litt våt ut»",
           "scores": {
-            "skoyte": 2,
-            "ballettsko": 1
+            "regn": 2
           }
         }
       ]
@@ -337,226 +336,226 @@
   ],
   "outcomes": [
     {
-      "id": "joggesko",
-      "name": "Joggesko",
-      "shareName": "en joggesko",
+      "id": "sol",
+      "name": "Solskinn",
+      "shareName": "solskinn",
       "emoji": null,
-      "description": "Du er rask, sporty og alltid klar for neste runde. Du liker å være i bevegelse, helst litt fortere enn alle andre.",
-      "funFact": "På engelsk heter joggesko ofte «sneakers», fordi de myke gummisålene gjorde det lett å snike seg lydløst rundt.",
-      "image": "images/2026-10-01/joggesko.jpg",
+      "description": "Du er solskinn og sprer varme overalt der du går. I dag blir alle i nærheten litt gladere av deg.",
+      "funFact": "Lyset fra sola bruker litt over åtte minutter på å nå fram til jorda.",
+      "image": "images/2026-10-01/sol.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Rask",
-          "text": "Først over målstreken."
+          "title": "Strålende",
+          "text": "Lyser opp hele rommet."
         },
         {
-          "title": "Sporty",
-          "text": "Alltid klar for trening."
+          "title": "Varm",
+          "text": "Varmer hender og hjerter."
         },
         {
-          "title": "Ivrig",
-          "text": "Klar før startskuddet."
+          "title": "Positiv",
+          "text": "Ser alltid lyse sider."
         },
         {
-          "title": "Lett",
-          "text": "Svever over asfalten."
+          "title": "Tidlig",
+          "text": "Står opp med hanen."
         }
       ]
     },
     {
-      "id": "gummistovel",
-      "name": "Gummistøvel",
-      "shareName": "en gummistøvel",
+      "id": "regn",
+      "name": "Regnbyge",
+      "shareName": "en regnbyge",
       "emoji": null,
-      "description": "Du er tøff, praktisk og redd for ingenting. Der andre ser en sølepytt, ser du en mulighet.",
-      "funFact": "På engelsk kalles gummistøvler ofte «wellingtons», etter den britiske hertugen av Wellington.",
-      "image": "images/2026-10-01/gummistovel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Uredd",
-          "text": "Hopper rett i pytten."
-        },
-        {
-          "title": "Praktisk",
-          "text": "Klar for alt vær."
-        },
-        {
-          "title": "Leken",
-          "text": "Elsker å søle."
-        },
-        {
-          "title": "Tøff",
-          "text": "Tåler det meste."
-        }
-      ]
-    },
-    {
-      "id": "toffel",
-      "name": "Tøffel",
-      "shareName": "en tøffel",
-      "emoji": null,
-      "description": "Du er myk, varm og ekspert på kos. Hos deg føler alle seg hjemme med én gang.",
-      "funFact": "Ordet tøffel kom til norsk fra nedertysk, som også har gitt oss mange andre hverdagsord.",
-      "image": "images/2026-10-01/toffel.jpg",
+      "description": "Du er en regnbyge som får ting til å vokse. Du liker rolige dager, varme sokker og lyden av dråper mot vinduet.",
+      "funFact": "Store regndråper er ikke formet som dråper når de faller, men er runde og flate i bunnen, litt som en hamburgerbolle.",
+      "image": "images/2026-10-01/regn.jpg",
       "imageCredit": null,
       "traits": [
         {
           "title": "Koselig",
-          "text": "Mester i hygge."
-        },
-        {
-          "title": "Varm",
-          "text": "Holder tærne gode."
-        },
-        {
-          "title": "Rolig",
-          "text": "Ingen hast i dag."
+          "text": "Elsker pledd og te."
         },
         {
           "title": "Hjemmekjær",
-          "text": "Sofaen er best."
+          "text": "Trives best innendørs."
+        },
+        {
+          "title": "Givende",
+          "text": "Får alt til å vokse."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser følelsene dine."
         }
       ]
     },
     {
-      "id": "ballettsko",
-      "name": "Ballettsko",
-      "shareName": "en ballettsko",
+      "id": "sno",
+      "name": "Snøfall",
+      "shareName": "snøfall",
       "emoji": null,
-      "description": "Du er elegant, disiplinert og har rytmen i blodet. Du får selv vanskelige ting til å se lette ut.",
-      "funFact": "Tåspiss-sko har en stiv tupp som tradisjonelt lages av lag med stoff, papp og lim.",
-      "image": "images/2026-10-01/ballettsko.jpg",
+      "description": "Du er stille, myk og litt magisk. Du gjør verden roligere bare ved å være til stede.",
+      "funFact": "Nesten alle snøkrystaller har seks armer, men ingen to ser helt like ut.",
+      "image": "images/2026-10-01/sno.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Elegant",
-          "text": "Beveger deg med stil."
+          "title": "Stille",
+          "text": "Gjør alt litt roligere."
         },
         {
-          "title": "Disiplinert",
-          "text": "Øver til det sitter."
+          "title": "Unik",
+          "text": "Ingen er helt like deg."
         },
         {
-          "title": "Musikalsk",
-          "text": "Rytmen i blodet."
+          "title": "Leken",
+          "text": "Klar for snøballkrig."
         },
         {
-          "title": "Grasiøs",
-          "text": "Lander alltid på tærne."
+          "title": "Myk",
+          "text": "Lander alltid mykt."
         }
       ]
     },
     {
-      "id": "sandal",
-      "name": "Sandal",
-      "shareName": "en sandal",
+      "id": "take",
+      "name": "Tåke",
+      "shareName": "tåke",
       "emoji": null,
-      "description": "Du er avslappet og har alltid litt sommer i hjertet. Du lar tærne puste og tar livet som det kommer.",
-      "funFact": "Sandaler er blant verdens eldste sko. Noen som ble funnet i en hule i Oregon i USA, er rundt 9000 år gamle.",
-      "image": "images/2026-10-01/sandal.jpg",
+      "description": "Du er mystisk og litt vanskelig å få tak på. Folk vet aldri helt hva som skjuler seg i deg.",
+      "funFact": "Tåke er egentlig en sky som ligger helt nede ved bakken.",
+      "image": "images/2026-10-01/take.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Avslappet",
-          "text": "Tar ting som de kommer."
+          "title": "Mystisk",
+          "text": "Full av hemmeligheter."
         },
         {
-          "title": "Solglad",
-          "text": "Følger alltid sola."
+          "title": "Drømmende",
+          "text": "Tankene svever av gårde."
         },
         {
-          "title": "Fri",
-          "text": "Liker ikke stramme rammer."
+          "title": "Sindig",
+          "text": "Beveger deg sakte."
         },
         {
-          "title": "Uformell",
-          "text": "Ingen dresskode her."
+          "title": "Stemningsfull",
+          "text": "Gjør alt litt magisk."
         }
       ]
     },
     {
-      "id": "fjellstovel",
-      "name": "Fjellstøvel",
-      "shareName": "en fjellstøvel",
+      "id": "torden",
+      "name": "Tordenvær",
+      "shareName": "et tordenvær",
       "emoji": null,
-      "description": "Du er solid, stødig og elsker frisk luft. Du tar deg fram uansett terreng og vær.",
-      "funFact": "Mange fjellstøvler har en membran med bittesmå hull som slipper damp ut, men er for små til at vanndråper kommer inn.",
-      "image": "images/2026-10-01/fjellstovel.jpg",
+      "description": "Du er full av kraft og merkes lang vei. Når du først sier ifra, rister det i veggene.",
+      "funFact": "Tell sekundene fra lynet til tordenet og del på tre, så vet du omtrent hvor mange kilometer unna uværet er.",
+      "image": "images/2026-10-01/torden.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Stødig",
-          "text": "Står støtt overalt."
+          "title": "Kraftfull",
+          "text": "Merkes lang vei."
         },
         {
-          "title": "Utholdende",
-          "text": "Går og går."
-        },
-        {
-          "title": "Friluftsglad",
-          "text": "Hjemme på fjellet."
-        },
-        {
-          "title": "Pålitelig",
-          "text": "Svikter aldri på tur."
-        }
-      ]
-    },
-    {
-      "id": "tresko",
-      "name": "Tresko",
-      "shareName": "en tresko",
-      "emoji": null,
-      "description": "Du er annerledes og står stolt ved det. Du liker gamle tradisjoner og gjør ting på din egen måte.",
-      "funFact": "Tresko er så kjent i Nederland at de har blitt et av landets mest brukte symboler, sammen med tulipaner og vindmøller.",
-      "image": "images/2026-10-01/tresko.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Original",
-          "text": "Helt din egen stil."
-        },
-        {
-          "title": "Tradisjonell",
-          "text": "Glad i det gamle."
-        },
-        {
-          "title": "Stolt",
-          "text": "Står for den du er."
-        },
-        {
-          "title": "Solid",
-          "text": "Laget for å vare."
-        }
-      ]
-    },
-    {
-      "id": "skoyte",
-      "name": "Skøyte",
-      "shareName": "en skøyte",
-      "emoji": null,
-      "description": "Du er rask, smidig og full av piruetter. Du glir elegant gjennom dagen, selv når det er glatt.",
-      "funFact": "De eldste skøytene man kjenner til, var laget av dyrebein og er flere tusen år gamle.",
-      "image": "images/2026-10-01/skoyte.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Glatt",
-          "text": "Glir gjennom alt."
+          "title": "Lidenskapelig",
+          "text": "Føler alt veldig sterkt."
         },
         {
           "title": "Modig",
-          "text": "Tør å ta sjanser."
+          "text": "Tør å si ifra."
         },
         {
-          "title": "Vinterglad",
-          "text": "Elsker kalde dager."
+          "title": "Dramatisk",
+          "text": "Elsker en stor entré."
+        }
+      ]
+    },
+    {
+      "id": "regnbue",
+      "name": "Regnbue",
+      "shareName": "en regnbue",
+      "emoji": null,
+      "description": "Du er fargerik og dukker opp akkurat når noen trenger deg. Du viser at noe fint kan komme etter en grå dag.",
+      "funFact": "Du kan bare se en regnbue når sola er bak deg og regnet er foran deg.",
+      "image": "images/2026-10-01/regnbue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Umulig å overse."
         },
         {
-          "title": "Smidig",
-          "text": "Snurrer rundt med letthet."
+          "title": "Håpefull",
+          "text": "Tror alltid på bedring."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får alle til å smile."
+        }
+      ]
+    },
+    {
+      "id": "bris",
+      "name": "Frisk bris",
+      "shareName": "en frisk bris",
+      "emoji": null,
+      "description": "Du er full av nye ideer og liker ikke å stå stille. Du tar med deg frisk luft overalt du går.",
+      "funFact": "Vind måles ofte på Beauforts skala, som går fra 0 (stille) til 12 (orkan). Frisk bris er nummer 5.",
+      "image": "images/2026-10-01/bris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rastløs",
+          "text": "Må alltid videre."
+        },
+        {
+          "title": "Frisk",
+          "text": "Blåser bort gråværet."
+        },
+        {
+          "title": "Spontan",
+          "text": "Skifter retning plutselig."
+        },
+        {
+          "title": "Fri",
+          "text": "Lar deg ikke stoppe."
+        }
+      ]
+    },
+    {
+      "id": "nordlys",
+      "name": "Nordlys",
+      "shareName": "nordlys",
+      "emoji": null,
+      "description": "Du er sjelden, magisk og får folk til å måpe. Du trives best når det er mørkt og stille rundt deg.",
+      "funFact": "Nordlyset oppstår når partikler fra sola treffer atmosfæren, og det grønne lyset kommer fra oksygen.",
+      "image": "images/2026-10-01/nordlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Magisk",
+          "text": "Får folk til å måpe."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag, dessverre."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner når det mørkner."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Dukker opp når du vil."
         }
       ]
     }

@@ -1,329 +1,335 @@
 {
   "id": "2026-10-02",
   "date": "2026-10-02",
-  "title": "Hvilket havdyr er du i dag?",
-  "intro": "Dykk ned i dypet og finn ut hvem du er under overflaten.",
+  "title": "Hvilken sko er du i dag?",
+  "intro": "Alle har en sko som passer akkurat i dag. Snør deg inn og finn ut hvilken.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan har du det i dag?",
+      "text": "Hva gjør du på en fridag?",
       "options": [
         {
           "id": "a",
-          "text": "Stor og rolig",
+          "text": "Løper en lang tur",
           "scores": {
-            "blahval": 2
+            "joggesko": 2
           }
         },
         {
           "id": "b",
-          "text": "Klar for å gjøre ti ting samtidig",
+          "text": "Hopper i sølepytter",
           "scores": {
-            "blekksprut": 2
+            "gummistovel": 2
           }
         },
         {
           "id": "c",
-          "text": "Litt sjenert, men blid",
+          "text": "Blir i pysjen hele dagen",
           "scores": {
-            "klovnefisk": 2,
-            "sjohest": 1
+            "toffel": 2
           }
         },
         {
           "id": "d",
-          "text": "Avslappet og flytende",
+          "text": "Går på fjellet",
           "scores": {
-            "manet": 2
+            "fjellstovel": 2
           }
         },
         {
           "id": "e",
-          "text": "Sulten og leken",
+          "text": "Danser rundt i stua",
           "scores": {
-            "sel": 2
+            "ballettsko": 2,
+            "skoyte": 1
           }
         },
         {
           "id": "f",
-          "text": "Litt knipsete",
+          "text": "Sitter i sola på en benk",
           "scores": {
-            "krabbe": 2
+            "sandal": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en regnværsdag?",
+      "text": "Hvordan er du når det er dårlig vær?",
       "options": [
         {
           "id": "a",
-          "text": "Lager noe med hendene",
+          "text": "Endelig! Jeg elsker regn",
           "scores": {
-            "blekksprut": 2
+            "gummistovel": 2
           }
         },
         {
           "id": "b",
-          "text": "Ligger på stranda uansett",
+          "text": "Tenner peisen og blir inne",
           "scores": {
-            "sel": 2
+            "toffel": 2
           }
         },
         {
           "id": "c",
-          "text": "Driver rundt uten plan",
+          "text": "Tar på meg alt og går ut likevel",
           "scores": {
-            "manet": 2
+            "fjellstovel": 2
           }
         },
         {
           "id": "d",
-          "text": "Bygger en koselig hule",
+          "text": "Drømmer meg bort til Syden",
           "scores": {
-            "klovnefisk": 2,
-            "krabbe": 1
+            "sandal": 2
           }
         },
         {
           "id": "e",
-          "text": "Skriver dagbok",
+          "text": "Håper det blir kaldt nok til is på vannet",
           "scores": {
-            "sjohest": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Synger høyt",
-          "scores": {
-            "blahval": 2
+            "skoyte": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva er ditt beste talent?",
+      "text": "Hvilket ord beskriver deg best?",
       "options": [
         {
           "id": "a",
-          "text": "Å lytte",
+          "text": "Rask",
           "scores": {
-            "blahval": 2
+            "joggesko": 2,
+            "skoyte": 1
           }
         },
         {
           "id": "b",
-          "text": "Å løse gåter",
+          "text": "Elegant",
           "scores": {
-            "blekksprut": 2
+            "ballettsko": 2
           }
         },
         {
           "id": "c",
-          "text": "Å komme meg på beina igjen",
+          "text": "Avslappet",
           "scores": {
-            "sjostjerne": 2
+            "sandal": 2,
+            "toffel": 1
           }
         },
         {
           "id": "d",
-          "text": "Å beskytte dem jeg er glad i",
+          "text": "Solid",
           "scores": {
-            "krabbe": 2,
-            "sjohest": 1
+            "fjellstovel": 2,
+            "tresko": 1
           }
         },
         {
           "id": "e",
-          "text": "Å få folk til å le",
+          "text": "Annerledes",
           "scores": {
-            "klovnefisk": 2,
-            "sel": 1
+            "tresko": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Uredd",
+          "scores": {
+            "gummistovel": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvor bor du helst?",
+      "text": "Hva liker du best å spise?",
       "options": [
         {
           "id": "a",
-          "text": "Midt i havet, langt fra alle",
+          "text": "Pasta før en treningsøkt",
           "scores": {
-            "blahval": 2,
-            "manet": 1
+            "joggesko": 2
           }
         },
         {
           "id": "b",
-          "text": "I fjæra, der det skjer mye",
+          "text": "Varm kakao",
           "scores": {
-            "sjostjerne": 2,
-            "krabbe": 1
+            "skoyte": 2,
+            "toffel": 1
           }
         },
         {
           "id": "c",
-          "text": "På et skjær i sola",
+          "text": "Is på stranda",
           "scores": {
-            "sel": 2
+            "sandal": 2
           }
         },
         {
           "id": "d",
-          "text": "I et fargerikt korallrev",
+          "text": "Nistepakke på en topp",
           "scores": {
-            "klovnefisk": 2
+            "fjellstovel": 2
           }
         },
         {
           "id": "e",
-          "text": "I en tareskog",
+          "text": "Ost fra et marked",
           "scores": {
-            "sjohest": 2
+            "tresko": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe lett og lekkert",
+          "scores": {
+            "ballettsko": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan reagerer du når noe går galt?",
+      "text": "Hvordan er du i en gruppe?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg gjemmer meg til det går over",
+          "text": "Den som alltid er først",
           "scores": {
-            "blekksprut": 2
+            "joggesko": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg blir litt sur og går sidelengs unna",
+          "text": "Den som holder takten",
           "scores": {
-            "krabbe": 2
+            "ballettsko": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg bygger meg opp igjen, bit for bit",
+          "text": "Den som gjør alle rolige",
           "scores": {
-            "sjostjerne": 2
+            "toffel": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg lar det bare flyte forbi",
+          "text": "Den som tør å skille seg ut",
           "scores": {
-            "manet": 2
+            "tresko": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg holder meg fast i noen jeg stoler på",
+          "text": "Den som glir inn overalt",
           "scores": {
-            "sjohest": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg finner trøst hjemme",
-          "scores": {
-            "klovnefisk": 2
+            "skoyte": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Velg en snacks:",
+      "text": "Velg en lyd:",
       "options": [
         {
           "id": "a",
-          "text": "Småreker",
+          "text": "Plask i en vannpytt",
           "scores": {
-            "blahval": 2
+            "gummistovel": 2
           }
         },
         {
           "id": "b",
-          "text": "Fersk fisk",
+          "text": "Knirk i et gammelt tregulv",
           "scores": {
-            "sel": 2
+            "tresko": 2,
+            "toffel": 1
           }
         },
         {
           "id": "c",
-          "text": "Blåskjell",
+          "text": "Bølger mot stranda",
           "scores": {
-            "sjostjerne": 2
+            "sandal": 2
           }
         },
         {
           "id": "d",
-          "text": "Noe lite og lett",
+          "text": "Klassisk piano",
           "scores": {
-            "manet": 2,
-            "sjohest": 1
+            "ballettsko": 2
           }
         },
         {
           "id": "e",
-          "text": "Noe jeg har fanget selv",
+          "text": "Skraping mot blank is",
           "scores": {
-            "blekksprut": 2,
-            "krabbe": 1
+            "skoyte": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vind over vidda",
+          "scores": {
+            "fjellstovel": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva sier vennene dine om deg?",
+      "text": "Hva ville vennene dine sagt om deg?",
       "options": [
         {
           "id": "a",
-          "text": "«Du er uten tvil den smarteste»",
+          "text": "«Umulig å holde følge med»",
           "scores": {
-            "blekksprut": 2
+            "joggesko": 2
           }
         },
         {
           "id": "b",
-          "text": "«Du gir aldri opp»",
+          "text": "«Tåler alt»",
           "scores": {
-            "sjostjerne": 2
+            "gummistovel": 2,
+            "fjellstovel": 1
           }
         },
         {
           "id": "c",
-          "text": "«Du er så fin å se på»",
+          "text": "«Den koseligste jeg vet»",
           "scores": {
-            "manet": 2,
-            "klovnefisk": 1
+            "toffel": 2
           }
         },
         {
           "id": "d",
-          "text": "«Du er lojal til siste slutt»",
+          "text": "«Litt gammeldags, på en god måte»",
           "scores": {
-            "sjohest": 2
+            "tresko": 2
           }
         },
         {
           "id": "e",
-          "text": "«Du er alltid klar for moro»",
+          "text": "«Alltid på ferie i hodet»",
           "scores": {
-            "sel": 2
+            "sandal": 2
           }
         },
         {
           "id": "f",
-          "text": "«Du er tøff utenpå, men myk inni»",
+          "text": "«Så grasiøs»",
           "scores": {
-            "krabbe": 2
+            "skoyte": 2,
+            "ballettsko": 1
           }
         }
       ]
@@ -331,226 +337,226 @@
   ],
   "outcomes": [
     {
-      "id": "blahval",
-      "name": "Blåhval",
-      "shareName": "en blåhval",
+      "id": "joggesko",
+      "name": "Joggesko",
+      "shareName": "en joggesko",
       "emoji": null,
-      "description": "Du er stor i hjertet og rolig i sjelen. Når du først sier noe, høres det over hele havet.",
-      "funFact": "Blåhvalen er det største dyret som noen gang har levd på jorda, større enn noen dinosaur.",
-      "image": "images/2026-10-02/blahval.jpg",
+      "description": "Du er rask, sporty og alltid klar for neste runde. Du liker å være i bevegelse, helst litt fortere enn alle andre.",
+      "funFact": "På engelsk heter joggesko ofte «sneakers», fordi de myke gummisålene gjorde det lett å snike seg lydløst rundt.",
+      "image": "images/2026-10-02/joggesko.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Rolig",
-          "text": "Svømmer i ditt tempo."
+          "title": "Rask",
+          "text": "Først over målstreken."
         },
         {
-          "title": "Raus",
-          "text": "Et enormt hjerte."
+          "title": "Sporty",
+          "text": "Alltid klar for trening."
         },
         {
-          "title": "Klok",
-          "text": "Har sett mye."
+          "title": "Ivrig",
+          "text": "Klar før startskuddet."
         },
         {
-          "title": "Sangglad",
-          "text": "Stemmen bærer langt."
+          "title": "Lett",
+          "text": "Svever over asfalten."
         }
       ]
     },
     {
-      "id": "blekksprut",
-      "name": "Blekksprut",
-      "shareName": "en blekksprut",
+      "id": "gummistovel",
+      "name": "Gummistøvel",
+      "shareName": "en gummistøvel",
       "emoji": null,
-      "description": "Du er smart, kreativ og har fingrene i alt. Du løser problemer før andre har skjønt at de finnes.",
-      "funFact": "En åttearmet blekksprut har tre hjerter og blått blod.",
-      "image": "images/2026-10-02/blekksprut.jpg",
+      "description": "Du er tøff, praktisk og redd for ingenting. Der andre ser en sølepytt, ser du en mulighet.",
+      "funFact": "På engelsk kalles gummistøvler ofte «wellingtons», etter den britiske hertugen av Wellington.",
+      "image": "images/2026-10-02/gummistovel.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Smart",
-          "text": "Løser alle gåter."
+          "title": "Uredd",
+          "text": "Hopper rett i pytten."
         },
         {
-          "title": "Kreativ",
-          "text": "Full av ideer."
+          "title": "Praktisk",
+          "text": "Klar for alt vær."
         },
         {
-          "title": "Travel",
-          "text": "Åtte ting samtidig."
+          "title": "Leken",
+          "text": "Elsker å søle."
         },
-        {
-          "title": "Lur",
-          "text": "Forsvinner når det trengs."
-        }
-      ]
-    },
-    {
-      "id": "sjostjerne",
-      "name": "Sjøstjerne",
-      "shareName": "en sjøstjerne",
-      "emoji": null,
-      "description": "Du er seig og kommer deg alltid på beina igjen. Du stråler i ditt eget, stille tempo.",
-      "funFact": "Sjøstjerner kan vokse ut en ny arm hvis de mister en.",
-      "image": "images/2026-10-02/sjostjerne.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Seig",
-          "text": "Gir aldri opp."
-        },
-        {
-          "title": "Tålmodig",
-          "text": "Tar ting sakte."
-        },
-        {
-          "title": "Strålende",
-          "text": "Fem armer med glans."
-        },
-        {
-          "title": "Robust",
-          "text": "Tåler røffe bølger."
-        }
-      ]
-    },
-    {
-      "id": "krabbe",
-      "name": "Krabbe",
-      "shareName": "en krabbe",
-      "emoji": null,
-      "description": "Du er tøff utenpå og myk inni. Du passer godt på dine egne, selv om du kan knipe litt når du er sulten.",
-      "funFact": "Krabber går ofte sidelengs fordi beina deres bøyer seg lettest den veien.",
-      "image": "images/2026-10-02/krabbe.jpg",
-      "imageCredit": null,
-      "traits": [
         {
           "title": "Tøff",
-          "text": "Hardt skall utenpå."
-        },
-        {
-          "title": "Myk",
-          "text": "Snill innerst inne."
-        },
-        {
-          "title": "Beskyttende",
-          "text": "Passer på de dine."
-        },
-        {
-          "title": "Uventet",
-          "text": "Går gjerne sidelengs."
+          "text": "Tåler det meste."
         }
       ]
     },
     {
-      "id": "manet",
-      "name": "Manet",
-      "shareName": "en manet",
+      "id": "toffel",
+      "name": "Tøffel",
+      "shareName": "en tøffel",
       "emoji": null,
-      "description": "Du er avslappet og lar strømmen ta deg dit den vil. Du er vakker på en litt mystisk måte.",
-      "funFact": "Maneter har verken hjerne, hjerte eller bein, og likevel har de levd i havet i mer enn 500 millioner år.",
-      "image": "images/2026-10-02/manet.jpg",
+      "description": "Du er myk, varm og ekspert på kos. Hos deg føler alle seg hjemme med én gang.",
+      "funFact": "Ordet tøffel kom til norsk fra nedertysk, som også har gitt oss mange andre hverdagsord.",
+      "image": "images/2026-10-02/toffel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Mester i hygge."
+        },
+        {
+          "title": "Varm",
+          "text": "Holder tærne gode."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast i dag."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Sofaen er best."
+        }
+      ]
+    },
+    {
+      "id": "ballettsko",
+      "name": "Ballettsko",
+      "shareName": "en ballettsko",
+      "emoji": null,
+      "description": "Du er elegant, disiplinert og har rytmen i blodet. Du får selv vanskelige ting til å se lette ut.",
+      "funFact": "Tåspiss-sko har en stiv tupp som tradisjonelt lages av lag med stoff, papp og lim.",
+      "image": "images/2026-10-02/ballettsko.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Beveger deg med stil."
+        },
+        {
+          "title": "Disiplinert",
+          "text": "Øver til det sitter."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Rytmen i blodet."
+        },
+        {
+          "title": "Grasiøs",
+          "text": "Lander alltid på tærne."
+        }
+      ]
+    },
+    {
+      "id": "sandal",
+      "name": "Sandal",
+      "shareName": "en sandal",
+      "emoji": null,
+      "description": "Du er avslappet og har alltid litt sommer i hjertet. Du lar tærne puste og tar livet som det kommer.",
+      "funFact": "Sandaler er blant verdens eldste sko. Noen som ble funnet i en hule i Oregon i USA, er rundt 9000 år gamle.",
+      "image": "images/2026-10-02/sandal.jpg",
       "imageCredit": null,
       "traits": [
         {
           "title": "Avslappet",
-          "text": "Flyter med strømmen."
-        },
-        {
-          "title": "Mystisk",
-          "text": "Glitrer i mørket."
-        },
-        {
-          "title": "Bekymringsfri",
-          "text": "Ingen hjerne, ingen stress."
-        },
-        {
-          "title": "Elegant",
-          "text": "Svever gjennom vannet."
-        }
-      ]
-    },
-    {
-      "id": "sel",
-      "name": "Sel",
-      "shareName": "en sel",
-      "emoji": null,
-      "description": "Du er leken, sosial og elsker en god pause i sola. Du får alle rundt deg til å smile.",
-      "funFact": "Seler kan holde pusten lenge under vann. Steinkobben, som er vanlig langs norskekysten, klarer opptil en halvtime.",
-      "image": "images/2026-10-02/sel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Leken",
-          "text": "Alltid klar for moro."
-        },
-        {
-          "title": "Sosial",
-          "text": "Trives i flokk."
-        },
-        {
-          "title": "Sulten",
-          "text": "Alltid plass til fisk."
+          "text": "Tar ting som de kommer."
         },
         {
           "title": "Solglad",
-          "text": "Elsker å slappe av."
+          "text": "Følger alltid sola."
+        },
+        {
+          "title": "Fri",
+          "text": "Liker ikke stramme rammer."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen dresskode her."
         }
       ]
     },
     {
-      "id": "sjohest",
-      "name": "Sjøhest",
-      "shareName": "en sjøhest",
+      "id": "fjellstovel",
+      "name": "Fjellstøvel",
+      "shareName": "en fjellstøvel",
       "emoji": null,
-      "description": "Du er lojal, omsorgsfull og litt sjenert. Du holder godt fast i dem du er glad i.",
-      "funFact": "Hos sjøhesten er det hannen som bærer eggene i en pose på magen og føder ungene.",
-      "image": "images/2026-10-02/sjohest.jpg",
+      "description": "Du er solid, stødig og elsker frisk luft. Du tar deg fram uansett terreng og vær.",
+      "funFact": "Mange fjellstøvler har en membran med bittesmå hull som slipper damp ut, men er for små til at vanndråper kommer inn.",
+      "image": "images/2026-10-02/fjellstovel.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Lojal",
-          "text": "Holder fast i dine."
+          "title": "Stødig",
+          "text": "Står støtt overalt."
         },
         {
-          "title": "Omsorgsfull",
-          "text": "Passer på de små."
+          "title": "Utholdende",
+          "text": "Går og går."
         },
         {
-          "title": "Sjenert",
-          "text": "Gjemmer deg i taren."
+          "title": "Friluftsglad",
+          "text": "Hjemme på fjellet."
         },
         {
-          "title": "Unik",
-          "text": "Ingen svømmer som deg."
+          "title": "Pålitelig",
+          "text": "Svikter aldri på tur."
         }
       ]
     },
     {
-      "id": "klovnefisk",
-      "name": "Klovnefisk",
-      "shareName": "en klovnefisk",
+      "id": "tresko",
+      "name": "Tresko",
+      "shareName": "en tresko",
       "emoji": null,
-      "description": "Du er fargerik, morsom og elsker hjemmet ditt. Du finner trygghet der andre ser fare.",
-      "funFact": "Klovnefisken bor trygt blant brennende sjøanemoner, fordi den har et slimlag som beskytter den.",
-      "image": "images/2026-10-02/klovnefisk.jpg",
+      "description": "Du er annerledes og står stolt ved det. Du liker gamle tradisjoner og gjør ting på din egen måte.",
+      "funFact": "Tresko er så kjent i Nederland at de har blitt et av landets mest brukte symboler, sammen med tulipaner og vindmøller.",
+      "image": "images/2026-10-02/tresko.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Morsom",
-          "text": "Får alle til å le."
+          "title": "Original",
+          "text": "Helt din egen stil."
         },
         {
-          "title": "Fargerik",
-          "text": "Oransje med striper."
+          "title": "Tradisjonell",
+          "text": "Glad i det gamle."
         },
         {
-          "title": "Hjemmekjær",
-          "text": "Hjemme er best."
+          "title": "Stolt",
+          "text": "Står for den du er."
         },
         {
-          "title": "Trygg",
-          "text": "Bor der andre brennes."
+          "title": "Solid",
+          "text": "Laget for å vare."
+        }
+      ]
+    },
+    {
+      "id": "skoyte",
+      "name": "Skøyte",
+      "shareName": "en skøyte",
+      "emoji": null,
+      "description": "Du er rask, smidig og full av piruetter. Du glir elegant gjennom dagen, selv når det er glatt.",
+      "funFact": "De eldste skøytene man kjenner til, var laget av dyrebein og er flere tusen år gamle.",
+      "image": "images/2026-10-02/skoyte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glatt",
+          "text": "Glir gjennom alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta sjanser."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Elsker kalde dager."
+        },
+        {
+          "title": "Smidig",
+          "text": "Snurrer rundt med letthet."
         }
       ]
     }
