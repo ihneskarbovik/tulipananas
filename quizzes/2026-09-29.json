@@ -1,0 +1,555 @@
+{
+  "id": "2026-09-29",
+  "date": "2026-09-29",
+  "title": "Hvilket kjøkkenredskap er du i dag?",
+  "intro": "Noen snur, noen visper og noen høvler. Finn ut hvilken jobb du gjør best på kjøkkenet i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du først når du kommer hjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter på kaffen",
+          "scores": {
+            "kaffekjele": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snur hele planen for kvelden",
+          "scores": {
+            "stekespade": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Begynner på tre ting samtidig",
+          "scores": {
+            "visp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder – alt skal ligge på plass",
+          "scores": {
+            "ostehovel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Legger meg flat på sofaen",
+          "scores": {
+            "kjevle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager noe godt til alle",
+          "scores": {
+            "sleiv": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags musikk passer deg i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolig jazz",
+          "scores": {
+            "kaffekjele": 2,
+            "pepperkvern": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høy popmusikk",
+          "scores": {
+            "visp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hard rock",
+          "scores": {
+            "rivjern": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Allsang med venner",
+          "scores": {
+            "sleiv": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe litt eksotisk jeg aldri har hørt før",
+          "scores": {
+            "pepperkvern": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du skal på fest. Hvilken rolle tar du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som snur stemningen",
+          "scores": {
+            "stekespade": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som får alle i gang",
+          "scores": {
+            "visp": 2,
+            "sleiv": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som passer på at det er nok til alle",
+          "scores": {
+            "ostehovel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som krydrer praten med gode historier",
+          "scores": {
+            "pepperkvern": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som sitter i sofaen og lytter",
+          "scores": {
+            "kjevle": 2,
+            "kaffekjele": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som sier ting rett ut",
+          "scores": {
+            "rivjern": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Velg en helgeaktivitet:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bake brød",
+          "scores": {
+            "kjevle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stor middag for hele gjengen",
+          "scores": {
+            "sleiv": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gå på loppemarked",
+          "scores": {
+            "rivjern": 2,
+            "ostehovel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Dra på tur med termos",
+          "scores": {
+            "kaffekjele": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøve en ny restaurant",
+          "scores": {
+            "pepperkvern": 2,
+            "stekespade": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva er supermakten din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg snur dårlige dager til gode",
+          "scores": {
+            "stekespade": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg har alltid energi",
+          "scores": {
+            "visp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg er nøyaktig ned til millimeteren",
+          "scores": {
+            "ostehovel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg får alle til å slappe av",
+          "scores": {
+            "kjevle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg ser detaljene ingen andre ser",
+          "scores": {
+            "rivjern": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg gjør alt litt mer spennende",
+          "scores": {
+            "pepperkvern": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva spiser du helst til frokost?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brødskive med brunost",
+          "scores": {
+            "ostehovel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grøt, gjerne en stor porsjon",
+          "scores": {
+            "sleiv": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Egg og bacon",
+          "scores": {
+            "stekespade": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pannekaker",
+          "scores": {
+            "visp": 2,
+            "kjevle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare kaffe, takk",
+          "scores": {
+            "kaffekjele": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva sier vennene dine om deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Du deler alltid rettferdig»",
+          "scores": {
+            "ostehovel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Du er så lun og god»",
+          "scores": {
+            "kaffekjele": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Du er skarpere enn du ser ut»",
+          "scores": {
+            "rivjern": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Du tar alt med ro»",
+          "scores": {
+            "kjevle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Du er så raus»",
+          "scores": {
+            "sleiv": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "«Du har alltid litt ekstra krydder»",
+          "scores": {
+            "pepperkvern": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stekespade",
+      "name": "Stekespade",
+      "shareName": "en stekespade",
+      "emoji": null,
+      "description": "Du er den som snur ting til det bedre. Når noe holder på å svi seg, er du der på et blunk.",
+      "funFact": "Det engelske ordet «spatula» kommer fra latin og betyr en liten, flat spade.",
+      "image": "images/2026-09-29/stekespade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snarrådig",
+          "text": "Snur alt til det bedre."
+        },
+        {
+          "title": "Varm",
+          "text": "Tåler høy temperatur."
+        },
+        {
+          "title": "Modig",
+          "text": "Kaster deg ut i det."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Bøyer seg, knekker ikke."
+        }
+      ]
+    },
+    {
+      "id": "visp",
+      "name": "Visp",
+      "shareName": "en visp",
+      "emoji": null,
+      "description": "Du er ren energi og får fart på alt rundt deg. Der du er, blir det luftig, lett og litt kaotisk.",
+      "funFact": "Når du visper eggehviter, blåser du inn så mye luft at de kan bli opptil åtte ganger så store.",
+      "image": "images/2026-09-29/visp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid i full fart."
+        },
+        {
+          "title": "Leken",
+          "text": "Gjør alt til moro."
+        },
+        {
+          "title": "Rask",
+          "text": "Ferdig før de andre."
+        },
+        {
+          "title": "Luftig",
+          "text": "Lett til sinns i dag."
+        }
+      ]
+    },
+    {
+      "id": "ostehovel",
+      "name": "Ostehøvel",
+      "shareName": "en ostehøvel",
+      "emoji": null,
+      "description": "Du er nøyaktig, rettferdig og ekte norsk. Alle får akkurat like mye når du har ansvaret.",
+      "funFact": "Ostehøvelen ble oppfunnet av snekkeren Thor Bjørklund på Lillehammer, som fikk patent på den i 1925.",
+      "image": "images/2026-09-29/ostehovel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rettferdig",
+          "text": "Deler alltid likt."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Millimeterpresis hver gang."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Enkel og genial."
+        },
+        {
+          "title": "Stolt",
+          "text": "Norsk oppfinnelse, selvfølgelig."
+        }
+      ]
+    },
+    {
+      "id": "kjevle",
+      "name": "Kjevle",
+      "shareName": "et kjevle",
+      "emoji": null,
+      "description": "Du er rolig, stødig og glatter ut alle bekymringer. Med deg blir alt jevnt og fint.",
+      "funFact": "Til lefse og flatbrød brukes ofte et riflet kjevle, som lager små riller i deigen og hindrer at den blåser seg opp.",
+      "image": "images/2026-09-29/kjevle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingenting stresser deg."
+        },
+        {
+          "title": "Stødig",
+          "text": "Solid som tre."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar det i ditt tempo."
+        },
+        {
+          "title": "Koselig",
+          "text": "Lukter nybakt brød."
+        }
+      ]
+    },
+    {
+      "id": "sleiv",
+      "name": "Sleiv",
+      "shareName": "en sleiv",
+      "emoji": null,
+      "description": "Du er raus og deler gjerne ut av det du har. Hos deg går ingen sultne fra bordet.",
+      "funFact": "Ordet sleiv kommer fra norrønt «sleif», så vikingene hadde nesten samme ord for det samme redskapet.",
+      "image": "images/2026-09-29/sleiv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Øser ut av hjertet."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker store gryter."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid der du trengs."
+        }
+      ]
+    },
+    {
+      "id": "rivjern",
+      "name": "Rivjern",
+      "shareName": "et rivjern",
+      "emoji": null,
+      "description": "Du er skarp, direkte og legger merke til alt. Du tar store ting og gjør dem små og enkle.",
+      "funFact": "Revet ost smelter raskere enn en hel bit, fordi de små bitene til sammen har mye større overflate.",
+      "image": "images/2026-09-29/rivjern.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Ser alle detaljene."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort fort."
+        },
+        {
+          "title": "Kantete",
+          "text": "Litt ru i kantene."
+        }
+      ]
+    },
+    {
+      "id": "pepperkvern",
+      "name": "Pepperkvern",
+      "shareName": "en pepperkvern",
+      "emoji": null,
+      "description": "Du er krydderet i hverdagen. Med noen små vri gjør du alt litt mer spennende.",
+      "funFact": "I middelalderen var pepper så verdifullt at det kunne brukes som betaling, blant annet for å betale husleie.",
+      "image": "images/2026-09-29/pepperkvern.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spennende",
+          "text": "Aldri kjedelig i nærheten."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Drømmer om fjerne land."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Har alltid et svar."
+        },
+        {
+          "title": "Stilig",
+          "text": "Står fint på bordet."
+        }
+      ]
+    },
+    {
+      "id": "kaffekjele",
+      "name": "Kaffekjele",
+      "shareName": "en kaffekjele",
+      "emoji": null,
+      "description": "Du er varm, lun og samler folk rundt deg. Med deg i nærheten blir alle litt mer våkne og glade.",
+      "funFact": "Nordmenn er blant dem i verden som drikker mest kaffe per person, og mange koker fortsatt kaffe i kjele på tur.",
+      "image": "images/2026-09-29/kaffekjele.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Varmer på kalde dager."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle vil sitte nær."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det gamle, gode."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Alltid klar for en prat."
+        }
+      ]
+    }
+  ]
+}

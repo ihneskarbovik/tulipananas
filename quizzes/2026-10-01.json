@@ -1,0 +1,564 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "title": "Hvilken sko er du i dag?",
+  "intro": "Alle har en sko som passer akkurat i dag. Snør deg inn og finn ut hvilken.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper en lang tur",
+          "scores": {
+            "joggesko": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hopper i sølepytter",
+          "scores": {
+            "gummistovel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir i pysjen hele dagen",
+          "scores": {
+            "toffel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går på fjellet",
+          "scores": {
+            "fjellstovel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Danser rundt i stua",
+          "scores": {
+            "ballettsko": 2,
+            "skoyte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sitter i sola på en benk",
+          "scores": {
+            "sandal": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan er du når det er dårlig vær?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endelig! Jeg elsker regn",
+          "scores": {
+            "gummistovel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tenner peisen og blir inne",
+          "scores": {
+            "toffel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar på meg alt og går ut likevel",
+          "scores": {
+            "fjellstovel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drømmer meg bort til Syden",
+          "scores": {
+            "sandal": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Håper det blir kaldt nok til is på vannet",
+          "scores": {
+            "skoyte": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket ord beskriver deg best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rask",
+          "scores": {
+            "joggesko": 2,
+            "skoyte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Elegant",
+          "scores": {
+            "ballettsko": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Avslappet",
+          "scores": {
+            "sandal": 2,
+            "toffel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Solid",
+          "scores": {
+            "fjellstovel": 2,
+            "tresko": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Annerledes",
+          "scores": {
+            "tresko": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Uredd",
+          "scores": {
+            "gummistovel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva liker du best å spise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pasta før en treningsøkt",
+          "scores": {
+            "joggesko": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Varm kakao",
+          "scores": {
+            "skoyte": 2,
+            "toffel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Is på stranda",
+          "scores": {
+            "sandal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nistepakke på en topp",
+          "scores": {
+            "fjellstovel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ost fra et marked",
+          "scores": {
+            "tresko": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe lett og lekkert",
+          "scores": {
+            "ballettsko": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan er du i en gruppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som alltid er først",
+          "scores": {
+            "joggesko": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som holder takten",
+          "scores": {
+            "ballettsko": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som gjør alle rolige",
+          "scores": {
+            "toffel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som tør å skille seg ut",
+          "scores": {
+            "tresko": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som glir inn overalt",
+          "scores": {
+            "skoyte": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Velg en lyd:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plask i en vannpytt",
+          "scores": {
+            "gummistovel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knirk i et gammelt tregulv",
+          "scores": {
+            "tresko": 2,
+            "toffel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bølger mot stranda",
+          "scores": {
+            "sandal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Klassisk piano",
+          "scores": {
+            "ballettsko": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skraping mot blank is",
+          "scores": {
+            "skoyte": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vind over vidda",
+          "scores": {
+            "fjellstovel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva ville vennene dine sagt om deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Umulig å holde følge med»",
+          "scores": {
+            "joggesko": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Tåler alt»",
+          "scores": {
+            "gummistovel": 2,
+            "fjellstovel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Den koseligste jeg vet»",
+          "scores": {
+            "toffel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Litt gammeldags, på en god måte»",
+          "scores": {
+            "tresko": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Alltid på ferie i hodet»",
+          "scores": {
+            "sandal": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "«Så grasiøs»",
+          "scores": {
+            "skoyte": 2,
+            "ballettsko": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "joggesko",
+      "name": "Joggesko",
+      "shareName": "en joggesko",
+      "emoji": null,
+      "description": "Du er rask, sporty og alltid klar for neste runde. Du liker å være i bevegelse, helst litt fortere enn alle andre.",
+      "funFact": "På engelsk heter joggesko ofte «sneakers», fordi de myke gummisålene gjorde det lett å snike seg lydløst rundt.",
+      "image": "images/2026-10-01/joggesko.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Først over målstreken."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for trening."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Klar før startskuddet."
+        },
+        {
+          "title": "Lett",
+          "text": "Svever over asfalten."
+        }
+      ]
+    },
+    {
+      "id": "gummistovel",
+      "name": "Gummistøvel",
+      "shareName": "en gummistøvel",
+      "emoji": null,
+      "description": "Du er tøff, praktisk og redd for ingenting. Der andre ser en sølepytt, ser du en mulighet.",
+      "funFact": "På engelsk kalles gummistøvler ofte «wellingtons», etter den britiske hertugen av Wellington.",
+      "image": "images/2026-10-01/gummistovel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uredd",
+          "text": "Hopper rett i pytten."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Klar for alt vær."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å søle."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler det meste."
+        }
+      ]
+    },
+    {
+      "id": "toffel",
+      "name": "Tøffel",
+      "shareName": "en tøffel",
+      "emoji": null,
+      "description": "Du er myk, varm og ekspert på kos. Hos deg føler alle seg hjemme med én gang.",
+      "funFact": "Ordet tøffel kom til norsk fra nedertysk, som også har gitt oss mange andre hverdagsord.",
+      "image": "images/2026-10-01/toffel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Mester i hygge."
+        },
+        {
+          "title": "Varm",
+          "text": "Holder tærne gode."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast i dag."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Sofaen er best."
+        }
+      ]
+    },
+    {
+      "id": "ballettsko",
+      "name": "Ballettsko",
+      "shareName": "en ballettsko",
+      "emoji": null,
+      "description": "Du er elegant, disiplinert og har rytmen i blodet. Du får selv vanskelige ting til å se lette ut.",
+      "funFact": "Tåspiss-sko har en stiv tupp som tradisjonelt lages av lag med stoff, papp og lim.",
+      "image": "images/2026-10-01/ballettsko.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Beveger deg med stil."
+        },
+        {
+          "title": "Disiplinert",
+          "text": "Øver til det sitter."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Rytmen i blodet."
+        },
+        {
+          "title": "Grasiøs",
+          "text": "Lander alltid på tærne."
+        }
+      ]
+    },
+    {
+      "id": "sandal",
+      "name": "Sandal",
+      "shareName": "en sandal",
+      "emoji": null,
+      "description": "Du er avslappet og har alltid litt sommer i hjertet. Du lar tærne puste og tar livet som det kommer.",
+      "funFact": "Sandaler er blant verdens eldste sko. Noen som ble funnet i en hule i Oregon i USA, er rundt 9000 år gamle.",
+      "image": "images/2026-10-01/sandal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Solglad",
+          "text": "Følger alltid sola."
+        },
+        {
+          "title": "Fri",
+          "text": "Liker ikke stramme rammer."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen dresskode her."
+        }
+      ]
+    },
+    {
+      "id": "fjellstovel",
+      "name": "Fjellstøvel",
+      "shareName": "en fjellstøvel",
+      "emoji": null,
+      "description": "Du er solid, stødig og elsker frisk luft. Du tar deg fram uansett terreng og vær.",
+      "funFact": "Mange fjellstøvler har en membran med bittesmå hull som slipper damp ut, men er for små til at vanndråper kommer inn.",
+      "image": "images/2026-10-01/fjellstovel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt overalt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går og går."
+        },
+        {
+          "title": "Friluftsglad",
+          "text": "Hjemme på fjellet."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Svikter aldri på tur."
+        }
+      ]
+    },
+    {
+      "id": "tresko",
+      "name": "Tresko",
+      "shareName": "en tresko",
+      "emoji": null,
+      "description": "Du er annerledes og står stolt ved det. Du liker gamle tradisjoner og gjør ting på din egen måte.",
+      "funFact": "Tresko er så kjent i Nederland at de har blitt et av landets mest brukte symboler, sammen med tulipaner og vindmøller.",
+      "image": "images/2026-10-01/tresko.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Original",
+          "text": "Helt din egen stil."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i det gamle."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Solid",
+          "text": "Laget for å vare."
+        }
+      ]
+    },
+    {
+      "id": "skoyte",
+      "name": "Skøyte",
+      "shareName": "en skøyte",
+      "emoji": null,
+      "description": "Du er rask, smidig og full av piruetter. Du glir elegant gjennom dagen, selv når det er glatt.",
+      "funFact": "De eldste skøytene man kjenner til, var laget av dyrebein og er flere tusen år gamle.",
+      "image": "images/2026-10-01/skoyte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glatt",
+          "text": "Glir gjennom alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta sjanser."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Elsker kalde dager."
+        },
+        {
+          "title": "Smidig",
+          "text": "Snurrer rundt med letthet."
+        }
+      ]
+    }
+  ]
+}

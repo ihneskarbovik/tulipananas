@@ -1,0 +1,563 @@
+{
+  "id": "2026-10-03",
+  "date": "2026-10-03",
+  "title": "Hvilken grønnsak er du i dag?",
+  "intro": "Det er høst og innhøsting. Grav litt i deg selv og finn ut hvilken grønnsak du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan er humøret ditt i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solid og stabilt",
+          "scores": {
+            "potet": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Friskt og kjølig",
+          "scores": {
+            "agurk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sprudlende og fargerikt",
+          "scores": {
+            "paprika": 2,
+            "tomat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt følelsesladet",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klar for høst og kos",
+          "scores": {
+            "gresskar": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sprekt og fullt av energi",
+          "scores": {
+            "gulrot": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du helst i helgen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trener og er mye ute",
+          "scores": {
+            "brokkoli": 2,
+            "gulrot": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager mat til hele familien",
+          "scores": {
+            "potet": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pynter til fest",
+          "scores": {
+            "gresskar": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drar på stranda eller spa",
+          "scores": {
+            "agurk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver noe helt nytt",
+          "scores": {
+            "paprika": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Drømmer meg bort til en kafé i Italia",
+          "scores": {
+            "tomat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken rolle har du i vennegjengen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den sunne som får alle med på tur",
+          "scores": {
+            "brokkoli": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den alle kan stole på",
+          "scores": {
+            "potet": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den med mange lag",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som holder hodet kaldt",
+          "scores": {
+            "agurk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den varme som rødmer lett",
+          "scores": {
+            "tomat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags vær liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sol og varme",
+          "scores": {
+            "paprika": 2,
+            "tomat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gyllen høst",
+          "scores": {
+            "gresskar": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjølig og friskt",
+          "scores": {
+            "brokkoli": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt vind og regn",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klarvær og frost",
+          "scores": {
+            "gulrot": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva er din skjulte egenskap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg ser lyst på alt",
+          "scores": {
+            "gulrot": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir bedre med tiden",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg passer til alt",
+          "scores": {
+            "potet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg er mye sterkere enn folk tror",
+          "scores": {
+            "brokkoli": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg er egentlig en frukt",
+          "scores": {
+            "tomat": 2,
+            "gresskar": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg kan være både mild og sterk",
+          "scores": {
+            "paprika": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Velg en rett:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pizza",
+          "scores": {
+            "tomat": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Suppe",
+          "scores": {
+            "gresskar": 2,
+            "lok": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Wok",
+          "scores": {
+            "brokkoli": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Salat",
+          "scores": {
+            "agurk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fiskeboller med poteter",
+          "scores": {
+            "potet": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smoothie",
+          "scores": {
+            "gulrot": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva ville vennene dine sagt om deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Alltid kul og avslappet»",
+          "scores": {
+            "agurk": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Så sprek og blid»",
+          "scores": {
+            "gulrot": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Full av overraskelser»",
+          "scores": {
+            "paprika": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Det tok tid å bli kjent med deg, men det var verdt det»",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Stor, rund og koselig»",
+          "scores": {
+            "gresskar": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "«Kjempesunn og litt stolt av det»",
+          "scores": {
+            "brokkoli": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "gulrot",
+      "name": "Gulrot",
+      "shareName": "en gulrot",
+      "emoji": null,
+      "description": "Du er sprek, blid og full av energi. Du ser lyst på det meste og har røttene godt plantet.",
+      "funFact": "De første dyrkede gulrøttene var lilla og gule. Den oransje gulrota ble vanlig først på 1600-tallet, blant annet i Nederland.",
+      "image": "images/2026-10-03/gulrot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Blid",
+          "text": "Oransje humør hele dagen."
+        },
+        {
+          "title": "Sprø",
+          "text": "Knasende morsom."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Røttene på plass."
+        }
+      ]
+    },
+    {
+      "id": "brokkoli",
+      "name": "Brokkoli",
+      "shareName": "en brokkoli",
+      "emoji": null,
+      "description": "Du er sterk, sunn og mye tøffere enn folk tror. Du ser ut som et lite tre og står like støtt.",
+      "funFact": "Brokkoli er samme planteart som blomkål, hodekål og rosenkål, bare foredlet på forskjellige måter.",
+      "image": "images/2026-10-03/brokkoli.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på deg."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står rakt som et tre."
+        },
+        {
+          "title": "Grønn",
+          "text": "Elsker natur og friluft."
+        }
+      ]
+    },
+    {
+      "id": "tomat",
+      "name": "Tomat",
+      "shareName": "en tomat",
+      "emoji": null,
+      "description": "Du er varm, saftig og litt sjenert. Du har mye italiensk temperament under det røde skallet.",
+      "funFact": "Botanisk sett er tomaten et bær.",
+      "image": "images/2026-10-03/tomat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Rødmer lett."
+        },
+        {
+          "title": "Saftig",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Sosial",
+          "text": "Passer i alt godt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Egentlig et bær."
+        }
+      ]
+    },
+    {
+      "id": "potet",
+      "name": "Potet",
+      "shareName": "en potet",
+      "emoji": null,
+      "description": "Du er jordnær, trygg og passer inn overalt. Alle trenger en som deg på middagsbordet.",
+      "funFact": "Poteten ble vanlig i Norge på 1700-tallet, og prestene som reklamerte for den, ble kalt potetprester.",
+      "image": "images/2026-10-03/potet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alle kan stole på deg."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer i alt."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Beina godt plantet."
+        },
+        {
+          "title": "Folkekjær",
+          "text": "Alle liker deg."
+        }
+      ]
+    },
+    {
+      "id": "agurk",
+      "name": "Agurk",
+      "shareName": "en agurk",
+      "emoji": null,
+      "description": "Du er kul, rolig og forfriskende å være sammen med. Du holder hodet kaldt selv når det koker rundt deg.",
+      "funFact": "En agurk består av rundt 95 prosent vann.",
+      "image": "images/2026-10-03/agurk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Frisk",
+          "text": "Forfriskende selskap."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress her."
+        },
+        {
+          "title": "Lett",
+          "text": "Nesten bare vann."
+        }
+      ]
+    },
+    {
+      "id": "gresskar",
+      "name": "Gresskar",
+      "shareName": "et gresskar",
+      "emoji": null,
+      "description": "Du er stor, rund og full av høstkos. Du lyser opp mørke kvelder og gjør alt litt mer festlig.",
+      "funFact": "Gresskar er i samme plantefamilie som agurk, squash og melon.",
+      "image": "images/2026-10-03/gresskar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Mester i høstkos."
+        },
+        {
+          "title": "Festlig",
+          "text": "Elsker å pynte."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        },
+        {
+          "title": "Lysende",
+          "text": "Lyser opp mørket."
+        }
+      ]
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "shareName": "en paprika",
+      "emoji": null,
+      "description": "Du er fargerik og full av overraskelser. Du kan være både mild og sterk, alt etter dagen.",
+      "funFact": "Grønn paprika er som regel bare en paprika som er høstet før den har blitt moden og fått farge.",
+      "image": "images/2026-10-03/paprika.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Rød, gul eller grønn."
+        },
+        {
+          "title": "Variert",
+          "text": "Aldri helt lik."
+        },
+        {
+          "title": "Sprø",
+          "text": "Knaser av glede."
+        },
+        {
+          "title": "Spennende",
+          "text": "Full av overraskelser."
+        }
+      ]
+    },
+    {
+      "id": "lok",
+      "name": "Løk",
+      "shareName": "en løk",
+      "emoji": null,
+      "description": "Du er full av lag og store følelser. Du gjør alt du er med på litt bedre.",
+      "funFact": "Løk får deg til å gråte fordi den slipper ut en gass som irriterer øynene når du skjærer i den.",
+      "image": "images/2026-10-03/lok.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Mange lag inni."
+        },
+        {
+          "title": "Følsom",
+          "text": "Rører folk til tårer."
+        },
+        {
+          "title": "Viktig",
+          "text": "Ingen middag uten deg."
+        },
+        {
+          "title": "Tøff",
+          "text": "Står imot det meste."
+        }
+      ]
+    }
+  ]
+}
