@@ -6,138 +6,102 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan har du det i dag?",
+      "text": "Hva er det første du gjør når du våkner?",
       "options": [
         {
           "id": "a",
-          "text": "Stor og rolig",
+          "text": "Strekker meg sakte",
           "scores": {
-            "blahval": 2
+            "blahval": 2,
+            "sjostjerne": 1
           }
         },
         {
           "id": "b",
-          "text": "Klar for å gjøre ti ting samtidig",
+          "text": "Lager en liste over dagen",
           "scores": {
             "blekksprut": 2
           }
         },
         {
           "id": "c",
-          "text": "Litt sjenert, men blid",
+          "text": "Blir liggende og dagdrømmer",
           "scores": {
-            "klovnefisk": 2,
+            "manet": 2,
             "sjohest": 1
           }
         },
         {
           "id": "d",
-          "text": "Avslappet og flytende",
+          "text": "Snur meg og sover litt til",
           "scores": {
-            "manet": 2
+            "sel": 2,
+            "sjostjerne": 1
           }
         },
         {
           "id": "e",
-          "text": "Sulten og leken",
+          "text": "Mumler noe surt til vekkerklokka",
           "scores": {
-            "sel": 2
+            "krabbe": 2
           }
         },
         {
           "id": "f",
-          "text": "Litt knipsete",
+          "text": "Synger i dusjen",
           "scores": {
-            "krabbe": 2
+            "klovnefisk": 2,
+            "blahval": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en regnværsdag?",
+      "text": "Hvilket pålegg velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Lager noe med hendene",
+          "text": "Leverpostei",
+          "scores": {
+            "krabbe": 2,
+            "blahval": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jordbærsyltetøy",
+          "scores": {
+            "sjohest": 2,
+            "klovnefisk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brunost",
+          "scores": {
+            "sel": 2,
+            "blahval": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt av alt på én skive",
           "scores": {
             "blekksprut": 2
           }
         },
         {
-          "id": "b",
-          "text": "Ligger på stranda uansett",
-          "scores": {
-            "sel": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Driver rundt uten plan",
-          "scores": {
-            "manet": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Bygger en koselig hule",
-          "scores": {
-            "klovnefisk": 2,
-            "krabbe": 1
-          }
-        },
-        {
           "id": "e",
-          "text": "Skriver dagbok",
+          "text": "Bare smør",
           "scores": {
-            "sjohest": 2
+            "sjostjerne": 2,
+            "manet": 1
           }
         },
         {
           "id": "f",
-          "text": "Synger høyt",
-          "scores": {
-            "blahval": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hva er ditt beste talent?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Å lytte",
-          "scores": {
-            "blahval": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Å løse gåter",
-          "scores": {
-            "blekksprut": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Å komme meg på beina igjen",
-          "scores": {
-            "sjostjerne": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Å beskytte dem jeg er glad i",
-          "scores": {
-            "krabbe": 2,
-            "sjohest": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Å få folk til å le",
+          "text": "Nugatti",
           "scores": {
             "klovnefisk": 2,
             "sel": 1
@@ -146,124 +110,244 @@
       ]
     },
     {
-      "id": "q4",
-      "text": "Hvor bor du helst?",
+      "id": "q3",
+      "text": "Hvordan er du i en gruppe?",
       "options": [
         {
           "id": "a",
-          "text": "Midt i havet, langt fra alle",
+          "text": "Den som holder styr på alt",
           "scores": {
-            "blahval": 2,
-            "manet": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "I fjæra, der det skjer mye",
-          "scores": {
-            "sjostjerne": 2,
+            "blekksprut": 2,
             "krabbe": 1
           }
         },
         {
-          "id": "c",
-          "text": "På et skjær i sola",
+          "id": "b",
+          "text": "Den som får alle til å le",
           "scores": {
-            "sel": 2
+            "klovnefisk": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den rolige som alle stoler på",
+          "scores": {
+            "blahval": 2,
+            "sjostjerne": 1
           }
         },
         {
           "id": "d",
-          "text": "I et fargerikt korallrev",
+          "text": "Den som sier lite, men legger merke til mye",
           "scores": {
-            "klovnefisk": 2
+            "sjohest": 2,
+            "manet": 1
           }
         },
         {
           "id": "e",
-          "text": "I en tareskog",
+          "text": "Den som protesterer litt først",
           "scores": {
-            "sjohest": 2
+            "krabbe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som forsvinner inn i tankene",
+          "scores": {
+            "manet": 2,
+            "blahval": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du på en regnværsdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bygger noe av papp og teip",
+          "scores": {
+            "blekksprut": 2,
+            "krabbe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser under et pledd",
+          "scores": {
+            "sjohest": 2,
+            "sjostjerne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer hele gjengen",
+          "scores": {
+            "sel": 2,
+            "klovnefisk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser ut av vinduet lenge",
+          "scores": {
+            "manet": 2,
+            "blahval": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Baker boller",
+          "scores": {
+            "sjostjerne": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder skuffen med rot",
+          "scores": {
+            "krabbe": 2,
+            "blekksprut": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan reagerer du når noe går galt?",
+      "text": "Hvilken sang nynner du på?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg gjemmer meg til det går over",
+          "text": "En rolig vuggevise",
           "scores": {
-            "blekksprut": 2
+            "blahval": 2,
+            "sjohest": 1
           }
         },
         {
           "id": "b",
-          "text": "Jeg blir litt sur og går sidelengs unna",
+          "text": "En sang du har funnet på selv",
           "scores": {
-            "krabbe": 2
+            "blekksprut": 2,
+            "manet": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg bygger meg opp igjen, bit for bit",
+          "text": "Noe som får alle til å danse",
+          "scores": {
+            "klovnefisk": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det samme refrenget om og om igjen",
           "scores": {
             "sjostjerne": 2
           }
         },
         {
-          "id": "d",
-          "text": "Jeg lar det bare flyte forbi",
-          "scores": {
-            "manet": 2
-          }
-        },
-        {
           "id": "e",
-          "text": "Jeg holder meg fast i noen jeg stoler på",
+          "text": "Noe rock",
           "scores": {
-            "sjohest": 2
+            "krabbe": 2
           }
         },
         {
           "id": "f",
-          "text": "Jeg finner trøst hjemme",
+          "text": "Noe som høres ut som fra en film",
           "scores": {
-            "klovnefisk": 2
+            "manet": 2,
+            "sjohest": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Velg en snacks:",
+      "text": "Hva er ditt skjulte talent?",
       "options": [
         {
           "id": "a",
-          "text": "Småreker",
+          "text": "Å huske alles bursdager",
           "scores": {
-            "blahval": 2
+            "blahval": 2,
+            "klovnefisk": 1
           }
         },
         {
           "id": "b",
-          "text": "Fersk fisk",
+          "text": "Å gjøre fem ting på en gang",
           "scores": {
-            "sel": 2
+            "blekksprut": 2
           }
         },
         {
           "id": "c",
-          "text": "Blåskjell",
+          "text": "Å slappe av hvor som helst",
+          "scores": {
+            "sjostjerne": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å tegne bitte små detaljer",
+          "scores": {
+            "sjohest": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å vinne diskusjoner",
+          "scores": {
+            "krabbe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å bli nesten usynlig i et rom",
+          "scores": {
+            "manet": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken dessert velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor iskrem med alt på",
+          "scores": {
+            "blahval": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre små kaker, så jeg får smake alt",
+          "scores": {
+            "blekksprut": 2,
+            "klovnefisk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Riskrem",
           "scores": {
             "sjostjerne": 2
           }
         },
         {
           "id": "d",
-          "text": "Noe lite og lett",
+          "text": "Sukkerspinn",
           "scores": {
             "manet": 2,
             "sjohest": 1
@@ -271,59 +355,17 @@
         },
         {
           "id": "e",
-          "text": "Noe jeg har fanget selv",
+          "text": "Sjokolade med nøtter",
           "scores": {
-            "blekksprut": 2,
-            "krabbe": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva sier vennene dine om deg?",
-      "options": [
-        {
-          "id": "a",
-          "text": "«Du er uten tvil den smarteste»",
-          "scores": {
-            "blekksprut": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "«Du gir aldri opp»",
-          "scores": {
-            "sjostjerne": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "«Du er så fin å se på»",
-          "scores": {
-            "manet": 2,
-            "klovnefisk": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "«Du er lojal til siste slutt»",
-          "scores": {
-            "sjohest": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "«Du er alltid klar for moro»",
-          "scores": {
-            "sel": 2
+            "krabbe": 2
           }
         },
         {
           "id": "f",
-          "text": "«Du er tøff utenpå, men myk inni»",
+          "text": "Vafler med venner",
           "scores": {
-            "krabbe": 2
+            "sel": 2,
+            "klovnefisk": 1
           }
         }
       ]
@@ -331,170 +373,30 @@
   ],
   "outcomes": [
     {
-      "id": "blahval",
-      "name": "Blåhval",
-      "shareName": "en blåhval",
+      "id": "klovnefisk",
+      "name": "Klovnefisk",
+      "shareName": "en klovnefisk",
       "emoji": null,
-      "description": "Du er stor i hjertet og rolig i sjelen. Når du først sier noe, høres det over hele havet.",
-      "funFact": "Blåhvalen er det største dyret som noen gang har levd på jorda, større enn noen dinosaur.",
-      "image": "images/2026-10-03/blahval.jpg",
+      "description": "Du er fargerik, morsom og elsker hjemmet ditt. Du finner trygghet der andre ser fare.",
+      "funFact": "Klovnefisken bor trygt blant brennende sjøanemoner, fordi den har et slimlag som beskytter den.",
+      "image": "images/2026-10-03/klovnefisk.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Rolig",
-          "text": "Svømmer i ditt tempo."
+          "title": "Morsom",
+          "text": "Får alle til å le."
         },
         {
-          "title": "Raus",
-          "text": "Et enormt hjerte."
+          "title": "Fargerik",
+          "text": "Oransje med striper."
         },
         {
-          "title": "Klok",
-          "text": "Har sett mye."
+          "title": "Hjemmekjær",
+          "text": "Hjemme er best."
         },
         {
-          "title": "Sangglad",
-          "text": "Stemmen bærer langt."
-        }
-      ]
-    },
-    {
-      "id": "blekksprut",
-      "name": "Blekksprut",
-      "shareName": "en blekksprut",
-      "emoji": null,
-      "description": "Du er smart, kreativ og har fingrene i alt. Du løser problemer før andre har skjønt at de finnes.",
-      "funFact": "En åttearmet blekksprut har tre hjerter og blått blod.",
-      "image": "images/2026-10-03/blekksprut.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Smart",
-          "text": "Løser alle gåter."
-        },
-        {
-          "title": "Kreativ",
-          "text": "Full av ideer."
-        },
-        {
-          "title": "Travel",
-          "text": "Åtte ting samtidig."
-        },
-        {
-          "title": "Lur",
-          "text": "Forsvinner når det trengs."
-        }
-      ]
-    },
-    {
-      "id": "sjostjerne",
-      "name": "Sjøstjerne",
-      "shareName": "en sjøstjerne",
-      "emoji": null,
-      "description": "Du er seig og kommer deg alltid på beina igjen. Du stråler i ditt eget, stille tempo.",
-      "funFact": "Sjøstjerner kan vokse ut en ny arm hvis de mister en.",
-      "image": "images/2026-10-03/sjostjerne.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Seig",
-          "text": "Gir aldri opp."
-        },
-        {
-          "title": "Tålmodig",
-          "text": "Tar ting sakte."
-        },
-        {
-          "title": "Strålende",
-          "text": "Fem armer med glans."
-        },
-        {
-          "title": "Robust",
-          "text": "Tåler røffe bølger."
-        }
-      ]
-    },
-    {
-      "id": "krabbe",
-      "name": "Krabbe",
-      "shareName": "en krabbe",
-      "emoji": null,
-      "description": "Du er tøff utenpå og myk inni. Du passer godt på dine egne, selv om du kan knipe litt når du er sulten.",
-      "funFact": "Krabber går ofte sidelengs fordi beina deres bøyer seg lettest den veien.",
-      "image": "images/2026-10-03/krabbe.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Tøff",
-          "text": "Hardt skall utenpå."
-        },
-        {
-          "title": "Myk",
-          "text": "Snill innerst inne."
-        },
-        {
-          "title": "Beskyttende",
-          "text": "Passer på de dine."
-        },
-        {
-          "title": "Uventet",
-          "text": "Går gjerne sidelengs."
-        }
-      ]
-    },
-    {
-      "id": "manet",
-      "name": "Manet",
-      "shareName": "en manet",
-      "emoji": null,
-      "description": "Du er avslappet og lar strømmen ta deg dit den vil. Du er vakker på en litt mystisk måte.",
-      "funFact": "Maneter har verken hjerne, hjerte eller bein, og likevel har de levd i havet i mer enn 500 millioner år.",
-      "image": "images/2026-10-03/manet.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Avslappet",
-          "text": "Flyter med strømmen."
-        },
-        {
-          "title": "Mystisk",
-          "text": "Glitrer i mørket."
-        },
-        {
-          "title": "Bekymringsfri",
-          "text": "Ingen hjerne, ingen stress."
-        },
-        {
-          "title": "Elegant",
-          "text": "Svever gjennom vannet."
-        }
-      ]
-    },
-    {
-      "id": "sel",
-      "name": "Sel",
-      "shareName": "en sel",
-      "emoji": null,
-      "description": "Du er leken, sosial og elsker en god pause i sola. Du får alle rundt deg til å smile.",
-      "funFact": "Seler kan holde pusten lenge under vann. Steinkobben, som er vanlig langs norskekysten, klarer opptil en halvtime.",
-      "image": "images/2026-10-03/sel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Leken",
-          "text": "Alltid klar for moro."
-        },
-        {
-          "title": "Sosial",
-          "text": "Trives i flokk."
-        },
-        {
-          "title": "Sulten",
-          "text": "Alltid plass til fisk."
-        },
-        {
-          "title": "Solglad",
-          "text": "Elsker å slappe av."
+          "title": "Trygg",
+          "text": "Bor der andre brennes."
         }
       ]
     },
@@ -527,30 +429,170 @@
       ]
     },
     {
-      "id": "klovnefisk",
-      "name": "Klovnefisk",
-      "shareName": "en klovnefisk",
+      "id": "sel",
+      "name": "Sel",
+      "shareName": "en sel",
       "emoji": null,
-      "description": "Du er fargerik, morsom og elsker hjemmet ditt. Du finner trygghet der andre ser fare.",
-      "funFact": "Klovnefisken bor trygt blant brennende sjøanemoner, fordi den har et slimlag som beskytter den.",
-      "image": "images/2026-10-03/klovnefisk.jpg",
+      "description": "Du er leken, sosial og elsker en god pause i sola. Du får alle rundt deg til å smile.",
+      "funFact": "Seler kan holde pusten lenge under vann. Steinkobben, som er vanlig langs norskekysten, klarer opptil en halvtime.",
+      "image": "images/2026-10-03/sel.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Morsom",
-          "text": "Får alle til å le."
+          "title": "Leken",
+          "text": "Alltid klar for moro."
         },
         {
-          "title": "Fargerik",
-          "text": "Oransje med striper."
+          "title": "Sosial",
+          "text": "Trives i flokk."
         },
         {
-          "title": "Hjemmekjær",
-          "text": "Hjemme er best."
+          "title": "Sulten",
+          "text": "Alltid plass til fisk."
         },
         {
-          "title": "Trygg",
-          "text": "Bor der andre brennes."
+          "title": "Solglad",
+          "text": "Elsker å slappe av."
+        }
+      ]
+    },
+    {
+      "id": "manet",
+      "name": "Manet",
+      "shareName": "en manet",
+      "emoji": null,
+      "description": "Du er avslappet og lar strømmen ta deg dit den vil. Du er vakker på en litt mystisk måte.",
+      "funFact": "Maneter har verken hjerne, hjerte eller bein, og likevel har de levd i havet i mer enn 500 millioner år.",
+      "image": "images/2026-10-03/manet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Flyter med strømmen."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Glitrer i mørket."
+        },
+        {
+          "title": "Bekymringsfri",
+          "text": "Ingen hjerne, ingen stress."
+        },
+        {
+          "title": "Elegant",
+          "text": "Svever gjennom vannet."
+        }
+      ]
+    },
+    {
+      "id": "sjostjerne",
+      "name": "Sjøstjerne",
+      "shareName": "en sjøstjerne",
+      "emoji": null,
+      "description": "Du er seig og kommer deg alltid på beina igjen. Du stråler i ditt eget, stille tempo.",
+      "funFact": "Sjøstjerner kan vokse ut en ny arm hvis de mister en.",
+      "image": "images/2026-10-03/sjostjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar ting sakte."
+        },
+        {
+          "title": "Strålende",
+          "text": "Fem armer med glans."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler røffe bølger."
+        }
+      ]
+    },
+    {
+      "id": "blahval",
+      "name": "Blåhval",
+      "shareName": "en blåhval",
+      "emoji": null,
+      "description": "Du er stor i hjertet og rolig i sjelen. Når du først sier noe, høres det over hele havet.",
+      "funFact": "Blåhvalen er det største dyret som noen gang har levd på jorda, større enn noen dinosaur.",
+      "image": "images/2026-10-03/blahval.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Svømmer i ditt tempo."
+        },
+        {
+          "title": "Raus",
+          "text": "Et enormt hjerte."
+        },
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Sangglad",
+          "text": "Stemmen bærer langt."
+        }
+      ]
+    },
+    {
+      "id": "krabbe",
+      "name": "Krabbe",
+      "shareName": "en krabbe",
+      "emoji": null,
+      "description": "Du er tøff utenpå og myk inni. Du passer godt på dine egne, selv om du kan knipe litt når du er sulten.",
+      "funFact": "Krabber går ofte sidelengs fordi beina deres bøyer seg lettest den veien.",
+      "image": "images/2026-10-03/krabbe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Hardt skall utenpå."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill innerst inne."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på de dine."
+        },
+        {
+          "title": "Uventet",
+          "text": "Går gjerne sidelengs."
+        }
+      ]
+    },
+    {
+      "id": "blekksprut",
+      "name": "Blekksprut",
+      "shareName": "en blekksprut",
+      "emoji": null,
+      "description": "Du er smart, kreativ og har fingrene i alt. Du løser problemer før andre har skjønt at de finnes.",
+      "funFact": "En åttearmet blekksprut har tre hjerter og blått blod.",
+      "image": "images/2026-10-03/blekksprut.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Løser alle gåter."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Travel",
+          "text": "Åtte ting samtidig."
+        },
+        {
+          "title": "Lur",
+          "text": "Forsvinner når det trengs."
         }
       ]
     }

@@ -6,47 +6,156 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan er humøret ditt i dag?",
+      "text": "Hvordan vil du helst starte dagen?",
       "options": [
         {
           "id": "a",
-          "text": "Solid og stabilt",
+          "text": "Med en løpetur",
+          "scores": {
+            "gulrot": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med en god avis",
+          "scores": {
+            "brokkoli": 2,
+            "lok": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med musikk på full guffe",
+          "scores": {
+            "tomat": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med en stor frokost",
+          "scores": {
+            "potet": 2,
+            "gresskar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I ro og mak",
+          "scores": {
+            "agurk": 2,
+            "potet": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med å tegne litt",
+          "scores": {
+            "gresskar": 2,
+            "lok": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva tar du med på piknik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et kortspill",
+          "scores": {
+            "tomat": 2,
+            "brokkoli": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En termos med kakao",
+          "scores": {
+            "potet": 2,
+            "gresskar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En frisbee",
+          "scores": {
+            "gulrot": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En bok",
+          "scores": {
+            "lok": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Isvann med sitron",
+          "scores": {
+            "agurk": 2,
+            "gulrot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lys og en fin duk",
+          "scores": {
+            "gresskar": 2,
+            "tomat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket ord liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kos",
           "scores": {
             "potet": 2
           }
         },
         {
           "id": "b",
-          "text": "Friskt og kjølig",
+          "text": "Eventyr",
           "scores": {
-            "agurk": 2
+            "paprika": 2,
+            "gresskar": 1
           }
         },
         {
           "id": "c",
-          "text": "Sprudlende og fargerikt",
+          "text": "Ro",
           "scores": {
-            "paprika": 2,
-            "tomat": 1
+            "agurk": 2,
+            "brokkoli": 1
           }
         },
         {
           "id": "d",
-          "text": "Litt følelsesladet",
+          "text": "Fest",
+          "scores": {
+            "tomat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hemmelighet",
           "scores": {
             "lok": 2
           }
         },
         {
-          "id": "e",
-          "text": "Klar for høst og kos",
-          "scores": {
-            "gresskar": 2
-          }
-        },
-        {
           "id": "f",
-          "text": "Sprekt og fullt av energi",
+          "text": "Fart",
           "scores": {
             "gulrot": 2
           }
@@ -54,117 +163,186 @@
       ]
     },
     {
-      "id": "q2",
-      "text": "Hva gjør du helst i helgen?",
+      "id": "q4",
+      "text": "Hva gjør du når noen er lei seg?",
       "options": [
         {
           "id": "a",
-          "text": "Trener og er mye ute",
+          "text": "Gir dem en lang klem",
+          "scores": {
+            "potet": 2,
+            "tomat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir et godt råd",
           "scores": {
             "brokkoli": 2,
-            "gulrot": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Lager mat til hele familien",
-          "scores": {
-            "potet": 2
+            "lok": 1
           }
         },
         {
           "id": "c",
-          "text": "Pynter til fest",
-          "scores": {
-            "gresskar": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Drar på stranda eller spa",
-          "scores": {
-            "agurk": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Prøver noe helt nytt",
-          "scores": {
-            "paprika": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Drømmer meg bort til en kafé i Italia",
-          "scores": {
-            "tomat": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hvilken rolle har du i vennegjengen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Den sunne som får alle med på tur",
-          "scores": {
-            "brokkoli": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Den alle kan stole på",
-          "scores": {
-            "potet": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Den med mange lag",
-          "scores": {
-            "lok": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Den som holder hodet kaldt",
-          "scores": {
-            "agurk": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den varme som rødmer lett",
-          "scores": {
-            "tomat": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hva slags vær liker du best?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Sol og varme",
+          "text": "Får dem til å le",
           "scores": {
             "paprika": 2,
             "tomat": 1
           }
         },
         {
-          "id": "b",
-          "text": "Gyllen høst",
+          "id": "d",
+          "text": "Tar dem med på tur",
+          "scores": {
+            "gulrot": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe fint til dem",
           "scores": {
             "gresskar": 2
           }
         },
         {
+          "id": "f",
+          "text": "Bare sitter sammen med dem",
+          "scores": {
+            "agurk": 2,
+            "lok": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket rom i huset er ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøkkenet",
+          "scores": {
+            "potet": 2,
+            "gresskar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kontoret",
+          "scores": {
+            "brokkoli": 2,
+            "agurk": 1
+          }
+        },
+        {
           "id": "c",
-          "text": "Kjølig og friskt",
+          "text": "Loftet",
+          "scores": {
+            "lok": 2,
+            "gresskar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Balkongen",
+          "scores": {
+            "agurk": 2,
+            "gulrot": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stua",
+          "scores": {
+            "tomat": 2,
+            "potet": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Garasjen",
+          "scores": {
+            "paprika": 2,
+            "gulrot": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva er ditt skjulte talent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å holde på hemmeligheter",
+          "scores": {
+            "lok": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å huske alt jeg har lest",
+          "scores": {
+            "brokkoli": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å passe inn overalt",
+          "scores": {
+            "potet": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å lage kostymer",
+          "scores": {
+            "gresskar": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å komme først i mål",
+          "scores": {
+            "gulrot": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å starte allsang",
+          "scores": {
+            "tomat": 2,
+            "paprika": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken film ser du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En spennende krim",
+          "scores": {
+            "lok": 2,
+            "brokkoli": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En tegnefilm",
+          "scores": {
+            "gresskar": 2,
+            "tomat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En naturdokumentar",
           "scores": {
             "brokkoli": 2,
             "agurk": 1
@@ -172,163 +350,25 @@
         },
         {
           "id": "d",
-          "text": "Litt vind og regn",
+          "text": "En actionfilm",
           "scores": {
-            "lok": 2
+            "gulrot": 2,
+            "paprika": 1
           }
         },
         {
           "id": "e",
-          "text": "Klarvær og frost",
-          "scores": {
-            "gulrot": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hva er din skjulte egenskap?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jeg ser lyst på alt",
-          "scores": {
-            "gulrot": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg blir bedre med tiden",
-          "scores": {
-            "lok": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg passer til alt",
-          "scores": {
-            "potet": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg er mye sterkere enn folk tror",
-          "scores": {
-            "brokkoli": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg er egentlig en frukt",
-          "scores": {
-            "tomat": 2,
-            "gresskar": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg kan være både mild og sterk",
-          "scores": {
-            "paprika": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Velg en rett:",
-      "options": [
-        {
-          "id": "a",
-          "text": "Pizza",
+          "text": "En musikal",
           "scores": {
             "tomat": 2
           }
         },
         {
-          "id": "b",
-          "text": "Suppe",
+          "id": "f",
+          "text": "En gammel klassiker",
           "scores": {
-            "gresskar": 2,
+            "potet": 2,
             "lok": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Wok",
-          "scores": {
-            "brokkoli": 2,
-            "paprika": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Salat",
-          "scores": {
-            "agurk": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Fiskeboller med poteter",
-          "scores": {
-            "potet": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Smoothie",
-          "scores": {
-            "gulrot": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva ville vennene dine sagt om deg?",
-      "options": [
-        {
-          "id": "a",
-          "text": "«Alltid kul og avslappet»",
-          "scores": {
-            "agurk": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "«Så sprek og blid»",
-          "scores": {
-            "gulrot": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "«Full av overraskelser»",
-          "scores": {
-            "paprika": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "«Det tok tid å bli kjent med deg, men det var verdt det»",
-          "scores": {
-            "lok": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "«Stor, rund og koselig»",
-          "scores": {
-            "gresskar": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "«Kjempesunn og litt stolt av det»",
-          "scores": {
-            "brokkoli": 2
           }
         }
       ]
@@ -336,114 +376,58 @@
   ],
   "outcomes": [
     {
-      "id": "gulrot",
-      "name": "Gulrot",
-      "shareName": "en gulrot",
+      "id": "paprika",
+      "name": "Paprika",
+      "shareName": "en paprika",
       "emoji": null,
-      "description": "Du er sprek, blid og full av energi. Du ser lyst på det meste og har røttene godt plantet.",
-      "funFact": "De første dyrkede gulrøttene var lilla og gule. Den oransje gulrota ble vanlig først på 1600-tallet, blant annet i Nederland.",
-      "image": "images/2026-10-04/gulrot.jpg",
+      "description": "Du er fargerik og full av overraskelser. Du kan være både mild og sterk, alt etter dagen.",
+      "funFact": "Grønn paprika er som regel bare en paprika som er høstet før den har blitt moden og fått farge.",
+      "image": "images/2026-10-04/paprika.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sprek",
-          "text": "Alltid klar for tur."
+          "title": "Fargerik",
+          "text": "Rød, gul eller grønn."
         },
         {
-          "title": "Blid",
-          "text": "Oransje humør hele dagen."
+          "title": "Variert",
+          "text": "Aldri helt lik."
         },
         {
           "title": "Sprø",
-          "text": "Knasende morsom."
+          "text": "Knaser av glede."
         },
         {
-          "title": "Jordnær",
-          "text": "Røttene på plass."
+          "title": "Spennende",
+          "text": "Full av overraskelser."
         }
       ]
     },
     {
-      "id": "brokkoli",
-      "name": "Brokkoli",
-      "shareName": "en brokkoli",
+      "id": "lok",
+      "name": "Løk",
+      "shareName": "en løk",
       "emoji": null,
-      "description": "Du er sterk, sunn og mye tøffere enn folk tror. Du ser ut som et lite tre og står like støtt.",
-      "funFact": "Brokkoli er samme planteart som blomkål, hodekål og rosenkål, bare foredlet på forskjellige måter.",
-      "image": "images/2026-10-04/brokkoli.jpg",
+      "description": "Du er full av lag og store følelser. Du gjør alt du er med på litt bedre.",
+      "funFact": "Løk får deg til å gråte fordi den slipper ut en gass som irriterer øynene når du skjærer i den.",
+      "image": "images/2026-10-04/lok.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sterk",
-          "text": "Full av krefter."
+          "title": "Dyp",
+          "text": "Mange lag inni."
         },
         {
-          "title": "Sunn",
-          "text": "Tar vare på deg."
+          "title": "Følsom",
+          "text": "Rører folk til tårer."
         },
         {
-          "title": "Stolt",
-          "text": "Står rakt som et tre."
+          "title": "Viktig",
+          "text": "Ingen middag uten deg."
         },
         {
-          "title": "Grønn",
-          "text": "Elsker natur og friluft."
-        }
-      ]
-    },
-    {
-      "id": "tomat",
-      "name": "Tomat",
-      "shareName": "en tomat",
-      "emoji": null,
-      "description": "Du er varm, saftig og litt sjenert. Du har mye italiensk temperament under det røde skallet.",
-      "funFact": "Botanisk sett er tomaten et bær.",
-      "image": "images/2026-10-04/tomat.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Varm",
-          "text": "Rødmer lett."
-        },
-        {
-          "title": "Saftig",
-          "text": "Full av liv."
-        },
-        {
-          "title": "Sosial",
-          "text": "Passer i alt godt."
-        },
-        {
-          "title": "Overraskende",
-          "text": "Egentlig et bær."
-        }
-      ]
-    },
-    {
-      "id": "potet",
-      "name": "Potet",
-      "shareName": "en potet",
-      "emoji": null,
-      "description": "Du er jordnær, trygg og passer inn overalt. Alle trenger en som deg på middagsbordet.",
-      "funFact": "Poteten ble vanlig i Norge på 1700-tallet, og prestene som reklamerte for den, ble kalt potetprester.",
-      "image": "images/2026-10-04/potet.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Trygg",
-          "text": "Alle kan stole på deg."
-        },
-        {
-          "title": "Allsidig",
-          "text": "Passer i alt."
-        },
-        {
-          "title": "Jordnær",
-          "text": "Beina godt plantet."
-        },
-        {
-          "title": "Folkekjær",
-          "text": "Alle liker deg."
+          "title": "Tøff",
+          "text": "Står imot det meste."
         }
       ]
     },
@@ -504,58 +488,114 @@
       ]
     },
     {
-      "id": "paprika",
-      "name": "Paprika",
-      "shareName": "en paprika",
+      "id": "brokkoli",
+      "name": "Brokkoli",
+      "shareName": "en brokkoli",
       "emoji": null,
-      "description": "Du er fargerik og full av overraskelser. Du kan være både mild og sterk, alt etter dagen.",
-      "funFact": "Grønn paprika er som regel bare en paprika som er høstet før den har blitt moden og fått farge.",
-      "image": "images/2026-10-04/paprika.jpg",
+      "description": "Du er sterk, sunn og mye tøffere enn folk tror. Du ser ut som et lite tre og står like støtt.",
+      "funFact": "Brokkoli er samme planteart som blomkål, hodekål og rosenkål, bare foredlet på forskjellige måter.",
+      "image": "images/2026-10-04/brokkoli.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Fargerik",
-          "text": "Rød, gul eller grønn."
+          "title": "Sterk",
+          "text": "Full av krefter."
         },
         {
-          "title": "Variert",
-          "text": "Aldri helt lik."
+          "title": "Sunn",
+          "text": "Tar vare på deg."
         },
         {
-          "title": "Sprø",
-          "text": "Knaser av glede."
+          "title": "Stolt",
+          "text": "Står rakt som et tre."
         },
         {
-          "title": "Spennende",
-          "text": "Full av overraskelser."
+          "title": "Grønn",
+          "text": "Elsker natur og friluft."
         }
       ]
     },
     {
-      "id": "lok",
-      "name": "Løk",
-      "shareName": "en løk",
+      "id": "potet",
+      "name": "Potet",
+      "shareName": "en potet",
       "emoji": null,
-      "description": "Du er full av lag og store følelser. Du gjør alt du er med på litt bedre.",
-      "funFact": "Løk får deg til å gråte fordi den slipper ut en gass som irriterer øynene når du skjærer i den.",
-      "image": "images/2026-10-04/lok.jpg",
+      "description": "Du er jordnær, trygg og passer inn overalt. Alle trenger en som deg på middagsbordet.",
+      "funFact": "Poteten ble vanlig i Norge på 1700-tallet, og prestene som reklamerte for den, ble kalt potetprester.",
+      "image": "images/2026-10-04/potet.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Dyp",
-          "text": "Mange lag inni."
+          "title": "Trygg",
+          "text": "Alle kan stole på deg."
         },
         {
-          "title": "Følsom",
-          "text": "Rører folk til tårer."
+          "title": "Allsidig",
+          "text": "Passer i alt."
         },
         {
-          "title": "Viktig",
-          "text": "Ingen middag uten deg."
+          "title": "Jordnær",
+          "text": "Beina godt plantet."
         },
         {
-          "title": "Tøff",
-          "text": "Står imot det meste."
+          "title": "Folkekjær",
+          "text": "Alle liker deg."
+        }
+      ]
+    },
+    {
+      "id": "tomat",
+      "name": "Tomat",
+      "shareName": "en tomat",
+      "emoji": null,
+      "description": "Du er varm, saftig og litt sjenert. Du har mye italiensk temperament under det røde skallet.",
+      "funFact": "Botanisk sett er tomaten et bær.",
+      "image": "images/2026-10-04/tomat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Rødmer lett."
+        },
+        {
+          "title": "Saftig",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Sosial",
+          "text": "Passer i alt godt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Egentlig et bær."
+        }
+      ]
+    },
+    {
+      "id": "gulrot",
+      "name": "Gulrot",
+      "shareName": "en gulrot",
+      "emoji": null,
+      "description": "Du er sprek, blid og full av energi. Du ser lyst på det meste og har røttene godt plantet.",
+      "funFact": "De første dyrkede gulrøttene var lilla og gule. Den oransje gulrota ble vanlig først på 1600-tallet, blant annet i Nederland.",
+      "image": "images/2026-10-04/gulrot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Blid",
+          "text": "Oransje humør hele dagen."
+        },
+        {
+          "title": "Sprø",
+          "text": "Knasende morsom."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Røttene på plass."
         }
       ]
     }

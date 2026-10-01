@@ -6,49 +6,52 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan er humøret ditt i dag?",
+      "text": "Hva spiser du helst til frokost?",
       "options": [
         {
           "id": "a",
-          "text": "Litt grumsete før frokost",
+          "text": "En kjempestor tallerken med alt",
           "scores": {
-            "troll": 2
+            "troll": 2,
+            "drage": 1
           }
         },
         {
           "id": "b",
-          "text": "Lurt og lekent",
+          "text": "Knekkebrød med ost",
           "scores": {
-            "nisse": 2
+            "nisse": 2,
+            "nokken": 1
           }
         },
         {
           "id": "c",
-          "text": "Brennhett",
-          "scores": {
-            "drage": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Glitrende",
+          "text": "Noe søtt med strøssel",
           "scores": {
             "enhjorning": 2,
             "fe": 1
           }
         },
         {
-          "id": "e",
-          "text": "Drømmende",
+          "id": "d",
+          "text": "Te på senga",
           "scores": {
             "havfrue": 2
           }
         },
         {
-          "id": "f",
-          "text": "Mystisk",
+          "id": "e",
+          "text": "Glemmer det helt",
           "scores": {
-            "nokken": 2,
+            "huldra": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare litt bær",
+          "scores": {
+            "fe": 2,
             "huldra": 1
           }
         }
@@ -56,295 +59,345 @@
     },
     {
       "id": "q2",
-      "text": "Hvor bor du helst?",
+      "text": "Hva gjør du på en fridag?",
       "options": [
         {
           "id": "a",
-          "text": "Under en bro",
+          "text": "Sover lenge",
           "scores": {
             "troll": 2
           }
         },
         {
           "id": "b",
-          "text": "På låven",
+          "text": "Lurer noen med en spøk",
           "scores": {
             "nisse": 2
           }
         },
         {
           "id": "c",
-          "text": "I en hule full av gull",
+          "text": "Konkurrerer i noe",
           "scores": {
             "drage": 2
           }
         },
         {
           "id": "d",
-          "text": "I et regnbueland",
+          "text": "Pynter rommet",
           "scores": {
-            "enhjorning": 2
+            "enhjorning": 2,
+            "fe": 1
           }
         },
         {
           "id": "e",
-          "text": "I havet",
-          "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Ved et stille skogsvann",
-          "scores": {
-            "nokken": 2,
-            "huldra": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hva er favorittmaten din?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Grøt med smør",
-          "scores": {
-            "nisse": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Alt jeg finner i skogen",
-          "scores": {
-            "huldra": 2,
-            "troll": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Grillmat – jeg tenner grillen selv",
-          "scores": {
-            "drage": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Honning og blomsternektar",
-          "scores": {
-            "fe": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Sushi",
-          "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Sukkerspinn",
-          "scores": {
-            "enhjorning": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hva er din beste egenskap?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jeg er sterk som bare det",
-          "scores": {
-            "troll": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg holder orden på alt",
-          "scores": {
-            "nisse": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg ser det fine i alle",
-          "scores": {
-            "enhjorning": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg synger vakkert",
+          "text": "Sitter ved vinduet og dagdrømmer",
           "scores": {
             "havfrue": 2,
             "nokken": 1
           }
         },
         {
-          "id": "e",
-          "text": "Jeg er fri og vill",
-          "scores": {
-            "huldra": 2
-          }
-        },
-        {
           "id": "f",
-          "text": "Jeg kan gjøre meg bitteliten",
+          "text": "Går på loppemarked",
           "scores": {
-            "fe": 2
+            "huldra": 2,
+            "nisse": 1
           }
         }
       ]
     },
     {
-      "id": "q5",
-      "text": "Hva gjør du en søndag?",
+      "id": "q3",
+      "text": "Hvilken farge har humøret ditt?",
       "options": [
         {
           "id": "a",
-          "text": "Sover lenge i en hule",
+          "text": "Grått",
+          "scores": {
+            "troll": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Oransje",
           "scores": {
             "drage": 2,
-            "troll": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Flyr rundt og hjelper andre",
-          "scores": {
-            "fe": 2
+            "nisse": 1
           }
         },
         {
           "id": "c",
-          "text": "Svømmer i et vann",
+          "text": "Lilla",
           "scores": {
-            "nokken": 2,
-            "havfrue": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Går på tur i skogen",
-          "scores": {
-            "huldra": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Lager overraskelser til noen",
-          "scores": {
-            "nisse": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hva er supermakten din?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Å bli usynlig",
-          "scores": {
-            "huldra": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Å forvandle meg",
-          "scores": {
-            "nokken": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Å fly",
-          "scores": {
-            "fe": 2,
-            "drage": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Å helbrede",
-          "scores": {
-            "enhjorning": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Å puste under vann",
-          "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Å flytte fjell",
-          "scores": {
-            "troll": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva ville vennene dine sagt om deg?",
-      "options": [
-        {
-          "id": "a",
-          "text": "«Liten, men lur»",
-          "scores": {
-            "nisse": 1,
+            "enhjorning": 2,
             "huldra": 1
           }
         },
         {
-          "id": "b",
-          "text": "«Stor og snill – egentlig»",
+          "id": "d",
+          "text": "Lyseblått",
+          "scores": {
+            "havfrue": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mørkegrønt",
+          "scores": {
+            "huldra": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gult",
+          "scores": {
+            "fe": 2,
+            "enhjorning": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du i en gruppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den store og snille",
           "scores": {
             "troll": 2
           }
         },
         {
+          "id": "b",
+          "text": "Den som lurer alle",
+          "scores": {
+            "nisse": 2
+          }
+        },
+        {
           "id": "c",
-          "text": "«Et hjerte av gull»",
+          "text": "Den som bestemmer",
           "scores": {
             "drage": 2
           }
         },
         {
           "id": "d",
-          "text": "«Helt magisk»",
+          "text": "Den som lyser opp rommet",
+          "scores": {
+            "enhjorning": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som drømmer seg bort",
+          "scores": {
+            "havfrue": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den mystiske i hjørnet",
+          "scores": {
+            "nokken": 2,
+            "huldra": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Torden",
+          "scores": {
+            "drage": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Latter",
+          "scores": {
+            "nisse": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pianoet til naboen",
+          "scores": {
+            "nokken": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vind i trærne",
+          "scores": {
+            "huldra": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Regn mot vinduet",
+          "scores": {
+            "havfrue": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klokker som kimer",
+          "scores": {
+            "enhjorning": 2,
+            "fe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva ville du tatt med til en øde øy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor pute",
+          "scores": {
+            "troll": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En kortstokk",
+          "scores": {
+            "nisse": 2,
+            "huldra": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En lommelykt",
+          "scores": {
+            "drage": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Glitterlim",
           "scores": {
             "enhjorning": 2
           }
         },
         {
           "id": "e",
-          "text": "«Litt vanskelig å bli klok på»",
+          "text": "En dagbok",
           "scores": {
-            "nokken": 2,
+            "havfrue": 2,
             "huldra": 1
           }
         },
         {
           "id": "f",
-          "text": "«Så lett på foten»",
+          "text": "Frø å plante",
           "scores": {
-            "fe": 2
+            "fe": 2,
+            "troll": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er superkraften din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å være kjempesterk",
+          "scores": {
+            "troll": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å bli usynlig",
+          "scores": {
+            "nisse": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å få noen til å føle seg spesiell",
+          "scores": {
+            "enhjorning": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å snakke med dyr",
+          "scores": {
+            "havfrue": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å få folk til å glemme tiden",
+          "scores": {
+            "huldra": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å trylle frem kake",
+          "scores": {
+            "fe": 2,
+            "nisse": 1
           }
         }
       ]
     }
   ],
   "outcomes": [
+    {
+      "id": "nokken",
+      "name": "Nøkken",
+      "shareName": "nøkken",
+      "emoji": null,
+      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
+      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
+      "image": "images/2026-10-07/nokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gåtefull",
+          "text": "Vanskelig å bli klok på."
+        },
+        {
+          "title": "Skiftende",
+          "text": "Endrer form ofte."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker stille vann."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Vannet synger for deg."
+        }
+      ]
+    },
     {
       "id": "troll",
       "name": "Troll",
@@ -374,34 +427,6 @@
       ]
     },
     {
-      "id": "nisse",
-      "name": "Nisse",
-      "shareName": "en nisse",
-      "emoji": null,
-      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
-      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
-      "image": "images/2026-10-07/nisse.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Lur",
-          "text": "Alltid et triks."
-        },
-        {
-          "title": "Omsorgsfull",
-          "text": "Passer på gården."
-        },
-        {
-          "title": "Rampete",
-          "text": "Litt tull må til."
-        },
-        {
-          "title": "Grøtglad",
-          "text": "Med smør, takk."
-        }
-      ]
-    },
-    {
       "id": "drage",
       "name": "Drage",
       "shareName": "en drage",
@@ -426,6 +451,34 @@
         {
           "title": "Stolt",
           "text": "Løfter hodet høyt."
+        }
+      ]
+    },
+    {
+      "id": "nisse",
+      "name": "Nisse",
+      "shareName": "en nisse",
+      "emoji": null,
+      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
+      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
+      "image": "images/2026-10-07/nisse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Alltid et triks."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på gården."
+        },
+        {
+          "title": "Rampete",
+          "text": "Litt tull må til."
+        },
+        {
+          "title": "Grøtglad",
+          "text": "Med smør, takk."
         }
       ]
     },
@@ -538,34 +591,6 @@
         {
           "title": "Glitrende",
           "text": "Etterlater alltid glitter."
-        }
-      ]
-    },
-    {
-      "id": "nokken",
-      "name": "Nøkken",
-      "shareName": "nøkken",
-      "emoji": null,
-      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
-      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
-      "image": "images/2026-10-07/nokken.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Gåtefull",
-          "text": "Vanskelig å bli klok på."
-        },
-        {
-          "title": "Skiftende",
-          "text": "Endrer form ofte."
-        },
-        {
-          "title": "Rolig",
-          "text": "Liker stille vann."
-        },
-        {
-          "title": "Musikalsk",
-          "text": "Vannet synger for deg."
         }
       ]
     }

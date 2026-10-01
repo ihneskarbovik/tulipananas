@@ -6,95 +6,257 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan er stemmen din i dag?",
+      "text": "Hva spiser du helst til lunsj?",
       "options": [
         {
           "id": "a",
-          "text": "Høy og tydelig",
+          "text": "Rester fra i går",
           "scores": {
-            "trompet": 2
+            "gitar": 2,
+            "blokkflote": 1
           }
         },
         {
           "id": "b",
-          "text": "Myk og drømmende",
+          "text": "Noe kjapt i farta",
           "scores": {
-            "fiolin": 2
+            "tromme": 2,
+            "trompet": 1
           }
         },
         {
           "id": "c",
-          "text": "Rytmisk og bestemt",
+          "text": "En fin salat",
           "scores": {
-            "tromme": 2
+            "fiolin": 2,
+            "triangel": 1
           }
         },
         {
           "id": "d",
-          "text": "Glad og litt pipete",
+          "text": "Pølse i lompe",
           "scores": {
-            "blokkflote": 2
+            "trekkspill": 2,
+            "gitar": 1
           }
         },
         {
           "id": "e",
-          "text": "Liten, men den høres",
+          "text": "Noe i alle regnbuens farger",
           "scores": {
-            "triangel": 2
+            "xylofon": 2
           }
         },
         {
           "id": "f",
-          "text": "Varm og avslappet",
+          "text": "Matpakke med brunost",
           "scores": {
-            "gitar": 2
+            "blokkflote": 2,
+            "trekkspill": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fest?",
+      "text": "Hvordan er du på fest?",
       "options": [
         {
           "id": "a",
-          "text": "Starter allsangen",
+          "text": "Den som sitter i sofaen og prater",
           "scores": {
             "gitar": 2,
-            "trekkspill": 1
+            "fiolin": 1
           }
         },
         {
           "id": "b",
-          "text": "Danser hele natta",
+          "text": "Den som danser først",
           "scores": {
-            "trekkspill": 2
+            "tromme": 2,
+            "xylofon": 1
           }
         },
         {
           "id": "c",
-          "text": "Holder takten på bordet",
-          "scores": {
-            "tromme": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Holder en tale",
+          "text": "Den som holder tale",
           "scores": {
             "trompet": 2
           }
         },
         {
-          "id": "e",
-          "text": "Står i hjørnet og smiler",
+          "id": "d",
+          "text": "Den som kjenner alle tantene",
           "scores": {
-            "triangel": 2
+            "trekkspill": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som hjelper til på kjøkkenet",
+          "scores": {
+            "triangel": 2,
+            "blokkflote": 1
           }
         },
         {
           "id": "f",
-          "text": "Leker med alle barna",
+          "text": "Den som drar tidlig, men blid",
+          "scores": {
+            "fiolin": 2,
+            "triangel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket dyr vil du helst klappe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hest",
+          "scores": {
+            "fiolin": 2,
+            "trompet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En hund",
+          "scores": {
+            "gitar": 2,
+            "tromme": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kanin",
+          "scores": {
+            "blokkflote": 2,
+            "xylofon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En katt",
+          "scores": {
+            "triangel": 2,
+            "fiolin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En geit",
+          "scores": {
+            "trekkspill": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En papegøye",
+          "scores": {
+            "xylofon": 2,
+            "trompet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ligger i hengekøya",
+          "scores": {
+            "gitar": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trener",
+          "scores": {
+            "tromme": 2,
+            "trompet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går på kafé alene",
+          "scores": {
+            "fiolin": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Besøker besteforeldre",
+          "scores": {
+            "trekkspill": 2,
+            "blokkflote": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Maler med alle fargene",
+          "scores": {
+            "xylofon": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder én skuff helt perfekt",
+          "scores": {
+            "triangel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket ord beskriver deg i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avslappet",
+          "scores": {
+            "gitar": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bestemt",
+          "scores": {
+            "tromme": 2,
+            "trompet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Modig",
+          "scores": {
+            "trompet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ettertenksom",
+          "scores": {
+            "fiolin": 2,
+            "triangel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hyggelig",
+          "scores": {
+            "trekkspill": 2,
+            "blokkflote": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Leken",
           "scores": {
             "xylofon": 2,
             "blokkflote": 1
@@ -103,239 +265,104 @@
       ]
     },
     {
-      "id": "q3",
-      "text": "Velg en farge:",
+      "id": "q6",
+      "text": "Hva ville du tatt med til en øde øy?",
       "options": [
         {
           "id": "a",
-          "text": "Knallrød",
-          "scores": {
-            "tromme": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Gull",
-          "scores": {
-            "trompet": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Mørk vinrød",
-          "scores": {
-            "fiolin": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Regnbuefarget",
-          "scores": {
-            "xylofon": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Sølv",
-          "scores": {
-            "triangel": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Brun som tre",
-          "scores": {
-            "gitar": 2,
-            "fiolin": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hva liker du best med helgen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Bål og gode samtaler",
+          "text": "En hengekøye",
           "scores": {
             "gitar": 2
           }
         },
         {
           "id": "b",
-          "text": "Gammeldans på lokalet",
+          "text": "En lommelykt",
           "scores": {
-            "trekkspill": 2
+            "triangel": 2,
+            "trompet": 1
           }
         },
         {
           "id": "c",
-          "text": "En rolig konsert",
+          "text": "En dagbok",
           "scores": {
-            "fiolin": 2
+            "fiolin": 2,
+            "blokkflote": 1
           }
         },
         {
           "id": "d",
-          "text": "Å leke og tulle",
+          "text": "En fotball",
           "scores": {
-            "xylofon": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Å øve på noe nytt",
-          "scores": {
-            "blokkflote": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hva er din styrke?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jeg tar ordet",
-          "scores": {
-            "trompet": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg holder alle i takt",
-          "scores": {
-            "tromme": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg har mange sider",
-          "scores": {
-            "trekkspill": 2,
+            "tromme": 2,
             "xylofon": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg kommer inn akkurat når det trengs",
-          "scores": {
-            "triangel": 2
-          }
-        },
-        {
           "id": "e",
-          "text": "Jeg får folk til å føle ting",
-          "scores": {
-            "fiolin": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg er enkel og ærlig",
-          "scores": {
-            "blokkflote": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hvor er du helst?",
-      "options": [
-        {
-          "id": "a",
-          "text": "På en scene",
-          "scores": {
-            "trompet": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "I en garasje med bandet",
-          "scores": {
-            "tromme": 2,
-            "gitar": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "På en bygdefest",
+          "text": "En stor kake",
           "scores": {
             "trekkspill": 2
           }
         },
         {
-          "id": "d",
-          "text": "I et klasserom",
-          "scores": {
-            "blokkflote": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "I et stort orkester",
-          "scores": {
-            "triangel": 2
-          }
-        },
-        {
           "id": "f",
-          "text": "På en lekeplass",
+          "text": "Fargestifter",
           "scores": {
-            "xylofon": 2
+            "xylofon": 2,
+            "blokkflote": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva sier folk om deg?",
+      "text": "Hva er superkraften din?",
       "options": [
         {
           "id": "a",
-          "text": "«Du får alle til å synge med»",
+          "text": "Å gjøre folk rolige",
           "scores": {
-            "gitar": 2
+            "gitar": 2,
+            "fiolin": 1
           }
         },
         {
           "id": "b",
-          "text": "«Du er så elegant»",
+          "text": "Å aldri bli sliten",
           "scores": {
-            "fiolin": 2
+            "tromme": 2
           }
         },
         {
           "id": "c",
-          "text": "«Du gjør alt til fest»",
+          "text": "Å være modig når det gjelder",
           "scores": {
-            "trekkspill": 2
+            "trompet": 2
           }
         },
         {
           "id": "d",
-          "text": "«Du er så fargerik»",
+          "text": "Å få alle i godt humør",
           "scores": {
-            "xylofon": 2
+            "trekkspill": 2,
+            "xylofon": 1
           }
         },
         {
           "id": "e",
-          "text": "«Du er modigere enn folk tror»",
+          "text": "Å legge merke til små ting",
           "scores": {
-            "blokkflote": 2,
-            "triangel": 1
+            "triangel": 2
           }
         },
         {
           "id": "f",
-          "text": "«Du er umulig å overse»",
+          "text": "Å få vanskelige ting til å virke enkle",
           "scores": {
-            "tromme": 2,
-            "trompet": 1
+            "blokkflote": 2,
+            "gitar": 1
           }
         }
       ]
@@ -343,58 +370,30 @@
   ],
   "outcomes": [
     {
-      "id": "gitar",
-      "name": "Gitar",
-      "shareName": "en gitar",
+      "id": "blokkflote",
+      "name": "Blokkfløyte",
+      "shareName": "en blokkfløyte",
       "emoji": null,
-      "description": "Du er varm, avslappet og samler folk rundt bålet. Med deg blir det allsang før noen vet ordet av det.",
-      "funFact": "Den moderne klassiske gitaren fikk formen sin i Spania på 1800-tallet, blant annet takket være gitarbyggeren Antonio de Torres.",
-      "image": "images/2026-10-05/gitar.jpg",
+      "description": "Du er enkel, ærlig og modigere enn folk tror. Mange startet med deg, og ingen har glemt deg.",
+      "funFact": "Blokkfløyta var svært populær i barokken, og både Bach og Händel skrev musikk for den.",
+      "image": "images/2026-10-05/blokkflote.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Samlende",
-          "text": "Alle synger med."
+          "title": "Ærlig",
+          "text": "Alltid rett fram."
         },
         {
-          "title": "Avslappet",
-          "text": "Tar det på gehør."
+          "title": "Modig",
+          "text": "Spiller foran hele klassen."
         },
         {
-          "title": "Varm",
-          "text": "Myke, gode toner."
+          "title": "Enkel",
+          "text": "Liker det ukompliserte."
         },
         {
-          "title": "Allsidig",
-          "text": "Spiller alle sjangre."
-        }
-      ]
-    },
-    {
-      "id": "tromme",
-      "name": "Tromme",
-      "shareName": "en tromme",
-      "emoji": null,
-      "description": "Du er energisk og holder takten for alle rundt deg. Du merkes godt, og det er helt greit.",
-      "funFact": "Trommer er blant verdens eldste instrumenter og finnes i nesten alle kulturer.",
-      "image": "images/2026-10-05/tromme.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Rytmisk",
-          "text": "Takten sitter i kroppen."
-        },
-        {
-          "title": "Energisk",
-          "text": "Full av kraft."
-        },
-        {
-          "title": "Bestemt",
-          "text": "Slår an tonen."
-        },
-        {
-          "title": "Høylytt",
-          "text": "Ingen kan overhøre deg."
+          "title": "Minnerik",
+          "text": "Alle husker deg."
         }
       ]
     },
@@ -423,62 +422,6 @@
         {
           "title": "Festlig",
           "text": "Blåser liv i alt."
-        }
-      ]
-    },
-    {
-      "id": "fiolin",
-      "name": "Fiolin",
-      "shareName": "en fiolin",
-      "emoji": null,
-      "description": "Du er følsom, elegant og full av stemninger. Du kan få hvem som helst til å felle en tåre.",
-      "funFact": "En fiolin er satt sammen av rundt 70 små deler, de fleste av tre.",
-      "image": "images/2026-10-05/fiolin.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Følsom",
-          "text": "Kjenner alt sterkt."
-        },
-        {
-          "title": "Elegant",
-          "text": "Stilig til fingerspissene."
-        },
-        {
-          "title": "Dyktig",
-          "text": "Øvelse gjør mester."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Tankene spiller videre."
-        }
-      ]
-    },
-    {
-      "id": "trekkspill",
-      "name": "Trekkspill",
-      "shareName": "et trekkspill",
-      "emoji": null,
-      "description": "Du er festlig, sosial og har mange sider. Du puster liv i enhver bygdefest.",
-      "funFact": "Trekkspillet har luft i en belg som presses gjennom små metalltunger, og det er et av de mest brukte instrumentene i norsk gammeldans.",
-      "image": "images/2026-10-05/trekkspill.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Festlig",
-          "text": "Starter dansen."
-        },
-        {
-          "title": "Sosial",
-          "text": "Elsker et fullt lokale."
-        },
-        {
-          "title": "Mangfoldig",
-          "text": "Mange knapper å trykke."
-        },
-        {
-          "title": "Tradisjonell",
-          "text": "Glad i gammeldans."
         }
       ]
     },
@@ -539,30 +482,114 @@
       ]
     },
     {
-      "id": "blokkflote",
-      "name": "Blokkfløyte",
-      "shareName": "en blokkfløyte",
+      "id": "tromme",
+      "name": "Tromme",
+      "shareName": "en tromme",
       "emoji": null,
-      "description": "Du er enkel, ærlig og modigere enn folk tror. Mange startet med deg, og ingen har glemt deg.",
-      "funFact": "Blokkfløyta var svært populær i barokken, og både Bach og Händel skrev musikk for den.",
-      "image": "images/2026-10-05/blokkflote.jpg",
+      "description": "Du er energisk og holder takten for alle rundt deg. Du merkes godt, og det er helt greit.",
+      "funFact": "Trommer er blant verdens eldste instrumenter og finnes i nesten alle kulturer.",
+      "image": "images/2026-10-05/tromme.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ærlig",
-          "text": "Alltid rett fram."
+          "title": "Rytmisk",
+          "text": "Takten sitter i kroppen."
         },
         {
-          "title": "Modig",
-          "text": "Spiller foran hele klassen."
+          "title": "Energisk",
+          "text": "Full av kraft."
         },
         {
-          "title": "Enkel",
-          "text": "Liker det ukompliserte."
+          "title": "Bestemt",
+          "text": "Slår an tonen."
         },
         {
-          "title": "Minnerik",
-          "text": "Alle husker deg."
+          "title": "Høylytt",
+          "text": "Ingen kan overhøre deg."
+        }
+      ]
+    },
+    {
+      "id": "fiolin",
+      "name": "Fiolin",
+      "shareName": "en fiolin",
+      "emoji": null,
+      "description": "Du er følsom, elegant og full av stemninger. Du kan få hvem som helst til å felle en tåre.",
+      "funFact": "En fiolin er satt sammen av rundt 70 små deler, de fleste av tre.",
+      "image": "images/2026-10-05/fiolin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt sterkt."
+        },
+        {
+          "title": "Elegant",
+          "text": "Stilig til fingerspissene."
+        },
+        {
+          "title": "Dyktig",
+          "text": "Øvelse gjør mester."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene spiller videre."
+        }
+      ]
+    },
+    {
+      "id": "trekkspill",
+      "name": "Trekkspill",
+      "shareName": "et trekkspill",
+      "emoji": null,
+      "description": "Du er festlig, sosial og har mange sider. Du puster liv i enhver bygdefest.",
+      "funFact": "Trekkspillet har luft i en belg som presses gjennom små metalltunger, og det er et av de mest brukte instrumentene i norsk gammeldans.",
+      "image": "images/2026-10-05/trekkspill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Starter dansen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt lokale."
+        },
+        {
+          "title": "Mangfoldig",
+          "text": "Mange knapper å trykke."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i gammeldans."
+        }
+      ]
+    },
+    {
+      "id": "gitar",
+      "name": "Gitar",
+      "shareName": "en gitar",
+      "emoji": null,
+      "description": "Du er varm, avslappet og samler folk rundt bålet. Med deg blir det allsang før noen vet ordet av det.",
+      "funFact": "Den moderne klassiske gitaren fikk formen sin i Spania på 1800-tallet, blant annet takket være gitarbyggeren Antonio de Torres.",
+      "image": "images/2026-10-05/gitar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Samlende",
+          "text": "Alle synger med."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det på gehør."
+        },
+        {
+          "title": "Varm",
+          "text": "Myke, gode toner."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Spiller alle sjangre."
         }
       ]
     }

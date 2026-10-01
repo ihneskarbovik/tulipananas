@@ -6,116 +6,19 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvordan starter du en perfekt dag?",
+      "text": "Hva drikker du helst om morgenen?",
       "options": [
         {
           "id": "a",
-          "text": "Med en tidlig fjelltur",
+          "text": "Sterk kaffe",
           "scores": {
-            "preikestolen": 2
+            "preikestolen": 2,
+            "nordkapp": 1
           }
         },
         {
           "id": "b",
-          "text": "Med kaffe på en brygge",
-          "scores": {
-            "bryggen": 2,
-            "lofoten": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Med en stille stund for meg selv",
-          "scores": {
-            "nidaros": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Med en skitur",
-          "scores": {
-            "holmenkollen": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Med en biltur og god musikk",
-          "scores": {
-            "atlanterhavsveien": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Med utsikt over vannet",
-          "scores": {
-            "geiranger": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q2",
-      "text": "Hva slags vær liker du best?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Midnattssol",
-          "scores": {
-            "nordkapp": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Regn – det hører med",
-          "scores": {
-            "bryggen": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Kaldt og snøfullt",
-          "scores": {
-            "holmenkollen": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Storm og høye bølger",
-          "scores": {
-            "atlanterhavsveien": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Klarvær over fjorden",
-          "scores": {
-            "geiranger": 2,
-            "preikestolen": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Skiftende – alt på én dag",
-          "scores": {
-            "lofoten": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hva er du mest glad i?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Utsikt",
-          "scores": {
-            "preikestolen": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Historie",
+          "text": "Te med honning",
           "scores": {
             "nidaros": 2,
             "bryggen": 1
@@ -123,24 +26,138 @@
         },
         {
           "id": "c",
-          "text": "Eventyr langt mot nord",
+          "text": "Juice",
           "scores": {
-            "nordkapp": 2
+            "holmenkollen": 2,
+            "atlanterhavsveien": 1
           }
         },
         {
           "id": "d",
-          "text": "Fisk og frisk sjøluft",
+          "text": "Kakao med krem",
           "scores": {
-            "lofoten": 2
+            "bryggen": 2,
+            "geiranger": 1
           }
         },
         {
           "id": "e",
-          "text": "Spenning og fart",
+          "text": "Bare vann",
+          "scores": {
+            "lofoten": 2,
+            "holmenkollen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe nytt jeg aldri har smakt",
+          "scores": {
+            "atlanterhavsveien": 2,
+            "lofoten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en lang og deilig brunsj",
+          "scores": {
+            "geiranger": 2,
+            "bryggen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går en tur før alle andre står opp",
+          "scores": {
+            "preikestolen": 2,
+            "nordkapp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på gamle bilder",
+          "scores": {
+            "nidaros": 2,
+            "bryggen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Trener",
+          "scores": {
+            "holmenkollen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Maler eller skriver",
+          "scores": {
+            "lofoten": 2,
+            "geiranger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg i bilen uten plan",
+          "scores": {
+            "atlanterhavsveien": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket ord liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mot",
+          "scores": {
+            "preikestolen": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stille",
+          "scores": {
+            "nordkapp": 2,
+            "nidaros": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Koselig",
+          "scores": {
+            "bryggen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fart",
           "scores": {
             "holmenkollen": 2,
             "atlanterhavsveien": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Wow",
+          "scores": {
+            "geiranger": 2,
+            "preikestolen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Frihet",
+          "scores": {
+            "lofoten": 2,
+            "nordkapp": 1
           }
         }
       ]
@@ -151,166 +168,31 @@
       "options": [
         {
           "id": "a",
-          "text": "Den som tør mest",
+          "text": "Den som sier ja til alt",
           "scores": {
-            "preikestolen": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Den som alltid går lengst",
-          "scores": {
-            "nordkapp": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Den mest fargerike",
-          "scores": {
-            "bryggen": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Den rolige og kloke",
-          "scores": {
-            "nidaros": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den som får alle til å måpe",
-          "scores": {
-            "geiranger": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den kunstneriske",
-          "scores": {
-            "lofoten": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Velg en snacks:",
-      "options": [
-        {
-          "id": "a",
-          "text": "Fiskesuppe",
-          "scores": {
-            "bryggen": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Tørrfisk",
-          "scores": {
-            "lofoten": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Appelsin og sjokolade på toppen",
-          "scores": {
-            "holmenkollen": 2,
+            "atlanterhavsveien": 2,
             "preikestolen": 1
           }
         },
         {
-          "id": "d",
-          "text": "Svele på ferja",
-          "scores": {
-            "geiranger": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Sjokolade i bilen",
-          "scores": {
-            "atlanterhavsveien": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Varm kakao ved verdens ende",
-          "scores": {
-            "nordkapp": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hva er supermakten din?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Å se langt, langt unna",
-          "scores": {
-            "nordkapp": 2
-          }
-        },
-        {
           "id": "b",
-          "text": "Å holde meg rolig i stormen",
+          "text": "Den som finner veien",
           "scores": {
-            "atlanterhavsveien": 2
+            "nordkapp": 2,
+            "holmenkollen": 1
           }
         },
         {
           "id": "c",
-          "text": "Å gi folk håp",
+          "text": "Den som forteller historier",
           "scores": {
-            "nidaros": 2
+            "bryggen": 2,
+            "nidaros": 1
           }
         },
         {
           "id": "d",
-          "text": "Å fly",
-          "scores": {
-            "holmenkollen": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Å være vakker uten å prøve",
-          "scores": {
-            "geiranger": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva ville vennene dine sagt om deg?",
-      "options": [
-        {
-          "id": "a",
-          "text": "«Du står støtt, uansett»",
-          "scores": {
-            "preikestolen": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "«Du er en ekte klassiker»",
-          "scores": {
-            "nidaros": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "«Du svinger deg gjennom alt»",
-          "scores": {
-            "atlanterhavsveien": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "«Du er så vakker at det nesten er urettferdig»",
+          "text": "Den som tar bildene",
           "scores": {
             "geiranger": 2,
             "lofoten": 1
@@ -318,18 +200,172 @@
         },
         {
           "id": "e",
-          "text": "«Du elsker å være på toppen»",
+          "text": "Den som hører etter",
           "scores": {
-            "holmenkollen": 2,
-            "nordkapp": 1
+            "nidaros": 2
           }
         },
         {
           "id": "f",
-          "text": "«Du er full av sjarm»",
+          "text": "Den som heier på alle",
+          "scores": {
+            "holmenkollen": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva ville du tatt med til en øde øy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et tau",
+          "scores": {
+            "preikestolen": 2,
+            "holmenkollen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En varm genser",
+          "scores": {
+            "nordkapp": 2,
+            "lofoten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En gammel bok",
+          "scores": {
+            "nidaros": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et brettspill",
+          "scores": {
+            "bryggen": 2,
+            "atlanterhavsveien": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et kamera",
+          "scores": {
+            "geiranger": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En gitar",
           "scores": {
             "lofoten": 2,
-            "bryggen": 1
+            "atlanterhavsveien": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken dessert velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bløtkake",
+          "scores": {
+            "bryggen": 2,
+            "holmenkollen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Iskrem med strøssel",
+          "scores": {
+            "atlanterhavsveien": 2,
+            "geiranger": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Riskrem",
+          "scores": {
+            "nidaros": 2,
+            "nordkapp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Multekrem",
+          "scores": {
+            "nordkapp": 2,
+            "lofoten": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjokoladekake",
+          "scores": {
+            "preikestolen": 2,
+            "holmenkollen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Frukt og bær",
+          "scores": {
+            "geiranger": 2,
+            "lofoten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er superkraften din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å ikke være redd for noe",
+          "scores": {
+            "preikestolen": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å aldri fryse",
+          "scores": {
+            "nordkapp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å få alle til å føle seg hjemme",
+          "scores": {
+            "bryggen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å være rolig når alt er kaos",
+          "scores": {
+            "nidaros": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å vinne konkurranser",
+          "scores": {
+            "holmenkollen": 2,
+            "atlanterhavsveien": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å finne noe fint overalt",
+          "scores": {
+            "geiranger": 2,
+            "lofoten": 1
           }
         }
       ]
@@ -337,114 +373,58 @@
   ],
   "outcomes": [
     {
-      "id": "preikestolen",
-      "name": "Preikestolen",
-      "shareName": "Preikestolen",
+      "id": "atlanterhavsveien",
+      "name": "Atlanterhavsveien",
+      "shareName": "Atlanterhavsveien",
       "emoji": null,
-      "description": "Du er modig, stødig og har utsikt over alt. Du tar gjerne en tøff tur for å oppleve noe stort.",
-      "funFact": "Preikestolen er et flatt fjellplatå som ruver rundt 600 meter rett over Lysefjorden i Rogaland.",
-      "image": "images/2026-10-06/preikestolen.jpg",
+      "description": "Du er spennende, svingete og full av fart. Du holder deg rolig selv når bølgene slår.",
+      "funFact": "Atlanterhavsveien i Møre og Romsdal er drøyt åtte kilometer lang og har åtte bruer mellom holmer og skjær.",
+      "image": "images/2026-10-06/atlanterhavsveien.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Modig",
-          "text": "Tør å stå ytterst."
+          "title": "Spennende",
+          "text": "Aldri en kjedelig tur."
         },
         {
-          "title": "Stødig",
-          "text": "Flat og trygg på toppen."
+          "title": "Svingete",
+          "text": "Tar gjerne en omvei."
         },
         {
-          "title": "Utsiktsglad",
-          "text": "Elsker en god utsikt."
+          "title": "Standhaftig",
+          "text": "Står støtt i stormen."
         },
         {
-          "title": "Tøff",
-          "text": "Tar de bratte bakkene."
+          "title": "Kystkjær",
+          "text": "Bor midt i havet."
         }
       ]
     },
     {
-      "id": "nordkapp",
-      "name": "Nordkapp",
-      "shareName": "Nordkapp",
+      "id": "lofoten",
+      "name": "Lofoten",
+      "shareName": "Lofoten",
       "emoji": null,
-      "description": "Du er eventyrlysten og vil alltid litt lenger enn alle andre. Du trives best med horisonten i sikte.",
-      "funFact": "Nordkapp ligger på Magerøya i Finnmark, og der står midnattssola over horisonten fra midten av mai til slutten av juli.",
-      "image": "images/2026-10-06/nordkapp.jpg",
+      "description": "Du er kreativ, sjarmerende og full av kontraster. Du byr på både storm og stille samme dag.",
+      "funFact": "Lofoten ligger langt nord for polarsirkelen, men har mildt klima for breddegraden takket være Golfstrømmen.",
+      "image": "images/2026-10-06/lofoten.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Eventyrlysten",
-          "text": "Vil alltid lenger."
+          "title": "Kreativ",
+          "text": "Kunstnere elsker deg."
         },
         {
-          "title": "Utholdende",
-          "text": "Holder ut i kulda."
+          "title": "Sjarmerende",
+          "text": "Røde rorbuer og tinder."
         },
         {
-          "title": "Lys",
-          "text": "Sol midt på natta."
+          "title": "Skiftende",
+          "text": "Alle vær på én dag."
         },
         {
-          "title": "Fri",
-          "text": "Havet er grensen."
-        }
-      ]
-    },
-    {
-      "id": "bryggen",
-      "name": "Bryggen i Bergen",
-      "shareName": "Bryggen i Bergen",
-      "emoji": null,
-      "description": "Du er fargerik, sjarmerende og full av historier. Du tåler litt regn og blir bare finere av det.",
-      "funFact": "Bryggen i Bergen har stått på UNESCOs verdensarvliste siden 1979.",
-      "image": "images/2026-10-06/bryggen.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Fargerik",
-          "text": "Rød, gul og hvit."
-        },
-        {
-          "title": "Historisk",
-          "text": "Full av gamle historier."
-        },
-        {
-          "title": "Sosial",
-          "text": "Alltid folk i nærheten."
-        },
-        {
-          "title": "Værbestandig",
-          "text": "Regn? Helt greit."
-        }
-      ]
-    },
-    {
-      "id": "nidaros",
-      "name": "Nidarosdomen",
-      "shareName": "Nidarosdomen",
-      "emoji": null,
-      "description": "Du er rolig, klok og full av historie. Folk kommer langveisfra for å være i nærheten av deg.",
-      "funFact": "Nidarosdomen i Trondheim er bygget over graven til Olav den hellige og regnes som verdens nordligste middelalderkatedral.",
-      "image": "images/2026-10-06/nidaros.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Klok",
-          "text": "Har sett mye."
-        },
-        {
-          "title": "Rolig",
-          "text": "Hviler i deg selv."
-        },
-        {
-          "title": "Imponerende",
-          "text": "Ruver i landskapet."
-        },
-        {
-          "title": "Tålmodig",
-          "text": "Tok hundrevis av år."
+          "title": "Sjøglad",
+          "text": "Hjemme ved havet."
         }
       ]
     },
@@ -505,58 +485,114 @@
       ]
     },
     {
-      "id": "lofoten",
-      "name": "Lofoten",
-      "shareName": "Lofoten",
+      "id": "nidaros",
+      "name": "Nidarosdomen",
+      "shareName": "Nidarosdomen",
       "emoji": null,
-      "description": "Du er kreativ, sjarmerende og full av kontraster. Du byr på både storm og stille samme dag.",
-      "funFact": "Lofoten ligger langt nord for polarsirkelen, men har mildt klima for breddegraden takket være Golfstrømmen.",
-      "image": "images/2026-10-06/lofoten.jpg",
+      "description": "Du er rolig, klok og full av historie. Folk kommer langveisfra for å være i nærheten av deg.",
+      "funFact": "Nidarosdomen i Trondheim er bygget over graven til Olav den hellige og regnes som verdens nordligste middelalderkatedral.",
+      "image": "images/2026-10-06/nidaros.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Kreativ",
-          "text": "Kunstnere elsker deg."
+          "title": "Klok",
+          "text": "Har sett mye."
         },
         {
-          "title": "Sjarmerende",
-          "text": "Røde rorbuer og tinder."
+          "title": "Rolig",
+          "text": "Hviler i deg selv."
         },
         {
-          "title": "Skiftende",
-          "text": "Alle vær på én dag."
+          "title": "Imponerende",
+          "text": "Ruver i landskapet."
         },
         {
-          "title": "Sjøglad",
-          "text": "Hjemme ved havet."
+          "title": "Tålmodig",
+          "text": "Tok hundrevis av år."
         }
       ]
     },
     {
-      "id": "atlanterhavsveien",
-      "name": "Atlanterhavsveien",
-      "shareName": "Atlanterhavsveien",
+      "id": "nordkapp",
+      "name": "Nordkapp",
+      "shareName": "Nordkapp",
       "emoji": null,
-      "description": "Du er spennende, svingete og full av fart. Du holder deg rolig selv når bølgene slår.",
-      "funFact": "Atlanterhavsveien i Møre og Romsdal er drøyt åtte kilometer lang og har åtte bruer mellom holmer og skjær.",
-      "image": "images/2026-10-06/atlanterhavsveien.jpg",
+      "description": "Du er eventyrlysten og vil alltid litt lenger enn alle andre. Du trives best med horisonten i sikte.",
+      "funFact": "Nordkapp ligger på Magerøya i Finnmark, og der står midnattssola over horisonten fra midten av mai til slutten av juli.",
+      "image": "images/2026-10-06/nordkapp.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Spennende",
-          "text": "Aldri en kjedelig tur."
+          "title": "Eventyrlysten",
+          "text": "Vil alltid lenger."
         },
         {
-          "title": "Svingete",
-          "text": "Tar gjerne en omvei."
+          "title": "Utholdende",
+          "text": "Holder ut i kulda."
         },
         {
-          "title": "Standhaftig",
-          "text": "Står støtt i stormen."
+          "title": "Lys",
+          "text": "Sol midt på natta."
         },
         {
-          "title": "Kystkjær",
-          "text": "Bor midt i havet."
+          "title": "Fri",
+          "text": "Havet er grensen."
+        }
+      ]
+    },
+    {
+      "id": "bryggen",
+      "name": "Bryggen i Bergen",
+      "shareName": "Bryggen i Bergen",
+      "emoji": null,
+      "description": "Du er fargerik, sjarmerende og full av historier. Du tåler litt regn og blir bare finere av det.",
+      "funFact": "Bryggen i Bergen har stått på UNESCOs verdensarvliste siden 1979.",
+      "image": "images/2026-10-06/bryggen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Rød, gul og hvit."
+        },
+        {
+          "title": "Historisk",
+          "text": "Full av gamle historier."
+        },
+        {
+          "title": "Sosial",
+          "text": "Alltid folk i nærheten."
+        },
+        {
+          "title": "Værbestandig",
+          "text": "Regn? Helt greit."
+        }
+      ]
+    },
+    {
+      "id": "preikestolen",
+      "name": "Preikestolen",
+      "shareName": "Preikestolen",
+      "emoji": null,
+      "description": "Du er modig, stødig og har utsikt over alt. Du tar gjerne en tøff tur for å oppleve noe stort.",
+      "funFact": "Preikestolen er et flatt fjellplatå som ruver rundt 600 meter rett over Lysefjorden i Rogaland.",
+      "image": "images/2026-10-06/preikestolen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å stå ytterst."
+        },
+        {
+          "title": "Stødig",
+          "text": "Flat og trygg på toppen."
+        },
+        {
+          "title": "Utsiktsglad",
+          "text": "Elsker en god utsikt."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tar de bratte bakkene."
         }
       ]
     }
