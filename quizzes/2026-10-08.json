@@ -1,0 +1,597 @@
+{
+  "id": "2026-10-08",
+  "date": "2026-10-08",
+  "title": "Hvilket kjæledyr er du i dag?",
+  "intro": "Logrer, maler eller piper du? Finn ut hvilket kjæledyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan starter du morgenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strekker meg lenge i senga",
+          "scores": {
+            "katt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hopper rett ut og vil på tur",
+          "scores": {
+            "hund": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Synger en sang",
+          "scores": {
+            "undulat": 2,
+            "marsvin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snooser fem ganger",
+          "scores": {
+            "hamster": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser stille ut av vinduet",
+          "scores": {
+            "gullfisk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prater med alle i huset",
+          "scores": {
+            "marsvin": 2,
+            "undulat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva er den beste snacksen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Litt fisk",
+          "scores": {
+            "katt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hva som helst, bare det er mat",
+          "scores": {
+            "hund": 2,
+            "hamster": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gulrot",
+          "scores": {
+            "kanin": 2,
+            "marsvin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Solsikkefrø",
+          "scores": {
+            "hamster": 2,
+            "undulat": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Salatblad",
+          "scores": {
+            "skilpadde": 2,
+            "marsvin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare noen små smuler",
+          "scores": {
+            "gullfisk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor vil du helst være?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I en solstripe på gulvet",
+          "scores": {
+            "katt": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I parken med venner",
+          "scores": {
+            "hund": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "I en hule med høy",
+          "scores": {
+            "marsvin": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "I et blått, stille basseng",
+          "scores": {
+            "gullfisk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Høyt oppe på en hylle",
+          "scores": {
+            "undulat": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I hagen",
+          "scores": {
+            "skilpadde": 2,
+            "kanin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du i en gruppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg kommer når jeg vil",
+          "scores": {
+            "katt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg vil hilse på alle",
+          "scores": {
+            "hund": 2,
+            "undulat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg holder meg litt i bakgrunnen",
+          "scores": {
+            "kanin": 2,
+            "gullfisk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg er den som prater mest",
+          "scores": {
+            "undulat": 2,
+            "marsvin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg følger med og tar det rolig",
+          "scores": {
+            "skilpadde": 2,
+            "gullfisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg løper rundt og fikser ting",
+          "scores": {
+            "hamster": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du på en regnværsdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover hele dagen",
+          "scores": {
+            "katt": 2,
+            "hamster": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hopper i sølepytter",
+          "scores": {
+            "hund": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bygger en hule av puter",
+          "scores": {
+            "hamster": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Koser med en venn",
+          "scores": {
+            "marsvin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Elsker regnet, det er jo vann",
+          "scores": {
+            "gullfisk": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser på dråpene og nynner",
+          "scores": {
+            "undulat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken superkraft vil du ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lande på bena hver gang",
+          "scores": {
+            "katt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Superluktesans",
+          "scores": {
+            "hund": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjempehopp",
+          "scores": {
+            "kanin": 2,
+            "marsvin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å fly",
+          "scores": {
+            "undulat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å puste under vann",
+          "scores": {
+            "gullfisk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å leve i hundre år",
+          "scores": {
+            "skilpadde": 2,
+            "hamster": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva sier vennene dine om deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Litt mystisk",
+          "scores": {
+            "katt": 2,
+            "gullfisk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snill og lojal",
+          "scores": {
+            "hund": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Søt og forsiktig",
+          "scores": {
+            "kanin": 2,
+            "hamster": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Alltid i farta",
+          "scores": {
+            "hamster": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "God å snakke med",
+          "scores": {
+            "marsvin": 2,
+            "undulat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rolig og klok",
+          "scores": {
+            "skilpadde": 2,
+            "gullfisk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "skilpadde",
+      "name": "Skilpadde",
+      "shareName": "en skilpadde",
+      "emoji": null,
+      "description": "Du er tålmodig, klok og tar det med ro. Du kommer alltid fram til slutt.",
+      "funFact": "Noen landskilpadder kan bli over 100 år gamle.",
+      "image": "images/2026-10-08/skilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ingen hast her."
+        },
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Trygg",
+          "text": "Har med huset."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "marsvin",
+      "name": "Marsvin",
+      "shareName": "et marsvin",
+      "emoji": null,
+      "description": "Du er pratsom, koselig og trives best med en god venn. Når du er glad, kan du nesten ikke holde deg i ro.",
+      "funFact": "Glade marsvin kan hoppe rett opp i lufta, og det kalles popcorning.",
+      "image": "images/2026-10-08/marsvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Piper hele tiden."
+        },
+        {
+          "title": "Sosial",
+          "text": "Aldri helt alene."
+        },
+        {
+          "title": "Glad",
+          "text": "Popcorner av glede."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker en god pause."
+        }
+      ]
+    },
+    {
+      "id": "undulat",
+      "name": "Undulat",
+      "shareName": "en undulat",
+      "emoji": null,
+      "description": "Du er fargerik, munter og synger gjerne høyt. Du liker å ha mange rundt deg.",
+      "funFact": "Undulater kommer opprinnelig fra Australia, og noen kan lære seg å si ord.",
+      "image": "images/2026-10-08/undulat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Grønn, blå, gul."
+        },
+        {
+          "title": "Munter",
+          "text": "Synger om morgenen."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Lærer nye ord."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        }
+      ]
+    },
+    {
+      "id": "gullfisk",
+      "name": "Gullfisk",
+      "shareName": "en gullfisk",
+      "emoji": null,
+      "description": "Du er rolig, blank og flyter fint gjennom dagen. Du lar ikke små ting stresse deg.",
+      "funFact": "Gullfisk som har det godt, kan bli over 20 år gamle.",
+      "image": "images/2026-10-08/gullfisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Flyter med strømmen."
+        },
+        {
+          "title": "Blank",
+          "text": "Glitrer i lyset."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser ut i vannet."
+        },
+        {
+          "title": "Sterk",
+          "text": "Lever overraskende lenge."
+        }
+      ]
+    },
+    {
+      "id": "kanin",
+      "name": "Kanin",
+      "shareName": "en kanin",
+      "emoji": null,
+      "description": "Du er myk, rask og full av hopp. Du er litt forsiktig med nye ting, men blir fort trygg.",
+      "funFact": "Tennene til en kanin slutter aldri å vokse, så de må tygge mye.",
+      "image": "images/2026-10-08/kanin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Som en pute."
+        },
+        {
+          "title": "Spretten",
+          "text": "Hopper av glede."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Sjekker først, alltid."
+        },
+        {
+          "title": "Gulrotglad",
+          "text": "Knasker hele dagen."
+        }
+      ]
+    },
+    {
+      "id": "hamster",
+      "name": "Hamster",
+      "shareName": "en hamster",
+      "emoji": null,
+      "description": "Du er liten, travel og alltid i full fart. Du liker å samle på ting til senere.",
+      "funFact": "Hamstere bærer mat i kinnposer som kan strekke seg helt bak til skuldrene.",
+      "image": "images/2026-10-08/hamster.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Travel",
+          "text": "Løper i hjulet."
+        },
+        {
+          "title": "Samler",
+          "text": "Gjemmer til senere."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner når andre sover."
+        },
+        {
+          "title": "Søt",
+          "text": "Runde kinn."
+        }
+      ]
+    },
+    {
+      "id": "hund",
+      "name": "Hund",
+      "shareName": "en hund",
+      "emoji": null,
+      "description": "Du er glad, lojal og elsker å være sammen med andre. Du logrer med halen bare noen sier navnet ditt.",
+      "funFact": "Hver hund har et unikt mønster på nesen, litt som et fingeravtrykk.",
+      "image": "images/2026-10-08/hund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Alltid ved din side."
+        },
+        {
+          "title": "Glad",
+          "text": "Logrer hele dagen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Klar for tur."
+        }
+      ]
+    },
+    {
+      "id": "katt",
+      "name": "Katt",
+      "shareName": "en katt",
+      "emoji": null,
+      "description": "Du er selvstendig, myk og gjør akkurat som du vil. Men når du først vil kose, er du verdens beste til det.",
+      "funFact": "Katter sover ofte mellom 12 og 16 timer i døgnet.",
+      "image": "images/2026-10-08/katt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Gjør det på sin måte."
+        },
+        {
+          "title": "Kosete",
+          "text": "Når det passer deg."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Må sjekke alle esker."
+        },
+        {
+          "title": "Søvnig",
+          "text": "Tar gjerne en lur."
+        }
+      ]
+    }
+  ]
+}
