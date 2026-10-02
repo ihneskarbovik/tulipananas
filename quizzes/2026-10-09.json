@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-09",
+  "date": "2026-10-09",
+  "title": "Hvilket land i Asia er du i dag?",
+  "intro": "Fra fjelltopper til palmestrender. Svar på sju små spørsmål og finn ut hvilket asiatisk land du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva spiser du helst til frokost?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Havregrøt med syltetøy",
+          "scores": {
+            "nepal": 1,
+            "mongolia": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pannekaker med blåbær",
+          "scores": {
+            "thailand": 2,
+            "filippinene": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brødskive med brunost",
+          "scores": {
+            "mongolia": 2,
+            "srilanka": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Egg og bacon",
+          "scores": {
+            "sorkorea": 2,
+            "kina": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare en banan",
+          "scores": {
+            "indonesia": 2,
+            "vietnam": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rester fra middagen i går",
+          "scores": {
+            "india": 2,
+            "japan": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover lenge og leser en bok",
+          "scores": {
+            "japan": 2,
+            "srilanka": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Drar på en lang tur i skogen",
+          "scores": {
+            "nepal": 1,
+            "mongolia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer hele gjengen på middag",
+          "scores": {
+            "india": 2,
+            "filippinene": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bygger noe med lego",
+          "scores": {
+            "kambodsja": 2,
+            "kina": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiller spill til langt på kveld",
+          "scores": {
+            "sorkorea": 2,
+            "thailand": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går på loppemarked",
+          "scores": {
+            "vietnam": 2,
+            "indonesia": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Popkorn som popper",
+          "scores": {
+            "sorkorea": 2,
+            "filippinene": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vind i trærne",
+          "scores": {
+            "mongolia": 1,
+            "nepal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noen som ler i rommet ved siden av",
+          "scores": {
+            "thailand": 2,
+            "india": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kirkeklokker langt unna",
+          "scores": {
+            "kambodsja": 2,
+            "japan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En katt som maler",
+          "scores": {
+            "srilanka": 2,
+            "indonesia": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En sykkelbjelle",
+          "scores": {
+            "vietnam": 2,
+            "kina": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva tar du med deg til en øde øy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En god pute",
+          "scores": {
+            "srilanka": 2,
+            "japan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En fotball",
+          "scores": {
+            "filippinene": 2,
+            "thailand": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En notatbok",
+          "scores": {
+            "kina": 2,
+            "kambodsja": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En kortstokk",
+          "scores": {
+            "sorkorea": 2,
+            "vietnam": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hengekøye",
+          "scores": {
+            "indonesia": 2,
+            "filippinene": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En kikkert",
+          "scores": {
+            "nepal": 2,
+            "mongolia": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken sang nynner du på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bursdagssangen",
+          "scores": {
+            "filippinene": 2,
+            "india": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En reklamesang",
+          "scores": {
+            "sorkorea": 1,
+            "thailand": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe jeg har funnet på selv",
+          "scores": {
+            "mongolia": 2,
+            "kambodsja": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Julesanger, selv i juli",
+          "scores": {
+            "japan": 2,
+            "srilanka": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sangen fra en barnefilm",
+          "scores": {
+            "indonesia": 2,
+            "kina": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg plystrer heller",
+          "scores": {
+            "vietnam": 2,
+            "nepal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan ser sokkene dine ut i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Knallgule",
+          "scores": {
+            "thailand": 1,
+            "india": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Svarte og helt like",
+          "scores": {
+            "japan": 1,
+            "kina": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ikke like hverandre",
+          "scores": {
+            "filippinene": 2,
+            "sorkorea": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tykke ullsokker",
+          "scores": {
+            "nepal": 2,
+            "mongolia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med striper",
+          "scores": {
+            "kambodsja": 2,
+            "vietnam": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har ikke sokker på",
+          "scores": {
+            "indonesia": 2,
+            "srilanka": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvem er du i en gruppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som lager planen",
+          "scores": {
+            "kina": 2,
+            "kambodsja": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som får alle til å le",
+          "scores": {
+            "thailand": 2,
+            "filippinene": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som lytter",
+          "scores": {
+            "srilanka": 2,
+            "japan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som alltid har snacks",
+          "scores": {
+            "india": 2,
+            "vietnam": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som finner veien",
+          "scores": {
+            "mongolia": 2,
+            "nepal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som kommer litt for sent",
+          "scores": {
+            "indonesia": 1,
+            "sorkorea": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "japan",
+      "name": "Japan",
+      "shareName": "Japan",
+      "emoji": null,
+      "description": "Du er rolig, ryddig og har et øye for små detaljer. Du setter pris på at ting gjøres skikkelig.",
+      "funFact": "Fuji er Japans høyeste fjell med sine 3776 meter, og det er faktisk en vulkan.",
+      "image": "images/2026-10-09/japan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Alltid i god tid."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene hos andre."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser det andre overser."
+        },
+        {
+          "title": "Høflig",
+          "text": "Bukker for de små tingene."
+        }
+      ]
+    },
+    {
+      "id": "kina",
+      "name": "Kina",
+      "shareName": "Kina",
+      "emoji": null,
+      "description": "Du er klok, utholdende og har alltid en plan. Du liker store prosjekter og gir deg ikke før de er ferdige.",
+      "funFact": "Kina har bare én offisiell tidssone, selv om landet er omtrent like bredt som fem tidssoner.",
+      "image": "images/2026-10-09/kina.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Planlagt",
+          "text": "Har alltid en liste."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne maten din."
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "shareName": "India",
+      "emoji": null,
+      "description": "Du er fargerik, varm og elsker å samle folk rundt bordet. Med deg blir hverdagen en liten fest.",
+      "funFact": "Taj Mahal i Agra ble bygget av stormogulen Shah Jahan til minne om kona hans, Mumtaz Mahal.",
+      "image": "images/2026-10-09/india.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp ethvert rom."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Det er alltid plass."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Hjertevarm",
+          "text": "Bryr deg om alle."
+        }
+      ]
+    },
+    {
+      "id": "nepal",
+      "name": "Nepal",
+      "shareName": "Nepal",
+      "emoji": null,
+      "description": "Du er modig, nysgjerrig og liker å se ting fra oven. Du går gjerne et ekstra steg for en fin utsikt.",
+      "funFact": "Nepal har det eneste nasjonalflagget i verden som ikke er firkantet. Det består av to trekanter.",
+      "image": "images/2026-10-09/nepal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Sier ja til eventyr."
+        },
+        {
+          "title": "Seig",
+          "text": "Går og går."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se over kanten."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        }
+      ]
+    },
+    {
+      "id": "mongolia",
+      "name": "Mongolia",
+      "shareName": "Mongolia",
+      "emoji": null,
+      "description": "Du er fri, selvstendig og trives med god plass rundt deg. Du finner veien selv uten kart.",
+      "funFact": "Mongolia er det selvstendige landet i verden med færrest innbyggere per kvadratkilometer.",
+      "image": "images/2026-10-09/mongolia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Trenger masse plass."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress her."
+        },
+        {
+          "title": "Retningssans",
+          "text": "Finner alltid hjem."
+        }
+      ]
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "shareName": "Vietnam",
+      "emoji": null,
+      "description": "Du er kvikk, oppfinnsom og alltid på farten. Du finner en løsning før de andre har rukket å spørre.",
+      "funFact": "Vietnam er en av verdens største kaffeprodusenter. Bare Brasil dyrker mer kaffe.",
+      "image": "images/2026-10-09/vietnam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvikk",
+          "text": "Alltid ett steg foran."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Fikser alt med tape."
+        },
+        {
+          "title": "Energisk",
+          "text": "Står aldri stille."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Smiler til alle."
+        }
+      ]
+    },
+    {
+      "id": "thailand",
+      "name": "Thailand",
+      "shareName": "Thailand",
+      "emoji": null,
+      "description": "Du er blid, leken og får folk til å le. Der du er, blir stemningen alltid litt bedre.",
+      "funFact": "Thailand er det eneste landet i Sørøst-Asia som aldri har vært en europeisk koloni.",
+      "image": "images/2026-10-09/thailand.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smilet sitter løst."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker en god spøk."
+        },
+        {
+          "title": "Sosial",
+          "text": "Venn med alle."
+        },
+        {
+          "title": "Uredd",
+          "text": "Prøver alt én gang."
+        }
+      ]
+    },
+    {
+      "id": "sorkorea",
+      "name": "Sør-Korea",
+      "shareName": "Sør-Korea",
+      "emoji": null,
+      "description": "Du er trendy, rask og alltid først ute med det nye. Du elsker en god konkurranse og en enda bedre sang.",
+      "funFact": "Det koreanske alfabetet, hangul, ble laget på 1400-tallet etter ordre fra kong Sejong.",
+      "image": "images/2026-10-09/sorkorea.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trendy",
+          "text": "Først med det nye."
+        },
+        {
+          "title": "Rask",
+          "text": "Ferdig før alle andre."
+        },
+        {
+          "title": "Konkurranse",
+          "text": "Elsker å vinne spill."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Synger i alle rom."
+        }
+      ]
+    },
+    {
+      "id": "indonesia",
+      "name": "Indonesia",
+      "shareName": "Indonesia",
+      "emoji": null,
+      "description": "Du er avslappet, eventyrlysten og full av overraskelser. Du har mange sider, og alle er like fine.",
+      "funFact": "Komodovaranen, verdens største øgle, lever bare på noen få øyer i Indonesia.",
+      "image": "images/2026-10-09/indonesia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Mangfoldig",
+          "text": "Har mange sider."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Utforsker gjerne nytt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Aldri helt forutsigbar."
+        }
+      ]
+    },
+    {
+      "id": "kambodsja",
+      "name": "Kambodsja",
+      "shareName": "Kambodsja",
+      "emoji": null,
+      "description": "Du er tålmodig, kreativ og bygger ting som varer. Du har en stille styrke som andre ser opp til.",
+      "funFact": "Angkor Wat er verdens største religiøse byggverk, og tempelet er avbildet på Kambodsjas flagg.",
+      "image": "images/2026-10-09/kambodsja.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne lenge."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Bygger store drømmer."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt i alt."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Har mange hemmeligheter."
+        }
+      ]
+    },
+    {
+      "id": "srilanka",
+      "name": "Sri Lanka",
+      "shareName": "Sri Lanka",
+      "emoji": null,
+      "description": "Du er lun, omtenksom og en god lytter. Hos deg føler alle seg velkommen.",
+      "funFact": "Sri Lanka er en av verdens største produsenter av te, og teen kalles ofte ceylonte etter landets gamle navn.",
+      "image": "images/2026-10-09/srilanka.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Varm som en tekopp."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker alles bursdager."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører hva folk sier."
+        },
+        {
+          "title": "Koselig",
+          "text": "Tepper og puter."
+        }
+      ]
+    },
+    {
+      "id": "filippinene",
+      "name": "Filippinene",
+      "shareName": "Filippinene",
+      "emoji": null,
+      "description": "Du er sosial, sprudlende og elsker en god fest. Du har alltid plass til én venn til.",
+      "funFact": "Filippinene består av mer enn 7600 øyer, og bare en del av dem har innbyggere.",
+      "image": "images/2026-10-09/filippinene.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Full av latter."
+        },
+        {
+          "title": "Festglad",
+          "text": "Elsker et selskap."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle er velkomne."
+        },
+        {
+          "title": "Solskinn",
+          "text": "Gir andre godt humør."
+        }
+      ]
+    }
+  ]
+}
