@@ -1,8 +1,8 @@
 {
   "id": "2026-10-08",
   "date": "2026-10-08",
-  "title": "Hvilket kjæledyr er du i dag?",
-  "intro": "Logrer, maler eller piper du? Finn ut hvilket kjæledyr du er i dag.",
+  "title": "Hvilket eventyrvesen er du i dag?",
+  "intro": "Det var en gang ... deg! Finn ut hvilket eventyrvesen du er i dag.",
   "questions": [
     {
       "id": "q1",
@@ -10,150 +10,154 @@
       "options": [
         {
           "id": "a",
-          "text": "Pannekaker",
+          "text": "En kjempestor tallerken med alt",
           "scores": {
-            "hund": 2,
-            "marsvin": 1
+            "troll": 2,
+            "drage": 1
           }
         },
         {
           "id": "b",
-          "text": "Ingenting før klokka elleve",
+          "text": "Knekkebrød med ost",
           "scores": {
-            "katt": 2,
-            "skilpadde": 1
+            "nisse": 2,
+            "nokken": 1
           }
         },
         {
           "id": "c",
-          "text": "Knekkebrød",
+          "text": "Noe søtt med strøssel",
           "scores": {
-            "kanin": 2
+            "enhjorning": 2,
+            "fe": 1
           }
         },
         {
           "id": "d",
-          "text": "Bare litt yoghurt",
+          "text": "Te på senga",
           "scores": {
-            "gullfisk": 2,
-            "katt": 1
+            "havfrue": 2
           }
         },
         {
           "id": "e",
-          "text": "Noe jeg har gjemt i skapet",
+          "text": "Glemmer det helt",
           "scores": {
-            "hamster": 2
+            "huldra": 2,
+            "nokken": 1
           }
         },
         {
           "id": "f",
-          "text": "Toast med syltetøy",
+          "text": "Bare litt bær",
           "scores": {
-            "undulat": 2,
-            "marsvin": 1
+            "fe": 2,
+            "huldra": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Hva gjør du på en fridag?",
       "options": [
         {
           "id": "a",
-          "text": "Regn mot vinduet",
+          "text": "Sover lenge",
           "scores": {
-            "katt": 2,
-            "gullfisk": 1
+            "troll": 2
           }
         },
         {
           "id": "b",
-          "text": "Noen som ringer på døra",
+          "text": "Lurer noen med en spøk",
           "scores": {
-            "hund": 2
+            "nisse": 2
           }
         },
         {
           "id": "c",
-          "text": "Morgenradio",
+          "text": "Konkurrerer i noe",
           "scores": {
-            "undulat": 2
+            "drage": 2
           }
         },
         {
           "id": "d",
-          "text": "Ingen lyd, helt stille",
+          "text": "Pynter rommet",
           "scores": {
-            "skilpadde": 2,
-            "kanin": 1
+            "enhjorning": 2,
+            "fe": 1
           }
         },
         {
           "id": "e",
-          "text": "Papir som knitrer",
+          "text": "Sitter ved vinduet og dagdrømmer",
           "scores": {
-            "hamster": 2,
-            "marsvin": 1
+            "havfrue": 2,
+            "nokken": 1
           }
         },
         {
           "id": "f",
-          "text": "Folk som prater i rommet ved siden av",
+          "text": "Går på loppemarked",
           "scores": {
-            "marsvin": 2,
-            "undulat": 1
+            "huldra": 2,
+            "nisse": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hvilken farge har humøret ditt?",
       "options": [
         {
           "id": "a",
-          "text": "Sover midt på dagen",
+          "text": "Grått",
           "scores": {
-            "katt": 2
+            "troll": 2,
+            "nokken": 1
           }
         },
         {
           "id": "b",
-          "text": "Ringer en venn",
+          "text": "Oransje",
           "scores": {
-            "hund": 2,
-            "marsvin": 1
+            "drage": 2,
+            "nisse": 1
           }
         },
         {
           "id": "c",
-          "text": "Rydder og sorterer",
+          "text": "Lilla",
           "scores": {
-            "hamster": 2
+            "enhjorning": 2,
+            "huldra": 1
           }
         },
         {
           "id": "d",
-          "text": "Går en rolig tur",
+          "text": "Lyseblått",
           "scores": {
-            "skilpadde": 2,
-            "kanin": 1
+            "havfrue": 2,
+            "fe": 1
           }
         },
         {
           "id": "e",
-          "text": "Ser på skyene",
+          "text": "Mørkegrønt",
           "scores": {
-            "gullfisk": 2
+            "huldra": 2,
+            "nokken": 1
           }
         },
         {
           "id": "f",
-          "text": "Synger i dusjen",
+          "text": "Gult",
           "scores": {
-            "undulat": 2
+            "fe": 2,
+            "enhjorning": 1
           }
         }
       ]
@@ -164,99 +168,98 @@
       "options": [
         {
           "id": "a",
-          "text": "Kommer når jeg vil",
+          "text": "Den store og snille",
           "scores": {
-            "katt": 2
+            "troll": 2
           }
         },
         {
           "id": "b",
-          "text": "Hilser på alle",
+          "text": "Den som lurer alle",
           "scores": {
-            "hund": 2
+            "nisse": 2
           }
         },
         {
           "id": "c",
-          "text": "Litt sjenert først",
+          "text": "Den som bestemmer",
           "scores": {
-            "kanin": 2,
-            "gullfisk": 1
+            "drage": 2
           }
         },
         {
           "id": "d",
-          "text": "Den som prater mest",
+          "text": "Den som lyser opp rommet",
           "scores": {
-            "undulat": 2,
-            "marsvin": 1
+            "enhjorning": 2,
+            "fe": 1
           }
         },
         {
           "id": "e",
-          "text": "Den rolige som alle stoler på",
+          "text": "Den som drømmer seg bort",
           "scores": {
-            "skilpadde": 2
+            "havfrue": 2
           }
         },
         {
           "id": "f",
-          "text": "Den som fikser snacks",
+          "text": "Den mystiske i hjørnet",
           "scores": {
-            "hamster": 2,
-            "marsvin": 1
+            "nokken": 2,
+            "huldra": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvilken farge har humøret ditt?",
+      "text": "Hvilken lyd liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Lilla",
+          "text": "Torden",
           "scores": {
-            "katt": 2,
-            "kanin": 1
+            "drage": 2,
+            "fe": 1
           }
         },
         {
           "id": "b",
-          "text": "Gult",
+          "text": "Latter",
           "scores": {
-            "hund": 2,
-            "undulat": 1
+            "nisse": 2,
+            "fe": 1
           }
         },
         {
           "id": "c",
-          "text": "Lyseblått",
+          "text": "Pianoet til naboen",
           "scores": {
-            "gullfisk": 2
+            "nokken": 2
           }
         },
         {
           "id": "d",
-          "text": "Mosegrønt",
+          "text": "Vind i trærne",
           "scores": {
-            "skilpadde": 2
+            "huldra": 2
           }
         },
         {
           "id": "e",
-          "text": "Oransje",
+          "text": "Regn mot vinduet",
           "scores": {
-            "hamster": 2,
-            "hund": 1
+            "havfrue": 2,
+            "nokken": 1
           }
         },
         {
           "id": "f",
-          "text": "Rosa",
+          "text": "Klokker som kimer",
           "scores": {
-            "marsvin": 2,
-            "kanin": 1
+            "enhjorning": 2,
+            "fe": 1
           }
         }
       ]
@@ -267,97 +270,100 @@
       "options": [
         {
           "id": "a",
-          "text": "En pute",
+          "text": "En stor pute",
           "scores": {
-            "katt": 2
+            "troll": 2
           }
         },
         {
           "id": "b",
-          "text": "En ball",
+          "text": "En kortstokk",
           "scores": {
-            "hund": 2
+            "nisse": 2,
+            "huldra": 1
           }
         },
         {
           "id": "c",
-          "text": "En sekk med snacks",
+          "text": "En lommelykt",
           "scores": {
-            "hamster": 2
+            "drage": 2,
+            "nokken": 1
           }
         },
         {
           "id": "d",
-          "text": "Et mykt teppe",
+          "text": "Glitterlim",
           "scores": {
-            "marsvin": 2,
-            "kanin": 1
+            "enhjorning": 2
           }
         },
         {
           "id": "e",
           "text": "En dagbok",
           "scores": {
-            "gullfisk": 2,
-            "skilpadde": 1
+            "havfrue": 2,
+            "huldra": 1
           }
         },
         {
           "id": "f",
-          "text": "En radio",
+          "text": "Frø å plante",
           "scores": {
-            "undulat": 2
+            "fe": 2,
+            "troll": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva sier vennene dine om deg?",
+      "text": "Hva er superkraften din?",
       "options": [
         {
           "id": "a",
-          "text": "Litt mystisk",
+          "text": "Å være kjempesterk",
           "scores": {
-            "katt": 2,
-            "gullfisk": 1
+            "troll": 2,
+            "drage": 1
           }
         },
         {
           "id": "b",
-          "text": "Snill og lojal",
+          "text": "Å bli usynlig",
           "scores": {
-            "hund": 2,
-            "skilpadde": 1
+            "nisse": 2,
+            "nokken": 1
           }
         },
         {
           "id": "c",
-          "text": "Søt og forsiktig",
+          "text": "Å få noen til å føle seg spesiell",
           "scores": {
-            "kanin": 2
+            "enhjorning": 2
           }
         },
         {
           "id": "d",
-          "text": "Alltid i farta",
+          "text": "Å snakke med dyr",
           "scores": {
-            "hamster": 2
+            "havfrue": 2,
+            "fe": 1
           }
         },
         {
           "id": "e",
-          "text": "God å snakke med",
+          "text": "Å få folk til å glemme tiden",
           "scores": {
-            "marsvin": 2,
-            "undulat": 1
+            "huldra": 2
           }
         },
         {
           "id": "f",
-          "text": "Rolig og klok",
+          "text": "Å trylle frem kake",
           "scores": {
-            "skilpadde": 2
+            "fe": 2,
+            "nisse": 1
           }
         }
       ]
@@ -365,226 +371,226 @@
   ],
   "outcomes": [
     {
-      "id": "skilpadde",
-      "name": "Skilpadde",
-      "shareName": "en skilpadde",
+      "id": "nokken",
+      "name": "Nøkken",
+      "shareName": "nøkken",
       "emoji": null,
-      "description": "Du er tålmodig, klok og tar det med ro. Du kommer alltid fram til slutt.",
-      "funFact": "Noen landskilpadder kan bli over 100 år gamle.",
-      "image": "images/2026-10-08/skilpadde.jpg",
+      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
+      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
+      "image": "images/2026-10-08/nokken.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Tålmodig",
-          "text": "Ingen hast her."
+          "title": "Gåtefull",
+          "text": "Vanskelig å bli klok på."
         },
         {
-          "title": "Klok",
-          "text": "Har sett mye."
+          "title": "Skiftende",
+          "text": "Endrer form ofte."
         },
-        {
-          "title": "Trygg",
-          "text": "Har med huset."
-        },
-        {
-          "title": "Seig",
-          "text": "Gir aldri opp."
-        }
-      ]
-    },
-    {
-      "id": "kanin",
-      "name": "Kanin",
-      "shareName": "en kanin",
-      "emoji": null,
-      "description": "Du er myk, rask og full av hopp. Du er litt forsiktig med nye ting, men blir fort trygg.",
-      "funFact": "Tennene til en kanin slutter aldri å vokse, så de må tygge mye.",
-      "image": "images/2026-10-08/kanin.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Myk",
-          "text": "Som en pute."
-        },
-        {
-          "title": "Spretten",
-          "text": "Hopper av glede."
-        },
-        {
-          "title": "Forsiktig",
-          "text": "Sjekker først, alltid."
-        },
-        {
-          "title": "Gulrotglad",
-          "text": "Knasker hele dagen."
-        }
-      ]
-    },
-    {
-      "id": "gullfisk",
-      "name": "Gullfisk",
-      "shareName": "en gullfisk",
-      "emoji": null,
-      "description": "Du er rolig, blank og flyter fint gjennom dagen. Du lar ikke små ting stresse deg.",
-      "funFact": "Gullfisk som har det godt, kan bli over 20 år gamle.",
-      "image": "images/2026-10-08/gullfisk.jpg",
-      "imageCredit": null,
-      "traits": [
         {
           "title": "Rolig",
-          "text": "Flyter med strømmen."
+          "text": "Liker stille vann."
         },
         {
-          "title": "Blank",
-          "text": "Glitrer i lyset."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Ser ut i vannet."
-        },
+          "title": "Musikalsk",
+          "text": "Vannet synger for deg."
+        }
+      ]
+    },
+    {
+      "id": "troll",
+      "name": "Troll",
+      "shareName": "et troll",
+      "emoji": null,
+      "description": "Du er stor, sterk og mye snillere enn folk tror. Du blir bare litt gretten når du er sulten.",
+      "funFact": "I norske folkeeventyr sprekker trollene hvis de ser sola.",
+      "image": "images/2026-10-08/troll.jpg",
+      "imageCredit": null,
+      "traits": [
         {
           "title": "Sterk",
-          "text": "Lever overraskende lenge."
-        }
-      ]
-    },
-    {
-      "id": "marsvin",
-      "name": "Marsvin",
-      "shareName": "et marsvin",
-      "emoji": null,
-      "description": "Du er pratsom, koselig og trives best med en god venn. Når du er glad, kan du nesten ikke holde deg i ro.",
-      "funFact": "Glade marsvin kan hoppe rett opp i lufta, og det kalles popcorning.",
-      "image": "images/2026-10-08/marsvin.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Pratsom",
-          "text": "Piper hele tiden."
+          "text": "Flytter fjell."
         },
         {
-          "title": "Sosial",
-          "text": "Aldri helt alene."
+          "title": "Snill",
+          "text": "Myk innerst inne."
         },
         {
-          "title": "Glad",
-          "text": "Popcorner av glede."
-        },
-        {
-          "title": "Rolig",
-          "text": "Liker en god pause."
-        }
-      ]
-    },
-    {
-      "id": "hamster",
-      "name": "Hamster",
-      "shareName": "en hamster",
-      "emoji": null,
-      "description": "Du er liten, travel og alltid i full fart. Du liker å samle på ting til senere.",
-      "funFact": "Hamstere bærer mat i kinnposer som kan strekke seg helt bak til skuldrene.",
-      "image": "images/2026-10-08/hamster.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Travel",
-          "text": "Løper i hjulet."
-        },
-        {
-          "title": "Samler",
-          "text": "Gjemmer til senere."
+          "title": "Gretten",
+          "text": "Bare før frokost."
         },
         {
           "title": "Nattmenneske",
-          "text": "Våkner når andre sover."
-        },
-        {
-          "title": "Søt",
-          "text": "Runde kinn."
+          "text": "Unngår sola, selvfølgelig."
         }
       ]
     },
     {
-      "id": "undulat",
-      "name": "Undulat",
-      "shareName": "en undulat",
+      "id": "drage",
+      "name": "Drage",
+      "shareName": "en drage",
       "emoji": null,
-      "description": "Du er fargerik, munter og synger gjerne høyt. Du liker å ha mange rundt deg.",
-      "funFact": "Undulater kommer opprinnelig fra Australia, og noen kan lære seg å si ord.",
-      "image": "images/2026-10-08/undulat.jpg",
+      "description": "Du er kraftfull, varm og har et hjerte av gull. Du passer på skattene dine, og vennene dine er de største.",
+      "funFact": "Komodovaranen, som også kalles komododrage, er verdens største nålevende øgle.",
+      "image": "images/2026-10-08/drage.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Fargerik",
-          "text": "Grønn, blå, gul."
+          "title": "Kraftfull",
+          "text": "Merkes lang vei."
         },
         {
-          "title": "Munter",
-          "text": "Synger om morgenen."
+          "title": "Varm",
+          "text": "Alltid fyr i ovnen."
         },
         {
-          "title": "Pratsom",
-          "text": "Lærer nye ord."
+          "title": "Beskyttende",
+          "text": "Vokter det du elsker."
         },
         {
-          "title": "Sosial",
-          "text": "Trives i flokk."
+          "title": "Stolt",
+          "text": "Løfter hodet høyt."
         }
       ]
     },
     {
-      "id": "hund",
-      "name": "Hund",
-      "shareName": "en hund",
+      "id": "nisse",
+      "name": "Nisse",
+      "shareName": "en nisse",
       "emoji": null,
-      "description": "Du er glad, lojal og elsker å være sammen med andre. Du logrer med halen bare noen sier navnet ditt.",
-      "funFact": "Hver hund har et unikt mønster på nesen, litt som et fingeravtrykk.",
-      "image": "images/2026-10-08/hund.jpg",
+      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
+      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
+      "image": "images/2026-10-08/nisse.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Lojal",
-          "text": "Alltid ved din side."
+          "title": "Lur",
+          "text": "Alltid et triks."
         },
         {
-          "title": "Glad",
-          "text": "Logrer hele dagen."
+          "title": "Omsorgsfull",
+          "text": "Passer på gården."
         },
         {
-          "title": "Sosial",
-          "text": "Hilser på alle."
+          "title": "Rampete",
+          "text": "Litt tull må til."
         },
         {
-          "title": "Aktiv",
-          "text": "Klar for tur."
+          "title": "Grøtglad",
+          "text": "Med smør, takk."
         }
       ]
     },
     {
-      "id": "katt",
-      "name": "Katt",
-      "shareName": "en katt",
+      "id": "enhjorning",
+      "name": "Enhjørning",
+      "shareName": "en enhjørning",
       "emoji": null,
-      "description": "Du er selvstendig, myk og gjør akkurat som du vil. Men når du først vil kose, er du verdens beste til det.",
-      "funFact": "Katter sover ofte mellom 12 og 16 timer i døgnet.",
-      "image": "images/2026-10-08/katt.jpg",
+      "description": "Du er magisk, god og ser det fine i alle. Det er ikke hver dag noen møter en som deg.",
+      "funFact": "Enhjørningen er Skottlands nasjonaldyr.",
+      "image": "images/2026-10-08/enhjorning.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Selvstendig",
-          "text": "Gjør det på sin måte."
+          "title": "Magisk",
+          "text": "Glitrer i sola."
         },
         {
-          "title": "Kosete",
-          "text": "Når det passer deg."
+          "title": "God",
+          "text": "Ser det fine overalt."
         },
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Lever litt i regnbuen."
+        }
+      ]
+    },
+    {
+      "id": "havfrue",
+      "name": "Havfrue",
+      "shareName": "en havfrue",
+      "emoji": null,
+      "description": "Du er nysgjerrig, sangglad og elsker vann. Du drømmer ofte om livet på den andre siden av bølgene.",
+      "funFact": "Statuen Den lille havfrue i København har sittet på steinen sin siden 1913.",
+      "image": "images/2026-10-08/havfrue.jpg",
+      "imageCredit": null,
+      "traits": [
         {
           "title": "Nysgjerrig",
-          "text": "Må sjekke alle esker."
+          "text": "Utforsker hele havet."
         },
         {
-          "title": "Søvnig",
-          "text": "Tar gjerne en lur."
+          "title": "Sangglad",
+          "text": "Synger med bølgene."
+        },
+        {
+          "title": "Lengtende",
+          "text": "Drømmer om land."
+        },
+        {
+          "title": "Fri",
+          "text": "Havet er ditt."
+        }
+      ]
+    },
+    {
+      "id": "huldra",
+      "name": "Huldra",
+      "shareName": "huldra",
+      "emoji": null,
+      "description": "Du er vill, fri og litt mystisk. Du hører hjemme i skogen og lar deg ikke temme.",
+      "funFact": "Ifølge folketroen var huldra vakker forfra, men hadde kuhale og hul rygg.",
+      "image": "images/2026-10-08/huldra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vill",
+          "text": "Lar deg ikke temme."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Forsvinner mellom trærne."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Skogen er ditt hjem."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Folk blir fortryllet."
+        }
+      ]
+    },
+    {
+      "id": "fe",
+      "name": "Fe",
+      "shareName": "en fe",
+      "emoji": null,
+      "description": "Du er lett, kjapp og full av små gode gjerninger. Der du har vært, ligger det alltid litt glitter igjen.",
+      "funFact": "Ordet fe kommer via fransk fra latin «fata», som har med skjebne å gjøre.",
+      "image": "images/2026-10-08/fe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Gjør små mirakler."
+        },
+        {
+          "title": "Lett",
+          "text": "Svever over bakken."
+        },
+        {
+          "title": "Kjapp",
+          "text": "Fort som et vingeslag."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Etterlater alltid glitter."
         }
       ]
     }

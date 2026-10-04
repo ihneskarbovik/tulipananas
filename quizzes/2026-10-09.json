@@ -1,8 +1,8 @@
 {
   "id": "2026-10-09",
   "date": "2026-10-09",
-  "title": "Hvilket land i Asia er du i dag?",
-  "intro": "Fra fjelltopper til palmestrender. Svar på sju små spørsmål og finn ut hvilket asiatisk land du er i dag.",
+  "title": "Hvilket kjæledyr er du i dag?",
+  "intro": "Logrer, maler eller piper du? Finn ut hvilket kjæledyr du er i dag.",
   "questions": [
     {
       "id": "q1",
@@ -10,374 +10,354 @@
       "options": [
         {
           "id": "a",
-          "text": "Havregrøt med syltetøy",
+          "text": "Pannekaker",
           "scores": {
-            "nepal": 1,
-            "mongolia": 1
+            "hund": 2,
+            "marsvin": 1
           }
         },
         {
           "id": "b",
-          "text": "Pannekaker med blåbær",
+          "text": "Ingenting før klokka elleve",
           "scores": {
-            "thailand": 2,
-            "filippinene": 1
+            "katt": 2,
+            "skilpadde": 1
           }
         },
         {
           "id": "c",
-          "text": "Brødskive med brunost",
+          "text": "Knekkebrød",
           "scores": {
-            "mongolia": 2,
-            "srilanka": 2
+            "kanin": 2
           }
         },
         {
           "id": "d",
-          "text": "Egg og bacon",
+          "text": "Bare litt yoghurt",
           "scores": {
-            "sorkorea": 2,
-            "kina": 1
+            "gullfisk": 2,
+            "katt": 1
           }
         },
         {
           "id": "e",
-          "text": "Bare en banan",
+          "text": "Noe jeg har gjemt i skapet",
           "scores": {
-            "indonesia": 2,
-            "vietnam": 1
+            "hamster": 2
           }
         },
         {
           "id": "f",
-          "text": "Rester fra middagen i går",
+          "text": "Toast med syltetøy",
           "scores": {
-            "india": 2,
-            "japan": 1
+            "undulat": 2,
+            "marsvin": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hvilken lyd liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Sover lenge og leser en bok",
+          "text": "Regn mot vinduet",
           "scores": {
-            "japan": 2,
-            "srilanka": 2
+            "katt": 2,
+            "gullfisk": 1
           }
         },
         {
           "id": "b",
-          "text": "Drar på en lang tur i skogen",
+          "text": "Noen som ringer på døra",
           "scores": {
-            "nepal": 1,
-            "mongolia": 1
+            "hund": 2
           }
         },
         {
           "id": "c",
-          "text": "Inviterer hele gjengen på middag",
+          "text": "Morgenradio",
           "scores": {
-            "india": 2,
-            "filippinene": 1
+            "undulat": 2
           }
         },
         {
           "id": "d",
-          "text": "Bygger noe med lego",
+          "text": "Ingen lyd, helt stille",
           "scores": {
-            "kambodsja": 2,
-            "kina": 1
+            "skilpadde": 2,
+            "kanin": 1
           }
         },
         {
           "id": "e",
-          "text": "Spiller spill til langt på kveld",
+          "text": "Papir som knitrer",
           "scores": {
-            "sorkorea": 2,
-            "thailand": 1
+            "hamster": 2,
+            "marsvin": 1
           }
         },
         {
           "id": "f",
-          "text": "Går på loppemarked",
+          "text": "Folk som prater i rommet ved siden av",
           "scores": {
-            "vietnam": 2,
-            "indonesia": 1
+            "marsvin": 2,
+            "undulat": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Hva gjør du på en fridag?",
       "options": [
         {
           "id": "a",
-          "text": "Popkorn som popper",
+          "text": "Sover midt på dagen",
           "scores": {
-            "sorkorea": 2,
-            "filippinene": 1
+            "katt": 2
           }
         },
         {
           "id": "b",
-          "text": "Vind i trærne",
+          "text": "Ringer en venn",
           "scores": {
-            "mongolia": 1,
-            "nepal": 1
+            "hund": 2,
+            "marsvin": 1
           }
         },
         {
           "id": "c",
-          "text": "Noen som ler i rommet ved siden av",
+          "text": "Rydder og sorterer",
           "scores": {
-            "thailand": 2,
-            "india": 1
+            "hamster": 2
           }
         },
         {
           "id": "d",
-          "text": "Kirkeklokker langt unna",
+          "text": "Går en rolig tur",
           "scores": {
-            "kambodsja": 2,
-            "japan": 1
+            "skilpadde": 2,
+            "kanin": 1
           }
         },
         {
           "id": "e",
-          "text": "En katt som maler",
+          "text": "Ser på skyene",
           "scores": {
-            "srilanka": 2,
-            "indonesia": 1
+            "gullfisk": 2
           }
         },
         {
           "id": "f",
-          "text": "En sykkelbjelle",
+          "text": "Synger i dusjen",
           "scores": {
-            "vietnam": 2,
-            "kina": 1
+            "undulat": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva tar du med deg til en øde øy?",
+      "text": "Hvordan er du i en gruppe?",
       "options": [
         {
           "id": "a",
-          "text": "En god pute",
+          "text": "Kommer når jeg vil",
           "scores": {
-            "srilanka": 2,
-            "japan": 1
+            "katt": 2
           }
         },
         {
           "id": "b",
-          "text": "En fotball",
+          "text": "Hilser på alle",
           "scores": {
-            "filippinene": 2,
-            "thailand": 1
+            "hund": 2
           }
         },
         {
           "id": "c",
-          "text": "En notatbok",
+          "text": "Litt sjenert først",
           "scores": {
-            "kina": 2,
-            "kambodsja": 1
+            "kanin": 2,
+            "gullfisk": 1
           }
         },
         {
           "id": "d",
-          "text": "En kortstokk",
+          "text": "Den som prater mest",
           "scores": {
-            "sorkorea": 2,
-            "vietnam": 1
+            "undulat": 2,
+            "marsvin": 1
           }
         },
         {
           "id": "e",
-          "text": "En hengekøye",
+          "text": "Den rolige som alle stoler på",
           "scores": {
-            "indonesia": 2,
-            "filippinene": 1
+            "skilpadde": 2
           }
         },
         {
           "id": "f",
-          "text": "En kikkert",
+          "text": "Den som fikser snacks",
           "scores": {
-            "nepal": 2,
-            "mongolia": 1
+            "hamster": 2,
+            "marsvin": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvilken sang nynner du på?",
+      "text": "Hvilken farge har humøret ditt?",
       "options": [
         {
           "id": "a",
-          "text": "Bursdagssangen",
+          "text": "Lilla",
           "scores": {
-            "filippinene": 2,
-            "india": 1
+            "katt": 2,
+            "kanin": 1
           }
         },
         {
           "id": "b",
-          "text": "En reklamesang",
+          "text": "Gult",
           "scores": {
-            "sorkorea": 1,
-            "thailand": 1
+            "hund": 2,
+            "undulat": 1
           }
         },
         {
           "id": "c",
-          "text": "Noe jeg har funnet på selv",
+          "text": "Lyseblått",
           "scores": {
-            "mongolia": 2,
-            "kambodsja": 2
+            "gullfisk": 2
           }
         },
         {
           "id": "d",
-          "text": "Julesanger, selv i juli",
+          "text": "Mosegrønt",
           "scores": {
-            "japan": 2,
-            "srilanka": 1
+            "skilpadde": 2
           }
         },
         {
           "id": "e",
-          "text": "Sangen fra en barnefilm",
+          "text": "Oransje",
           "scores": {
-            "indonesia": 2,
-            "kina": 1
+            "hamster": 2,
+            "hund": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg plystrer heller",
+          "text": "Rosa",
           "scores": {
-            "vietnam": 2,
-            "nepal": 1
+            "marsvin": 2,
+            "kanin": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvordan ser sokkene dine ut i dag?",
+      "text": "Hva ville du tatt med til en øde øy?",
       "options": [
         {
           "id": "a",
-          "text": "Knallgule",
+          "text": "En pute",
           "scores": {
-            "thailand": 1,
-            "india": 1
+            "katt": 2
           }
         },
         {
           "id": "b",
-          "text": "Svarte og helt like",
+          "text": "En ball",
           "scores": {
-            "japan": 1,
-            "kina": 1
+            "hund": 2
           }
         },
         {
           "id": "c",
-          "text": "Ikke like hverandre",
+          "text": "En sekk med snacks",
           "scores": {
-            "filippinene": 2,
-            "sorkorea": 1
+            "hamster": 2
           }
         },
         {
           "id": "d",
-          "text": "Tykke ullsokker",
+          "text": "Et mykt teppe",
           "scores": {
-            "nepal": 2,
-            "mongolia": 1
+            "marsvin": 2,
+            "kanin": 1
           }
         },
         {
           "id": "e",
-          "text": "Med striper",
+          "text": "En dagbok",
           "scores": {
-            "kambodsja": 2,
-            "vietnam": 1
+            "gullfisk": 2,
+            "skilpadde": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg har ikke sokker på",
+          "text": "En radio",
           "scores": {
-            "indonesia": 2,
-            "srilanka": 1
+            "undulat": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvem er du i en gruppe?",
+      "text": "Hva sier vennene dine om deg?",
       "options": [
         {
           "id": "a",
-          "text": "Den som lager planen",
+          "text": "Litt mystisk",
           "scores": {
-            "kina": 2,
-            "kambodsja": 1
+            "katt": 2,
+            "gullfisk": 1
           }
         },
         {
           "id": "b",
-          "text": "Den som får alle til å le",
+          "text": "Snill og lojal",
           "scores": {
-            "thailand": 2,
-            "filippinene": 2
+            "hund": 2,
+            "skilpadde": 1
           }
         },
         {
           "id": "c",
-          "text": "Den som lytter",
+          "text": "Søt og forsiktig",
           "scores": {
-            "srilanka": 2,
-            "japan": 1
+            "kanin": 2
           }
         },
         {
           "id": "d",
-          "text": "Den som alltid har snacks",
+          "text": "Alltid i farta",
           "scores": {
-            "india": 2,
-            "vietnam": 1
+            "hamster": 2
           }
         },
         {
           "id": "e",
-          "text": "Den som finner veien",
+          "text": "God å snakke med",
           "scores": {
-            "mongolia": 2,
-            "nepal": 1
+            "marsvin": 2,
+            "undulat": 1
           }
         },
         {
           "id": "f",
-          "text": "Den som kommer litt for sent",
+          "text": "Rolig og klok",
           "scores": {
-            "indonesia": 1,
-            "sorkorea": 1
+            "skilpadde": 2
           }
         }
       ]
@@ -385,338 +365,226 @@
   ],
   "outcomes": [
     {
-      "id": "japan",
-      "name": "Japan",
-      "shareName": "Japan",
+      "id": "skilpadde",
+      "name": "Skilpadde",
+      "shareName": "en skilpadde",
       "emoji": null,
-      "description": "Du er rolig, ryddig og har et øye for små detaljer. Du setter pris på at ting gjøres skikkelig.",
-      "funFact": "Fuji er Japans høyeste fjell med sine 3776 meter, og det er faktisk en vulkan.",
-      "image": "images/2026-10-09/japan.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Presis",
-          "text": "Alltid i god tid."
-        },
-        {
-          "title": "Rolig",
-          "text": "Senker skuldrene hos andre."
-        },
-        {
-          "title": "Detaljert",
-          "text": "Ser det andre overser."
-        },
-        {
-          "title": "Høflig",
-          "text": "Bukker for de små tingene."
-        }
-      ]
-    },
-    {
-      "id": "kina",
-      "name": "Kina",
-      "shareName": "Kina",
-      "emoji": null,
-      "description": "Du er klok, utholdende og har alltid en plan. Du liker store prosjekter og gir deg ikke før de er ferdige.",
-      "funFact": "Kina har bare én offisiell tidssone, selv om landet er omtrent like bredt som fem tidssoner.",
-      "image": "images/2026-10-09/kina.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Klok",
-          "text": "Tenker før du snakker."
-        },
-        {
-          "title": "Utholdende",
-          "text": "Gir aldri opp."
-        },
-        {
-          "title": "Planlagt",
-          "text": "Har alltid en liste."
-        },
-        {
-          "title": "Raus",
-          "text": "Deler gjerne maten din."
-        }
-      ]
-    },
-    {
-      "id": "india",
-      "name": "India",
-      "shareName": "India",
-      "emoji": null,
-      "description": "Du er fargerik, varm og elsker å samle folk rundt bordet. Med deg blir hverdagen en liten fest.",
-      "funFact": "Taj Mahal i Agra ble bygget av stormogulen Shah Jahan til minne om kona hans, Mumtaz Mahal.",
-      "image": "images/2026-10-09/india.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Fargerik",
-          "text": "Lyser opp ethvert rom."
-        },
-        {
-          "title": "Gjestfri",
-          "text": "Det er alltid plass."
-        },
-        {
-          "title": "Livlig",
-          "text": "Full av energi."
-        },
-        {
-          "title": "Hjertevarm",
-          "text": "Bryr deg om alle."
-        }
-      ]
-    },
-    {
-      "id": "nepal",
-      "name": "Nepal",
-      "shareName": "Nepal",
-      "emoji": null,
-      "description": "Du er modig, nysgjerrig og liker å se ting fra oven. Du går gjerne et ekstra steg for en fin utsikt.",
-      "funFact": "Nepal har det eneste nasjonalflagget i verden som ikke er firkantet. Det består av to trekanter.",
-      "image": "images/2026-10-09/nepal.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Modig",
-          "text": "Sier ja til eventyr."
-        },
-        {
-          "title": "Seig",
-          "text": "Går og går."
-        },
-        {
-          "title": "Nysgjerrig",
-          "text": "Vil se over kanten."
-        },
-        {
-          "title": "Jordnær",
-          "text": "Enkel og ekte."
-        }
-      ]
-    },
-    {
-      "id": "mongolia",
-      "name": "Mongolia",
-      "shareName": "Mongolia",
-      "emoji": null,
-      "description": "Du er fri, selvstendig og trives med god plass rundt deg. Du finner veien selv uten kart.",
-      "funFact": "Mongolia er det selvstendige landet i verden med færrest innbyggere per kvadratkilometer.",
-      "image": "images/2026-10-09/mongolia.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Fri",
-          "text": "Trenger masse plass."
-        },
-        {
-          "title": "Selvstendig",
-          "text": "Klarer deg selv."
-        },
-        {
-          "title": "Rolig",
-          "text": "Ingen stress her."
-        },
-        {
-          "title": "Retningssans",
-          "text": "Finner alltid hjem."
-        }
-      ]
-    },
-    {
-      "id": "vietnam",
-      "name": "Vietnam",
-      "shareName": "Vietnam",
-      "emoji": null,
-      "description": "Du er kvikk, oppfinnsom og alltid på farten. Du finner en løsning før de andre har rukket å spørre.",
-      "funFact": "Vietnam er en av verdens største kaffeprodusenter. Bare Brasil dyrker mer kaffe.",
-      "image": "images/2026-10-09/vietnam.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kvikk",
-          "text": "Alltid ett steg foran."
-        },
-        {
-          "title": "Oppfinnsom",
-          "text": "Fikser alt med tape."
-        },
-        {
-          "title": "Energisk",
-          "text": "Står aldri stille."
-        },
-        {
-          "title": "Hyggelig",
-          "text": "Smiler til alle."
-        }
-      ]
-    },
-    {
-      "id": "thailand",
-      "name": "Thailand",
-      "shareName": "Thailand",
-      "emoji": null,
-      "description": "Du er blid, leken og får folk til å le. Der du er, blir stemningen alltid litt bedre.",
-      "funFact": "Thailand er det eneste landet i Sørøst-Asia som aldri har vært en europeisk koloni.",
-      "image": "images/2026-10-09/thailand.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Blid",
-          "text": "Smilet sitter løst."
-        },
-        {
-          "title": "Leken",
-          "text": "Elsker en god spøk."
-        },
-        {
-          "title": "Sosial",
-          "text": "Venn med alle."
-        },
-        {
-          "title": "Uredd",
-          "text": "Prøver alt én gang."
-        }
-      ]
-    },
-    {
-      "id": "sorkorea",
-      "name": "Sør-Korea",
-      "shareName": "Sør-Korea",
-      "emoji": null,
-      "description": "Du er trendy, rask og alltid først ute med det nye. Du elsker en god konkurranse og en enda bedre sang.",
-      "funFact": "Det koreanske alfabetet, hangul, ble laget på 1400-tallet etter ordre fra kong Sejong.",
-      "image": "images/2026-10-09/sorkorea.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Trendy",
-          "text": "Først med det nye."
-        },
-        {
-          "title": "Rask",
-          "text": "Ferdig før alle andre."
-        },
-        {
-          "title": "Konkurranse",
-          "text": "Elsker å vinne spill."
-        },
-        {
-          "title": "Musikalsk",
-          "text": "Synger i alle rom."
-        }
-      ]
-    },
-    {
-      "id": "indonesia",
-      "name": "Indonesia",
-      "shareName": "Indonesia",
-      "emoji": null,
-      "description": "Du er avslappet, eventyrlysten og full av overraskelser. Du har mange sider, og alle er like fine.",
-      "funFact": "Komodovaranen, verdens største øgle, lever bare på noen få øyer i Indonesia.",
-      "image": "images/2026-10-09/indonesia.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Avslappet",
-          "text": "Tar det med ro."
-        },
-        {
-          "title": "Mangfoldig",
-          "text": "Har mange sider."
-        },
-        {
-          "title": "Eventyrlysten",
-          "text": "Utforsker gjerne nytt."
-        },
-        {
-          "title": "Overraskende",
-          "text": "Aldri helt forutsigbar."
-        }
-      ]
-    },
-    {
-      "id": "kambodsja",
-      "name": "Kambodsja",
-      "shareName": "Kambodsja",
-      "emoji": null,
-      "description": "Du er tålmodig, kreativ og bygger ting som varer. Du har en stille styrke som andre ser opp til.",
-      "funFact": "Angkor Wat er verdens største religiøse byggverk, og tempelet er avbildet på Kambodsjas flagg.",
-      "image": "images/2026-10-09/kambodsja.jpg",
+      "description": "Du er tålmodig, klok og tar det med ro. Du kommer alltid fram til slutt.",
+      "funFact": "Noen landskilpadder kan bli over 100 år gamle.",
+      "image": "images/2026-10-09/skilpadde.jpg",
       "imageCredit": null,
       "traits": [
         {
           "title": "Tålmodig",
-          "text": "Venter gjerne lenge."
+          "text": "Ingen hast her."
         },
         {
-          "title": "Kreativ",
-          "text": "Bygger store drømmer."
+          "title": "Klok",
+          "text": "Har sett mye."
         },
         {
-          "title": "Stødig",
-          "text": "Står støtt i alt."
+          "title": "Trygg",
+          "text": "Har med huset."
         },
         {
-          "title": "Mystisk",
-          "text": "Har mange hemmeligheter."
+          "title": "Seig",
+          "text": "Gir aldri opp."
         }
       ]
     },
     {
-      "id": "srilanka",
-      "name": "Sri Lanka",
-      "shareName": "Sri Lanka",
+      "id": "kanin",
+      "name": "Kanin",
+      "shareName": "en kanin",
       "emoji": null,
-      "description": "Du er lun, omtenksom og en god lytter. Hos deg føler alle seg velkommen.",
-      "funFact": "Sri Lanka er en av verdens største produsenter av te, og teen kalles ofte ceylonte etter landets gamle navn.",
-      "image": "images/2026-10-09/srilanka.jpg",
+      "description": "Du er myk, rask og full av hopp. Du er litt forsiktig med nye ting, men blir fort trygg.",
+      "funFact": "Tennene til en kanin slutter aldri å vokse, så de må tygge mye.",
+      "image": "images/2026-10-09/kanin.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Lun",
-          "text": "Varm som en tekopp."
+          "title": "Myk",
+          "text": "Som en pute."
         },
         {
-          "title": "Omtenksom",
-          "text": "Husker alles bursdager."
+          "title": "Spretten",
+          "text": "Hopper av glede."
         },
         {
-          "title": "Lyttende",
-          "text": "Hører hva folk sier."
+          "title": "Forsiktig",
+          "text": "Sjekker først, alltid."
         },
         {
-          "title": "Koselig",
-          "text": "Tepper og puter."
+          "title": "Gulrotglad",
+          "text": "Knasker hele dagen."
         }
       ]
     },
     {
-      "id": "filippinene",
-      "name": "Filippinene",
-      "shareName": "Filippinene",
+      "id": "gullfisk",
+      "name": "Gullfisk",
+      "shareName": "en gullfisk",
       "emoji": null,
-      "description": "Du er sosial, sprudlende og elsker en god fest. Du har alltid plass til én venn til.",
-      "funFact": "Filippinene består av mer enn 7600 øyer, og bare en del av dem har innbyggere.",
-      "image": "images/2026-10-09/filippinene.jpg",
+      "description": "Du er rolig, blank og flyter fint gjennom dagen. Du lar ikke små ting stresse deg.",
+      "funFact": "Gullfisk som har det godt, kan bli over 20 år gamle.",
+      "image": "images/2026-10-09/gullfisk.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sprudlende",
-          "text": "Full av latter."
+          "title": "Rolig",
+          "text": "Flyter med strømmen."
         },
         {
-          "title": "Festglad",
-          "text": "Elsker et selskap."
+          "title": "Blank",
+          "text": "Glitrer i lyset."
         },
         {
-          "title": "Inkluderende",
-          "text": "Alle er velkomne."
+          "title": "Drømmende",
+          "text": "Ser ut i vannet."
         },
         {
-          "title": "Solskinn",
-          "text": "Gir andre godt humør."
+          "title": "Sterk",
+          "text": "Lever overraskende lenge."
+        }
+      ]
+    },
+    {
+      "id": "marsvin",
+      "name": "Marsvin",
+      "shareName": "et marsvin",
+      "emoji": null,
+      "description": "Du er pratsom, koselig og trives best med en god venn. Når du er glad, kan du nesten ikke holde deg i ro.",
+      "funFact": "Glade marsvin kan hoppe rett opp i lufta, og det kalles popcorning.",
+      "image": "images/2026-10-09/marsvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Piper hele tiden."
+        },
+        {
+          "title": "Sosial",
+          "text": "Aldri helt alene."
+        },
+        {
+          "title": "Glad",
+          "text": "Popcorner av glede."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker en god pause."
+        }
+      ]
+    },
+    {
+      "id": "hamster",
+      "name": "Hamster",
+      "shareName": "en hamster",
+      "emoji": null,
+      "description": "Du er liten, travel og alltid i full fart. Du liker å samle på ting til senere.",
+      "funFact": "Hamstere bærer mat i kinnposer som kan strekke seg helt bak til skuldrene.",
+      "image": "images/2026-10-09/hamster.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Travel",
+          "text": "Løper i hjulet."
+        },
+        {
+          "title": "Samler",
+          "text": "Gjemmer til senere."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner når andre sover."
+        },
+        {
+          "title": "Søt",
+          "text": "Runde kinn."
+        }
+      ]
+    },
+    {
+      "id": "undulat",
+      "name": "Undulat",
+      "shareName": "en undulat",
+      "emoji": null,
+      "description": "Du er fargerik, munter og synger gjerne høyt. Du liker å ha mange rundt deg.",
+      "funFact": "Undulater kommer opprinnelig fra Australia, og noen kan lære seg å si ord.",
+      "image": "images/2026-10-09/undulat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Grønn, blå, gul."
+        },
+        {
+          "title": "Munter",
+          "text": "Synger om morgenen."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Lærer nye ord."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        }
+      ]
+    },
+    {
+      "id": "hund",
+      "name": "Hund",
+      "shareName": "en hund",
+      "emoji": null,
+      "description": "Du er glad, lojal og elsker å være sammen med andre. Du logrer med halen bare noen sier navnet ditt.",
+      "funFact": "Hver hund har et unikt mønster på nesen, litt som et fingeravtrykk.",
+      "image": "images/2026-10-09/hund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Alltid ved din side."
+        },
+        {
+          "title": "Glad",
+          "text": "Logrer hele dagen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Klar for tur."
+        }
+      ]
+    },
+    {
+      "id": "katt",
+      "name": "Katt",
+      "shareName": "en katt",
+      "emoji": null,
+      "description": "Du er selvstendig, myk og gjør akkurat som du vil. Men når du først vil kose, er du verdens beste til det.",
+      "funFact": "Katter sover ofte mellom 12 og 16 timer i døgnet.",
+      "image": "images/2026-10-09/katt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Gjør det på sin måte."
+        },
+        {
+          "title": "Kosete",
+          "text": "Når det passer deg."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Må sjekke alle esker."
+        },
+        {
+          "title": "Søvnig",
+          "text": "Tar gjerne en lur."
         }
       ]
     }

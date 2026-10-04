@@ -1,368 +1,383 @@
 {
   "id": "2026-10-05",
   "date": "2026-10-05",
-  "title": "Hvilket instrument er du i dag?",
-  "intro": "Alle har sin egen lyd. Finn ut hvilken tone du slår an i dag.",
+  "title": "Hvilken by er du i dag?",
+  "intro": "Er du en travel storby eller en koselig havneby? Svar på sju små spørsmål og finn ut hvilken by du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva spiser du helst til lunsj?",
+      "text": "Hva er det beste med en fredagskveld?",
       "options": [
         {
           "id": "a",
-          "text": "Rester fra i går",
+          "text": "Taco med hele gjengen",
           "scores": {
-            "gitar": 2,
-            "blokkflote": 1
+            "barcelona": 1,
+            "amsterdam": 2
           }
         },
         {
           "id": "b",
-          "text": "Noe kjapt i farta",
+          "text": "Sofa og pledd",
           "scores": {
-            "tromme": 2,
-            "trompet": 1
+            "wien": 2,
+            "tokyo": 2
           }
         },
         {
           "id": "c",
-          "text": "En fin salat",
+          "text": "Spillkveld",
           "scores": {
-            "fiolin": 2,
-            "triangel": 1
+            "stockholm": 1,
+            "venezia": 2
           }
         },
         {
           "id": "d",
-          "text": "Pølse i lompe",
+          "text": "En lang kveldstur",
           "scores": {
-            "trekkspill": 2,
-            "gitar": 1
+            "sydney": 2,
+            "newyork": 2
           }
         },
         {
           "id": "e",
-          "text": "Noe i alle regnbuens farger",
+          "text": "Å prøve en ny oppskrift",
           "scores": {
-            "xylofon": 2
+            "kairo": 2,
+            "tromso": 2
           }
         },
         {
           "id": "f",
-          "text": "Matpakke med brunost",
+          "text": "Å legge seg tidlig",
           "scores": {
-            "blokkflote": 2,
-            "trekkspill": 1
+            "roma": 2,
+            "oslo": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvordan er du på fest?",
+      "text": "Hvilket dyr ville du helst vært i et døgn?",
       "options": [
         {
           "id": "a",
-          "text": "Den som sitter i sofaen og prater",
+          "text": "En katt som sover hele dagen",
           "scores": {
-            "gitar": 2,
-            "fiolin": 1
+            "istanbul": 2,
+            "reykjavik": 1
           }
         },
         {
           "id": "b",
-          "text": "Den som danser først",
+          "text": "En delfin",
           "scores": {
-            "tromme": 2,
-            "xylofon": 1
+            "tokyo": 1,
+            "paris": 2
           }
         },
         {
           "id": "c",
-          "text": "Den som holder tale",
+          "text": "En maur",
           "scores": {
-            "trompet": 2
+            "barcelona": 2,
+            "tromso": 1
           }
         },
         {
           "id": "d",
-          "text": "Den som kjenner alle tantene",
+          "text": "En ugle",
           "scores": {
-            "trekkspill": 2
+            "rio": 2,
+            "roma": 2
           }
         },
         {
           "id": "e",
-          "text": "Den som hjelper til på kjøkkenet",
+          "text": "En hund på tur",
           "scores": {
-            "triangel": 2,
-            "blokkflote": 1
+            "kobenhavn": 1,
+            "venezia": 2
           }
         },
         {
           "id": "f",
-          "text": "Den som drar tidlig, men blid",
+          "text": "En sommerfugl",
           "scores": {
-            "fiolin": 2,
-            "triangel": 1
+            "london": 1,
+            "newyork": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilket dyr vil du helst klappe?",
+      "text": "Hva har du alltid i lomma eller veska?",
       "options": [
         {
           "id": "a",
-          "text": "En hest",
+          "text": "Tyggegummi",
           "scores": {
-            "fiolin": 2,
-            "trompet": 1
+            "paris": 1,
+            "stockholm": 2
           }
         },
         {
           "id": "b",
-          "text": "En hund",
+          "text": "En liten notatbok",
           "scores": {
-            "gitar": 2,
-            "tromme": 1
+            "oslo": 1,
+            "kairo": 2
           }
         },
         {
           "id": "c",
-          "text": "En kanin",
+          "text": "Altfor mange kvitteringer",
           "scores": {
-            "blokkflote": 2,
-            "xylofon": 1
+            "wien": 2,
+            "london": 1
           }
         },
         {
           "id": "d",
-          "text": "En katt",
+          "text": "Et plaster, for sikkerhets skyld",
           "scores": {
-            "triangel": 2,
-            "fiolin": 1
+            "amsterdam": 2,
+            "kobenhavn": 2
           }
         },
         {
           "id": "e",
-          "text": "En geit",
+          "text": "Ingenting, jeg reiser lett",
           "scores": {
-            "trekkspill": 2
+            "rio": 1,
+            "istanbul": 1
           }
         },
         {
           "id": "f",
-          "text": "En papegøye",
+          "text": "En snack til senere",
           "scores": {
-            "xylofon": 2,
-            "trompet": 1
+            "reykjavik": 1,
+            "sydney": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hvilken lyd får deg i godt humør?",
       "options": [
         {
           "id": "a",
-          "text": "Ligger i hengekøya",
+          "text": "En kaffetrakter som putrer",
           "scores": {
-            "gitar": 2
+            "istanbul": 2,
+            "rio": 1
           }
         },
         {
           "id": "b",
-          "text": "Trener",
+          "text": "Fuglekvitter",
           "scores": {
-            "tromme": 2,
-            "trompet": 1
+            "kobenhavn": 1,
+            "amsterdam": 2
           }
         },
         {
           "id": "c",
-          "text": "Går på kafé alene",
+          "text": "Applaus",
           "scores": {
-            "fiolin": 2
+            "oslo": 1,
+            "london": 1
           }
         },
         {
           "id": "d",
-          "text": "Besøker besteforeldre",
+          "text": "En katt som maler",
           "scores": {
-            "trekkspill": 2,
-            "blokkflote": 1
+            "newyork": 2,
+            "paris": 1
           }
         },
         {
           "id": "e",
-          "text": "Maler med alle fargene",
+          "text": "Noen som plystrer",
           "scores": {
-            "xylofon": 2
+            "tromso": 1,
+            "barcelona": 2
           }
         },
         {
           "id": "f",
-          "text": "Rydder én skuff helt perfekt",
+          "text": "Blader som rasler",
           "scores": {
-            "triangel": 2
+            "tokyo": 2,
+            "roma": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvilket ord beskriver deg i dag?",
+      "text": "Hva ville du gjort med en ekstra fridag?",
       "options": [
         {
           "id": "a",
-          "text": "Avslappet",
+          "text": "Sovet til lunsj",
           "scores": {
-            "gitar": 2
+            "london": 2,
+            "stockholm": 1
           }
         },
         {
           "id": "b",
-          "text": "Bestemt",
+          "text": "Ryddet hele boden",
           "scores": {
-            "tromme": 2,
-            "trompet": 1
+            "barcelona": 1,
+            "wien": 2
           }
         },
         {
           "id": "c",
-          "text": "Modig",
+          "text": "Tatt en spontan dagstur",
           "scores": {
-            "trompet": 2
+            "kairo": 1,
+            "kobenhavn": 1
           }
         },
         {
           "id": "d",
-          "text": "Ettertenksom",
+          "text": "Lest en hel bok",
           "scores": {
-            "fiolin": 2,
-            "triangel": 1
+            "reykjavik": 2,
+            "roma": 1
           }
         },
         {
           "id": "e",
-          "text": "Hyggelig",
+          "text": "Invitert venner på brunsj",
           "scores": {
-            "trekkspill": 2,
-            "blokkflote": 1
+            "venezia": 1,
+            "rio": 2
           }
         },
         {
           "id": "f",
-          "text": "Leken",
+          "text": "Lært noe helt nytt",
           "scores": {
-            "xylofon": 2,
-            "blokkflote": 1
+            "sydney": 2,
+            "tokyo": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva ville du tatt med til en øde øy?",
+      "text": "Hvilken farge ville du malt rommet ditt?",
       "options": [
         {
           "id": "a",
-          "text": "En hengekøye",
+          "text": "Mintgrønn",
           "scores": {
-            "gitar": 2
+            "reykjavik": 1,
+            "kairo": 1
           }
         },
         {
           "id": "b",
-          "text": "En lommelykt",
+          "text": "Varm gul",
           "scores": {
-            "triangel": 2,
-            "trompet": 1
+            "paris": 2,
+            "istanbul": 2
           }
         },
         {
           "id": "c",
-          "text": "En dagbok",
+          "text": "Dyp blå",
           "scores": {
-            "fiolin": 2,
-            "blokkflote": 1
+            "amsterdam": 1,
+            "venezia": 1
           }
         },
         {
           "id": "d",
-          "text": "En fotball",
+          "text": "Hvit, helt enkelt",
           "scores": {
-            "tromme": 2,
-            "xylofon": 1
+            "tromso": 1,
+            "oslo": 1
           }
         },
         {
           "id": "e",
-          "text": "En stor kake",
+          "text": "Rosa",
           "scores": {
-            "trekkspill": 2
+            "stockholm": 1,
+            "newyork": 2
           }
         },
         {
           "id": "f",
-          "text": "Fargestifter",
+          "text": "Mange farger på én gang",
           "scores": {
-            "xylofon": 2,
-            "blokkflote": 1
+            "sydney": 2,
+            "wien": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva er superkraften din?",
+      "text": "Hva er din beste egenskap som venn?",
       "options": [
         {
           "id": "a",
-          "text": "Å gjøre folk rolige",
+          "text": "Jeg husker alt",
           "scores": {
-            "gitar": 2,
-            "fiolin": 1
+            "london": 2,
+            "paris": 1
           }
         },
         {
           "id": "b",
-          "text": "Å aldri bli sliten",
+          "text": "Jeg får folk til å le",
           "scores": {
-            "tromme": 2
+            "sydney": 1,
+            "barcelona": 1
           }
         },
         {
           "id": "c",
-          "text": "Å være modig når det gjelder",
+          "text": "Jeg er alltid ærlig",
           "scores": {
-            "trompet": 2
+            "kairo": 1,
+            "roma": 1
           }
         },
         {
           "id": "d",
-          "text": "Å få alle i godt humør",
+          "text": "Jeg stiller opp på kort varsel",
           "scores": {
-            "trekkspill": 2,
-            "xylofon": 1
+            "tokyo": 1,
+            "tromso": 1
           }
         },
         {
           "id": "e",
-          "text": "Å legge merke til små ting",
+          "text": "Jeg gir de beste rådene",
           "scores": {
-            "triangel": 2
+            "stockholm": 1,
+            "reykjavik": 1
           }
         },
         {
           "id": "f",
-          "text": "Å få vanskelige ting til å virke enkle",
+          "text": "Jeg finner på morsomme ting",
           "scores": {
-            "blokkflote": 2,
-            "gitar": 1
+            "kobenhavn": 2,
+            "rio": 2
           }
         }
       ]
@@ -370,226 +385,506 @@
   ],
   "outcomes": [
     {
-      "id": "blokkflote",
-      "name": "Blokkfløyte",
-      "shareName": "en blokkfløyte",
+      "id": "oslo",
+      "name": "Oslo",
+      "shareName": "Oslo",
       "emoji": null,
-      "description": "Du er enkel, ærlig og modigere enn folk tror. Mange startet med deg, og ingen har glemt deg.",
-      "funFact": "Blokkfløyta var svært populær i barokken, og både Bach og Händel skrev musikk for den.",
-      "image": "images/2026-10-05/blokkflote.jpg",
+      "description": "Du er jordnær, hyggelig og liker å ha både skog og by rett i nærheten. Du er lett å bli kjent med.",
+      "funFact": "Oslo sender hvert år et stort juletre til London som takk for hjelpen under andre verdenskrig, og treet står på Trafalgar Square.",
+      "image": "images/2026-10-05/oslo.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ærlig",
-          "text": "Alltid rett fram."
-        },
-        {
-          "title": "Modig",
-          "text": "Spiller foran hele klassen."
-        },
-        {
-          "title": "Enkel",
-          "text": "Liker det ukompliserte."
-        },
-        {
-          "title": "Minnerik",
-          "text": "Alle husker deg."
-        }
-      ]
-    },
-    {
-      "id": "trompet",
-      "name": "Trompet",
-      "shareName": "en trompet",
-      "emoji": null,
-      "description": "Du er modig, tydelig og elsker å ta ordet. Når du kommer inn, vet alle det.",
-      "funFact": "Hvis du hadde rettet ut røret i en vanlig trompet, ville det vært nesten halvannen meter langt.",
-      "image": "images/2026-10-05/trompet.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Tydelig",
-          "text": "Sier ting rett ut."
-        },
-        {
-          "title": "Modig",
-          "text": "Tør å stå fremst."
-        },
-        {
-          "title": "Skinnende",
-          "text": "Blank som gull."
-        },
-        {
-          "title": "Festlig",
-          "text": "Blåser liv i alt."
-        }
-      ]
-    },
-    {
-      "id": "triangel",
-      "name": "Triangel",
-      "shareName": "en triangel",
-      "emoji": null,
-      "description": "Du er liten, men du høres godt. Du kommer inn akkurat når det trengs, og da skinner du.",
-      "funFact": "Triangelen er ikke helt lukket. Den lille åpningen i ett hjørne gjør at den klinger lenger og friere.",
-      "image": "images/2026-10-05/triangel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Presis",
-          "text": "Treffer alltid riktig."
-        },
-        {
-          "title": "Beskjeden",
-          "text": "Trenger lite plass."
-        },
-        {
-          "title": "Klar",
-          "text": "Tonen høres tydelig."
-        },
-        {
-          "title": "Tålmodig",
-          "text": "Venter på ditt øyeblikk."
-        }
-      ]
-    },
-    {
-      "id": "xylofon",
-      "name": "Xylofon",
-      "shareName": "en xylofon",
-      "emoji": null,
-      "description": "Du er fargerik, leken og full av glede. Du gjør alt litt morsommere bare ved å være der.",
-      "funFact": "Navnet xylofon kommer fra gresk og betyr «trelyd».",
-      "image": "images/2026-10-05/xylofon.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Leken",
-          "text": "Alltid klar for moro."
-        },
-        {
-          "title": "Fargerik",
-          "text": "Én farge per tone."
-        },
-        {
-          "title": "Glad",
-          "text": "Smitter over på alle."
-        },
-        {
-          "title": "Kreativ",
-          "text": "Finner på nye melodier."
-        }
-      ]
-    },
-    {
-      "id": "tromme",
-      "name": "Tromme",
-      "shareName": "en tromme",
-      "emoji": null,
-      "description": "Du er energisk og holder takten for alle rundt deg. Du merkes godt, og det er helt greit.",
-      "funFact": "Trommer er blant verdens eldste instrumenter og finnes i nesten alle kulturer.",
-      "image": "images/2026-10-05/tromme.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Rytmisk",
-          "text": "Takten sitter i kroppen."
-        },
-        {
-          "title": "Energisk",
-          "text": "Full av kraft."
-        },
-        {
-          "title": "Bestemt",
-          "text": "Slår an tonen."
-        },
-        {
-          "title": "Høylytt",
-          "text": "Ingen kan overhøre deg."
-        }
-      ]
-    },
-    {
-      "id": "fiolin",
-      "name": "Fiolin",
-      "shareName": "en fiolin",
-      "emoji": null,
-      "description": "Du er følsom, elegant og full av stemninger. Du kan få hvem som helst til å felle en tåre.",
-      "funFact": "En fiolin er satt sammen av rundt 70 små deler, de fleste av tre.",
-      "image": "images/2026-10-05/fiolin.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Følsom",
-          "text": "Kjenner alt sterkt."
-        },
-        {
-          "title": "Elegant",
-          "text": "Stilig til fingerspissene."
-        },
-        {
-          "title": "Dyktig",
-          "text": "Øvelse gjør mester."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Tankene spiller videre."
-        }
-      ]
-    },
-    {
-      "id": "trekkspill",
-      "name": "Trekkspill",
-      "shareName": "et trekkspill",
-      "emoji": null,
-      "description": "Du er festlig, sosial og har mange sider. Du puster liv i enhver bygdefest.",
-      "funFact": "Trekkspillet har luft i en belg som presses gjennom små metalltunger, og det er et av de mest brukte instrumentene i norsk gammeldans.",
-      "image": "images/2026-10-05/trekkspill.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Festlig",
-          "text": "Starter dansen."
-        },
-        {
-          "title": "Sosial",
-          "text": "Elsker et fullt lokale."
-        },
-        {
-          "title": "Mangfoldig",
-          "text": "Mange knapper å trykke."
-        },
-        {
-          "title": "Tradisjonell",
-          "text": "Glad i gammeldans."
-        }
-      ]
-    },
-    {
-      "id": "gitar",
-      "name": "Gitar",
-      "shareName": "en gitar",
-      "emoji": null,
-      "description": "Du er varm, avslappet og samler folk rundt bålet. Med deg blir det allsang før noen vet ordet av det.",
-      "funFact": "Den moderne klassiske gitaren fikk formen sin i Spania på 1800-tallet, blant annet takket være gitarbyggeren Antonio de Torres.",
-      "image": "images/2026-10-05/gitar.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Samlende",
-          "text": "Alle synger med."
-        },
-        {
-          "title": "Avslappet",
-          "text": "Tar det på gehør."
-        },
-        {
-          "title": "Varm",
-          "text": "Myke, gode toner."
+          "title": "Jordnær",
+          "text": "Begge bena på bakken."
         },
         {
           "title": "Allsidig",
-          "text": "Spiller alle sjangre."
+          "text": "Trives både ute og inne."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å bli kjent med."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        }
+      ]
+    },
+    {
+      "id": "tromso",
+      "name": "Tromsø",
+      "shareName": "Tromsø",
+      "emoji": null,
+      "description": "Du er eventyrlysten, varm og full av overraskelser. Du lyser opp selv de mørkeste dagene.",
+      "funFact": "I Tromsø går ikke sola ned i det hele tatt fra omtrent 20. mai til 22. juli.",
+      "image": "images/2026-10-05/tromso.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Sier ja til nye ting."
+        },
+        {
+          "title": "Varm",
+          "text": "Lyser opp mørke dager."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler litt av hvert."
+        },
+        {
+          "title": "Festglad",
+          "text": "Elsker lange kvelder."
+        }
+      ]
+    },
+    {
+      "id": "kobenhavn",
+      "name": "København",
+      "shareName": "København",
+      "emoji": null,
+      "description": "Du er avslappet, koselig og har alltid tid til en prat. Du vet hvordan man nyter livet.",
+      "funFact": "Den lille havfrue i København er bare litt over en meter høy.",
+      "image": "images/2026-10-05/kobenhavn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Elsker levende lys."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av gode ideer."
+        }
+      ]
+    },
+    {
+      "id": "stockholm",
+      "name": "Stockholm",
+      "shareName": "Stockholm",
+      "emoji": null,
+      "description": "Du er stilig, ryddig og liker at ting er gjennomtenkt. Du har sans for det som er pent.",
+      "funFact": "Stockholm er bygget på 14 øyer som er bundet sammen av over 50 broer.",
+      "image": "images/2026-10-05/stockholm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilig",
+          "text": "Alltid pent kledd."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker orden og system."
+        },
+        {
+          "title": "Gjennomtenkt",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Elegant",
+          "text": "Har sans for detaljer."
+        }
+      ]
+    },
+    {
+      "id": "reykjavik",
+      "name": "Reykjavík",
+      "shareName": "Reykjavík",
+      "emoji": null,
+      "description": "Du er original, liten men tøff, og full av energi under overflaten. Du går gjerne dine egne veier.",
+      "funFact": "Reykjavík er verdens nordligste hovedstad.",
+      "image": "images/2026-10-05/reykjavik.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Original",
+          "text": "Ingen er som deg."
+        },
+        {
+          "title": "Tøff",
+          "text": "Liten, men sterk."
+        },
+        {
+          "title": "Energisk",
+          "text": "Bobler under overflaten."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Elsker musikk og kunst."
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "shareName": "London",
+      "emoji": null,
+      "description": "Du er høflig, allsidig og har alltid noe på gang. Du har en humor som få kan matche.",
+      "funFact": "Big Ben er egentlig navnet på den store klokka inne i tårnet, ikke på selve tårnet.",
+      "image": "images/2026-10-05/london.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høflig",
+          "text": "Står pent i kø."
+        },
+        {
+          "title": "Morsom",
+          "text": "Tørr og god humor."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid noe på gang."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid presis."
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "name": "Paris",
+      "shareName": "Paris",
+      "emoji": null,
+      "description": "Du er romantisk, kreativ og ser det vakre i hverdagen. Du tar deg tid til å nyte de små tingene.",
+      "funFact": "Eiffeltårnet kan bli opptil 15 centimeter høyere om sommeren, fordi metallet utvider seg i varmen.",
+      "image": "images/2026-10-05/paris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Elsker vakre øyeblikk."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Ser kunst overalt."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Alltid litt elegant."
+        }
+      ]
+    },
+    {
+      "id": "roma",
+      "name": "Roma",
+      "shareName": "Roma",
+      "emoji": null,
+      "description": "Du er varm, livlig og har en historie å fortelle om alt. Hos deg er det alltid plass til én til ved bordet.",
+      "funFact": "Folk kaster over en million euro i mynter i Trevifontenen hvert år, og pengene går til veldedighet.",
+      "image": "images/2026-10-05/roma.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Snakker med hendene."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til én til."
+        },
+        {
+          "title": "Historisk",
+          "text": "Har mange gode historier."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir store klemmer."
+        }
+      ]
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia",
+      "shareName": "Venezia",
+      "emoji": null,
+      "description": "Du er drømmende, unik og litt mystisk. Du får andre til å senke tempoet og nyte øyeblikket.",
+      "funFact": "Venezia er bygget på over hundre små øyer i en lagune.",
+      "image": "images/2026-10-05/venezia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Lever i egen verden."
+        },
+        {
+          "title": "Unik",
+          "text": "Finnes bare én av."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker tempoet."
+        }
+      ]
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "shareName": "Barcelona",
+      "emoji": null,
+      "description": "Du er fargerik, sprudlende og elsker å feire. Du blander gammelt og nytt på din helt egen måte.",
+      "funFact": "Kirken Sagrada Família i Barcelona har vært under bygging siden 1882.",
+      "image": "images/2026-10-05/barcelona.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Elsker sterke farger."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for fest."
+        }
+      ]
+    },
+    {
+      "id": "amsterdam",
+      "name": "Amsterdam",
+      "shareName": "Amsterdam",
+      "emoji": null,
+      "description": "Du er fri, nysgjerrig og åpen for alt. Du kommer deg dit du skal på din egen måte.",
+      "funFact": "Det finnes flere sykler enn innbyggere i Amsterdam.",
+      "image": "images/2026-10-05/amsterdam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve alt."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alle."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Finner smarte løsninger."
+        }
+      ]
+    },
+    {
+      "id": "istanbul",
+      "name": "Istanbul",
+      "shareName": "Istanbul",
+      "emoji": null,
+      "description": "Du er mangfoldig, gjestfri og bygger broer mellom folk. Du har alltid noe spennende å by på.",
+      "funFact": "Istanbul ligger på to kontinenter samtidig, både i Europa og i Asia.",
+      "image": "images/2026-10-05/istanbul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mangfoldig",
+          "text": "Mange sider av deg."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Byr alltid på noe."
+        },
+        {
+          "title": "Brobygger",
+          "text": "Får folk til å møtes."
+        },
+        {
+          "title": "Livlig",
+          "text": "Aldri kjedelig."
+        }
+      ]
+    },
+    {
+      "id": "kairo",
+      "name": "Kairo",
+      "shareName": "Kairo",
+      "emoji": null,
+      "description": "Du er klok, tålmodig og har en ro som kommer fra lang erfaring. Du står støtt uansett hva som skjer.",
+      "funFact": "Pyramidene i Giza ligger rett utenfor Kairo, og den største er over 4500 år gammel.",
+      "image": "images/2026-10-05/kairo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Har sett det meste."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne lenge."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir alle et smil."
+        }
+      ]
+    },
+    {
+      "id": "newyork",
+      "name": "New York",
+      "shareName": "New York",
+      "emoji": null,
+      "description": "Du er energisk, ambisiøs og sover nesten aldri. Du drømmer stort og får ting til å skje.",
+      "funFact": "Frihetsgudinnen i New York var en gave fra Frankrike og ble innviet i 1886.",
+      "image": "images/2026-10-05/newyork.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Sover nesten aldri."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Drømmer stort."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        }
+      ]
+    },
+    {
+      "id": "rio",
+      "name": "Rio de Janeiro",
+      "shareName": "Rio de Janeiro",
+      "emoji": null,
+      "description": "Du er glad, rytmisk og får alle med på dansen. Du ser lyspunktene i alt.",
+      "funFact": "Navnet Rio de Janeiro betyr «januarelven» på portugisisk, fordi portugisiske sjøfolk kom dit i januar 1502.",
+      "image": "images/2026-10-05/rio.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smiler hele tiden."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Takten i blodet."
+        },
+        {
+          "title": "Sosial",
+          "text": "Får alle med."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyspunktene."
+        }
+      ]
+    },
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "shareName": "Tokyo",
+      "emoji": null,
+      "description": "Du er effektiv, oppfinnsom og har et øye for det lille ekstra. Du er både moderne og tradisjonell på en gang.",
+      "funFact": "Shibuya-krysset i Tokyo regnes som et av verdens travleste fotgjengerfelt.",
+      "image": "images/2026-10-05/tokyo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Alltid i rute."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Elsker nye duppeditter."
+        },
+        {
+          "title": "Høflig",
+          "text": "Viser alltid respekt."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser det lille ekstra."
+        }
+      ]
+    },
+    {
+      "id": "sydney",
+      "name": "Sydney",
+      "shareName": "Sydney",
+      "emoji": null,
+      "description": "Du er utadvendt, sporty og alltid klar for en ny dag. Du tar livet med et smil og godt humør.",
+      "funFact": "Taket på operahuset i Sydney er dekket av over en million fliser.",
+      "image": "images/2026-10-05/sydney.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utadvendt",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Det ordner seg."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        }
+      ]
+    },
+    {
+      "id": "wien",
+      "name": "Wien",
+      "shareName": "Wien",
+      "emoji": null,
+      "description": "Du er elegant, musikalsk og elsker gamle tradisjoner. Du setter pris på en god kake og en rolig ettermiddag.",
+      "funFact": "Wien har verdens eldste dyrehage som fortsatt er i drift, Tiergarten Schönbrunn fra 1752.",
+      "image": "images/2026-10-05/wien.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Nynner hele dagen."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid pyntet."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Elsker gamle vaner."
+        },
+        {
+          "title": "Søt",
+          "text": "Sier aldri nei til kake."
         }
       ]
     }
