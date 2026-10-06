@@ -1,0 +1,836 @@
+{
+  "id": "2026-10-13",
+  "date": "2026-10-13",
+  "title": "Hvilken frukt er du i dag?",
+  "intro": "Er du søt, syrlig eller full av overraskelser? Svar på sju små spørsmål og finn ut hvilken frukt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du først når du våkner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strekker meg lenge og godt",
+          "scores": {
+            "paere": 2,
+            "fersken": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker værmeldingen",
+          "scores": {
+            "eple": 1,
+            "avokado": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter på musikk",
+          "scores": {
+            "banan": 1,
+            "ananas": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Slumrer fem minutter til, og fem til",
+          "scores": {
+            "plomme": 2,
+            "vannmelon": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sender en melding til en venn",
+          "scores": {
+            "drue": 2,
+            "kirsebaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hopper rett ut av sengen",
+          "scores": {
+            "appelsin": 1,
+            "sitron": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regn mot vinduet",
+          "scores": {
+            "plomme": 1,
+            "granateple": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Latter fra rommet ved siden av",
+          "scores": {
+            "banan": 1,
+            "appelsin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bølger som skyller inn",
+          "scores": {
+            "mango": 2,
+            "vannmelon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fuglesang i skogen",
+          "scores": {
+            "avokado": 2,
+            "paere": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En sprakende peis",
+          "scores": {
+            "ananas": 2,
+            "fersken": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En katt som maler",
+          "scores": {
+            "fiken": 2,
+            "kiwi": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går en lang tur",
+          "scores": {
+            "avokado": 2,
+            "eple": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inviterer hele gjengen",
+          "scores": {
+            "vannmelon": 1,
+            "drue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver noe jeg aldri har gjort før",
+          "scores": {
+            "kiwi": 1,
+            "ananas": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ligger på sofaen med en god serie",
+          "scores": {
+            "plomme": 2,
+            "fersken": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder alt jeg har utsatt",
+          "scores": {
+            "sitron": 2,
+            "appelsin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sitter på kafé og ser på folk",
+          "scores": {
+            "kirsebaer": 1,
+            "fiken": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva tar du med til en øde øy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hengekøye",
+          "scores": {
+            "mango": 2,
+            "vannmelon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En notatbok og en blyant",
+          "scores": {
+            "granateple": 2,
+            "paere": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En fotball",
+          "scores": {
+            "appelsin": 1,
+            "banan": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bestevennen min",
+          "scores": {
+            "drue": 2,
+            "fiken": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En lommekniv",
+          "scores": {
+            "eple": 2,
+            "avokado": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor hatt",
+          "scores": {
+            "ananas": 1,
+            "kirsebaer": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken øvelse ville du vunnet OL-gull i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Curling",
+          "scores": {
+            "eple": 1,
+            "paere": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lengdehopp",
+          "scores": {
+            "kiwi": 2,
+            "appelsin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Synkronsvømming",
+          "scores": {
+            "drue": 1,
+            "kirsebaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Langrenn",
+          "scores": {
+            "fersken": 2,
+            "sitron": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kunstløp",
+          "scores": {
+            "fiken": 1,
+            "granateple": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sofasitting, hvis det var en øvelse",
+          "scores": {
+            "vannmelon": 1,
+            "mango": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva synes du om overraskelser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elsker dem!",
+          "scores": {
+            "ananas": 1,
+            "banan": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare hvis det er kake",
+          "scores": {
+            "fiken": 1,
+            "vannmelon": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg liker å vite ting på forhånd",
+          "scores": {
+            "eple": 1,
+            "sitron": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg planlegger dem helst for andre",
+          "scores": {
+            "mango": 2,
+            "kirsebaer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg merker dem ofte ikke",
+          "scores": {
+            "plomme": 2,
+            "kiwi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg blir rørt og litt flau",
+          "scores": {
+            "paere": 2,
+            "granateple": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva sier vennene dine at du er best på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å lytte",
+          "scores": {
+            "fersken": 1,
+            "plomme": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å få alle til å le",
+          "scores": {
+            "banan": 1,
+            "sitron": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å være i godt humør",
+          "scores": {
+            "appelsin": 1,
+            "mango": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å finne veien",
+          "scores": {
+            "avokado": 1,
+            "granateple": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å huske bursdager",
+          "scores": {
+            "fiken": 1,
+            "drue": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å si ja til alt",
+          "scores": {
+            "ananas": 1,
+            "kiwi": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "eple",
+      "name": "Eple",
+      "shareName": "et eple",
+      "emoji": null,
+      "description": "Du er jordnær, pålitelig og alltid til å stole på. Folk føler seg trygge når du er i nærheten.",
+      "funFact": "Det finnes over 7 500 kjente eplesorter i verden.",
+      "image": "images/2026-10-13/eple.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Går aldri av moten."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        }
+      ]
+    },
+    {
+      "id": "banan",
+      "name": "Banan",
+      "shareName": "en banan",
+      "emoji": null,
+      "description": "Du er glad, tullete og får alle rundt deg til å smile. Med deg blir selv en grå dag litt gulere.",
+      "funFact": "Bananplanten er ikke et tre, men en kjempestor urt.",
+      "image": "images/2026-10-13/banan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i stor gjeng."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på tull."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        }
+      ]
+    },
+    {
+      "id": "fiken",
+      "name": "Fiken",
+      "shareName": "en fiken",
+      "emoji": null,
+      "description": "Du er sjarmerende, varm og litt hemmelighetsfull. Jo bedre folk blir kjent med deg, jo mer liker de deg.",
+      "funFact": "En fiken er egentlig en blomsterstand som har vokst sammen, så de små blomstene sitter på innsiden.",
+      "image": "images/2026-10-13/fiken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner hjerter lett."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker små gester."
+        },
+        {
+          "title": "Hemmelig",
+          "text": "Har mye på innsiden."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder på vennene."
+        }
+      ]
+    },
+    {
+      "id": "appelsin",
+      "name": "Appelsin",
+      "shareName": "en appelsin",
+      "emoji": null,
+      "description": "Du er full av energi og våkner med et smil. Du sprer godt humør uten å prøve.",
+      "funFact": "Ordet appelsin kommer fra nedertysk og betyr omtrent «eple fra Kina».",
+      "image": "images/2026-10-13/appelsin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på livet."
+        },
+        {
+          "title": "Frisk",
+          "text": "Våkner med et smil."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler alltid med andre."
+        }
+      ]
+    },
+    {
+      "id": "ananas",
+      "name": "Ananas",
+      "shareName": "en ananas",
+      "emoji": null,
+      "description": "Du er selvsikker, festlig og elsker å prøve nye ting. Du tør å skille deg ut, og det kler deg.",
+      "funFact": "En ananasplante bruker gjerne halvannet til to år på å lage én eneste ananas.",
+      "image": "images/2026-10-13/ananas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Prøver alt nytt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Står for den."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Drømmer om reiser."
+        }
+      ]
+    },
+    {
+      "id": "vannmelon",
+      "name": "Vannmelon",
+      "shareName": "en vannmelon",
+      "emoji": null,
+      "description": "Du er avslappet, raus og elsker å samle folk. Med deg blir alt litt mer som en sommerdag.",
+      "funFact": "En vannmelon består av rundt 92 prosent vann.",
+      "image": "images/2026-10-13/vannmelon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler hele gjengen."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Alltid litt sommer."
+        }
+      ]
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "shareName": "en kiwi",
+      "emoji": null,
+      "description": "Du er overraskende, kreativ og litt rar på den beste måten. Utenpå er du rolig, men inni deg skjer det masse.",
+      "funFact": "Kiwi kommer opprinnelig fra Kina og ble lenge kalt «kinesisk stikkelsbær».",
+      "image": "images/2026-10-13/kiwi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Tenker helt nytt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Aldri helt forutsigbar."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør om alt."
+        },
+        {
+          "title": "Unik",
+          "text": "Ingen er som deg."
+        }
+      ]
+    },
+    {
+      "id": "paere",
+      "name": "Pære",
+      "shareName": "en pære",
+      "emoji": null,
+      "description": "Du er rolig, myk og har god tid. Du tar ting i ditt eget tempo, og det blir alltid bra til slutt.",
+      "funFact": "Pærer modnes best etter at de er plukket, så de høstes mens de fortsatt er harde.",
+      "image": "images/2026-10-13/paere.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Har alltid god tid."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Elegant",
+          "text": "Har stil uten stress."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på riktig øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "drue",
+      "name": "Drue",
+      "shareName": "en drue",
+      "emoji": null,
+      "description": "Du er en ekte lagspiller og trives best sammen med vennene dine. Alene er du fin, men i flokk er du best.",
+      "funFact": "Det trengs rundt fire kilo druer for å lage ett kilo rosiner.",
+      "image": "images/2026-10-13/drue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Best i flokk."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker gode venner."
+        },
+        {
+          "title": "Søt",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "kirsebaer",
+      "name": "Kirsebær",
+      "shareName": "et kirsebær",
+      "emoji": null,
+      "description": "Du er leken, sjarmerende og elsker små gleder. Du får hverdagen til å føles som en fest.",
+      "funFact": "I Japan feirer man kirsebærblomstringen med piknik under trærne, og tradisjonen kalles hanami.",
+      "image": "images/2026-10-13/kirsebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på moro."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Smiler deg inn."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Husker de små tingene."
+        },
+        {
+          "title": "Glad",
+          "text": "Elsker små gleder."
+        }
+      ]
+    },
+    {
+      "id": "sitron",
+      "name": "Sitron",
+      "shareName": "en sitron",
+      "emoji": null,
+      "description": "Du er frisk, ærlig og har en skarp humor. Du sier det som det er, og folk elsker deg for det.",
+      "funFact": "Med to ulike metallbiter stukket inn i en sitron kan du lage nok strøm til et lite digitalur.",
+      "image": "images/2026-10-13/sitron.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Skarp",
+          "text": "Rask i replikken."
+        },
+        {
+          "title": "Frisk",
+          "text": "Våkner alle opp."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "shareName": "en mango",
+      "emoji": null,
+      "description": "Du er varm, generøs og full av solskinn. Du får folk til å føle seg velkomne med en gang.",
+      "funFact": "Mango er nasjonalfrukten til India.",
+      "image": "images/2026-10-13/mango.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir deg god plass."
+        },
+        {
+          "title": "Generøs",
+          "text": "Deler gjerne alt."
+        },
+        {
+          "title": "Solrik",
+          "text": "Alltid godt humør."
+        },
+        {
+          "title": "Inviterende",
+          "text": "Alle føler seg velkomne."
+        }
+      ]
+    },
+    {
+      "id": "plomme",
+      "name": "Plomme",
+      "shareName": "en plomme",
+      "emoji": null,
+      "description": "Du er drømmende, koselig og elsker rolige kvelder. Du ser det fine i de små øyeblikkene.",
+      "funFact": "Sviskene du finner i butikken, er tørkede plommer.",
+      "image": "images/2026-10-13/plomme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Har hodet i skyene."
+        },
+        {
+          "title": "Koselig",
+          "text": "Elsker pledd og te."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører virkelig etter."
+        },
+        {
+          "title": "Rolig",
+          "text": "Nyter stille kvelder."
+        }
+      ]
+    },
+    {
+      "id": "avokado",
+      "name": "Avokado",
+      "shareName": "en avokado",
+      "emoji": null,
+      "description": "Du er stødig, naturglad og har et stort hjerte. Du holder roen når andre stresser.",
+      "funFact": "Avokado er botanisk sett et bær med én stor stein inni.",
+      "image": "images/2026-10-13/avokado.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder roen alltid."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker lange turer."
+        },
+        {
+          "title": "Kjernesunn",
+          "text": "Har et stort hjerte."
+        },
+        {
+          "title": "Retningssans",
+          "text": "Finner alltid veien."
+        }
+      ]
+    },
+    {
+      "id": "granateple",
+      "name": "Granateple",
+      "shareName": "et granateple",
+      "emoji": null,
+      "description": "Du er mystisk, dyp og full av overraskelser. Det tar tid å bli kjent med deg, men det er verdt det.",
+      "funFact": "Et granateple kan inneholde flere hundre små frø.",
+      "image": "images/2026-10-13/granateple.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Rik",
+          "text": "Har mange lag."
+        }
+      ]
+    },
+    {
+      "id": "fersken",
+      "name": "Fersken",
+      "shareName": "en fersken",
+      "emoji": null,
+      "description": "Du er myk, snill og passer godt på alle rundt deg. Du har et hjerte som er like varmt som en sommerkveld.",
+      "funFact": "Ferskenen kommer opprinnelig fra Kina, selv om det latinske navnet betyr «persisk».",
+      "image": "images/2026-10-13/fersken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Myk",
+          "text": "Gir de beste klemmene."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Spør hvordan det går."
+        },
+        {
+          "title": "Varm",
+          "text": "Hjerte av gull."
+        }
+      ]
+    }
+  ]
+}
