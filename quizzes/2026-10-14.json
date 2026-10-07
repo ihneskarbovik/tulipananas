@@ -1,0 +1,723 @@
+{
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "title": "Hvilket himmellegeme er du i dag?",
+  "intro": "Er du en strålende stjerne eller en mystisk dvergplanet? Svar på sju små spørsmål og finn ut hva i verdensrommet du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva spiser du helst til frokost?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grøt med masse godt på toppen",
+          "scores": {
+            "jupiter": 2,
+            "jorda": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare en kakao på farten",
+          "scores": {
+            "merkur": 2,
+            "komet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pannekaker med alt tilbehør",
+          "scores": {
+            "sol": 2,
+            "venus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Brødskive med brunost",
+          "scores": {
+            "pluto": 2,
+            "saturn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En smoothie i en rar farge",
+          "scores": {
+            "uranus": 2,
+            "neptun": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, jeg sover for lenge",
+          "scores": {
+            "mane": 2,
+            "komet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du på en fridag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går en lang tur i skogen",
+          "scores": {
+            "jorda": 2,
+            "mars": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe med fart, som sykling eller klatring",
+          "scores": {
+            "mars": 2,
+            "merkur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer hele gjengen hjem",
+          "scores": {
+            "jupiter": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tegner, maler eller skriver",
+          "scores": {
+            "neptun": 2,
+            "uranus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder og lager lister",
+          "scores": {
+            "saturn": 2,
+            "pluto": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg på et tog uten plan",
+          "scores": {
+            "komet": 2,
+            "mane": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bølger som slår mot land",
+          "scores": {
+            "neptun": 2,
+            "mane": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En lekeplass full av latter",
+          "scores": {
+            "sol": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En sprakende peis",
+          "scores": {
+            "pluto": 2,
+            "jorda": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et fullt konsertpublikum",
+          "scores": {
+            "venus": 2,
+            "jupiter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Helt stille",
+          "scores": {
+            "saturn": 2,
+            "neptun": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vind i håret på sykkelen",
+          "scores": {
+            "komet": 2,
+            "mars": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva tar du med på en øde øy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor kokebok",
+          "scores": {
+            "jorda": 2,
+            "jupiter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et speil og en fin hatt",
+          "scores": {
+            "saturn": 2,
+            "venus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En notatbok full av rare ideer",
+          "scores": {
+            "uranus": 2,
+            "merkur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En god venn",
+          "scores": {
+            "pluto": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En fiskestang",
+          "scores": {
+            "mars": 2,
+            "mane": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, jeg finner ut av det",
+          "scores": {
+            "komet": 2,
+            "merkur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan ser sokkene dine ut i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Knallrosa",
+          "scores": {
+            "venus": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grønne med prikker",
+          "scores": {
+            "uranus": 2,
+            "jorda": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Svarte, som alltid",
+          "scores": {
+            "saturn": 2,
+            "pluto": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "To forskjellige",
+          "scores": {
+            "komet": 2,
+            "merkur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lyseblå og myke",
+          "scores": {
+            "neptun": 2,
+            "mane": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med tegneseriefigurer",
+          "scores": {
+            "jupiter": 2,
+            "mars": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken sang nynner du på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En gammel slager fra radioen",
+          "scores": {
+            "jorda": 2,
+            "jupiter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe jeg har funnet på selv",
+          "scores": {
+            "neptun": 2,
+            "uranus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bursdagssangen, uansett dag",
+          "scores": {
+            "sol": 2,
+            "pluto": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den nyeste hiten",
+          "scores": {
+            "venus": 2,
+            "merkur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En vuggevise",
+          "scores": {
+            "mane": 2,
+            "pluto": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe med trommer og fart",
+          "scores": {
+            "mars": 2,
+            "komet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er din superkraft i en gjeng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg får alle til å le",
+          "scores": {
+            "jupiter": 1,
+            "venus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg husker alles bursdager",
+          "scores": {
+            "jorda": 1,
+            "saturn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg kommer på de rareste ideene",
+          "scores": {
+            "uranus": 2,
+            "komet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lytter når noen er lei seg",
+          "scores": {
+            "mane": 2,
+            "neptun": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sier ja til alt",
+          "scores": {
+            "merkur": 2,
+            "mars": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sier lite, men er alltid der",
+          "scores": {
+            "pluto": 2,
+            "jupiter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sol",
+      "name": "Sola",
+      "shareName": "sola",
+      "emoji": null,
+      "description": "Du er varm, strålende og full av energi. Der du kommer, blir folk i godt humør.",
+      "funFact": "Sola utgjør over 99,8 prosent av all massen i solsystemet.",
+      "image": "images/2026-10-14/sol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir alle en god følelse."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt rom."
+        },
+        {
+          "title": "Energisk",
+          "text": "Lader aldri ut."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med alle."
+        }
+      ]
+    },
+    {
+      "id": "mane",
+      "name": "Månen",
+      "shareName": "månen",
+      "emoji": null,
+      "description": "Du er rolig, drømmende og litt mystisk. Du ser ting andre ikke legger merke til.",
+      "funFact": "Månen flytter seg omtrent 3,8 centimeter lenger bort fra jorda hvert år.",
+      "image": "images/2026-10-14/mane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr langt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer alltid tilbake."
+        },
+        {
+          "title": "Nattugle",
+          "text": "Våkner til liv sent."
+        }
+      ]
+    },
+    {
+      "id": "merkur",
+      "name": "Merkur",
+      "shareName": "Merkur",
+      "emoji": null,
+      "description": "Du er rask, nysgjerrig og alltid på vei et sted. Du rekker mer på en dag enn andre gjør på en uke.",
+      "funFact": "Et år på Merkur varer bare 88 jorddøgn.",
+      "image": "images/2026-10-14/merkur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid først ute."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Travel",
+          "text": "Har mange baller i lufta."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker lynraskt."
+        }
+      ]
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "shareName": "Venus",
+      "emoji": null,
+      "description": "Du er elegant, glitrende og elsker å skinne litt ekstra. Du gjør hverdagen til en liten fest.",
+      "funFact": "Ett døgn på Venus er lengre enn ett år der, fordi den snurrer så sakte rundt seg selv.",
+      "image": "images/2026-10-14/venus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid litt pyntet."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Fanger alles blikk."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Elsker en stor entré."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        }
+      ]
+    },
+    {
+      "id": "jorda",
+      "name": "Jorda",
+      "shareName": "jorda",
+      "emoji": null,
+      "description": "Du er omsorgsfull, jordnær og passer på alle rundt deg. Hos deg føler folk seg hjemme.",
+      "funFact": "Jorda er ikke helt rund, men litt bredere rundt ekvator enn fra pol til pol.",
+      "image": "images/2026-10-14/jorda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Trygg",
+          "text": "Et godt sted å være."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Døra står alltid åpen."
+        }
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "shareName": "Mars",
+      "emoji": null,
+      "description": "Du er modig, eventyrlysten og klar for alt. Du sier ja før du har tenkt deg om.",
+      "funFact": "Mars har Olympus Mons, den største vulkanen vi kjenner til i solsystemet, over 20 kilometer høy.",
+      "image": "images/2026-10-14/mars.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker nye utfordringer."
+        },
+        {
+          "title": "Rett-fram",
+          "text": "Sier det som det er."
+        }
+      ]
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "shareName": "Jupiter",
+      "emoji": null,
+      "description": "Du er stor i hjertet, raus og beskyttende. Alle vil ha deg på laget sitt.",
+      "funFact": "Den store røde flekken på Jupiter er en storm som er større enn hele jorda.",
+      "image": "images/2026-10-14/jupiter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Har plass til alle."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på de små."
+        },
+        {
+          "title": "Morsom",
+          "text": "Ler høyest i rommet."
+        },
+        {
+          "title": "Sterk",
+          "text": "Holder gjengen samlet."
+        }
+      ]
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "shareName": "Saturn",
+      "emoji": null,
+      "description": "Du er stilig, ryddig og tålmodig. Du har alltid en plan, og den er pen også.",
+      "funFact": "Saturn er så lett for størrelsen at den ville fløtet i et stort nok basseng med vann.",
+      "image": "images/2026-10-14/saturn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilig",
+          "text": "Har alltid stil."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne litt."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        }
+      ]
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "shareName": "Uranus",
+      "emoji": null,
+      "description": "Du er kreativ, annerledes og gjør ting på din egen måte. Ingen kan forutsi hva du finner på.",
+      "funFact": "Uranus ligger nesten på siden, så den ser ut til å rulle rundt sola.",
+      "image": "images/2026-10-14/uranus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av nye ideer."
+        },
+        {
+          "title": "Annerledes",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Morsom",
+          "text": "Litt rar, mye gøy."
+        },
+        {
+          "title": "Modig",
+          "text": "Bryr seg ikke om moter."
+        }
+      ]
+    },
+    {
+      "id": "neptun",
+      "name": "Neptun",
+      "shareName": "Neptun",
+      "emoji": null,
+      "description": "Du er følsom, dyp og full av fantasi. Du kjenner etter, og forstår andre godt.",
+      "funFact": "Neptun har de kraftigste vindene i solsystemet, over 2000 kilometer i timen.",
+      "image": "images/2026-10-14/neptun.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt sterkt."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser skjønnhet overalt."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Snill",
+          "text": "Trøster alle."
+        }
+      ]
+    },
+    {
+      "id": "komet",
+      "name": "Komet",
+      "shareName": "en komet",
+      "emoji": null,
+      "description": "Du er spontan, reiselysten og dukker opp når ingen venter det. Du setter spor etter deg overalt.",
+      "funFact": "Halleys komet kommer tilbake omtrent hvert 76. år, og neste gang den er nær er i 2061.",
+      "image": "images/2026-10-14/komet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Bestemmer seg i farta."
+        },
+        {
+          "title": "Reiselysten",
+          "text": "Alltid på tur."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp plutselig."
+        },
+        {
+          "title": "Fri",
+          "text": "Lar seg ikke stoppe."
+        }
+      ]
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "shareName": "Pluto",
+      "emoji": null,
+      "description": "Du er liten, men tøff, og utrolig lojal. Du trenger ikke mye oppmerksomhet for å være viktig.",
+      "funFact": "Pluto ble regnet som en planet fram til 2006, men kalles nå en dvergplanet.",
+      "image": "images/2026-10-14/pluto.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Tøff",
+          "text": "Liten, men sterk."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i fred."
+        },
+        {
+          "title": "Ekte",
+          "text": "Er seg selv."
+        }
+      ]
+    }
+  ]
+}
