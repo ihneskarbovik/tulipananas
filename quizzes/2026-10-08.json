@@ -1,369 +1,327 @@
 {
   "id": "2026-10-08",
   "date": "2026-10-08",
-  "title": "Hvilket eventyrvesen er du i dag?",
-  "intro": "Det var en gang ... deg! Finn ut hvilket eventyrvesen du er i dag.",
+  "title": "Hvilken Game of Thrones-karakter er du i dag?",
+  "intro": "Vinteren kommer, men først: sju små spørsmål. Finn ut hvem fra Game of Thrones du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva spiser du helst til frokost?",
+      "text": "Hvilken form har den beste kjeksen?",
       "options": [
         {
           "id": "a",
-          "text": "En kjempestor tallerken med alt",
+          "text": "Rund",
           "scores": {
-            "troll": 2,
-            "drage": 1
+            "davos": 2,
+            "hodor": 1
           }
         },
         {
           "id": "b",
-          "text": "Knekkebrød med ost",
+          "text": "Firkantet",
           "scores": {
-            "nisse": 2,
-            "nokken": 1
+            "brienne": 2,
+            "cersei": 1
           }
         },
         {
           "id": "c",
-          "text": "Noe søtt med strøssel",
+          "text": "Hjerte",
           "scores": {
-            "enhjorning": 2,
-            "fe": 1
+            "hodor": 1,
+            "ned": 2
           }
         },
         {
           "id": "d",
-          "text": "Te på senga",
+          "text": "Stjerne",
           "scores": {
-            "havfrue": 2
+            "arya": 1,
+            "sam": 2
           }
         },
         {
           "id": "e",
-          "text": "Glemmer det helt",
+          "text": "Knust i småbiter",
           "scores": {
-            "huldra": 2,
-            "nokken": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Bare litt bær",
-          "scores": {
-            "fe": 2,
-            "huldra": 1
+            "tyrion": 2,
+            "hodor": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hvordan bygger du en snømann?",
       "options": [
         {
           "id": "a",
-          "text": "Sover lenge",
+          "text": "Klassisk, tre kuler",
           "scores": {
-            "troll": 2
+            "ned": 2,
+            "bran": 1
           }
         },
         {
           "id": "b",
-          "text": "Lurer noen med en spøk",
+          "text": "Kjempestor",
           "scores": {
-            "nisse": 2
+            "jon": 2,
+            "arya": 1
           }
         },
         {
           "id": "c",
-          "text": "Konkurrerer i noe",
+          "text": "Med hatt, skjerf og veske",
           "scores": {
-            "drage": 2
+            "tyrion": 1,
+            "cersei": 2
           }
         },
         {
           "id": "d",
-          "text": "Pynter rommet",
+          "text": "Liggende, han er sliten",
           "scores": {
-            "enhjorning": 2,
-            "fe": 1
+            "jon": 1,
+            "davos": 2
           }
         },
         {
           "id": "e",
-          "text": "Sitter ved vinduet og dagdrømmer",
+          "text": "Jeg bygger en snødrage",
           "scores": {
-            "havfrue": 2,
-            "nokken": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Går på loppemarked",
-          "scores": {
-            "huldra": 2,
-            "nisse": 1
+            "bran": 2,
+            "cersei": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilken farge har humøret ditt?",
+      "text": "Hvor mange is spiser du om sommeren?",
       "options": [
         {
           "id": "a",
-          "text": "Grått",
+          "text": "Én, men en god en",
           "scores": {
-            "troll": 2,
-            "nokken": 1
+            "sansa": 2,
+            "davos": 1
           }
         },
         {
           "id": "b",
-          "text": "Oransje",
+          "text": "Har ikke tall på det",
           "scores": {
-            "drage": 2,
-            "nisse": 1
+            "hodor": 2,
+            "arya": 1
           }
         },
         {
           "id": "c",
-          "text": "Lilla",
+          "text": "Én hver dag",
           "scores": {
-            "enhjorning": 2,
-            "huldra": 1
+            "sansa": 1,
+            "davos": 2
           }
         },
         {
           "id": "d",
-          "text": "Lyseblått",
+          "text": "Bare softis",
           "scores": {
-            "havfrue": 2,
-            "fe": 1
+            "sam": 2,
+            "davos": 1
           }
         },
         {
           "id": "e",
-          "text": "Mørkegrønt",
+          "text": "Jeg lager min egen",
           "scores": {
-            "huldra": 2,
-            "nokken": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Gult",
-          "scores": {
-            "fe": 2,
-            "enhjorning": 1
+            "sam": 2,
+            "davos": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan er du i en gruppe?",
+      "text": "Hva gjør du mens du står i kø?",
       "options": [
         {
           "id": "a",
-          "text": "Den store og snille",
+          "text": "Prater med alle",
           "scores": {
-            "troll": 2
+            "tyrion": 2,
+            "sansa": 1
           }
         },
         {
           "id": "b",
-          "text": "Den som lurer alle",
+          "text": "Teller folk",
           "scores": {
-            "nisse": 2
+            "cersei": 2,
+            "sansa": 1
           }
         },
         {
           "id": "c",
-          "text": "Den som bestemmer",
+          "text": "Dagdrømmer",
           "scores": {
-            "drage": 2
+            "bran": 2,
+            "daenerys": 1
           }
         },
         {
           "id": "d",
-          "text": "Den som lyser opp rommet",
+          "text": "Finner en kortere kø",
           "scores": {
-            "enhjorning": 2,
-            "fe": 1
+            "arya": 2,
+            "jon": 1
           }
         },
         {
           "id": "e",
-          "text": "Den som drømmer seg bort",
+          "text": "Slipper andre foran meg",
           "scores": {
-            "havfrue": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den mystiske i hjørnet",
-          "scores": {
-            "nokken": 2,
-            "huldra": 1
+            "ned": 2,
+            "arya": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Hva legger du i en tidskapsel?",
       "options": [
         {
           "id": "a",
-          "text": "Torden",
+          "text": "Et brev til meg selv",
           "scores": {
-            "drage": 2,
-            "fe": 1
+            "daenerys": 1,
+            "brienne": 2
           }
         },
         {
           "id": "b",
-          "text": "Latter",
+          "text": "Favorittgodteriet mitt",
           "scores": {
-            "nisse": 2,
-            "fe": 1
+            "hodor": 2,
+            "davos": 1
           }
         },
         {
           "id": "c",
-          "text": "Pianoet til naboen",
+          "text": "En tegning",
           "scores": {
-            "nokken": 2
+            "jon": 1,
+            "sam": 2
           }
         },
         {
           "id": "d",
-          "text": "Vind i trærne",
+          "text": "Et kart over hemmelige steder",
           "scores": {
-            "huldra": 2
+            "daenerys": 2,
+            "davos": 1
           }
         },
         {
           "id": "e",
-          "text": "Regn mot vinduet",
+          "text": "Et klassebilde",
           "scores": {
-            "havfrue": 2,
-            "nokken": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Klokker som kimer",
-          "scores": {
-            "enhjorning": 2,
-            "fe": 1
+            "sansa": 2,
+            "hodor": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva ville du tatt med til en øde øy?",
+      "text": "Hvordan spiser du en kanelbolle?",
       "options": [
         {
           "id": "a",
-          "text": "En stor pute",
+          "text": "Vikler den opp sakte",
           "scores": {
-            "troll": 2
+            "brienne": 2,
+            "sam": 1
           }
         },
         {
           "id": "b",
-          "text": "En kortstokk",
+          "text": "Store biter, med en gang",
           "scores": {
-            "nisse": 2,
-            "huldra": 1
+            "arya": 2,
+            "jon": 1
           }
         },
         {
           "id": "c",
-          "text": "En lommelykt",
+          "text": "Bare den myke midten",
           "scores": {
-            "drage": 2,
-            "nokken": 1
+            "daenerys": 2,
+            "bran": 1
           }
         },
         {
           "id": "d",
-          "text": "Glitterlim",
+          "text": "Deler den med noen",
           "scores": {
-            "enhjorning": 2
+            "jon": 2,
+            "tyrion": 1
           }
         },
         {
           "id": "e",
-          "text": "En dagbok",
+          "text": "Dypper den i melk",
           "scores": {
-            "havfrue": 2,
-            "huldra": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Frø å plante",
-          "scores": {
-            "fe": 2,
-            "troll": 1
+            "hodor": 2,
+            "brienne": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva er superkraften din?",
+      "text": "Hva gjør du på bussen?",
       "options": [
         {
           "id": "a",
-          "text": "Å være kjempesterk",
+          "text": "Ser ut vinduet",
           "scores": {
-            "troll": 2,
-            "drage": 1
+            "bran": 2,
+            "daenerys": 1
           }
         },
         {
           "id": "b",
-          "text": "Å bli usynlig",
+          "text": "Prater med sidemannen",
           "scores": {
-            "nisse": 2,
-            "nokken": 1
+            "ned": 2,
+            "sansa": 1
           }
         },
         {
           "id": "c",
-          "text": "Å få noen til å føle seg spesiell",
+          "text": "Lager lister",
           "scores": {
-            "enhjorning": 2
+            "brienne": 1,
+            "tyrion": 2
           }
         },
         {
           "id": "d",
-          "text": "Å snakke med dyr",
+          "text": "Står og balanserer uten å holde meg",
           "scores": {
-            "havfrue": 2,
-            "fe": 1
+            "arya": 1,
+            "daenerys": 1
           }
         },
         {
           "id": "e",
-          "text": "Å få folk til å glemme tiden",
+          "text": "Lurer på hvor alle skal",
           "scores": {
-            "huldra": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Å trylle frem kake",
-          "scores": {
-            "fe": 2,
-            "nisse": 1
+            "bran": 1,
+            "cersei": 2
           }
         }
       ]
@@ -371,226 +329,338 @@
   ],
   "outcomes": [
     {
-      "id": "nokken",
-      "name": "Nøkken",
-      "shareName": "nøkken",
+      "id": "jon",
+      "name": "Jon Snow",
+      "shareName": "Jon Snow",
       "emoji": null,
-      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
-      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
-      "image": "images/2026-10-08/nokken.jpg",
+      "description": "Du er modig, ærlig og setter alltid andre foran deg selv. Du vet kanskje ikke alt, men du gjør det som er riktig.",
+      "funFact": "Kit Harington heter egentlig Christopher til fornavn.",
+      "image": "images/2026-10-08/jon.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Gåtefull",
-          "text": "Vanskelig å bli klok på."
+          "title": "Modig",
+          "text": "Står fremst når det gjelder."
         },
         {
-          "title": "Skiftende",
-          "text": "Endrer form ofte."
+          "title": "Ærlig",
+          "text": "Sier alltid sannheten."
         },
         {
-          "title": "Rolig",
-          "text": "Liker stille vann."
+          "title": "Beskjeden",
+          "text": "Liker ikke å skryte."
         },
         {
-          "title": "Musikalsk",
-          "text": "Vannet synger for deg."
+          "title": "Lojal",
+          "text": "Svikter aldri vennene."
         }
       ]
     },
     {
-      "id": "troll",
-      "name": "Troll",
-      "shareName": "et troll",
+      "id": "daenerys",
+      "name": "Daenerys Targaryen",
+      "shareName": "Daenerys Targaryen",
       "emoji": null,
-      "description": "Du er stor, sterk og mye snillere enn folk tror. Du blir bare litt gretten når du er sulten.",
-      "funFact": "I norske folkeeventyr sprekker trollene hvis de ser sola.",
-      "image": "images/2026-10-08/troll.jpg",
+      "description": "Du er sterk, drømmende og har store planer for verden. Du gir aldri opp det du tror på.",
+      "funFact": "Språkene i serien, som dothraki og valyrisk, ble laget av språkforskeren David J. Peterson.",
+      "image": "images/2026-10-08/daenerys.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sterk",
-          "text": "Flytter fjell."
-        },
-        {
-          "title": "Snill",
-          "text": "Myk innerst inne."
-        },
-        {
-          "title": "Gretten",
-          "text": "Bare før frokost."
-        },
-        {
-          "title": "Nattmenneske",
-          "text": "Unngår sola, selvfølgelig."
-        }
-      ]
-    },
-    {
-      "id": "drage",
-      "name": "Drage",
-      "shareName": "en drage",
-      "emoji": null,
-      "description": "Du er kraftfull, varm og har et hjerte av gull. Du passer på skattene dine, og vennene dine er de største.",
-      "funFact": "Komodovaranen, som også kalles komododrage, er verdens største nålevende øgle.",
-      "image": "images/2026-10-08/drage.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kraftfull",
-          "text": "Merkes lang vei."
-        },
-        {
-          "title": "Varm",
-          "text": "Alltid fyr i ovnen."
-        },
-        {
-          "title": "Beskyttende",
-          "text": "Vokter det du elsker."
-        },
-        {
-          "title": "Stolt",
-          "text": "Løfter hodet høyt."
-        }
-      ]
-    },
-    {
-      "id": "nisse",
-      "name": "Nisse",
-      "shareName": "en nisse",
-      "emoji": null,
-      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
-      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
-      "image": "images/2026-10-08/nisse.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Lur",
-          "text": "Alltid et triks."
-        },
-        {
-          "title": "Omsorgsfull",
-          "text": "Passer på gården."
-        },
-        {
-          "title": "Rampete",
-          "text": "Litt tull må til."
-        },
-        {
-          "title": "Grøtglad",
-          "text": "Med smør, takk."
-        }
-      ]
-    },
-    {
-      "id": "enhjorning",
-      "name": "Enhjørning",
-      "shareName": "en enhjørning",
-      "emoji": null,
-      "description": "Du er magisk, god og ser det fine i alle. Det er ikke hver dag noen møter en som deg.",
-      "funFact": "Enhjørningen er Skottlands nasjonaldyr.",
-      "image": "images/2026-10-08/enhjorning.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Magisk",
-          "text": "Glitrer i sola."
-        },
-        {
-          "title": "God",
-          "text": "Ser det fine overalt."
-        },
-        {
-          "title": "Sjelden",
-          "text": "Ikke hver dag."
+          "title": "Modig",
+          "text": "Tør det ingen andre tør."
         },
         {
           "title": "Drømmende",
-          "text": "Lever litt i regnbuen."
+          "text": "Har store planer."
+        },
+        {
+          "title": "Sterk",
+          "text": "Reiser seg igjen alltid."
+        },
+        {
+          "title": "Varm",
+          "text": "Bryr seg om de svake."
         }
       ]
     },
     {
-      "id": "havfrue",
-      "name": "Havfrue",
-      "shareName": "en havfrue",
+      "id": "arya",
+      "name": "Arya Stark",
+      "shareName": "Arya Stark",
       "emoji": null,
-      "description": "Du er nysgjerrig, sangglad og elsker vann. Du drømmer ofte om livet på den andre siden av bølgene.",
-      "funFact": "Statuen Den lille havfrue i København har sittet på steinen sin siden 1913.",
-      "image": "images/2026-10-08/havfrue.jpg",
+      "description": "Du er rask, sta og gjør ting på din egen måte. Ingen skal fortelle deg hva en jente kan eller ikke kan.",
+      "funFact": "Maisie Williams var bare 12 år da hun fikk rollen som Arya.",
+      "image": "images/2026-10-08/arya.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Nysgjerrig",
-          "text": "Utforsker hele havet."
+          "title": "Rask",
+          "text": "Alltid ett steg foran."
         },
         {
-          "title": "Sangglad",
-          "text": "Synger med bølgene."
-        },
-        {
-          "title": "Lengtende",
-          "text": "Drømmer om land."
+          "title": "Sta",
+          "text": "Gir seg aldri."
         },
         {
           "title": "Fri",
-          "text": "Havet er ditt."
+          "text": "Går sine egne veier."
+        },
+        {
+          "title": "Modig",
+          "text": "Redd for nesten ingenting."
         }
       ]
     },
     {
-      "id": "huldra",
-      "name": "Huldra",
-      "shareName": "huldra",
+      "id": "sansa",
+      "name": "Sansa Stark",
+      "shareName": "Sansa Stark",
       "emoji": null,
-      "description": "Du er vill, fri og litt mystisk. Du hører hjemme i skogen og lar deg ikke temme.",
-      "funFact": "Ifølge folketroen var huldra vakker forfra, men hadde kuhale og hul rygg.",
-      "image": "images/2026-10-08/huldra.jpg",
+      "description": "Du er klok, elegant og blir sterkere for hver dag. Du lærer av alt som skjer, og ender opp som en ekte leder.",
+      "funFact": "Sophie Turner adopterte hunden som spilte ulven hennes, Lady, i serien.",
+      "image": "images/2026-10-08/sansa.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Vill",
-          "text": "Lar deg ikke temme."
+          "title": "Klok",
+          "text": "Lærer av alt."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid med stil."
+        },
+        {
+          "title": "Sterk",
+          "text": "Vokser når det stormer."
+        },
+        {
+          "title": "Leder",
+          "text": "Holder orden på alle."
+        }
+      ]
+    },
+    {
+      "id": "tyrion",
+      "name": "Tyrion Lannister",
+      "shareName": "Tyrion Lannister",
+      "emoji": null,
+      "description": "Du er smart, morsom og har alltid et godt svar. Du leser mye og vet litt om nesten alt.",
+      "funFact": "Peter Dinklage vant fire Emmy-priser for rollen som Tyrion.",
+      "image": "images/2026-10-08/tyrion.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Tenker raskere enn alle."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har alltid en vits."
+        },
+        {
+          "title": "Belest",
+          "text": "Elsker gode bøker."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk under overflaten."
+        }
+      ]
+    },
+    {
+      "id": "cersei",
+      "name": "Cersei Lannister",
+      "shareName": "Cersei Lannister",
+      "emoji": null,
+      "description": "Du er stolt, smart og gjør alt for familien din. Du har alltid en plan, og helst en plan B også.",
+      "funFact": "Lena Headey, som spilte Cersei, ble født på Bermuda.",
+      "image": "images/2026-10-08/cersei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Holder hodet høyt."
+        },
+        {
+          "title": "Smart",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Familie",
+          "text": "Gjør alt for sine."
+        },
+        {
+          "title": "Stilig",
+          "text": "Alltid perfekt antrukket."
+        }
+      ]
+    },
+    {
+      "id": "brienne",
+      "name": "Brienne av Tarth",
+      "shareName": "Brienne av Tarth",
+      "emoji": null,
+      "description": "Du er sterk, trofast og holder alltid det du lover. Du bryr deg ikke om hva andre synes, du gjør det som er rett.",
+      "funFact": "Gwendoline Christie, som spilte Brienne, er hele 1,91 meter høy.",
+      "image": "images/2026-10-08/brienne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder alltid løftene."
+        },
+        {
+          "title": "Sterk",
+          "text": "Både inni og utenpå."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram og ekte."
+        },
+        {
+          "title": "Modig",
+          "text": "Står opp for andre."
+        }
+      ]
+    },
+    {
+      "id": "sam",
+      "name": "Samwell Tarly",
+      "shareName": "Samwell Tarly",
+      "emoji": null,
+      "description": "Du er snill, klok og elsker bøker. Du tror kanskje ikke selv at du er modig, men det er du.",
+      "funFact": "Rollen som Samwell var John Bradleys aller første skuespillerjobb.",
+      "image": "images/2026-10-08/sam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Har et stort hjerte."
+        },
+        {
+          "title": "Klok",
+          "text": "Finner svar i bøker."
+        },
+        {
+          "title": "Lojal",
+          "text": "En venn for livet."
+        },
+        {
+          "title": "Modig",
+          "text": "Mer enn du tror."
+        }
+      ]
+    },
+    {
+      "id": "bran",
+      "name": "Bran Stark",
+      "shareName": "Bran Stark",
+      "emoji": null,
+      "description": "Du er stille, klok og ser ting andre ikke legger merke til. Du tenker lenge før du sier noe.",
+      "funFact": "Isaac Hempstead Wright var bare ti år da innspillingen begynte.",
+      "image": "images/2026-10-08/bran.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg aldri stresse."
         },
         {
           "title": "Mystisk",
-          "text": "Forsvinner mellom trærne."
+          "text": "Vet mer enn han sier."
         },
         {
-          "title": "Naturglad",
-          "text": "Skogen er ditt hjem."
-        },
-        {
-          "title": "Sjarmerende",
-          "text": "Folk blir fortryllet."
+          "title": "Nysgjerrig",
+          "text": "Elsket å klatre."
         }
       ]
     },
     {
-      "id": "fe",
-      "name": "Fe",
-      "shareName": "en fe",
+      "id": "ned",
+      "name": "Ned Stark",
+      "shareName": "Ned Stark",
       "emoji": null,
-      "description": "Du er lett, kjapp og full av små gode gjerninger. Der du har vært, ligger det alltid litt glitter igjen.",
-      "funFact": "Ordet fe kommer via fransk fra latin «fata», som har med skjebne å gjøre.",
-      "image": "images/2026-10-08/fe.jpg",
+      "description": "Du er ærlig, rettferdig og passer på familien din. Folk vet alltid hvor de har deg.",
+      "funFact": "Sean Bean, som spilte Ned, er fra Sheffield i England.",
+      "image": "images/2026-10-08/ned.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Hjelpsom",
-          "text": "Gjør små mirakler."
+          "title": "Ærlig",
+          "text": "Lyver aldri."
         },
         {
-          "title": "Lett",
-          "text": "Svever over bakken."
+          "title": "Rettferdig",
+          "text": "Behandler alle likt."
         },
         {
-          "title": "Kjapp",
-          "text": "Fort som et vingeslag."
+          "title": "Trygg",
+          "text": "En klippe for familien."
         },
         {
-          "title": "Glitrende",
-          "text": "Etterlater alltid glitter."
+          "title": "Streng",
+          "text": "Men med varmt hjerte."
+        }
+      ]
+    },
+    {
+      "id": "hodor",
+      "name": "Hodor",
+      "shareName": "Hodor",
+      "emoji": null,
+      "description": "Du er stor, snill og alltid der når noen trenger deg. Du trenger ikke mange ord for å vise at du bryr deg.",
+      "funFact": "Kristian Nairn, som spilte Hodor, jobber også som DJ.",
+      "image": "images/2026-10-08/hodor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Verdens største hjerte."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bærer alle videre."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid ved din side."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler gjennom alt."
+        }
+      ]
+    },
+    {
+      "id": "davos",
+      "name": "Davos Seaworth",
+      "shareName": "Davos Seaworth",
+      "emoji": null,
+      "description": "Du er jordnær, ærlig og gir alltid gode råd. Du har reist mye og har en historie for alle anledninger.",
+      "funFact": "Liam Cunningham, som spilte Davos, er fra Dublin i Irland.",
+      "image": "images/2026-10-08/davos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på dekk."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Klok",
+          "text": "Gir de beste rådene."
+        },
+        {
+          "title": "Varm",
+          "text": "En god venn."
         }
       ]
     }

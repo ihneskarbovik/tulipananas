@@ -1,0 +1,556 @@
+{
+  "id": "2026-10-15",
+  "date": "2026-10-15",
+  "title": "Hvilket eventyrvesen er du i dag?",
+  "intro": "Det var en gang ... deg! Finn ut hvilket eventyrvesen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken måned er best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Januar",
+          "scores": {
+            "nokken": 1,
+            "huldra": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "April",
+          "scores": {
+            "enhjorning": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Juli",
+          "scores": {
+            "havfrue": 2,
+            "huldra": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Oktober",
+          "scores": {
+            "troll": 2,
+            "huldra": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Desember",
+          "scores": {
+            "drage": 2,
+            "fe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du ser en stor sølepytt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper midt i",
+          "scores": {
+            "fe": 2,
+            "nisse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går rundt",
+          "scores": {
+            "nokken": 2,
+            "nisse": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på speilbildet mitt",
+          "scores": {
+            "nokken": 2,
+            "enhjorning": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en båt av et blad",
+          "scores": {
+            "enhjorning": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Utfordrer noen til å hoppe",
+          "scores": {
+            "troll": 2,
+            "drage": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvis du var en sky, hvilken form ville du hatt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hund",
+          "scores": {
+            "havfrue": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et slott",
+          "scores": {
+            "nokken": 2,
+            "huldra": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En pannekake",
+          "scores": {
+            "troll": 2,
+            "nisse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En rakett",
+          "scores": {
+            "huldra": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen form, bare en dott",
+          "scores": {
+            "huldra": 2,
+            "nokken": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får lage en ny høytid. Hvilken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puteslagsdagen",
+          "scores": {
+            "havfrue": 2,
+            "nisse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den stille dagen uten skjerm",
+          "scores": {
+            "enhjorning": 1,
+            "havfrue": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den store pannekakedagen",
+          "scores": {
+            "drage": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Turdagen, alle går ut",
+          "scores": {
+            "havfrue": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mysteriedagen",
+          "scores": {
+            "enhjorning": 2,
+            "fe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan ser drømmesykkelen din ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med kurv og blomster",
+          "scores": {
+            "enhjorning": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med ekstra hjul",
+          "scores": {
+            "nisse": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rask og lett",
+          "scores": {
+            "huldra": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med tilhenger til alle tingene mine",
+          "scores": {
+            "nisse": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med vinger",
+          "scores": {
+            "huldra": 2,
+            "havfrue": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken dans kan du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vals",
+          "scores": {
+            "havfrue": 2,
+            "nisse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Breakdance",
+          "scores": {
+            "troll": 1,
+            "fe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kyllingdansen",
+          "scores": {
+            "troll": 2,
+            "havfrue": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Langsom vugging",
+          "scores": {
+            "fe": 2,
+            "enhjorning": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Min helt egen",
+          "scores": {
+            "huldra": 2,
+            "fe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det beste med torsdager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At det nesten er fredag",
+          "scores": {
+            "drage": 2,
+            "fe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ertesuppe",
+          "scores": {
+            "nisse": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At ingen forventer noe av dem",
+          "scores": {
+            "nokken": 2,
+            "enhjorning": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "De er undervurdert",
+          "scores": {
+            "enhjorning": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, men jeg liker dem likevel",
+          "scores": {
+            "nokken": 2,
+            "huldra": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "nokken",
+      "name": "Nøkken",
+      "shareName": "nøkken",
+      "emoji": null,
+      "description": "Du er gåtefull og elsker stille vann. Du kan forvandle deg til nesten hva som helst.",
+      "funFact": "Vannplanten nøkkerose har fått navnet sitt etter nøkken, som ifølge folketroen holdt til i tjern og vann.",
+      "image": "images/2026-10-15/nokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gåtefull",
+          "text": "Vanskelig å bli klok på."
+        },
+        {
+          "title": "Skiftende",
+          "text": "Endrer form ofte."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker stille vann."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Vannet synger for deg."
+        }
+      ]
+    },
+    {
+      "id": "troll",
+      "name": "Troll",
+      "shareName": "et troll",
+      "emoji": null,
+      "description": "Du er stor, sterk og mye snillere enn folk tror. Du blir bare litt gretten når du er sulten.",
+      "funFact": "I norske folkeeventyr sprekker trollene hvis de ser sola.",
+      "image": "images/2026-10-15/troll.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Flytter fjell."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk innerst inne."
+        },
+        {
+          "title": "Gretten",
+          "text": "Bare før frokost."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Unngår sola, selvfølgelig."
+        }
+      ]
+    },
+    {
+      "id": "drage",
+      "name": "Drage",
+      "shareName": "en drage",
+      "emoji": null,
+      "description": "Du er kraftfull, varm og har et hjerte av gull. Du passer på skattene dine, og vennene dine er de største.",
+      "funFact": "Komodovaranen, som også kalles komododrage, er verdens største nålevende øgle.",
+      "image": "images/2026-10-15/drage.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kraftfull",
+          "text": "Merkes lang vei."
+        },
+        {
+          "title": "Varm",
+          "text": "Alltid fyr i ovnen."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Vokter det du elsker."
+        },
+        {
+          "title": "Stolt",
+          "text": "Løfter hodet høyt."
+        }
+      ]
+    },
+    {
+      "id": "nisse",
+      "name": "Nisse",
+      "shareName": "en nisse",
+      "emoji": null,
+      "description": "Du er liten, lur og passer godt på alle rundt deg. Men glemmer noen grøten din, kan du finne på litt tull.",
+      "funFact": "Ifølge gammel folketro skulle gårdsnissen ha grøt med smør på julaften, ellers kunne han bli sint og lage ugagn.",
+      "image": "images/2026-10-15/nisse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Alltid et triks."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på gården."
+        },
+        {
+          "title": "Rampete",
+          "text": "Litt tull må til."
+        },
+        {
+          "title": "Grøtglad",
+          "text": "Med smør, takk."
+        }
+      ]
+    },
+    {
+      "id": "enhjorning",
+      "name": "Enhjørning",
+      "shareName": "en enhjørning",
+      "emoji": null,
+      "description": "Du er magisk, god og ser det fine i alle. Det er ikke hver dag noen møter en som deg.",
+      "funFact": "Enhjørningen er Skottlands nasjonaldyr.",
+      "image": "images/2026-10-15/enhjorning.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Magisk",
+          "text": "Glitrer i sola."
+        },
+        {
+          "title": "God",
+          "text": "Ser det fine overalt."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Lever litt i regnbuen."
+        }
+      ]
+    },
+    {
+      "id": "havfrue",
+      "name": "Havfrue",
+      "shareName": "en havfrue",
+      "emoji": null,
+      "description": "Du er nysgjerrig, sangglad og elsker vann. Du drømmer ofte om livet på den andre siden av bølgene.",
+      "funFact": "Statuen Den lille havfrue i København har sittet på steinen sin siden 1913.",
+      "image": "images/2026-10-15/havfrue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker hele havet."
+        },
+        {
+          "title": "Sangglad",
+          "text": "Synger med bølgene."
+        },
+        {
+          "title": "Lengtende",
+          "text": "Drømmer om land."
+        },
+        {
+          "title": "Fri",
+          "text": "Havet er ditt."
+        }
+      ]
+    },
+    {
+      "id": "huldra",
+      "name": "Huldra",
+      "shareName": "huldra",
+      "emoji": null,
+      "description": "Du er vill, fri og litt mystisk. Du hører hjemme i skogen og lar deg ikke temme.",
+      "funFact": "Ifølge folketroen var huldra vakker forfra, men hadde kuhale og hul rygg.",
+      "image": "images/2026-10-15/huldra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vill",
+          "text": "Lar deg ikke temme."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Forsvinner mellom trærne."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Skogen er ditt hjem."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Folk blir fortryllet."
+        }
+      ]
+    },
+    {
+      "id": "fe",
+      "name": "Fe",
+      "shareName": "en fe",
+      "emoji": null,
+      "description": "Du er lett, kjapp og full av små gode gjerninger. Der du har vært, ligger det alltid litt glitter igjen.",
+      "funFact": "Ordet fe kommer via fransk fra latin «fata», som har med skjebne å gjøre.",
+      "image": "images/2026-10-15/fe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Gjør små mirakler."
+        },
+        {
+          "title": "Lett",
+          "text": "Svever over bakken."
+        },
+        {
+          "title": "Kjapp",
+          "text": "Fort som et vingeslag."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Etterlater alltid glitter."
+        }
+      ]
+    }
+  ]
+}

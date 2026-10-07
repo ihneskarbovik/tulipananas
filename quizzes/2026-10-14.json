@@ -6,377 +6,322 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hva spiser du helst til frokost?",
+      "text": "Hva synes du om skjeer?",
       "options": [
         {
           "id": "a",
-          "text": "Grøt med masse godt på toppen",
+          "text": "De er undervurdert",
           "scores": {
-            "jupiter": 2,
-            "jorda": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Bare en kakao på farten",
-          "scores": {
-            "merkur": 2,
-            "komet": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Pannekaker med alt tilbehør",
-          "scores": {
-            "sol": 2,
+            "uranus": 2,
             "venus": 1
           }
         },
         {
-          "id": "d",
-          "text": "Brødskive med brunost",
+          "id": "b",
+          "text": "Jeg samler på dem",
           "scores": {
-            "pluto": 2,
+            "neptun": 1,
             "saturn": 1
           }
         },
         {
-          "id": "e",
-          "text": "En smoothie i en rar farge",
+          "id": "c",
+          "text": "Gaffel er bedre",
           "scores": {
-            "uranus": 2,
-            "neptun": 1
+            "komet": 2,
+            "pluto": 1
           }
         },
         {
-          "id": "f",
-          "text": "Ingenting, jeg sover for lenge",
+          "id": "d",
+          "text": "Skje er livet",
           "scores": {
-            "mane": 2,
-            "komet": 1
+            "pluto": 2,
+            "uranus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Har aldri tenkt på det",
+          "scores": {
+            "merkur": 2,
+            "sol": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hva ville du malt på veggen hjemme?",
       "options": [
         {
           "id": "a",
-          "text": "Går en lang tur i skogen",
+          "text": "Striper",
           "scores": {
-            "jorda": 2,
-            "mars": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Noe med fart, som sykling eller klatring",
-          "scores": {
-            "mars": 2,
+            "saturn": 2,
             "merkur": 1
           }
         },
         {
-          "id": "c",
-          "text": "Inviterer hele gjengen hjem",
+          "id": "b",
+          "text": "Blomster",
           "scores": {
-            "jupiter": 2,
-            "sol": 1
+            "neptun": 2,
+            "jupiter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et kart over verden",
+          "scores": {
+            "mars": 1,
+            "venus": 1
           }
         },
         {
           "id": "d",
-          "text": "Tegner, maler eller skriver",
+          "text": "Ingenting, hvitt er fint",
           "scores": {
-            "neptun": 2,
-            "uranus": 1
+            "mane": 1,
+            "saturn": 1
           }
         },
         {
           "id": "e",
-          "text": "Rydder og lager lister",
+          "text": "En gigantisk katt",
           "scores": {
-            "saturn": 2,
-            "pluto": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Setter meg på et tog uten plan",
-          "scores": {
-            "komet": 2,
-            "mane": 1
+            "neptun": 2,
+            "uranus": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Hvor ville du helst sovet en natt?",
       "options": [
         {
           "id": "a",
-          "text": "Bølger som slår mot land",
+          "text": "Oppe i et tre",
           "scores": {
-            "neptun": 2,
-            "mane": 1
+            "komet": 2,
+            "pluto": 1
           }
         },
         {
           "id": "b",
-          "text": "En lekeplass full av latter",
+          "text": "I et slott",
           "scores": {
-            "sol": 2
+            "merkur": 2,
+            "saturn": 1
           }
         },
         {
           "id": "c",
-          "text": "En sprakende peis",
+          "text": "I en iglo",
           "scores": {
-            "pluto": 2,
-            "jorda": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Et fullt konsertpublikum",
-          "scores": {
-            "venus": 2,
+            "mars": 2,
             "jupiter": 1
           }
         },
         {
-          "id": "e",
-          "text": "Helt stille",
+          "id": "d",
+          "text": "På en båt",
           "scores": {
-            "saturn": 2,
-            "neptun": 1
+            "komet": 1,
+            "mane": 1
           }
         },
         {
-          "id": "f",
-          "text": "Vind i håret på sykkelen",
+          "id": "e",
+          "text": "Hos bestemor",
           "scores": {
-            "komet": 2,
-            "mars": 1
+            "jorda": 2,
+            "neptun": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva tar du med på en øde øy?",
+      "text": "Hva gjør du med en tom pappeske?",
       "options": [
         {
           "id": "a",
-          "text": "En stor kokebok",
+          "text": "Lager en rakett",
           "scores": {
-            "jorda": 2,
-            "jupiter": 1
+            "venus": 2,
+            "mars": 1
           }
         },
         {
           "id": "b",
-          "text": "Et speil og en fin hatt",
+          "text": "Setter meg oppi den",
           "scores": {
-            "saturn": 2,
-            "venus": 1
+            "pluto": 2,
+            "jorda": 1
           }
         },
         {
           "id": "c",
-          "text": "En notatbok full av rare ideer",
+          "text": "Lager et slott til en katt",
           "scores": {
             "uranus": 2,
-            "merkur": 1
+            "jupiter": 1
           }
         },
         {
           "id": "d",
-          "text": "En god venn",
+          "text": "Bretter den sammen",
           "scores": {
-            "pluto": 2,
-            "sol": 1
+            "merkur": 2,
+            "saturn": 2
           }
         },
         {
           "id": "e",
-          "text": "En fiskestang",
+          "text": "Skriver «hemmelig» på den",
           "scores": {
-            "mars": 2,
-            "mane": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Ingenting, jeg finner ut av det",
-          "scores": {
-            "komet": 2,
-            "merkur": 1
+            "neptun": 2,
+            "komet": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan ser sokkene dine ut i dag?",
+      "text": "Hvordan kommer du deg uti et kaldt basseng?",
       "options": [
         {
           "id": "a",
-          "text": "Knallrosa",
+          "text": "Hopper uti med et hyl",
           "scores": {
-            "venus": 2,
-            "sol": 1
+            "sol": 2,
+            "mars": 1
           }
         },
         {
           "id": "b",
-          "text": "Grønne med prikker",
+          "text": "Én tå om gangen",
           "scores": {
-            "uranus": 2,
-            "jorda": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Svarte, som alltid",
-          "scores": {
-            "saturn": 2,
-            "pluto": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "To forskjellige",
-          "scores": {
-            "komet": 2,
-            "merkur": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Lyseblå og myke",
-          "scores": {
-            "neptun": 2,
+            "pluto": 1,
             "mane": 1
           }
         },
         {
-          "id": "f",
-          "text": "Med tegneseriefigurer",
+          "id": "c",
+          "text": "Får noen til å dytte meg",
           "scores": {
-            "jupiter": 2,
-            "mars": 1
+            "sol": 1,
+            "venus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Flyter rett ut på ryggen",
+          "scores": {
+            "komet": 2,
+            "mane": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sitter på kanten og ser på",
+          "scores": {
+            "mane": 2,
+            "pluto": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilken sang nynner du på?",
+      "text": "Hvordan svarer du i telefonen?",
       "options": [
         {
           "id": "a",
-          "text": "En gammel slager fra radioen",
+          "text": "Hallo, hallo!",
           "scores": {
-            "jorda": 2,
-            "jupiter": 1
+            "sol": 1,
+            "jupiter": 2
           }
         },
         {
           "id": "b",
-          "text": "Noe jeg har funnet på selv",
+          "text": "Ja?",
           "scores": {
-            "neptun": 2,
-            "uranus": 1
+            "jupiter": 2,
+            "mars": 2
           }
         },
         {
           "id": "c",
-          "text": "Bursdagssangen, uansett dag",
-          "scores": {
-            "sol": 2,
-            "pluto": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Den nyeste hiten",
-          "scores": {
-            "venus": 2,
-            "merkur": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "En vuggevise",
-          "scores": {
-            "mane": 2,
-            "pluto": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Noe med trommer og fart",
-          "scores": {
-            "mars": 2,
-            "komet": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hva er din superkraft i en gjeng?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jeg får alle til å le",
-          "scores": {
-            "jupiter": 1,
-            "venus": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg husker alles bursdager",
-          "scores": {
-            "jorda": 1,
-            "saturn": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg kommer på de rareste ideene",
-          "scores": {
-            "uranus": 2,
-            "komet": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg lytter når noen er lei seg",
+          "text": "Jeg svarer ikke, jeg sender melding",
           "scores": {
             "mane": 2,
             "neptun": 1
           }
         },
         {
-          "id": "e",
-          "text": "Jeg sier ja til alt",
+          "id": "d",
+          "text": "Med fullt navn og en fin hilsen",
           "scores": {
-            "merkur": 2,
-            "mars": 1
+            "jorda": 2,
+            "jupiter": 2
           }
         },
         {
-          "id": "f",
-          "text": "Jeg sier lite, men er alltid der",
+          "id": "e",
+          "text": "Med en rar stemme",
+          "scores": {
+            "venus": 1,
+            "uranus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med den siste pommes fritesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser den i ro og fred",
+          "scores": {
+            "saturn": 2,
+            "merkur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Deler den i to",
+          "scores": {
+            "jorda": 2,
+            "sol": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser den før noen ser det",
+          "scores": {
+            "mars": 1,
+            "jupiter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager kunst av den",
+          "scores": {
+            "uranus": 2,
+            "venus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sparer den til senere",
           "scores": {
             "pluto": 2,
-            "jupiter": 1
+            "jorda": 1
           }
         }
       ]

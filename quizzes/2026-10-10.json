@@ -6,161 +6,137 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hva spiser du helst til frokost?",
+      "text": "Hvor mange puter trenger du i sengen?",
       "options": [
         {
           "id": "a",
-          "text": "Havregrøt med syltetøy",
+          "text": "Én",
           "scores": {
-            "nepal": 1,
-            "mongolia": 1
+            "mongolia": 2,
+            "japan": 1
           }
         },
         {
           "id": "b",
-          "text": "Pannekaker med blåbær",
+          "text": "To",
+          "scores": {
+            "srilanka": 1,
+            "india": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fem",
+          "scores": {
+            "indonesia": 1,
+            "srilanka": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tolv",
           "scores": {
             "thailand": 2,
             "filippinene": 1
           }
         },
         {
-          "id": "c",
-          "text": "Brødskive med brunost",
-          "scores": {
-            "mongolia": 2,
-            "srilanka": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Egg og bacon",
-          "scores": {
-            "sorkorea": 2,
-            "kina": 1
-          }
-        },
-        {
           "id": "e",
-          "text": "Bare en banan",
+          "text": "Ingen, jeg sover på armen",
           "scores": {
-            "indonesia": 2,
-            "vietnam": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Rester fra middagen i går",
-          "scores": {
-            "india": 2,
-            "japan": 1
+            "nepal": 1,
+            "sorkorea": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva gjør du på en fridag?",
+      "text": "Hva ville drømmekatten din hett?",
       "options": [
         {
           "id": "a",
-          "text": "Sover lenge og leser en bok",
+          "text": "Sir Pelsen",
           "scores": {
-            "japan": 2,
-            "srilanka": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Drar på en lang tur i skogen",
-          "scores": {
-            "nepal": 1,
-            "mongolia": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Inviterer hele gjengen på middag",
-          "scores": {
-            "india": 2,
-            "filippinene": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Bygger noe med lego",
-          "scores": {
-            "kambodsja": 2,
+            "kambodsja": 1,
             "kina": 1
           }
         },
         {
-          "id": "e",
-          "text": "Spiller spill til langt på kveld",
+          "id": "b",
+          "text": "Lyn",
           "scores": {
-            "sorkorea": 2,
-            "thailand": 1
+            "vietnam": 2,
+            "filippinene": 1
           }
         },
         {
-          "id": "f",
-          "text": "Går på loppemarked",
+          "id": "c",
+          "text": "Pusen",
           "scores": {
-            "vietnam": 2,
-            "indonesia": 1
+            "srilanka": 2,
+            "india": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mørke Månestråle",
+          "scores": {
+            "indonesia": 2,
+            "sorkorea": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kaptein Kos",
+          "scores": {
+            "filippinene": 2,
+            "india": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Hvordan pakker du inn en gave?",
       "options": [
         {
           "id": "a",
-          "text": "Popkorn som popper",
+          "text": "Perfekt, med sløyfe",
           "scores": {
-            "sorkorea": 2,
-            "filippinene": 1
+            "japan": 2,
+            "kina": 1
           }
         },
         {
           "id": "b",
-          "text": "Vind i trærne",
+          "text": "Masse tape og null plan",
           "scores": {
-            "mongolia": 1,
-            "nepal": 1
+            "filippinene": 2,
+            "sorkorea": 1
           }
         },
         {
           "id": "c",
-          "text": "Noen som ler i rommet ved siden av",
+          "text": "I avispapir",
           "scores": {
-            "thailand": 2,
-            "india": 1
+            "mongolia": 1,
+            "kambodsja": 2
           }
         },
         {
           "id": "d",
-          "text": "Kirkeklokker langt unna",
+          "text": "Med et hemmelig hint",
           "scores": {
-            "kambodsja": 2,
+            "vietnam": 1,
             "japan": 1
           }
         },
         {
           "id": "e",
-          "text": "En katt som maler",
+          "text": "I en pose, det er innholdet som teller",
           "scores": {
-            "srilanka": 2,
-            "indonesia": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "En sykkelbjelle",
-          "scores": {
-            "vietnam": 2,
+            "sorkorea": 2,
             "kina": 1
           }
         }
@@ -168,51 +144,43 @@
     },
     {
       "id": "q4",
-      "text": "Hva tar du med deg til en øde øy?",
+      "text": "Hva står det på t-skjorten din i dag?",
       "options": [
         {
           "id": "a",
-          "text": "En god pute",
+          "text": "Ikke nå, jeg tenker",
           "scores": {
-            "srilanka": 2,
-            "japan": 1
+            "indonesia": 1,
+            "thailand": 2
           }
         },
         {
           "id": "b",
-          "text": "En fotball",
+          "text": "Klem meg",
           "scores": {
-            "filippinene": 2,
-            "thailand": 1
+            "thailand": 2,
+            "india": 1
           }
         },
         {
           "id": "c",
-          "text": "En notatbok",
+          "text": "Ferdig med alt",
           "scores": {
             "kina": 2,
-            "kambodsja": 1
+            "nepal": 1
           }
         },
         {
           "id": "d",
-          "text": "En kortstokk",
+          "text": "Pannekakeekspert",
           "scores": {
-            "sorkorea": 2,
-            "vietnam": 1
+            "india": 2,
+            "srilanka": 1
           }
         },
         {
           "id": "e",
-          "text": "En hengekøye",
-          "scores": {
-            "indonesia": 2,
-            "filippinene": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "En kikkert",
+          "text": "På vei",
           "scores": {
             "nepal": 2,
             "mongolia": 1
@@ -222,161 +190,137 @@
     },
     {
       "id": "q5",
-      "text": "Hvilken sang nynner du på?",
+      "text": "Du får en ekstra time i døgnet. Når vil du ha den?",
       "options": [
         {
           "id": "a",
-          "text": "Bursdagssangen",
+          "text": "Tidlig om morgenen",
           "scores": {
-            "filippinene": 2,
-            "india": 1
+            "kambodsja": 2,
+            "japan": 1
           }
         },
         {
           "id": "b",
-          "text": "En reklamesang",
+          "text": "I lunsjen",
           "scores": {
-            "sorkorea": 1,
+            "india": 2,
             "thailand": 1
           }
         },
         {
           "id": "c",
-          "text": "Noe jeg har funnet på selv",
+          "text": "Rett før leggetid",
           "scores": {
-            "mongolia": 2,
-            "kambodsja": 2
+            "kambodsja": 2,
+            "japan": 1
           }
         },
         {
           "id": "d",
-          "text": "Julesanger, selv i juli",
+          "text": "Midt på natta",
           "scores": {
-            "japan": 2,
-            "srilanka": 1
+            "mongolia": 2,
+            "indonesia": 1
           }
         },
         {
           "id": "e",
-          "text": "Sangen fra en barnefilm",
-          "scores": {
-            "indonesia": 2,
-            "kina": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg plystrer heller",
+          "text": "Når det er lekser",
           "scores": {
             "vietnam": 2,
-            "nepal": 1
+            "thailand": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvordan ser sokkene dine ut i dag?",
+      "text": "Hvilket kjøretøy passer deg i dag?",
       "options": [
         {
           "id": "a",
-          "text": "Knallgule",
+          "text": "Traktor",
           "scores": {
-            "thailand": 1,
-            "india": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Svarte og helt like",
-          "scores": {
-            "japan": 1,
+            "sorkorea": 2,
             "kina": 1
           }
         },
         {
-          "id": "c",
-          "text": "Ikke like hverandre",
+          "id": "b",
+          "text": "Luftballong",
           "scores": {
-            "filippinene": 2,
-            "sorkorea": 1
+            "indonesia": 1,
+            "nepal": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tandemsykkel",
+          "scores": {
+            "srilanka": 2,
+            "filippinene": 1
           }
         },
         {
           "id": "d",
-          "text": "Tykke ullsokker",
+          "text": "Ubåt",
           "scores": {
-            "nepal": 2,
-            "mongolia": 1
+            "japan": 2,
+            "kambodsja": 1
           }
         },
         {
           "id": "e",
-          "text": "Med striper",
+          "text": "Skateboard",
           "scores": {
-            "kambodsja": 2,
-            "vietnam": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg har ikke sokker på",
-          "scores": {
-            "indonesia": 2,
-            "srilanka": 1
+            "vietnam": 2,
+            "mongolia": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvem er du i en gruppe?",
+      "text": "Du kan snakke med ett dyr i én dag. Hvilket?",
       "options": [
         {
           "id": "a",
-          "text": "Den som lager planen",
+          "text": "En ugle",
           "scores": {
-            "kina": 2,
-            "kambodsja": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Den som får alle til å le",
-          "scores": {
-            "thailand": 2,
-            "filippinene": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Den som lytter",
-          "scores": {
-            "srilanka": 2,
-            "japan": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Den som alltid har snacks",
-          "scores": {
-            "india": 2,
-            "vietnam": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den som finner veien",
-          "scores": {
-            "mongolia": 2,
+            "indonesia": 1,
             "nepal": 1
           }
         },
         {
-          "id": "f",
-          "text": "Den som kommer litt for sent",
+          "id": "b",
+          "text": "En ku",
           "scores": {
-            "indonesia": 1,
+            "srilanka": 2,
+            "kambodsja": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et ekorn",
+          "scores": {
+            "filippinene": 2,
+            "thailand": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En hval",
+          "scores": {
+            "indonesia": 2,
+            "mongolia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hest",
+          "scores": {
+            "kina": 1,
             "sorkorea": 1
           }
         }

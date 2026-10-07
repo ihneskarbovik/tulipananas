@@ -6,378 +6,322 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hva vil du helst ha til middag?",
+      "text": "Du får lage et nytt ord. Hva betyr det?",
       "options": [
         {
           "id": "a",
-          "text": "Taco",
+          "text": "Følelsen av nyvasket dyne",
           "scores": {
-            "ball": 1,
-            "bamse": 1
+            "bamse": 2,
+            "puslespill": 1
           }
         },
         {
           "id": "b",
-          "text": "Fiskeboller i hvit saus",
+          "text": "Lyden av is som knekker",
           "scores": {
             "gyngehest": 2,
-            "hoppetau": 1
+            "boble": 2
           }
         },
         {
           "id": "c",
-          "text": "Pizza med mye ost",
+          "text": "Å le så man grynter",
           "scores": {
-            "boble": 1,
-            "snurrebass": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Pannekaker",
-          "scores": {
-            "puslespill": 1,
+            "ball": 2,
             "tog": 1
           }
         },
         {
-          "id": "e",
-          "text": "Suppe med ferskt brød",
+          "id": "d",
+          "text": "Dagen etter en lang tur",
           "scores": {
             "sparkesykkel": 1,
-            "kloss": 1
+            "drage": 2
           }
         },
         {
-          "id": "f",
-          "text": "Sushi",
+          "id": "e",
+          "text": "Å gi bort den siste kjeksen",
           "scores": {
-            "drage": 1,
-            "jojo": 1
+            "gyngehest": 1,
+            "boble": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvilke sokker har du på deg i dag?",
+      "text": "En giraff ringer på døra. Hva sier du?",
       "options": [
         {
           "id": "a",
-          "text": "Svarte, som vanlig",
+          "text": "Kom inn, vil du ha kakao?",
           "scores": {
-            "drage": 1,
-            "bamse": 2
+            "bamse": 2,
+            "gyngehest": 1
           }
         },
         {
           "id": "b",
-          "text": "Stripete",
+          "text": "Kan jeg få en tur på ryggen?",
           "scores": {
-            "boble": 2,
-            "sparkesykkel": 2
+            "sparkesykkel": 1,
+            "jojo": 1
           }
         },
         {
           "id": "c",
-          "text": "To forskjellige",
+          "text": "Endelig, jeg har ventet på deg",
           "scores": {
-            "ball": 1,
-            "tog": 1
+            "snurrebass": 1,
+            "boble": 1
           }
         },
         {
           "id": "d",
-          "text": "Hvite",
+          "text": "Vent, jeg må ta et bilde",
           "scores": {
-            "gyngehest": 1,
-            "hoppetau": 1
+            "hoppetau": 2,
+            "tog": 1
           }
         },
         {
           "id": "e",
-          "text": "Knallgule",
+          "text": "Lukker døra og later som ingenting",
           "scores": {
-            "jojo": 1,
-            "snurrebass": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Har ikke sokker på",
-          "scores": {
-            "puslespill": 1,
-            "kloss": 1
+            "drage": 2,
+            "sparkesykkel": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva gjør du i lunsjpausen?",
+      "text": "Hvor sitter du helst i et møte eller en klasse?",
       "options": [
         {
           "id": "a",
-          "text": "Prater med alle",
+          "text": "Helt foran",
           "scores": {
-            "snurrebass": 1,
-            "sparkesykkel": 1
+            "tog": 2,
+            "puslespill": 1
           }
         },
         {
           "id": "b",
-          "text": "Spiser i fred og ro",
+          "text": "Helt bakerst",
           "scores": {
-            "boble": 2,
-            "kloss": 1
+            "snurrebass": 1,
+            "puslespill": 2
           }
         },
         {
           "id": "c",
-          "text": "Går en tur rundt kvartalet",
+          "text": "Ved vinduet",
           "scores": {
-            "puslespill": 1,
-            "gyngehest": 2
+            "boble": 2,
+            "puslespill": 1
           }
         },
         {
           "id": "d",
-          "text": "Løser kryssord",
+          "text": "Midt i",
           "scores": {
-            "tog": 1,
-            "bamse": 1
+            "ball": 2,
+            "tog": 1
           }
         },
         {
           "id": "e",
-          "text": "Leser nyheter",
+          "text": "Der det er ledig, jeg kommer sist",
           "scores": {
-            "jojo": 2,
-            "drage": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Tar en liten lur",
-          "scores": {
-            "hoppetau": 1,
-            "ball": 2
+            "jojo": 1,
+            "hoppetau": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvilket dyr ville du hatt som nabo?",
+      "text": "Hva gjør du når du ikke får sove?",
       "options": [
         {
           "id": "a",
-          "text": "Et pinnsvin",
+          "text": "Teller sauer",
           "scores": {
             "kloss": 1,
-            "sparkesykkel": 2
+            "snurrebass": 2
           }
         },
         {
           "id": "b",
-          "text": "En elg",
+          "text": "Lager en kopp kakao",
           "scores": {
-            "drage": 1,
-            "bamse": 1
+            "bamse": 2,
+            "gyngehest": 1
           }
         },
         {
           "id": "c",
-          "text": "En papegøye",
+          "text": "Planlegger morgendagen",
           "scores": {
-            "tog": 2,
-            "gyngehest": 2
+            "sparkesykkel": 2,
+            "jojo": 1
           }
         },
         {
           "id": "d",
-          "text": "En skilpadde",
+          "text": "Lytter til lydene i huset",
           "scores": {
-            "boble": 1,
-            "hoppetau": 2
+            "drage": 2,
+            "snurrebass": 1
           }
         },
         {
           "id": "e",
-          "text": "Et ekorn",
+          "text": "Tenker på noe morsomt og ler",
           "scores": {
-            "jojo": 1,
-            "ball": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "En ugle",
-          "scores": {
-            "puslespill": 2,
-            "snurrebass": 2
+            "hoppetau": 2,
+            "tog": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva synes du om mandager?",
+      "text": "Hvilken bokstav er finest?",
       "options": [
         {
           "id": "a",
-          "text": "Elsker dem, en helt ny uke",
+          "text": "Å",
           "scores": {
-            "sparkesykkel": 1,
-            "bamse": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Trenger litt ekstra frokost",
-          "scores": {
-            "snurrebass": 1,
-            "tog": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Helt greie",
-          "scores": {
-            "drage": 1,
+            "gyngehest": 2,
             "boble": 1
           }
         },
         {
-          "id": "d",
-          "text": "Burde vært forbudt",
+          "id": "b",
+          "text": "Z",
           "scores": {
-            "ball": 1,
-            "puslespill": 2
+            "ball": 2,
+            "jojo": 1
           }
         },
         {
-          "id": "e",
-          "text": "Vet aldri hvilken dag det er",
-          "scores": {
-            "kloss": 2,
-            "hoppetau": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Mandag er min fredag",
-          "scores": {
-            "jojo": 1,
-            "gyngehest": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hvilken superkraft vil du ha?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Snakke med planter",
+          "id": "c",
+          "text": "O",
           "scores": {
             "snurrebass": 2,
             "puslespill": 1
           }
         },
         {
-          "id": "b",
-          "text": "Bli usynlig",
-          "scores": {
-            "bamse": 1,
-            "kloss": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Spole tilbake tiden",
-          "scores": {
-            "drage": 2,
-            "tog": 2
-          }
-        },
-        {
           "id": "d",
-          "text": "Finne alt som er borte",
+          "text": "Q",
           "scores": {
-            "sparkesykkel": 1,
-            "ball": 1
+            "kloss": 2,
+            "puslespill": 1
           }
         },
         {
           "id": "e",
-          "text": "Lage verdens beste kakao",
+          "text": "S",
           "scores": {
-            "jojo": 1,
-            "gyngehest": 1
+            "hoppetau": 1,
+            "jojo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du vinner et helt år med blyanter. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tegner hele året",
+          "scores": {
+            "kloss": 2,
+            "boble": 1
           }
         },
         {
-          "id": "f",
-          "text": "Få alle til å le",
+          "id": "b",
+          "text": "Deler ut til alle",
           "scores": {
-            "hoppetau": 2,
-            "boble": 1
+            "tog": 2,
+            "ball": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bygger et tårn",
+          "scores": {
+            "jojo": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sorterer dem etter farge",
+          "scores": {
+            "puslespill": 1,
+            "kloss": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bytter dem mot is",
+          "scores": {
+            "sparkesykkel": 2,
+            "drage": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilket ord liker du best?",
+      "text": "Hva gjør du først i et nytt hus?",
       "options": [
         {
           "id": "a",
-          "text": "Kos",
+          "text": "Velger det beste rommet",
           "scores": {
-            "puslespill": 1,
-            "ball": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Eventyr",
-          "scores": {
-            "sparkesykkel": 2,
-            "snurrebass": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Pause",
-          "scores": {
-            "kloss": 1,
+            "sparkesykkel": 1,
             "jojo": 1
           }
         },
         {
-          "id": "d",
-          "text": "Plutselig",
+          "id": "b",
+          "text": "Utforsker loftet",
           "scores": {
-            "drage": 2,
-            "tog": 2
+            "snurrebass": 2,
+            "sparkesykkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henger opp bilder",
+          "scores": {
+            "gyngehest": 2,
+            "kloss": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hilser på naboene",
+          "scores": {
+            "tog": 2,
+            "bamse": 1
           }
         },
         {
           "id": "e",
-          "text": "Hjemme",
+          "text": "Lager en plan",
           "scores": {
-            "bamse": 1,
-            "hoppetau": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Kanskje",
-          "scores": {
-            "boble": 2,
-            "gyngehest": 1
+            "puslespill": 2,
+            "tog": 1
           }
         }
       ]

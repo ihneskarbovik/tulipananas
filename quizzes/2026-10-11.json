@@ -6,235 +6,65 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hva er det første du gjør når du våkner?",
+      "text": "Hva roper du på toppen av et fjell?",
       "options": [
         {
           "id": "a",
-          "text": "Strekker meg lenge og godt",
+          "text": "Hallo!",
           "scores": {
-            "gran": 1,
-            "lonn": 2
+            "bjork": 1,
+            "oliven": 2
           }
         },
         {
           "id": "b",
-          "text": "Sjekker hva klokka er",
+          "text": "Ingenting, jeg nyter stillheten",
           "scores": {
-            "eik": 1,
-            "palme": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Går rett på kjøkkenet",
-          "scores": {
-            "baobab": 2,
-            "rogn": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Blir liggende og dagdrømmer",
-          "scores": {
-            "bjork": 1,
-            "furu": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Åpner vinduet på vidt gap",
-          "scores": {
-            "pil": 1,
+            "pil": 2,
             "oliven": 1
           }
         },
         {
-          "id": "f",
-          "text": "Synger litt i dusjen",
+          "id": "c",
+          "text": "Jeg klarte det!",
+          "scores": {
+            "furu": 2,
+            "eik": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Navnet til bestevennen min",
           "scores": {
             "eple": 2,
-            "kirsebaer": 2
+            "eik": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et hemmelig ord",
+          "scores": {
+            "kirsebaer": 2,
+            "baobab": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvilken lyd liker du best?",
+      "text": "Heisen stopper mellom to etasjer. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Regn mot taket",
+          "text": "Synger",
           "scores": {
-            "palme": 1,
-            "kirsebaer": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Noen som knasker på chips",
-          "scores": {
-            "baobab": 2,
-            "pil": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "En sykkelklokke",
-          "scores": {
-            "lonn": 1,
-            "furu": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Helt stille",
-          "scores": {
-            "oliven": 2,
-            "eik": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Knitring fra en gammel plate",
-          "scores": {
-            "eple": 2,
-            "bjork": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Barn som ler",
-          "scores": {
-            "gran": 1,
-            "rogn": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hva tar du med på en øde øy?",
-      "options": [
-        {
-          "id": "a",
-          "text": "En tjukk bok",
-          "scores": {
-            "lonn": 1,
-            "gran": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "En kortstokk",
-          "scores": {
-            "palme": 1,
-            "kirsebaer": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "En stor, myk pute",
-          "scores": {
-            "oliven": 1,
-            "rogn": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "En fiskestang",
-          "scores": {
-            "baobab": 1,
-            "furu": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Et munnspill",
-          "scores": {
-            "pil": 1,
-            "eik": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "En notatbok og blyant",
-          "scores": {
-            "bjork": 1,
-            "eple": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hva er favorittpålegget ditt?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Brunost",
-          "scores": {
-            "kirsebaer": 1,
-            "bjork": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Leverpostei",
-          "scores": {
-            "gran": 1,
-            "palme": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jordbærsyltetøy",
-          "scores": {
-            "lonn": 1,
-            "eik": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Makrell i tomat",
-          "scores": {
-            "oliven": 1,
+            "lonn": 2,
             "rogn": 1
           }
         },
         {
-          "id": "e",
-          "text": "Ost og skinke",
-          "scores": {
-            "baobab": 1,
-            "eple": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Sjokoladepålegg",
-          "scores": {
-            "furu": 1,
-            "pil": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hva gjør du på en regnfull søndag?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Baker boller",
-          "scores": {
-            "kirsebaer": 1,
-            "furu": 1
-          }
-        },
-        {
           "id": "b",
-          "text": "Ser en hel serie",
+          "text": "Trykker på alarmknappen",
           "scores": {
             "eik": 2,
             "gran": 1
@@ -242,142 +72,256 @@
         },
         {
           "id": "c",
-          "text": "Rydder i skuffer",
+          "text": "Tar en lur",
           "scores": {
-            "baobab": 2,
-            "pil": 1
+            "oliven": 2,
+            "palme": 1
           }
         },
         {
           "id": "d",
-          "text": "Ringer en venn",
+          "text": "Forteller spøkelseshistorier",
           "scores": {
-            "oliven": 1,
-            "lonn": 2
+            "baobab": 1,
+            "pil": 1
           }
         },
         {
           "id": "e",
-          "text": "Tar på regntøy og går ut",
+          "text": "Planlegger flukt gjennom taket",
           "scores": {
-            "rogn": 1,
+            "bjork": 2,
+            "palme": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken hatt passer deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strikkelue",
+          "scores": {
+            "oliven": 1,
+            "pil": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Cowboyhatt",
+          "scores": {
+            "furu": 2,
+            "baobab": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tryllehatt",
+          "scores": {
+            "kirsebaer": 2,
+            "baobab": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Partyhatt",
+          "scores": {
+            "lonn": 2,
+            "oliven": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Caps bak fram",
+          "scores": {
+            "palme": 2,
+            "furu": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken ting i kjøleskapet er mest deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Syltetøy",
+          "scores": {
+            "eple": 2,
+            "rogn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sylteagurk",
+          "scores": {
+            "pil": 2,
+            "baobab": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Melk",
+          "scores": {
+            "gran": 2,
+            "eik": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Restemat i boks",
+          "scores": {
+            "palme": 2,
+            "baobab": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Brus",
+          "scores": {
+            "bjork": 1,
+            "rogn": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du finner en tikroning på bakken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøper godteri",
+          "scores": {
+            "baobab": 2,
             "bjork": 1
           }
         },
         {
-          "id": "f",
-          "text": "Tegner eller maler",
+          "id": "b",
+          "text": "Legger den i sparegrisen",
           "scores": {
-            "eple": 1,
-            "palme": 1
+            "gran": 2,
+            "eik": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir den til noen",
+          "scores": {
+            "rogn": 2,
+            "eple": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ønsker meg noe",
+          "scores": {
+            "kirsebaer": 2,
+            "pil": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leter etter flere",
+          "scores": {
+            "eik": 2,
+            "furu": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilken sang nynner du på?",
+      "text": "Hvordan er håret ditt i dag?",
       "options": [
         {
           "id": "a",
-          "text": "En gammel slager fra radioen",
+          "text": "Perfekt",
           "scores": {
-            "eple": 1,
+            "oliven": 2,
             "gran": 1
           }
         },
         {
           "id": "b",
-          "text": "Bursdagssangen",
+          "text": "Vilt og fritt",
           "scores": {
-            "oliven": 2,
-            "kirsebaer": 1
+            "palme": 2,
+            "eple": 1
           }
         },
         {
           "id": "c",
-          "text": "Noe jeg har funnet på selv",
+          "text": "Gjemt under lua",
           "scores": {
-            "lonn": 1,
-            "eik": 1
+            "eple": 2,
+            "gran": 1
           }
         },
         {
           "id": "d",
-          "text": "Melodien fra en reklame",
+          "text": "Det har sin egen vilje",
           "scores": {
-            "furu": 1,
-            "rogn": 1
+            "lonn": 2,
+            "baobab": 2
           }
         },
         {
           "id": "e",
-          "text": "En vuggevise",
+          "text": "Fint nok",
           "scores": {
-            "baobab": 1,
-            "palme": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den nyeste hiten",
-          "scores": {
-            "bjork": 1,
-            "pil": 1
+            "rogn": 2,
+            "eple": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvordan liker du å reise?",
+      "text": "Hva er klokka i hjertet ditt?",
       "options": [
         {
           "id": "a",
-          "text": "Med nattog",
+          "text": "Seks om morgenen",
           "scores": {
-            "furu": 2,
-            "baobab": 2
+            "bjork": 2,
+            "gran": 1
           }
         },
         {
           "id": "b",
-          "text": "Med bil og masse snacks",
+          "text": "Tolv",
           "scores": {
-            "lonn": 2,
-            "gran": 2
+            "oliven": 2,
+            "lonn": 1
           }
         },
         {
           "id": "c",
-          "text": "Til fots",
+          "text": "Fire om ettermiddagen",
           "scores": {
-            "bjork": 1,
-            "rogn": 1
+            "pil": 2,
+            "oliven": 1
           }
         },
         {
           "id": "d",
-          "text": "Med fly, jo lenger jo bedre",
+          "text": "Ti om kvelden",
           "scores": {
-            "oliven": 2,
-            "eple": 1
+            "kirsebaer": 2,
+            "pil": 1
           }
         },
         {
           "id": "e",
-          "text": "Helst ikke, hjemme er best",
+          "text": "Tre om natta",
           "scores": {
-            "pil": 2,
-            "palme": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Med båt",
-          "scores": {
-            "kirsebaer": 2,
-            "eik": 1
+            "furu": 2,
+            "lonn": 1
           }
         }
       ]
