@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-16",
+  "date": "2026-10-16",
+  "title": "Hvilken kake er du i dag?",
+  "intro": "Er du lun og hjemmekoselig eller full av glitter og pynt? Finn ut hvilken kake du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "En pingvin vil låne paraplyen din. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Selvfølgelig, ta den!",
+          "scores": {
+            "vaffel": 2,
+            "eplekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare hvis jeg får bli med",
+          "scores": {
+            "cupcake": 2,
+            "smultring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hva skal du med den?",
+          "scores": {
+            "ostekake": 2,
+            "gulrotkake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vi deler",
+          "scores": {
+            "blotkake": 2,
+            "sjokoladekake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har en finere en til deg",
+          "scores": {
+            "prinsesskake": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Si pent først",
+          "scores": {
+            "suksessterte": 2,
+            "krumkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvor mange sokker uten makker har du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Null, alt er i orden",
+          "scores": {
+            "suksessterte": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én eller to",
+          "scores": {
+            "ostekake": 2,
+            "eplekake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En hel skuff",
+          "scores": {
+            "smultring": 2,
+            "vaffel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "De er ikke uten makker, de er frie",
+          "scores": {
+            "cupcake": 2,
+            "gulrotkake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg bruker forskjellige med vilje",
+          "scores": {
+            "prinsesskake": 2,
+            "sjokoladekake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har ikke sjekket",
+          "scores": {
+            "blotkake": 2,
+            "krumkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan skriver du en handleliste?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pent, i riktig rekkefølge",
+          "scores": {
+            "kransekake": 2,
+            "suksessterte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På baksiden av en kvittering",
+          "scores": {
+            "eplekake": 2,
+            "smultring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med tegninger",
+          "scores": {
+            "krumkake": 2,
+            "cupcake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg husker alt i hodet",
+          "scores": {
+            "sjokoladekake": 2,
+            "krumkake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den står på telefonen",
+          "scores": {
+            "gulrotkake": 2,
+            "ostekake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg glemmer den hjemme",
+          "scores": {
+            "vaffel": 2,
+            "blotkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken lyd tror du en snegle lager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hmm",
+          "scores": {
+            "eplekake": 2,
+            "ostekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Plopp",
+          "scores": {
+            "smultring": 2,
+            "cupcake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sssshhh",
+          "scores": {
+            "krumkake": 2,
+            "gulrotkake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tadaa!",
+          "scores": {
+            "blotkake": 2,
+            "prinsesskake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, den er for opptatt",
+          "scores": {
+            "kransekake": 2,
+            "sjokoladekake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den synger opera",
+          "scores": {
+            "suksessterte": 2,
+            "vaffel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du først når du kommer hjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar på myke klær",
+          "scores": {
+            "sjokoladekake": 2,
+            "vaffel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Åpner kjøleskapet",
+          "scores": {
+            "gulrotkake": 2,
+            "smultring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter skoene pent på plass",
+          "scores": {
+            "kransekake": 2,
+            "suksessterte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på musikk",
+          "scores": {
+            "blotkake": 2,
+            "cupcake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Legger meg på sofaen",
+          "scores": {
+            "eplekake": 2,
+            "krumkake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller alt som skjedde i dag",
+          "scores": {
+            "prinsesskake": 2,
+            "ostekake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du møter en nabo, men husker ikke navnet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier «Hei du!»",
+          "scores": {
+            "smultring": 2,
+            "eplekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler og vinker stort",
+          "scores": {
+            "cupcake": 2,
+            "vaffel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Snakker om været",
+          "scores": {
+            "gulrotkake": 2,
+            "eplekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Later som jeg snakker i telefonen",
+          "scores": {
+            "krumkake": 2,
+            "sjokoladekake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg husker alltid navn",
+          "scores": {
+            "kransekake": 2,
+            "suksessterte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir et kompliment",
+          "scores": {
+            "prinsesskake": 2,
+            "ostekake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan vil du helst bli vekket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Av sola gjennom vinduet",
+          "scores": {
+            "gulrotkake": 2,
+            "eplekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Av en katt som tråkker på meg",
+          "scores": {
+            "smultring": 2,
+            "krumkake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Av at noe godt lukter fra kjøkkenet",
+          "scores": {
+            "vaffel": 2,
+            "prinsesskake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Av en klokke som ringer på sekundet",
+          "scores": {
+            "kransekake": 2,
+            "ostekake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Av noen som synger",
+          "scores": {
+            "blotkake": 2,
+            "cupcake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helst ikke i det hele tatt",
+          "scores": {
+            "sjokoladekake": 2,
+            "suksessterte": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ostekake",
+      "name": "Ostekake",
+      "shareName": "en ostekake",
+      "emoji": null,
+      "description": "Du er glatt, rolig og vet nøyaktig hva du liker. Du har god smak og er stolt av det.",
+      "funFact": "Allerede i antikkens Hellas laget folk en slags ostekake.",
+      "image": "images/2026-10-16/ostekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Kresen",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Elegant",
+          "text": "Enkel, men stilig."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        }
+      ]
+    },
+    {
+      "id": "krumkake",
+      "name": "Krumkake",
+      "shareName": "en krumkake",
+      "emoji": null,
+      "description": "Du er sart på utsiden og myk på innsiden. Du har en lun og drømmende side som få vet om.",
+      "funFact": "Krumkaker stekes i et eget jern og rulles rundt en kjegle mens de fortsatt er varme.",
+      "image": "images/2026-10-16/krumkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr langt."
+        },
+        {
+          "title": "Sart",
+          "text": "Føler mye."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker gamle vaner."
+        },
+        {
+          "title": "Lun",
+          "text": "Varm når man kjenner deg."
+        }
+      ]
+    },
+    {
+      "id": "suksessterte",
+      "name": "Suksessterte",
+      "shareName": "en suksessterte",
+      "emoji": null,
+      "description": "Du er gull verdt og gjør alt med stil. Du har høye mål og når dem som oftest.",
+      "funFact": "Suksessterte har en bunn av mandler og eggehvite, og et gult fyll laget av eggeplommer, sukker og smør.",
+      "image": "images/2026-10-16/suksessterte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Når det du sikter på."
+        },
+        {
+          "title": "Gyllen",
+          "text": "Skinner uten å prøve."
+        },
+        {
+          "title": "Nøye",
+          "text": "Vil gjøre ting riktig."
+        },
+        {
+          "title": "Stilig",
+          "text": "Alltid pent kledd."
+        }
+      ]
+    },
+    {
+      "id": "eplekake",
+      "name": "Eplekake",
+      "shareName": "en eplekake",
+      "emoji": null,
+      "description": "Du er varm, jordnær og litt gammeldags på den beste måten. Du får folk til å føle seg hjemme.",
+      "funFact": "Det finnes tusenvis av ulike eplesorter i verden.",
+      "image": "images/2026-10-16/eplekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Som en god klem."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best på kjøkkenet."
+        }
+      ]
+    },
+    {
+      "id": "vaffel",
+      "name": "Vaffel",
+      "shareName": "en vaffel",
+      "emoji": null,
+      "description": "Du er hjertelig og uformell, og passer inn absolutt overalt. Du er den alle blir glade av å treffe.",
+      "funFact": "I Norge spises vafler ofte med brunost, syltetøy eller rømme, og vaffeljernet lager gjerne små hjerter.",
+      "image": "images/2026-10-16/vaffel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjertelig",
+          "text": "Hjerte i hver rute."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite for å glede."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i godt lag."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Passer til alt."
+        }
+      ]
+    },
+    {
+      "id": "sjokoladekake",
+      "name": "Sjokoladekake",
+      "shareName": "en sjokoladekake",
+      "emoji": null,
+      "description": "Du er koselig og trygg, og alle blir glade når du kommer. Du trenger ikke pynte deg for å være elsket.",
+      "funFact": "Kakao kommer fra bønner som vokser inni store frukter på kakaotreet.",
+      "image": "images/2026-10-16/sjokoladekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid en god idé."
+        },
+        {
+          "title": "Koselig",
+          "text": "Varm som et pledd."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Elsket",
+          "text": "Alle vil ha mer."
+        }
+      ]
+    },
+    {
+      "id": "cupcake",
+      "name": "Cupcake",
+      "shareName": "en cupcake",
+      "emoji": null,
+      "description": "Du er liten, sprudlende og full av farger. Du får alle til å le, selv på grå dager.",
+      "funFact": "Navnet cupcake kommer trolig av at kakene ble bakt i små kopper, eller at ingrediensene ble målt i kopper.",
+      "image": "images/2026-10-16/cupcake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Bobler over av glede."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Elsker pynt og glitter."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        }
+      ]
+    },
+    {
+      "id": "smultring",
+      "name": "Smultring",
+      "shareName": "en smultring",
+      "emoji": null,
+      "description": "Du er avslappet, morsom og litt rufsete i kantene. Du tar livet som det kommer, med et smil.",
+      "funFact": "Smultringer kokes i fett i en gryte, i stedet for å stekes i ovnen.",
+      "image": "images/2026-10-16/smultring.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for tull."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen fine faksoner."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        }
+      ]
+    },
+    {
+      "id": "prinsesskake",
+      "name": "Prinsesskake",
+      "shareName": "en prinsesskake",
+      "emoji": null,
+      "description": "Du er eventyrlig og elsker litt drama i hverdagen. Du gjør alt litt mer magisk.",
+      "funFact": "Prinsesskake, eller prinsesstårta, kommer fra Sverige og er dekket av grønn marsipan.",
+      "image": "images/2026-10-16/prinsesskake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlig",
+          "text": "Lever i en historie."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Stor stemning alltid."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Unik",
+          "text": "Ingen er som deg."
+        }
+      ]
+    },
+    {
+      "id": "gulrotkake",
+      "name": "Gulrotkake",
+      "shareName": "en gulrotkake",
+      "emoji": null,
+      "description": "Du er full av overraskelser og mye smartere enn folk tror. Du har alltid noe uventet på lur.",
+      "funFact": "De første dyrkede gulrøttene var ofte lilla eller gule, ikke oransje.",
+      "image": "images/2026-10-16/gulrotkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker et skritt foran."
+        },
+        {
+          "title": "Sprek",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør om alt."
+        }
+      ]
+    },
+    {
+      "id": "blotkake",
+      "name": "Bløtkake",
+      "shareName": "en bløtkake",
+      "emoji": null,
+      "description": "Du er festen som alle venter på. Du gjør en helt vanlig dag til en feiring.",
+      "funFact": "Bløtkake med jordbær og krem er en av de mest populære bursdagskakene i Norge.",
+      "image": "images/2026-10-16/blotkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Gjør alt til feiring."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne ut."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler med hele deg."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle vil sitte nær."
+        }
+      ]
+    },
+    {
+      "id": "kransekake",
+      "name": "Kransekake",
+      "shareName": "en kransekake",
+      "emoji": null,
+      "description": "Du er stødig, ryddig og bygger ting ordentlig fra bunnen av. Folk ser opp til deg, bokstavelig talt.",
+      "funFact": "Kransekake lages av mandler, melis og eggehvite, og ringene stables oppå hverandre til et tårn.",
+      "image": "images/2026-10-16/kransekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt i vind."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Høytidelig",
+          "text": "Passer til store dager."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Bygger litt om gangen."
+        }
+      ]
+    }
+  ]
+}
