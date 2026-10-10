@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-17",
+  "date": "2026-10-17",
+  "title": "Hvilket insekt er du i dag?",
+  "intro": "Summer, kryper eller flyr du gjennom dagen? Svar på sju litt rare spørsmål og finn ut hvilket insekt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva synes du om trapper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg tar to trinn om gangen",
+          "scores": {
+            "oyenstikker": 2,
+            "gresshoppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg teller hvert eneste trinn",
+          "scores": {
+            "maur": 2,
+            "kneler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fine å sitte midt i og hvile",
+          "scores": {
+            "vandrendepinne": 2,
+            "humle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg hopper alltid over det nederste",
+          "scores": {
+            "gresshoppe": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Elsker dem, særlig vindeltrapper",
+          "scores": {
+            "sommerfugl": 2,
+            "sankthansorm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går baklengs for moro skyld",
+          "scores": {
+            "tordivel": 2,
+            "siriss": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en ballong. Hva skriver du på den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Navnet mitt, med store bokstaver",
+          "scores": {
+            "siriss": 2,
+            "tordivel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hei til den som finner denne!",
+          "scores": {
+            "marihone": 2,
+            "honningbie": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting, den er fin som den er",
+          "scores": {
+            "vandrendepinne": 2,
+            "kneler": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En liten hemmelig tegning",
+          "scores": {
+            "sankthansorm": 2,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Handlelisten, så den ikke blir borte",
+          "scores": {
+            "maur": 2,
+            "honningbie": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et spørsmål jeg vil ha svar på",
+          "scores": {
+            "kneler": 2,
+            "oyenstikker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du har mistet en vott. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leter overalt i en time",
+          "scores": {
+            "kneler": 2,
+            "maur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker en sokk i stedet",
+          "scores": {
+            "tordivel": 2,
+            "gresshoppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henger opp en lapp: Savnet!",
+          "scores": {
+            "honningbie": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går med én vott og er stolt av det",
+          "scores": {
+            "gresshoppe": 2,
+            "siriss": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Strikker en ny i kveld",
+          "scores": {
+            "humle": 2,
+            "vandrendepinne": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøper ti nye, så er det gjort",
+          "scores": {
+            "oyenstikker": 2,
+            "sommerfugl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor mange knapper skal en perfekt jakke ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, glidelås er best",
+          "scores": {
+            "gresshoppe": 2,
+            "oyenstikker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre",
+          "scores": {
+            "kneler": 2,
+            "vandrendepinne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sju",
+          "scores": {
+            "marihone": 2,
+            "sankthansorm": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Så mange som mulig",
+          "scores": {
+            "sommerfugl": 2,
+            "honningbie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Én stor",
+          "scores": {
+            "humle": 2,
+            "tordivel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det kommer an på humøret",
+          "scores": {
+            "sankthansorm": 2,
+            "siriss": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken årstid liker tærne dine best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vinter, inni tjukke ullsokker",
+          "scores": {
+            "humle": 2,
+            "sankthansorm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vår, i nye gummistøvler",
+          "scores": {
+            "tordivel": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sommer, nedi varm sand",
+          "scores": {
+            "siriss": 2,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Høst, under et teppe på sofaen",
+          "scores": {
+            "vandrendepinne": 2,
+            "kneler": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Alle, tærne mine er ikke kresne",
+          "scores": {
+            "honningbie": 2,
+            "gresshoppe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tærne mine holder det hemmelig",
+          "scores": {
+            "sankthansorm": 2,
+            "oyenstikker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal holde tale i et bryllup. Hvordan begynner du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en vits",
+          "scores": {
+            "gresshoppe": 2,
+            "tordivel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg har skrevet sju sider",
+          "scores": {
+            "maur": 2,
+            "kneler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kort og godt: Skål!",
+          "scores": {
+            "oyenstikker": 2,
+            "humle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med et lite dikt",
+          "scores": {
+            "sommerfugl": 2,
+            "vandrendepinne": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg blir rørt før jeg har sagt noe",
+          "scores": {
+            "marihone": 2,
+            "sankthansorm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ber alle reise seg og danse",
+          "scores": {
+            "siriss": 2,
+            "honningbie": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Toget er forsinket. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kos meg med å se på folk",
+          "scores": {
+            "vandrendepinne": 2,
+            "sankthansorm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver en klage i hodet",
+          "scores": {
+            "kneler": 2,
+            "maur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går heller",
+          "scores": {
+            "oyenstikker": 2,
+            "tordivel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir venn med noen på perrongen",
+          "scores": {
+            "honningbie": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Heldigvis har jeg matpakke",
+          "scores": {
+            "siriss": 2,
+            "humle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager plan B, C og D",
+          "scores": {
+            "tordivel": 2,
+            "maur": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sommerfugl",
+      "name": "Sommerfugl",
+      "shareName": "en sommerfugl",
+      "emoji": null,
+      "description": "Du er drømmende, kreativ og full av ideer. Du flyr fra det ene til det andre og gjør alt litt vakrere.",
+      "funFact": "Sommerfugler kjenner smak med føttene.",
+      "image": "images/2026-10-17/sommerfugl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ser farger overalt."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr fritt."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Vakker",
+          "text": "Pynter opp dagen."
+        }
+      ]
+    },
+    {
+      "id": "maur",
+      "name": "Maur",
+      "shareName": "en maur",
+      "emoji": null,
+      "description": "Du er flittig, smart og har alltid en plan. Du får utrolig mye gjort, og du gjør det sammen med andre.",
+      "funFact": "Maur kan bære mange ganger sin egen kroppsvekt.",
+      "image": "images/2026-10-17/maur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Sterk",
+          "text": "Løfter mer enn ventet."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller alltid opp."
+        }
+      ]
+    },
+    {
+      "id": "gresshoppe",
+      "name": "Gresshoppe",
+      "shareName": "en gresshoppe",
+      "emoji": null,
+      "description": "Du er spontan, sprudlende og full av spretne ideer. Med deg vet man aldri hva som skjer, og det er det som er så gøy.",
+      "funFact": "Mange gresshopper lager lyd ved å gni bakbeina mot vingene.",
+      "image": "images/2026-10-17/gresshoppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Hopper rett ut i det."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får andre til å le."
+        },
+        {
+          "title": "Energisk",
+          "text": "Sitter aldri helt stille."
+        },
+        {
+          "title": "Glad",
+          "text": "Finner moro overalt."
+        }
+      ]
+    },
+    {
+      "id": "honningbie",
+      "name": "Honningbie",
+      "shareName": "en honningbie",
+      "emoji": null,
+      "description": "Du er sosial, hjelpsom og en ekte lagspiller. Du sørger for at alle får det de trenger.",
+      "funFact": "Honningbier danser for å fortelle hverandre hvor de kan finne mat.",
+      "image": "images/2026-10-17/honningbie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker et godt fellesskap."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Deler alltid med andre."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Forteller gjerne nyheter."
+        },
+        {
+          "title": "Arbeidsom",
+          "text": "Liker å holde på."
+        }
+      ]
+    },
+    {
+      "id": "humle",
+      "name": "Humle",
+      "shareName": "en humle",
+      "emoji": null,
+      "description": "Du er rund i kantene, varm og koselig. Du jobber jevnt og trutt, men tar deg alltid tid til en pause.",
+      "funFact": "Humler kan fly selv når det er kaldt, fordi de varmer seg opp ved å skjelve med flygemusklene.",
+      "image": "images/2026-10-17/humle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som en lun genser."
+        },
+        {
+          "title": "Trofast",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Rolig",
+          "text": "Summer i sitt tempo."
+        },
+        {
+          "title": "Snill",
+          "text": "Stikker nesten aldri."
+        }
+      ]
+    },
+    {
+      "id": "marihone",
+      "name": "Marihøne",
+      "shareName": "en marihøne",
+      "emoji": null,
+      "description": "Du er glad, heldig og lett å like. Der du kommer, blir folk litt blidere.",
+      "funFact": "Én marihøne kan spise rundt 50 bladlus på én dag.",
+      "image": "images/2026-10-17/marihone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Heldig",
+          "text": "Ting ordner seg ofte."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler først, tenker etterpå."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp hverdagen."
+        }
+      ]
+    },
+    {
+      "id": "sankthansorm",
+      "name": "Sankthansorm",
+      "shareName": "en sankthansorm",
+      "emoji": null,
+      "description": "Du er stille og litt hemmelighetsfull, men lyser opp når det trengs som mest. Folk husker deg lenge.",
+      "funFact": "Sankthansormen er ikke en orm, men en bille, og hunnen lyser for å lokke til seg en hann.",
+      "image": "images/2026-10-17/sankthansorm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mystisk",
+          "text": "Har noen hemmeligheter."
+        },
+        {
+          "title": "Varm",
+          "text": "Lyser opp mørke kvelder."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trenger ikke mye oppmerksomhet."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Ingen er helt som deg."
+        }
+      ]
+    },
+    {
+      "id": "kneler",
+      "name": "Kneler",
+      "shareName": "en kneler",
+      "emoji": null,
+      "description": "Du er tenksom, høflig og veldig presis. Du venter på det riktige øyeblikket og treffer da helt perfekt.",
+      "funFact": "En kneler kan snu hodet og kikke seg over skulderen.",
+      "image": "images/2026-10-17/kneler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tenksom",
+          "text": "Grubler på store ting."
+        },
+        {
+          "title": "Høflig",
+          "text": "Har alltid gode manerer."
+        },
+        {
+          "title": "Presis",
+          "text": "Treffer midt i blinken."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        }
+      ]
+    },
+    {
+      "id": "siriss",
+      "name": "Siriss",
+      "shareName": "en siriss",
+      "emoji": null,
+      "description": "Du er pratsom, musikalsk og blir ekstra livlig når kvelden kommer. Det er umulig å ikke høre at du er i rommet.",
+      "funFact": "Jo varmere det er, jo raskere synger sirissen.",
+      "image": "images/2026-10-17/siriss.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Har rytme i kroppen."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        },
+        {
+          "title": "Livlig",
+          "text": "Våkner til om kvelden."
+        },
+        {
+          "title": "Kjent",
+          "text": "Alle kjenner igjen deg."
+        }
+      ]
+    },
+    {
+      "id": "tordivel",
+      "name": "Tordivel",
+      "shareName": "en tordivel",
+      "emoji": null,
+      "description": "Du er praktisk, robust og har en god dose humor. Du tar tak i det andre helst vil unngå, og gjør det med et smil.",
+      "funFact": "Tordivelen er en møkkbille som graver ganger og drar møkk ned i jorda som mat til larvene sine.",
+      "image": "images/2026-10-17/tordivel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Humoristisk",
+          "text": "Ler av det meste."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Står støtt i livet."
+        }
+      ]
+    },
+    {
+      "id": "vandrendepinne",
+      "name": "Vandrende pinne",
+      "shareName": "en vandrende pinne",
+      "emoji": null,
+      "description": "Du er tålmodig, rolig og legger merke til alt. Du trenger ikke å være midt i sentrum for å ha det fint.",
+      "funFact": "Hos noen arter av vandrende pinner kan hunnene legge egg som klekker uten at det finnes noen hann.",
+      "image": "images/2026-10-17/vandrendepinne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne litt."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser det andre overser."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingenting haster."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Stille, men viktig."
+        }
+      ]
+    },
+    {
+      "id": "oyenstikker",
+      "name": "Øyenstikker",
+      "shareName": "en øyenstikker",
+      "emoji": null,
+      "description": "Du er rask, skarp og alltid på vei et sted. Du ser muligheter før alle andre.",
+      "funFact": "Øyenstikkere fantes lenge før dinosaurene, og noen urtids-slektninger hadde vinger på rundt 70 cm.",
+      "image": "images/2026-10-17/oyenstikker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Kommer først fram."
+        },
+        {
+          "title": "Skarp",
+          "text": "Ser alt med én gang."
+        },
+        {
+          "title": "Modig",
+          "text": "Prøver nye ting."
+        },
+        {
+          "title": "Fri",
+          "text": "Trives i frisk luft."
+        }
+      ]
+    }
+  ]
+}
