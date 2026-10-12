@@ -1,0 +1,692 @@
+{
+  "id": "2026-10-18",
+  "date": "2026-10-18",
+  "title": "Hvilket møbel er du i dag?",
+  "intro": "Står du stødig, gynger du litt, eller vil du bare ligge? Svar på sju litt rare spørsmål og finn ut hvilket møbel du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor høyt ville du hoppet hvis ingen så på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt opp i taket",
+          "scores": {
+            "kontorstol": 2,
+            "saccosekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare litt, for sikkerhets skyld",
+          "scores": {
+            "krakk": 2,
+            "kommode": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg ville svevd i stedet",
+          "scores": {
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Akkurat like høyt som ellers",
+          "scores": {
+            "spisebord": 2,
+            "bokhylle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg ville heller rullet bortover gulvet",
+          "scores": {
+            "sofa": 2,
+            "lenestol": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ville sittet og heiet på de andre",
+          "scores": {
+            "lenestol": 2,
+            "gyngestol": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om parenteser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De er som små klemmer rundt ordene",
+          "scores": {
+            "sofa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg bruker dem altfor mye (som nå)",
+          "scores": {
+            "skrivebord": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt mistenkelige, hva skjuler de?",
+          "scores": {
+            "kommode": 2,
+            "lenestol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg foretrekker utropstegn!",
+          "scores": {
+            "kontorstol": 2,
+            "spisebord": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hva er en parentes?",
+          "scores": {
+            "hengekoye": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan spiser du en appelsin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skreller den i én lang spiral",
+          "scores": {
+            "skrivebord": 2,
+            "kommode": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I båter, pent på rekke",
+          "scores": {
+            "bokhylle": 2,
+            "spisebord": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Biter rett i den, skall og alt",
+          "scores": {
+            "saccosekk": 2,
+            "kontorstol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Deler den med alle rundt meg",
+          "scores": {
+            "sofa": 1,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sakte, én båt i timen",
+          "scores": {
+            "bokhylle": 2,
+            "seng": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lar noen andre skrelle den",
+          "scores": {
+            "hengekoye": 2,
+            "lenestol": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du finner en hemmelig dør. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rett inn",
+          "scores": {
+            "kontorstol": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Banker på først, høflig",
+          "scores": {
+            "lenestol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tegner et kart over den",
+          "scores": {
+            "skrivebord": 2,
+            "bokhylle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Henter alle vennene mine",
+          "scores": {
+            "sofa": 2,
+            "saccosekk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lukker den og forteller det til ingen",
+          "scores": {
+            "kommode": 2,
+            "seng": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken vei snur du deg når du snur deg rundt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alltid til venstre",
+          "scores": {
+            "krakk": 2,
+            "bokhylle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Alltid til høyre",
+          "scores": {
+            "spisebord": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg snurrer to ganger, for moro skyld",
+          "scores": {
+            "saccosekk": 2,
+            "gyngestol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det kommer an på dagen",
+          "scores": {
+            "gyngestol": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har aldri tenkt over det",
+          "scores": {
+            "seng": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går heller baklengs",
+          "scores": {
+            "kommode": 2,
+            "skrivebord": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva tenker du på når du ser på bølger?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hvor de kommer fra",
+          "scores": {
+            "bokhylle": 2,
+            "skrivebord": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ingenting, og det er deilig",
+          "scores": {
+            "hengekoye": 2,
+            "gyngestol": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Om jeg tør å bade",
+          "scores": {
+            "krakk": 2,
+            "kontorstol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "At jeg er litt sulten",
+          "scores": {
+            "saccosekk": 2,
+            "spisebord": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hvor mange det er, egentlig",
+          "scores": {
+            "seng": 1,
+            "lenestol": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du får bestemme hva som står på et veiskilt. Hva står det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Sakte, her bor det glade folk»",
+          "scores": {
+            "gyngestol": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Pause om 200 meter»",
+          "scores": {
+            "seng": 2,
+            "saccosekk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Snu! Du glemte noe»",
+          "scores": {
+            "spisebord": 2,
+            "kontorstol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Alt kommer til å gå bra»",
+          "scores": {
+            "lenestol": 1,
+            "seng": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Middag klokka fem»",
+          "scores": {
+            "kommode": 1,
+            "krakk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "«Vink til naboen»",
+          "scores": {
+            "skrivebord": 1,
+            "kontorstol": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sofa",
+      "name": "Sofa",
+      "shareName": "en sofa",
+      "emoji": null,
+      "description": "Du er varm, inkluderende og alltid klar for selskap. Hos deg er det plass til en til, og ingen går hjem uten å ha ledd.",
+      "funFact": "Ordet sofa kommer fra arabisk «suffa», som betyr en benk eller en opphøyd sitteplass.",
+      "image": "images/2026-10-18/sofa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Myk",
+          "text": "Tar imot med åpne armer."
+        },
+        {
+          "title": "Koselig",
+          "text": "Best med pledd."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der for deg."
+        }
+      ]
+    },
+    {
+      "id": "lenestol",
+      "name": "Lenestol",
+      "shareName": "en lenestol",
+      "emoji": null,
+      "description": "Du er rolig, klok og en fantastisk lytter. Folk kommer til deg når de trenger et godt råd og en pause.",
+      "funFact": "Den kjente «Egget»-stolen ble tegnet av den danske arkitekten Arne Jacobsen i 1958.",
+      "image": "images/2026-10-18/lenestol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører det som ikke sies."
+        },
+        {
+          "title": "Stødig",
+          "text": "Sitter godt i det."
+        }
+      ]
+    },
+    {
+      "id": "gyngestol",
+      "name": "Gyngestol",
+      "shareName": "en gyngestol",
+      "emoji": null,
+      "description": "Du er mild, tålmodig og har din egen rytme. Du vet at de beste tingene ofte skjer helt sakte.",
+      "funFact": "Den berømte gyngestolen av bøyd tre fra Thonet ble laget allerede på 1860-tallet.",
+      "image": "images/2026-10-18/gyngestol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Mild",
+          "text": "Varm på en stille måte."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Følger din egen takt."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gode gamle minner."
+        }
+      ]
+    },
+    {
+      "id": "seng",
+      "name": "Seng",
+      "shareName": "en seng",
+      "emoji": null,
+      "description": "Du er drømmende, myk og full av fantasi. Du vet at hvile er viktig, og du gjør alle rundt deg litt roligere.",
+      "funFact": "Vi tilbringer omtrent en tredjedel av livet med å sove.",
+      "image": "images/2026-10-18/seng.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Fantasien går fritt."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Uthvilt",
+          "text": "Kjenner verdien av pauser."
+        },
+        {
+          "title": "Trygg",
+          "text": "Et godt sted å lande."
+        }
+      ]
+    },
+    {
+      "id": "hengekoye",
+      "name": "Hengekøye",
+      "shareName": "en hengekøye",
+      "emoji": null,
+      "description": "Du er avslappet, eventyrlysten og tar livet som det kommer. Du finner alltid det fineste stedet å henge.",
+      "funFact": "Ordet hengekøye på mange språk kommer fra taíno-folket i Karibia, som kalte den «hamaca».",
+      "image": "images/2026-10-18/hengekoye.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingenting haster i dag."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Trives under åpen himmel."
+        },
+        {
+          "title": "Fri",
+          "text": "Går dit vinden blåser."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler med hele kroppen."
+        }
+      ]
+    },
+    {
+      "id": "bokhylle",
+      "name": "Bokhylle",
+      "shareName": "en bokhylle",
+      "emoji": null,
+      "description": "Du er nysgjerrig, kunnskapsrik og full av historier. Folk spør deg om alt, og du har nesten alltid et svar.",
+      "funFact": "Biblioteket i Alexandria oppbevarte tekstene sine som papyrusruller, ikke som bøker med sider.",
+      "image": "images/2026-10-18/bokhylle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Kunnskapsrik",
+          "text": "Full av gode historier."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne det du vet."
+        }
+      ]
+    },
+    {
+      "id": "kommode",
+      "name": "Kommode",
+      "shareName": "en kommode",
+      "emoji": null,
+      "description": "Du er ryddig, hemmelighetsfull og overraskende morsom. Bak hver skuff hos deg finnes det noe uventet.",
+      "funFact": "Ordet kommode kommer fra fransk «commode», som betyr praktisk eller beleilig.",
+      "image": "images/2026-10-18/kommode.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Har system på alt."
+        },
+        {
+          "title": "Hemmelig",
+          "text": "Gjemmer små overraskelser."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser ting i stillhet."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder på det viktige."
+        }
+      ]
+    },
+    {
+      "id": "spisebord",
+      "name": "Spisebord",
+      "shareName": "et spisebord",
+      "emoji": null,
+      "description": "Du er samlende, generøs og elsker lange samtaler. Der du er, samles folk, og ingen går sultne hjem.",
+      "funFact": "Ordet bord betydde opprinnelig planke, og det er derfor vi sier «om bord» på en båt.",
+      "image": "images/2026-10-18/spisebord.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Samlende",
+          "text": "Får alle til å møtes."
+        },
+        {
+          "title": "Generøs",
+          "text": "Deler alltid maten."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Elsker lange samtaler."
+        },
+        {
+          "title": "Solid",
+          "text": "Står støtt hver dag."
+        }
+      ]
+    },
+    {
+      "id": "krakk",
+      "name": "Krakk",
+      "shareName": "en krakk",
+      "emoji": null,
+      "description": "Du er enkel, praktisk og alltid til hjelp. Du trenger ikke mye for å være fornøyd, og du hjelper folk å nå høyere.",
+      "funFact": "En krakk med tre bein vakler aldri, fordi tre punkter alltid ligger i samme plan.",
+      "image": "images/2026-10-18/krakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Løfter andre opp."
+        },
+        {
+          "title": "Stødig",
+          "text": "Vakler aldri."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Stor i det små."
+        }
+      ]
+    },
+    {
+      "id": "saccosekk",
+      "name": "Saccosekk",
+      "shareName": "en saccosekk",
+      "emoji": null,
+      "description": "Du er leken, fleksibel og helt umulig å være sur sammen med. Du tilpasser deg alt og alle, og det blir alltid gøy.",
+      "funFact": "Den første saccosekken, «Sacco», ble laget i Italia i 1968 og selges fortsatt i dag.",
+      "image": "images/2026-10-18/saccosekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Gjør alt til lek."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser deg alt."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen fine manerer her."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        }
+      ]
+    },
+    {
+      "id": "skrivebord",
+      "name": "Skrivebord",
+      "shareName": "et skrivebord",
+      "emoji": null,
+      "description": "Du er kreativ, målrettet og full av planer. Du har alltid et nytt prosjekt på gang, og du fullfører faktisk de fleste.",
+      "funFact": "Skrivebordet i Det ovale kontor er laget av tømmer fra det britiske skipet HMS Resolute.",
+      "image": "images/2026-10-18/skrivebord.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Alltid nye ideer."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vet hvor du skal."
+        },
+        {
+          "title": "Flittig",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Planlegger",
+          "text": "Lister for alt."
+        }
+      ]
+    },
+    {
+      "id": "kontorstol",
+      "name": "Kontorstol",
+      "shareName": "en kontorstol",
+      "emoji": null,
+      "description": "Du er rask, energisk og alltid på farten. Du snurrer fra det ene til det andre og sprer god stemning underveis.",
+      "funFact": "Charles Darwin satte hjul på stolen sin for å komme raskere rundt mellom prøvene sine.",
+      "image": "images/2026-10-18/kontorstol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart hele dagen."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid først ute."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja til alt."
+        },
+        {
+          "title": "Smittende",
+          "text": "Sprer god stemning."
+        }
+      ]
+    }
+  ]
+}

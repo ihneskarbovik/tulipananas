@@ -1,0 +1,691 @@
+{
+  "id": "2026-10-19",
+  "date": "2026-10-19",
+  "title": "Hvilken dinosaur er du i dag?",
+  "intro": "Brøler du, tramper du eller passer du på eggene dine? Svar på sju litt rare spørsmål og finn ut hvilken dinosaur du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor fort spiser du en pose rosiner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én rosin i minuttet",
+          "scores": {
+            "diplodocus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hele posen på ti sekunder",
+          "scores": {
+            "tyrannosaurus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg teller dem først",
+          "scores": {
+            "iguanodon": 2,
+            "ankylosaurus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg deler ut halvparten",
+          "scores": {
+            "oviraptor": 2,
+            "brachiosaurus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sorterer dem etter størrelse",
+          "scores": {
+            "parasaurolophus": 2,
+            "triceratops": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker dem ikke, men spiser dem likevel",
+          "scores": {
+            "pachycephalosaurus": 2,
+            "spinosaurus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan bretter du et håndkle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I perfekte firkanter",
+          "scores": {
+            "iguanodon": 2,
+            "stegosaurus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ruller det, som på et hotell",
+          "scores": {
+            "spinosaurus": 2,
+            "velociraptor": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg krøller det sammen og håper",
+          "scores": {
+            "pachycephalosaurus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Til en svane, selvfølgelig",
+          "scores": {
+            "parasaurolophus": 2,
+            "oviraptor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det får henge over en stol",
+          "scores": {
+            "brachiosaurus": 2,
+            "diplodocus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan får du andre til å le?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager rare ansikter",
+          "scores": {
+            "pachycephalosaurus": 1,
+            "parasaurolophus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Forteller en veldig lang historie",
+          "scores": {
+            "diplodocus": 2,
+            "brachiosaurus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Snubler litt med vilje",
+          "scores": {
+            "ankylosaurus": 2,
+            "triceratops": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hermer etter noen",
+          "scores": {
+            "velociraptor": 2,
+            "spinosaurus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En dårlig vits, sagt veldig sakte",
+          "scores": {
+            "stegosaurus": 2,
+            "iguanodon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ler først, så ler alle",
+          "scores": {
+            "tyrannosaurus": 2,
+            "oviraptor": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan kommer du deg over en bekk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper over i ett byks",
+          "scores": {
+            "velociraptor": 2,
+            "pachycephalosaurus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leter etter steiner å gå på",
+          "scores": {
+            "iguanodon": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bygger en liten bro",
+          "scores": {
+            "triceratops": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vasser rett gjennom",
+          "scores": {
+            "ankylosaurus": 2,
+            "triceratops": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går rundt, uansett hvor langt det er",
+          "scores": {
+            "diplodocus": 2,
+            "stegosaurus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Synger til noen kommer og hjelper",
+          "scores": {
+            "tyrannosaurus": 2,
+            "spinosaurus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor er det beste gjemmestedet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bak gardinen, med føttene synlige",
+          "scores": {
+            "parasaurolophus": 2,
+            "brachiosaurus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inni et skap, helt stille",
+          "scores": {
+            "ankylosaurus": 2,
+            "oviraptor": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Oppi et tre",
+          "scores": {
+            "velociraptor": 2,
+            "diplodocus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg gjemmer meg ikke, jeg leter",
+          "scores": {
+            "tyrannosaurus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rett foran nesen deres",
+          "scores": {
+            "pachycephalosaurus": 2,
+            "stegosaurus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange hull skal det være i en ost?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, takk",
+          "scores": {
+            "triceratops": 2,
+            "ankylosaurus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre store",
+          "scores": {
+            "stegosaurus": 2,
+            "tyrannosaurus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Så mange som mulig",
+          "scores": {
+            "spinosaurus": 2,
+            "parasaurolophus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ett, akkurat i midten",
+          "scores": {
+            "iguanodon": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hullene er det beste med osten",
+          "scores": {
+            "brachiosaurus": 1,
+            "velociraptor": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer an på hvem som skal spise den",
+          "scores": {
+            "oviraptor": 2,
+            "pachycephalosaurus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du bretter et papirfly. Hvor sender du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett ut av vinduet",
+          "scores": {
+            "spinosaurus": 2,
+            "pachycephalosaurus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Så langt som det går",
+          "scores": {
+            "brachiosaurus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Til noen jeg liker",
+          "scores": {
+            "oviraptor": 2,
+            "stegosaurus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen steder, jeg vil bare beholde det",
+          "scores": {
+            "ankylosaurus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lager tjue til og holder flyshow",
+          "scores": {
+            "triceratops": 2,
+            "diplodocus": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "tyrannosaurus",
+      "name": "Tyrannosaurus",
+      "shareName": "en tyrannosaurus",
+      "emoji": null,
+      "description": "Du er selvsikker, modig og merkes godt når du kommer inn i et rom. Du sier det du mener, men har et mykere hjerte enn folk tror.",
+      "funFact": "En tyrannosaurus kunne ha tenner som var omtrent like lange som en banan.",
+      "image": "images/2026-10-19/tyrannosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Går først inn."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Høylytt",
+          "text": "Blir alltid hørt."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "triceratops",
+      "name": "Triceratops",
+      "shareName": "en triceratops",
+      "emoji": null,
+      "description": "Du er trofast, beskyttende og står støtt på det du mener. Vennene dine vet at du alltid stiller opp for dem.",
+      "funFact": "Hodeskallen til en triceratops kunne bli over to meter lang, blant de største hos noe landdyr.",
+      "image": "images/2026-10-19/triceratops.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på flokken."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke lett."
+        },
+        {
+          "title": "Rolig",
+          "text": "Til noen tirrer deg."
+        }
+      ]
+    },
+    {
+      "id": "stegosaurus",
+      "name": "Stegosaurus",
+      "shareName": "en stegosaurus",
+      "emoji": null,
+      "description": "Du er rolig, sjarmerende og helt deg selv. Du tar ting i ditt eget tempo og har en stil ingen andre har.",
+      "funFact": "Tyrannosaurus levde nærmere i tid oss mennesker enn den levde Stegosaurus.",
+      "image": "images/2026-10-19/stegosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingenting stresser deg."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "På din egen måte."
+        },
+        {
+          "title": "Unik",
+          "text": "Stil ingen kan kopiere."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Unngår all krangling."
+        }
+      ]
+    },
+    {
+      "id": "brachiosaurus",
+      "name": "Brachiosaurus",
+      "shareName": "en brachiosaurus",
+      "emoji": null,
+      "description": "Du er snill, raus og har god oversikt. Du ser det store bildet og hjelper andre å se det også.",
+      "funFact": "Brachiosaurus hadde lengre forbein enn bakbein, litt som en giraff.",
+      "image": "images/2026-10-19/brachiosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Raus mot alle."
+        },
+        {
+          "title": "Oversikt",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Står støtt i storm."
+        },
+        {
+          "title": "Høy",
+          "text": "Strekker seg langt."
+        }
+      ]
+    },
+    {
+      "id": "velociraptor",
+      "name": "Velociraptor",
+      "shareName": "en velociraptor",
+      "emoji": null,
+      "description": "Du er smart, rask og full av gode ideer. Du løser problemer før andre har rukket å se dem.",
+      "funFact": "En velociraptor var omtrent på størrelse med en kalkun og hadde fjær.",
+      "image": "images/2026-10-19/velociraptor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Tenker tre steg frem."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid først i mål."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Best sammen med andre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Snuser på alt nytt."
+        }
+      ]
+    },
+    {
+      "id": "ankylosaurus",
+      "name": "Ankylosaurus",
+      "shareName": "en ankylosaurus",
+      "emoji": null,
+      "description": "Du er tøff utenpå og myk inni. Du tåler mye, og de som kjenner deg, vet hvor varm du egentlig er.",
+      "funFact": "Ankylosaurus hadde en stor kølle av bein ytterst på halen.",
+      "image": "images/2026-10-19/ankylosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler det meste."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk innerst inne."
+        },
+        {
+          "title": "Trygg",
+          "text": "Et godt skjold."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge bein på bakken."
+        }
+      ]
+    },
+    {
+      "id": "parasaurolophus",
+      "name": "Parasaurolophus",
+      "shareName": "en parasaurolophus",
+      "emoji": null,
+      "description": "Du er musikalsk, pratsom og elsker å underholde. Det er sjelden stille der du er, og det er helt greit.",
+      "funFact": "Den hule kammen på hodet til en parasaurolophus kunne trolig lage dype, trompetlignende lyder.",
+      "image": "images/2026-10-19/parasaurolophus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Nynner hele dagen."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Alltid noe å fortelle."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Gjør dagen morsommere."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker store flokker."
+        }
+      ]
+    },
+    {
+      "id": "diplodocus",
+      "name": "Diplodocus",
+      "shareName": "en diplodocus",
+      "emoji": null,
+      "description": "Du er tålmodig, avslappet og tenker langsiktig. Du har god tid, og det gjør deg til en fantastisk venn.",
+      "funFact": "En diplodocus kunne bli over 25 meter lang, og det meste av den var hals og hale.",
+      "image": "images/2026-10-19/diplodocus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Lar ting ordne seg."
+        },
+        {
+          "title": "Langsiktig",
+          "text": "Tenker på morgendagen."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        }
+      ]
+    },
+    {
+      "id": "spinosaurus",
+      "name": "Spinosaurus",
+      "shareName": "en spinosaurus",
+      "emoji": null,
+      "description": "Du er eventyrlysten, uvanlig og trives der andre ikke tør. Du finner alltid din egen vei.",
+      "funFact": "Spinosaurus var trolig den lengste rovdinosauren, og den tilbrakte mye tid i vann.",
+      "image": "images/2026-10-19/spinosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uvanlig",
+          "text": "Ingen er som deg."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Tester nye ting."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør der andre nøler."
+        },
+        {
+          "title": "Fri",
+          "text": "Finner egen vei."
+        }
+      ]
+    },
+    {
+      "id": "iguanodon",
+      "name": "Iguanodon",
+      "shareName": "en iguanodon",
+      "emoji": null,
+      "description": "Du er praktisk, pålitelig og en ekte pioner. Du gjør ting skikkelig, og ofte er du den første som prøver.",
+      "funFact": "Iguanodon var en av de aller første dinosaurene som fikk et navn, i 1825.",
+      "image": "images/2026-10-19/iguanodon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Løser ting skikkelig."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder alltid ord."
+        },
+        {
+          "title": "Pioner",
+          "text": "Først ute med alt."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Har orden på sakene."
+        }
+      ]
+    },
+    {
+      "id": "pachycephalosaurus",
+      "name": "Pachycephalosaurus",
+      "shareName": "en pachycephalosaurus",
+      "emoji": null,
+      "description": "Du er sta, leken og full av energi. Når du har bestemt deg, er det ingen som kan stoppe deg.",
+      "funFact": "Hodeskallen til en pachycephalosaurus kunne være rundt 25 centimeter tykk på toppen.",
+      "image": "images/2026-10-19/pachycephalosaurus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sta",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for tull."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart fremover."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        }
+      ]
+    },
+    {
+      "id": "oviraptor",
+      "name": "Oviraptor",
+      "shareName": "en oviraptor",
+      "emoji": null,
+      "description": "Du er omsorgsfull, varm og passer på dem du er glad i. Folk misforstår deg av og til, men de som kjenner deg, vet bedre.",
+      "funFact": "Navnet oviraptor betyr «eggtyv», men dyret ble trolig funnet mens det passet sine egne egg.",
+      "image": "images/2026-10-19/oviraptor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir de beste klemmene."
+        },
+        {
+          "title": "Misforstått",
+          "text": "Bedre enn ryktet."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved din side."
+        }
+      ]
+    }
+  ]
+}
