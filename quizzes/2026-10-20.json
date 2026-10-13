@@ -1,0 +1,712 @@
+{
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "title": "Hvilket kjøretøy er du i dag?",
+  "intro": "Tuter du, triller du eller svever du stille forbi? Svar på sju litt rare spørsmål og finn ut hvilket kjøretøy du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du får et kjempestort gresskar. Hva gjør du med det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager suppe til hele gata",
+          "scores": {
+            "buss": 2,
+            "trikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skjærer ut et fjes som ligner på meg",
+          "scores": {
+            "sparkesykkel": 2,
+            "luftballong": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter meg oppi det",
+          "scores": {
+            "luftballong": 2,
+            "ubat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ruller det ned en bakke",
+          "scores": {
+            "gravemaskin": 2,
+            "sykkel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir det et navn og tar vare på det",
+          "scores": {
+            "traktor": 2,
+            "seilbat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Teller frøene, alle sammen",
+          "scores": {
+            "helikopter": 2,
+            "tog": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen nyser tre ganger på rad. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prosit, prosit, prosit",
+          "scores": {
+            "tog": 2,
+            "trikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter spent på den fjerde",
+          "scores": {
+            "ubat": 2,
+            "luftballong": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rekker dem et lommetørkle før den andre",
+          "scores": {
+            "helikopter": 2,
+            "buss": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nyser tilbake, av høflighet",
+          "scores": {
+            "sykkel": 2,
+            "sparkesykkel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Begynner å fnise og klarer ikke stoppe",
+          "scores": {
+            "gravemaskin": 2,
+            "luftballong": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan smører du en brødskive?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt ut i alle kantene",
+          "scores": {
+            "tog": 2,
+            "traktor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En klatt i midten, så får det gå",
+          "scores": {
+            "seilbat": 2,
+            "sykkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tykt. Veldig tykt.",
+          "scores": {
+            "gravemaskin": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lager et mønster",
+          "scores": {
+            "fly": 2,
+            "luftballong": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg smører en til den som sitter ved siden av også",
+          "scores": {
+            "trikk": 2,
+            "helikopter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med baksiden av skjeen, i stillhet",
+          "scores": {
+            "ubat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags tegning henger på kjøleskapet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et hus med en sol i hjørnet",
+          "scores": {
+            "trikk": 2,
+            "traktor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et monster med elleve bein",
+          "scores": {
+            "gravemaskin": 2,
+            "sparkesykkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare streker, men det er kunst",
+          "scores": {
+            "luftballong": 2,
+            "seilbat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En lapp ingen husker hva betyr",
+          "scores": {
+            "ubat": 2,
+            "sykkel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et bilde av hele familien, også naboen",
+          "scores": {
+            "buss": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting. Kjøleskapet skal være pent.",
+          "scores": {
+            "fly": 2,
+            "tog": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du med en sitron?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lukter lenge på den",
+          "scores": {
+            "seilbat": 2,
+            "ubat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Biter rett i den og lager grimase",
+          "scores": {
+            "sparkesykkel": 2,
+            "fly": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager sitronbrus til alle",
+          "scores": {
+            "buss": 2,
+            "helikopter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tegner et fjes på den",
+          "scores": {
+            "trikk": 2,
+            "luftballong": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver å sjonglere med den",
+          "scores": {
+            "sykkel": 2,
+            "sparkesykkel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Graver den ned for å se om det blir et tre",
+          "scores": {
+            "traktor": 2,
+            "gravemaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor lenge klarer du å stå på ett bein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ti sekunder, så velter jeg",
+          "scores": {
+            "sparkesykkel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et helt minutt, med armene ut",
+          "scores": {
+            "seilbat": 2,
+            "sykkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Så lenge det trengs",
+          "scores": {
+            "traktor": 2,
+            "tog": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har aldri tenkt på å prøve",
+          "scores": {
+            "ubat": 2,
+            "trikk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg står på ett bein akkurat nå",
+          "scores": {
+            "helikopter": 2,
+            "luftballong": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lenger enn deg, vil jeg tro",
+          "scores": {
+            "fly": 2,
+            "gravemaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du har hatt helt rett. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hva var det jeg sa?",
+          "scores": {
+            "fly": 2,
+            "gravemaskin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ingenting, jeg bare smiler",
+          "scores": {
+            "ubat": 1,
+            "seilbat": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tar en liten seiersdans",
+          "scores": {
+            "sparkesykkel": 1,
+            "luftballong": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det var nok flaks",
+          "scores": {
+            "trikk": 2,
+            "sykkel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skal vi gjøre det sammen neste gang?",
+          "scores": {
+            "buss": 1,
+            "helikopter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg noterer det, for sikkerhets skyld",
+          "scores": {
+            "tog": 2,
+            "traktor": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "buss",
+      "name": "Buss",
+      "shareName": "en buss",
+      "emoji": null,
+      "description": "Du er sosial og inkluderende, og det er alltid plass til én til hos deg. Du liker best når alle kommer seg trygt fram sammen.",
+      "funFact": "Verdens første rutebuss med motor begynte å kjøre i Tyskland i 1895.",
+      "image": "images/2026-10-20/buss.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Liker mange rundt seg."
+        },
+        {
+          "title": "Raus",
+          "text": "Alltid plass til én."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer igjen og igjen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder jevn fart."
+        }
+      ]
+    },
+    {
+      "id": "traktor",
+      "name": "Traktor",
+      "shareName": "en traktor",
+      "emoji": null,
+      "description": "Du er arbeidsom, jordnær og stødig som fjell. Du gjør jobben uten mye styr, og folk vet at de kan stole på deg.",
+      "funFact": "Mange traktorer har mye større bakhjul enn forhjul, for å få godt grep i jorda.",
+      "image": "images/2026-10-20/traktor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Stødig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Liker ekte ting."
+        },
+        {
+          "title": "Sterk",
+          "text": "Drar lasset for flere."
+        }
+      ]
+    },
+    {
+      "id": "tog",
+      "name": "Tog",
+      "shareName": "et tog",
+      "emoji": null,
+      "description": "Du er punktlig, planlagt og vet nøyaktig hvor du skal. Du liker gode rutiner, men nyter også utsikten underveis.",
+      "funFact": "Bergensbanen er en av Nord-Europas høyeste jernbaner, med høyeste punkt over 1200 meter over havet.",
+      "image": "images/2026-10-20/tog.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Punktlig",
+          "text": "Alltid i rute."
+        },
+        {
+          "title": "Planlagt",
+          "text": "Har tenkt på alt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går lange strekk."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Folk stoler på deg."
+        }
+      ]
+    },
+    {
+      "id": "sykkel",
+      "name": "Sykkel",
+      "shareName": "en sykkel",
+      "emoji": null,
+      "description": "Du er fri, enkel og full av energi. Du trenger ikke mye for å ha det bra, bare litt vind i håret.",
+      "funFact": "De aller første syklene hadde ingen pedaler, så man sparket seg fram med føttene.",
+      "image": "images/2026-10-20/sykkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Drar når du vil."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite for glede."
+        },
+        {
+          "title": "Balansert",
+          "text": "Holder deg på hjul."
+        }
+      ]
+    },
+    {
+      "id": "seilbat",
+      "name": "Seilbåt",
+      "shareName": "en seilbåt",
+      "emoji": null,
+      "description": "Du er drømmende og rolig, og lar ofte vinden bestemme litt. Du finner alltid en vei fram, selv om den går i sikksakk.",
+      "funFact": "En seilbåt kan seile mot vinden ved å krysse fram og tilbake på skrå.",
+      "image": "images/2026-10-20/seilbat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene seiler avsted."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar ting ta tid."
+        },
+        {
+          "title": "Smart",
+          "text": "Bruker vinden riktig."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på bris."
+        }
+      ]
+    },
+    {
+      "id": "fly",
+      "name": "Fly",
+      "shareName": "et fly",
+      "emoji": null,
+      "description": "Du er eventyrlysten og har store planer. Du liker å se ting ovenfra og får lyst til å reise bare du hører ordet ferie.",
+      "funFact": "Brødrene Wright sin første motorflytur i 1903 varte bare i tolv sekunder.",
+      "image": "images/2026-10-20/fly.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tar store sjanser."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt opp."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort fram."
+        }
+      ]
+    },
+    {
+      "id": "helikopter",
+      "name": "Helikopter",
+      "shareName": "et helikopter",
+      "emoji": null,
+      "description": "Du er hjelpsom og rask, og dukker opp akkurat når noen trenger deg. Du kan snu på en femøring og takler det meste.",
+      "funFact": "Et helikopter kan stå helt stille i lufta. Det kalles å hovre.",
+      "image": "images/2026-10-20/helikopter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Kommer når noen roper."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Snur på femøringen."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Tenker fort."
+        },
+        {
+          "title": "Våken",
+          "text": "Ser det andre overser."
+        }
+      ]
+    },
+    {
+      "id": "sparkesykkel",
+      "name": "Sparkesykkel",
+      "shareName": "en sparkesykkel",
+      "emoji": null,
+      "description": "Du er leken, spontan og litt uforutsigbar. Du sier ja før du har tenkt deg om, og det blir som regel gøy.",
+      "funFact": "Sammenleggbare sparkesykler i aluminium ble enormt populære rundt år 2000.",
+      "image": "images/2026-10-20/sparkesykkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alt kan bli lek."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Liten",
+          "text": "Men full av fart."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får andre til å le."
+        }
+      ]
+    },
+    {
+      "id": "trikk",
+      "name": "Trikk",
+      "shareName": "en trikk",
+      "emoji": null,
+      "description": "Du er koselig og trofast, og liker at ting er som de pleier. Du kjenner nabolaget ditt godt og hilser på alle.",
+      "funFact": "Trondheim har en av verdens nordligste trikkelinjer, Gråkallbanen.",
+      "image": "images/2026-10-20/trikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm å være rundt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder seg til sporet."
+        },
+        {
+          "title": "Lokal",
+          "text": "Kjenner alle i nabolaget."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Liker det gamle."
+        }
+      ]
+    },
+    {
+      "id": "ubat",
+      "name": "Ubåt",
+      "shareName": "en ubåt",
+      "emoji": null,
+      "description": "Du er rolig, dyp og litt hemmelighetsfull. Du tenker mye før du sier noe, og det du sier er verdt å høre på.",
+      "funFact": "En ubåt fyller tanker med vann for å synke og blåser dem fulle av luft for å stige.",
+      "image": "images/2026-10-20/ubat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Stille",
+          "text": "Trenger ikke mye bråk."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker det skjulte."
+        },
+        {
+          "title": "Klok",
+          "text": "Velger ordene nøye."
+        }
+      ]
+    },
+    {
+      "id": "luftballong",
+      "name": "Luftballong",
+      "shareName": "en luftballong",
+      "emoji": null,
+      "description": "Du er fantasifull, lett til sinns og full av farger. Du svever gjennom dagen og gjør andre glade bare ved å være der.",
+      "funFact": "De første passasjerene i en varmluftsballong i 1783 var en sau, en and og en hane.",
+      "image": "images/2026-10-20/luftballong.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fantasifull",
+          "text": "Hodet fullt av ideer."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp himmelen."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting med ro."
+        }
+      ]
+    },
+    {
+      "id": "gravemaskin",
+      "name": "Gravemaskin",
+      "shareName": "en gravemaskin",
+      "emoji": null,
+      "description": "Du er handlekraftig og nysgjerrig, og liker å komme til bunns i ting. Du gjør gjerne litt rot, men det blir alltid noe fint til slutt.",
+      "funFact": "Mange gravemaskiner kjører på belter i stedet for hjul, slik at de ikke synker ned i gjørma.",
+      "image": "images/2026-10-20/gravemaskin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Handlekraftig",
+          "text": "Setter i gang straks."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Graver etter svar."
+        },
+        {
+          "title": "Sterk",
+          "text": "Løfter tunge ting."
+        },
+        {
+          "title": "Byggende",
+          "text": "Lager noe nytt."
+        }
+      ]
+    }
+  ]
+}
