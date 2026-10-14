@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "title": "Hvilken idrett er du i dag?",
+  "intro": "Er du en seig skiløper, en kvikk ping-pong-ball eller en rolig curlingstein? Svar på sju litt rare spørsmål og finn ut hvilken idrett du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken farge skal kjøleskapet ditt ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mintgrønn",
+          "scores": {
+            "svomming": 2,
+            "golf": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knallgul med prikker",
+          "scores": {
+            "bordtennis": 2,
+            "fotball": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Helt hvitt, som et nytt ark",
+          "scores": {
+            "sjakk": 2,
+            "curling": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mørkeblått med stjerner",
+          "scores": {
+            "skoyter": 2,
+            "orientering": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Oransje, så det synes fra gangen",
+          "scores": {
+            "basketball": 2,
+            "tennis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skogsgrønt, som en mosetue",
+          "scores": {
+            "langrenn": 2,
+            "bueskyting": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvor mange skjell trenger man i en skjellsamling?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett, men det må være perfekt",
+          "scores": {
+            "bueskyting": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Akkurat 27",
+          "scores": {
+            "curling": 2,
+            "skoyter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Alle jeg finner, i alle lommene",
+          "scores": {
+            "orientering": 2,
+            "basketball": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen, de får ligge der de ligger",
+          "scores": {
+            "langrenn": 2,
+            "svomming": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hel bøtte, så alle kan få",
+          "scores": {
+            "fotball": 2,
+            "bordtennis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tre store og to små, sortert",
+          "scores": {
+            "golf": 2,
+            "tennis": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan rydder du skrivebordet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alt ligger i rette vinkler",
+          "scores": {
+            "sjakk": 2,
+            "golf": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Feier alt ned i en skuff på tre sekunder",
+          "scores": {
+            "bordtennis": 2,
+            "basketball": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg rydder ikke, jeg vet hvor alt er",
+          "scores": {
+            "orientering": 2,
+            "langrenn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tørker støv i små, runde sirkler",
+          "scores": {
+            "curling": 2,
+            "skoyter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter på musikk og danser mens jeg rydder",
+          "scores": {
+            "tennis": 2,
+            "fotball": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Én ting om gangen, helt rolig",
+          "scores": {
+            "svomming": 2,
+            "bueskyting": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du baker brød. Hvor mye mel havner på gulvet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingenting, jeg måler med teskje",
+          "scores": {
+            "bueskyting": 2,
+            "curling": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et lite fjell, men brødet blir godt",
+          "scores": {
+            "langrenn": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mel overalt, også på katten",
+          "scores": {
+            "fotball": 2,
+            "basketball": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg blåser det vekk som en sky",
+          "scores": {
+            "skoyter": 2,
+            "svomming": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg baker ikke, jeg kjøper boller",
+          "scores": {
+            "golf": 2,
+            "tennis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg kaster deigen opp i lufta for moro skyld",
+          "scores": {
+            "bordtennis": 2,
+            "orientering": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan sitter du helst på en stol?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett i ryggen, som en konge",
+          "scores": {
+            "sjakk": 2,
+            "skoyter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med beina over armlenet",
+          "scores": {
+            "basketball": 2,
+            "fotball": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med beina i kryss og en kopp te",
+          "scores": {
+            "curling": 2,
+            "golf": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vippende på to stolbein",
+          "scores": {
+            "bordtennis": 2,
+            "tennis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Baklengs, med armene på stolryggen",
+          "scores": {
+            "orientering": 2,
+            "langrenn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sitter heller på gulvet ved siden av",
+          "scores": {
+            "svomming": 2,
+            "bueskyting": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du finner en gammel lapp i jakkelomma. Hva står det på den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Husk: kjøp mer teip»",
+          "scores": {
+            "tennis": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En tegning av en fornøyd potet",
+          "scores": {
+            "fotball": 2,
+            "bordtennis": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Du er fin. Hilsen meg»",
+          "scores": {
+            "skoyter": 2,
+            "svomming": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et telefonnummer jeg ikke kjenner igjen",
+          "scores": {
+            "basketball": 2,
+            "orientering": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En liste med tolv ting, alle krysset av",
+          "scores": {
+            "bueskyting": 2,
+            "curling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare ordet «kanskje»",
+          "scores": {
+            "golf": 2,
+            "langrenn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva hvisker du til en potteplante?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Du klarer det, bare voks litt til»",
+          "scores": {
+            "fotball": 2,
+            "langrenn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Jeg har en hemmelighet, ikke si det til noen»",
+          "scores": {
+            "golf": 2,
+            "orientering": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg synger en liten vise",
+          "scores": {
+            "skoyter": 2,
+            "svomming": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Nå snur jeg deg mot vinduet, vær så god»",
+          "scores": {
+            "tennis": 2,
+            "curling": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Hei, kompis!»",
+          "scores": {
+            "basketball": 2,
+            "bordtennis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, vi forstår hverandre uten ord",
+          "scores": {
+            "bueskyting": 2,
+            "sjakk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "bordtennis",
+      "name": "Bordtennis",
+      "shareName": "bordtennis",
+      "emoji": null,
+      "description": "Du er rask, leken og full av små overraskelser. Det er umulig å kjede seg når du er i rommet.",
+      "funFact": "Bordtennis kalles også «ping-pong», etter lyden ballen lager mot bordet og racketen.",
+      "image": "images/2026-10-21/bordtennis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner moro overalt."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Reagerer på et blunk."
+        },
+        {
+          "title": "Munter",
+          "text": "Smitter med godt humør."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Overrasker alle hele tiden."
+        }
+      ]
+    },
+    {
+      "id": "svomming",
+      "name": "Svømming",
+      "shareName": "svømming",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og flyter med strømmen når det trengs. Folk rundt deg blir litt roligere bare av å være i nærheten.",
+      "funFact": "Butterfly er den yngste av de fire svømmeartene og ble egen OL-øvelse først i 1956.",
+      "image": "images/2026-10-21/svomming.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar én ting om gangen."
+        },
+        {
+          "title": "Fri",
+          "text": "Lar tankene flyte."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være nær."
+        }
+      ]
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "shareName": "tennis",
+      "emoji": null,
+      "description": "Du er stilig, kvikk og elsker en god frem-og-tilbake-samtale. Du har alltid et svar klart, og ofte et morsomt et.",
+      "funFact": "I tennis sier man «love» når en spiller har null poeng.",
+      "image": "images/2026-10-21/tennis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvikk",
+          "text": "Svarer alltid raskt."
+        },
+        {
+          "title": "Stilig",
+          "text": "Ser bra ut uansett."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Elsker en god samtale."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar utfordringer på strak arm."
+        }
+      ]
+    },
+    {
+      "id": "langrenn",
+      "name": "Langrenn",
+      "shareName": "langrenn",
+      "emoji": null,
+      "description": "Du er seig, rolig og har pust til å holde på lenge. Du kommer alltid fram, og du nyter turen underveis.",
+      "funFact": "Ordet «ski» kommer fra norsk og brukes i dag på mange språk rundt om i verden.",
+      "image": "images/2026-10-21/langrenn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Rolig",
+          "text": "Finner sitt eget tempo."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives best ute."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid med på tur."
+        }
+      ]
+    },
+    {
+      "id": "orientering",
+      "name": "Orientering",
+      "shareName": "orientering",
+      "emoji": null,
+      "description": "Du er nysgjerrig og elsker å finne nye veier, også der det ikke er noen sti. Du går deg sjelden vill, og hvis du gjør det, blir det et eventyr.",
+      "funFact": "Det første offentlige orienteringsløpet ble holdt i Norge i 1897.",
+      "image": "images/2026-10-21/orientering.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se hva som finnes."
+        },
+        {
+          "title": "Modig",
+          "text": "Går der ingen har gått."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Finner veien selv."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Gjør alt til en tur."
+        }
+      ]
+    },
+    {
+      "id": "curling",
+      "name": "Curling",
+      "shareName": "curling",
+      "emoji": null,
+      "description": "Du er nøye, koselig og tenker grundig gjennom hvert trekk. Du vet at små, rolige bevegelser kan gjøre stor forskjell.",
+      "funFact": "Mange av curlingsteinene i OL er laget av granitt fra den lille skotske øya Ailsa Craig.",
+      "image": "images/2026-10-21/curling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøye",
+          "text": "Ser alle små detaljer."
+        },
+        {
+          "title": "Koselig",
+          "text": "Har alltid kaffe klar."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Feier veien for andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser aldri unødig."
+        }
+      ]
+    },
+    {
+      "id": "sjakk",
+      "name": "Sjakk",
+      "shareName": "sjakk",
+      "emoji": null,
+      "description": "Du er gjennomtenkt og ser alltid noen trekk lenger fram enn andre. Du liker orden, gode planer og stille rom.",
+      "funFact": "En sjakkbonde som kommer helt over til motsatt side av brettet, kan bli forvandlet til en dronning.",
+      "image": "images/2026-10-21/sjakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker seg godt om."
+        },
+        {
+          "title": "Planlegger",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Stille",
+          "text": "Trives i ro."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på rett øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "shareName": "basketball",
+      "emoji": null,
+      "description": "Du er kul, sosial og har en energi som løfter hele gjengen. Du tar plass på en hyggelig måte og hopper gjerne litt høyere enn nødvendig.",
+      "funFact": "Da basketball ble funnet opp i 1891, brukte man fersken-kurver i stedet for nett.",
+      "image": "images/2026-10-21/basketball.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Rolig under press."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler hele gjengen."
+        },
+        {
+          "title": "Spretten",
+          "text": "Hopper av glede."
+        },
+        {
+          "title": "Raus",
+          "text": "Sender ballen videre."
+        }
+      ]
+    },
+    {
+      "id": "golf",
+      "name": "Golf",
+      "shareName": "golf",
+      "emoji": null,
+      "description": "Du er avslappet, tålmodig og nyter de små øyeblikkene. Du har ingen hast, men treffer ofte akkurat der du vil.",
+      "funFact": "En golfball har vanligvis mellom 300 og 500 små groper, som hjelper den å fly lenger.",
+      "image": "images/2026-10-21/golf.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Har aldri dårlig tid."
+        },
+        {
+          "title": "Presis",
+          "text": "Treffer der du sikter."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "God å gå tur med."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker gjerne litt ekstra."
+        }
+      ]
+    },
+    {
+      "id": "fotball",
+      "name": "Fotball",
+      "shareName": "fotball",
+      "emoji": null,
+      "description": "Du er sosial, full av energi og elsker å gjøre ting sammen med andre. Du jubler like høyt for andre som for deg selv.",
+      "funFact": "En klassisk fotball er sydd sammen av 32 lapper: 20 sekskanter og 12 femkanter.",
+      "image": "images/2026-10-21/fotball.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Best sammen med andre."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har alltid litt ekstra."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne gleden."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker en god spøk."
+        }
+      ]
+    },
+    {
+      "id": "bueskyting",
+      "name": "Bueskyting",
+      "shareName": "bueskyting",
+      "emoji": null,
+      "description": "Du er fokusert, stille og vet nøyaktig hva du vil. Når du bestemmer deg for noe, treffer du som regel midt i.",
+      "funFact": "I OL står bueskytterne 70 meter unna blinken de skal treffe.",
+      "image": "images/2026-10-21/bueskyting.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Ser bare målet."
+        },
+        {
+          "title": "Stille",
+          "text": "Trenger ikke mange ord."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Rolig",
+          "text": "Pust inn, pust ut."
+        }
+      ]
+    },
+    {
+      "id": "skoyter",
+      "name": "Skøyteløp",
+      "shareName": "skøyteløp",
+      "emoji": null,
+      "description": "Du glir lett gjennom dagen og gjør det vanskelige til å se enkelt ut. Du har stil, flyt og et lite glimt i øyet.",
+      "funFact": "De eldste skøytene vi kjenner til var laget av dyrebein, og er flere tusen år gamle.",
+      "image": "images/2026-10-21/skoyter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Gjør alt med stil."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort i gang."
+        },
+        {
+          "title": "Myk",
+          "text": "Glir rundt hindringer."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tenker vakre tanker."
+        }
+      ]
+    }
+  ]
+}
