@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "title": "Hvilket verktøy er du i dag?",
+  "intro": "Er du en bestemt hammer, en rolig vater eller en kreativ limpistol? Svar på sju litt rare spørsmål og finn ut hvilket verktøy du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor mange tannbørster er det riktige antallet å eie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én. Den har jeg hatt lenge.",
+          "scores": {
+            "hammer": 1,
+            "vater": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre, i tilfelle det skjer noe spennende",
+          "scores": {
+            "sag": 1,
+            "drill": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Én til hver ukedag, med navn",
+          "scores": {
+            "malebaand": 1,
+            "tommestokk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "To, en for sure dager og en for glade",
+          "scores": {
+            "skiftenokkel": 1,
+            "pensel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Så mange at de får en egen kopp",
+          "scores": {
+            "malerrull": 2,
+            "skrutrekker": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Én til meg og én til gjester som overnatter",
+          "scores": {
+            "limpistol": 2,
+            "tang": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva heter båten din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolige Rut",
+          "scores": {
+            "skrutrekker": 1,
+            "malerrull": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bestevenn",
+          "scores": {
+            "tang": 2,
+            "limpistol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stille Vann",
+          "scores": {
+            "vater": 2,
+            "hammer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Full Fart",
+          "scores": {
+            "drill": 2,
+            "sag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bestemors Stolthet",
+          "scores": {
+            "tommestokk": 2,
+            "malebaand": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Månestrek",
+          "scores": {
+            "pensel": 2,
+            "skiftenokkel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du kan gjøre én ting om til gelé. Hva velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Postkassen",
+          "scores": {
+            "sag": 2,
+            "pensel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En globus",
+          "scores": {
+            "malebaand": 2,
+            "skrutrekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Alle sokkene mine",
+          "scores": {
+            "skiftenokkel": 2,
+            "tang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hele lekeplassen",
+          "scores": {
+            "malerrull": 2,
+            "vater": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sofaen, så alle kan sitte i den sammen",
+          "scores": {
+            "limpistol": 2,
+            "drill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vekkerklokka",
+          "scores": {
+            "hammer": 1,
+            "tommestokk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva tar du med på piknik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Termos med kakao til alle",
+          "scores": {
+            "tang": 2,
+            "malerrull": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et ullteppe som er helt flatt",
+          "scores": {
+            "vater": 2,
+            "limpistol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En ball og masse energi",
+          "scores": {
+            "drill": 2,
+            "hammer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Matpakke i gammel blikkboks",
+          "scores": {
+            "tommestokk": 2,
+            "sag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En skissebok og blyant",
+          "scores": {
+            "pensel": 2,
+            "malebaand": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt av alt, i tilfelle",
+          "scores": {
+            "skrutrekker": 2,
+            "skiftenokkel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan teller du til ti?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg kikker rundt og teller ting jeg ser",
+          "scores": {
+            "malebaand": 2,
+            "pensel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Annenhver gang på to språk",
+          "scores": {
+            "skiftenokkel": 2,
+            "skrutrekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Høyt, i kor med noen",
+          "scores": {
+            "malerrull": 2,
+            "tang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med en liten pause midt i",
+          "scores": {
+            "limpistol": 2,
+            "vater": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fort, og så roper jeg TI!",
+          "scores": {
+            "hammer": 2,
+            "drill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg starter på ti og teller nedover",
+          "scores": {
+            "sag": 2,
+            "tommestokk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken sti velger du i skogen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som går rundt vannet",
+          "scores": {
+            "vater": 2,
+            "sag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den bratteste",
+          "scores": {
+            "drill": 2,
+            "malebaand": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den gamle med merker på trærne",
+          "scores": {
+            "tommestokk": 2,
+            "skiftenokkel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den med flest blomster",
+          "scores": {
+            "pensel": 2,
+            "malerrull": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som er minst brukt",
+          "scores": {
+            "skrutrekker": 2,
+            "limpistol": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den vennene mine går",
+          "scores": {
+            "tang": 2,
+            "hammer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan hilser du på en hund du ikke kjenner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg spør eieren om navnet først",
+          "scores": {
+            "skiftenokkel": 2,
+            "pensel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sier hei med stor stemme",
+          "scores": {
+            "malerrull": 2,
+            "skrutrekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg setter meg ned og venter",
+          "scores": {
+            "limpistol": 2,
+            "tang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg nikker vennlig, som til en kollega",
+          "scores": {
+            "hammer": 2,
+            "vater": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg begynner å småløpe med den",
+          "scores": {
+            "sag": 2,
+            "drill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg forteller den om dagen min",
+          "scores": {
+            "malebaand": 2,
+            "tommestokk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "hammer",
+      "name": "Hammer",
+      "shareName": "en hammer",
+      "emoji": null,
+      "description": "Du er bestemt, ærlig og sier ting som de er. Når du først har bestemt deg, skjer det noe.",
+      "funFact": "I norrøn mytologi het Tors hammer Mjølne, og den kom alltid tilbake når han kastet den.",
+      "image": "images/2026-10-22/hammer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der du trengs."
+        }
+      ]
+    },
+    {
+      "id": "skrutrekker",
+      "name": "Skrutrekker",
+      "shareName": "en skrutrekker",
+      "emoji": null,
+      "description": "Du er tålmodig og rolig, og tar én ting om gangen. Folk kommer til deg når noe sitter fast.",
+      "funFact": "Stjerneskruen og skrutrekkeren til den ble gjort kjent av amerikaneren Henry Phillips på 1930-tallet.",
+      "image": "images/2026-10-22/skrutrekker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Tar det i ro."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Løser små floker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Aldri i panikk."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gir seg ikke halvveis."
+        }
+      ]
+    },
+    {
+      "id": "sag",
+      "name": "Sag",
+      "shareName": "en sag",
+      "emoji": null,
+      "description": "Du er modig og går rett på sak. Du liker å komme deg gjennom ting og videre til neste eventyr.",
+      "funFact": "Japanske sager er laget for å sage når du drar dem mot deg, ikke når du skyver.",
+      "image": "images/2026-10-22/sag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør der andre nøler."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på vei videre."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer seg gjennom alt."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Gleder seg til i morgen."
+        }
+      ]
+    },
+    {
+      "id": "tang",
+      "name": "Tang",
+      "shareName": "en tang",
+      "emoji": null,
+      "description": "Du er lojal og holder godt fast i vennene dine. Når noen trenger et grep, er du der.",
+      "funFact": "På norsk betyr «tang» både et verktøy og en type sjøgress som vokser i fjæra.",
+      "image": "images/2026-10-22/tang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Slipper aldri taket."
+        },
+        {
+          "title": "Sterk",
+          "text": "Har et godt grep."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar vare på flokken."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å ha nær."
+        }
+      ]
+    },
+    {
+      "id": "malebaand",
+      "name": "Målebånd",
+      "shareName": "et målebånd",
+      "emoji": null,
+      "description": "Du er nysgjerrig og vil vite hvor langt alt egentlig er. Etterpå ruller du deg sammen og slapper av.",
+      "funFact": "Meteren ble opprinnelig definert som en timilliondel av avstanden fra Nordpolen til ekvator.",
+      "image": "images/2026-10-22/malebaand.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Lurer alltid på noe."
+        },
+        {
+          "title": "Smidig",
+          "text": "Bøyer seg uten å knekke."
+        },
+        {
+          "title": "Leken",
+          "text": "Spretter tilbake fort."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Legger merke til detaljer."
+        }
+      ]
+    },
+    {
+      "id": "vater",
+      "name": "Vater",
+      "shareName": "et vater",
+      "emoji": null,
+      "description": "Du er balansert og rolig, og får andre til å puste ut. Du finner alltid midten.",
+      "funFact": "Inne i et vater er det en luftboble i væske, og boblen flyter alltid mot det høyeste punktet.",
+      "image": "images/2026-10-22/vater.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Finner alltid midten."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene rundt deg."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Behandler alle likt."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        }
+      ]
+    },
+    {
+      "id": "skiftenokkel",
+      "name": "Skiftenøkkel",
+      "shareName": "en skiftenøkkel",
+      "emoji": null,
+      "description": "Du tilpasser deg alt og alle, og passer inn overalt. Ingen oppgave er for stor eller for liten.",
+      "funFact": "Skiftenøkkelen slik vi kjenner den ble oppfunnet av svensken Johan Petter Johansson på 1890-tallet.",
+      "image": "images/2026-10-22/skiftenokkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Kan litt av alt."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner nye løsninger."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        }
+      ]
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "shareName": "en drill",
+      "emoji": null,
+      "description": "Du er full av fart og entusiasme, og det merkes når du kommer. Du får ting til å skje, og det fort.",
+      "funFact": "Den første bærbare elektriske drillen ble laget av det tyske firmaet Fein i 1895.",
+      "image": "images/2026-10-22/drill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Har fart fra morgenen."
+        },
+        {
+          "title": "Entusiastisk",
+          "text": "Gleder deg høylytt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort fort."
+        },
+        {
+          "title": "Morsom",
+          "text": "Lager god stemning."
+        }
+      ]
+    },
+    {
+      "id": "malerrull",
+      "name": "Malerrull",
+      "shareName": "en malerrull",
+      "emoji": null,
+      "description": "Du sprer godt humør over store flater. Der du har vært, ser alt litt friskere ut.",
+      "funFact": "Noen hulemalerier er over 40 000 år gamle, lenge før noen fant opp malerrullen.",
+      "image": "images/2026-10-22/malerrull.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smitter med godt humør."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives med mange rundt."
+        },
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på det meste."
+        }
+      ]
+    },
+    {
+      "id": "tommestokk",
+      "name": "Tommestokk",
+      "shareName": "en tommestokk",
+      "emoji": null,
+      "description": "Du har en gammeldags sjarm og liker at ting er ordentlig. Du kan brette deg sammen og alltid være med.",
+      "funFact": "Navnet kommer fra måleenheten tomme, og én tomme er omtrent 2,5 centimeter.",
+      "image": "images/2026-10-22/tommestokk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Gammeldags på den fine måten."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Liker system og orden."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid klar i lomma."
+        }
+      ]
+    },
+    {
+      "id": "limpistol",
+      "name": "Limpistol",
+      "shareName": "en limpistol",
+      "emoji": null,
+      "description": "Du er kreativ og varm, og du får folk og ting til å henge sammen. Uten deg ville mye falt fra hverandre.",
+      "funFact": "Limet i en limpistol er faste pinner som smelter når de varmes opp og stivner raskt igjen.",
+      "image": "images/2026-10-22/limpistol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager noe av ingenting."
+        },
+        {
+          "title": "Varm",
+          "text": "Får alle til å trives."
+        },
+        {
+          "title": "Samlende",
+          "text": "Holder gjengen sammen."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Har alltid en idé."
+        }
+      ]
+    },
+    {
+      "id": "pensel",
+      "name": "Pensel",
+      "shareName": "en pensel",
+      "emoji": null,
+      "description": "Du er drømmende og ser fargene i små ting. Du gjør verden litt finere, ett strøk om gangen.",
+      "funFact": "Mange kunstnerpensler er laget av ekte dyrehår, for eksempel fra mår eller svin.",
+      "image": "images/2026-10-22/pensel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Har hodet i skyene."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser skjønnhet overalt."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner stemninger godt."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Elsker de små tingene."
+        }
+      ]
+    }
+  ]
+}
