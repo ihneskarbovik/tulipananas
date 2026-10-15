@@ -1,0 +1,97 @@
+@font-face{font-family:"Tulip Italic";src:url("TulipText-Italic.ttf") format("truetype");font-display:swap}
+
+:root{
+  --canvas:#F6ECE3;--surface:#FCF7F2;--blush:#F0DACA;--ink:#4A3228;--soft:#9A7B6A;
+  --hair:#E4CFC0;--rose:#C26B4A;--rose-deep:#A3563A;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root{--canvas:#201814;--surface:#2D231E;--blush:#3D2D25;--ink:#F3E6DC;--soft:#BFA595;
+    --hair:#4A3830;--rose:#DB8A66;--rose-deep:#C27352;color-scheme:dark}
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--canvas);color:var(--ink)}
+body{font:17px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;min-height:100dvh;
+  padding:env(safe-area-inset-top) 0 calc(88px + env(safe-area-inset-bottom));overflow-x:hidden}
+button{font:inherit;color:inherit}
+
+.top{position:relative;display:flex;justify-content:center;align-items:center;height:56px;max-width:520px;margin:0 auto}
+.wordmark{font-family:"Tulip Italic",Georgia,serif;font-size:22px}
+.info{position:absolute;right:20px;width:36px;height:36px;border-radius:50%;background:var(--surface);
+  display:grid;place-items:center;text-decoration:none;color:var(--ink);font-family:Georgia,serif;font-weight:bold;
+  box-shadow:0 1px 3px rgba(74,50,40,.15)}
+
+main{max-width:520px;margin:0 auto;padding:8px 24px 24px;position:relative}
+.blob{position:fixed;width:560px;height:560px;border-radius:50%;background:var(--blush);opacity:.7;
+  left:50%;top:330px;transform:translateX(-50%);z-index:-1;pointer-events:none}
+
+.soft{color:var(--soft)}
+.lead{font-size:16px;color:var(--soft);margin:0}
+h1{font-size:34px;line-height:1.08;margin:4px 0 0;letter-spacing:-.5px}
+h2{font-size:27px;line-height:1.15;margin:0;letter-spacing:-.3px}
+.overline{font-size:14px;font-weight:600;color:var(--rose)}
+
+.card{background:var(--surface);border-radius:22px;box-shadow:0 1px 2px rgba(74,50,40,.06);overflow:hidden}
+.theme-card{margin-top:30px}
+.theme-card .cover{height:170px;background:var(--blush) center/cover no-repeat}
+.theme-card .body{padding:20px}
+.theme-card h3{font-size:22px;margin:4px 0 6px;line-height:1.2}
+.meta{display:flex;gap:16px;font-size:14px;color:var(--soft);margin-top:10px;flex-wrap:wrap}
+
+.btn{display:block;width:100%;min-height:56px;border:0;border-radius:16px;background:var(--rose);color:#fff;
+  font-weight:600;font-size:17px;cursor:pointer;margin-top:24px;transition:transform .12s,background .12s}
+.btn:active{transform:scale(.98);background:var(--rose-deep)}
+.btn[disabled]{opacity:.6}
+
+.qhead{display:flex;justify-content:space-between;align-items:center;color:var(--soft);font-size:14px}
+.back{background:none;border:0;width:44px;height:44px;text-align:left;cursor:pointer;color:var(--soft);font-size:22px;padding:0}
+.back[disabled]{opacity:.3}
+.bar{height:3px;background:var(--hair);border-radius:3px;margin-top:4px}
+.bar i{display:block;height:3px;background:var(--rose);border-radius:3px;transition:width .3s}
+.question{margin:32px 0 26px}
+.opt{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:var(--surface);border:0;
+  border-radius:16px;padding:16px 18px;margin-bottom:10px;cursor:pointer;box-shadow:inset 0 0 0 1.5px transparent;
+  transition:box-shadow .15s,transform .1s}
+.opt:active{transform:scale(.985)}
+.opt span{flex:1}
+.opt .dot{flex:none;width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 1.5px var(--hair);transition:box-shadow .15s}
+.opt.sel{box-shadow:inset 0 0 0 1.5px var(--rose)}
+.opt.sel .dot{box-shadow:inset 0 0 0 6px var(--rose)}
+
+.annot{position:relative;height:340px;margin-top:18px}
+.annot .circle{position:absolute;width:200px;height:200px;border-radius:50%;background:var(--blush) center/cover no-repeat;
+  left:50%;top:70px;transform:translateX(-50%)}
+.annot svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.trait{position:absolute;font-size:12.5px;line-height:1.25}
+.trait b{display:block;color:var(--rose);font-size:13.5px;font-weight:600}
+.desc{margin:24px 0 0}
+.fact{padding:18px;margin-top:22px}
+.fact p{margin:5px 0 0;font-size:15px;line-height:1.45}
+.small{font-size:14px;color:var(--soft);text-align:center;margin-top:16px}
+
+.thinking{display:grid;place-items:center;min-height:60dvh;text-align:center}
+.thinking img{width:140px;animation:bob 1.6s ease-in-out infinite}
+@keyframes bob{50%{transform:translateY(-6px) rotate(-4deg)}}
+
+.streak{display:flex;gap:14px;align-items:center;padding:16px;background:var(--blush);border-radius:18px;margin:12px 0 20px}
+.streak .n{font-size:28px;font-weight:700;color:var(--rose);min-width:34px;text-align:center}
+.month{font-size:13px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:var(--soft);margin:18px 0 10px}
+.row{display:flex;align-items:center;gap:14px;padding:14px;border-radius:18px;background:var(--surface);margin-bottom:12px;
+  width:100%;border:0;text-align:left;cursor:pointer}
+.row .thumb{width:56px;height:56px;border-radius:50%;background:var(--blush) center/150% no-repeat;flex:none}
+.row .t{flex:1;min-width:0}
+.row .t b{display:block;font-weight:600}
+.row .t span{font-size:14px;color:var(--soft);display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .d{font-size:14px;color:var(--soft)}
+
+.tabs{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + env(safe-area-inset-bottom));
+  display:flex;gap:6px;padding:6px;border-radius:999px;background:color-mix(in srgb,var(--surface) 88%,transparent);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 4px 20px rgba(74,50,40,.15)}
+.tabs button{display:flex;flex-direction:column;align-items:center;gap:2px;border:0;background:none;padding:8px 26px;
+  border-radius:999px;font-size:13px;font-weight:600;cursor:pointer;color:var(--ink);white-space:nowrap}
+.tabs button.on{background:var(--blush);color:var(--rose)}
+.tabs svg{width:24px;height:24px;fill:currentColor}
+.tabs svg rect{fill:none;stroke:currentColor;stroke-width:2}
+
+.install{margin-top:18px;padding:14px 16px;font-size:14px;line-height:1.4;color:var(--soft)}
+.install b{color:var(--ink)}
