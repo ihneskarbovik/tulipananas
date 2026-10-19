@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-24",
+  "date": "2026-10-24",
+  "title": "Hvilket pålegg er du i dag?",
+  "intro": "Er du en klassisk brunost, en modig makrell i tomat eller noe helt annet? Svar på sju litt rare spørsmål og finn ut hvilket pålegg du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor mange vinduer skal et hus ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett stort, som en kinoskjerm",
+          "scores": {
+            "sjokolade": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Akkurat så mange at det blir symmetrisk",
+          "scores": {
+            "skinke": 2,
+            "egg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mange små, i alle mulige former",
+          "scores": {
+            "banan": 2,
+            "kaviar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nok til at sola kommer inn om morgenen",
+          "scores": {
+            "honning": 2,
+            "syltetoy": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et lite, med gardiner og en potteplante",
+          "scores": {
+            "brunost": 2,
+            "leverpostei": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Like mange som det er rom",
+          "scores": {
+            "gulost": 2,
+            "peanottsmor": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Månen sender deg et brev. Hva står det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kan du skru ned lyset litt i kveld?",
+          "scores": {
+            "egg": 2,
+            "kaviar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg ser deg. Vink da!",
+          "scores": {
+            "banan": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Takk for at du alltid ser opp på meg",
+          "scores": {
+            "honning": 2,
+            "leverpostei": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hilsen fra sola, hun savner deg",
+          "scores": {
+            "sjokolade": 2,
+            "syltetoy": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer du på besøk snart?",
+          "scores": {
+            "peanottsmor": 2,
+            "gulost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Husk å legge deg i tide",
+          "scores": {
+            "skinke": 2,
+            "brunost": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Noen skal ta bilde av deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en grimase med vilje",
+          "scores": {
+            "kaviar": 2,
+            "banan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stiller meg pent og smiler",
+          "scores": {
+            "skinke": 2,
+            "gulost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Drar med alle andre inn i bildet",
+          "scores": {
+            "sjokolade": 2,
+            "peanottsmor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blunker akkurat når det tas, hver gang",
+          "scores": {
+            "leverpostei": 2,
+            "syltetoy": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Poserer som om det er en filmplakat",
+          "scores": {
+            "makrell": 2,
+            "honning": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør om jeg kan se bildet etterpå",
+          "scores": {
+            "egg": 2,
+            "brunost": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan vinker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med hele armen, som om jeg står på en båt",
+          "scores": {
+            "banan": 2,
+            "sjokolade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare med fingrene",
+          "scores": {
+            "honning": 2,
+            "leverpostei": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lite nikk holder",
+          "scores": {
+            "egg": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med begge hender og et hopp",
+          "scores": {
+            "peanottsmor": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Som en dronning, rolig fra side til side",
+          "scores": {
+            "syltetoy": 2,
+            "skinke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vinker tilbake selv om det var til noen andre",
+          "scores": {
+            "gulost": 2,
+            "kaviar": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du i en rulletrapp?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går opp, selv om den går av seg selv",
+          "scores": {
+            "peanottsmor": 2,
+            "egg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står helt stille og holder i rekkverket",
+          "scores": {
+            "skinke": 2,
+            "leverpostei": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver å gå feil vei, bare litt",
+          "scores": {
+            "kaviar": 2,
+            "banan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snur meg og prater med den bak",
+          "scores": {
+            "sjokolade": 2,
+            "gulost": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser ned og tenker på hvor trinnene blir av",
+          "scores": {
+            "brunost": 2,
+            "honning": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Later som jeg er i en musikal",
+          "scores": {
+            "makrell": 2,
+            "syltetoy": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange lag med klær har du på deg nå?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett, jeg fryser aldri",
+          "scores": {
+            "peanottsmor": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "To, helt passe",
+          "scores": {
+            "egg": 2,
+            "gulost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tre, og jeg har med et fjerde i veska",
+          "scores": {
+            "brunost": 2,
+            "skinke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare noe mykt og stort",
+          "scores": {
+            "honning": 2,
+            "sjokolade": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har ikke sjekket",
+          "scores": {
+            "banan": 2,
+            "kaviar": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En ullgenser jeg har hatt i ti år",
+          "scores": {
+            "syltetoy": 2,
+            "leverpostei": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken vei ligger hodet ditt når du sover?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mot nord, selvfølgelig",
+          "scores": {
+            "kaviar": 2,
+            "egg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mot vinduet",
+          "scores": {
+            "syltetoy": 2,
+            "honning": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mot døra, i tilfelle noe skjer",
+          "scores": {
+            "peanottsmor": 2,
+            "skinke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det endrer seg i løpet av natta",
+          "scores": {
+            "makrell": 2,
+            "banan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Under puta",
+          "scores": {
+            "leverpostei": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Samme vei som alle andre i huset",
+          "scores": {
+            "gulost": 2,
+            "sjokolade": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "leverpostei",
+      "name": "Leverpostei",
+      "shareName": "leverpostei",
+      "emoji": null,
+      "description": "Du er pålitelig, beskjeden og mye bedre enn folk tror. Du er alltid der når noen trenger deg.",
+      "funFact": "Lever er en av matvarene som inneholder aller mest vitamin A.",
+      "image": "images/2026-10-24/leverpostei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Alltid på plass."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter aldri."
+        },
+        {
+          "title": "Undervurdert",
+          "text": "Overrasker de fleste."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk og grei."
+        }
+      ]
+    },
+    {
+      "id": "brunost",
+      "name": "Brunost",
+      "shareName": "brunost",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, koselig og litt sta. Folk enten elsker deg eller trenger litt tid, men de glemmer deg aldri.",
+      "funFact": "Brunost lages av myse, altså det som blir igjen når man lager vanlig ost.",
+      "image": "images/2026-10-24/brunost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som en hytte."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir deg ikke lett."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det som virker."
+        },
+        {
+          "title": "Norsk",
+          "text": "Hjemme i hver skuff."
+        }
+      ]
+    },
+    {
+      "id": "makrell",
+      "name": "Makrell i tomat",
+      "shareName": "makrell i tomat",
+      "emoji": null,
+      "description": "Du er modig, fargerik og sier det du mener. Du gjør alle måltider litt mer spennende.",
+      "funFact": "Makrellen har ikke svømmeblære, så den synker hvis den slutter å svømme.",
+      "image": "images/2026-10-24/makrell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å skille deg ut."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Sprek",
+          "text": "Alltid i bevegelse."
+        }
+      ]
+    },
+    {
+      "id": "syltetoy",
+      "name": "Jordbærsyltetøy",
+      "shareName": "jordbærsyltetøy",
+      "emoji": null,
+      "description": "Du er søt, nostalgisk og minner folk om sommer. Du gjør vanlige dager litt finere.",
+      "funFact": "Jordbær er egentlig ikke bær: de små prikkene utenpå er de ekte fruktene.",
+      "image": "images/2026-10-24/syltetoy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Snill helt inn."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gode minner."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter med humør."
+        },
+        {
+          "title": "Varm",
+          "text": "Som en sommerdag."
+        }
+      ]
+    },
+    {
+      "id": "gulost",
+      "name": "Gulost",
+      "shareName": "gulost",
+      "emoji": null,
+      "description": "Du er grei, stødig og passer inn nesten overalt. Alle liker deg, og du liker nesten alle.",
+      "funFact": "Hullene i noen oster lages av bakterier som danner små gassbobler mens osten modnes.",
+      "image": "images/2026-10-24/gulost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Rolig og trygg."
+        },
+        {
+          "title": "Grei",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i alle lag."
+        }
+      ]
+    },
+    {
+      "id": "kaviar",
+      "name": "Kaviar",
+      "shareName": "kaviar",
+      "emoji": null,
+      "description": "Du er morsom, litt sær og har sterke meninger. Folk vet alltid hvor de har deg.",
+      "funFact": "Kaviar på tube i Norge lages vanligvis av torskerogn.",
+      "image": "images/2026-10-24/kaviar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Tørr og skarp humor."
+        },
+        {
+          "title": "Sær",
+          "text": "Helt din egen stil."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du mener."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Pakker ingenting inn."
+        }
+      ]
+    },
+    {
+      "id": "banan",
+      "name": "Banan",
+      "shareName": "banan",
+      "emoji": null,
+      "description": "Du er leken, energisk og alltid klar for noe gøy. Du får folk til å le uten å prøve.",
+      "funFact": "Botanisk sett er bananer bær, og bananplanten er en urt, ikke et tre.",
+      "image": "images/2026-10-24/banan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart fra start."
+        },
+        {
+          "title": "Morsom",
+          "text": "Folk ler med deg."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hopper rett i det."
+        }
+      ]
+    },
+    {
+      "id": "honning",
+      "name": "Honning",
+      "shareName": "honning",
+      "emoji": null,
+      "description": "Du er varm, rolig og har en gyllen stemning rundt deg. Folk søker til deg når de trenger trøst.",
+      "funFact": "Honning holder seg nesten evig, og arkeologer har funnet honning i gamle egyptiske graver.",
+      "image": "images/2026-10-24/honning.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir folk trøst."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Klok",
+          "text": "Gode råd på lur."
+        },
+        {
+          "title": "Gyllen",
+          "text": "Lyser opp dagen."
+        }
+      ]
+    },
+    {
+      "id": "egg",
+      "name": "Kokt egg",
+      "shareName": "et kokt egg",
+      "emoji": null,
+      "description": "Du er balansert, praktisk og står gjerne tidlig opp. Du har kontroll, men er myk innerst inne.",
+      "funFact": "Skallet på et høneegg har tusenvis av bitte små porer som slipper luft inn.",
+      "image": "images/2026-10-24/egg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Midt i blinken."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Tidlig",
+          "text": "Våken før alle."
+        },
+        {
+          "title": "Myk",
+          "text": "Hard utenpå, snill inni."
+        }
+      ]
+    },
+    {
+      "id": "sjokolade",
+      "name": "Sjokoladepålegg",
+      "shareName": "sjokoladepålegg",
+      "emoji": null,
+      "description": "Du er glad, raus og elsker å kose deg. Med deg blir en helt vanlig dag til en liten fest.",
+      "funFact": "Kakaobønner vokser i store frukter som henger rett på stammen av kakaotreet.",
+      "image": "images/2026-10-24/sjokolade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kosete",
+          "text": "Elsker små gleder."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne godt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "skinke",
+      "name": "Skinke",
+      "shareName": "skinke",
+      "emoji": null,
+      "description": "Du er klassisk, høflig og alltid velkledd. Du liker orden, men har et stort hjerte under.",
+      "funFact": "Spekeskinke kan henge og tørke i over et år før den er ferdig.",
+      "image": "images/2026-10-24/skinke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høflig",
+          "text": "Alltid god oppførsel."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs stil."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker orden."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "peanottsmor",
+      "name": "Peanøttsmør",
+      "shareName": "peanøttsmør",
+      "emoji": null,
+      "description": "Du er trofast, sporty og henger med vennene dine gjennom alt. Når du først liker noen, slipper du ikke taket.",
+      "funFact": "Peanøtter er ikke nøtter, men belgfrukter i samme familie som erter og bønner.",
+      "image": "images/2026-10-24/peanottsmor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Henger ved gjennom alt."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye energi i deg."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt uten fjas."
+        }
+      ]
+    }
+  ]
+}

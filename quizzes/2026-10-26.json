@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-26",
+  "date": "2026-10-26",
+  "title": "Hvilken skrivesak er du i dag?",
+  "intro": "Er du en kreativ blyant, en trofast binders eller noe helt annet? Svar på sju litt rare spørsmål og finn ut hvilken skrivesak du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor mange hjul er det perfekte antallet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett. Det er mest spennende",
+          "scores": {
+            "saks": 2,
+            "tusj": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "To, helt klart",
+          "scores": {
+            "kulepenn": 2,
+            "blyant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tre, for balansens skyld",
+          "scores": {
+            "linjal": 2,
+            "viskelaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fire, ellers blir jeg urolig",
+          "scores": {
+            "stiftemaskin": 2,
+            "binders": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Seks, og alle i ulike farger",
+          "scores": {
+            "limstift": 2,
+            "huskelapp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har aldri telt hjul før",
+          "scores": {
+            "hullemaskin": 2,
+            "teip": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du må bytte hus med en ku i en uke. Hva savner du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sengen min, og bare sengen min",
+          "scores": {
+            "viskelaer": 2,
+            "linjal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vennene mine, men kua kan få besøke dem",
+          "scores": {
+            "limstift": 2,
+            "binders": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting, jeg liker å ligge på en eng",
+          "scores": {
+            "tusj": 2,
+            "blyant": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kalenderen på kjøleskapet",
+          "scores": {
+            "huskelapp": 2,
+            "kulepenn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Verktøykassa, i tilfelle noe går i stykker",
+          "scores": {
+            "teip": 2,
+            "stiftemaskin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lurer mest på hva kua gjør med tingene mine",
+          "scores": {
+            "saks": 2,
+            "hullemaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan klapper du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt og lenge, gjerne med plystring",
+          "scores": {
+            "tusj": 2,
+            "huskelapp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre presise klapp",
+          "scores": {
+            "stiftemaskin": 2,
+            "saks": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I takt med alle andre",
+          "scores": {
+            "limstift": 2,
+            "linjal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg klapper litt før alle andre",
+          "scores": {
+            "teip": 2,
+            "kulepenn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg klapper med fingrene mot håndflaten, forsiktig",
+          "scores": {
+            "viskelaer": 2,
+            "blyant": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med albuene, for å se om det går",
+          "scores": {
+            "hullemaskin": 2,
+            "binders": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan venter du på at vannet skal koke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg står og stirrer på kjelen",
+          "scores": {
+            "linjal": 2,
+            "hullemaskin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg rekker å rydde hele kjøkkenet",
+          "scores": {
+            "teip": 2,
+            "kulepenn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg glemmer at jeg satte den på",
+          "scores": {
+            "huskelapp": 2,
+            "blyant": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg prater med kjelen",
+          "scores": {
+            "tusj": 2,
+            "limstift": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg tar telefonen og ringer noen",
+          "scores": {
+            "binders": 2,
+            "viskelaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg skrur opp varmen til maks",
+          "scores": {
+            "saks": 2,
+            "stiftemaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken ting hjemme ville vært den beste bussjåføren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Støvsugeren. Den er vant til å kjøre rundt",
+          "scores": {
+            "kulepenn": 2,
+            "teip": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lampa, den ser veien",
+          "scores": {
+            "huskelapp": 2,
+            "linjal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sofaen, alle får sitte godt",
+          "scores": {
+            "limstift": 2,
+            "viskelaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kaffetrakteren, den er alltid våken",
+          "scores": {
+            "stiftemaskin": 2,
+            "hullemaskin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Badeanda, bare for moro skyld",
+          "scores": {
+            "tusj": 2,
+            "blyant": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nøkkelknippet, det vet hvor alt er",
+          "scores": {
+            "binders": 2,
+            "saks": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan sier du at du er mett?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg legger kniv og gaffel pent ved siden av hverandre",
+          "scores": {
+            "linjal": 2,
+            "stiftemaskin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sier det tre ganger og tar én bit til",
+          "scores": {
+            "blyant": 2,
+            "limstift": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Takk for maten, det var nydelig!",
+          "scores": {
+            "viskelaer": 2,
+            "huskelapp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lener meg bakover og sukker fornøyd",
+          "scores": {
+            "hullemaskin": 2,
+            "tusj": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg spør om noen andre vil ha resten",
+          "scores": {
+            "binders": 2,
+            "teip": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg bare reiser meg og begynner å rydde",
+          "scores": {
+            "kulepenn": 2,
+            "saks": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor lang er den perfekte lunsjluren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sju minutter, nøyaktig",
+          "scores": {
+            "hullemaskin": 2,
+            "linjal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tjue minutter med en god pute",
+          "scores": {
+            "limstift": 2,
+            "viskelaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "To timer, og jeg angrer ingenting",
+          "scores": {
+            "blyant": 2,
+            "binders": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar ikke lur, jeg har for mye å gjøre",
+          "scores": {
+            "kulepenn": 2,
+            "stiftemaskin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare noen sekunder med lukkede øyne",
+          "scores": {
+            "huskelapp": 2,
+            "saks": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sovner midt i en setning",
+          "scores": {
+            "teip": 2,
+            "tusj": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "blyant",
+      "name": "Blyant",
+      "shareName": "en blyant",
+      "emoji": null,
+      "description": "Du er kreativ, beskjeden og prøver gjerne igjen hvis noe går galt. Du har alltid en ny idé på lur.",
+      "funFact": "Blyanter inneholder ikke bly, men grafitt blandet med leire.",
+      "image": "images/2026-10-26/blyant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Fullt av ideer."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke stas."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Prøver gjerne igjen."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar én strek av gangen."
+        }
+      ]
+    },
+    {
+      "id": "binders",
+      "name": "Binders",
+      "shareName": "en binders",
+      "emoji": null,
+      "description": "Du er trofast, praktisk og holder gjengen samlet. Uten deg ville alt flydd i alle retninger.",
+      "funFact": "Under andre verdenskrig bar mange nordmenn en binders på jakken som et stille tegn på samhold.",
+      "image": "images/2026-10-26/binders.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder sammen på alt."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Enkel og smart."
+        },
+        {
+          "title": "Samlende",
+          "text": "Gjengen trenger deg."
+        },
+        {
+          "title": "Seig",
+          "text": "Bøyer seg, knekker ikke."
+        }
+      ]
+    },
+    {
+      "id": "stiftemaskin",
+      "name": "Stiftemaskin",
+      "shareName": "en stiftemaskin",
+      "emoji": null,
+      "description": "Du er bestemt, effektiv og liker at ting blir ordentlig gjort. Når du sier noe, står det fast.",
+      "funFact": "En stiftestang består av mange små stifter som er limt sammen side om side.",
+      "image": "images/2026-10-26/stiftemaskin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Står fast på ordet."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Ferdig på et blunk."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig og sikker."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Klar beskjed."
+        }
+      ]
+    },
+    {
+      "id": "saks",
+      "name": "Saks",
+      "shareName": "en saks",
+      "emoji": null,
+      "description": "Du er skarp, direkte og flink til å skjære gjennom alt tull. Du ser raskt hva som er viktig.",
+      "funFact": "Det finnes sakser som er rundt 3000 år gamle, fra oldtidens Egypt.",
+      "image": "images/2026-10-26/saks.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Rask i hodet."
+        },
+        {
+          "title": "Direkte",
+          "text": "Rett på sak."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar valgene."
+        },
+        {
+          "title": "Presis",
+          "text": "Treffer hver gang."
+        }
+      ]
+    },
+    {
+      "id": "viskelaer",
+      "name": "Viskelær",
+      "shareName": "et viskelær",
+      "emoji": null,
+      "description": "Du er tilgivende, snill og hjelper folk å starte på nytt. Du gjør små feil helt ufarlige.",
+      "funFact": "Før viskelæret kom, brukte folk brødsmuler til å viske ut blyant.",
+      "image": "images/2026-10-26/viskelaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tilgivende",
+          "text": "Alle får en sjanse til."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk i alt du gjør."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Fikser små feil."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen dramatikk."
+        }
+      ]
+    },
+    {
+      "id": "linjal",
+      "name": "Linjal",
+      "shareName": "en linjal",
+      "emoji": null,
+      "description": "Du er ordentlig, rettferdig og liker at ting går opp. Folk stoler på deg fordi du alltid er den samme.",
+      "funFact": "En linjal på 30 centimeter er nesten nøyaktig én fot lang, som er 30,48 centimeter.",
+      "image": "images/2026-10-26/linjal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rettferdig",
+          "text": "Lik for alle."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Liker system."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder deg rett."
+        }
+      ]
+    },
+    {
+      "id": "hullemaskin",
+      "name": "Hullemaskin",
+      "shareName": "en hullemaskin",
+      "emoji": null,
+      "description": "Du er systematisk, litt sær og elsker følelsen av at noe blir helt ferdig. Du gjør kjedelige ting morsomme.",
+      "funFact": "Den vanlige avstanden mellom de to hullene er 8 centimeter, slik at arkene passer i ringpermer.",
+      "image": "images/2026-10-26/hullemaskin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Systematisk",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Sær",
+          "text": "Litt rar, mye sjarm."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Elsker ferdige ting."
+        },
+        {
+          "title": "Morsom",
+          "text": "Gjør kjedelig gøy."
+        }
+      ]
+    },
+    {
+      "id": "kulepenn",
+      "name": "Kulepenn",
+      "shareName": "en kulepenn",
+      "emoji": null,
+      "description": "Du er pålitelig, rask og får ting gjort. Du er alltid klar når noen trenger deg.",
+      "funFact": "Kulepennen ble patentert av ungareren László Bíró på 1930-tallet.",
+      "image": "images/2026-10-26/kulepenn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Virker hver gang."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer rett i gang."
+        },
+        {
+          "title": "Klar",
+          "text": "Alltid i lomma."
+        },
+        {
+          "title": "Flittig",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "teip",
+      "name": "Teip",
+      "shareName": "en teip",
+      "emoji": null,
+      "description": "Du er hjelpsom, oppfinnsom og fikser nesten alt med det du har for hånden. Folk ringer deg når noe har gått i stykker.",
+      "funFact": "Teip ble funnet opp på 1920-tallet, først som maskeringsteip for billakkerere.",
+      "image": "images/2026-10-26/teip.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner alltid en løsning."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder fast."
+        },
+        {
+          "title": "Nyttig",
+          "text": "Trengs overalt."
+        }
+      ]
+    },
+    {
+      "id": "tusj",
+      "name": "Tusj",
+      "shareName": "en tusj",
+      "emoji": null,
+      "description": "Du er uttrykksfull, modig og tør å gjøre ting som synes. Det du lager, blir lagt merke til.",
+      "funFact": "Ordet tusj kommer fra det tyske «Tusche», som betyr blekk.",
+      "image": "images/2026-10-26/tusj.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å synes."
+        },
+        {
+          "title": "Uttrykksfull",
+          "text": "Sterke farger, sterke følelser."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager noe av ingenting."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        }
+      ]
+    },
+    {
+      "id": "huskelapp",
+      "name": "Huskelapp",
+      "shareName": "en huskelapp",
+      "emoji": null,
+      "description": "Du er organisert, fargerik og husker ting andre glemmer. Du gjør hverdagen litt lettere for alle rundt deg.",
+      "funFact": "Klistrelappene ble til ved et uhell, da et lim som ikke festet ordentlig viste seg å være perfekt.",
+      "image": "images/2026-10-26/huskelapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Organisert",
+          "text": "Har kontroll på alt."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp en vegg."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker det andre glemmer."
+        },
+        {
+          "title": "Lett",
+          "text": "Fester deg uten mas."
+        }
+      ]
+    },
+    {
+      "id": "limstift",
+      "name": "Limstift",
+      "shareName": "en limstift",
+      "emoji": null,
+      "description": "Du er rolig, sosial og flink til å få folk til å henge sammen. Du gjør alle prosjekter litt bedre.",
+      "funFact": "Limstiften ble oppfunnet i 1969, inspirert av en leppestift.",
+      "image": "images/2026-10-26/limstift.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Får folk til å møtes."
+        },
+        {
+          "title": "Rolig",
+          "text": "Glatt og grei."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Best i lag."
+        },
+        {
+          "title": "Snill",
+          "text": "Varm mot alle."
+        }
+      ]
+    }
+  ]
+}

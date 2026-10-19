@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-25",
+  "date": "2026-10-25",
+  "title": "Hvilket afrikansk dyr er du i dag?",
+  "intro": "Er du en klok elefant, en nysgjerrig surikat eller noe helt annet? Svar på sju litt rare spørsmål og finn ut hvilket afrikansk dyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken form er mest vennlig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sirkel",
+          "scores": {
+            "elefant": 2,
+            "flodhest": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trekant",
+          "scores": {
+            "neshorn": 2,
+            "gepard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sekskant",
+          "scores": {
+            "surikat": 2,
+            "sebra": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stjerne",
+          "scores": {
+            "struts": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Firkant",
+          "scores": {
+            "krokodille": 2,
+            "gorilla": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjerte",
+          "scores": {
+            "sjiraff": 2,
+            "loeve": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om kryssord?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg løser dem med penn",
+          "scores": {
+            "krokodille": 2,
+            "loeve": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg fyller inn egne ord som passer bedre",
+          "scores": {
+            "struts": 2,
+            "sebra": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vi løser dem sammen, høyt",
+          "scores": {
+            "surikat": 2,
+            "gorilla": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar dem på søndager med kaffe og pledd",
+          "scores": {
+            "flodhest": 2,
+            "sjiraff": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg tar tiden på meg selv",
+          "scores": {
+            "gepard": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker best å se på rutene",
+          "scores": {
+            "elefant": 2,
+            "flamingo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor fort går du gjennom en butikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg er ute igjen før døra har lukket seg",
+          "scores": {
+            "gepard": 2,
+            "struts": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg følger lista, ikke noe mer",
+          "scores": {
+            "neshorn": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg går hver eneste hylle, i tilfelle",
+          "scores": {
+            "surikat": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg ender alltid opp med å prate med noen",
+          "scores": {
+            "sebra": 2,
+            "loeve": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg trenger en lang pause ved benken",
+          "scores": {
+            "gorilla": 2,
+            "flodhest": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går sakte og ser på alt som er pent",
+          "scores": {
+            "flamingo": 2,
+            "sjiraff": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får en ekstra arm i én dag. Hva bruker du den til?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klemme tre personer samtidig",
+          "scores": {
+            "gorilla": 2,
+            "sebra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Holde paraply, kaffe og bok på en gang",
+          "scores": {
+            "flamingo": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vinke til absolutt alle",
+          "scores": {
+            "struts": 2,
+            "surikat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Klø meg på ryggen hele dagen",
+          "scores": {
+            "flodhest": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bli raskere til å rydde",
+          "scores": {
+            "gepard": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lar den hvile i fanget, den har fortjent det",
+          "scores": {
+            "sjiraff": 2,
+            "loeve": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan legger du et puslespill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kantene først, som en ordentlig person",
+          "scores": {
+            "neshorn": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg finner ett hjørne og lar andre gjøre resten",
+          "scores": {
+            "loeve": 2,
+            "flodhest": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg sorterer brikkene etter farge i små hauger",
+          "scores": {
+            "flamingo": 2,
+            "surikat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg prøver tilfeldige brikker til noe passer",
+          "scores": {
+            "struts": 2,
+            "gepard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg venter til det er én brikke igjen og legger den",
+          "scores": {
+            "krokodille": 2,
+            "sjiraff": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med hele familien, mens vi spiser boller",
+          "scores": {
+            "gorilla": 2,
+            "sebra": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det regner sidelengs. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går ut. Det blir en historie å fortelle",
+          "scores": {
+            "struts": 2,
+            "loeve": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser på det fra vinduet med noe varmt",
+          "scores": {
+            "sjiraff": 2,
+            "flodhest": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en hytte av pledd inne",
+          "scores": {
+            "gorilla": 2,
+            "surikat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Står stille og lar det skje",
+          "scores": {
+            "krokodille": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Løper til nærmeste tak på rekordtid",
+          "scores": {
+            "gepard": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer en venn for å dele opplevelsen",
+          "scores": {
+            "sebra": 2,
+            "neshorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor mye sand får plass i skoen før du tømmer den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett korn er nok",
+          "scores": {
+            "flamingo": 2,
+            "gepard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt, men så stopper jeg med en gang",
+          "scores": {
+            "elefant": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg merker det ikke før jeg kommer hjem",
+          "scores": {
+            "flodhest": 2,
+            "struts": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tømmer den sammen med vennene mine",
+          "scores": {
+            "sebra": 2,
+            "gorilla": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Halve stranda kan bli med hjem",
+          "scores": {
+            "loeve": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sjekker om det er noen fine skjell der",
+          "scores": {
+            "surikat": 2,
+            "sjiraff": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "loeve",
+      "name": "Løve",
+      "shareName": "en løve",
+      "emoji": null,
+      "description": "Du er trygg, varm og tar ansvar når det trengs. Folk samler seg rundt deg uten at du trenger å be om det.",
+      "funFact": "Løven er det eneste kattedyret som lever i flokk.",
+      "image": "images/2026-10-25/loeve.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leder",
+          "text": "Tar ansvar naturlig."
+        },
+        {
+          "title": "Trygg",
+          "text": "Stol på deg selv."
+        },
+        {
+          "title": "Varm",
+          "text": "Passer på flokken."
+        },
+        {
+          "title": "Modig",
+          "text": "Står fram når det gjelder."
+        }
+      ]
+    },
+    {
+      "id": "sjiraff",
+      "name": "Sjiraff",
+      "shareName": "en sjiraff",
+      "emoji": null,
+      "description": "Du er rolig, vennlig og ser ting litt ovenfra. Du har oversikt når andre har mistet den.",
+      "funFact": "Sjiraffen har like mange halsvirvler som et menneske: sju.",
+      "image": "images/2026-10-25/sjiraff.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oversikt",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Mild mot alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite som stresser deg."
+        },
+        {
+          "title": "Elegant",
+          "text": "Beveger deg med stil."
+        }
+      ]
+    },
+    {
+      "id": "neshorn",
+      "name": "Neshorn",
+      "shareName": "et neshorn",
+      "emoji": null,
+      "description": "Du er bestemt, beskyttende og går rett mot målet. Når du har bestemt deg, er det ingen vei tilbake.",
+      "funFact": "Hornet til neshornet er laget av keratin, det samme stoffet som hår og negler.",
+      "image": "images/2026-10-25/neshorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Går rett mot målet."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på de nære."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Ingen omveier."
+        }
+      ]
+    },
+    {
+      "id": "sebra",
+      "name": "Sebra",
+      "shareName": "en sebra",
+      "emoji": null,
+      "description": "Du er sosial, unik og trives best med vennene dine. Ingen er helt som deg, og det er akkurat poenget.",
+      "funFact": "Hver sebra har sitt helt eget stripemønster.",
+      "image": "images/2026-10-25/sebra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Ingen er som deg."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i gjengen."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står sammen med flokken."
+        },
+        {
+          "title": "Stilig",
+          "text": "Alltid godt antrukket."
+        }
+      ]
+    },
+    {
+      "id": "flodhest",
+      "name": "Flodhest",
+      "shareName": "en flodhest",
+      "emoji": null,
+      "description": "Du er avslappet, koselig og elsker å ta det med ro. Men ingen bør tro at du ikke kan si ifra.",
+      "funFact": "Flodhester skiller ut en rødlig væske som virker som solkrem.",
+      "image": "images/2026-10-25/flodhest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Elsker et godt bad."
+        },
+        {
+          "title": "Koselig",
+          "text": "God å være med."
+        },
+        {
+          "title": "Sterk",
+          "text": "Sier ifra når det trengs."
+        },
+        {
+          "title": "Rund",
+          "text": "Myk i kantene."
+        }
+      ]
+    },
+    {
+      "id": "elefant",
+      "name": "Elefant",
+      "shareName": "en elefant",
+      "emoji": null,
+      "description": "Du er klok, omsorgsfull og husker alt som betyr noe. Du passer på de rundt deg, store som små.",
+      "funFact": "Elefanter kan kjenne vibrasjoner i bakken gjennom føttene.",
+      "image": "images/2026-10-25/elefant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Gode råd hver gang."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Hukommelse",
+          "text": "Glemmer aldri en venn."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stødige, store skritt."
+        }
+      ]
+    },
+    {
+      "id": "surikat",
+      "name": "Surikat",
+      "shareName": "en surikat",
+      "emoji": null,
+      "description": "Du er nysgjerrig, våken og en ekte lagspiller. Du merker alt som skjer rundt deg.",
+      "funFact": "Surikater bytter på å stå vakt mens resten av gruppen leter etter mat.",
+      "image": "images/2026-10-25/surikat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Våken",
+          "text": "Merker alt som skjer."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sammen er best."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Rask i hodet."
+        }
+      ]
+    },
+    {
+      "id": "krokodille",
+      "name": "Krokodille",
+      "shareName": "en krokodille",
+      "emoji": null,
+      "description": "Du er tålmodig, kul og venter på det rette øyeblikket. Du sier ikke mye, men du får med deg alt.",
+      "funFact": "Krokodiller kan ikke rekke ut tunga, fordi den sitter fast i munnbunnen.",
+      "image": "images/2026-10-25/krokodille.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter på riktig øyeblikk."
+        },
+        {
+          "title": "Kul",
+          "text": "Rolig under press."
+        },
+        {
+          "title": "Lur",
+          "text": "Alltid et steg foran."
+        },
+        {
+          "title": "Stille",
+          "text": "Sier lite, ser alt."
+        }
+      ]
+    },
+    {
+      "id": "flamingo",
+      "name": "Flamingo",
+      "shareName": "en flamingo",
+      "emoji": null,
+      "description": "Du er stilfull, balansert og tør å skille deg ut. Du har en helt egen ro over deg.",
+      "funFact": "Flamingoer blir rosa av fargestoffer i maten de spiser, som små kreps og alger.",
+      "image": "images/2026-10-25/flamingo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "Alltid litt pyntet."
+        },
+        {
+          "title": "Balansert",
+          "text": "Står støtt, uansett."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å skille deg ut."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker store fester."
+        }
+      ]
+    },
+    {
+      "id": "gepard",
+      "name": "Gepard",
+      "shareName": "en gepard",
+      "emoji": null,
+      "description": "Du er rask, fokusert og elsker å komme i gang. Når du først setter av gårde, kan ingen henge med.",
+      "funFact": "Geparden er verdens raskeste landdyr og kan løpe rundt 100 kilometer i timen i korte rykk.",
+      "image": "images/2026-10-25/gepard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Null til hundre."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Ser bare målet."
+        },
+        {
+          "title": "Elegant",
+          "text": "Smidig og lett."
+        },
+        {
+          "title": "Utålmodig",
+          "text": "Vil helst starte nå."
+        }
+      ]
+    },
+    {
+      "id": "gorilla",
+      "name": "Gorilla",
+      "shareName": "en gorilla",
+      "emoji": null,
+      "description": "Du er sterk, snill og elsker familien din. Du ser kanskje alvorlig ut, men du har et hjerte av gull.",
+      "funFact": "Gorillaer bygger et nytt rede av blader og greiner å sove i nesten hver kveld.",
+      "image": "images/2026-10-25/gorilla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Hjerte av gull."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tryggest i rommet."
+        },
+        {
+          "title": "Familiær",
+          "text": "Flokken først."
+        },
+        {
+          "title": "Tankefull",
+          "text": "Tenker før du gjør."
+        }
+      ]
+    },
+    {
+      "id": "struts",
+      "name": "Struts",
+      "shareName": "en struts",
+      "emoji": null,
+      "description": "Du er sær på en morsom måte og løper din egen vei. Folk smiler når du kommer.",
+      "funFact": "Strutsen legger de største eggene av alle fugler som lever i dag.",
+      "image": "images/2026-10-25/struts.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Folk smiler av deg."
+        },
+        {
+          "title": "Sær",
+          "text": "Din egen stil."
+        },
+        {
+          "title": "Rask",
+          "text": "Løper din egen vei."
+        },
+        {
+          "title": "Fri",
+          "text": "Bryr deg ikke om regler."
+        }
+      ]
+    }
+  ]
+}
