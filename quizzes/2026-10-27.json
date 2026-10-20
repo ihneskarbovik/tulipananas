@@ -1,0 +1,700 @@
+{
+  "id": "2026-10-27",
+  "date": "2026-10-27",
+  "title": "Hvilket klesplagg er du i dag?",
+  "intro": "Er du en lun lue, en trofast vott eller en sorgløs stråhatt? Svar på sju litt rare spørsmål og finn ut hvilket klesplagg du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket ord er morsomst å si høyt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plopp",
+          "scores": {
+            "sokker": 2,
+            "regnjakke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smultring",
+          "scores": {
+            "lue": 2,
+            "pysjamas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Krumelur",
+          "scores": {
+            "skjerf": 2,
+            "kjole": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bobbel",
+          "scores": {
+            "hettegenser": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjiraff",
+          "scores": {
+            "badedrakt": 2,
+            "slips": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en ekstra time i døgnet, men bare klokka tre om natta. Hva gjør du med den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover videre, selvsagt",
+          "scores": {
+            "pysjamas": 2,
+            "hettegenser": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Baker boller",
+          "scores": {
+            "lusekofte": 2,
+            "pysjamas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på stjernene",
+          "scores": {
+            "skjerf": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder i en skuff",
+          "scores": {
+            "slips": 2,
+            "votter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en tur i mørket",
+          "scores": {
+            "regnjakke": 2,
+            "badedrakt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer noen i en annen tidssone",
+          "scores": {
+            "slips": 2,
+            "kjole": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken del av pannekaka er best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den sprø kanten",
+          "scores": {
+            "badedrakt": 2,
+            "regnjakke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midten",
+          "scores": {
+            "votter": 2,
+            "lusekofte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den første, litt mislykkede",
+          "scores": {
+            "sokker": 1,
+            "hettegenser": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den siste i stabelen",
+          "scores": {
+            "pysjamas": 2,
+            "lue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Alle, rullet sammen med syltetøy",
+          "scores": {
+            "strahatt": 2,
+            "pysjamas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan går du inn i et rom fullt av folk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett bort til snacksen",
+          "scores": {
+            "hettegenser": 1,
+            "sokker": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vinker til alle samtidig",
+          "scores": {
+            "kjole": 2,
+            "badedrakt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner én jeg kjenner og blir der",
+          "scores": {
+            "votter": 1,
+            "lue": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stiller meg ved veggen og observerer",
+          "scores": {
+            "lusekofte": 2,
+            "skjerf": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Begynner å fortelle en historie med en gang",
+          "scores": {
+            "strahatt": 2,
+            "slips": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "En skilpadde ber om skyss. Hvor kjører du den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Til en fin utsiktsplass",
+          "scores": {
+            "lusekofte": 1,
+            "kjole": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til biblioteket",
+          "scores": {
+            "skjerf": 1,
+            "hettegenser": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Til en fin restaurant",
+          "scores": {
+            "slips": 2,
+            "lue": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjem til meg på te",
+          "scores": {
+            "votter": 2,
+            "pysjamas": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til et kontor, den har et viktig møte",
+          "scores": {
+            "regnjakke": 1,
+            "sokker": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den får bestemme selv",
+          "scores": {
+            "badedrakt": 2,
+            "strahatt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får gi navn til en helt ny farge. Hva heter den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Morgengrøt",
+          "scores": {
+            "pysjamas": 2,
+            "lusekofte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bestemorbeige",
+          "scores": {
+            "lusekofte": 2,
+            "votter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stille tirsdag",
+          "scores": {
+            "hettegenser": 1,
+            "skjerf": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Glitrende pølse",
+          "scores": {
+            "sokker": 2,
+            "kjole": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Søndagsblå",
+          "scores": {
+            "regnjakke": 2,
+            "slips": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fersk fersken",
+          "scores": {
+            "kjole": 2,
+            "strahatt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du må begynne å samle på noe rart. Hva velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fine steiner",
+          "scores": {
+            "regnjakke": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gamle nøkler",
+          "scores": {
+            "slips": 2,
+            "skjerf": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kvitteringer",
+          "scores": {
+            "pysjamas": 1,
+            "votter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bilder av hunder som smiler",
+          "scores": {
+            "lue": 2,
+            "sokker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lyden av dører som knirker",
+          "scores": {
+            "strahatt": 2,
+            "hettegenser": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fine ting folk har sagt til meg",
+          "scores": {
+            "badedrakt": 2,
+            "kjole": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "lue",
+      "name": "Lue",
+      "shareName": "en lue",
+      "emoji": null,
+      "description": "Du er lun, folkelig og god å ha i nærheten. Folk blir varme i hjertet bare av å se deg.",
+      "funFact": "Røde toppluer ble brukt som en stille protest i Norge under andre verdenskrig, og ble til og med forbudt i 1942.",
+      "image": "images/2026-10-27/lue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Varmer alle rundt seg."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid med på tur."
+        },
+        {
+          "title": "Glad",
+          "text": "Har dusk på toppen."
+        }
+      ]
+    },
+    {
+      "id": "skjerf",
+      "name": "Skjerf",
+      "shareName": "et skjerf",
+      "emoji": null,
+      "description": "Du er omtenksom, litt poetisk og alltid stilfull. Du legger deg rundt andre når de trenger det.",
+      "funFact": "Allerede romerske soldater brukte et slags skjerf, kalt focale, for å holde halsen varm.",
+      "image": "images/2026-10-27/skjerf.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Merker hvem som fryser."
+        },
+        {
+          "title": "Poetisk",
+          "text": "Svever litt i vinden."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Pynter opp alt."
+        },
+        {
+          "title": "Myk",
+          "text": "God å lene seg mot."
+        }
+      ]
+    },
+    {
+      "id": "votter",
+      "name": "Votter",
+      "shareName": "et par votter",
+      "emoji": null,
+      "description": "Du er lojal og trygg, og du trives aller best sammen med dem du er glad i. Med deg føles alt litt mindre kaldt.",
+      "funFact": "Votter holder fingrene varmere enn hansker, fordi fingrene får varme hverandre.",
+      "image": "images/2026-10-27/votter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Holder sammen med flokken."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid der når trengs."
+        },
+        {
+          "title": "Varm",
+          "text": "Deler gjerne varmen."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        }
+      ]
+    },
+    {
+      "id": "regnjakke",
+      "name": "Regnjakke",
+      "shareName": "en regnjakke",
+      "emoji": null,
+      "description": "Du er praktisk, modig og lar deg ikke vippe av pinnen. Du gleder deg over turer andre ville avlyst.",
+      "funFact": "Mange regnjakker er gule fordi gult er lett å se i tåke, mørke og på sjøen.",
+      "image": "images/2026-10-27/regnjakke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Uredd",
+          "text": "Går ut uansett."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lyser opp grå dager."
+        }
+      ]
+    },
+    {
+      "id": "lusekofte",
+      "name": "Lusekofte",
+      "shareName": "en lusekofte",
+      "emoji": null,
+      "description": "Du er solid, tålmodig og har orden i både masker og tanker. Du blir bare bedre med årene.",
+      "funFact": "Lusekofta har navnet sitt fra de små prikkene i mønsteret, som kalles lus.",
+      "image": "images/2026-10-27/lusekofte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Én maske av gangen."
+        },
+        {
+          "title": "Solid",
+          "text": "Holder i generasjoner."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Elsker gode gamle ting."
+        },
+        {
+          "title": "Mønstret",
+          "text": "Har orden på detaljene."
+        }
+      ]
+    },
+    {
+      "id": "pysjamas",
+      "name": "Pysjamas",
+      "shareName": "en pysjamas",
+      "emoji": null,
+      "description": "Du er avslappet, drømmende og eksperten på kos. Du minner alle på at det er lov å ta det rolig.",
+      "funFact": "Ordet pysjamas kommer fra persisk og betyr omtrent benklær.",
+      "image": "images/2026-10-27/pysjamas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Har aldri hastverk."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene er langt unna."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør alt litt mykere."
+        },
+        {
+          "title": "Myk",
+          "text": "Ingen harde kanter."
+        }
+      ]
+    },
+    {
+      "id": "slips",
+      "name": "Slips",
+      "shareName": "et slips",
+      "emoji": null,
+      "description": "Du er ordentlig og pålitelig, men med en hemmelig sans for tull. Du kan være både høytidelig og fjollete på samme dag.",
+      "funFact": "Slipset stammer fra kroatiske soldater på 1600-tallet, og det franske ordet cravate kommer fra kroat.",
+      "image": "images/2026-10-27/slips.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt sitter som det skal."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Møter alltid opp."
+        },
+        {
+          "title": "Lur",
+          "text": "Har humor under knuten."
+        },
+        {
+          "title": "Høflig",
+          "text": "Sier alltid takk."
+        }
+      ]
+    },
+    {
+      "id": "kjole",
+      "name": "Kjole",
+      "shareName": "en kjole",
+      "emoji": null,
+      "description": "Du er festlig, sjarmerende og får hverdagen til å føles som en anledning. Du snurrer gjerne rundt bare fordi du kan.",
+      "funFact": "Den lille svarte kjolen ble gjort kjent av motedesigneren Coco Chanel i 1926.",
+      "image": "images/2026-10-27/kjole.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Alltid klar for fest."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Får alle til å smile."
+        },
+        {
+          "title": "Leken",
+          "text": "Snurrer når ingen ser."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av god energi."
+        }
+      ]
+    },
+    {
+      "id": "sokker",
+      "name": "Sokker",
+      "shareName": "et par sokker",
+      "emoji": null,
+      "description": "Du er leken, ukomplisert og alltid med på moroa. Du er glad selv om du ikke alltid finner makkeren din.",
+      "funFact": "Noen av de eldste kjente sokkene ble funnet i Egypt og er over 1500 år gamle.",
+      "image": "images/2026-10-27/sokker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Sklir gjerne på gulvet."
+        },
+        {
+          "title": "Enkel",
+          "text": "Krever ikke mye."
+        },
+        {
+          "title": "Morsom",
+          "text": "Gjerne med rare mønstre."
+        },
+        {
+          "title": "Nær",
+          "text": "Holder deg på bakken."
+        }
+      ]
+    },
+    {
+      "id": "hettegenser",
+      "name": "Hettegenser",
+      "shareName": "en hettegenser",
+      "emoji": null,
+      "description": "Du er avslappet, kul og litt hemmelighetsfull. Du er tryggheten folk henter frem når dagen har vært lang.",
+      "funFact": "Hettegenseren ble laget på 1930-tallet for arbeidere som jobbet i kalde lagerhus i New York.",
+      "image": "images/2026-10-27/hettegenser.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Kul",
+          "text": "Trenger ikke vise seg."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid et godt valg."
+        },
+        {
+          "title": "Hemmelig",
+          "text": "Gjemmer seg i hetta."
+        }
+      ]
+    },
+    {
+      "id": "strahatt",
+      "name": "Stråhatt",
+      "shareName": "en stråhatt",
+      "emoji": null,
+      "description": "Du er sorgløs, eventyrlysten og bærer sommeren med deg uansett vær. Folk blir lette til sinns i selskap med deg.",
+      "funFact": "Panamahatten er en stråhatt som egentlig kommer fra Ecuador, ikke fra Panama.",
+      "image": "images/2026-10-27/strahatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sorgløs",
+          "text": "Lar ting ordne seg."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Klar for neste reise."
+        },
+        {
+          "title": "Luftig",
+          "text": "Trenger litt rom."
+        },
+        {
+          "title": "Solrik",
+          "text": "Sprer godt humør."
+        }
+      ]
+    },
+    {
+      "id": "badedrakt",
+      "name": "Badedrakt",
+      "shareName": "en badedrakt",
+      "emoji": null,
+      "description": "Du er modig, spontan og hopper ut i ting før du rekker å tvile. Du gjør livet til et lite eventyr.",
+      "funFact": "Bikinien fikk navnet sitt etter Bikini-atollen i Stillehavet i 1946.",
+      "image": "images/2026-10-27/badedrakt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Hopper rett uti."
+        },
+        {
+          "title": "Spontan",
+          "text": "Bestemmer seg kjapt."
+        },
+        {
+          "title": "Frisk",
+          "text": "Elsker en kald dukkert."
+        },
+        {
+          "title": "Fri",
+          "text": "Trenger ikke mye bagasje."
+        }
+      ]
+    }
+  ]
+}
