@@ -1,383 +1,327 @@
 {
   "id": "2026-10-22",
   "date": "2026-10-22",
-  "title": "Hvilket verktøy er du i dag?",
-  "intro": "Er du en bestemt hammer, en rolig vater eller en kreativ limpistol? Svar på sju litt rare spørsmål og finn ut hvilket verktøy du er i dag.",
+  "title": "Hvilken diktator er du i dag?",
+  "intro": "Dagens quiz er en historietime. Svar på sju helt vanlige spørsmål, og få en av historiens diktatorer med fakta om hvem de var og hva de gjorde. Svarene sier ingenting om deg, bare om dagsformen.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvor mange tannbørster er det riktige antallet å eie?",
+      "text": "Hvilken kopp tar du fra skapet?",
       "options": [
         {
           "id": "a",
-          "text": "Én. Den har jeg hatt lenge.",
+          "text": "Den største",
           "scores": {
-            "hammer": 1,
-            "vater": 1
+            "hitler": 2,
+            "mao": 2
           }
         },
         {
           "id": "b",
-          "text": "Tre, i tilfelle det skjer noe spennende",
+          "text": "Den med hakk i kanten",
           "scores": {
-            "sag": 1,
-            "drill": 2
+            "napoleon": 2,
+            "cesar": 1
           }
         },
         {
           "id": "c",
-          "text": "Én til hver ukedag, med navn",
+          "text": "Den jeg fikk i gave",
           "scores": {
-            "malebaand": 1,
-            "tommestokk": 2
+            "cesar": 2,
+            "gaddafi": 2
           }
         },
         {
           "id": "d",
-          "text": "To, en for sure dager og en for glade",
+          "text": "Den som står fremst",
           "scores": {
-            "skiftenokkel": 1,
-            "pensel": 2
+            "djengis": 2,
+            "mao": 2
           }
         },
         {
           "id": "e",
-          "text": "Så mange at de får en egen kopp",
+          "text": "En glassbolle, egentlig",
           "scores": {
-            "malerrull": 2,
-            "skrutrekker": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Én til meg og én til gjester som overnatter",
-          "scores": {
-            "limpistol": 2,
-            "tang": 1
+            "stalin": 2,
+            "castro": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva heter båten din?",
+      "text": "Hva synes du om lange e-poster?",
       "options": [
         {
           "id": "a",
-          "text": "Rolige Rut",
+          "text": "Jeg leser alt, to ganger",
           "scores": {
-            "skrutrekker": 1,
-            "malerrull": 1
+            "djengis": 2,
+            "cesar": 1
           }
         },
         {
           "id": "b",
-          "text": "Bestevenn",
+          "text": "Jeg leser første linje",
           "scores": {
-            "tang": 2,
-            "limpistol": 1
+            "napoleon": 2,
+            "hitler": 1
           }
         },
         {
           "id": "c",
-          "text": "Stille Vann",
+          "text": "Jeg svarer med ett ord",
           "scores": {
-            "vater": 2,
-            "hammer": 1
+            "saddam": 2,
+            "gaddafi": 2
           }
         },
         {
           "id": "d",
-          "text": "Full Fart",
+          "text": "Jeg skriver enda lengre tilbake",
           "scores": {
-            "drill": 2,
-            "sag": 1
+            "mussolini": 2,
+            "mao": 1
           }
         },
         {
           "id": "e",
-          "text": "Bestemors Stolthet",
+          "text": "Jeg printer dem ut",
           "scores": {
-            "tommestokk": 2,
-            "malebaand": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Månestrek",
-          "scores": {
-            "pensel": 2,
-            "skiftenokkel": 1
+            "gaddafi": 2,
+            "djengis": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Du kan gjøre én ting om til gelé. Hva velger du?",
+      "text": "Hvordan parkerer du en handlevogn?",
       "options": [
         {
           "id": "a",
-          "text": "Postkassen",
+          "text": "Pent i rekka",
           "scores": {
-            "sag": 2,
-            "pensel": 1
+            "saddam": 2,
+            "gaddafi": 2
           }
         },
         {
           "id": "b",
-          "text": "En globus",
+          "text": "Midt i veien, beklager",
           "scores": {
-            "malebaand": 2,
-            "skrutrekker": 1
+            "gaddafi": 2,
+            "castro": 2
           }
         },
         {
           "id": "c",
-          "text": "Alle sokkene mine",
+          "text": "Jeg trekker den hjem igjen",
           "scores": {
-            "skiftenokkel": 2,
-            "tang": 1
+            "hitler": 2,
+            "gaddafi": 2
           }
         },
         {
           "id": "d",
-          "text": "Hele lekeplassen",
+          "text": "Jeg gir den til neste person",
           "scores": {
-            "malerrull": 2,
-            "vater": 1
+            "mao": 2,
+            "saddam": 1
           }
         },
         {
           "id": "e",
-          "text": "Sofaen, så alle kan sitte i den sammen",
+          "text": "Jeg lar den trille litt",
           "scores": {
-            "limpistol": 2,
-            "drill": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Vekkerklokka",
-          "scores": {
-            "hammer": 1,
-            "tommestokk": 1
+            "mussolini": 2,
+            "mao": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva tar du med på piknik?",
+      "text": "En papegøye skal bo hos deg i en uke. Hvor sover den?",
       "options": [
         {
           "id": "a",
-          "text": "Termos med kakao til alle",
+          "text": "I bokhylla",
           "scores": {
-            "tang": 2,
-            "malerrull": 1
+            "stalin": 2,
+            "mussolini": 1
           }
         },
         {
           "id": "b",
-          "text": "Et ullteppe som er helt flatt",
+          "text": "På hodegjerdet",
           "scores": {
-            "vater": 2,
-            "limpistol": 1
+            "djengis": 2,
+            "mussolini": 1
           }
         },
         {
           "id": "c",
-          "text": "En ball og masse energi",
+          "text": "I et eget lite telt",
           "scores": {
-            "drill": 2,
-            "hammer": 1
+            "castro": 2,
+            "napoleon": 2
           }
         },
         {
           "id": "d",
-          "text": "Matpakke i gammel blikkboks",
+          "text": "På kjøkkenbenken",
           "scores": {
-            "tommestokk": 2,
-            "sag": 1
+            "hitler": 2,
+            "castro": 2
           }
         },
         {
           "id": "e",
-          "text": "En skissebok og blyant",
+          "text": "Den får bestemme selv",
           "scores": {
-            "pensel": 2,
-            "malebaand": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Litt av alt, i tilfelle",
-          "scores": {
-            "skrutrekker": 2,
-            "skiftenokkel": 1
+            "napoleon": 2,
+            "hitler": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan teller du til ti?",
+      "text": "Hvor tidlig kommer du til en avtale?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg kikker rundt og teller ting jeg ser",
+          "text": "En halvtime før",
           "scores": {
-            "malebaand": 2,
-            "pensel": 1
+            "saddam": 2,
+            "napoleon": 2
           }
         },
         {
           "id": "b",
-          "text": "Annenhver gang på to språk",
+          "text": "Fem minutter før",
           "scores": {
-            "skiftenokkel": 2,
-            "skrutrekker": 1
+            "stalin": 2,
+            "djengis": 1
           }
         },
         {
           "id": "c",
-          "text": "Høyt, i kor med noen",
+          "text": "Akkurat på sekundet",
           "scores": {
-            "malerrull": 2,
-            "tang": 1
+            "mao": 2,
+            "stalin": 2
           }
         },
         {
           "id": "d",
-          "text": "Med en liten pause midt i",
+          "text": "Litt sent, med god grunn",
           "scores": {
-            "limpistol": 2,
-            "vater": 1
+            "castro": 2,
+            "saddam": 1
           }
         },
         {
           "id": "e",
-          "text": "Fort, og så roper jeg TI!",
+          "text": "Jeg flytter avtalen",
           "scores": {
-            "hammer": 2,
-            "drill": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg starter på ti og teller nedover",
-          "scores": {
-            "sag": 2,
-            "tommestokk": 1
+            "cesar": 2,
+            "castro": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilken sti velger du i skogen?",
+      "text": "Noen tar den siste pizzabiten. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Den som går rundt vannet",
+          "text": "Ingenting, men jeg husker det",
           "scores": {
-            "vater": 2,
-            "sag": 1
+            "cesar": 2,
+            "stalin": 2
           }
         },
         {
           "id": "b",
-          "text": "Den bratteste",
+          "text": "Bestiller en ny pizza",
           "scores": {
-            "drill": 2,
-            "malebaand": 1
+            "mao": 2,
+            "napoleon": 1
           }
         },
         {
           "id": "c",
-          "text": "Den gamle med merker på trærne",
+          "text": "Ler og later som ingenting",
           "scores": {
-            "tommestokk": 2,
-            "skiftenokkel": 1
+            "saddam": 2,
+            "mussolini": 1
           }
         },
         {
           "id": "d",
-          "text": "Den med flest blomster",
+          "text": "Krever en rettferdig deling",
           "scores": {
-            "pensel": 2,
-            "malerrull": 1
+            "gaddafi": 2,
+            "mussolini": 1
           }
         },
         {
           "id": "e",
-          "text": "Den som er minst brukt",
+          "text": "Jeg hadde allerede gjemt en",
           "scores": {
-            "skrutrekker": 2,
-            "limpistol": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den vennene mine går",
-          "scores": {
-            "tang": 2,
-            "hammer": 1
+            "hitler": 2,
+            "cesar": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvordan hilser du på en hund du ikke kjenner?",
+      "text": "Hvilken del av avisa leser du først?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg spør eieren om navnet først",
+          "text": "Forsiden",
           "scores": {
-            "skiftenokkel": 2,
-            "pensel": 1
+            "saddam": 2,
+            "mussolini": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg sier hei med stor stemme",
+          "text": "Været",
           "scores": {
-            "malerrull": 2,
-            "skrutrekker": 1
+            "hitler": 2,
+            "castro": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg setter meg ned og venter",
+          "text": "Kryssordet",
           "scores": {
-            "limpistol": 2,
-            "tang": 1
+            "cesar": 2,
+            "saddam": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg nikker vennlig, som til en kollega",
+          "text": "Debatten",
           "scores": {
-            "hammer": 2,
-            "vater": 1
+            "stalin": 2,
+            "gaddafi": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg begynner å småløpe med den",
+          "text": "Tegneseriene",
           "scores": {
-            "sag": 2,
-            "drill": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg forteller den om dagen min",
-          "scores": {
-            "malebaand": 2,
-            "tommestokk": 1
+            "mussolini": 2,
+            "djengis": 2
           }
         }
       ]
@@ -385,338 +329,282 @@
   ],
   "outcomes": [
     {
-      "id": "hammer",
-      "name": "Hammer",
-      "shareName": "en hammer",
+      "id": "cesar",
+      "name": "Julius Cæsar",
+      "shareName": "Julius Cæsar",
       "emoji": null,
-      "description": "Du er bestemt, ærlig og sier ting som de er. Når du først har bestemt deg, skjer det noe.",
-      "funFact": "I norrøn mytologi het Tors hammer Mjølne, og den kom alltid tilbake når han kastet den.",
-      "image": "images/2026-10-22/hammer.jpg",
+      "description": "Du er Julius Cæsar, romersk general som tok makten i republikken og ble utnevnt til diktator på livstid. Han ble drept av senatorer som fryktet at han ville bli konge.",
+      "funFact": "Cæsar ble drept 15. mars år 44 f.Kr., en dag romerne kalte idus martiae.",
+      "image": "images/2026-10-22/cesar.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Bestemt",
-          "text": "Vet hva du vil."
+          "title": "Rike",
+          "text": "Romerriket"
         },
         {
-          "title": "Ærlig",
-          "text": "Sier det rett ut."
+          "title": "Makt",
+          "text": "49–44 f.Kr."
         },
         {
-          "title": "Sterk",
-          "text": "Tåler en støyt."
+          "title": "Tittel",
+          "text": "Diktator på livstid"
         },
         {
-          "title": "Trofast",
-          "text": "Alltid der du trengs."
+          "title": "Arv",
+          "text": "Juli er oppkalt etter ham"
         }
       ]
     },
     {
-      "id": "skrutrekker",
-      "name": "Skrutrekker",
-      "shareName": "en skrutrekker",
+      "id": "djengis",
+      "name": "Djengis Khan",
+      "shareName": "Djengis Khan",
       "emoji": null,
-      "description": "Du er tålmodig og rolig, og tar én ting om gangen. Folk kommer til deg når noe sitter fast.",
-      "funFact": "Stjerneskruen og skrutrekkeren til den ble gjort kjent av amerikaneren Henry Phillips på 1930-tallet.",
-      "image": "images/2026-10-22/skrutrekker.jpg",
+      "description": "Du er Djengis Khan, som samlet de mongolske stammene og grunnla Mongolriket. Erobringene hans kostet millioner av mennesker livet.",
+      "funFact": "Mongolriket ble etter hvert det største sammenhengende landriket i historien, men det nådde sin største utstrekning først etter at Djengis Khan var død.",
+      "image": "images/2026-10-22/djengis.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Tålmodig",
-          "text": "Tar det i ro."
+          "title": "Rike",
+          "text": "Mongolriket"
         },
         {
-          "title": "Hjelpsom",
-          "text": "Løser små floker."
+          "title": "Makt",
+          "text": "1206–1227"
         },
         {
-          "title": "Rolig",
-          "text": "Aldri i panikk."
+          "title": "Tittel",
+          "text": "Storkhan"
         },
         {
-          "title": "Grundig",
-          "text": "Gir seg ikke halvveis."
+          "title": "Arv",
+          "text": "Erobringer over to kontinenter"
         }
       ]
     },
     {
-      "id": "sag",
-      "name": "Sag",
-      "shareName": "en sag",
+      "id": "napoleon",
+      "name": "Napoleon Bonaparte",
+      "shareName": "Napoleon Bonaparte",
       "emoji": null,
-      "description": "Du er modig og går rett på sak. Du liker å komme deg gjennom ting og videre til neste eventyr.",
-      "funFact": "Japanske sager er laget for å sage når du drar dem mot deg, ikke når du skyver.",
-      "image": "images/2026-10-22/sag.jpg",
+      "description": "Du er Napoleon Bonaparte, offiseren som tok makten i Frankrike og kronet seg selv til keiser. Krigene hans spredte seg over hele Europa.",
+      "funFact": "Napoleon var ikke spesielt lav. Han var rundt 1,69 meter, omtrent som en gjennomsnittlig franskmann på den tiden.",
+      "image": "images/2026-10-22/napoleon.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Modig",
-          "text": "Tør der andre nøler."
+          "title": "Land",
+          "text": "Frankrike"
         },
         {
-          "title": "Eventyrlysten",
-          "text": "Alltid på vei videre."
+          "title": "Makt",
+          "text": "1799–1815"
         },
         {
-          "title": "Rask",
-          "text": "Kommer seg gjennom alt."
+          "title": "Tittel",
+          "text": "Keiser av Frankrike"
         },
         {
-          "title": "Ivrig",
-          "text": "Gleder seg til i morgen."
+          "title": "Arv",
+          "text": "Kriger og nytt lovverk"
         }
       ]
     },
     {
-      "id": "tang",
-      "name": "Tang",
-      "shareName": "en tang",
+      "id": "mussolini",
+      "name": "Benito Mussolini",
+      "shareName": "Benito Mussolini",
       "emoji": null,
-      "description": "Du er lojal og holder godt fast i vennene dine. Når noen trenger et grep, er du der.",
-      "funFact": "På norsk betyr «tang» både et verktøy og en type sjøgress som vokser i fjæra.",
-      "image": "images/2026-10-22/tang.jpg",
+      "description": "Du er Benito Mussolini, som grunnla fascismen og styrte Italia som diktator. Han gikk inn i andre verdenskrig på Hitlers side.",
+      "funFact": "Ordet fascisme kommer fra det italienske ordet «fascio», som betyr knippe.",
+      "image": "images/2026-10-22/mussolini.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Lojal",
-          "text": "Slipper aldri taket."
+          "title": "Land",
+          "text": "Italia"
         },
         {
-          "title": "Sterk",
-          "text": "Har et godt grep."
+          "title": "Makt",
+          "text": "1922–1943"
         },
         {
-          "title": "Varm",
-          "text": "Tar vare på flokken."
+          "title": "Tittel",
+          "text": "Il Duce"
         },
         {
-          "title": "Trygg",
-          "text": "God å ha nær."
+          "title": "Arv",
+          "text": "Fascismen og krig"
         }
       ]
     },
     {
-      "id": "malebaand",
-      "name": "Målebånd",
-      "shareName": "et målebånd",
+      "id": "hitler",
+      "name": "Adolf Hitler",
+      "shareName": "Adolf Hitler",
       "emoji": null,
-      "description": "Du er nysgjerrig og vil vite hvor langt alt egentlig er. Etterpå ruller du deg sammen og slapper av.",
-      "funFact": "Meteren ble opprinnelig definert som en timilliondel av avstanden fra Nordpolen til ekvator.",
-      "image": "images/2026-10-22/malebaand.jpg",
+      "description": "Du er Adolf Hitler, som ledet Nazi-Tyskland og startet andre verdenskrig i Europa. Under Holocaust ble rundt seks millioner jøder drept.",
+      "funFact": "Hitler ble født i Braunau am Inn i Østerrike i 1889, ikke i Tyskland.",
+      "image": "images/2026-10-22/hitler.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Nysgjerrig",
-          "text": "Lurer alltid på noe."
+          "title": "Land",
+          "text": "Tyskland"
         },
         {
-          "title": "Smidig",
-          "text": "Bøyer seg uten å knekke."
+          "title": "Makt",
+          "text": "1933–1945"
         },
         {
-          "title": "Leken",
-          "text": "Spretter tilbake fort."
+          "title": "Tittel",
+          "text": "Fører og rikskansler"
         },
         {
-          "title": "Oppmerksom",
-          "text": "Legger merke til detaljer."
+          "title": "Arv",
+          "text": "Holocaust og verdenskrig"
         }
       ]
     },
     {
-      "id": "vater",
-      "name": "Vater",
-      "shareName": "et vater",
+      "id": "stalin",
+      "name": "Josef Stalin",
+      "shareName": "Josef Stalin",
       "emoji": null,
-      "description": "Du er balansert og rolig, og får andre til å puste ut. Du finner alltid midten.",
-      "funFact": "Inne i et vater er det en luftboble i væske, og boblen flyter alltid mot det høyeste punktet.",
-      "image": "images/2026-10-22/vater.jpg",
+      "description": "Du er Josef Stalin, som styrte Sovjetunionen med hard hånd i nesten 30 år. Millioner døde i arbeidsleirer, utrenskninger og hungersnød.",
+      "funFact": "Stalin het egentlig Josef Dzjugasjvili og kom fra Georgia. Navnet Stalin betyr «mann av stål».",
+      "image": "images/2026-10-22/stalin.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Balansert",
-          "text": "Finner alltid midten."
+          "title": "Land",
+          "text": "Sovjetunionen"
         },
         {
-          "title": "Rolig",
-          "text": "Senker skuldrene rundt deg."
+          "title": "Makt",
+          "text": "1920-tallet–1953"
         },
         {
-          "title": "Rettferdig",
-          "text": "Behandler alle likt."
+          "title": "Tittel",
+          "text": "Generalsekretær"
         },
         {
-          "title": "Klok",
-          "text": "Tenker før du snakker."
+          "title": "Arv",
+          "text": "Terror og arbeidsleirer"
         }
       ]
     },
     {
-      "id": "skiftenokkel",
-      "name": "Skiftenøkkel",
-      "shareName": "en skiftenøkkel",
+      "id": "mao",
+      "name": "Mao Zedong",
+      "shareName": "Mao Zedong",
       "emoji": null,
-      "description": "Du tilpasser deg alt og alle, og passer inn overalt. Ingen oppgave er for stor eller for liten.",
-      "funFact": "Skiftenøkkelen slik vi kjenner den ble oppfunnet av svensken Johan Petter Johansson på 1890-tallet.",
-      "image": "images/2026-10-22/skiftenokkel.jpg",
+      "description": "Du er Mao Zedong, som grunnla Folkerepublikken Kina i 1949. Det store spranget og kulturrevolusjonen kostet titalls millioner liv.",
+      "funFact": "Mao ledet Den lange marsjen i 1934–1935, en tilbaketrekning på rundt 10 000 kilometer gjennom Kina.",
+      "image": "images/2026-10-22/mao.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Allsidig",
-          "text": "Kan litt av alt."
+          "title": "Land",
+          "text": "Kina"
         },
         {
-          "title": "Tilpasningsdyktig",
-          "text": "Passer inn overalt."
+          "title": "Makt",
+          "text": "1949–1976"
         },
         {
-          "title": "Smart",
-          "text": "Finner nye løsninger."
+          "title": "Tittel",
+          "text": "Formann"
         },
         {
-          "title": "Avslappet",
-          "text": "Tar ting som de kommer."
+          "title": "Arv",
+          "text": "Hungersnød og kulturrevolusjon"
         }
       ]
     },
     {
-      "id": "drill",
-      "name": "Drill",
-      "shareName": "en drill",
+      "id": "castro",
+      "name": "Fidel Castro",
+      "shareName": "Fidel Castro",
       "emoji": null,
-      "description": "Du er full av fart og entusiasme, og det merkes når du kommer. Du får ting til å skje, og det fort.",
-      "funFact": "Den første bærbare elektriske drillen ble laget av det tyske firmaet Fein i 1895.",
-      "image": "images/2026-10-22/drill.jpg",
+      "description": "Du er Fidel Castro, som tok makten på Cuba etter revolusjonen i 1959. Han innførte ettpartistat og satte politiske motstandere i fengsel.",
+      "funFact": "Castro holdt en tale i FN i 1960 som varte i nesten fire og en halv time, den lengste talen i FNs historie.",
+      "image": "images/2026-10-22/castro.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Energisk",
-          "text": "Har fart fra morgenen."
+          "title": "Land",
+          "text": "Cuba"
         },
         {
-          "title": "Entusiastisk",
-          "text": "Gleder deg høylytt."
+          "title": "Makt",
+          "text": "1959–2008"
         },
         {
-          "title": "Effektiv",
-          "text": "Får ting gjort fort."
+          "title": "Tittel",
+          "text": "Statsminister og president"
         },
         {
-          "title": "Morsom",
-          "text": "Lager god stemning."
+          "title": "Arv",
+          "text": "Ettpartistat og sensur"
         }
       ]
     },
     {
-      "id": "malerrull",
-      "name": "Malerrull",
-      "shareName": "en malerrull",
+      "id": "saddam",
+      "name": "Saddam Hussein",
+      "shareName": "Saddam Hussein",
       "emoji": null,
-      "description": "Du sprer godt humør over store flater. Der du har vært, ser alt litt friskere ut.",
-      "funFact": "Noen hulemalerier er over 40 000 år gamle, lenge før noen fant opp malerrullen.",
-      "image": "images/2026-10-22/malerrull.jpg",
+      "description": "Du er Saddam Hussein, som styrte Irak med frykt og ledet landet inn i flere kriger. Regimet hans brukte giftgass mot kurdere.",
+      "funFact": "Da Saddam lot ruinene av Babylon bygge opp igjen, fikk han navnet sitt stemplet på mange av mursteinene.",
+      "image": "images/2026-10-22/saddam.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Glad",
-          "text": "Smitter med godt humør."
+          "title": "Land",
+          "text": "Irak"
         },
         {
-          "title": "Raus",
-          "text": "Deler med alle."
+          "title": "Makt",
+          "text": "1979–2003"
         },
         {
-          "title": "Sosial",
-          "text": "Trives med mange rundt."
+          "title": "Tittel",
+          "text": "President"
         },
         {
-          "title": "Optimist",
-          "text": "Ser lyst på det meste."
+          "title": "Arv",
+          "text": "Kriger og giftgassangrep"
         }
       ]
     },
     {
-      "id": "tommestokk",
-      "name": "Tommestokk",
-      "shareName": "en tommestokk",
+      "id": "gaddafi",
+      "name": "Muammar Gaddafi",
+      "shareName": "Muammar Gaddafi",
       "emoji": null,
-      "description": "Du har en gammeldags sjarm og liker at ting er ordentlig. Du kan brette deg sammen og alltid være med.",
-      "funFact": "Navnet kommer fra måleenheten tomme, og én tomme er omtrent 2,5 centimeter.",
-      "image": "images/2026-10-22/tommestokk.jpg",
+      "description": "Du er Muammar Gaddafi, som tok makten i Libya ved et kupp i 1969 og styrte i over 40 år. Han slo hardt ned på all motstand.",
+      "funFact": "Gaddafi bodde ofte i et beduintelt, og han tok det med seg også på statsbesøk i utlandet.",
+      "image": "images/2026-10-22/gaddafi.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Sjarmerende",
-          "text": "Gammeldags på den fine måten."
+          "title": "Land",
+          "text": "Libya"
         },
         {
-          "title": "Ordentlig",
-          "text": "Liker system og orden."
+          "title": "Makt",
+          "text": "1969–2011"
         },
         {
-          "title": "Pålitelig",
-          "text": "Holder det du lover."
+          "title": "Tittel",
+          "text": "Revolusjonens leder"
         },
         {
-          "title": "Praktisk",
-          "text": "Alltid klar i lomma."
-        }
-      ]
-    },
-    {
-      "id": "limpistol",
-      "name": "Limpistol",
-      "shareName": "en limpistol",
-      "emoji": null,
-      "description": "Du er kreativ og varm, og du får folk og ting til å henge sammen. Uten deg ville mye falt fra hverandre.",
-      "funFact": "Limet i en limpistol er faste pinner som smelter når de varmes opp og stivner raskt igjen.",
-      "image": "images/2026-10-22/limpistol.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Kreativ",
-          "text": "Lager noe av ingenting."
-        },
-        {
-          "title": "Varm",
-          "text": "Får alle til å trives."
-        },
-        {
-          "title": "Samlende",
-          "text": "Holder gjengen sammen."
-        },
-        {
-          "title": "Oppfinnsom",
-          "text": "Har alltid en idé."
-        }
-      ]
-    },
-    {
-      "id": "pensel",
-      "name": "Pensel",
-      "shareName": "en pensel",
-      "emoji": null,
-      "description": "Du er drømmende og ser fargene i små ting. Du gjør verden litt finere, ett strøk om gangen.",
-      "funFact": "Mange kunstnerpensler er laget av ekte dyrehår, for eksempel fra mår eller svin.",
-      "image": "images/2026-10-22/pensel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Drømmende",
-          "text": "Har hodet i skyene."
-        },
-        {
-          "title": "Kunstnerisk",
-          "text": "Ser skjønnhet overalt."
-        },
-        {
-          "title": "Følsom",
-          "text": "Kjenner stemninger godt."
-        },
-        {
-          "title": "Detaljert",
-          "text": "Elsker de små tingene."
+          "title": "Arv",
+          "text": "Undertrykkelse og terror"
         }
       ]
     }
