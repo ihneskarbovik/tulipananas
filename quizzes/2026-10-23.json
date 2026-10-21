@@ -2,7 +2,7 @@
   "id": "2026-10-23",
   "date": "2026-10-23",
   "title": "Hvilken realityserie burde du være med i?",
-  "intro": "Er du skapt for et liv uten strøm, store scener eller tøffe utfordringer langt mot nord? Svar på sju litt rare spørsmål og finn ut hvilken realityserie du burde vært med i.",
+  "intro": "Er du skapt for et liv uten strøm, store scener, tøffe utfordringer langt mot nord eller romantikk i solen? Svar på sju litt rare spørsmål og finn ut hvilken realityserie du burde vært med i.",
   "questions": [
     {
       "id": "q1",
@@ -13,7 +13,7 @@
           "text": "Den fineste skjorta jeg har",
           "scores": {
             "hvergang": 2,
-            "idol": 1
+            "jakten": 1
           }
         },
         {
@@ -52,8 +52,8 @@
           "id": "f",
           "text": "En hatt med fjær",
           "scores": {
-            "idol": 2,
-            "nord71": 2
+            "nord71": 2,
+            "jakten": 2
           }
         }
       ]
@@ -83,15 +83,15 @@
           "text": "Jeg skriver dikt på dem",
           "scores": {
             "robinson": 2,
-            "thevoice": 2
+            "paradise": 2
           }
         },
         {
           "id": "d",
           "text": "De burde finnes i flere farger",
           "scores": {
-            "thevoice": 2,
-            "lauritzen": 1
+            "lauritzen": 1,
+            "paradise": 2
           }
         },
         {
@@ -107,7 +107,7 @@
           "text": "Jeg husker alt i hodet uansett",
           "scores": {
             "mesternes": 2,
-            "thevoice": 2
+            "paradise": 2
           }
         }
       ]
@@ -160,8 +160,8 @@
           "id": "f",
           "text": "Gjør det mens jeg forteller historier",
           "scores": {
-            "idol": 2,
-            "thevoice": 1
+            "jakten": 2,
+            "paradise": 1
           }
         }
       ]
@@ -175,7 +175,7 @@
           "text": "En vennlig elg",
           "scores": {
             "altfornorge": 2,
-            "idol": 1
+            "jakten": 1
           }
         },
         {
@@ -198,16 +198,16 @@
           "id": "d",
           "text": "En familie med pinnsvin",
           "scores": {
-            "thevoice": 2,
-            "farmen": 1
+            "farmen": 1,
+            "paradise": 2
           }
         },
         {
           "id": "e",
           "text": "En stille skilpadde",
           "scores": {
-            "idol": 2,
-            "stjernekamp": 1
+            "stjernekamp": 1,
+            "jakten": 2
           }
         },
         {
@@ -229,7 +229,7 @@
           "text": "Går ut en tur",
           "scores": {
             "nord71": 2,
-            "thevoice": 1
+            "paradise": 1
           }
         },
         {
@@ -253,7 +253,7 @@
           "text": "Rydder en skuff",
           "scores": {
             "stjernekamp": 2,
-            "idol": 1
+            "jakten": 1
           }
         },
         {
@@ -298,8 +298,8 @@
           "id": "c",
           "text": "Halvveis, så tar jeg et bilde",
           "scores": {
-            "thevoice": 2,
-            "hvergang": 2
+            "hvergang": 2,
+            "paradise": 2
           }
         },
         {
@@ -307,7 +307,7 @@
           "text": "Jeg heier fra bakken",
           "scores": {
             "talenter": 2,
-            "idol": 2
+            "jakten": 2
           }
         },
         {
@@ -322,8 +322,8 @@
           "id": "f",
           "text": "Jeg bygger heller en stige",
           "scores": {
-            "idol": 2,
-            "stjernekamp": 1
+            "stjernekamp": 1,
+            "jakten": 2
           }
         }
       ]
@@ -353,7 +353,7 @@
           "text": "Plopp",
           "scores": {
             "robinson": 2,
-            "idol": 1
+            "jakten": 1
           }
         },
         {
@@ -361,7 +361,7 @@
           "text": "Vennskap",
           "scores": {
             "skalvidanse": 2,
-            "thevoice": 1
+            "paradise": 1
           }
         },
         {
@@ -376,8 +376,8 @@
           "id": "f",
           "text": "Hei",
           "scores": {
-            "thevoice": 2,
-            "skalvidanse": 2
+            "skalvidanse": 2,
+            "paradise": 2
           }
         }
       ]
@@ -665,58 +665,58 @@
       ]
     },
     {
-      "id": "idol",
-      "name": "Idol",
-      "shareName": "Idol",
+      "id": "jakten",
+      "name": "Jakten på kjærligheten",
+      "shareName": "Jakten på kjærligheten",
       "emoji": null,
-      "description": "Du drømmer stort og jobber hardt for drømmene dine. Du ville gått fra å være ukjent til å bli alles favoritt.",
-      "funFact": "Idol startet på TV 2 i 2003. Den første vinneren, Kurt Nilsen, vant også World Idol året etter.",
-      "image": "images/2026-10-23/idol.jpg",
+      "description": "Du er romantisk og ærlig, og du drømmer om noen å dele hverdagen med. Du ville funnet kjærligheten et sted langt fra byen.",
+      "funFact": "Jakten på kjærligheten har gått på TV 2 i over 20 sesonger, og handler om single fra bygde-Norge som leter etter kjærligheten.",
+      "image": "images/2026-10-23/jakten.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Drømmer",
-          "text": "Sikter mot stjernene."
+          "title": "Romantisk",
+          "text": "Tror på ekte kjærlighet."
         },
         {
-          "title": "Hardtarbeidende",
-          "text": "Øver hver dag."
+          "title": "Ærlig",
+          "text": "Sier det du føler."
         },
         {
-          "title": "Ekte",
-          "text": "Er seg selv."
+          "title": "Varm",
+          "text": "Tar godt imot alle."
         },
         {
-          "title": "Sjarmerende",
-          "text": "Vinner folk over."
+          "title": "Tålmodig",
+          "text": "Venter på den rette."
         }
       ]
     },
     {
-      "id": "thevoice",
-      "name": "The Voice – Norges beste stemme",
-      "shareName": "The Voice",
+      "id": "paradise",
+      "name": "Paradise Hotel",
+      "shareName": "Paradise Hotel",
       "emoji": null,
-      "description": "Du er ekte og vet at det viktigste er det som kommer innenfra. Du ville overbevist alle uten at de så deg.",
-      "funFact": "I The Voice, som startet på TV 2 i 2012, velger coachene deltakere bare ved å lytte, uten å se dem.",
-      "image": "images/2026-10-23/thevoice.jpg",
+      "description": "Du er sosial, spontan og elsker litt drama, så lenge det er gøy. Du ville fått nye venner, og kanskje noen fiender, før første kveld var over.",
+      "funFact": "Paradise Hotel har gått på TV3 siden 2009, og spilles inn på et luksushotell i Mexico.",
+      "image": "images/2026-10-23/paradise.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ekte",
-          "text": "Det indre teller mest."
+          "title": "Sosial",
+          "text": "Kjenner alle på festen."
         },
         {
-          "title": "Rolig",
-          "text": "Nerver av stål."
+          "title": "Spontan",
+          "text": "Sier ja til alt."
         },
         {
-          "title": "Varm",
-          "text": "Berører folk."
+          "title": "Strategisk",
+          "text": "Velger allierte med omhu."
         },
         {
-          "title": "Selvsikker",
-          "text": "Vet hva du kan."
+          "title": "Sjarmerende",
+          "text": "Får alle til å smile."
         }
       ]
     }
