@@ -1,0 +1,716 @@
+{
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "title": "Hvilket programmeringsspråk er du i dag?",
+  "intro": "Er du en vennlig Python, en spontan JavaScript eller en leken Scratch? Du trenger ikke kunne kode for å svare på de sju spørsmålene, bare være deg selv.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken fugl ville vært best til å holde orden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En ugle",
+          "scores": {
+            "swift": 2,
+            "go": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En pingvin",
+          "scores": {
+            "scratch": 2,
+            "swift": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En skjære",
+          "scores": {
+            "javascript": 2,
+            "kotlin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En papegøye",
+          "scores": {
+            "java": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En kråke",
+          "scores": {
+            "typescript": 2,
+            "kotlin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En due",
+          "scores": {
+            "rust": 2,
+            "kotlin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om sokker i sandaler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Genialt, varmt og luftig",
+          "scores": {
+            "swift": 2,
+            "cpp": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare hvis sokkene matcher",
+          "scores": {
+            "rust": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Aldri i livet",
+          "scores": {
+            "python": 2,
+            "javascript": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ja, med striper",
+          "scores": {
+            "go": 2,
+            "typescript": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har aldri tenkt på det",
+          "scores": {
+            "cpp": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det kommer an på været",
+          "scores": {
+            "scratch": 2,
+            "cpp": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En blekksprut kommer på middag. Hvor setter du den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved bordenden, med god plass",
+          "scores": {
+            "java": 2,
+            "c": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved siden av meg",
+          "scores": {
+            "c": 2,
+            "swift": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved vinduet",
+          "scores": {
+            "go": 2,
+            "csharp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lager en egen stol",
+          "scores": {
+            "rust": 2,
+            "kotlin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den får bestemme selv",
+          "scores": {
+            "python": 2,
+            "java": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Midt på bordet, så alle ser den",
+          "scores": {
+            "cpp": 2,
+            "csharp": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan sorterer du skoene i gangen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Par for par, på rekke",
+          "scores": {
+            "c": 2,
+            "swift": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Etter farge",
+          "scores": {
+            "typescript": 2,
+            "cpp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg har bare ett par",
+          "scores": {
+            "csharp": 2,
+            "java": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en stor haug",
+          "scores": {
+            "swift": 2,
+            "rust": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Etter hvem som eier dem",
+          "scores": {
+            "scratch": 2,
+            "go": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Etter hvor ofte jeg bruker dem",
+          "scores": {
+            "kotlin": 2,
+            "javascript": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan lærer du deg et nytt brettspill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser hele regelboka først",
+          "scores": {
+            "python": 2,
+            "swift": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spiller og ser hva som skjer",
+          "scores": {
+            "c": 2,
+            "typescript": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør den som har spilt før",
+          "scores": {
+            "rust": 2,
+            "cpp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser en video",
+          "scores": {
+            "kotlin": 2,
+            "python": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager egne regler",
+          "scores": {
+            "csharp": 2,
+            "swift": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lærer det bort til andre med en gang",
+          "scores": {
+            "scratch": 2,
+            "javascript": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange ting gjør du samtidig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én, men skikkelig",
+          "scores": {
+            "go": 2,
+            "csharp": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "To",
+          "scores": {
+            "swift": 2,
+            "c": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fem eller flere",
+          "scores": {
+            "kotlin": 2,
+            "cpp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det kommer an på dagen",
+          "scores": {
+            "python": 2,
+            "csharp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg starter mange, fullfører noen",
+          "scores": {
+            "rust": 2,
+            "go": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken farge har en god idé?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gul",
+          "scores": {
+            "javascript": 2,
+            "c": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blå",
+          "scores": {
+            "csharp": 2,
+            "java": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grønn",
+          "scores": {
+            "kotlin": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Oransje",
+          "scores": {
+            "typescript": 2,
+            "scratch": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lilla",
+          "scores": {
+            "go": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Alle farger på en gang",
+          "scores": {
+            "java": 2,
+            "rust": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "python",
+      "name": "Python",
+      "shareName": "Python",
+      "emoji": null,
+      "description": "Du er vennlig, lettlest og populær i alle kretser. Folk liker deg fra første møte, og du får mye gjort uten å gjøre noe nummer av det.",
+      "funFact": "Python er oppkalt etter den britiske komigruppen Monty Python, ikke etter slangen. Guido van Rossum ga ut første versjon i 1991.",
+      "image": "images/2026-11-10/python.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vennlig",
+          "text": "Alle forstår deg straks."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til nesten alt."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker luft og orden."
+        },
+        {
+          "title": "Populær",
+          "text": "Har venner overalt."
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "shareName": "JavaScript",
+      "emoji": null,
+      "description": "Du er spontan, overalt og alltid i gang. Du gjør ting litt på din egen måte, men uten deg ville ingenting skjedd.",
+      "funFact": "Brendan Eich laget den første versjonen av JavaScript på rundt ti dager i 1995. Navnet har nesten ingenting med Java å gjøre.",
+      "image": "images/2026-11-10/javascript.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Hopper rett i det."
+        },
+        {
+          "title": "Overalt",
+          "text": "Finnes på hver nettside."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg det meste."
+        },
+        {
+          "title": "Rask",
+          "text": "Ble til på ti dager."
+        }
+      ]
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "shareName": "TypeScript",
+      "emoji": null,
+      "description": "Du er JavaScript sin ordentlige søsken: like sosial, men med en liste i lomma. Du liker å vite hva ting er før du bruker dem.",
+      "funFact": "TypeScript ble lansert av Microsoft i 2012, og en av de viktigste designerne er dansken Anders Hejlsberg.",
+      "image": "images/2026-11-10/typescript.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Sjekker alt på forhånd."
+        },
+        {
+          "title": "Trygg",
+          "text": "Fanger feil i tide."
+        },
+        {
+          "title": "Sosial",
+          "text": "Kommer godt overens."
+        },
+        {
+          "title": "Presis",
+          "text": "Vil vite nøyaktig hva."
+        }
+      ]
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "shareName": "Java",
+      "emoji": null,
+      "description": "Du er pålitelig, grundig og litt formell. Du har vært med lenge, og du kommer til å være med lenge til.",
+      "funFact": "Java het opprinnelig Oak, etter et eiketre som sto utenfor kontoret til James Gosling. Språket kom ut i 1995.",
+      "image": "images/2026-11-10/java.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Virker hvor som helst."
+        },
+        {
+          "title": "Grundig",
+          "text": "Skriver alt helt ut."
+        },
+        {
+          "title": "Formell",
+          "text": "Liker struktur og regler."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Har vært med lenge."
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "shareName": "C",
+      "emoji": null,
+      "description": "Du er klassisk, direkte og svært effektiv. Du sier ikke mye, men alle bygger på det du har gjort.",
+      "funFact": "Dennis Ritchie laget C ved Bell Labs tidlig på 1970-tallet, og språket ble brukt til å skrive operativsystemet Unix.",
+      "image": "images/2026-11-10/c.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Grunnmuren for mye annet."
+        },
+        {
+          "title": "Direkte",
+          "text": "Går rett på sak."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Ingen unødvendige omveier."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Sier mye med lite."
+        }
+      ]
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "shareName": "C++",
+      "emoji": null,
+      "description": "Du er kraftfull og har svar på alt, kanskje litt for mange svar. Du kan gjøre nesten hva som helst, bare noen tar seg tid til å lære deg.",
+      "funFact": "Dansken Bjarne Stroustrup begynte på språket i 1979 under navnet «C with Classes». Plusstegnene betyr «én mer enn C».",
+      "image": "images/2026-11-10/cpp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kraftfull",
+          "text": "Klarer nesten hva som helst."
+        },
+        {
+          "title": "Kompleks",
+          "text": "Har mange lag."
+        },
+        {
+          "title": "Rask",
+          "text": "Elsker høy fart."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Vil alltid litt mer."
+        }
+      ]
+    },
+    {
+      "id": "csharp",
+      "name": "C#",
+      "shareName": "C#",
+      "emoji": null,
+      "description": "Du er balansert, elegant og god til å få ting til å henge sammen. Du passer like godt på jobb som i spill.",
+      "funFact": "C# ble laget av dansken Anders Hejlsberg hos Microsoft og kom i 2000. Navnet er inspirert av kryss-tegnet i noter, som betyr en halv tone opp.",
+      "image": "images/2026-11-10/csharp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Trives på jobb og fritid."
+        },
+        {
+          "title": "Elegant",
+          "text": "Gjør ting pent."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Passer inn i laget."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Har navn fra notene."
+        }
+      ]
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "shareName": "Rust",
+      "emoji": null,
+      "description": "Du er nøye, trygg og litt streng, men alltid i beste mening. Det du lager, holder i mange år.",
+      "funFact": "Rust begynte som et hobbyprosjekt av Graydon Hoare i 2006, og navnet skal komme fra rustsopper, som er svært seige og tilpasningsdyktige.",
+      "image": "images/2026-11-10/rust.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøye",
+          "text": "Slipper ingen feil gjennom."
+        },
+        {
+          "title": "Trygg",
+          "text": "Passer godt på alle."
+        },
+        {
+          "title": "Streng",
+          "text": "Sier ifra med omsorg."
+        },
+        {
+          "title": "Seig",
+          "text": "Holder i mange år."
+        }
+      ]
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "shareName": "Go",
+      "emoji": null,
+      "description": "Du er enkel, rask og effektiv. Du liker ikke unødvendig pynt, og du får mange ting gjort på en gang.",
+      "funFact": "Go ble utviklet hos Google og lansert i 2009. En av skaperne, Ken Thompson, var også med på å lage Unix.",
+      "image": "images/2026-11-10/go.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Enkel",
+          "text": "Ingen unødvendig pynt."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer raskt i mål."
+        },
+        {
+          "title": "Multitasker",
+          "text": "Gjør mye samtidig."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser ting uten drama."
+        }
+      ]
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "shareName": "Swift",
+      "emoji": null,
+      "description": "Du er moderne, stilig og rask på labben. Du liker at ting er pene, og du får andre til å se bra ut.",
+      "funFact": "Swift ble lansert av Apple i 2014. Appen du bruker akkurat nå, Tulipananas, er skrevet i Swift.",
+      "image": "images/2026-11-10/swift.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Alltid i siste mote."
+        },
+        {
+          "title": "Stilig",
+          "text": "Liker at ting er pene."
+        },
+        {
+          "title": "Rask",
+          "text": "Navnet betyr rask."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Bygger apper du bruker."
+        }
+      ]
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "shareName": "Kotlin",
+      "emoji": null,
+      "description": "Du er vennlig, smart og litt mer avslappet enn de fleste. Du gjør hverdagen enklere for alle rundt deg.",
+      "funFact": "Kotlin er oppkalt etter øya Kotlin utenfor St. Petersburg, akkurat som Java har navn fra en øy. Google gjorde det til et offisielt språk for Android i 2017.",
+      "image": "images/2026-11-10/kotlin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Gjør ting enkelt."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker på alt."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Kommer godt overens."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Sparer andre for bry."
+        }
+      ]
+    },
+    {
+      "id": "scratch",
+      "name": "Scratch",
+      "shareName": "Scratch",
+      "emoji": null,
+      "description": "Du er leken, kreativ og full av ideer. Du viser at det å lage noe skal være gøy, og alle kan være med.",
+      "funFact": "Scratch ble laget ved MIT Media Lab og lansert i 2007. Der programmerer man ved å dra fargerike klosser sammen.",
+      "image": "images/2026-11-10/scratch.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alt kan bli et spill."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle kan være med."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Liker klosser og farger."
+        }
+      ]
+    }
+  ]
+}
