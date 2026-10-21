@@ -1,0 +1,684 @@
+{
+  "id": "2026-11-04",
+  "date": "2026-11-04",
+  "title": "Hvem er du i Shrek-universet i dag?",
+  "intro": "Er du en brummete helt, en pratsom venn eller en skurk med stor frisyre? Svar på sju litt rare spørsmål og finn ut hvem du er i Shrek-universet i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor mange lommer skal en perfekt jakke ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, jeg bærer alt i hendene",
+          "scores": {
+            "gudmor": 2,
+            "pus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én, til det viktigste",
+          "scores": {
+            "dragen": 2,
+            "charming": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fire, helt symmetrisk",
+          "scores": {
+            "speilet": 2,
+            "pinocchio": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Så mange som mulig",
+          "scores": {
+            "farquaad": 2,
+            "dragen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hemmelig innerlomme",
+          "scores": {
+            "esel": 2,
+            "shrek": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om høye hæler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg går fint i dem",
+          "scores": {
+            "dragen": 2,
+            "charming": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Altfor upraktisk",
+          "scores": {
+            "speilet": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg vil gjerne bli høyere",
+          "scores": {
+            "shrek": 2,
+            "speilet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare til fest",
+          "scores": {
+            "pepperkake": 2,
+            "pinocchio": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har aldri tenkt på det",
+          "scores": {
+            "rumleskaft": 2,
+            "charming": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En snegle vil kjøre om kapp med deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lar den vinne",
+          "scores": {
+            "farquaad": 2,
+            "esel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir alt, jeg skal vinne",
+          "scores": {
+            "pus": 2,
+            "dragen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Heier på sneglen",
+          "scores": {
+            "gudmor": 2,
+            "pus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår en annen konkurranse",
+          "scores": {
+            "shrek": 2,
+            "speilet": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer den med en snarvei",
+          "scores": {
+            "rumleskaft": 2,
+            "esel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "speilet": 2,
+            "fiona": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du når noen synger høyt på bussen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger med",
+          "scores": {
+            "speilet": 2,
+            "dragen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser ut av vinduet",
+          "scores": {
+            "gudmor": 2,
+            "rumleskaft": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir dem applaus",
+          "scores": {
+            "farquaad": 2,
+            "pinocchio": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Flytter meg diskret",
+          "scores": {
+            "pus": 2,
+            "charming": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ber dem om en ny låt",
+          "scores": {
+            "pinocchio": 2,
+            "esel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket rom i huset er ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøkkenet",
+          "scores": {
+            "gudmor": 2,
+            "rumleskaft": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Badet med det store speilet",
+          "scores": {
+            "fiona": 2,
+            "gudmor": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Garderoben",
+          "scores": {
+            "esel": 2,
+            "rumleskaft": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjelleren",
+          "scores": {
+            "shrek": 2,
+            "farquaad": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stua med alle vennene",
+          "scores": {
+            "rumleskaft": 2,
+            "charming": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hagen, egentlig",
+          "scores": {
+            "pepperkake": 2,
+            "esel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du med reklamen i postkassa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser alt nøye",
+          "scores": {
+            "rumleskaft": 2,
+            "gudmor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rett i papirgjenvinning",
+          "scores": {
+            "farquaad": 2,
+            "dragen": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klipper ut kuponger",
+          "scores": {
+            "dragen": 2,
+            "pinocchio": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bretter papirfly",
+          "scores": {
+            "pepperkake": 2,
+            "gudmor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henger opp et skilt mot reklame",
+          "scores": {
+            "fiona": 2,
+            "farquaad": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor lang tid bruker du på å gjøre deg klar om morgenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To minutter",
+          "scores": {
+            "pus": 2,
+            "rumleskaft": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ti minutter",
+          "scores": {
+            "fiona": 2,
+            "charming": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En halvtime",
+          "scores": {
+            "pinocchio": 2,
+            "speilet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En time, minst",
+          "scores": {
+            "charming": 2,
+            "pus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det kommer helt an på dagen",
+          "scores": {
+            "pepperkake": 2,
+            "esel": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "shrek",
+      "name": "Shrek",
+      "shareName": "Shrek",
+      "emoji": null,
+      "description": "Du er litt brummete på overflaten, men har et stort og varmt hjerte. Du trives best i fred og ro, men stiller opp når det gjelder.",
+      "funFact": "Shrek fra 2001 vant den aller første Oscar-prisen for beste animasjonsfilm, og bygger på en bildebok av William Steig fra 1990.",
+      "image": "images/2026-11-04/shrek.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ekte",
+          "text": "Bryr seg ikke om fasade."
+        },
+        {
+          "title": "Privat",
+          "text": "Liker å være i fred."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller opp når det gjelder."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk under skallet."
+        }
+      ]
+    },
+    {
+      "id": "fiona",
+      "name": "Fiona",
+      "shareName": "Fiona",
+      "emoji": null,
+      "description": "Du er tøff, morsom og helt deg selv. Du redder deg selv før noen andre rekker å prøve.",
+      "funFact": "Cameron Diaz ga stemme til Fiona i alle de fire Shrek-filmene.",
+      "image": "images/2026-11-04/fiona.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Ekte",
+          "text": "Står for den hun er."
+        },
+        {
+          "title": "Morsom",
+          "text": "Overrasker alle."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar sjanser."
+        }
+      ]
+    },
+    {
+      "id": "esel",
+      "name": "Esel",
+      "shareName": "Esel",
+      "emoji": null,
+      "description": "Du er pratsom, glad og en venn for livet. Du ser alltid lyst på det, selv når andre sukker.",
+      "funFact": "Animatørene brukte et ekte miniatyresel som het Pericles, fra Palo Alto i California, som modell for Esel.",
+      "image": "images/2026-11-04/esel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Snakker hele tiden."
+        },
+        {
+          "title": "Trofast",
+          "text": "Venn for livet."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser alltid lyspunktet."
+        },
+        {
+          "title": "Energisk",
+          "text": "Aldri helt stille."
+        }
+      ]
+    },
+    {
+      "id": "pus",
+      "name": "Pus",
+      "shareName": "Pus",
+      "emoji": null,
+      "description": "Du er sjarmerende, modig og har stil. Du vet nøyaktig hvordan du skal få viljen din.",
+      "funFact": "Pus dukket opp første gang i Shrek 2 fra 2004, og fikk sin egen film, Pus i støvler, i 2011.",
+      "image": "images/2026-11-04/pus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Får alle på sin side."
+        },
+        {
+          "title": "Stilig",
+          "text": "Alltid godt kledd."
+        },
+        {
+          "title": "Modig",
+          "text": "Frykter ingen."
+        },
+        {
+          "title": "Lur",
+          "text": "Har et triks på lur."
+        }
+      ]
+    },
+    {
+      "id": "pepperkake",
+      "name": "Pepperkakemannen",
+      "shareName": "Pepperkakemannen",
+      "emoji": null,
+      "description": "Du er liten, men tøff som bare det. Du har mer mot enn folk tror.",
+      "funFact": "Pepperkakemannen får stemmen sin fra Conrad Vernon, som også var med og regisserte Shrek 2.",
+      "image": "images/2026-11-04/pepperkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Liten, men modig."
+        },
+        {
+          "title": "Sprø",
+          "text": "Litt skjør i kantene."
+        },
+        {
+          "title": "Kjapp",
+          "text": "Rask i replikken."
+        },
+        {
+          "title": "Kjekk",
+          "text": "Alltid pent pyntet."
+        }
+      ]
+    },
+    {
+      "id": "farquaad",
+      "name": "Lord Farquaad",
+      "shareName": "Lord Farquaad",
+      "emoji": null,
+      "description": "Du har store planer og liker at alt er i orden. Du vil gjerne bestemme, og det skal se perfekt ut.",
+      "funFact": "John Lithgow, som er 1,93 meter høy, hadde en regel om ikke å spille lave figurer, men gjorde et unntak for Lord Farquaad.",
+      "image": "images/2026-11-04/farquaad.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt."
+        },
+        {
+          "title": "Forfengelig",
+          "text": "Sjekker speilet ofte."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva han vil."
+        }
+      ]
+    },
+    {
+      "id": "dragen",
+      "name": "Dragen",
+      "shareName": "Dragen",
+      "emoji": null,
+      "description": "Du er sterk og sier ikke så mye, men når du forelsker deg, gjør du det helhjertet. Du er farligere for dem som tuller med vennene dine.",
+      "funFact": "Dragen er en hunndrage, og hun forelsker seg i Esel i den første filmen.",
+      "image": "images/2026-11-04/dragen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Ingen tør å tulle."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker helhjertet."
+        },
+        {
+          "title": "Stille",
+          "text": "Sier ikke mye."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        }
+      ]
+    },
+    {
+      "id": "gudmor",
+      "name": "Fe-gudmoren",
+      "shareName": "Fe-gudmoren",
+      "emoji": null,
+      "description": "Du er glamorøs og vet hvordan du får det som du vil. Du kan ordne det meste med litt glitter.",
+      "funFact": "Fe-gudmoren i Shrek 2 fra 2004 får stemmen sin fra den britiske komikeren Jennifer Saunders.",
+      "image": "images/2026-11-04/gudmor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glamorøs",
+          "text": "Elsker litt glitter."
+        },
+        {
+          "title": "Driftig",
+          "text": "Ordner alt raskt."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Synger når det passer."
+        },
+        {
+          "title": "Sjef",
+          "text": "Liker å styre."
+        }
+      ]
+    },
+    {
+      "id": "charming",
+      "name": "Prince Charming",
+      "shareName": "Prince Charming",
+      "emoji": null,
+      "description": "Du har flott hår og store drømmer om å bli helten i historien. Du øver gjerne foran speilet.",
+      "funFact": "Prince Charming får stemmen sin fra Rupert Everett, og er hovedskurken i Shrek den tredje fra 2007.",
+      "image": "images/2026-11-04/charming.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Velstelt",
+          "text": "Perfekt hår, alltid."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Vil være helten."
+        },
+        {
+          "title": "Teatralsk",
+          "text": "Elsker en stor entré."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Tviler aldri."
+        }
+      ]
+    },
+    {
+      "id": "pinocchio",
+      "name": "Pinocchio",
+      "shareName": "Pinocchio",
+      "emoji": null,
+      "description": "Du er ærlig og litt naiv, og blir lett avslørt når du prøver å bløffe. Du drømmer om å bli tatt på alvor.",
+      "funFact": "Cody Cameron gir stemme til både Pinocchio og de tre små grisene i Shrek.",
+      "image": "images/2026-11-04/pinocchio.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Klarer ikke lyve."
+        },
+        {
+          "title": "Naiv",
+          "text": "Tror på det beste."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Vil bli ekte."
+        },
+        {
+          "title": "Snill",
+          "text": "Har gode hensikter."
+        }
+      ]
+    },
+    {
+      "id": "speilet",
+      "name": "Det magiske speilet",
+      "shareName": "Det magiske speilet",
+      "emoji": null,
+      "description": "Du er rolig, klok og sier sannheten, selv når den ikke er populær. Du ser alt som skjer.",
+      "funFact": "Det magiske speilet får stemmen sin fra Chris Miller, som også spiller Geppetto og senere regisserte Shrek den tredje.",
+      "image": "images/2026-11-04/speilet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet svaret."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier sannheten."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Blir aldri stresset."
+        }
+      ]
+    },
+    {
+      "id": "rumleskaft",
+      "name": "Rumleskaft",
+      "shareName": "Rumleskaft",
+      "emoji": null,
+      "description": "Du er lur og elsker en god avtale. Du har alltid en kontrakt klar, og en ny frisyre til anledningen.",
+      "funFact": "Rumleskaft er skurken i Shrek for alltid fra 2010, den fjerde filmen i hovedserien.",
+      "image": "images/2026-11-04/rumleskaft.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Forhandler",
+          "text": "Elsker en god avtale."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Store følelser."
+        },
+        {
+          "title": "Stilig",
+          "text": "Mange parykker."
+        }
+      ]
+    }
+  ]
+}

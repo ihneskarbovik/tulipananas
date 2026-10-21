@@ -1,0 +1,700 @@
+{
+  "id": "2026-11-24",
+  "date": "2026-11-24",
+  "title": "Hvilken statsråd er du i dag?",
+  "intro": "Hvem i regjeringen ligner du mest på i dag? Svar på sju helt upolitiske og litt rare spørsmål og finn ut hvilken statsråd du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken frukt er mest til å stole på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banan",
+          "scores": {
+            "store": 2,
+            "vestre": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Eple",
+          "scores": {
+            "vestre": 2,
+            "jaffery": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pære",
+          "scores": {
+            "gunaratnam": 2,
+            "naess": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Appelsin",
+          "scores": {
+            "naess": 2,
+            "sandvik": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kiwi",
+          "scores": {
+            "aashansen": 2,
+            "naess": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Plomme",
+          "scores": {
+            "sandvik": 2,
+            "vestre": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om agurker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sterkt undervurdert",
+          "scores": {
+            "jaffery": 2,
+            "gunaratnam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare i tynne skiver",
+          "scores": {
+            "eide": 2,
+            "sandtroen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "De er altfor lange",
+          "scores": {
+            "aasland": 2,
+            "sandtroen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg synes litt synd på dem",
+          "scores": {
+            "stoltenberg": 2,
+            "sandtroen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Agurk er bare vann med jobb",
+          "scores": {
+            "gunaratnam": 2,
+            "naess": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En geit vil bli med i bokklubben din. Hvilken bok velger den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En tykk krimroman",
+          "scores": {
+            "stoltenberg": 2,
+            "gunaratnam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dikt om skyer",
+          "scores": {
+            "sandtroen": 2,
+            "nordtun": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bruksanvisningen til en vaskemaskin",
+          "scores": {
+            "sandvik": 2,
+            "aasland": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En bok om seg selv",
+          "scores": {
+            "store": 2,
+            "eide": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den spiser heller boka",
+          "scores": {
+            "eide": 2,
+            "jaffery": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En gammel tegneserie",
+          "scores": {
+            "gunaratnam": 2,
+            "naess": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan åpner du et syltetøyglass som sitter fast?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banker lokket mot benken",
+          "scores": {
+            "nordtun": 2,
+            "jaffery": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Holder det under varmt vann",
+          "scores": {
+            "stoltenberg": 2,
+            "sandvik": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir det til noen andre",
+          "scores": {
+            "sandtroen": 2,
+            "sandvik": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bruker et kjøkkenhåndkle",
+          "scores": {
+            "store": 2,
+            "nordtun": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver til jeg vinner",
+          "scores": {
+            "aasland": 2,
+            "sandtroen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar det stå til i morgen",
+          "scores": {
+            "aashansen": 2,
+            "jaffery": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange faner har du åpne i nettleseren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én",
+          "scores": {
+            "aasland": 2,
+            "eide": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre eller fire",
+          "scores": {
+            "naess": 2,
+            "aashansen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rundt tjue",
+          "scores": {
+            "aashansen": 2,
+            "gunaratnam": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Over femti",
+          "scores": {
+            "jaffery": 2,
+            "aasland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hva er en fane?",
+          "scores": {
+            "sandvik": 2,
+            "vestre": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når du har gått deg vill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør noen",
+          "scores": {
+            "aashansen": 2,
+            "vestre": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker kartet",
+          "scores": {
+            "eide": 2,
+            "aasland": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går videre, det ordner seg",
+          "scores": {
+            "sandtroen": 2,
+            "naess": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går etter solen",
+          "scores": {
+            "nordtun": 2,
+            "stoltenberg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ringer en venn",
+          "scores": {
+            "store": 2,
+            "sandvik": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg ned og venter",
+          "scores": {
+            "naess": 2,
+            "sandtroen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor ofte vanner du plantene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hver morgen",
+          "scores": {
+            "gunaratnam": 2,
+            "jaffery": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Når de ser triste ut",
+          "scores": {
+            "stoltenberg": 2,
+            "nordtun": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Når jeg husker det",
+          "scores": {
+            "naess": 2,
+            "vestre": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har bare kaktus",
+          "scores": {
+            "aashansen": 2,
+            "vestre": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg snakker med dem i stedet",
+          "scores": {
+            "aasland": 2,
+            "nordtun": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "store",
+      "name": "Jonas Gahr Støre",
+      "shareName": "Jonas Gahr Støre",
+      "emoji": null,
+      "description": "Du er en rolig, samlende kraft som holder oversikten når mye skjer samtidig. Du lytter før du bestemmer deg.",
+      "funFact": "Jonas Gahr Støre studerte statsvitenskap ved Sciences Po i Paris på 1980-tallet, og har vært statsminister siden 2021.",
+      "image": "images/2026-11-24/store.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oversikt",
+          "text": "Ser hele bildet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får folk til å samarbeide."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Statsministerens kontor"
+        }
+      ]
+    },
+    {
+      "id": "stoltenberg",
+      "name": "Jens Stoltenberg",
+      "shareName": "Jens Stoltenberg",
+      "emoji": null,
+      "description": "Du er god med tall og ser sammenhenger andre ikke legger merke til. Du liker orden i økonomien og ro i stormen.",
+      "funFact": "Jens Stoltenberg er utdannet samfunnsøkonom og var generalsekretær i NATO fra 2014 til 2024.",
+      "image": "images/2026-11-24/stoltenberg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tallsterk",
+          "text": "Elsker et godt regneark."
+        },
+        {
+          "title": "Erfaren",
+          "text": "Har sett det meste."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig når det blåser."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Finansdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "eide",
+      "name": "Espen Barth Eide",
+      "shareName": "Espen Barth Eide",
+      "emoji": null,
+      "description": "Du er nysgjerrig på verden og trives med å snakke med folk fra alle kanter. Du finner nesten alltid en felles tone.",
+      "funFact": "Espen Barth Eide har tidligere vært både forsvarsminister og utenriksminister, i Jens Stoltenbergs regjering.",
+      "image": "images/2026-11-24/eide.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Verdensvant",
+          "text": "Hjemme nesten overalt."
+        },
+        {
+          "title": "Diplomatisk",
+          "text": "Finner alltid et kompromiss."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alle sider."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Utenriksdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "vestre",
+      "name": "Jan Christian Vestre",
+      "shareName": "Jan Christian Vestre",
+      "emoji": null,
+      "description": "Du er omsorgsfull og praktisk, og du vil at alle rundt deg skal ha det godt. Du liker å gjøre gode ting enda bedre.",
+      "funFact": "Jan Christian Vestre er fra Haugesund, og tok over ledelsen av familiens møbelfirma Vestre da han var 26 år.",
+      "image": "images/2026-11-24/vestre.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Tenker design i alt."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart hele dagen."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Helse- og omsorgsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "nordtun",
+      "name": "Kari Nessa Nordtun",
+      "shareName": "Kari Nessa Nordtun",
+      "emoji": null,
+      "description": "Du er lærevillig og elsker å se andre vokse. Du tror at alle kan lære nesten hva som helst, bare de får tid.",
+      "funFact": "Kari Nessa Nordtun er utdannet jurist og var ordfører i Stavanger fra 2019 til 2023.",
+      "image": "images/2026-11-24/nordtun.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lærevillig",
+          "text": "Lærer noe nytt daglig."
+        },
+        {
+          "title": "Oppmuntrende",
+          "text": "Heier på alle."
+        },
+        {
+          "title": "Strukturert",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Kunnskapsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "sandvik",
+      "name": "Tore O. Sandvik",
+      "shareName": "Tore O. Sandvik",
+      "emoji": null,
+      "description": "Du er trygg og beskyttende, og du er klar når noe skjer. Folk føler seg tryggere når du er i nærheten.",
+      "funFact": "Forsvaret består blant annet av Hæren, Sjøforsvaret, Luftforsvaret og Heimevernet.",
+      "image": "images/2026-11-24/sandvik.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "En klippe for andre."
+        },
+        {
+          "title": "Beredt",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved sine."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Forsvarsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "aashansen",
+      "name": "Astri Aas-Hansen",
+      "shareName": "Astri Aas-Hansen",
+      "emoji": null,
+      "description": "Du er rettferdig og nøye, og du vil at reglene skal være like for alle. Du tenker deg godt om før du dømmer.",
+      "funFact": "Astri Aas-Hansen er utdannet jurist og var tingrettsdommer i Oslo tingrett fra 2017.",
+      "image": "images/2026-11-24/aashansen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rettferdig",
+          "text": "Like regler for alle."
+        },
+        {
+          "title": "Grundig",
+          "text": "Leser den lille skriften."
+        },
+        {
+          "title": "Rolig",
+          "text": "Dømmer aldri for fort."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Justis- og beredskapsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "jaffery",
+      "name": "Lubna Jaffery",
+      "shareName": "Lubna Jaffery",
+      "emoji": null,
+      "description": "Du er kreativ og elsker kunst, musikk og gode historier. Du vil at alle skal få plass på scenen.",
+      "funFact": "Lubna Jaffery var statssekretær i Kulturdepartementet fra 2009 til 2012, lenge før hun selv ble kulturminister.",
+      "image": "images/2026-11-24/jaffery.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ser kunst i alt."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Brenner for gode historier."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Kultur- og likestillingsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "sandtroen",
+      "name": "Nils Kristen Sandtrøen",
+      "shareName": "Nils Kristen Sandtrøen",
+      "emoji": null,
+      "description": "Du er jordnær og glad i god mat og frisk luft. Du vet at alt godt starter med god jord.",
+      "funFact": "Nils Kristen Sandtrøen er fra Tynset, og har studert både ved University of Alaska Anchorage og ved NTNU.",
+      "image": "images/2026-11-24/sandtroen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Trives best ute."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Lar ting vokse."
+        },
+        {
+          "title": "Matglad",
+          "text": "Setter pris på kortreist."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Landbruks- og matdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "gunaratnam",
+      "name": "Kamzy Gunaratnam",
+      "shareName": "Kamzy Gunaratnam",
+      "emoji": null,
+      "description": "Du er alltid på farten og elsker å komme deg fra A til B. Du får ting til å gå på skinner.",
+      "funFact": "Kamzy Gunaratnam ble født i Jaffna på Sri Lanka i 1988, kom til Norge i 1991 og var varaordfører i Oslo fra 2015 til 2021.",
+      "image": "images/2026-11-24/gunaratnam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Kommer alltid fram."
+        },
+        {
+          "title": "Sosial",
+          "text": "Kjenner folk overalt."
+        },
+        {
+          "title": "Rask",
+          "text": "Liker ikke å stå stille."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Samferdselsdepartementet"
+        }
+      ]
+    },
+    {
+      "id": "aasland",
+      "name": "Sigrun Aasland",
+      "shareName": "Sigrun Aasland",
+      "emoji": null,
+      "description": "Du tenker langsiktig og bryr deg om naturen rundt deg. Du vil at verden skal være fin også om hundre år.",
+      "funFact": "Norge fikk sitt første miljøverndepartement i 1972, som et av de første landene i verden.",
+      "image": "images/2026-11-24/aasland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Langsiktig",
+          "text": "Tenker hundre år fram."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Henter energi i skogen."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Rydder etter seg."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Klima- og miljødepartementet"
+        }
+      ]
+    },
+    {
+      "id": "naess",
+      "name": "Marianne Sivertsen Næss",
+      "shareName": "Marianne Sivertsen Næss",
+      "emoji": null,
+      "description": "Du er sterk, praktisk og glad i havet. Du trives der det blåser litt og livet er ekte.",
+      "funFact": "Marianne Sivertsen Næss er fra Hammerfest, og var rektor ved Hammerfest videregående skole før hun gikk inn i politikken på heltid.",
+      "image": "images/2026-11-24/naess.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler litt vind."
+        },
+        {
+          "title": "Havglad",
+          "text": "Finner ro ved sjøen."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Ansvar",
+          "text": "Fiskeri- og havpolitikk"
+        }
+      ]
+    }
+  ]
+}

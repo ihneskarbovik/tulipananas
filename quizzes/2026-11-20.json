@@ -1,0 +1,692 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "title": "Hvilken drue er du i dag?",
+  "intro": "Er du en frisk Sauvignon Blanc, en myk Merlot eller en gåtefull Nebbiolo? Svar på sju litt rare spørsmål og finn ut hvilken drue du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket vær liker du best å gå tur i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strålende sol",
+          "scores": {
+            "pinotgris": 2,
+            "nebbiolo": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lett yr",
+          "scores": {
+            "riesling": 2,
+            "pinotnoir": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tåke over jordene",
+          "scores": {
+            "pinotnoir": 2,
+            "nebbiolo": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kald og klar luft",
+          "scores": {
+            "cabernet": 2,
+            "merlot": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sterk vind",
+          "scores": {
+            "sangiovese": 2,
+            "chardonnay": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rett etter et regnskyll",
+          "scores": {
+            "syrah": 2,
+            "riesling": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om skorpen på brødskiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den beste delen",
+          "scores": {
+            "tempranillo": 2,
+            "cabernet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg skjærer den av",
+          "scores": {
+            "sangiovese": 2,
+            "chenin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser den til slutt",
+          "scores": {
+            "pinotnoir": 2,
+            "sangiovese": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare hvis den er sprø",
+          "scores": {
+            "syrah": 2,
+            "cabernet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den gir jeg til fuglene",
+          "scores": {
+            "riesling": 2,
+            "nebbiolo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En katt vil skrive en bok om deg. Hva heter den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den rolige",
+          "scores": {
+            "tempranillo": 2,
+            "merlot": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Plutselig skjedde det",
+          "scores": {
+            "nebbiolo": 2,
+            "syrah": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Alltid presis",
+          "scores": {
+            "pinotgris": 2,
+            "chardonnay": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nesten alltid hyggelig",
+          "scores": {
+            "merlot": 2,
+            "sauvignonblanc": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mysteriet i gangen",
+          "scores": {
+            "cabernet": 2,
+            "tempranillo": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hun som kom for sent",
+          "scores": {
+            "chenin": 2,
+            "sangiovese": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan rydder du opp etter en fest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en gang, før jeg legger meg",
+          "scores": {
+            "pinotgris": 2,
+            "pinotnoir": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Neste dag, med musikk",
+          "scores": {
+            "tempranillo": 2,
+            "sangiovese": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg lar gjestene hjelpe",
+          "scores": {
+            "syrah": 2,
+            "sauvignonblanc": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg flytter heller",
+          "scores": {
+            "pinotnoir": 2,
+            "riesling": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bit for bit gjennom uka",
+          "scores": {
+            "chardonnay": 2,
+            "nebbiolo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket rom ville du malt gult?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøkkenet",
+          "scores": {
+            "nebbiolo": 2,
+            "pinotnoir": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Badet",
+          "scores": {
+            "sangiovese": 2,
+            "merlot": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gangen",
+          "scores": {
+            "chenin": 2,
+            "cabernet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Soverommet",
+          "scores": {
+            "cabernet": 2,
+            "chenin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Boden",
+          "scores": {
+            "merlot": 2,
+            "tempranillo": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, gult er for sterkt",
+          "scores": {
+            "chardonnay": 2,
+            "sauvignonblanc": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange bøker leser du samtidig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én, fra start til slutt",
+          "scores": {
+            "riesling": 2,
+            "pinotnoir": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "To, en lett og en tung",
+          "scores": {
+            "tempranillo": 2,
+            "sauvignonblanc": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fem, alle halvveis",
+          "scores": {
+            "chardonnay": 2,
+            "nebbiolo": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen nå, men snart",
+          "scores": {
+            "cabernet": 2,
+            "syrah": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg leser heller oppskrifter",
+          "scores": {
+            "sauvignonblanc": 2,
+            "sangiovese": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken del av uka er mest undervurdert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandag morgen",
+          "scores": {
+            "nebbiolo": 2,
+            "chenin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Onsdag ettermiddag",
+          "scores": {
+            "syrah": 2,
+            "pinotgris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Torsdag kveld",
+          "scores": {
+            "riesling": 2,
+            "sauvignonblanc": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fredag lunsj",
+          "scores": {
+            "sangiovese": 2,
+            "merlot": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Søndag kveld",
+          "scores": {
+            "pinotgris": 2,
+            "syrah": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "chardonnay",
+      "name": "Chardonnay",
+      "shareName": "Chardonnay",
+      "emoji": null,
+      "description": "Du er allsidig og trives nesten overalt. Folk vet at de kan regne med deg, uansett anledning.",
+      "funFact": "Chardonnay har trolig navnet sitt etter landsbyen Chardonnay i Burgund i Frankrike.",
+      "image": "images/2026-11-20/chardonnay.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alle kan regne med deg."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid litt stilfull."
+        },
+        {
+          "title": "Populær",
+          "text": "Har venner over hele verden."
+        }
+      ]
+    },
+    {
+      "id": "sauvignonblanc",
+      "name": "Sauvignon Blanc",
+      "shareName": "Sauvignon Blanc",
+      "emoji": null,
+      "description": "Du er frisk, rett på sak og litt vill i kantene. Du får energien til å stige i ethvert rom.",
+      "funFact": "Navnet Sauvignon Blanc kommer trolig av det franske ordet «sauvage», som betyr vill.",
+      "image": "images/2026-11-20/sauvignonblanc.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en kald vind."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Vill",
+          "text": "Litt utemmet i kantene."
+        },
+        {
+          "title": "Energisk",
+          "text": "Løfter stemningen raskt."
+        }
+      ]
+    },
+    {
+      "id": "riesling",
+      "name": "Riesling",
+      "shareName": "Riesling",
+      "emoji": null,
+      "description": "Du er tålmodig og tåler mye, også kalde dager. Du blir bare bedre med tiden.",
+      "funFact": "Riesling kommer fra Tyskland, og en av de eldste kjente omtalene av druen er fra 1435.",
+      "image": "images/2026-11-20/riesling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Blir bedre med tiden."
+        },
+        {
+          "title": "Hardfør",
+          "text": "Tåler kalde dager."
+        },
+        {
+          "title": "Presis",
+          "text": "Har orden på detaljene."
+        },
+        {
+          "title": "Lys",
+          "text": "Sprer klarhet rundt seg."
+        }
+      ]
+    },
+    {
+      "id": "pinotgris",
+      "name": "Pinot Gris",
+      "shareName": "Pinot Gris",
+      "emoji": null,
+      "description": "Du er lett, avslappet og grei å være sammen med. Du lager aldri unødvendig drama.",
+      "funFact": "Pinot Gris, eller Pinot Grigio på italiensk, er en fargevariant av Pinot Noir. «Gris» betyr grå.",
+      "image": "images/2026-11-20/pinotgris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Lett",
+          "text": "Aldri tungt å være rundt."
+        },
+        {
+          "title": "Grei",
+          "text": "Kommer overens med alle."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke rampelyset."
+        }
+      ]
+    },
+    {
+      "id": "chenin",
+      "name": "Chenin Blanc",
+      "shareName": "Chenin Blanc",
+      "emoji": null,
+      "description": "Du er en kameleon som kan være både søt og skarp. Du overrasker folk hver gang de tror de kjenner deg.",
+      "funFact": "Det dyrkes mer Chenin Blanc i Sør-Afrika enn noe annet sted, og der ble druen lenge kalt Steen.",
+      "image": "images/2026-11-20/chenin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Blir nesten hva som helst."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Folk blir aldri lei."
+        },
+        {
+          "title": "Varm",
+          "text": "God å ha nær."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Trives langt hjemmefra."
+        }
+      ]
+    },
+    {
+      "id": "cabernet",
+      "name": "Cabernet Sauvignon",
+      "shareName": "Cabernet Sauvignon",
+      "emoji": null,
+      "description": "Du er sterk, stødig og har mye å by på. Du kan virke streng først, men blir bare bedre jo bedre man kjenner deg.",
+      "funFact": "DNA-analyser på 1990-tallet viste at Cabernet Sauvignon er en krysning av Cabernet Franc og Sauvignon Blanc.",
+      "image": "images/2026-11-20/cabernet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Har mye å by på."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rokkes ikke så lett."
+        },
+        {
+          "title": "Seriøs",
+          "text": "Tar ting på alvor."
+        },
+        {
+          "title": "Ærefull",
+          "text": "Folk ser opp til deg."
+        }
+      ]
+    },
+    {
+      "id": "merlot",
+      "name": "Merlot",
+      "shareName": "Merlot",
+      "emoji": null,
+      "description": "Du er myk, varm og lett å bli glad i. Du får alle til å føle seg velkomne.",
+      "funFact": "Navnet Merlot kommer trolig fra det franske ordet «merle», som betyr svarttrost.",
+      "image": "images/2026-11-20/merlot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Ingen skarpe kanter."
+        },
+        {
+          "title": "Varm",
+          "text": "Folk føler seg velkomne."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med andre."
+        },
+        {
+          "title": "Lun",
+          "text": "Som en god sofa."
+        }
+      ]
+    },
+    {
+      "id": "pinotnoir",
+      "name": "Pinot Noir",
+      "shareName": "Pinot Noir",
+      "emoji": null,
+      "description": "Du er følsom, elegant og litt kresen. Du krever litt omsorg, men gir mye tilbake.",
+      "funFact": "Navnet Pinot kommer trolig av det franske ordet for furu, fordi drueklasene ligner små kongler.",
+      "image": "images/2026-11-20/pinotnoir.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt på kroppen."
+        },
+        {
+          "title": "Elegant",
+          "text": "Fin i alt du gjør."
+        },
+        {
+          "title": "Kresen",
+          "text": "Vet hva du liker."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer enn du viser."
+        }
+      ]
+    },
+    {
+      "id": "syrah",
+      "name": "Syrah",
+      "shareName": "Syrah",
+      "emoji": null,
+      "description": "Du er modig og full av krydder. Du har to sider, og begge er like spennende.",
+      "funFact": "Syrah og Shiraz er samme drue. Navnet Shiraz brukes særlig i Australia.",
+      "image": "images/2026-11-20/syrah.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å skille seg ut."
+        },
+        {
+          "title": "Krydret",
+          "text": "Aldri kjedelig."
+        },
+        {
+          "title": "Dobbel",
+          "text": "Har to spennende sider."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Fyller rommet."
+        }
+      ]
+    },
+    {
+      "id": "tempranillo",
+      "name": "Tempranillo",
+      "shareName": "Tempranillo",
+      "emoji": null,
+      "description": "Du er tidlig ute og alltid forberedt. Du er stolt av røttene dine og trofast mot dem du er glad i.",
+      "funFact": "Tempranillo har navnet sitt fra det spanske ordet «temprano», som betyr tidlig, fordi druen modner tidlig.",
+      "image": "images/2026-11-20/tempranillo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tidlig",
+          "text": "Alltid først på plass."
+        },
+        {
+          "title": "Stolt",
+          "text": "Glad i røttene sine."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder alltid ord."
+        },
+        {
+          "title": "Solid",
+          "text": "Står støtt i stormen."
+        }
+      ]
+    },
+    {
+      "id": "sangiovese",
+      "name": "Sangiovese",
+      "shareName": "Sangiovese",
+      "emoji": null,
+      "description": "Du er livlig, pratsom og elsker et langt måltid med gode venner. Du gjør hverdager til små fester.",
+      "funFact": "Navnet Sangiovese kan komme fra latin «sanguis Jovis», som betyr Jupiters blod.",
+      "image": "images/2026-11-20/sangiovese.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt bord."
+        },
+        {
+          "title": "Frisk",
+          "text": "Holder stemningen oppe."
+        },
+        {
+          "title": "Ekte",
+          "text": "Uten fasader."
+        }
+      ]
+    },
+    {
+      "id": "nebbiolo",
+      "name": "Nebbiolo",
+      "shareName": "Nebbiolo",
+      "emoji": null,
+      "description": "Du er gåtefull og trenger tid før du åpner deg. Når du først gjør det, blir folk overrasket over hvor mye du rommer.",
+      "funFact": "Nebbiolo har trolig navnet sitt fra «nebbia», det italienske ordet for tåke, som ofte ligger over Piemonte når druene høstes.",
+      "image": "images/2026-11-20/nebbiolo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gåtefull",
+          "text": "Litt tåkete i kantene."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Åpner seg sakte."
+        },
+        {
+          "title": "Dyp",
+          "text": "Rommer veldig mye."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mer enn man tror."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "title": "Hvem er du i Biler-filmene i dag?",
+  "intro": "Er du en lojal bestevenn, en klok mentor eller en avslappet drømmer? Svar på sju litt rare spørsmål og finn ut hvem du er i Biler-filmene i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket kjøkkenredskap ville vært best til å danse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ostehøvelen",
+          "scores": {
+            "guido": 2,
+            "luigi": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Visp",
+          "scores": {
+            "luigi": 2,
+            "cruz": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pannekakespaden",
+          "scores": {
+            "cruz": 2,
+            "fillmore": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Salatslynge",
+          "scores": {
+            "doc": 2,
+            "sally": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjevle",
+          "scores": {
+            "sarge": 2,
+            "luigi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvitløkspresse",
+          "scores": {
+            "bill": 2,
+            "flo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om pølsebrød?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Det beste brødet som finnes",
+          "scores": {
+            "king": 2,
+            "fillmore": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare med sennep og løk",
+          "scores": {
+            "flo": 2,
+            "luigi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt kjedelig, egentlig",
+          "scores": {
+            "guido": 2,
+            "lynet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "De er alltid for korte",
+          "scores": {
+            "ramone": 2,
+            "sally": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg spiser dem uten pølse",
+          "scores": {
+            "cruz": 2,
+            "ramone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har aldri tenkt over det",
+          "scores": {
+            "sally": 2,
+            "fillmore": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En sel vil lære deg å sjonglere. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg er naturtalent",
+          "scores": {
+            "king": 2,
+            "ramone": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vi ler mest",
+          "scores": {
+            "luigi": 2,
+            "sarge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg øver i flere uker",
+          "scores": {
+            "doc": 2,
+            "king": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Selen gir opp før meg",
+          "scores": {
+            "sally": 2,
+            "doc": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vi lager et show",
+          "scores": {
+            "sarge": 2,
+            "luigi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lærer selen noe i stedet",
+          "scores": {
+            "guido": 2,
+            "ramone": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan bretter du klesvasken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perfekte firkanter",
+          "scores": {
+            "fillmore": 2,
+            "bill": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rett i skuffen",
+          "scores": {
+            "cruz": 2,
+            "sally": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg ruller alt",
+          "scores": {
+            "lynet": 2,
+            "flo": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med musikk på",
+          "scores": {
+            "king": 2,
+            "flo": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den blir liggende i kurven",
+          "scores": {
+            "sarge": 2,
+            "doc": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noen andre gjør det",
+          "scores": {
+            "ramone": 2,
+            "cruz": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange nøkler har du på nøkkelknippet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én, det holder",
+          "scores": {
+            "guido": 2,
+            "fillmore": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre",
+          "scores": {
+            "doc": 2,
+            "cruz": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sju",
+          "scores": {
+            "king": 2,
+            "lynet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Altfor mange",
+          "scores": {
+            "fillmore": 2,
+            "sarge": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg vet ikke engang",
+          "scores": {
+            "luigi": 2,
+            "bill": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har en nøkkelring uten nøkler",
+          "scores": {
+            "sally": 2,
+            "cruz": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du mens du venter hos legen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser gamle blader",
+          "scores": {
+            "bill": 2,
+            "lynet": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prater med de andre",
+          "scores": {
+            "sarge": 2,
+            "doc": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tegner i hodet",
+          "scores": {
+            "flo": 2,
+            "lynet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mediterer",
+          "scores": {
+            "sally": 2,
+            "king": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Planlegger resten av dagen",
+          "scores": {
+            "lynet": 2,
+            "sarge": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Teller takplatene",
+          "scores": {
+            "king": 2,
+            "guido": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket ord rimer best på navnet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sol",
+          "scores": {
+            "fillmore": 2,
+            "sarge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fantastisk",
+          "scores": {
+            "bill": 2,
+            "sarge": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kaffe",
+          "scores": {
+            "king": 2,
+            "guido": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ballong",
+          "scores": {
+            "flo": 2,
+            "ramone": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sokk",
+          "scores": {
+            "cruz": 2,
+            "ramone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bom",
+          "scores": {
+            "doc": 2,
+            "fillmore": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "lynet",
+      "name": "Lynet McQueen",
+      "shareName": "Lynet McQueen",
+      "emoji": null,
+      "description": "Du er ambisiøs, energisk og elsker å vinne. Innerst inne har du lært at vennskap betyr mer enn pokaler.",
+      "funFact": "Lynet McQueen er oppkalt etter Pixar-animatøren Glenn McQueen, som døde i 2002.",
+      "image": "images/2026-11-28/lynet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ambisiøs",
+          "text": "Vil alltid bli best."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klarer aldri å sitte stille."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Tror på seg selv."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står med vennene sine."
+        }
+      ]
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "shareName": "Bill",
+      "emoji": null,
+      "description": "Du er hjertelig, morsom og den beste vennen man kan ha. Du dømmer aldri noen og ler mest av alle.",
+      "funFact": "På engelsk heter Bill «Mater», og han fikk stemmen sin av komikeren Larry the Cable Guy.",
+      "image": "images/2026-11-28/bill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjertelig",
+          "text": "Vennlig mot alle."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Trofast",
+          "text": "Bestevenn for livet."
+        },
+        {
+          "title": "Ekte",
+          "text": "Er alltid seg selv."
+        }
+      ]
+    },
+    {
+      "id": "sally",
+      "name": "Sally",
+      "shareName": "Sally",
+      "emoji": null,
+      "description": "Du er smart, klok og vet hva som er viktig i livet. Du ser verdien i det andre kjører rett forbi.",
+      "funFact": "Sally er en Porsche 911 Carrera fra 2002.",
+      "image": "images/2026-11-28/sally.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Nyter øyeblikket."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner folk over raskt."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva hun vil."
+        }
+      ]
+    },
+    {
+      "id": "doc",
+      "name": "Doc Hudson",
+      "shareName": "Doc Hudson",
+      "emoji": null,
+      "description": "Du er erfaren, rolig og litt mystisk. Under det strenge ytre finnes en god lærer.",
+      "funFact": "Doc Hudson fikk stemmen sin av Paul Newman, og Biler fra 2006 ble Newmans siste spillefilmrolle.",
+      "image": "images/2026-11-28/doc.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Erfaren",
+          "text": "Har sett det meste."
+        },
+        {
+          "title": "Streng",
+          "text": "Men alltid rettferdig."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Har en hemmelig fortid."
+        },
+        {
+          "title": "Lærer",
+          "text": "Deler gjerne kunnskapen."
+        }
+      ]
+    },
+    {
+      "id": "luigi",
+      "name": "Luigi",
+      "shareName": "Luigi",
+      "emoji": null,
+      "description": "Du er lidenskapelig og elsker det som er vakkert og ekte. Når du blir begeistret, merker hele byen det.",
+      "funFact": "Luigi er en Fiat 500 fra 1959.",
+      "image": "images/2026-11-28/luigi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for det du elsker."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har sans for detaljer."
+        },
+        {
+          "title": "Begeistret",
+          "text": "Gleder seg over alt."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Tar imot alle."
+        }
+      ]
+    },
+    {
+      "id": "guido",
+      "name": "Guido",
+      "shareName": "Guido",
+      "emoji": null,
+      "description": "Du er liten, lynrask og utrolig flink til det du gjør. Du trenger ikke mange ord for å imponere.",
+      "funFact": "Navnet Guido betyr «jeg kjører» på italiensk.",
+      "image": "images/2026-11-28/guido.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Gjør jobben på sekunder."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Alltid klar til innsats."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Lar handlingene snakke."
+        },
+        {
+          "title": "Presis",
+          "text": "Treffer hver gang."
+        }
+      ]
+    },
+    {
+      "id": "flo",
+      "name": "Flo",
+      "shareName": "Flo",
+      "emoji": null,
+      "description": "Du er varm, rett fram og samler folk rundt deg. Hos deg føler alle seg velkomne.",
+      "funFact": "Radiator Springs, der Flo driver kafeen sin, er inspirert av små byer langs den gamle hovedveien Route 66 i USA.",
+      "image": "images/2026-11-28/flo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Tar godt imot alle."
+        },
+        {
+          "title": "Samlende",
+          "text": "Folk møtes hos deg."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Har alltid glamour."
+        }
+      ]
+    },
+    {
+      "id": "ramone",
+      "name": "Ramone",
+      "shareName": "Ramone",
+      "emoji": null,
+      "description": "Du er kreativ, kul og elsker å fornye deg. Du skifter stil oftere enn andre skifter sokker.",
+      "funFact": "Ramone er en Chevrolet Impala fra 1959, bygget som en lowrider.",
+      "image": "images/2026-11-28/ramone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Maler verden i farger."
+        },
+        {
+          "title": "Kul",
+          "text": "Alltid avslappet."
+        },
+        {
+          "title": "Stilbevisst",
+          "text": "Ny stil hver dag."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Har øyne for én."
+        }
+      ]
+    },
+    {
+      "id": "fillmore",
+      "name": "Fillmore",
+      "shareName": "Fillmore",
+      "emoji": null,
+      "description": "Du er avslappet, fredelig og i din egen lille verden. Du tror på at alt ordner seg til slutt.",
+      "funFact": "Fillmore er en Volkswagen-buss fra 1960, og i den første filmen fikk han stemmen sin av komikeren George Carlin.",
+      "image": "images/2026-11-28/fillmore.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fredelig",
+          "text": "Elsker ro og harmoni."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Har aldri det travelt."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Lager alt helt naturlig."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Litt i sin egen verden."
+        }
+      ]
+    },
+    {
+      "id": "sarge",
+      "name": "Sarge",
+      "shareName": "Sarge",
+      "emoji": null,
+      "description": "Du er disiplinert, ordentlig og liker at ting skjer på rett måte. Bak den strenge stemmen er du en trofast venn.",
+      "funFact": "Sarge er en Willys-jeep fra tiden rundt andre verdenskrig.",
+      "image": "images/2026-11-28/sarge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Disiplinert",
+          "text": "Står opp presis."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Pliktoppfyllende",
+          "text": "Gjør det som må gjøres."
+        },
+        {
+          "title": "Trofast",
+          "text": "Venn du kan stole på."
+        }
+      ]
+    },
+    {
+      "id": "king",
+      "name": "The King",
+      "shareName": "The King",
+      "emoji": null,
+      "description": "Du er en ekte legende, ydmyk og elegant. Du vet at man skal gå av scenen med stil.",
+      "funFact": "The King fikk stemmen sin av den amerikanske racinglegenden Richard Petty, som har kallenavnet «The King».",
+      "image": "images/2026-11-28/king.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Legendarisk",
+          "text": "Alle ser opp til deg."
+        },
+        {
+          "title": "Ydmyk",
+          "text": "Holder beina på jorda."
+        },
+        {
+          "title": "Elegant",
+          "text": "Gjør alt med stil."
+        },
+        {
+          "title": "Klok",
+          "text": "Gir gode råd."
+        }
+      ]
+    },
+    {
+      "id": "cruz",
+      "name": "Cruz Ramirez",
+      "shareName": "Cruz Ramirez",
+      "emoji": null,
+      "description": "Du er positiv, motiverende og har store drømmer. Du oppdager at du er sterkere enn du trodde.",
+      "funFact": "Cruz Ramirez dukket opp i Biler 3 fra 2017, der hun er trener for Lynet McQueen.",
+      "image": "images/2026-11-28/cruz.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på alt."
+        },
+        {
+          "title": "Motiverende",
+          "text": "Heier på alle andre."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å satse."
+        },
+        {
+          "title": "Drømmer",
+          "text": "Har store planer."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "id": "2026-11-08",
+  "date": "2026-11-08",
+  "title": "Hvilket bilmerke er du i dag?",
+  "intro": "Er du en stødig stasjonsvogn, en temperamentsfull sportsbil eller en leken liten bybil? Svar på sju litt rare spørsmål og finn ut hvilket bilmerke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken issmak er mest undervurdert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pistasj",
+          "scores": {
+            "mercedes": 2,
+            "tesla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lakris",
+          "scores": {
+            "volkswagen": 2,
+            "ferrari": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bringebær",
+          "scores": {
+            "toyota": 2,
+            "jeep": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kokos",
+          "scores": {
+            "porsche": 2,
+            "volkswagen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vanilje",
+          "scores": {
+            "fiat": 2,
+            "mini": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mango",
+          "scores": {
+            "ferrari": 2,
+            "jeep": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om skjerf?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg har ett til hvert humør",
+          "scores": {
+            "bmw": 2,
+            "ferrari": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "De klør",
+          "scores": {
+            "audi": 2,
+            "fiat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg bruker dem som pute",
+          "scores": {
+            "jeep": 2,
+            "mercedes": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jo lengre, jo bedre",
+          "scores": {
+            "porsche": 2,
+            "mercedes": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare hvis noen jeg kjenner har strikket det",
+          "scores": {
+            "fiat": 2,
+            "jeep": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pynt, ikke varme",
+          "scores": {
+            "toyota": 2,
+            "mercedes": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En ugle spør deg om råd. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Følg magefølelsen",
+          "scores": {
+            "porsche": 2,
+            "toyota": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lag en liste",
+          "scores": {
+            "mini": 2,
+            "audi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sov på det",
+          "scores": {
+            "bmw": 2,
+            "tesla": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør en annen ugle",
+          "scores": {
+            "ferrari": 2,
+            "mercedes": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør det motsatte av alle andre",
+          "scores": {
+            "audi": 2,
+            "volkswagen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ta en pause og spis noe",
+          "scores": {
+            "fiat": 2,
+            "mini": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor mange planter har du hjemme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, de visner",
+          "scores": {
+            "porsche": 2,
+            "audi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én, og den heter Rolf",
+          "scores": {
+            "volvo": 2,
+            "mini": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fem til ti",
+          "scores": {
+            "tesla": 2,
+            "volvo": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har mistet tellingen",
+          "scores": {
+            "bmw": 2,
+            "volkswagen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare kaktuser",
+          "scores": {
+            "ferrari": 2,
+            "jeep": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du en regnværssøndag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bakeriet først, så sofaen",
+          "scores": {
+            "audi": 2,
+            "tesla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder hele huset",
+          "scores": {
+            "mercedes": 2,
+            "fiat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går tur uansett",
+          "scores": {
+            "jeep": 2,
+            "audi": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser en hel serie",
+          "scores": {
+            "volvo": 2,
+            "bmw": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Inviterer på brettspill",
+          "scores": {
+            "ferrari": 2,
+            "jeep": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger neste ferie",
+          "scores": {
+            "mini": 2,
+            "porsche": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket instrument ville du spilt i et band av hamstere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trommer",
+          "scores": {
+            "audi": 2,
+            "toyota": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Triangel",
+          "scores": {
+            "jeep": 2,
+            "bmw": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Elgitar",
+          "scores": {
+            "volvo": 2,
+            "tesla": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fiolin",
+          "scores": {
+            "mercedes": 2,
+            "volkswagen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tuba",
+          "scores": {
+            "fiat": 2,
+            "mini": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg er dirigent",
+          "scores": {
+            "toyota": 2,
+            "volvo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor raskt svarer du på meldinger?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en gang",
+          "scores": {
+            "volkswagen": 2,
+            "porsche": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Innen en time",
+          "scores": {
+            "fiat": 2,
+            "ferrari": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Når jeg kommer på det",
+          "scores": {
+            "jeep": 2,
+            "mini": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg svarer med talemelding",
+          "scores": {
+            "tesla": 2,
+            "volvo": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ofte dagen etter, men grundig",
+          "scores": {
+            "mini": 2,
+            "porsche": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "volvo",
+      "name": "Volvo",
+      "shareName": "Volvo",
+      "emoji": null,
+      "description": "Du er stødig, praktisk og alltid klar for tur. Folk vet at de kan stole på deg, uansett vær.",
+      "funFact": "Navnet Volvo betyr «jeg ruller» på latin, og den første Volvo-bilen kom i 1927.",
+      "image": "images/2026-11-08/volvo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder kursen i uvær."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Har plass til alt."
+        },
+        {
+          "title": "Trygg",
+          "text": "Folk stoler på deg."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Passer inn overalt."
+        }
+      ]
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "shareName": "Tesla",
+      "emoji": null,
+      "description": "Du er nysgjerrig og elsker å prøve det nyeste. Du er alltid et skritt foran, og har allerede lest bruksanvisningen.",
+      "funFact": "Tesla er oppkalt etter oppfinneren Nikola Tesla, og selskapet ble grunnlagt i 2003.",
+      "image": "images/2026-11-08/tesla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Elsker nye ideer."
+        },
+        {
+          "title": "Fremtidsrettet",
+          "text": "Lever litt i morgen."
+        },
+        {
+          "title": "Stille",
+          "text": "Gjør ting uten bråk."
+        },
+        {
+          "title": "Smart",
+          "text": "Har alltid en løsning."
+        }
+      ]
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "shareName": "Toyota",
+      "emoji": null,
+      "description": "Du er rolig, pålitelig og helt uten dikkedarer. Du kommer alltid fram, og du klager aldri på veien.",
+      "funFact": "Grunnleggerfamilien het Toyoda, men selskapet ble kalt Toyota, blant annet fordi navnet da skrives med åtte strøk på japansk, og åtte er et lykketall.",
+      "image": "images/2026-11-08/toyota.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Starter hver eneste dag."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter aldri."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Holder i mange år."
+        }
+      ]
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "shareName": "Volkswagen",
+      "emoji": null,
+      "description": "Du er hyggelig, folkelig og venn med alle. Du har en plass ved bordet til hvem som helst.",
+      "funFact": "Volkswagen betyr rett og slett «folkevogn» på tysk, og selskapet ble grunnlagt i 1937.",
+      "image": "images/2026-11-08/volkswagen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Folkelig",
+          "text": "Venn med alle."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Alltid et smil."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til det meste."
+        },
+        {
+          "title": "Trofast",
+          "text": "Blir med lenge."
+        }
+      ]
+    },
+    {
+      "id": "bmw",
+      "name": "BMW",
+      "shareName": "BMW",
+      "emoji": null,
+      "description": "Du er presis og liker at ting gjøres ordentlig. Du har en plan, og du følger den med stil.",
+      "funFact": "BMW står for Bayerische Motoren Werke, og selskapet begynte med å lage flymotorer.",
+      "image": "images/2026-11-08/bmw.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Gjør ting ordentlig."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vet hvor du skal."
+        },
+        {
+          "title": "Stilig",
+          "text": "Ser alltid bra ut."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av driv."
+        }
+      ]
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-Benz",
+      "shareName": "Mercedes-Benz",
+      "emoji": null,
+      "description": "Du er elegant og rolig, og du tar deg god tid. Du får folk til å rette seg litt opp i ryggen.",
+      "funFact": "Navnet Mercedes kommer fra Mercedes Jellinek, datteren til forretningsmannen Emil Jellinek som solgte de første bilene.",
+      "image": "images/2026-11-08/mercedes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har klasse uten å prøve."
+        },
+        {
+          "title": "Rolig",
+          "text": "Aldri i hast."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det klassiske."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne godt."
+        }
+      ]
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "shareName": "Audi",
+      "emoji": null,
+      "description": "Du er lyttende og gjennomtenkt. Du sier ikke mye, men når du sier noe, hører alle etter.",
+      "funFact": "Grunnleggeren het August Horch, som betyr «hør» på tysk. Audi er det samme ordet på latin.",
+      "image": "images/2026-11-08/audi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lyttende",
+          "text": "Hører det andre overser."
+        },
+        {
+          "title": "Gjennomtenkt",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Diskret",
+          "text": "Liker ikke støy."
+        },
+        {
+          "title": "Stilren",
+          "text": "Alt har sin plass."
+        }
+      ]
+    },
+    {
+      "id": "ferrari",
+      "name": "Ferrari",
+      "shareName": "Ferrari",
+      "emoji": null,
+      "description": "Du er lidenskapelig og full av temperament. Du går all in på alt du gjør, og du gjør det med stil.",
+      "funFact": "Den steilende hesten i logoen kom fra flyet til den italienske jagerflygeren Francesco Baracca fra første verdenskrig.",
+      "image": "images/2026-11-08/ferrari.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for alt du gjør."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar store sjanser."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Alltid litt show."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Kan ikke sitte stille."
+        }
+      ]
+    },
+    {
+      "id": "porsche",
+      "name": "Porsche",
+      "shareName": "Porsche",
+      "emoji": null,
+      "description": "Du er sporty og liker at ting er gjennomført. Du har en klassisk stil som aldri går av moten.",
+      "funFact": "Ferdinand Porsche, som grunnla selskapet, tegnet også den første Volkswagen Boblen.",
+      "image": "images/2026-11-08/porsche.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for mer."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs stil."
+        },
+        {
+          "title": "Gjennomført",
+          "text": "Ingen halvveis løsninger."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du kan."
+        }
+      ]
+    },
+    {
+      "id": "fiat",
+      "name": "Fiat",
+      "shareName": "Fiat",
+      "emoji": null,
+      "description": "Du er glad, fleksibel og liten av vekst, men stor i hjertet. Du finner alltid en parkeringsplass og et godt humør.",
+      "funFact": "Fiat står for Fabbrica Italiana Automobili Torino, og selskapet ble grunnlagt i 1899. «Fiat» betyr også «la det skje» på latin.",
+      "image": "images/2026-11-08/fiat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smiler til alle."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Finner alltid en plass."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Umulig å ikke like."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        }
+      ]
+    },
+    {
+      "id": "mini",
+      "name": "Mini",
+      "shareName": "Mini",
+      "emoji": null,
+      "description": "Du er leken, kompakt og full av personlighet. Du får plass til mye mer enn folk tror.",
+      "funFact": "Den første Minien kom i 1959 og ble tegnet av Alec Issigonis.",
+      "image": "images/2026-11-08/mini.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Gjør alt litt morsommere."
+        },
+        {
+          "title": "Kompakt",
+          "text": "Liten, men rommelig."
+        },
+        {
+          "title": "Personlig",
+          "text": "Helt din egen stil."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Rask i hodet."
+        }
+      ]
+    },
+    {
+      "id": "jeep",
+      "name": "Jeep",
+      "shareName": "Jeep",
+      "emoji": null,
+      "description": "Du er eventyrlysten og redd for ingenting. Der veien slutter, begynner moroa for deg.",
+      "funFact": "Navnet Jeep stammer fra militærbilene i andre verdenskrig. Én teori er at det kommer av «GP», for «general purpose».",
+      "image": "images/2026-11-08/jeep.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker ukjente stier."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Fri",
+          "text": "Trives utenfor veien."
+        },
+        {
+          "title": "Modig",
+          "text": "Redd for ingenting."
+        }
+      ]
+    }
+  ]
+}

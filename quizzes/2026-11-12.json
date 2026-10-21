@@ -1,0 +1,668 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "title": "Hvem i den norske kongefamilien er du i dag?",
+  "intro": "Er du en lun konge, en eventyrlysten dronning eller en tøff kronprinsesse? Svar på sju litt rare spørsmål og finn ut hvem i kongefamilien du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken kake passer best til en tirsdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sukkerbrød uten pynt",
+          "scores": {
+            "sverre": 2,
+            "mettemarit": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gulrotkake",
+          "scores": {
+            "sonja": 2,
+            "marthalouise": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe kjøpt på vei hjem",
+          "scores": {
+            "ingrid": 2,
+            "sonja": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Eplekake med vaniljesaus",
+          "scores": {
+            "marthalouise": 2,
+            "olav": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen kake, bare en kjeks",
+          "scores": {
+            "harald": 2,
+            "olav": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor bløtkake, hvorfor ikke",
+          "scores": {
+            "haakon": 2,
+            "maud": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om kjøkkenhåndklær?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg har en favoritt",
+          "scores": {
+            "harald": 2,
+            "marthalouise": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "De må henge helt rett",
+          "scores": {
+            "maud": 2,
+            "olav": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tørker heller hendene på buksa",
+          "scores": {
+            "mettemarit": 2,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jo flere mønstre, jo bedre",
+          "scores": {
+            "sverre": 2,
+            "ingrid": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg bretter dem til små kunstverk",
+          "scores": {
+            "haakon7": 2,
+            "harald": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "De forsvinner alltid",
+          "scores": {
+            "ingrid": 2,
+            "haakon": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En pingvin ber deg holde en tale. Hva handler den om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vennskap",
+          "scores": {
+            "haakon": 2,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å stå i kø",
+          "scores": {
+            "marthalouise": 2,
+            "mettemarit": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hvorfor fisk er undervurdert",
+          "scores": {
+            "sonja": 2,
+            "sverre": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kulde, men på en positiv måte",
+          "scores": {
+            "haakon7": 2,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg improviserer",
+          "scores": {
+            "ingrid": 2,
+            "haakon7": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lar pingvinen snakke selv",
+          "scores": {
+            "maud": 2,
+            "harald": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan hilser du på noen du ikke har sett på lenge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stor klem",
+          "scores": {
+            "mettemarit": 2,
+            "haakon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et fast håndtrykk",
+          "scores": {
+            "marthalouise": 2,
+            "maud": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg roper navnet på lang avstand",
+          "scores": {
+            "sverre": 2,
+            "harald": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et lite vink og et smil",
+          "scores": {
+            "maud": 2,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sier «nei, men hei!»",
+          "scores": {
+            "olav": 2,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg begynner rett på en historie",
+          "scores": {
+            "haakon": 2,
+            "haakon7": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor tidlig begynner du å pynte til jul?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I oktober",
+          "scores": {
+            "haakon7": 2,
+            "mettemarit": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Første søndag i advent",
+          "scores": {
+            "olav": 2,
+            "sverre": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Uka før jul",
+          "scores": {
+            "maud": 2,
+            "haakon7": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På lille julaften",
+          "scores": {
+            "ingrid": 2,
+            "maud": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg pynter aldri ned",
+          "scores": {
+            "mettemarit": 2,
+            "olav": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Når noen andre gjør det",
+          "scores": {
+            "harald": 2,
+            "sverre": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når det er helt stille?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nyter det",
+          "scores": {
+            "mettemarit": 2,
+            "sverre": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Begynner å nynne",
+          "scores": {
+            "sonja": 2,
+            "ingrid": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hører etter rare lyder",
+          "scores": {
+            "harald": 2,
+            "olav": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker store tanker",
+          "scores": {
+            "haakon": 2,
+            "haakon7": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ringer noen",
+          "scores": {
+            "maud": 2,
+            "marthalouise": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sovner",
+          "scores": {
+            "olav": 2,
+            "harald": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken form har den perfekte puta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Firkantet, helt klassisk",
+          "scores": {
+            "sonja": 2,
+            "marthalouise": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rund som en månekake",
+          "scores": {
+            "sverre": 2,
+            "maud": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lang som en pølse",
+          "scores": {
+            "ingrid": 2,
+            "marthalouise": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjerteformet",
+          "scores": {
+            "marthalouise": 2,
+            "haakon7": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den er brettet dobbel",
+          "scores": {
+            "haakon7": 2,
+            "haakon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvilken som helst, bare den er myk",
+          "scores": {
+            "olav": 2,
+            "mettemarit": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "haakon",
+      "name": "Kong Haakon",
+      "shareName": "Kong Haakon",
+      "emoji": null,
+      "description": "Du er Kong Haakon, Norges nye konge. Du er rolig, nysgjerrig og tar ansvar når det gjelder, men liker også å kjenne litt vind i håret.",
+      "funFact": "Kong Haakon ble konge 28. august 2026, og valgte å beholde valgspråket «Alt for Norge», som faren, farfaren og oldefaren også hadde.",
+      "image": "images/2026-11-12/haakon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ansvarlig",
+          "text": "Står støtt når det gjelder."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære noe nytt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Sporty",
+          "text": "Trives ute i været."
+        }
+      ]
+    },
+    {
+      "id": "mettemarit",
+      "name": "Dronning Mette-Marit",
+      "shareName": "Dronning Mette-Marit",
+      "emoji": null,
+      "description": "Du er Dronning Mette-Marit. Du er varm, ekte og glad i gode historier, og du får folk til å føle seg sett.",
+      "funFact": "Dronning Mette-Marit giftet seg med Haakon 25. august 2001, og er kjent for å reise land og strand rundt for å spre leselyst.",
+      "image": "images/2026-11-12/mettemarit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Ser den som står alene."
+        },
+        {
+          "title": "Ekte",
+          "text": "Er den du er."
+        },
+        {
+          "title": "Litterær",
+          "text": "Alltid en bok i veska."
+        },
+        {
+          "title": "Modig",
+          "text": "Sier det som trengs."
+        }
+      ]
+    },
+    {
+      "id": "ingrid",
+      "name": "Kronprinsesse Ingrid Alexandra",
+      "shareName": "Kronprinsesse Ingrid Alexandra",
+      "emoji": null,
+      "description": "Du er Kronprinsesse Ingrid Alexandra. Du er tøff, sporty og jordnær, og du er ikke redd for å skitne til hendene.",
+      "funFact": "Kronprinsesse Ingrid Alexandra avtjente 15 måneders førstegangstjeneste ved Ingeniørbataljonen i Brigade Nord i 2024 og 2025.",
+      "image": "images/2026-11-12/ingrid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler kulde og gjørme."
+        },
+        {
+          "title": "Jordnær",
+          "text": "En helt vanlig venn."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Pliktoppfyllende",
+          "text": "Gjør jobben skikkelig."
+        }
+      ]
+    },
+    {
+      "id": "sverre",
+      "name": "Prins Sverre Magnus",
+      "shareName": "Prins Sverre Magnus",
+      "emoji": null,
+      "description": "Du er Prins Sverre Magnus. Du er avslappet, morsom og trives best litt bak kulissene, der den gode stemningen ofte skapes.",
+      "funFact": "Prins Sverre Magnus ble født 3. desember 2005, og er det yngste barnet til Kong Haakon og Dronning Mette-Marit.",
+      "image": "images/2026-11-12/sverre.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har alltid en spøk."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller opp for familien."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Ser ting fra nye vinkler."
+        }
+      ]
+    },
+    {
+      "id": "sonja",
+      "name": "Dronning Sonja",
+      "shareName": "Dronning Sonja",
+      "emoji": null,
+      "description": "Du er Dronning Sonja. Du er klok, kunstnerisk og elsker lange turer i fjellet, gjerne i godt selskap.",
+      "funFact": "Dronning Sonja har i mange år gått årlige fjellturer rundt i Norge, ofte sammen med Dronning Margrethe av Danmark.",
+      "image": "images/2026-11-12/sonja.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Har sett og lært mye."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Elsker farger og former."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går gjerne en mil til."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid med stil."
+        }
+      ]
+    },
+    {
+      "id": "marthalouise",
+      "name": "Prinsesse Märtha Louise",
+      "shareName": "Prinsesse Märtha Louise",
+      "emoji": null,
+      "description": "Du er Prinsesse Märtha Louise. Du går dine egne veier, er full av fantasi og har et stort hjerte for dyr og eventyr.",
+      "funFact": "Prinsesse Märtha Louise er utdannet fysioterapeut, og var i flere år sprangrytter som representerte Norge i internasjonale mesterskap.",
+      "image": "images/2026-11-12/marthalouise.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Lever litt i eventyret."
+        },
+        {
+          "title": "Dyrevennlig",
+          "text": "Elsker hester."
+        },
+        {
+          "title": "Åpen",
+          "text": "Deler gjerne tankene sine."
+        }
+      ]
+    },
+    {
+      "id": "harald",
+      "name": "Kong Harald V",
+      "shareName": "Kong Harald V",
+      "emoji": null,
+      "description": "Du er Kong Harald V, som var Norges konge i 35 år. Du er lun, folkelig og har humor, og folk føler seg trygge rundt deg.",
+      "funFact": "Kong Harald seilte for Norge i tre olympiske leker, i 1964, 1968 og 1972.",
+      "image": "images/2026-11-12/harald.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Har et glimt i øyet."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Konge for alle."
+        },
+        {
+          "title": "Trofast",
+          "text": "Står ved sine ord."
+        },
+        {
+          "title": "Sjømann",
+          "text": "Hjemme på havet."
+        }
+      ]
+    },
+    {
+      "id": "olav",
+      "name": "Kong Olav V",
+      "shareName": "Kong Olav V",
+      "emoji": null,
+      "description": "Du er Kong Olav V, folkekongen. Du er sporty, hjertelig og helt uten jåleri, og du tar gjerne trikken som alle andre.",
+      "funFact": "Kong Olav vant olympisk gull i seiling i 1928 i Amsterdam, med båten Norna i 6-meterklassen.",
+      "image": "images/2026-11-12/olav.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Folkelig",
+          "text": "Tar trikken som alle."
+        },
+        {
+          "title": "Sporty",
+          "text": "Vinner gjerne gull."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Varm mot alle."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Ingen jåleri her."
+        }
+      ]
+    },
+    {
+      "id": "haakon7",
+      "name": "Kong Haakon VII",
+      "shareName": "Kong Haakon VII",
+      "emoji": null,
+      "description": "Du er Kong Haakon VII, den første kongen i det selvstendige Norge. Du er prinsippfast og modig, og du står ved det du tror på.",
+      "funFact": "Kong Haakon VII ble Norges konge i 1905, og det var han som først valgte valgspråket «Alt for Norge».",
+      "image": "images/2026-11-12/haakon7.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Prinsippfast",
+          "text": "Sier nei når det trengs."
+        },
+        {
+          "title": "Modig",
+          "text": "Står i stormen."
+        },
+        {
+          "title": "Samlende",
+          "text": "Samler hele folket."
+        },
+        {
+          "title": "Pliktoppfyllende",
+          "text": "Alt for Norge."
+        }
+      ]
+    },
+    {
+      "id": "maud",
+      "name": "Dronning Maud",
+      "shareName": "Dronning Maud",
+      "emoji": null,
+      "description": "Du er Dronning Maud, Norges første dronning etter 1905. Du er elegant, sporty og litt eventyrlysten, og du liker å gjøre ting på din egen måte.",
+      "funFact": "Dronning Maud Land i Antarktis ble oppkalt etter henne, og Norge gjorde krav på området i 1939.",
+      "image": "images/2026-11-12/maud.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid stilig kledd."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Drar gjerne langt av gårde."
+        },
+        {
+          "title": "Sporty",
+          "text": "Glad i friluftsliv."
+        },
+        {
+          "title": "Egenrådig",
+          "text": "Gjør ting sin egen vei."
+        }
+      ]
+    }
+  ]
+}
