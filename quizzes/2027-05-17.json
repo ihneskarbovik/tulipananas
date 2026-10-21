@@ -1,0 +1,716 @@
+{
+  "id": "2027-05-17",
+  "date": "2027-05-17",
+  "title": "Hvilken lov er du i dag?",
+  "intro": "Gratulerer med dagen! Grunnloven ble vedtatt 17. mai 1814, og den er full av viktige paragrafer. Svar på sju litt rare spørsmål og finn ut hvilken av dem du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket kjøkkenapparat ville vært den beste fotballspilleren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brødristeren",
+          "scores": {
+            "p16": 2,
+            "p100": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mikseren",
+          "scores": {
+            "p108": 2,
+            "p112": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøleskapet",
+          "scores": {
+            "p1": 2,
+            "p108": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vaffeljernet",
+          "scores": {
+            "p100": 2,
+            "p112": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Oppvaskmaskinen",
+          "scores": {
+            "p104": 2,
+            "p49": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kaffetrakteren",
+          "scores": {
+            "p50": 2,
+            "p109": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om sløyfer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jo flere, jo bedre",
+          "scores": {
+            "p1": 2,
+            "p101": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "De er fine på gaver, ikke på meg",
+          "scores": {
+            "p112": 2,
+            "p101": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg kan ikke knyte dem",
+          "scores": {
+            "p106": 2,
+            "p98": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg knyter dobbel knute, for sikkerhets skyld",
+          "scores": {
+            "p100": 2,
+            "p106": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sløyfer burde vært i håret til alle",
+          "scores": {
+            "p109": 2,
+            "p104": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt stressende, ærlig talt",
+          "scores": {
+            "p104": 2,
+            "p16": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du finner en kasse med hundre badeender. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter dem i rekke etter størrelse",
+          "scores": {
+            "p1": 2,
+            "p112": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir én til alle jeg møter",
+          "scores": {
+            "p100": 2,
+            "p108": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Arrangerer et badeandløp i bekken",
+          "scores": {
+            "p16": 2,
+            "p104": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir dem navn, alle sammen",
+          "scores": {
+            "p49": 2,
+            "p50": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bygger et tårn",
+          "scores": {
+            "p98": 2,
+            "p112": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar dem bo i badekaret for alltid",
+          "scores": {
+            "p106": 2,
+            "p109": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan krysser du en gate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter på grønn mann, alltid",
+          "scores": {
+            "p106": 2,
+            "p98": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Løper litt for sikkerhets skyld",
+          "scores": {
+            "p104": 2,
+            "p112": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder noen i hånda",
+          "scores": {
+            "p101": 2,
+            "p98": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Teller bilene først",
+          "scores": {
+            "p112": 2,
+            "p106": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hopper bare på de hvite stripene",
+          "scores": {
+            "p109": 2,
+            "p98": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Synger en liten sang",
+          "scores": {
+            "p108": 2,
+            "p109": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du når noen avbryter deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter tålmodig",
+          "scores": {
+            "p109": 2,
+            "p101": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snakker litt høyere",
+          "scores": {
+            "p104": 2,
+            "p49": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Begynner helt på nytt",
+          "scores": {
+            "p50": 2,
+            "p108": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier «unnskyld, jeg var ikke ferdig»",
+          "scores": {
+            "p49": 2,
+            "p106": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Glemmer hva jeg skulle si",
+          "scores": {
+            "p98": 2,
+            "p101": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ler og lar dem snakke",
+          "scores": {
+            "p100": 2,
+            "p16": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor høyt synger du i bursdager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Så høyt at naboen hører",
+          "scores": {
+            "p101": 2,
+            "p49": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Akkurat passe",
+          "scores": {
+            "p109": 2,
+            "p108": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg nynner med",
+          "scores": {
+            "p112": 2,
+            "p16": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg dirigerer de andre",
+          "scores": {
+            "p108": 2,
+            "p98": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg spiller luftgitar i stedet",
+          "scores": {
+            "p50": 2,
+            "p1": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket ord synes du burde vært forbudt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snart",
+          "scores": {
+            "p112": 2,
+            "p106": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nesten",
+          "scores": {
+            "p1": 2,
+            "p100": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kanskje",
+          "scores": {
+            "p108": 2,
+            "p50": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mandag",
+          "scores": {
+            "p16": 2,
+            "p101": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Seng",
+          "scores": {
+            "p49": 2,
+            "p104": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Støvsuger",
+          "scores": {
+            "p50": 2,
+            "p106": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "p1",
+      "name": "Fritt rike (§ 1)",
+      "shareName": "et fritt rike",
+      "emoji": null,
+      "description": "Paragrafen sier at Norge er et fritt og selvstendig land som ikke kan deles opp eller selges. Du er stolt, stødig og står trygt på egne bein.",
+      "funFact": "Grunnloven ble vedtatt på Eidsvoll 17. mai 1814, og den er en av verdens eldste grunnlover som fortsatt er i bruk.",
+      "image": "images/2027-05-17/p1.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg helt fint selv."
+        },
+        {
+          "title": "Stolt",
+          "text": "Viser gjerne hvem du er."
+        },
+        {
+          "title": "Stødig",
+          "text": "Lar seg ikke rokke."
+        },
+        {
+          "title": "Hel",
+          "text": "Lar ingen dele deg."
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "Religionsfriheten (§ 16)",
+      "shareName": "religionsfriheten",
+      "emoji": null,
+      "description": "Paragrafen sier at alle som bor i Norge, fritt kan følge sin egen tro. Du er rolig, respektfull og lar alle få være seg selv.",
+      "funFact": "Da Grunnloven ble skrevet i 1814, fikk ikke jøder komme inn i landet. Det forbudet ble fjernet i 1851.",
+      "image": "images/2027-05-17/p16.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Respektfull",
+          "text": "Lar alle være seg selv."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har en indre ro."
+        },
+        {
+          "title": "Åpen",
+          "text": "Nysgjerrig på andres tanker."
+        },
+        {
+          "title": "Varm",
+          "text": "Som et levende lys."
+        }
+      ]
+    },
+    {
+      "id": "p49",
+      "name": "Folkestyret (§ 49)",
+      "shareName": "folkestyret",
+      "emoji": null,
+      "description": "Paragrafen sier at det er folket som lager lovene, gjennom Stortinget. Du er en lagspiller som liker at alle får være med og bestemme.",
+      "funFact": "Stortinget har 169 representanter, valgt fra hele landet.",
+      "image": "images/2027-05-17/p49.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Best når alle bidrar."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Lytter til alle sider."
+        },
+        {
+          "title": "Viktig",
+          "text": "Holder ting i gang."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker gode regler."
+        }
+      ]
+    },
+    {
+      "id": "p50",
+      "name": "Stemmeretten (§ 50)",
+      "shareName": "stemmeretten",
+      "emoji": null,
+      "description": "Paragrafen sier hvem som får stemme ved stortingsvalg: norske borgere som har fylt 18 år. Du er bestemt, engasjert og har alltid en mening.",
+      "funFact": "Kvinner i Norge fikk stemmerett ved stortingsvalg i 1913.",
+      "image": "images/2027-05-17/p50.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Engasjert",
+          "text": "Bryr seg om ting."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du mener."
+        },
+        {
+          "title": "Moden",
+          "text": "Klar for ansvar."
+        },
+        {
+          "title": "Hørt",
+          "text": "Din mening teller."
+        }
+      ]
+    },
+    {
+      "id": "p98",
+      "name": "Likhet (§ 98)",
+      "shareName": "likhet for loven",
+      "emoji": null,
+      "description": "Paragrafen sier at alle er like for loven, og at ingen skal behandles urettferdig. Du er rettferdig og sørger for at alle får like stor bit.",
+      "funFact": "Setningen «Alle er like for loven» kom inn i Grunnloven i 2014, da Grunnloven fylte 200 år.",
+      "image": "images/2027-05-17/p98.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rettferdig",
+          "text": "Deler alltid likt."
+        },
+        {
+          "title": "Balansert",
+          "text": "Holder vekten rett."
+        },
+        {
+          "title": "Modig",
+          "text": "Sier fra om urett."
+        },
+        {
+          "title": "Snill",
+          "text": "Tar vare på alle."
+        }
+      ]
+    },
+    {
+      "id": "p100",
+      "name": "Ytringsfriheten (§ 100)",
+      "shareName": "ytringsfriheten",
+      "emoji": null,
+      "description": "Paragrafen sier at alle kan si hva de mener. Du er pratsom, modig og har alltid noe spennende å si.",
+      "funFact": "Allerede i 1814 sto det i Grunnloven at «trykkefrihed bør finde sted», altså at man skulle kunne trykke og dele meninger.",
+      "image": "images/2027-05-17/p100.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å si fra."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        }
+      ]
+    },
+    {
+      "id": "p101",
+      "name": "Foreningsfriheten (§ 101)",
+      "shareName": "foreningsfriheten",
+      "emoji": null,
+      "description": "Paragrafen sier at alle kan starte eller bli med i foreninger, og møtes fredelig. Du er sosial og elsker å samle folk.",
+      "funFact": "Grunnlovens eget kapittel om menneskerettigheter, kapittel E, ble vedtatt 13. mai 2014, like før Grunnlovens 200-årsdag.",
+      "image": "images/2027-05-17/p101.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker store gjenger."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får folk til å møtes."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Holder stemningen god."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Starter gjerne nye klubber."
+        }
+      ]
+    },
+    {
+      "id": "p104",
+      "name": "Barnas paragraf (§ 104)",
+      "shareName": "barnas paragraf",
+      "emoji": null,
+      "description": "Paragrafen sier at barn skal bli hørt, og at det som er best for barna, skal veie tungt. Du er omsorgsfull og leken på samme tid.",
+      "funFact": "Paragrafen om barn kom inn i Grunnloven i 2014, og sier at barnets beste skal være et grunnleggende hensyn.",
+      "image": "images/2027-05-17/p104.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro og lek."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på de små."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører hva andre sier."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være rundt."
+        }
+      ]
+    },
+    {
+      "id": "p106",
+      "name": "Bevegelsesfriheten (§ 106)",
+      "shareName": "bevegelsesfriheten",
+      "emoji": null,
+      "description": "Paragrafen sier at alle som bor lovlig i Norge, kan reise fritt rundt i landet og velge hvor de vil bo. Du er rastløs, eventyrlysten og alltid på vei.",
+      "funFact": "Grunnloven kan bare endres når minst to tredjedeler av Stortinget er enige.",
+      "image": "images/2027-05-17/p106.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på vei."
+        },
+        {
+          "title": "Fri",
+          "text": "Bor der du vil."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Spontan",
+          "text": "Pakker på sekundet."
+        }
+      ]
+    },
+    {
+      "id": "p108",
+      "name": "Samenes paragraf (§ 108)",
+      "shareName": "samenes paragraf",
+      "emoji": null,
+      "description": "Paragrafen sier at staten skal legge til rette for at samene kan ta vare på språket, kulturen og samfunnslivet sitt. Du er stolt av røttene dine og flink til å ta vare på tradisjoner.",
+      "funFact": "Samisk språk og kultur fikk vern i Grunnloven i 1988.",
+      "image": "images/2027-05-17/p108.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Stolt",
+          "text": "Glad i røttene sine."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler både kulde og vind."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Bærer historier videre."
+        }
+      ]
+    },
+    {
+      "id": "p109",
+      "name": "Utdanning (§ 109)",
+      "shareName": "utdanningsparagrafen",
+      "emoji": null,
+      "description": "Paragrafen sier at alle har rett til utdanning, og at barn har rett til opplæring. Du er nysgjerrig og elsker å lære noe nytt hver dag.",
+      "funFact": "I 2014 fikk Grunnloven nye utgaver på både bokmål og nynorsk, slik at den ble lettere å lese.",
+      "image": "images/2027-05-17/p109.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør alltid hvorfor."
+        },
+        {
+          "title": "Flittig",
+          "text": "Gjør leksene sine."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet litt om alt."
+        },
+        {
+          "title": "Åpen",
+          "text": "Lærer av alle."
+        }
+      ]
+    },
+    {
+      "id": "p112",
+      "name": "Miljøparagrafen (§ 112)",
+      "shareName": "miljøparagrafen",
+      "emoji": null,
+      "description": "Paragrafen sier at alle har rett til et sunt miljø og en natur som tas vare på, også for dem som kommer etter oss. Du er grønn, jordnær og tenker langt fram.",
+      "funFact": "Miljøparagrafen kom inn i Grunnloven i 1992 som § 110 b, og fikk nummeret § 112 i 2014.",
+      "image": "images/2027-05-17/p112.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Glad i naturen."
+        },
+        {
+          "title": "Langsiktig",
+          "text": "Tenker på framtiden."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Rolig",
+          "text": "Som en skog."
+        }
+      ]
+    }
+  ]
+}

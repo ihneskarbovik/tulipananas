@@ -1,0 +1,724 @@
+{
+  "id": "2027-02-07",
+  "date": "2027-02-07",
+  "title": "Hvilken bolle er du i dag?",
+  "intro": "Det er fastelavn, og da er det bollesesong! Er du en festlig fastelavnsbolle, en lun kanelbolle eller noe helt uventet? Svar på sju rare spørsmål og finn ut hvilken bolle du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "En hest vil lære å strikke. Hvilken farge velger den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Knallgul",
+          "scores": {
+            "kardemommebolle": 2,
+            "fastelavnsbolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mørkeblå",
+          "scores": {
+            "skillingsbolle": 2,
+            "fiskebolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Regnbue, selvsagt",
+          "scores": {
+            "rosinbolle": 2,
+            "semla": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Akkurat samme farge som seg selv",
+          "scores": {
+            "semla": 2,
+            "fastelavnsbolle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Neongrønn",
+          "scores": {
+            "berlinerbolle": 2,
+            "hvetebolle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den strikker uten garn",
+          "scores": {
+            "skolebolle": 2,
+            "kjottbolle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om bobleplast?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg må knipe hver eneste boble",
+          "scores": {
+            "kardemommebolle": 2,
+            "berlinerbolle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sparer den til en dårlig dag",
+          "scores": {
+            "sjokoladebolle": 2,
+            "kanelbolle": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den burde vært en egen sport",
+          "scores": {
+            "fiskebolle": 2,
+            "hvetebolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg pakker heller inn ting i aviser",
+          "scores": {
+            "semla": 2,
+            "rosinbolle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har sovet på den",
+          "scores": {
+            "kjottbolle": 2,
+            "sjokoladebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg klarer ikke å kaste den",
+          "scores": {
+            "rosinbolle": 2,
+            "kjottbolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan går du gjennom dyp snø?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Som en elefant, med store skritt",
+          "scores": {
+            "rosinbolle": 2,
+            "semla": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg lager engler underveis",
+          "scores": {
+            "skolebolle": 2,
+            "semla": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg følger sporene til noen andre",
+          "scores": {
+            "sjokoladebolle": 2,
+            "kanelbolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg graver en tunnel",
+          "scores": {
+            "fiskebolle": 2,
+            "kjottbolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg venter på våren",
+          "scores": {
+            "kardemommebolle": 2,
+            "hvetebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Raskt, og med sang",
+          "scores": {
+            "fastelavnsbolle": 2,
+            "fiskebolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor får du de beste ideene dine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I dusjen",
+          "scores": {
+            "skolebolle": 2,
+            "kanelbolle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "På bussen",
+          "scores": {
+            "rosinbolle": 2,
+            "hvetebolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rett før jeg sovner",
+          "scores": {
+            "semla": 2,
+            "skillingsbolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Når jeg egentlig skulle ha gjort noe annet",
+          "scores": {
+            "kjottbolle": 2,
+            "rosinbolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sammen med andre",
+          "scores": {
+            "fiskebolle": 2,
+            "berlinerbolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ute i skogen",
+          "scores": {
+            "sjokoladebolle": 2,
+            "skillingsbolle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får en ekstra lomme på jakka. Hva har du i den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En reserve-lue",
+          "scores": {
+            "hvetebolle": 2,
+            "skillingsbolle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En liten stein jeg liker",
+          "scores": {
+            "kjottbolle": 2,
+            "sjokoladebolle": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Plaster, til alle",
+          "scores": {
+            "skillingsbolle": 2,
+            "kardemommebolle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, jeg liker å vite at den er der",
+          "scores": {
+            "fastelavnsbolle": 2,
+            "kardemommebolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En notatblokk",
+          "scores": {
+            "berlinerbolle": 2,
+            "hvetebolle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Flere lommer",
+          "scores": {
+            "fiskebolle": 2,
+            "rosinbolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan vet du at det er lørdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Det lukter annerledes",
+          "scores": {
+            "skillingsbolle": 2,
+            "kanelbolle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg har på meg favorittsokkene",
+          "scores": {
+            "berlinerbolle": 2,
+            "fiskebolle": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Alle i huset er i godt humør",
+          "scores": {
+            "kardemommebolle": 2,
+            "kjottbolle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg sjekker tre ganger",
+          "scores": {
+            "hvetebolle": 2,
+            "fiskebolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det kjennes i tærne",
+          "scores": {
+            "semla": 2,
+            "skolebolle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vet det ikke, hver dag er lørdag",
+          "scores": {
+            "fastelavnsbolle": 2,
+            "berlinerbolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor mange tær ville vært mest praktisk å ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fire",
+          "scores": {
+            "kardemommebolle": 2,
+            "semla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ti, som nå",
+          "scores": {
+            "berlinerbolle": 2,
+            "kjottbolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Elleve, for sikkerhets skyld",
+          "scores": {
+            "fastelavnsbolle": 2,
+            "hvetebolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tjue",
+          "scores": {
+            "kanelbolle": 2,
+            "sjokoladebolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, bare såler",
+          "scores": {
+            "skolebolle": 2,
+            "sjokoladebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Én stor",
+          "scores": {
+            "sjokoladebolle": 2,
+            "kjottbolle": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "fastelavnsbolle",
+      "name": "Fastelavnsbolle",
+      "shareName": "en fastelavnsbolle",
+      "emoji": null,
+      "description": "Du er festlig, raus og litt overdådig. Når du kommer, blir en helt vanlig søndag til en fest.",
+      "funFact": "Navnet fastelavn betyr «kvelden før fasten», og fastelavnsboller spises tradisjonelt på fastelavnssøndag.",
+      "image": "images/2027-02-07/fastelavnsbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Gjør alt til en feiring."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne det beste."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Kommer hvert eneste år."
+        },
+        {
+          "title": "Søt",
+          "text": "Litt ekstra av alt."
+        }
+      ]
+    },
+    {
+      "id": "skolebolle",
+      "name": "Skolebolle",
+      "shareName": "en skolebolle",
+      "emoji": null,
+      "description": "Du er populær og trofast. Alle blir glade når du dukker opp i matpakka eller på kakesalget.",
+      "funFact": "Skolebollen dukket opp på 1950-tallet, og i Nord- og Øst-Norge kalles den ofte skolebrød.",
+      "image": "images/2027-02-07/skolebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Populær",
+          "text": "Alle vil ha deg."
+        },
+        {
+          "title": "Trofast",
+          "text": "Med på alle utflukter."
+        },
+        {
+          "title": "Leken",
+          "text": "Har et lyst humør."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Det beste sitter innerst."
+        }
+      ]
+    },
+    {
+      "id": "kanelbolle",
+      "name": "Kanelbolle",
+      "shareName": "en kanelbolle",
+      "emoji": null,
+      "description": "Du er lun, varm og litt krøllete i kantene. Folk føler seg hjemme bare de kjenner duften av deg.",
+      "funFact": "I Sverige feires kanelbullens dag hvert år den 4. oktober.",
+      "image": "images/2027-02-07/kanelbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Som et varmt teppe."
+        },
+        {
+          "title": "Varm",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Kronglete",
+          "text": "Tenker gjerne i spiral."
+        },
+        {
+          "title": "Koselig",
+          "text": "Best med gode venner."
+        }
+      ]
+    },
+    {
+      "id": "skillingsbolle",
+      "name": "Skillingsbolle",
+      "shareName": "en skillingsbolle",
+      "emoji": null,
+      "description": "Du er stolt, sjarmerende og helt deg selv. Du vet hvor du kommer fra, og det merker alle.",
+      "funFact": "Skillingsbollen er Bergens egen bolle, og den skal ha fått navnet sitt fordi den en gang kostet én skilling.",
+      "image": "images/2027-02-07/skillingsbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Kjenner røttene sine."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner folk med smil."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler litt regnvær."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker en prat."
+        }
+      ]
+    },
+    {
+      "id": "rosinbolle",
+      "name": "Rosinbolle",
+      "shareName": "en rosinbolle",
+      "emoji": null,
+      "description": "Du er full av små overraskelser. Akkurat når folk tror de kjenner deg, finner de noe nytt.",
+      "funFact": "Rosiner er tørkede druer, og det går med flere kilo druer for å lage ett kilo rosiner.",
+      "image": "images/2027-02-07/rosinbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Har mye gjemt inni."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri helt ute av moten."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Blir bedre med tiden."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Passer til alt."
+        }
+      ]
+    },
+    {
+      "id": "berlinerbolle",
+      "name": "Berlinerbolle",
+      "shareName": "en berlinerbolle",
+      "emoji": null,
+      "description": "Du er glad, sprudlende og litt kosmopolitisk. Du har alltid noe søtt å by på.",
+      "funFact": "I Berlin heter berlinerbollen faktisk ikke berliner, men «Pfannkuchen».",
+      "image": "images/2027-02-07/berlinerbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Verdensvant",
+          "text": "Har venner overalt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Søt i midten."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler med hele seg."
+        }
+      ]
+    },
+    {
+      "id": "sjokoladebolle",
+      "name": "Sjokoladebolle",
+      "shareName": "en sjokoladebolle",
+      "emoji": null,
+      "description": "Du er en ekte godbit, og du vet hvordan man koser seg. Du gjør dårlige dager litt bedre.",
+      "funFact": "Kakaotreet, som sjokolade lages av, kommer opprinnelig fra Mellom- og Sør-Amerika.",
+      "image": "images/2027-02-07/sjokoladebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kosete",
+          "text": "Vet hvordan man nyter."
+        },
+        {
+          "title": "Trøstende",
+          "text": "Gjør dagen bedre."
+        },
+        {
+          "title": "Populær",
+          "text": "Forsvinner alltid først."
+        },
+        {
+          "title": "Leken",
+          "text": "Litt barnslig, heldigvis."
+        }
+      ]
+    },
+    {
+      "id": "kardemommebolle",
+      "name": "Kardemommebolle",
+      "shareName": "en kardemommebolle",
+      "emoji": null,
+      "description": "Du er klok og stødig, men med en hemmelig krydret side. Uten deg ville mye vært litt kjedeligere.",
+      "funFact": "Kardemomme er det vanligste krydderet i norske boller, og det regnes som et av verdens dyreste krydder.",
+      "image": "images/2027-02-07/kardemommebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet hva som funker."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Krydret",
+          "text": "Har en skjult gnist."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skinner uten å skryte."
+        }
+      ]
+    },
+    {
+      "id": "hvetebolle",
+      "name": "Hvetebolle",
+      "shareName": "en hvetebolle",
+      "emoji": null,
+      "description": "Du er enkel på den beste måten. Du trenger ikke pynt for å være god.",
+      "funFact": "Hvete er en av verdens mest dyrkede kornsorter, og hvetemel er grunnlaget for nesten alle boller.",
+      "image": "images/2027-02-07/hvetebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke noe pynt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Det du ser, får du."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite drama, mye ro."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer i alle anledninger."
+        }
+      ]
+    },
+    {
+      "id": "semla",
+      "name": "Semla",
+      "shareName": "en semla",
+      "emoji": null,
+      "description": "Du er elegant og liker å gjøre ting skikkelig. Du har litt utenlandsk glans over deg.",
+      "funFact": "I Sverige spises semla særlig på fettisdagen, tirsdagen før fasten begynner, og den fylles med mandelmasse og krem.",
+      "image": "images/2027-02-07/semla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid litt pyntet."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Nabovennlig",
+          "text": "Har venner over grensa."
+        },
+        {
+          "title": "Festlig",
+          "text": "Liker en anledning."
+        }
+      ]
+    },
+    {
+      "id": "fiskebolle",
+      "name": "Fiskeboller",
+      "shareName": "fiskeboller",
+      "emoji": null,
+      "description": "Du er uventet, morsom og litt rar på den fineste måten. Folk ventet noe søtt, men fikk deg, og det var mye bedre.",
+      "funFact": "Fiskeboller lages av fiskefarse, ofte av hvit fisk som hyse eller torsk.",
+      "image": "images/2027-02-07/fiskebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uventet",
+          "text": "Ingen så deg komme."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har et glimt i øyet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Flyter rundt i saus."
+        },
+        {
+          "title": "Ekte",
+          "text": "Bryr seg ikke om trender."
+        }
+      ]
+    },
+    {
+      "id": "kjottbolle",
+      "name": "Kjøttboller",
+      "shareName": "kjøttboller",
+      "emoji": null,
+      "description": "Du er solid, hjemmekjær og alltid en del av gjengen. Du passer like godt i Sverige som i Italia.",
+      "funFact": "Kjøttboller finnes i nesten hele verden, fra svenske köttbullar til italienske polpette.",
+      "image": "images/2027-02-07/kjottbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Mett og fornøyd."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best rundt middagsbordet."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Kommer aldri alene."
+        },
+        {
+          "title": "Verdensvant",
+          "text": "Har mange navn."
+        }
+      ]
+    }
+  ]
+}

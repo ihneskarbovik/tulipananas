@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-13",
+  "date": "2026-12-13",
+  "title": "Hvilken julemat er du i dag?",
+  "intro": "Gratulerer med Luciadagen! Er du en trofast ribbe, en lys lussekatt eller en sjelden multekrem? Svar på sju litt rare spørsmål og finn ut hvilken julemat du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket dyr ville vært best til å kjøre trikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elefant",
+          "scores": {
+            "lutefisk": 2,
+            "medisterkake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pingvin",
+          "scores": {
+            "ribbe": 2,
+            "lussekatt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ekorn",
+          "scores": {
+            "risengrynsgrot": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ugle",
+          "scores": {
+            "riskrem": 2,
+            "pepperkake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skilpadde",
+          "scores": {
+            "medisterkake": 2,
+            "riskrem": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hest",
+          "scores": {
+            "marsipangris": 2,
+            "smultring": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om strømper med tær?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Genialt",
+          "scores": {
+            "multekrem": 2,
+            "pinnekjott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt skumle",
+          "scores": {
+            "smultring": 2,
+            "medisterkake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg har ti par",
+          "scores": {
+            "lussekatt": 2,
+            "lutefisk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tær skal være frie",
+          "scores": {
+            "julekake": 2,
+            "lutefisk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare til fest",
+          "scores": {
+            "risengrynsgrot": 2,
+            "riskrem": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvorfor ikke votter med tær også?",
+          "scores": {
+            "marsipangris": 2,
+            "risengrynsgrot": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan går du over en isete parkeringsplass?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med små, forsiktige skritt",
+          "scores": {
+            "smultring": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med armene ut som vinger",
+          "scores": {
+            "lutefisk": 2,
+            "multekrem": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg sklir med vilje",
+          "scores": {
+            "pinnekjott": 2,
+            "lussekatt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg holder meg fast i noen",
+          "scores": {
+            "multekrem": 2,
+            "pinnekjott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går rundt, det finnes alltid en annen vei",
+          "scores": {
+            "ribbe": 2,
+            "julekake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fort, og håper på det beste",
+          "scores": {
+            "risengrynsgrot": 2,
+            "pepperkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får designe et nytt frimerke. Hva er på det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hund med solbriller",
+          "scores": {
+            "lussekatt": 2,
+            "pinnekjott": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et fjell",
+          "scores": {
+            "julekake": 2,
+            "smultring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bestemor",
+          "scores": {
+            "multekrem": 2,
+            "julekake": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et kart over hemmelige steder",
+          "scores": {
+            "marsipangris": 2,
+            "ribbe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare en stor prikk",
+          "scores": {
+            "pepperkake": 2,
+            "risengrynsgrot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et fyrtårn",
+          "scores": {
+            "smultring": 2,
+            "medisterkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange blyanter trenger et menneske?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én, godt spisset",
+          "scores": {
+            "ribbe": 2,
+            "medisterkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tre",
+          "scores": {
+            "riskrem": 2,
+            "marsipangris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tolv, i alle farger",
+          "scores": {
+            "pepperkake": 2,
+            "medisterkake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En hel boks",
+          "scores": {
+            "risengrynsgrot": 2,
+            "marsipangris": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, jeg husker alt",
+          "scores": {
+            "pinnekjott": 2,
+            "lutefisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så mange at noen alltid er borte",
+          "scores": {
+            "julekake": 2,
+            "multekrem": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når noen synger falskt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger enda falskere med",
+          "scores": {
+            "pepperkake": 2,
+            "smultring": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler og klapper",
+          "scores": {
+            "smultring": 2,
+            "pepperkake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir et lite tips om tonen",
+          "scores": {
+            "riskrem": 2,
+            "ribbe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Begynner å danse",
+          "scores": {
+            "lussekatt": 2,
+            "pinnekjott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Later som det er en ny sjanger",
+          "scores": {
+            "multekrem": 2,
+            "medisterkake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nynner med, helt rent",
+          "scores": {
+            "marsipangris": 2,
+            "ribbe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken himmelretning liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nord",
+          "scores": {
+            "pinnekjott": 2,
+            "riskrem": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sør",
+          "scores": {
+            "julekake": 2,
+            "smultring": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Øst",
+          "scores": {
+            "lussekatt": 2,
+            "julekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vest",
+          "scores": {
+            "marsipangris": 2,
+            "multekrem": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rett opp",
+          "scores": {
+            "lutefisk": 2,
+            "medisterkake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den veien jeg står",
+          "scores": {
+            "ribbe": 2,
+            "lussekatt": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ribbe",
+      "name": "Ribbe",
+      "shareName": "ribbe",
+      "emoji": null,
+      "description": "Du er en trygg klassiker som de fleste blir glade av. Du samler folk rundt bordet og får alle til å føle seg hjemme.",
+      "funFact": "Ribbe er den vanligste julemiddagen i Norge, og mange er nøye med at svoren skal bli sprø.",
+      "image": "images/2026-12-13/ribbe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Folkekjær",
+          "text": "Nesten alle liker deg."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Holder på det gamle."
+        },
+        {
+          "title": "Sprø",
+          "text": "Har en morsom kant."
+        },
+        {
+          "title": "Samlende",
+          "text": "Fyller hele bordet."
+        }
+      ]
+    },
+    {
+      "id": "pinnekjott",
+      "name": "Pinnekjøtt",
+      "shareName": "pinnekjøtt",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og helt deg selv. Du vet at de beste tingene tar litt tid.",
+      "funFact": "Pinnekjøtt er saltet og tørket lammeribbe, og tradisjonelt dampes det over pinner av bjørk.",
+      "image": "images/2026-12-13/pinnekjott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Lar ting ta tid."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt uten fjas."
+        },
+        {
+          "title": "Vestlandsk",
+          "text": "Litt sta, mye hjerte."
+        },
+        {
+          "title": "Lojal",
+          "text": "Har trofaste venner."
+        }
+      ]
+    },
+    {
+      "id": "lutefisk",
+      "name": "Lutefisk",
+      "shareName": "lutefisk",
+      "emoji": null,
+      "description": "Du er modig og annerledes, og du bryr deg ikke om hva alle andre gjør. De som kjenner deg, elsker deg ekstra høyt.",
+      "funFact": "Lutefisk lages av tørrfisk som legges i lut, og før i tiden ble luten laget av bjørkeaske.",
+      "image": "images/2026-12-13/lutefisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å være annerledes."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Ingen er som deg."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler litt av hvert."
+        },
+        {
+          "title": "Elsket",
+          "text": "Har en trofast fanklubb."
+        }
+      ]
+    },
+    {
+      "id": "medisterkake",
+      "name": "Medisterkaker",
+      "shareName": "medisterkaker",
+      "emoji": null,
+      "description": "Du er en god støttespiller som alltid stiller opp. Du gjør alt rundt deg bedre uten å kreve oppmerksomhet.",
+      "funFact": "Medisterkaker serveres ofte sammen med ribbe på julaften, gjerne med surkål og rødkål ved siden av.",
+      "image": "images/2026-12-13/medisterkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke rampelyset."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer hvert eneste år."
+        },
+        {
+          "title": "Rund",
+          "text": "Myk i kantene."
+        }
+      ]
+    },
+    {
+      "id": "risengrynsgrot",
+      "name": "Risengrynsgrøt",
+      "shareName": "risengrynsgrøt",
+      "emoji": null,
+      "description": "Du er varm, lun og spennende på samme tid. Det er alltid en liten overraskelse gjemt et sted i deg.",
+      "funFact": "Den som finner mandelen i grøten, får tradisjonelt en marsipangris i premie.",
+      "image": "images/2026-12-13/risengrynsgrot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Varmer fra innsiden."
+        },
+        {
+          "title": "Spennende",
+          "text": "Skjuler en overraskelse."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        },
+        {
+          "title": "Koselig",
+          "text": "Best i godt selskap."
+        }
+      ]
+    },
+    {
+      "id": "riskrem",
+      "name": "Riskrem",
+      "shareName": "riskrem",
+      "emoji": null,
+      "description": "Du er myk, luftig og god til å gjøre noe nytt ut av det gamle. Du får alle til å smile mot slutten av kvelden.",
+      "funFact": "Riskrem lages ofte av rester av risengrynsgrøt, blandet med pisket krem og servert med rød saus.",
+      "image": "images/2026-12-13/riskrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Gjør gammelt til nytt."
+        },
+        {
+          "title": "Luftig",
+          "text": "Tar livet lett."
+        },
+        {
+          "title": "Søt",
+          "text": "Sier fine ting."
+        },
+        {
+          "title": "Avsluttende",
+          "text": "Kommer med det siste ordet."
+        }
+      ]
+    },
+    {
+      "id": "pepperkake",
+      "name": "Pepperkaker",
+      "shareName": "pepperkaker",
+      "emoji": null,
+      "description": "Du er kreativ, leken og full av krydder. Du kan bli hva som helst, fra hjerte til hus.",
+      "funFact": "Mange gamle pepperkakeoppskrifter inneholder faktisk ekte pepper, i tillegg til kanel, ingefær og nellik.",
+      "image": "images/2026-12-13/pepperkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Kan formes til alt."
+        },
+        {
+          "title": "Krydret",
+          "text": "Har litt ekstra trøkk."
+        },
+        {
+          "title": "Leken",
+          "text": "Liker å pynte."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i store lag."
+        }
+      ]
+    },
+    {
+      "id": "lussekatt",
+      "name": "Lussekatt",
+      "shareName": "lussekatt",
+      "emoji": null,
+      "description": "Du er lys, glad og kommer med godt humør i den mørkeste tiden. Folk våkner litt mer når du er i rommet.",
+      "funFact": "Lussekatter får den gule fargen fra safran, som regnes som verdens dyreste krydder.",
+      "image": "images/2026-12-13/lussekatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Lyser opp mørket."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler fra morgenen."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Kommer gjerne syngende."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        }
+      ]
+    },
+    {
+      "id": "smultring",
+      "name": "Smultringer",
+      "shareName": "smultringer",
+      "emoji": null,
+      "description": "Du er hjemmekjær og litt gammeldags på den fineste måten. Du har et lite hull i midten som du fyller med gode historier.",
+      "funFact": "Smultringer har fått navnet sitt fordi de opprinnelig ble stekt i smult.",
+      "image": "images/2026-12-13/smultring.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker å være hjemme."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har mange gamle historier."
+        },
+        {
+          "title": "Rund",
+          "text": "Uten skarpe kanter."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid i kakeboksen."
+        }
+      ]
+    },
+    {
+      "id": "marsipangris",
+      "name": "Marsipangris",
+      "shareName": "marsipangris",
+      "emoji": null,
+      "description": "Du er en vinner og litt av en sjarmør. Du dukker opp når man minst venter det, og gjør dagen bedre.",
+      "funFact": "Marsipan lages hovedsakelig av malte mandler og sukker.",
+      "image": "images/2026-12-13/marsipangris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner hjerter raskt."
+        },
+        {
+          "title": "Heldig",
+          "text": "Dukker opp som premie."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid i godt humør."
+        },
+        {
+          "title": "Søt",
+          "text": "Umulig å ikke like."
+        }
+      ]
+    },
+    {
+      "id": "julekake",
+      "name": "Julekake",
+      "shareName": "julekake",
+      "emoji": null,
+      "description": "Du er stødig og raus, og du passer inn nesten overalt. Du gjør en helt vanlig morgen litt mer festlig.",
+      "funFact": "Julekake er et søtt gjærbrød med rosiner og sukat, og den smakes ofte til med kardemomme.",
+      "image": "images/2026-12-13/julekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder hele desember."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med alle."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør hverdagen fin."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til alt."
+        }
+      ]
+    },
+    {
+      "id": "multekrem",
+      "name": "Multekrem",
+      "shareName": "multekrem",
+      "emoji": null,
+      "description": "Du er sjelden, fin og litt eksklusiv. Folk blir ekstra glade når de får tilbringe tid med deg.",
+      "funFact": "Multer vokser på myr i nord og blir ofte kalt «myrens gull».",
+      "image": "images/2026-12-13/multekrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjelden",
+          "text": "Ikke lett å finne."
+        },
+        {
+          "title": "Elegant",
+          "text": "Har stil og klasse."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives best i fjellet."
+        },
+        {
+          "title": "Verdifull",
+          "text": "Ekte gull i kanten."
+        }
+      ]
+    }
+  ]
+}

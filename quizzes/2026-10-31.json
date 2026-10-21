@@ -1,0 +1,716 @@
+{
+  "id": "2026-10-31",
+  "date": "2026-10-31",
+  "title": "Hvilket monster er du i dag?",
+  "intro": "Er du et sjenert spøkelse, en elegant vampyr eller et troll med stort hjerte? Svar på sju litt rare spørsmål og finn ut hvilket monster du er på halloween.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken grønnsak ville vært den beste læreren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brokkoli",
+          "scores": {
+            "nokken": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Potet",
+          "scores": {
+            "kyklop": 2,
+            "spokelse": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Agurk",
+          "scores": {
+            "drage": 2,
+            "varulv": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Paprika",
+          "scores": {
+            "yeti": 2,
+            "vampyr": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Løk",
+          "scores": {
+            "troll": 2,
+            "kraken": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blomkål",
+          "scores": {
+            "spokelse": 2,
+            "skjelett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En sjiraff ber deg om hjelp med leksene. Hvilket fag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Matte",
+          "scores": {
+            "heks": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Norsk",
+          "scores": {
+            "kraken": 2,
+            "heks": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gym",
+          "scores": {
+            "vampyr": 2,
+            "nokken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Musikk",
+          "scores": {
+            "drage": 2,
+            "kyklop": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kunst og håndverk",
+          "scores": {
+            "skjelett": 2,
+            "varulv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Naturfag",
+          "scores": {
+            "kyklop": 2,
+            "mumie": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva synes du om gafler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Undervurderte",
+          "scores": {
+            "mumie": 2,
+            "kraken": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt for spisse",
+          "scores": {
+            "heks": 2,
+            "spokelse": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "De burde ha flere tagger",
+          "scores": {
+            "nokken": 2,
+            "mumie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg spiser helst med skje",
+          "scores": {
+            "vampyr": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fine til å gre håret",
+          "scores": {
+            "varulv": 2,
+            "yeti": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg samler på dem",
+          "scores": {
+            "yeti": 2,
+            "troll": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan spiser du en is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biter rett i den",
+          "scores": {
+            "varulv": 2,
+            "kraken": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Slikker sakte rundt og rundt",
+          "scores": {
+            "troll": 2,
+            "kyklop": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den smelter før jeg rekker det",
+          "scores": {
+            "drage": 2,
+            "mumie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg deler den med noen",
+          "scores": {
+            "kyklop": 2,
+            "heks": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare toppen, så gir jeg bort resten",
+          "scores": {
+            "skjelett": 2,
+            "vampyr": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange ganger sjekker du at døra er låst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én gang, det holder",
+          "scores": {
+            "nokken": 2,
+            "mumie": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "To ganger, for sikkerhets skyld",
+          "scores": {
+            "yeti": 2,
+            "troll": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fem ganger, minst",
+          "scores": {
+            "spokelse": 2,
+            "skjelett": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg går tilbake fra bussen",
+          "scores": {
+            "kraken": 2,
+            "kyklop": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hvilken dør?",
+          "scores": {
+            "drage": 2,
+            "kyklop": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg låser ikke, jeg stoler på folk",
+          "scores": {
+            "varulv": 2,
+            "heks": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du vinner et helt års forbruk av noe. Hva velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tannkrem",
+          "scores": {
+            "nokken": 2,
+            "troll": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bananer",
+          "scores": {
+            "heks": 2,
+            "kraken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Strikkegarn",
+          "scores": {
+            "troll": 2,
+            "nokken": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ballonger",
+          "scores": {
+            "kraken": 2,
+            "yeti": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klistremerker",
+          "scores": {
+            "drage": 2,
+            "vampyr": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Saft",
+          "scores": {
+            "spokelse": 2,
+            "skjelett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken frisyre passer deg i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett ut av senga",
+          "scores": {
+            "yeti": 2,
+            "spokelse": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stram hestehale",
+          "scores": {
+            "mumie": 2,
+            "skjelett": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Masse krøller",
+          "scores": {
+            "drage": 2,
+            "skjelett": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Helt glatt og blankt",
+          "scores": {
+            "heks": 2,
+            "kraken": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En liten topp",
+          "scores": {
+            "nokken": 2,
+            "varulv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lue, uansett",
+          "scores": {
+            "kyklop": 2,
+            "yeti": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "spokelse",
+      "name": "Spøkelse",
+      "shareName": "et spøkelse",
+      "emoji": null,
+      "description": "Du er lett, stille og litt sjenert. Du dukker opp når man minst venter det, og gjør alle litt nysgjerrige.",
+      "funFact": "Ifølge et gammelt sagn vokter spøkelseshunden Malcanisen porten på Akershus festning i Oslo.",
+      "image": "images/2026-10-31/spokelse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjenert",
+          "text": "Holder seg i bakgrunnen."
+        },
+        {
+          "title": "Lett",
+          "text": "Svever gjennom dagen."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Ingen vet helt hvor."
+        },
+        {
+          "title": "Snill",
+          "text": "Vil bare være med."
+        }
+      ]
+    },
+    {
+      "id": "vampyr",
+      "name": "Vampyr",
+      "shareName": "en vampyr",
+      "emoji": null,
+      "description": "Du er elegant, sjarmerende og alltid velkledd. Du har stil og vet å gjøre en entré.",
+      "funFact": "Romanen «Dracula» av Bram Stoker kom ut i 1897 og gjorde vampyrer kjent over hele verden.",
+      "image": "images/2026-10-31/vampyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid pent kledd."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Nattlig",
+          "text": "Våkner til liv sent."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har en kappe klar."
+        }
+      ]
+    },
+    {
+      "id": "varulv",
+      "name": "Varulv",
+      "shareName": "en varulv",
+      "emoji": null,
+      "description": "Du er energisk og har to sider: rolig det ene øyeblikket, vill og leken det neste. Du elsker å løpe fritt.",
+      "funFact": "Ordet varulv har samme opphav som engelsk «werewolf», der første del er et gammelt ord for «mann».",
+      "image": "images/2026-10-31/varulv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart fremover."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å tulle."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står med flokken."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "To sider av samme sak."
+        }
+      ]
+    },
+    {
+      "id": "mumie",
+      "name": "Mumie",
+      "shareName": "en mumie",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og godt innpakket. Du har vært med lenge og har mange gode historier.",
+      "funFact": "Gamle egyptere brukte saltet natron for å tørke ut kroppen når de lagde mumier, og hele prosessen kunne ta rundt 70 dager.",
+      "image": "images/2026-10-31/mumie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Har all verdens tid."
+        },
+        {
+          "title": "Klok",
+          "text": "Husker veldig mye."
+        },
+        {
+          "title": "Lun",
+          "text": "Alltid godt innpakket."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser aldri."
+        }
+      ]
+    },
+    {
+      "id": "heks",
+      "name": "Heks",
+      "shareName": "en heks",
+      "emoji": null,
+      "description": "Du er kreativ og full av ideer. Du blander ting som ingen andre ville tenkt på, og det blir magi.",
+      "funFact": "Ifølge gammel folketro fløy heksene til Bloksberg på sankthansaften eller i påsken, og bålene skulle holde dem unna.",
+      "image": "images/2026-10-31/heks.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Blander de rareste tingene."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Gjør ting på sin måte."
+        },
+        {
+          "title": "Klok",
+          "text": "Kan mange gode triks."
+        },
+        {
+          "title": "Rask",
+          "text": "Flyr dit hun vil."
+        }
+      ]
+    },
+    {
+      "id": "skjelett",
+      "name": "Skjelett",
+      "shareName": "et skjelett",
+      "emoji": null,
+      "description": "Du er morsom, rett på sak og helt uten fasader. Du er grunnmuren som holder gjengen samlet.",
+      "funFact": "Voksne mennesker har 206 bein, men babyer blir født med rundt 300. Mange av dem vokser sammen etter hvert.",
+      "image": "images/2026-10-31/skjelett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Ingenting å skjule."
+        },
+        {
+          "title": "Morsom",
+          "text": "Kjenner alle beinvitsene."
+        },
+        {
+          "title": "Stødig",
+          "text": "Holder alt oppe."
+        },
+        {
+          "title": "Sprek",
+          "text": "Elsker å danse."
+        }
+      ]
+    },
+    {
+      "id": "troll",
+      "name": "Troll",
+      "shareName": "et troll",
+      "emoji": null,
+      "description": "Du er sterk, jordnær og litt gretten om morgenen. Innerst inne har du et stort og varmt hjerte.",
+      "funFact": "Ifølge folketroen sprekker troll eller blir til stein hvis de ser sola.",
+      "image": "images/2026-10-31/troll.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Løfter tunge ting."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Trives best i skogen."
+        },
+        {
+          "title": "Gretten",
+          "text": "Men bare før frokost."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "shareName": "en yeti",
+      "emoji": null,
+      "description": "Du er stor, myk og glad i å være for deg selv. Du er en legende som mange har hørt om, men få har møtt.",
+      "funFact": "Yetien kalles også «den avskyelige snømannen», et navn som kom fra en avisartikkel i 1921.",
+      "image": "images/2026-10-31/yeti.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Lodden og god."
+        },
+        {
+          "title": "Sky",
+          "text": "Liker å være alene."
+        },
+        {
+          "title": "Legendarisk",
+          "text": "Alle har hørt om deg."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Tåler all slags vær."
+        }
+      ]
+    },
+    {
+      "id": "nokken",
+      "name": "Nøkken",
+      "shareName": "nøkken",
+      "emoji": null,
+      "description": "Du er drømmende og musikalsk. Du trives best der det er stille og vakkert, og du har alltid en melodi i hodet.",
+      "funFact": "I gamle dager sa man «Nykk, nykk, nål i vatn» og kastet noe av stål i vannet for å beskytte seg mot nøkken.",
+      "image": "images/2026-10-31/nokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Har alltid en melodi."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyter rundt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Som et blankt vann."
+        },
+        {
+          "title": "Hemmelig",
+          "text": "Gjemmer seg godt."
+        }
+      ]
+    },
+    {
+      "id": "kyklop",
+      "name": "Kyklop",
+      "shareName": "en kyklop",
+      "emoji": null,
+      "description": "Du er fokusert og ser det som er viktig. Når du har bestemt deg for noe, gir du deg ikke.",
+      "funFact": "Ordet kyklop kommer fra gresk og betyr «rundøye».",
+      "image": "images/2026-10-31/kyklop.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Ser én ting om gangen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bygger store ting."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier rett ut."
+        }
+      ]
+    },
+    {
+      "id": "drage",
+      "name": "Drage",
+      "shareName": "en drage",
+      "emoji": null,
+      "description": "Du er modig, stolt og litt dramatisk. Du passer godt på det som er viktig for deg.",
+      "funFact": "Komodovaranen kalles ofte komododrage og er verdens største øgle. Den kan bli rundt tre meter lang.",
+      "image": "images/2026-10-31/drage.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Redd for ingenting."
+        },
+        {
+          "title": "Stolt",
+          "text": "Har mye å vise fram."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Vokter skattene sine."
+        },
+        {
+          "title": "Varm",
+          "text": "Bokstavelig talt."
+        }
+      ]
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "shareName": "en kraken",
+      "emoji": null,
+      "description": "Du er nysgjerrig og har mange armer i mange prosjekter. Du kan være overalt på en gang.",
+      "funFact": "Sagnet om kraken kan ha blitt inspirert av kjempeblekkspruten, som kan bli over ti meter lang.",
+      "image": "images/2026-10-31/kraken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil utforske alt."
+        },
+        {
+          "title": "Travel",
+          "text": "Mange armer i sving."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Klemmete",
+          "text": "Gir de beste klemmene."
+        }
+      ]
+    }
+  ]
+}

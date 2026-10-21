@@ -1,0 +1,716 @@
+{
+  "id": "2026-12-31",
+  "date": "2026-12-31",
+  "title": "Hvilket nyttårsforsett er du i dag?",
+  "intro": "Det er nyttårsaften, og et helt nytt år venter! Svar på sju litt rare spørsmål og finn ut hvilket nyttårsforsett du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken frukt ville vært best som ordfører?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banan",
+          "scores": {
+            "bake": 2,
+            "tur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Eple",
+          "scores": {
+            "sprak": 2,
+            "rydde": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ananas",
+          "scores": {
+            "lese": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kiwi",
+          "scores": {
+            "gronnsaker": 2,
+            "lese": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vannmelon",
+          "scores": {
+            "trene": 2,
+            "instrument": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Plomme",
+          "scores": {
+            "plukke": 2,
+            "sove": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om knappene på en fjernkontroll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Altfor mange",
+          "scores": {
+            "plukke": 2,
+            "tur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg trykker på alle for å se hva som skjer",
+          "scores": {
+            "instrument": 2,
+            "lese": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg bruker bare to av dem",
+          "scores": {
+            "tur": 2,
+            "instrument": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "De burde lyse i mørket",
+          "scores": {
+            "bake": 2,
+            "sove": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg vet ikke hvor fjernkontrollen er",
+          "scores": {
+            "gronnsaker": 2,
+            "tur": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "De er fine å trykke på når man tenker",
+          "scores": {
+            "sove": 2,
+            "plukke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan bretter du et kart?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akkurat slik det var",
+          "scores": {
+            "instrument": 2,
+            "trene": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til en liten klump",
+          "scores": {
+            "sjonglere": 2,
+            "ringe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Som et papirfly",
+          "scores": {
+            "rydde": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lar det være ubrettet",
+          "scores": {
+            "sprak": 2,
+            "ringe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg ber noen andre om hjelp",
+          "scores": {
+            "trene": 2,
+            "tur": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kart? Jeg spør heller om veien",
+          "scores": {
+            "lese": 2,
+            "gronnsaker": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får gi navn til en ny planet. Hva heter den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bobla",
+          "scores": {
+            "tur": 2,
+            "plukke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gunnar",
+          "scores": {
+            "sove": 2,
+            "lese": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Planet Pling",
+          "scores": {
+            "gronnsaker": 2,
+            "tur": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sokk",
+          "scores": {
+            "plukke": 2,
+            "ringe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den Nye",
+          "scores": {
+            "bake": 2,
+            "gronnsaker": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ellevilla",
+          "scores": {
+            "ringe": 2,
+            "trene": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan venter du i en lang kø?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prater med den bak meg",
+          "scores": {
+            "sjonglere": 2,
+            "lese": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Teller hvor mange som står foran",
+          "scores": {
+            "instrument": 2,
+            "gronnsaker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tripper og hopper litt",
+          "scores": {
+            "rydde": 2,
+            "instrument": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Dagdrømmer",
+          "scores": {
+            "lese": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nynner på en melodi",
+          "scores": {
+            "trene": 2,
+            "plukke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir opp og kommer tilbake senere",
+          "scores": {
+            "sprak": 2,
+            "bake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken årstid bor i hjertet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidlig vår",
+          "scores": {
+            "plukke": 2,
+            "lese": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høysommer",
+          "scores": {
+            "bake": 2,
+            "ringe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sen høst",
+          "scores": {
+            "gronnsaker": 2,
+            "sprak": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Midtvinter",
+          "scores": {
+            "tur": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den uka der alt bare smelter",
+          "scores": {
+            "sove": 2,
+            "ringe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "En hval sender deg en melding. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Hei! Hvordan er det der nede?»",
+          "scores": {
+            "sjonglere": 2,
+            "ringe": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "«Skal vi møtes på stranda?»",
+          "scores": {
+            "ringe": 2,
+            "rydde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "«Kan du synge for meg?»",
+          "scores": {
+            "bake": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "«Unnskyld, feil nummer»",
+          "scores": {
+            "plukke": 2,
+            "trene": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "«Jeg svarer i morgen»",
+          "scores": {
+            "sprak": 2,
+            "rydde": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "«Har du det bra? Trenger du noe?»",
+          "scores": {
+            "sove": 2,
+            "trene": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "lese",
+      "name": "Lese flere bøker",
+      "shareName": "nyttårsforsettet «lese flere bøker»",
+      "emoji": null,
+      "description": "Du er nysgjerrig og full av fantasi. Du kan reise hvor som helst uten å gå ut døra.",
+      "funFact": "Diamantsutraen fra Kina, trykket i år 868, er verdens eldste trykte bok med en sikker dato.",
+      "image": "images/2026-12-31/lese.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil alltid vite mer."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Lever i mange verdener."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i godstolen."
+        },
+        {
+          "title": "Klok",
+          "text": "Har lest litt av alt."
+        }
+      ]
+    },
+    {
+      "id": "sjonglere",
+      "name": "Lære å sjonglere",
+      "shareName": "nyttårsforsettet «lære å sjonglere»",
+      "emoji": null,
+      "description": "Du er leken og modig. Du gir ikke opp selv om ting faller i gulvet noen ganger.",
+      "funFact": "Sjonglering er avbildet i egyptiske gravmalerier ved Beni Hasan som er rundt 4000 år gamle.",
+      "image": "images/2026-12-31/sjonglere.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Gjør alt til moro."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Prøver igjen og igjen."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å feile."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Får publikum til å klappe."
+        }
+      ]
+    },
+    {
+      "id": "rydde",
+      "name": "Holde orden på rommet",
+      "shareName": "nyttårsforsettet «holde orden på rommet»",
+      "emoji": null,
+      "description": "Du er strukturert og liker at ting har sin plass. Du gjør kaos om til ro på et blunk.",
+      "funFact": "Den japanske ryddeeksperten Marie Kondo ble verdenskjent med rådet om å beholde ting som gir deg glede.",
+      "image": "images/2026-12-31/rydde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting unna raskt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker oversikt og ro."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Finner alltid nøklene."
+        }
+      ]
+    },
+    {
+      "id": "sprak",
+      "name": "Lære et nytt språk",
+      "shareName": "nyttårsforsettet «lære et nytt språk»",
+      "emoji": null,
+      "description": "Du er åpen og eventyrlysten. Du vil gjerne prate med hele verden.",
+      "funFact": "Det snakkes over 7000 språk i verden i dag.",
+      "image": "images/2026-12-31/sprak.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Nysgjerrig på andre."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Drømmer om fjerne steder."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker en god prat."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Øver litt hver dag."
+        }
+      ]
+    },
+    {
+      "id": "instrument",
+      "name": "Spille et instrument",
+      "shareName": "nyttårsforsettet «spille et instrument»",
+      "emoji": null,
+      "description": "Du er kreativ og følsom. Du hører musikk i nesten alt rundt deg.",
+      "funFact": "Noen av de eldste kjente instrumentene er fløyter laget av fuglebein, og de er over 35 000 år gamle.",
+      "image": "images/2026-12-31/instrument.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager noe av ingenting."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner stemninger godt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Øver til det sitter."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Nynner nesten hele tiden."
+        }
+      ]
+    },
+    {
+      "id": "trene",
+      "name": "Bevege seg mer",
+      "shareName": "nyttårsforsettet «bevege seg mer»",
+      "emoji": null,
+      "description": "Du er full av energi og liker å kjenne at kroppen jobber. Du blir glad av å være i farta.",
+      "funFact": "Helsedirektoratet anbefaler at barn og unge er fysisk aktive i minst 60 minutter hver dag.",
+      "image": "images/2026-12-31/trene.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Klarer ikke sitte stille."
+        },
+        {
+          "title": "Sterk",
+          "text": "Gir alltid litt ekstra."
+        },
+        {
+          "title": "Glad",
+          "text": "Får påfyll av bevegelse."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for lek."
+        }
+      ]
+    },
+    {
+      "id": "gronnsaker",
+      "name": "Spise mer grønnsaker",
+      "shareName": "nyttårsforsettet «spise mer grønnsaker»",
+      "emoji": null,
+      "description": "Du er sunn, frisk og litt modig. Du prøver gjerne noe nytt på tallerkenen.",
+      "funFact": "Helsedirektoratet anbefaler minst fem porsjoner frukt, bær og grønnsaker hver dag, ofte kalt «5 om dagen».",
+      "image": "images/2026-12-31/gronnsaker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Full av god energi."
+        },
+        {
+          "title": "Modig",
+          "text": "Smaker på nye ting."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Liker mye grønt."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        }
+      ]
+    },
+    {
+      "id": "sove",
+      "name": "Legge seg tidligere",
+      "shareName": "nyttårsforsettet «legge seg tidligere»",
+      "emoji": null,
+      "description": "Du er rolig og vet hva som er best for deg. Du vet at en god natt gjør morgendagen bedre.",
+      "funFact": "Mens vi sover, jobber hjernen med å lagre det vi har lært i løpet av dagen.",
+      "image": "images/2026-12-31/sove.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet hva kroppen trenger."
+        },
+        {
+          "title": "Myk",
+          "text": "Som en god pute."
+        },
+        {
+          "title": "Uthvilt",
+          "text": "Våkner med et smil."
+        }
+      ]
+    },
+    {
+      "id": "ringe",
+      "name": "Ringe besteforeldrene oftere",
+      "shareName": "nyttårsforsettet «ringe besteforeldrene oftere»",
+      "emoji": null,
+      "description": "Du er varm og omtenksom. Du vet at en liten samtale kan gjøre noens dag mye bedre.",
+      "funFact": "Alexander Graham Bell gjorde den første vellykkede telefonsamtalen i 1876.",
+      "image": "images/2026-12-31/ringe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Bryr seg om andre."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker alle bursdager."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å fortelle."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder kontakten."
+        }
+      ]
+    },
+    {
+      "id": "bake",
+      "name": "Bake mer",
+      "shareName": "nyttårsforsettet «bake mer»",
+      "emoji": null,
+      "description": "Du er raus og elsker å lage noe godt til andre. Huset ditt lukter alltid litt fristende.",
+      "funFact": "Arkeologer har funnet rester av flatbrød i Jordan som ble bakt for over 14 000 år siden.",
+      "image": "images/2026-12-31/bake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler gjerne det beste."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter til deigen hever."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner på nye oppskrifter."
+        },
+        {
+          "title": "Koselig",
+          "text": "Lager god stemning."
+        }
+      ]
+    },
+    {
+      "id": "tur",
+      "name": "Gå mer på tur",
+      "shareName": "nyttårsforsettet «gå mer på tur»",
+      "emoji": null,
+      "description": "Du er frisk og fri. Du trives best med himmel over hodet og en sti foran deg.",
+      "funFact": "Allemannsretten gir alle rett til å ferdes fritt i utmark i Norge, så lenge man tar hensyn.",
+      "image": "images/2026-12-31/tur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Elsker åpne vidder."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går alltid litt lenger."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se rundt neste sving."
+        },
+        {
+          "title": "Rolig",
+          "text": "Finner ro i naturen."
+        }
+      ]
+    },
+    {
+      "id": "plukke",
+      "name": "Plukke søppel i naturen",
+      "shareName": "nyttårsforsettet «plukke søppel i naturen»",
+      "emoji": null,
+      "description": "Du er omsorgsfull og tar ansvar. Du gjør verden litt finere, én ting om gangen.",
+      "funFact": "En plastflaske kan bruke flere hundre år på å brytes ned i naturen.",
+      "image": "images/2026-12-31/plukke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på naturen."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Rydder etter andre også."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Gjør noe, ikke bare snakker."
+        },
+        {
+          "title": "Snill",
+          "text": "Tenker på dyrene."
+        }
+      ]
+    }
+  ]
+}
