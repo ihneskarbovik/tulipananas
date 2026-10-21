@@ -1,0 +1,716 @@
+{
+  "id": "2026-12-05",
+  "date": "2026-12-05",
+  "title": "Hvilken juletrepynt er du i dag?",
+  "intro": "Treet er på plass, og pyntekassa er hentet ned fra loftet. Er du stjerna i toppen, en koselig lysslynge eller en sta halmbukk? Svar på sju rare spørsmål og finn ut hvilken juletrepynt du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken bokstav ville vært best i ballspill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "O",
+          "scores": {
+            "julekule": 2,
+            "lysslynge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "X",
+          "scores": {
+            "pepperkake": 2,
+            "flagg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "K",
+          "scores": {
+            "flagg": 2,
+            "lysslynge": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å",
+          "scores": {
+            "papirlenke": 2,
+            "stjerne": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "S",
+          "scores": {
+            "glitter": 2,
+            "lysslynge": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Q",
+          "scores": {
+            "halmbukk": 2,
+            "julekule": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan heller du opp melk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sakte og forsiktig",
+          "scores": {
+            "flagg": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fort, og tørker etterpå",
+          "scores": {
+            "pepperkake": 2,
+            "halmbukk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rett fra kartongen i munnen",
+          "scores": {
+            "papirlenke": 2,
+            "lysslynge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Til glasset er helt fullt",
+          "scores": {
+            "halmbukk": 2,
+            "kongle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lar noen andre gjøre det",
+          "scores": {
+            "engel": 2,
+            "glitter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med en liten dans",
+          "scores": {
+            "julekurv": 2,
+            "engel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du skal gjemme en skatt. Hvor gjemmer du den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under en stein i skogen",
+          "scores": {
+            "pepperkake": 2,
+            "julekule": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inni en gammel sokk",
+          "scores": {
+            "istapp": 2,
+            "glitter": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bak en bok i bokhylla",
+          "scores": {
+            "julekurv": 2,
+            "kongle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg graver et skikkelig hull",
+          "scores": {
+            "flagg": 2,
+            "julekurv": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg forteller alle hvor den er",
+          "scores": {
+            "glitter": 2,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg glemmer hvor jeg gjemte den",
+          "scores": {
+            "halmbukk": 2,
+            "papirlenke": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor mange pauser tar du på en gåtur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, jeg går rett på",
+          "scores": {
+            "papirlenke": 2,
+            "stjerne": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én lang en",
+          "scores": {
+            "julekurv": 2,
+            "stjerne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hver gang jeg ser en fin hund",
+          "scores": {
+            "lysslynge": 2,
+            "stjerne": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare når noen andre vil",
+          "scores": {
+            "flagg": 2,
+            "engel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mange, jeg må se på alt",
+          "scores": {
+            "halmbukk": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går, men snakker hele tiden",
+          "scores": {
+            "istapp": 2,
+            "engel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva sier du til en snømann som fryser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vil du låne skjerfet mitt?",
+          "scores": {
+            "engel": 2,
+            "halmbukk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det er jo litt av poenget med deg",
+          "scores": {
+            "glitter": 2,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kom, vi danser oss varme",
+          "scores": {
+            "kongle": 2,
+            "julekurv": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg henter en kopp kakao",
+          "scores": {
+            "stjerne": 2,
+            "papirlenke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg kan bygge deg et hus",
+          "scores": {
+            "julekule": 2,
+            "kongle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Du ser fantastisk ut uansett",
+          "scores": {
+            "lysslynge": 2,
+            "pepperkake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket kjøretøy er snillest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Traktoren",
+          "scores": {
+            "flagg": 2,
+            "istapp": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bybussen",
+          "scores": {
+            "istapp": 2,
+            "julekule": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Søppelbilen",
+          "scores": {
+            "papirlenke": 2,
+            "kongle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sparkesykkelen",
+          "scores": {
+            "pepperkake": 2,
+            "halmbukk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ambulansen",
+          "scores": {
+            "kongle": 2,
+            "lysslynge": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan sorterer du fargeblyanter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Etter regnbuen",
+          "scores": {
+            "glitter": 2,
+            "engel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Etter hvor spisse de er",
+          "scores": {
+            "engel": 2,
+            "julekule": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Etter hvilke jeg liker best",
+          "scores": {
+            "julekule": 2,
+            "papirlenke": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg sorterer ikke, alt i én boks",
+          "scores": {
+            "kongle": 2,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Etter lengde",
+          "scores": {
+            "stjerne": 2,
+            "papirlenke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg gir dem navn først",
+          "scores": {
+            "halmbukk": 2,
+            "istapp": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stjerne",
+      "name": "Stjerna i toppen",
+      "shareName": "stjerna i toppen",
+      "emoji": null,
+      "description": "Du er en naturlig leder som ser lyst på det meste. Du står gjerne øverst, men løfter alle rundt deg.",
+      "funFact": "Ifølge Store norske leksikon er stjerna i toppen av juletreet en ganske ny tradisjon. Før var det vanligere med en spire eller en fugl.",
+      "image": "images/2026-12-05/stjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leder",
+          "text": "Viser vei for andre."
+        },
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tåler høyder godt."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle ser opp til deg."
+        }
+      ]
+    },
+    {
+      "id": "julekule",
+      "name": "Julekule",
+      "shareName": "en julekule",
+      "emoji": null,
+      "description": "Du er rund, glad og trivelig, og du passer inn nesten overalt. Folk smiler når de ser deg.",
+      "funFact": "Ifølge sagnet fant en fattig glassblåser i Lauscha i Tyskland på å lage julekuler av glass rundt 1847, fordi han ikke hadde råd til epler og nøtter.",
+      "image": "images/2026-12-05/julekule.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trivelig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Elsker sterke farger."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i stor gjeng."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri gått av moten."
+        }
+      ]
+    },
+    {
+      "id": "julekurv",
+      "name": "Flettet julekurv",
+      "shareName": "en flettet julekurv",
+      "emoji": null,
+      "description": "Du er kreativ, tålmodig og flink med hendene. Du får ting til å henge sammen.",
+      "funFact": "Det eldste bevarte flettede julehjertet i Danmark tilskrives eventyrforfatteren H.C. Andersen.",
+      "image": "images/2026-12-05/julekurv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager noe av ingenting."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar én ting om gangen."
+        },
+        {
+          "title": "Hjertevarm",
+          "text": "Gir bort det du lager."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Hver tråd på plass."
+        }
+      ]
+    },
+    {
+      "id": "glitter",
+      "name": "Glitter",
+      "shareName": "glitter",
+      "emoji": null,
+      "description": "Du er festlig, leken og litt uforutsigbar. Der du har vært, finner folk spor av deg i ukevis.",
+      "funFact": "Ifølge Store norske leksikon regnes glitter blant den eldste juletrepynten som finnes.",
+      "image": "images/2026-12-05/glitter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Gjør alt litt bedre."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å tulle."
+        },
+        {
+          "title": "Spontan",
+          "text": "Dukker opp overalt."
+        },
+        {
+          "title": "Uforglemmelig",
+          "text": "Folk husker deg lenge."
+        }
+      ]
+    },
+    {
+      "id": "lysslynge",
+      "name": "Lysslynge",
+      "shareName": "en lysslynge",
+      "emoji": null,
+      "description": "Du er varm og koselig, og du binder folk sammen. Når du er der, blir det lunt i hele rommet.",
+      "funFact": "Elektriske lys tok over for levende lys på juletrærne i løpet av 1900-tallet, særlig etter andre verdenskrig.",
+      "image": "images/2026-12-05/lysslynge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Gjør alt litt lunere."
+        },
+        {
+          "title": "Samlende",
+          "text": "Binder folk sammen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lyser jevnt og trygt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tåler mye floke."
+        }
+      ]
+    },
+    {
+      "id": "flagg",
+      "name": "Flagglenke",
+      "shareName": "en flagglenke",
+      "emoji": null,
+      "description": "Du er stolt, feststemt og glad i fellesskap. Du vet at alt blir bedre når man feirer sammen.",
+      "funFact": "Norske flagg ble vanlig pynt på juletreet etter 1905. Under krigen var det forbudt å henge dem på treet fra julen 1942.",
+      "image": "images/2026-12-05/flagg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Feststemt",
+          "text": "Alltid klar for feiring."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sammen med flokken."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler fra topp til tå."
+        }
+      ]
+    },
+    {
+      "id": "engel",
+      "name": "Engel",
+      "shareName": "en engel",
+      "emoji": null,
+      "description": "Du er snill, omtenksom og passer på dem rundt deg. Folk føler seg trygge når du er i nærheten.",
+      "funFact": "I juleevangeliet hos Lukas er det en engel som forteller gjeterne på marken at Jesus er født (Luk 2,8–11).",
+      "image": "images/2026-12-05/engel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Ser det beste i alle."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker andres små ting."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være nær."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til folk."
+        }
+      ]
+    },
+    {
+      "id": "istapp",
+      "name": "Istapp",
+      "shareName": "en istapp",
+      "emoji": null,
+      "description": "Du er kul, skarp og litt mystisk. Du sier ikke så mye, men det du sier, treffer.",
+      "funFact": "Istapper vokser når smeltevann renner nedover og fryser på nytt, og de kan bli flere meter lange.",
+      "image": "images/2026-12-05/istapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Skarp",
+          "text": "Ser rett gjennom ting."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har sin egen stil."
+        }
+      ]
+    },
+    {
+      "id": "kongle",
+      "name": "Kongle",
+      "shareName": "en kongle",
+      "emoji": null,
+      "description": "Du er jordnær, robust og glad i naturen. Du er den som husker å ta med niste på tur.",
+      "funFact": "Kongler åpner seg når været er tørt og lukker seg når det er fuktig, for å beskytte frøene inni.",
+      "image": "images/2026-12-05/kongle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge bein på bakken."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Klok",
+          "text": "Åpner seg til rett tid."
+        },
+        {
+          "title": "Naturlig",
+          "text": "Hjemme i skogen."
+        }
+      ]
+    },
+    {
+      "id": "papirlenke",
+      "name": "Julelenke av papir",
+      "shareName": "en julelenke av papir",
+      "emoji": null,
+      "description": "Du er en lagspiller som blir sterkere sammen med andre. Du liker at alle får være med.",
+      "funFact": "Julelenker av blankt papir har lenge vært vanlig hjemmelaget pynt, og mange skoleklasser lager dem før jul.",
+      "image": "images/2026-12-05/papirlenke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Sterkest sammen med andre."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle får være med."
+        },
+        {
+          "title": "Hjemmekoselig",
+          "text": "Elsker hjemmelagde ting."
+        },
+        {
+          "title": "Lang",
+          "text": "Varer og varer."
+        }
+      ]
+    },
+    {
+      "id": "pepperkake",
+      "name": "Pepperkake på treet",
+      "shareName": "en pepperkake på treet",
+      "emoji": null,
+      "description": "Du er søt, varm og litt fristende. Folk vil gjerne ha deg i nærheten, helst hele tiden.",
+      "funFact": "Før glasskulene ble vanlige, pyntet mange juletreet med epler, nøtter og søtsaker.",
+      "image": "images/2026-12-05/pepperkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Gjør dagen litt bedre."
+        },
+        {
+          "title": "Hjemmekoselig",
+          "text": "Lukter som jul."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med andre."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har mange former."
+        }
+      ]
+    },
+    {
+      "id": "halmbukk",
+      "name": "Halmbukk",
+      "shareName": "en halmbukk",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, sta og helt uten jåleri. Du står støtt, uansett hvilket vær som kommer.",
+      "funFact": "I Gävle i Sverige har det blitt satt opp en kjempestor julebukk av halm hvert år siden 1966.",
+      "image": "images/2026-12-05/halmbukk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke lett."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Elsker gamle skikker."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt uten jåleri."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt i vind."
+        }
+      ]
+    }
+  ]
+}

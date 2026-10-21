@@ -1,383 +1,383 @@
 {
   "id": "2026-10-23",
   "date": "2026-10-23",
-  "title": "Hvilken blomst er du i dag?",
-  "intro": "Er du en solsikke, en blåklokke eller noe helt annet? Svar på sju litt rare spørsmål og finn ut hvilken blomst du er i dag.",
+  "title": "Hvilken realityserie burde du være med i?",
+  "intro": "Er du skapt for et liv uten strøm, store scener eller tøffe utfordringer langt mot nord? Svar på sju litt rare spørsmål og finn ut hvilken realityserie du burde vært med i.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva synes du om rundkjøringer?",
+      "text": "En hummer inviterer deg på middag. Hva tar du på deg?",
       "options": [
         {
           "id": "a",
-          "text": "Elsker dem. Man kan kjøre rundt så mange ganger man vil",
+          "text": "Den fineste skjorta jeg har",
           "scores": {
-            "lovetann": 2,
-            "solsikke": 1
+            "hvergang": 2,
+            "idol": 1
           }
         },
         {
           "id": "b",
-          "text": "De er litt som en dans",
+          "text": "Det jeg har på meg nå",
           "scores": {
-            "valmue": 2,
-            "tulipan": 1
+            "lauritzen": 2,
+            "stjernekamp": 1
           }
         },
         {
           "id": "c",
-          "text": "Ryddige og greie",
+          "text": "Noe glitrende",
           "scores": {
-            "prestekrage": 2,
-            "blaaklokke": 1
+            "farmen": 2,
+            "skalvidanse": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg blir svimmel bare av å tenke på dem",
+          "text": "Regntøy, man vet aldri",
           "scores": {
-            "lavendel": 2,
-            "liljekonvall": 1
+            "skalvidanse": 2,
+            "altfornorge": 1
           }
         },
         {
           "id": "e",
-          "text": "De burde hatt en liten kafé i midten",
+          "text": "Lånte klær fra en venn",
           "scores": {
-            "hortensia": 2,
-            "rose": 1
+            "nord71": 2,
+            "robinson": 2
           }
         },
         {
           "id": "f",
-          "text": "Jeg har aldri tenkt på dem før nå",
+          "text": "En hatt med fjær",
           "scores": {
-            "orkide": 2,
-            "hvitveis": 1
+            "idol": 2,
+            "nord71": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvor mange sekunder bør en klem vare?",
+      "text": "Hva synes du om gule lapper?",
       "options": [
         {
           "id": "a",
-          "text": "Ett. Kjapt og effektivt",
+          "text": "Uunnværlige, de henger overalt",
           "scores": {
-            "hvitveis": 2,
-            "prestekrage": 1
+            "altfornorge": 2,
+            "lauritzen": 2
           }
         },
         {
           "id": "b",
-          "text": "Tre, som folk flest",
+          "text": "Jeg mister dem alltid",
           "scores": {
-            "blaaklokke": 2,
-            "lavendel": 1
+            "stjernekamp": 2,
+            "mesternes": 2
           }
         },
         {
           "id": "c",
-          "text": "Ti, minst",
+          "text": "Jeg skriver dikt på dem",
           "scores": {
-            "solsikke": 2,
-            "hortensia": 1
+            "robinson": 2,
+            "thevoice": 2
           }
         },
         {
           "id": "d",
-          "text": "Til den andre gir seg",
+          "text": "De burde finnes i flere farger",
           "scores": {
-            "lovetann": 2,
-            "rose": 1
+            "thevoice": 2,
+            "lauritzen": 1
           }
         },
         {
           "id": "e",
-          "text": "Kommer helt an på hvem det er",
+          "text": "Jeg bruker dem som bokmerker",
           "scores": {
-            "liljekonvall": 2,
-            "orkide": 1
+            "talenter": 2,
+            "robinson": 1
           }
         },
         {
           "id": "f",
-          "text": "Den bør ha en liten sving på slutten",
+          "text": "Jeg husker alt i hodet uansett",
           "scores": {
-            "tulipan": 2,
-            "valmue": 1
+            "mesternes": 2,
+            "thevoice": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "En elg spør deg om veien til Bergen. Hva svarer du?",
+      "text": "Hvordan setter du sammen et møbel fra en eske?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg blir med, jeg hadde ingen planer uansett",
+          "text": "Følger bruksanvisningen nøye",
           "scores": {
-            "hortensia": 2,
-            "solsikke": 1
+            "mesternes": 2,
+            "talenter": 1
           }
         },
         {
           "id": "b",
-          "text": "Rett fram og til venstre ved den store steinen",
+          "text": "Kaster bruksanvisningen og prøver selv",
           "scores": {
-            "prestekrage": 2,
-            "lovetann": 1
+            "nord71": 2,
+            "robinson": 1
           }
         },
         {
           "id": "c",
-          "text": "Har du husket paraply?",
+          "text": "Ringer en venn og gjør det sammen",
           "scores": {
-            "blaaklokke": 2,
-            "liljekonvall": 1
+            "lauritzen": 2,
+            "talenter": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg tegner et kart på en serviett",
+          "text": "Bruker hele dagen, men det blir perfekt",
           "scores": {
-            "tulipan": 2,
-            "lavendel": 1
+            "farmen": 2,
+            "altfornorge": 1
           }
         },
         {
           "id": "e",
-          "text": "Først må du fortelle meg hvorfor",
+          "text": "Ender med tre skruer til overs",
           "scores": {
-            "orkide": 2,
-            "valmue": 1
+            "skalvidanse": 2,
+            "talenter": 1
           }
         },
         {
           "id": "f",
-          "text": "Ta toget. Det er mye finere",
+          "text": "Gjør det mens jeg forteller historier",
           "scores": {
-            "rose": 2,
-            "hvitveis": 1
+            "idol": 2,
+            "thevoice": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan åpner du en ny pakke kjeks?",
+      "text": "Hvilket dyr ville du helst hatt som nabo?",
       "options": [
         {
           "id": "a",
-          "text": "Forsiktig langs kanten, så den kan lukkes igjen",
+          "text": "En vennlig elg",
           "scores": {
-            "orkide": 2,
-            "blaaklokke": 1
+            "altfornorge": 2,
+            "idol": 1
           }
         },
         {
           "id": "b",
-          "text": "Rett i midten, med begge hender",
+          "text": "En høflig rev",
           "scores": {
-            "valmue": 2,
-            "lovetann": 1
+            "stjernekamp": 2,
+            "talenter": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg tar én og lurer på om det går an å stoppe der",
+          "text": "En pratsom papegøye",
           "scores": {
-            "lavendel": 2,
-            "liljekonvall": 1
+            "robinson": 2,
+            "hvergang": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg åpner den og sender den rundt med en gang",
+          "text": "En familie med pinnsvin",
           "scores": {
-            "solsikke": 2,
-            "hortensia": 1
+            "thevoice": 2,
+            "farmen": 1
           }
         },
         {
           "id": "e",
-          "text": "Med saks. Alltid med saks",
+          "text": "En stille skilpadde",
           "scores": {
-            "hvitveis": 2,
-            "prestekrage": 1
+            "idol": 2,
+            "stjernekamp": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg venter til noen andre har åpnet den",
+          "text": "En nysgjerrig ekorngjeng",
           "scores": {
-            "tulipan": 2,
-            "rose": 1
+            "talenter": 2,
+            "altfornorge": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva gjør du når du har fått hikke?",
+      "text": "Hva gjør du når nettet plutselig forsvinner?",
       "options": [
         {
           "id": "a",
-          "text": "Drikker vann opp ned",
+          "text": "Går ut en tur",
           "scores": {
-            "valmue": 2,
-            "rose": 1
+            "nord71": 2,
+            "thevoice": 1
           }
         },
         {
           "id": "b",
-          "text": "Holder pusten og teller til tjue",
+          "text": "Finner fram et brettspill",
           "scores": {
-            "hvitveis": 2,
-            "blaaklokke": 1
+            "lauritzen": 2,
+            "skalvidanse": 2
           }
         },
         {
           "id": "c",
-          "text": "Lar den holde på. Den er jo litt søt",
+          "text": "Ringer noen og prater",
           "scores": {
-            "liljekonvall": 2,
-            "tulipan": 1
+            "mesternes": 2,
+            "altfornorge": 2
           }
         },
         {
           "id": "d",
-          "text": "Ber noen skremme meg",
+          "text": "Rydder en skuff",
           "scores": {
-            "lovetann": 2,
-            "solsikke": 1
+            "stjernekamp": 2,
+            "idol": 1
           }
         },
         {
           "id": "e",
-          "text": "Later som ingenting, med stor verdighet",
+          "text": "Tegner noe",
           "scores": {
-            "rose": 2,
-            "orkide": 1
+            "hvergang": 2,
+            "talenter": 1
           }
         },
         {
           "id": "f",
-          "text": "Prøver alle rådene jeg har hørt, samtidig",
+          "text": "Sitter og venter, det kommer tilbake",
           "scores": {
-            "hortensia": 2,
-            "lavendel": 1
+            "farmen": 2,
+            "lauritzen": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvordan går du ned en bratt bakke?",
+      "text": "Hvor høyt tør du å klatre i et tre?",
       "options": [
         {
           "id": "a",
-          "text": "Løper og håper på det beste",
+          "text": "Helt til toppen",
           "scores": {
-            "lovetann": 2,
-            "valmue": 1
+            "stjernekamp": 2,
+            "mesternes": 2
           }
         },
         {
           "id": "b",
-          "text": "Sidelengs, som en krabbe",
+          "text": "Til første grein",
           "scores": {
-            "hvitveis": 2,
-            "prestekrage": 1
+            "robinson": 2,
+            "altfornorge": 1
           }
         },
         {
           "id": "c",
-          "text": "Sakte, og jeg nyter utsikten",
+          "text": "Halvveis, så tar jeg et bilde",
           "scores": {
-            "blaaklokke": 2,
-            "lavendel": 1
+            "thevoice": 2,
+            "hvergang": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg ruller. Hvorfor ikke?",
+          "text": "Jeg heier fra bakken",
           "scores": {
-            "solsikke": 2,
-            "tulipan": 1
+            "talenter": 2,
+            "idol": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg finner en annen vei rundt",
+          "text": "Så høyt som de andre",
           "scores": {
-            "orkide": 2,
-            "rose": 1
+            "altfornorge": 2,
+            "stjernekamp": 2
           }
         },
         {
           "id": "f",
-          "text": "Arm i arm med noen",
+          "text": "Jeg bygger heller en stige",
           "scores": {
-            "liljekonvall": 2,
-            "hortensia": 1
+            "idol": 2,
+            "stjernekamp": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Du får bygge en snømann. Hvordan blir den?",
+      "text": "Du får ett ord skrevet på en potet. Hvilket?",
       "options": [
         {
           "id": "a",
-          "text": "Helt klassisk, med tre kuler og skjerf",
+          "text": "Hurra",
           "scores": {
-            "prestekrage": 2,
-            "blaaklokke": 1
+            "hvergang": 2,
+            "farmen": 1
           }
         },
         {
           "id": "b",
-          "text": "En snødame i lang kjole",
+          "text": "Kos",
           "scores": {
-            "rose": 2,
-            "orkide": 1
+            "altfornorge": 2,
+            "farmen": 2
           }
         },
         {
           "id": "c",
-          "text": "Bitteliten, så den får plass i hånden",
+          "text": "Plopp",
           "scores": {
-            "liljekonvall": 2,
-            "hvitveis": 1
+            "robinson": 2,
+            "idol": 1
           }
         },
         {
           "id": "d",
-          "text": "Fem meter høy",
+          "text": "Vennskap",
           "scores": {
-            "valmue": 2,
-            "solsikke": 1
+            "skalvidanse": 2,
+            "thevoice": 1
           }
         },
         {
           "id": "e",
-          "text": "En hel snøfamilie med hund",
+          "text": "Tøff",
           "scores": {
-            "hortensia": 2,
-            "tulipan": 1
+            "nord71": 2,
+            "lauritzen": 2
           }
         },
         {
           "id": "f",
-          "text": "En som ligger og slapper av",
+          "text": "Hei",
           "scores": {
-            "lavendel": 2,
-            "lovetann": 1
+            "thevoice": 2,
+            "skalvidanse": 2
           }
         }
       ]
@@ -385,338 +385,338 @@
   ],
   "outcomes": [
     {
-      "id": "prestekrage",
-      "name": "Prestekrage",
-      "shareName": "en prestekrage",
+      "id": "farmen",
+      "name": "Farmen",
+      "shareName": "Farmen",
       "emoji": null,
-      "description": "Du er enkel, ærlig og helt deg selv. Du trenger ikke mye stas for å ha det fint.",
-      "funFact": "Det som ser ut som én prestekrage, er egentlig hundrevis av bitte små blomster samlet i en kurv.",
-      "image": "images/2026-10-23/prestekrage.jpg",
+      "description": "Du er arbeidssom og trives med enkle dager og ekte arbeid. Du ville klart deg strålende uten strøm og nett, og blitt den alle stoler på.",
+      "funFact": "Farmen gikk første gang på TV 2 i 2001, og formatet har blitt solgt til over 40 land.",
+      "image": "images/2026-10-23/farmen.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ærlig",
-          "text": "Sier det som det er."
+          "title": "Arbeidssom",
+          "text": "Står tidlig opp."
         },
         {
-          "title": "Enkel",
-          "text": "Liker det som er greit."
+          "title": "Praktisk",
+          "text": "Fikser alt med hendene."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir alt god tid."
         },
         {
           "title": "Jordnær",
-          "text": "Begge bein på bakken."
-        },
-        {
-          "title": "Blid",
-          "text": "Fornøyd med lite."
+          "text": "Trives med det enkle."
         }
       ]
     },
     {
-      "id": "tulipan",
-      "name": "Tulipan",
-      "shareName": "en tulipan",
+      "id": "nord71",
+      "name": "71° nord",
+      "shareName": "71° nord",
       "emoji": null,
-      "description": "Du er glad, pyntelig og litt leken. Du får et helt rom til å virke mer festlig bare ved å komme inn.",
-      "funFact": "Tulipanen kommer opprinnelig fra fjellområder i Sentral-Asia, ikke fra Nederland.",
-      "image": "images/2026-10-23/tulipan.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Leken",
-          "text": "Alltid klar for moro."
-        },
-        {
-          "title": "Pyntelig",
-          "text": "Litt stas hver dag."
-        },
-        {
-          "title": "Glad",
-          "text": "Smiler lett og ofte."
-        },
-        {
-          "title": "Vennlig",
-          "text": "Hilser på alle."
-        }
-      ]
-    },
-    {
-      "id": "lavendel",
-      "name": "Lavendel",
-      "shareName": "en lavendel",
-      "emoji": null,
-      "description": "Du er avslappet og har en beroligende virkning på alle rundt deg. Du vet at det meste ordner seg hvis man bare tar det med ro.",
-      "funFact": "Lavendel er i samme plantefamilie som mynte og basilikum.",
-      "image": "images/2026-10-23/lavendel.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Avslappet",
-          "text": "Tar det med ro."
-        },
-        {
-          "title": "Beroligende",
-          "text": "Folk senker skuldrene."
-        },
-        {
-          "title": "Drømmende",
-          "text": "Tankene flyr gjerne."
-        },
-        {
-          "title": "Myk",
-          "text": "Snill i alt du gjør."
-        }
-      ]
-    },
-    {
-      "id": "blaaklokke",
-      "name": "Blåklokke",
-      "shareName": "en blåklokke",
-      "emoji": null,
-      "description": "Du er rolig, beskjeden og mye sterkere enn du ser ut. Du klarer deg fint både på fjellet og ved veikanten.",
-      "funFact": "Blåklokke ble kåret til Norges nasjonalblomst i 2000.",
-      "image": "images/2026-10-23/blaaklokke.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Rolig",
-          "text": "Lite stress i kroppen."
-        },
-        {
-          "title": "Beskjeden",
-          "text": "Tar ikke all plassen."
-        },
-        {
-          "title": "Seig",
-          "text": "Tåler vær og vind."
-        },
-        {
-          "title": "Lojal",
-          "text": "Alltid der for andre."
-        }
-      ]
-    },
-    {
-      "id": "solsikke",
-      "name": "Solsikke",
-      "shareName": "en solsikke",
-      "emoji": null,
-      "description": "Du er varm, åpen og ser alltid etter det beste i folk. Folk blir i godt humør bare av å stå ved siden av deg.",
-      "funFact": "Unge solsikker snur seg etter sola gjennom dagen, men voksne solsikker blir stående vendt mot øst.",
-      "image": "images/2026-10-23/solsikke.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Positiv",
-          "text": "Ser lyst på det meste."
-        },
-        {
-          "title": "Sosial",
-          "text": "Trives med mange rundt."
-        },
-        {
-          "title": "Raus",
-          "text": "Deler gjerne med andre."
-        },
-        {
-          "title": "Høy",
-          "text": "Strekker deg mot målene."
-        }
-      ]
-    },
-    {
-      "id": "rose",
-      "name": "Rose",
-      "shareName": "en rose",
-      "emoji": null,
-      "description": "Du er romantisk, stilfull og vet hva du er verdt. Du er myk og vennlig, men lar deg ikke tråkke på.",
-      "funFact": "Frukten til rosen heter nype, og den inneholder mye C-vitamin.",
-      "image": "images/2026-10-23/rose.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Romantisk",
-          "text": "Elsker store følelser."
-        },
-        {
-          "title": "Stilfull",
-          "text": "Alltid litt elegant."
-        },
-        {
-          "title": "Stolt",
-          "text": "Vet hva du er verdt."
-        },
-        {
-          "title": "Trofast",
-          "text": "Holder på de nære."
-        }
-      ]
-    },
-    {
-      "id": "orkide",
-      "name": "Orkidé",
-      "shareName": "en orkidé",
-      "emoji": null,
-      "description": "Du er spesiell, nøye og litt mystisk. Du vet nøyaktig hva du liker, og det er derfor folk beundrer deg.",
-      "funFact": "Vaniljen vi bruker i kaker og is kommer fra en orkidé.",
-      "image": "images/2026-10-23/orkide.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Spesiell",
-          "text": "Ingen er helt som deg."
-        },
-        {
-          "title": "Nøye",
-          "text": "Liker ting riktig gjort."
-        },
-        {
-          "title": "Mystisk",
-          "text": "Vanskelig å lese."
-        },
-        {
-          "title": "Elegant",
-          "text": "Rolig og stilfull."
-        }
-      ]
-    },
-    {
-      "id": "lovetann",
-      "name": "Løvetann",
-      "shareName": "en løvetann",
-      "emoji": null,
-      "description": "Du er tøff, frekk på en sjarmerende måte og dukker opp der ingen venter deg. Du gir deg aldri.",
-      "funFact": "Det runde fnugget på en løvetann kan inneholde rundt 150 til 200 frø.",
-      "image": "images/2026-10-23/lovetann.jpg",
+      "description": "Du er tøff og elsker et skikkelig eventyr. Du ville kjempet deg gjennom vind og vær hele veien til mål.",
+      "funFact": "71° nord startet på TVNorge i 1999, og målet for deltakerne er Nordkapp, som ligger på 71 grader nord.",
+      "image": "images/2026-10-23/nord71.jpg",
       "imageCredit": null,
       "traits": [
         {
           "title": "Tøff",
-          "text": "Gir deg aldri."
+          "text": "Gir seg aldri."
         },
         {
-          "title": "Sjarmerende",
-          "text": "Litt frekk, mye søt."
+          "title": "Eventyrlysten",
+          "text": "Vil alltid lenger."
         },
         {
-          "title": "Spontan",
-          "text": "Dukker opp overalt."
+          "title": "Utholdende",
+          "text": "Har krefter til overs."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Drar med seg andre."
+        }
+      ]
+    },
+    {
+      "id": "mesternes",
+      "name": "Mesternes mester",
+      "shareName": "Mesternes mester",
+      "emoji": null,
+      "description": "Du er en vinnertype med en stor porsjon humør. Du ville tatt hver eneste øvelse på alvor og ledd mens du gjorde det.",
+      "funFact": "Mesternes mester startet på NRK i 2009, og bygger på et belgisk TV-konsept.",
+      "image": "images/2026-10-23/mesternes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Konkurranseglad",
+          "text": "Vil alltid vinne."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Klarer litt av alt."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker en utfordring."
+        },
+        {
+          "title": "Raus",
+          "text": "Heier også på andre."
+        }
+      ]
+    },
+    {
+      "id": "hvergang",
+      "name": "Hver gang vi møtes",
+      "shareName": "Hver gang vi møtes",
+      "emoji": null,
+      "description": "Du er varm, ettertenksom og god til å lytte. Du ville skapt de fineste kveldene med gode samtaler og latter.",
+      "funFact": "Navnet Hver gang vi møtes kommer fra en linje i Halvdan Sivertsens sang «Venner». Serien startet på TV 2 i 2012.",
+      "image": "images/2026-10-23/hvergang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gjør alle trygge."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører hva andre sier."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Deler gjerne historier."
+        },
+        {
+          "title": "Rørt",
+          "text": "Smiler med tårer i øynene."
+        }
+      ]
+    },
+    {
+      "id": "skalvidanse",
+      "name": "Skal vi danse",
+      "shareName": "Skal vi danse",
+      "emoji": null,
+      "description": "Du er full av energi og elsker å bli utfordret. Du ville øvd i timevis og glitret når det gjaldt.",
+      "funFact": "Skal vi danse startet på TV 2 i 2006. Formatet kommer fra BBC og er solgt til over 50 land.",
+      "image": "images/2026-10-23/skalvidanse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Kan ikke sitte stille."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Elsker litt stas."
+        },
+        {
+          "title": "Flittig",
+          "text": "Øver til det sitter."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve nytt."
+        }
+      ]
+    },
+    {
+      "id": "lauritzen",
+      "name": "Kompani Lauritzen",
+      "shareName": "Kompani Lauritzen",
+      "emoji": null,
+      "description": "Du er disiplinert og vil bli den beste versjonen av deg selv. Du ville stått i hver eneste øvelse med rak rygg.",
+      "funFact": "Kompani Lauritzen hadde premiere på TV 2 i 2020, og de første sesongene ble spilt inn på Setnesmoen leir ved Åndalsnes.",
+      "image": "images/2026-10-23/lauritzen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Disiplinert",
+          "text": "Holder orden på alt."
         },
         {
           "title": "Sterk",
-          "text": "Tåler nesten alt."
+          "text": "Både i kropp og hode."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står sammen med laget."
+        },
+        {
+          "title": "Viljesterk",
+          "text": "Gir aldri opp."
         }
       ]
     },
     {
-      "id": "valmue",
-      "name": "Valmue",
-      "shareName": "en valmue",
+      "id": "stjernekamp",
+      "name": "Stjernekamp",
+      "shareName": "Stjernekamp",
       "emoji": null,
-      "description": "Du er modig, dramatisk og elsker store øyeblikk. Når du først bestemmer deg, merker alle det.",
-      "funFact": "Valmuen brukes som et minnesymbol for soldater som falt i første verdenskrig.",
-      "image": "images/2026-10-23/valmue.jpg",
+      "description": "Du er allsidig og elsker å prøve noe helt nytt hver uke. Du ville overrasket alle, også deg selv.",
+      "funFact": "I Stjernekamp på NRK må deltakerne prøve en ny musikksjanger hver uke, og opera er alltid med.",
+      "image": "images/2026-10-23/stjernekamp.jpg",
       "imageCredit": null,
       "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Mestrer mange stiler."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Ingen vet hva som kommer."
+        },
         {
           "title": "Modig",
-          "text": "Tør det andre ikke tør."
+          "text": "Tør å feile."
         },
         {
-          "title": "Dramatisk",
-          "text": "Lever livet med stil."
-        },
-        {
-          "title": "Livlig",
-          "text": "Full av energi."
-        },
-        {
-          "title": "Fri",
-          "text": "Gjør det på din måte."
+          "title": "Kreativ",
+          "text": "Gjør alt til sitt eget."
         }
       ]
     },
     {
-      "id": "hortensia",
-      "name": "Hortensia",
-      "shareName": "en hortensia",
+      "id": "robinson",
+      "name": "Robinsonekspedisjonen",
+      "shareName": "Robinsonekspedisjonen",
       "emoji": null,
-      "description": "Du er raus, omsorgsfull og liker å ha mange rundt deg. Du tilpasser deg lett og får alle til å føle seg velkomne.",
-      "funFact": "Hos noen hortensiaer bestemmer jorda fargen: sur jord gir blå blomster, og kalkrik jord gir rosa.",
-      "image": "images/2026-10-23/hortensia.jpg",
+      "description": "Du er sosial, smart og god til å samarbeide. Du ville bygget den beste hytta og fått med deg alle på laget.",
+      "funFact": "Robinsonekspedisjonen hadde premiere på TV3 19. september 1999, som en av de første versjonene av formatet i verden.",
+      "image": "images/2026-10-23/robinson.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Raus",
-          "text": "Gir mer enn du får."
+          "title": "Strategisk",
+          "text": "Tenker flere trekk fram."
         },
         {
-          "title": "Omsorgsfull",
-          "text": "Passer på alle."
+          "title": "Sosial",
+          "text": "Finner venner overalt."
         },
         {
-          "title": "Fleksibel",
-          "text": "Tilpasser deg lett."
+          "title": "Oppfinnsom",
+          "text": "Lager mye av lite."
         },
         {
-          "title": "Gjestfri",
-          "text": "Døra står alltid åpen."
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
         }
       ]
     },
     {
-      "id": "liljekonvall",
-      "name": "Liljekonvall",
-      "shareName": "en liljekonvall",
+      "id": "talenter",
+      "name": "Norske Talenter",
+      "shareName": "Norske Talenter",
       "emoji": null,
-      "description": "Du er søt, sjenert og mye skarpere enn folk tror. Du sier ikke så mye, men når du gjør det, lytter alle.",
-      "funFact": "Liljekonvall er Finlands nasjonalblomst.",
-      "image": "images/2026-10-23/liljekonvall.jpg",
+      "description": "Du har et talent ingen andre har, og du er ikke redd for å vise det fram. Du ville fått hele salen til å klappe.",
+      "funFact": "Norske Talenter hadde premiere på TV 2 i februar 2008, og er den norske versjonen av Got Talent.",
+      "image": "images/2026-10-23/talenter.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Søt",
-          "text": "Varm og snill."
+          "title": "Unik",
+          "text": "Helt i egen klasse."
         },
         {
-          "title": "Sjenert",
-          "text": "Trenger litt tid."
+          "title": "Modig",
+          "text": "Tør å vise fram."
         },
         {
-          "title": "Skarp",
-          "text": "Ser mer enn folk tror."
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Har mange skjulte evner."
+        }
+      ]
+    },
+    {
+      "id": "altfornorge",
+      "name": "Alt for Norge",
+      "shareName": "Alt for Norge",
+      "emoji": null,
+      "description": "Du er nysgjerrig og elsker å lære om røtter og tradisjoner. Du ville blitt rørt av hver eneste lille oppdagelse.",
+      "funFact": "I Alt for Norge, som startet på TVNorge i 2010, konkurrerer norskamerikanere, og vinneren får møte slekta si i Norge.",
+      "image": "images/2026-10-23/altfornorge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alt nytt."
+        },
+        {
+          "title": "Følsom",
+          "text": "Blir lett rørt."
+        },
+        {
+          "title": "Takknemlig",
+          "text": "Setter pris på smått."
+        }
+      ]
+    },
+    {
+      "id": "idol",
+      "name": "Idol",
+      "shareName": "Idol",
+      "emoji": null,
+      "description": "Du drømmer stort og jobber hardt for drømmene dine. Du ville gått fra å være ukjent til å bli alles favoritt.",
+      "funFact": "Idol startet på TV 2 i 2003. Den første vinneren, Kurt Nilsen, vant også World Idol året etter.",
+      "image": "images/2026-10-23/idol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmer",
+          "text": "Sikter mot stjernene."
+        },
+        {
+          "title": "Hardtarbeidende",
+          "text": "Øver hver dag."
         },
         {
           "title": "Ekte",
-          "text": "Aldri falsk."
+          "text": "Er seg selv."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner folk over."
         }
       ]
     },
     {
-      "id": "hvitveis",
-      "name": "Hvitveis",
-      "shareName": "en hvitveis",
+      "id": "thevoice",
+      "name": "The Voice – Norges beste stemme",
+      "shareName": "The Voice",
       "emoji": null,
-      "description": "Du er tidlig ute, ivrig og alltid klar for noe nytt. Du er den første som sier ja når noen foreslår noe.",
-      "funFact": "Hvitveisen blomstrer tidlig om våren, før trærne får blader og tar lyset.",
-      "image": "images/2026-10-23/hvitveis.jpg",
+      "description": "Du er ekte og vet at det viktigste er det som kommer innenfra. Du ville overbevist alle uten at de så deg.",
+      "funFact": "I The Voice, som startet på TV 2 i 2012, velger coachene deltakere bare ved å lytte, uten å se dem.",
+      "image": "images/2026-10-23/thevoice.jpg",
       "imageCredit": null,
       "traits": [
         {
-          "title": "Ivrig",
-          "text": "Klar før alle andre."
+          "title": "Ekte",
+          "text": "Det indre teller mest."
         },
         {
-          "title": "Frisk",
-          "text": "Full av ny energi."
+          "title": "Rolig",
+          "text": "Nerver av stål."
         },
         {
-          "title": "Modig",
-          "text": "Først ut hver gang."
+          "title": "Varm",
+          "text": "Berører folk."
         },
         {
-          "title": "Lett",
-          "text": "Tar ikke ting tungt."
+          "title": "Selvsikker",
+          "text": "Vet hva du kan."
         }
       ]
     }

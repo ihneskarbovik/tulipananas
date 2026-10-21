@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-02",
+  "date": "2026-12-02",
+  "title": "Hvilken julefilm er du i dag?",
+  "intro": "Desember er i gang, og det er tid for julefilmer i sofaen! Er du en tidløs klassiker, en norsk favoritt eller en tegnefilm med stort hjerte? Svar på sju rare spørsmål og finn ut hvilken julefilm du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken farge har tirsdager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gul som en banan",
+          "scores": {
+            "polar": 2,
+            "blafjell": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt grå, men hyggelig",
+          "scores": {
+            "klaus": 2,
+            "donald": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lyseblå",
+          "scores": {
+            "askepott": 2,
+            "elf": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Grønn som en frosk",
+          "scores": {
+            "snekker": 2,
+            "donald": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Oransje",
+          "scores": {
+            "arthur": 2,
+            "elf": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "De har ingen farge, de er bare tirsdager",
+          "scores": {
+            "alenehjemme": 2,
+            "muppets": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvor mange pinner trengs til et ordentlig fuglehus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tre, resten er overdrivelse",
+          "scores": {
+            "snekker": 2,
+            "mirakel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tolv",
+          "scores": {
+            "elf": 2,
+            "klaus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Åtte hundre",
+          "scores": {
+            "polar": 2,
+            "julestjernen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg bruker heller en tekanne",
+          "scores": {
+            "muppets": 2,
+            "klaus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det kommer an på fuglen",
+          "scores": {
+            "blafjell": 2,
+            "arthur": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg kjøper et ferdig",
+          "scores": {
+            "mirakel": 2,
+            "polar": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du må bytte stemme med et dyr i én dag. Hvilket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En and",
+          "scores": {
+            "blafjell": 2,
+            "donald": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En hval",
+          "scores": {
+            "askepott": 2,
+            "donald": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En mus",
+          "scores": {
+            "alenehjemme": 2,
+            "mirakel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En katt",
+          "scores": {
+            "julestjernen": 2,
+            "muppets": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En papegøye",
+          "scores": {
+            "polar": 2,
+            "askepott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En ku",
+          "scores": {
+            "snekker": 2,
+            "klaus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan legger du sokker i skuffen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rullet sammen i par",
+          "scores": {
+            "donald": 2,
+            "blafjell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare kaster dem oppi",
+          "scores": {
+            "alenehjemme": 2,
+            "snekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sortert etter farge",
+          "scores": {
+            "elf": 2,
+            "mirakel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hvilken skuff?",
+          "scores": {
+            "muppets": 2,
+            "arthur": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Brettet helt flatt",
+          "scores": {
+            "mirakel": 2,
+            "donald": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har dem i en kurv på gulvet",
+          "scores": {
+            "klaus": 2,
+            "julestjernen": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken ting på badet er klokest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Speilet",
+          "scores": {
+            "julestjernen": 2,
+            "klaus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tannbørsten",
+          "scores": {
+            "snekker": 2,
+            "muppets": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Badekaret",
+          "scores": {
+            "polar": 2,
+            "julestjernen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Håndkleet",
+          "scores": {
+            "arthur": 2,
+            "donald": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Såpa",
+          "scores": {
+            "muppets": 2,
+            "mirakel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vekta, den vet mye",
+          "scores": {
+            "blafjell": 2,
+            "alenehjemme": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan tror du en sky smaker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Som bomull",
+          "scores": {
+            "polar": 2,
+            "mirakel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Som vann med boble",
+          "scores": {
+            "klaus": 2,
+            "julestjernen": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Som vaniljeis",
+          "scores": {
+            "elf": 2,
+            "mirakel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Som ingenting, men på en fin måte",
+          "scores": {
+            "donald": 2,
+            "muppets": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Som peppermynte",
+          "scores": {
+            "askepott": 2,
+            "arthur": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt som regn i går",
+          "scores": {
+            "mirakel": 2,
+            "elf": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du kan bare spise med én ting resten av uka. Hva velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skje",
+          "scores": {
+            "snekker": 2,
+            "arthur": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spisepinner",
+          "scores": {
+            "elf": 2,
+            "muppets": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fingrene",
+          "scores": {
+            "arthur": 2,
+            "donald": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En liten spade",
+          "scores": {
+            "alenehjemme": 2,
+            "polar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gaffel",
+          "scores": {
+            "blafjell": 2,
+            "alenehjemme": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et sugerør",
+          "scores": {
+            "askepott": 2,
+            "klaus": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "askepott",
+      "name": "Tre nøtter til Askepott",
+      "shareName": "Tre nøtter til Askepott",
+      "emoji": null,
+      "description": "Du er eventyrlig, modig og litt magisk. Du klarer deg selv, men har alltid noen trofaste venner i nærheten.",
+      "funFact": "NRK viste Tre nøtter til Askepott første gang 3. januar 1975, og på 1990-tallet ble den en fast del av julaften.",
+      "image": "images/2026-12-02/askepott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør der andre nøler."
+        },
+        {
+          "title": "Eventyrlig",
+          "text": "Lever i et eventyr."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg på egenhånd."
+        },
+        {
+          "title": "Tidløs",
+          "text": "Blir aldri gammeldags."
+        }
+      ]
+    },
+    {
+      "id": "alenehjemme",
+      "name": "Alene hjemme",
+      "shareName": "Alene hjemme",
+      "emoji": null,
+      "description": "Du er kreativ, kjapp og full av påfunn. Du får mye ut av lite, og du har alltid en plan B.",
+      "funFact": "Alene hjemme fra 1990 fikk en Guinness-rekord som den mest innbringende live-action-komedien i USA, og holdt rekorden i 27 år.",
+      "image": "images/2026-12-02/alenehjemme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner løsninger overalt."
+        },
+        {
+          "title": "Kjapp",
+          "text": "Tenker fortere enn alle."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg alene."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        }
+      ]
+    },
+    {
+      "id": "julestjernen",
+      "name": "Reisen til Julestjernen",
+      "shareName": "Reisen til Julestjernen",
+      "emoji": null,
+      "description": "Du er håpefull og leter alltid etter noe fint. Du tror på at ting ordner seg til slutt.",
+      "funFact": "Reisen til Julestjernen er et skuespill av Sverre Brandt fra 1924, og det er blitt film to ganger, i 1976 og i 2012.",
+      "image": "images/2026-12-02/julestjernen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Håpefull",
+          "text": "Ser lyset i mørket."
+        },
+        {
+          "title": "Modig",
+          "text": "Går ut på eventyr."
+        },
+        {
+          "title": "Varm",
+          "text": "Hjelper dem som trenger."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Elsket av mange generasjoner."
+        }
+      ]
+    },
+    {
+      "id": "snekker",
+      "name": "Snekker Andersen og Julenissen",
+      "shareName": "Snekker Andersen og Julenissen",
+      "emoji": null,
+      "description": "Du er hjertevarm og gjør alt for de du er glad i. Du tar gjerne en ekstra tørn for å gjøre andre glade.",
+      "funFact": "Snekker Andersen og Julenissen fra 2016 bygger på en fortelling av Alf Prøysen, og Trond Espen Seim spiller snekkeren.",
+      "image": "images/2026-12-02/snekker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjertevarm",
+          "text": "Gir mer enn han får."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Lojal",
+          "text": "Familien kommer først."
+        },
+        {
+          "title": "Leken",
+          "text": "Kler seg gjerne ut."
+        }
+      ]
+    },
+    {
+      "id": "blafjell",
+      "name": "Julenatt i Blåfjell",
+      "shareName": "Julenatt i Blåfjell",
+      "emoji": null,
+      "description": "Du er eventyrlysten og nysgjerrig. Du tar gjerne en snarvei, og det blir ofte et eventyr av det.",
+      "funFact": "Julenatt i Blåfjell hadde premiere i 2009 og ble sett av nesten 370 000 på kino.",
+      "image": "images/2026-12-02/blafjell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Må alltid utforske."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Klar for neste tur."
+        },
+        {
+          "title": "Trofast",
+          "text": "Står ved vennene sine."
+        },
+        {
+          "title": "Magisk",
+          "text": "Litt sølvglans over seg."
+        }
+      ]
+    },
+    {
+      "id": "polar",
+      "name": "Polarekspressen",
+      "shareName": "Polarekspressen",
+      "emoji": null,
+      "description": "Du er drømmende og tror på det magiske. Du hopper på når eventyret kaller, selv om det er midt på natta.",
+      "funFact": "Guinness rekordbok regner Polarekspressen fra 2004 som den første filmen laget helt med motion capture. Tom Hanks spiller fem roller.",
+      "image": "images/2026-12-02/polar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tror på magi."
+        },
+        {
+          "title": "Modig",
+          "text": "Hopper på eventyret."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se hvor det ender."
+        },
+        {
+          "title": "Rolig",
+          "text": "Nyter selve reisen."
+        }
+      ]
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "shareName": "Elf",
+      "emoji": null,
+      "description": "Du er full av glede og smitter alle med entusiasmen din. Du synes nesten alt er det beste som har skjedd.",
+      "funFact": "Will Ferrell, som spiller hovedrollen i Elf fra 2003, jobbet som julenisse på et kjøpesenter før han ble kjent.",
+      "image": "images/2026-12-02/elf.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smiler hele dagen."
+        },
+        {
+          "title": "Entusiastisk",
+          "text": "Alt er fantastisk."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det han tenker."
+        },
+        {
+          "title": "Søt",
+          "text": "Elsker godteri og klemmer."
+        }
+      ]
+    },
+    {
+      "id": "mirakel",
+      "name": "Mirakel på 34. gate",
+      "shareName": "Mirakel på 34. gate",
+      "emoji": null,
+      "description": "Du er klok, rolig og tror på det gode i folk. Du får selv de mest skeptiske til å smile.",
+      "funFact": "Edmund Gwenn vant en Oscar for rollen som julenissen i Mirakel på 34. gate fra 1947.",
+      "image": "images/2026-12-02/mirakel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet mer enn han sier."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Tillitsfull",
+          "text": "Tror på folk."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Har tid til alle."
+        }
+      ]
+    },
+    {
+      "id": "muppets",
+      "name": "The Muppet Christmas Carol",
+      "shareName": "The Muppet Christmas Carol",
+      "emoji": null,
+      "description": "Du er musikalsk, morsom og har et stort hjerte. Du viser at alle kan forandre seg til det bedre.",
+      "funFact": "The Muppet Christmas Carol fra 1992 bygger på Charles Dickens' fortelling fra 1843, og ble regissert av Brian Henson, sønnen til Jim Henson.",
+      "image": "images/2026-12-02/muppets.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Synger seg gjennom dagen."
+        },
+        {
+          "title": "Morsom",
+          "text": "Full av tull og fanteri."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med andre."
+        },
+        {
+          "title": "Varm",
+          "text": "Tror på andre sjanser."
+        }
+      ]
+    },
+    {
+      "id": "klaus",
+      "name": "Klaus",
+      "shareName": "Klaus",
+      "emoji": null,
+      "description": "Du er stille, men gavmild. Du gjør gode ting uten å trenge applaus, og vennligheten din sprer seg.",
+      "funFact": "Klaus fra 2019 var Netflix' første egenproduserte animasjonsfilm, og ble nominert til Oscar for beste animasjonsfilm.",
+      "image": "images/2026-12-02/klaus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gavmild",
+          "text": "Gir uten å telle."
+        },
+        {
+          "title": "Stille",
+          "text": "Trenger ikke mye prat."
+        },
+        {
+          "title": "Snill",
+          "text": "Vennlighet sprer seg."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager ting med hendene."
+        }
+      ]
+    },
+    {
+      "id": "arthur",
+      "name": "Arthur Christmas",
+      "shareName": "Arthur Christmas",
+      "emoji": null,
+      "description": "Du er ivrig og bryr deg om hver eneste person. Du gir aldri opp før alle har fått det de trenger.",
+      "funFact": "Arthur Christmas fra 2011 er laget av britiske Aardman, og arbeidstittelen var «Operation Rudolph».",
+      "image": "images/2026-12-02/arthur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ivrig",
+          "text": "Full fart fremover."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Glemmer aldri noen."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Klønete",
+          "text": "Snubler, men kommer fram."
+        }
+      ]
+    },
+    {
+      "id": "donald",
+      "name": "Donald Duck og vennene hans",
+      "shareName": "Donald Duck og vennene hans",
+      "emoji": null,
+      "description": "Du er en tradisjon som folk gleder seg til hvert år. Du samler hele familien foran skjermen.",
+      "funFact": "Julaftensprogrammet med Donald Duck og vennene hans ble laget i USA i 1958, og NRK sendte det første gang 1. januar 1979.",
+      "image": "images/2026-12-02/donald.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonell",
+          "text": "Hvert år, samme tid."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får alle i sofaen."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Minner om barndommen."
+        },
+        {
+          "title": "Munter",
+          "text": "Litt kaos, mye moro."
+        }
+      ]
+    }
+  ]
+}
