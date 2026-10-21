@@ -1,0 +1,744 @@
+{
+  "id": "2026-12-01",
+  "date": "2026-12-01",
+  "title": "Hvilken julekalender er du i dag?",
+  "intro": "Desember er her, og luke nummer én er åpnet! Er du en klassiker fra Skomakergata, en rampete nisse eller en sprø kultfavoritt? Svar på sju rare spørsmål og finn ut hvilken julekalender du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Et ekorn spør om å få låne sofaen din i en uke. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, men det må støvsuge",
+          "scores": {
+            "svingen": 2,
+            "skjul": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Selvsagt, ta med vennene dine",
+          "scores": {
+            "skjul": 2,
+            "laven": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vi må skrive en kontrakt først",
+          "scores": {
+            "laven": 2,
+            "stjerner": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg flytter heller inn hos ekornet",
+          "scores": {
+            "manetoppen": 2,
+            "stjerner": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare hvis det lærer meg å klatre",
+          "scores": {
+            "skomakergata": 2,
+            "rampenissen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg later som jeg ikke er hjemme",
+          "scores": {
+            "blafjell": 2,
+            "thejul": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken ukedag ville vært best som venn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandag",
+          "scores": {
+            "skjul": 2,
+            "manetoppen": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tirsdag",
+          "scores": {
+            "stjerner": 2,
+            "snofall": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Onsdag",
+          "scores": {
+            "rampenissen": 2,
+            "skomakergata": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fredag",
+          "scores": {
+            "laven": 2,
+            "thejul": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lørdag",
+          "scores": {
+            "svingen": 2,
+            "skoghei": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Søndag",
+          "scores": {
+            "bingen": 2,
+            "thejul": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan pakker du inn en gave?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med altfor mye teip",
+          "scores": {
+            "skomakergata": 2,
+            "snofall": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt perfekt, med bånd og sløyfe",
+          "scores": {
+            "skoghei": 2,
+            "blodfjell": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "I en pose, ferdig med det",
+          "scores": {
+            "thejul": 2,
+            "skoghei": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Avispapir og kreativitet",
+          "scores": {
+            "snofall": 2,
+            "thejul": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Inni fem esker, den ene inni den andre",
+          "scores": {
+            "blafjell": 2,
+            "blodfjell": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ikke i det hele tatt, det er spenning nok",
+          "scores": {
+            "rampenissen": 2,
+            "blodfjell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva synes du om paraplyer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fantastiske, jeg har tre",
+          "scores": {
+            "laven": 2,
+            "blodfjell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg mister dem alltid",
+          "scores": {
+            "stjerner": 2,
+            "bingen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt farlige, egentlig",
+          "scores": {
+            "svingen": 2,
+            "skoghei": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hatter er bedre",
+          "scores": {
+            "bingen": 2,
+            "snofall": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "De burde ha lys inni",
+          "scores": {
+            "snofall": 2,
+            "blodfjell": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Regn er bare vann, det går fint",
+          "scores": {
+            "skjul": 2,
+            "blodfjell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du på en lang biltur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger høyt",
+          "scores": {
+            "blodfjell": 2,
+            "manetoppen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover",
+          "scores": {
+            "skoghei": 2,
+            "manetoppen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om vi er framme snart",
+          "scores": {
+            "skomakergata": 2,
+            "blodfjell": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Teller røde biler",
+          "scores": {
+            "rampenissen": 2,
+            "stjerner": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager en quiz til de andre",
+          "scores": {
+            "manetoppen": 2,
+            "thejul": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser opp nista før vi er ute av byen",
+          "scores": {
+            "blafjell": 2,
+            "snofall": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange ganger trykker du på heisknappen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én gang, det holder",
+          "scores": {
+            "laven": 2,
+            "manetoppen": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til den lyser",
+          "scores": {
+            "svingen": 2,
+            "bingen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mange ganger, i takt",
+          "scores": {
+            "thejul": 2,
+            "laven": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar trappa",
+          "scores": {
+            "rampenissen": 2,
+            "skjul": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lar noen andre trykke",
+          "scores": {
+            "skoghei": 2,
+            "bingen": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva har du i lomma når du går ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En kastanje",
+          "scores": {
+            "blafjell": 2,
+            "snofall": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et viskelær",
+          "scores": {
+            "skomakergata": 2,
+            "snofall": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting, jeg liker tomme lommer",
+          "scores": {
+            "bingen": 2,
+            "skoghei": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Godteri til senere",
+          "scores": {
+            "blodfjell": 2,
+            "bingen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En lapp med en tegning av en and",
+          "scores": {
+            "skjul": 2,
+            "stjerner": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nøkler, lommebok og ekstra sokker",
+          "scores": {
+            "stjerner": 2,
+            "rampenissen": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "skomakergata",
+      "name": "Jul i Skomakergata",
+      "shareName": "Jul i Skomakergata",
+      "emoji": null,
+      "description": "Du er klassisk, trygg og elsket av alle generasjoner. Du får folk til å smile før de vet hvorfor.",
+      "funFact": "Jul i Skomakergata fra 1979 var NRKs første julekalender på TV, og den ble så populær at seerne ba om reprise igjen og igjen.",
+      "image": "images/2026-12-01/skomakergata.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Aldri gått av moten."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Fikser alt for alle."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Har alltid en melodi."
+        },
+        {
+          "title": "Trygg",
+          "text": "Som en varm tøffel."
+        }
+      ]
+    },
+    {
+      "id": "blafjell",
+      "name": "Jul i Blåfjell",
+      "shareName": "Jul i Blåfjell",
+      "emoji": null,
+      "description": "Du er eventyrlysten og modig. Du rydder opp når ting går skeis, og har det gøy mens du gjør det.",
+      "funFact": "I Jul i Blåfjell fra 1999 sliter bygda under fjellet med et voksende problem med søppel og rotter.",
+      "image": "images/2026-12-01/blafjell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tar tak i problemene."
+        },
+        {
+          "title": "Eventyrlig",
+          "text": "Elsker en god ekspedisjon."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står med flokken sin."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Folk husker deg lenge."
+        }
+      ]
+    },
+    {
+      "id": "manetoppen",
+      "name": "Jul på Månetoppen",
+      "shareName": "Jul på Månetoppen",
+      "emoji": null,
+      "description": "Du er drømmende og full av fantasi. Du tror på at uvenner kan bli venner til slutt.",
+      "funFact": "Jul på Månetoppen fra 2002 er en fortsettelse av Jul i Blåfjell, og handler om striden mellom blånissene og rødnissene.",
+      "image": "images/2026-12-01/manetoppen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Hodet litt i skyene."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Bygger bro mellom folk."
+        },
+        {
+          "title": "Magisk",
+          "text": "Har glitter i lomma."
+        },
+        {
+          "title": "Varm",
+          "text": "Inkluderer alle."
+        }
+      ]
+    },
+    {
+      "id": "svingen",
+      "name": "Jul i Svingen",
+      "shareName": "Jul i Svingen",
+      "emoji": null,
+      "description": "Du er hverdagslig på den beste måten. Du gjør små ting til store opplevelser.",
+      "funFact": "Jul i Svingen fra 2006 er en oppfølger til Linus i Svingen, og ble omtalt som NRKs største barne-TV-produksjon noensinne.",
+      "image": "images/2026-12-01/svingen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Liker det enkle best."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner moro overalt."
+        },
+        {
+          "title": "Familiær",
+          "text": "Har mange rundt seg."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Lurer på alt mulig."
+        }
+      ]
+    },
+    {
+      "id": "snofall",
+      "name": "Snøfall",
+      "shareName": "Snøfall",
+      "emoji": null,
+      "description": "Du er stille, sterk og litt magisk. Du har et stort hjerte og gir aldri opp håpet.",
+      "funFact": "Snøfall hadde premiere på NRK i 2016 og handler om den foreldreløse jenta Selma.",
+      "image": "images/2026-12-01/snofall.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Håpefull",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner ting dypt."
+        },
+        {
+          "title": "Modig",
+          "text": "Sterkere enn du tror."
+        },
+        {
+          "title": "Magisk",
+          "text": "Gjør vinteren vakker."
+        }
+      ]
+    },
+    {
+      "id": "thejul",
+      "name": "The Julekalender",
+      "shareName": "The Julekalender",
+      "emoji": null,
+      "description": "Du er sprø, uforutsigbar og helt unik. Folk forstår ikke alltid hva du sier, men de elsker deg likevel.",
+      "funFact": "Den norske The Julekalender gikk på TV 2 første gang i 1994, og bygger på en dansk serie fra 1991. Figurene snakker en blanding av engelsk og norsk.",
+      "image": "images/2026-12-01/thejul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprø",
+          "text": "Helt i egen klasse."
+        },
+        {
+          "title": "Kult",
+          "text": "Har en trofast fanskare."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner opp egne ord."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Synger når det passer."
+        }
+      ]
+    },
+    {
+      "id": "laven",
+      "name": "Nissene på låven",
+      "shareName": "Nissene på låven",
+      "emoji": null,
+      "description": "Du er morsom, frekk og elsker et godt skuespill. Du ler mest av alt av deg selv.",
+      "funFact": "Nissene på låven var en parodi på realityserier, og ble en stor suksess på TVNorge i 2001.",
+      "image": "images/2026-12-01/laven.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Frekk",
+          "text": "Sier det andre tenker."
+        },
+        {
+          "title": "Original",
+          "text": "Var først ute."
+        },
+        {
+          "title": "Selvironisk",
+          "text": "Ler gjerne av seg selv."
+        }
+      ]
+    },
+    {
+      "id": "skoghei",
+      "name": "Nissene over skog og hei",
+      "shareName": "Nissene over skog og hei",
+      "emoji": null,
+      "description": "Du er eventyrlysten og alltid klar for en ny runde. Når det blir kaos, er du midt i det.",
+      "funFact": "Nissene over skog og hei kom på TVNorge i 2011, og var oppfølgeren til Nissene på låven.",
+      "image": "images/2026-12-01/skoghei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i stor gjeng."
+        },
+        {
+          "title": "Spontan",
+          "text": "Pakker sekken på sekundet."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Alltid noe som skjer."
+        }
+      ]
+    },
+    {
+      "id": "bingen",
+      "name": "Nissene i bingen",
+      "shareName": "Nissene i bingen",
+      "emoji": null,
+      "description": "Du er romantisk og glad i lagarbeid. Du gjør alt bedre når du har noen å dele det med.",
+      "funFact": "I Nissene i bingen fra 2021 bor 24 single sammen i adventstiden, i par som nissefar og nissemor.",
+      "image": "images/2026-12-01/bingen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Tror på ekte kjærlighet."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Best i par."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner folk over raskt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        }
+      ]
+    },
+    {
+      "id": "skjul",
+      "name": "Nissene i skjul",
+      "shareName": "Nissene i skjul",
+      "emoji": null,
+      "description": "Du er skarp og liker et godt mysterium. Du legger merke til alt, selv det andre prøver å skjule.",
+      "funFact": "Nissene i skjul hadde premiere på NRK 1. desember 2025, og en av deltakerne var i hemmelighet en nisse som skulle sabotere spillet.",
+      "image": "images/2026-12-01/skjul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Ser gjennom det meste."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Holder kortene tett."
+        },
+        {
+          "title": "Strategisk",
+          "text": "Tenker flere trekk fram."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        }
+      ]
+    },
+    {
+      "id": "stjerner",
+      "name": "24-stjerners julekalender",
+      "shareName": "24-stjerners julekalender",
+      "emoji": null,
+      "description": "Du er konkurranseglad og elsker en tullete utfordring. Du gir alt, selv når oppgaven er helt absurd.",
+      "funFact": "I 24-stjerners julekalender på NRK ryker én kjendis ut hver dag, og vinneren på julaften blir kåret til årets julestjerne.",
+      "image": "images/2026-12-01/stjerner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Konkurranselysten",
+          "text": "Vil alltid vinne."
+        },
+        {
+          "title": "Tullete",
+          "text": "Elsker rare oppgaver."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart hver dag."
+        },
+        {
+          "title": "Sporty",
+          "text": "Taper med et smil."
+        }
+      ]
+    },
+    {
+      "id": "rampenissen",
+      "name": "Rampenissen",
+      "shareName": "Rampenissen",
+      "emoji": null,
+      "description": "Du er lur og full av spilloppmakeri. Du liker å snu opp ned på ting, men alltid med et glimt i øyet.",
+      "funFact": "I Rampenissen fra 2025 konkurrerer 25 kjendiser, mens tre hemmelige personer styrer nissen fra et skjult kontrollrom.",
+      "image": "images/2026-12-01/rampenissen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Rampete",
+          "text": "Elsker en god spøk."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Ingen vet hva som kommer."
+        },
+        {
+          "title": "Leken",
+          "text": "Gjør alt til en lek."
+        }
+      ]
+    },
+    {
+      "id": "blodfjell",
+      "name": "Jul i Blodfjell",
+      "shareName": "Jul i Blodfjell",
+      "emoji": null,
+      "description": "Du er dramatisk og elsker en god gåte. Når familien samles, er det du som merker at noe ikke stemmer.",
+      "funFact": "Jul i Blodfjell hadde premiere på TVNorge i 2017, og er en komisk mysterieserie der en hel familie samles på et fjellhotell i jula.",
+      "image": "images/2026-12-01/blodfjell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dramatisk",
+          "text": "Alt er litt større."
+        },
+        {
+          "title": "Mistenksom",
+          "text": "Stoler ikke på alle."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mørk humor, varmt hjerte."
+        },
+        {
+          "title": "Spennende",
+          "text": "Ingen sovner med deg."
+        }
+      ]
+    }
+  ]
+}
