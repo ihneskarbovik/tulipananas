@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-16",
+  "date": "2026-12-16",
+  "title": "Hvilken disippel er du i dag?",
+  "intro": "Jesus hadde tolv disipler, og alle var forskjellige: fiskere, en tollinnkrever, noen ivrige og noen stille. Svar på sju litt rare spørsmål og finn ut hvilken disippel du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "En elefant vil bli med på kino. Hvor sitter den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt bakerst, så alle andre ser",
+          "scores": {
+            "jakob": 2,
+            "taddeus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved siden av meg, med popkorn",
+          "scores": {
+            "tomas": 2,
+            "peter": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På første rad",
+          "scores": {
+            "jakobalfeus": 2,
+            "simon": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "I midtgangen, den trenger plass",
+          "scores": {
+            "johannes": 2,
+            "bartolomeus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den kjøper to seter",
+          "scores": {
+            "mattias": 2,
+            "jakobalfeus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den ser filmen hjemme og forteller meg om den etterpå",
+          "scores": {
+            "simon": 2,
+            "matteus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om hengelåser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Veldig nyttige",
+          "scores": {
+            "tomas": 2,
+            "filip": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg glemmer alltid koden",
+          "scores": {
+            "taddeus": 2,
+            "tomas": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fine, hvis de er grønne",
+          "scores": {
+            "filip": 2,
+            "peter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg liker lyden når de klikker",
+          "scores": {
+            "simon": 2,
+            "taddeus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt mistenkelige",
+          "scores": {
+            "jakobalfeus": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "De burde synge når de åpnes",
+          "scores": {
+            "matteus": 2,
+            "taddeus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan bærer du handleposene hjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle i én hånd",
+          "scores": {
+            "simon": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jevnt fordelt på begge sider",
+          "scores": {
+            "taddeus": 2,
+            "tomas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg bærer de andres også",
+          "scores": {
+            "matteus": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar heller flere turer",
+          "scores": {
+            "jakob": 2,
+            "matteus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "På hodet, som en balansekunstner",
+          "scores": {
+            "peter": 2,
+            "filip": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "I sekken, alltid i sekken",
+          "scores": {
+            "jakobalfeus": 2,
+            "bartolomeus": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor lang tid bruker du på å velge is i en iskiosk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under ett sekund",
+          "scores": {
+            "tomas": 2,
+            "jakob": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til køen bak meg begynner å sukke",
+          "scores": {
+            "jakobalfeus": 2,
+            "filip": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg spør alle andre først",
+          "scores": {
+            "bartolomeus": 2,
+            "andreas": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen tid, jeg tar alltid den samme",
+          "scores": {
+            "johannes": 2,
+            "jakobalfeus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg leser hele lista to ganger",
+          "scores": {
+            "taddeus": 2,
+            "peter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lar noen andre velge for meg",
+          "scores": {
+            "jakob": 2,
+            "andreas": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får skrive én setning på en kjempestor plakat midt i byen. Hva skriver du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Husk å drikke vann",
+          "scores": {
+            "johannes": 2,
+            "simon": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Du er bra nok",
+          "scores": {
+            "taddeus": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Har noen sett votten min?",
+          "scores": {
+            "filip": 2,
+            "jakobalfeus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hei til alle som leser dette",
+          "scores": {
+            "andreas": 2,
+            "bartolomeus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vær snill med duene",
+          "scores": {
+            "jakob": 2,
+            "jakobalfeus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vaffelfest hos meg klokka fem",
+          "scores": {
+            "mattias": 2,
+            "bartolomeus": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan tørker du deg etter dusjen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raskt og effektivt",
+          "scores": {
+            "matteus": 2,
+            "taddeus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg lufttørker",
+          "scores": {
+            "andreas": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med et kjempestort badehåndkle",
+          "scores": {
+            "simon": 2,
+            "bartolomeus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med to håndklær, ett til håret",
+          "scores": {
+            "jakob": 2,
+            "andreas": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg rister meg som en hund",
+          "scores": {
+            "filip": 2,
+            "simon": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med et håndkle som har ligget på varmen",
+          "scores": {
+            "tomas": 2,
+            "johannes": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket vær passer best til å fortelle en hemmelighet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lett snøvær",
+          "scores": {
+            "andreas": 2,
+            "bartolomeus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Duskregn",
+          "scores": {
+            "filip": 2,
+            "simon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Strålende sol",
+          "scores": {
+            "matteus": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tett tåke",
+          "scores": {
+            "taddeus": 2,
+            "tomas": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sterk vind",
+          "scores": {
+            "peter": 2,
+            "mattias": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stille kveld med stjerner",
+          "scores": {
+            "johannes": 2,
+            "matteus": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "peter",
+      "name": "Peter",
+      "shareName": "Peter",
+      "emoji": null,
+      "description": "Du er modig, ivrig og hopper rett ut i ting. Du sier det du mener, og folk kan alltid stole på deg når det gjelder.",
+      "funFact": "Navnet Peter kommer fra gresk og betyr «klippe». Jesus sa at han ville bygge kirken sin på denne klippen (Matt 16,18).",
+      "image": "images/2026-12-16/peter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Hopper først ut i det."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det han mener."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer alltid tilbake."
+        }
+      ]
+    },
+    {
+      "id": "andreas",
+      "name": "Andreas",
+      "shareName": "Andreas",
+      "emoji": null,
+      "description": "Du er en som samler folk. Du er glad når andre får oppleve noe fint, og deler gjerne gode ting videre.",
+      "funFact": "Andreas var bror til Peter, og det var han som tok med seg Peter for å møte Jesus (Joh 1,40–42).",
+      "image": "images/2026-12-16/andreas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Inkluderende",
+          "text": "Tar med seg andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trenger ikke rampelyset."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler alt det gode."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved familien."
+        }
+      ]
+    },
+    {
+      "id": "jakob",
+      "name": "Jakob, Sebedeus' sønn",
+      "shareName": "Jakob, Sebedeus' sønn",
+      "emoji": null,
+      "description": "Du er full av glød og engasjement. Når du bryr deg om noe, merker alle det.",
+      "funFact": "Jesus ga Jakob og broren Johannes kallenavnet «tordensønner» (Mark 3,17).",
+      "image": "images/2026-12-16/jakob.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Engasjert",
+          "text": "Brenner for det han tror."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt i motvind."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Gjør, ikke bare snakker."
+        },
+        {
+          "title": "Søskenkjær",
+          "text": "Best sammen med broren."
+        }
+      ]
+    },
+    {
+      "id": "johannes",
+      "name": "Johannes",
+      "shareName": "Johannes",
+      "emoji": null,
+      "description": "Du er varm, ettertenksom og har et stort hjerte. Du legger merke til det fine i små øyeblikk.",
+      "funFact": "Ifølge tradisjonen er Johannes «disippelen som Jesus elsket», som det står om flere ganger i Johannesevangeliet.",
+      "image": "images/2026-12-16/johannes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Har et stort hjerte."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker dypt og lenge."
+        },
+        {
+          "title": "Nær",
+          "text": "God venn å ha."
+        },
+        {
+          "title": "Skrivende",
+          "text": "Liker å fortelle historier."
+        }
+      ]
+    },
+    {
+      "id": "filip",
+      "name": "Filip",
+      "shareName": "Filip",
+      "emoji": null,
+      "description": "Du er praktisk og tenker på hvordan ting skal løses. Du er den som husker at alle må få mat.",
+      "funFact": "Da fem tusen mennesker trengte mat, var det Filip Jesus spurte om hvor de kunne kjøpe brød (Joh 6,5).",
+      "image": "images/2026-12-16/filip.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Finner alltid en løsning."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på at alle trenger."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør gode spørsmål."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Viser andre veien."
+        }
+      ]
+    },
+    {
+      "id": "bartolomeus",
+      "name": "Bartolomeus",
+      "shareName": "Bartolomeus",
+      "emoji": null,
+      "description": "Du er ærlig og rett fram, og du liker å tenke deg om i fred og ro. Når du først blir begeistret, blir du det helhjertet.",
+      "funFact": "Bartolomeus blir ofte regnet som den samme som Natanael, som Jesus så sitte under et fikentre (Joh 1,48).",
+      "image": "images/2026-12-16/bartolomeus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Ingen skjulte baktanker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i skyggen."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier ting rett ut."
+        },
+        {
+          "title": "Helhjertet",
+          "text": "Gir alt når han tror."
+        }
+      ]
+    },
+    {
+      "id": "tomas",
+      "name": "Tomas",
+      "shareName": "Tomas",
+      "emoji": null,
+      "description": "Du er nysgjerrig og vil forstå ting skikkelig. Du stiller spørsmålene andre ikke tør å stille.",
+      "funFact": "Tomas fikk kallenavnet «tvileren» fordi han ville se med egne øyne før han trodde (Joh 20,24–29).",
+      "image": "images/2026-12-16/tomas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alt skikkelig."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker alt to ganger."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å stille spørsmål."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Later ikke som."
+        }
+      ]
+    },
+    {
+      "id": "matteus",
+      "name": "Matteus",
+      "shareName": "Matteus",
+      "emoji": null,
+      "description": "Du er ryddig og god med detaljer. Du viser at alle kan begynne på nytt, uansett hvor de kommer fra.",
+      "funFact": "Matteus var tollinnkrever, og Jesus kalte ham mens han satt ved tollboden (Matt 9,9).",
+      "image": "images/2026-12-16/matteus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Holder orden på alt."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Ser alle detaljene."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Inviterer gjerne til middag."
+        },
+        {
+          "title": "Fornyet",
+          "text": "Turte å starte på nytt."
+        }
+      ]
+    },
+    {
+      "id": "jakobalfeus",
+      "name": "Jakob, Alfeus' sønn",
+      "shareName": "Jakob, Alfeus' sønn",
+      "emoji": null,
+      "description": "Du er stille og stødig, og du trenger ikke å stå i sentrum. Du gjør jobben din godt uten å lage noe nummer av det.",
+      "funFact": "Jakob, Alfeus' sønn, kalles ofte «Jakob den yngre» for å skille ham fra den andre disippelen som het Jakob.",
+      "image": "images/2026-12-16/jakobalfeus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stille",
+          "text": "Snakker lite, gjør mye."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ingen applaus."
+        },
+        {
+          "title": "Trofast",
+          "text": "Med hele veien."
+        }
+      ]
+    },
+    {
+      "id": "taddeus",
+      "name": "Taddeus",
+      "shareName": "Taddeus",
+      "emoji": null,
+      "description": "Du er varm og lojal, og du tar godt vare på vennene dine. Du er kanskje ikke den som roper høyest, men du er alltid der.",
+      "funFact": "Taddeus kalles også «Judas, Jakobs sønn» i Lukasevangeliet (Luk 6,16).",
+      "image": "images/2026-12-16/taddeus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Alltid til stede."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trives litt i bakgrunnen."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det han lover."
+        }
+      ]
+    },
+    {
+      "id": "simon",
+      "name": "Simon seloten",
+      "shareName": "Simon seloten",
+      "emoji": null,
+      "description": "Du er full av iver og brenner for det som er rett. Når du tror på noe, gir du deg ikke.",
+      "funFact": "Simon fikk tilnavnet «seloten», som betyr «den ivrige», blant annet for å skille ham fra Simon Peter (Luk 6,15).",
+      "image": "images/2026-12-16/simon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ivrig",
+          "text": "Full av glød."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Bryr seg om det riktige."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Står opp for andre."
+        }
+      ]
+    },
+    {
+      "id": "mattias",
+      "name": "Mattias",
+      "shareName": "Mattias",
+      "emoji": null,
+      "description": "Du er tålmodig og klar når det gjelder. Du var med hele tiden, og når muligheten kommer, griper du den.",
+      "funFact": "Mattias ble valgt ved loddtrekning til å bli en av de tolv, etter at Jesus var tatt opp til himmelen (Apg 1,26).",
+      "image": "images/2026-12-16/mattias.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter på sin tur."
+        },
+        {
+          "title": "Klar",
+          "text": "Stiller når det trengs."
+        },
+        {
+          "title": "Trofast",
+          "text": "Var med hele veien."
+        },
+        {
+          "title": "Ydmyk",
+          "text": "Tar imot oppgaven."
+        }
+      ]
+    }
+  ]
+}

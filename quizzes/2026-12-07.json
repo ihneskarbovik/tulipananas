@@ -1,0 +1,716 @@
+{
+  "id": "2026-12-07",
+  "date": "2026-12-07",
+  "title": "Hvilken karakter i Jul i Svingen er du i dag?",
+  "intro": "Det skjer mye i Svingen i desember! Er du en eventyrlysten Linus, en bestemt Klara eller en ivrig Marvin? Svar på sju rare spørsmål og finn ut hvilken Svingen-karakter du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "En sau vil lære deg å strikke. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg strikker et skjerf på ti meter",
+          "scores": {
+            "nure": 2,
+            "linus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vi ender opp med å strikke sammen sauen",
+          "scores": {
+            "klara": 2,
+            "marvin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg lærer sauen noe i stedet",
+          "scores": {
+            "biggen": 2,
+            "borre": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det blir mest garnnøster overalt",
+          "scores": {
+            "atif": 2,
+            "victoria": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg gir opp og tar en kakao med sauen",
+          "scores": {
+            "asa": 2,
+            "klara": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Perfekt, selvsagt",
+          "scores": {
+            "borre": 2,
+            "vera": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om skolisser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dobbeltknute, alltid",
+          "scores": {
+            "akaya": 2,
+            "linus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg glemmer å knyte dem",
+          "scores": {
+            "vera": 2,
+            "atif": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "De burde vært i alle farger",
+          "scores": {
+            "marvin": 2,
+            "mygg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Borrelås er bedre",
+          "scores": {
+            "nure": 2,
+            "akaya": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg kan knyte dem med øynene lukket",
+          "scores": {
+            "biggen": 2,
+            "akaya": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan spiser du en kjeks med fyll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrir den fra hverandre først",
+          "scores": {
+            "victoria": 2,
+            "asa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I én stor bit",
+          "scores": {
+            "linus": 2,
+            "mygg": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dypper den i melk",
+          "scores": {
+            "atif": 2,
+            "vera": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiser fyllet og gir bort resten",
+          "scores": {
+            "borre": 2,
+            "biggen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bruker den som et lite hjul først",
+          "scores": {
+            "klara": 2,
+            "asa": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Deler den med noen",
+          "scores": {
+            "asa": 2,
+            "biggen": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor sitter du helst i et klasserom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt foran",
+          "scores": {
+            "victoria": 2,
+            "vera": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt bakerst",
+          "scores": {
+            "biggen": 2,
+            "mygg": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved vinduet",
+          "scores": {
+            "mygg": 2,
+            "victoria": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Midt i, der alt skjer",
+          "scores": {
+            "linus": 2,
+            "akaya": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved døra, klar til å gå",
+          "scores": {
+            "akaya": 2,
+            "biggen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg står, det er bedre",
+          "scores": {
+            "marvin": 2,
+            "victoria": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får bestemme hva som serveres til lunsj i dag. Hva blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pannekaker til alle",
+          "scores": {
+            "nure": 2,
+            "vera": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Taco med ekstra alt",
+          "scores": {
+            "borre": 2,
+            "marvin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Suppe og loff",
+          "scores": {
+            "linus": 2,
+            "victoria": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pizza formet som et hjerte",
+          "scores": {
+            "vera": 2,
+            "marvin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et stort koldtbord",
+          "scores": {
+            "klara": 2,
+            "atif": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe jeg har funnet på selv",
+          "scores": {
+            "mygg": 2,
+            "atif": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan pynter du et pepperkakehus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med så mye melis som mulig",
+          "scores": {
+            "atif": 2,
+            "borre": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt symmetrisk",
+          "scores": {
+            "biggen": 2,
+            "victoria": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg spiser pynten før den kommer på",
+          "scores": {
+            "mygg": 2,
+            "marvin": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med små figurer og en hel hage",
+          "scores": {
+            "asa": 2,
+            "mygg": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lar andre pynte og heier",
+          "scores": {
+            "marvin": 2,
+            "asa": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg bygger et tårn i stedet",
+          "scores": {
+            "akaya": 2,
+            "nure": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor mange snøballer trengs til en ordentlig snøballkrig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tre, men gode",
+          "scores": {
+            "atif": 2,
+            "vera": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tjue",
+          "scores": {
+            "victoria": 2,
+            "asa": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hundre, minst",
+          "scores": {
+            "nure": 2,
+            "akaya": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Én, kastet på riktig tidspunkt",
+          "scores": {
+            "klara": 2,
+            "vera": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, jeg bygger heller en borg",
+          "scores": {
+            "vera": 2,
+            "akaya": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Like mange som det er folk",
+          "scores": {
+            "borre": 2,
+            "asa": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "linus",
+      "name": "Linus",
+      "shareName": "Linus",
+      "emoji": null,
+      "description": "Du er nysgjerrig, eventyrlysten og alltid midt i det som skjer. Du er den alle samler seg rundt når det skal finnes på noe.",
+      "funFact": "Jakob Borgen spilte Linus både i Jul i Svingen og i Linus i Svingen fra 2004.",
+      "image": "images/2026-12-07/linus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Leter alltid etter skatter."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller opp for vennene."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt mulig."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på noe nytt."
+        }
+      ]
+    },
+    {
+      "id": "klara",
+      "name": "Klara",
+      "shareName": "Klara",
+      "emoji": null,
+      "description": "Du er liten, men bestemt, og du vet nøyaktig hva du vil. Du er ikke redd for å lage dine egne regler.",
+      "funFact": "I episode 6 flytter Klara og Morten Mygg hjemmefra, fordi Klara synes mamma og pappa bestemmer altfor mye.",
+      "image": "images/2026-12-07/klara.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Vet hva hun vil."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Kan reise til Japan."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Lager sine egne regler."
+        }
+      ]
+    },
+    {
+      "id": "nure",
+      "name": "Nure",
+      "shareName": "Nure",
+      "emoji": null,
+      "description": "Du er snill, varm og litt forelsket i livet. Du tar vare på dem som trenger det, enten det er en venn eller en skadet rev.",
+      "funFact": "Nure spilles av Sebastian Warholm, som også var med i Linus i Svingen.",
+      "image": "images/2026-12-07/nure.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Hjelper dyr og folk."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Hjertet banker litt ekstra."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Trofast",
+          "text": "En venn for livet."
+        }
+      ]
+    },
+    {
+      "id": "borre",
+      "name": "Børre",
+      "shareName": "Børre",
+      "emoji": null,
+      "description": "Du er tøff, kjapp i replikken og elsker en utfordring. Du har alltid en plan, selv om den ikke alltid er så lur.",
+      "funFact": "I episoden «Spillegalskap» lurer Børre med seg Atif og Nure på bingo, og de vinner en stor premie.",
+      "image": "images/2026-12-07/borre.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Elsker en god utfordring."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Frekk",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Morsom",
+          "text": "Skaper liv i gjengen."
+        }
+      ]
+    },
+    {
+      "id": "atif",
+      "name": "Atif",
+      "shareName": "Atif",
+      "emoji": null,
+      "description": "Du er oppfinnsom og gir aldri opp. Får du ikke det du vil ha, lager du det bare selv.",
+      "funFact": "Atif starter sitt eget radioprogram, Radio Svingen, fordi han ikke får se et tv-program om bjørner.",
+      "image": "images/2026-12-07/atif.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppfinnsom",
+          "text": "Lager det han mangler."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Født til å snakke."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller opp for andre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære om alt."
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "shareName": "Victoria",
+      "emoji": null,
+      "description": "Du er ny i gata, modig og sier det du mener. Det kan ta litt tid å bli kjent med deg, men det er verdt det.",
+      "funFact": "Victoria flytter til Svingen med en ny familie i episode 3, og spilles av Erika Birgitta Krohn.",
+      "image": "images/2026-12-07/victoria.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å være ny."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det hun mener."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har sin egen stil."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Snillere enn man tror."
+        }
+      ]
+    },
+    {
+      "id": "asa",
+      "name": "Åsa",
+      "shareName": "Åsa",
+      "emoji": null,
+      "description": "Du er pålitelig, sterk og klarer deg selv. Du tar ansvar når det trengs, og står opp for dem du er glad i.",
+      "funFact": "I en av episodene må Åsa åpne bensinstasjonen helt alene, men hun får hjelp av Victoria.",
+      "image": "images/2026-12-07/asa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ansvarlig",
+          "text": "Tar tak når det trengs."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står opp for sine."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Stolt",
+          "text": "Hjertet på rett sted."
+        }
+      ]
+    },
+    {
+      "id": "akaya",
+      "name": "Akaya",
+      "shareName": "Akaya",
+      "emoji": null,
+      "description": "Du er rolig, smart og sier fra når noe er urettferdig. Du lar deg ikke lure av noen som tror de er tøffest.",
+      "funFact": "Akaya spilles av Yvonne Johnsrud. Musikken fra Jul i Svingen vant Spellemannprisen for beste barneplate.",
+      "image": "images/2026-12-07/akaya.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Tenker før hun handler."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Liker ikke urettferdighet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sterk sammen med andre."
+        }
+      ]
+    },
+    {
+      "id": "mygg",
+      "name": "Morten Mygg",
+      "shareName": "Morten Mygg",
+      "emoji": null,
+      "description": "Du er en trofast følgesvenn som er med på det meste. Har noen en vill idé, er du den første som sier ja.",
+      "funFact": "Morten Mygg spilles av Henrik Jacob Schatvet. Jul i Svingen hadde 24 episoder, én for hver dag fram til julaften.",
+      "image": "images/2026-12-07/mygg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid med på laget."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Liten",
+          "text": "Men med stort hjerte."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler gjennom alt."
+        }
+      ]
+    },
+    {
+      "id": "marvin",
+      "name": "Marvin",
+      "shareName": "Marvin",
+      "emoji": null,
+      "description": "Du er en voksen med et stort barn inni deg. Du elsker konkurranser og blir like ivrig som barna.",
+      "funFact": "Marvin spilles av Anders Mordal, som også hadde rollen i Linus i Svingen.",
+      "image": "images/2026-12-07/marvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Barnslig",
+          "text": "På den beste måten."
+        },
+        {
+          "title": "Konkurranselysten",
+          "text": "Må vinne juletreløpet."
+        },
+        {
+          "title": "Varm",
+          "text": "Glad i familien sin."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Full fart hele tiden."
+        }
+      ]
+    },
+    {
+      "id": "biggen",
+      "name": "Biggen",
+      "shareName": "Biggen",
+      "emoji": null,
+      "description": "Du er avslappet, musikalsk og god å ha med på tur. Du har alltid en historie fra gamle dager.",
+      "funFact": "Biggen spilles av Fridtjov Såheim, og en av episodene heter «Biggen Blues og Bensin».",
+      "image": "images/2026-12-07/biggen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Har blues i blodet."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Kan mange gamle historier."
+        },
+        {
+          "title": "Kompis",
+          "text": "God å ha på hyttetur."
+        }
+      ]
+    },
+    {
+      "id": "vera",
+      "name": "Vera",
+      "shareName": "Vera",
+      "emoji": null,
+      "description": "Du er kreativ og elsker å sette i gang ting for andre. Du får alle til å blomstre på en scene.",
+      "funFact": "Vera starter en teatergruppe for barna i Svingen, og det er hun som lager Lucia-kronen alle vil ha.",
+      "image": "images/2026-12-07/vera.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Elsker en god scene."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir alle en rolle."
+        },
+        {
+          "title": "Flink",
+          "text": "Lager nesten alt selv."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "id": "2026-12-03",
+  "date": "2026-12-03",
+  "title": "Hvilken julekake er du i dag?",
+  "intro": "Det er tradisjon å ha sju slag kaker til jul, men hvilken av dem er du? Svar på sju litt rare spørsmål og finn ut hvilken julekake du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken fugl ville vært den beste bibliotekaren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ugle",
+          "scores": {
+            "kransekake": 2,
+            "mandelflarn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spurv",
+          "scores": {
+            "sirupssnipp": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Papegøye",
+          "scores": {
+            "sandkake": 2,
+            "fattigmann": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pingvin",
+          "scores": {
+            "hjortetakk": 2,
+            "peppernott": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kråke",
+          "scores": {
+            "berlinerkrans": 2,
+            "kokosmakron": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Flamingo",
+          "scores": {
+            "peppernott": 2,
+            "sirupssnipp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om glidelåser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Genialt oppfunnet",
+          "scores": {
+            "sirupssnipp": 2,
+            "krumkake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "De setter seg alltid fast",
+          "scores": {
+            "mandelflarn": 2,
+            "kokosmakron": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Knapper er mer koselig",
+          "scores": {
+            "serinakake": 2,
+            "berlinerkrans": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg liker lyden de lager",
+          "scores": {
+            "goro": 2,
+            "kransekake": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "De burde finnes i flere farger",
+          "scores": {
+            "fattigmann": 2,
+            "serinakake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har aldri tenkt på dem før nå",
+          "scores": {
+            "berlinerkrans": 2,
+            "kransekake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan tar du på deg votter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tommelen først, alltid",
+          "scores": {
+            "krumkake": 2,
+            "fattigmann": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg drar dem på med tennene",
+          "scores": {
+            "hjortetakk": 2,
+            "peppernott": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg bruker aldri votter",
+          "scores": {
+            "peppernott": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg får hjelp av noen",
+          "scores": {
+            "sandkake": 2,
+            "mandelflarn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den ene hånden er alltid naken",
+          "scores": {
+            "kransekake": 2,
+            "hjortetakk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg blåser varm luft inni først",
+          "scores": {
+            "fattigmann": 2,
+            "kokosmakron": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får ditt eget TV-program. Hva handler det om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dyr som har fått nye jobber",
+          "scores": {
+            "sirupssnipp": 2,
+            "goro": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Folk som rydder loft",
+          "scores": {
+            "kokosmakron": 2,
+            "sirupssnipp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Verdens tregeste konkurranse",
+          "scores": {
+            "hjortetakk": 2,
+            "goro": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hemmelige steder i nabolaget",
+          "scores": {
+            "goro": 2,
+            "hjortetakk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ting som nesten gikk galt",
+          "scores": {
+            "peppernott": 2,
+            "serinakake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bestemødre som forteller vitser",
+          "scores": {
+            "mandelflarn": 2,
+            "peppernott": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange tepper trenger du en kald kveld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett, men et stort ett",
+          "scores": {
+            "serinakake": 2,
+            "sirupssnipp": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "To, ett til beina",
+          "scores": {
+            "mandelflarn": 2,
+            "berlinerkrans": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tre og en katt",
+          "scores": {
+            "fattigmann": 2,
+            "mandelflarn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen, jeg går i shorts",
+          "scores": {
+            "hjortetakk": 2,
+            "kokosmakron": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Så mange at jeg forsvinner",
+          "scores": {
+            "krumkake": 2,
+            "berlinerkrans": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når du har glemt hva du skulle i et rom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går ut og inn igjen",
+          "scores": {
+            "peppernott": 2,
+            "fattigmann": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står helt stille og venter",
+          "scores": {
+            "kransekake": 2,
+            "serinakake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rydder litt mens jeg er der",
+          "scores": {
+            "goro": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Later som jeg skulle sjekke vinduet",
+          "scores": {
+            "sandkake": 2,
+            "kokosmakron": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ringer noen og spør",
+          "scores": {
+            "mandelflarn": 2,
+            "kransekake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir opp og spiser noe",
+          "scores": {
+            "hjortetakk": 2,
+            "kransekake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken lyd tror du et vennlig fjell lager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et dypt «hmmm»",
+          "scores": {
+            "krumkake": 2,
+            "serinakake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En liten fnising",
+          "scores": {
+            "mandelflarn": 2,
+            "krumkake": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et høflig kremt",
+          "scores": {
+            "sandkake": 2,
+            "goro": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En lang gjesp",
+          "scores": {
+            "kokosmakron": 2,
+            "sandkake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et varmt «hei»",
+          "scores": {
+            "peppernott": 2,
+            "berlinerkrans": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen lyd, bare et smil",
+          "scores": {
+            "berlinerkrans": 2,
+            "serinakake": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sandkake",
+      "name": "Sandkaker",
+      "shareName": "sandkaker",
+      "emoji": null,
+      "description": "Du er enkel, trofast og alltid til stede. Folk blir glade når de ser deg, og du trenger ikke mye pynt for å være fin.",
+      "funFact": "Sandkaker er med på den vanligste listen over «sju slag», og de stekes i små, riflede former.",
+      "image": "images/2026-12-03/sandkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid med i jula."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye pynt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Smuldrer ikke under press."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Elsket av alle."
+        }
+      ]
+    },
+    {
+      "id": "krumkake",
+      "name": "Krumkake",
+      "shareName": "krumkake",
+      "emoji": null,
+      "description": "Du er elegant og litt kunstnerisk. Du ser skjør ut, men du har en historie som er eldre enn de fleste.",
+      "funFact": "Krumkakejern kom til Norge fra Holland på 1600-tallet, og jernstekte kaker regnes som de eldste småkakene vi har.",
+      "image": "images/2026-12-03/krumkake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Ruller seg pent sammen."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Har mønster på alt."
+        },
+        {
+          "title": "Gammel",
+          "text": "Full av historie."
+        },
+        {
+          "title": "Sprø",
+          "text": "Men varm innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "goro",
+      "name": "Goro",
+      "shareName": "goro",
+      "emoji": null,
+      "description": "Du er gjennomtenkt og nøye. Du liker orden, fine mønstre og at ting blir gjort skikkelig.",
+      "funFact": "Goro er en av de eldste kakesortene i Norge, og stekes i et firkantet jern med mønster.",
+      "image": "images/2026-12-03/goro.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøye",
+          "text": "Gjør alt skikkelig."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker rette kanter."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Holder fast på det gode."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Like god hvert år."
+        }
+      ]
+    },
+    {
+      "id": "berlinerkrans",
+      "name": "Berlinerkranser",
+      "shareName": "berlinerkranser",
+      "emoji": null,
+      "description": "Du er sjarmerende og litt fin på det. Du knytter folk sammen uten at de merker det.",
+      "funFact": "Berlinerkranser lages tradisjonelt med kokte eggeplommer i deigen, og formes som små knuter.",
+      "image": "images/2026-12-03/berlinerkrans.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Samlende",
+          "text": "Knytter folk sammen."
+        },
+        {
+          "title": "Fin",
+          "text": "Litt pyntet i kantene."
+        },
+        {
+          "title": "Myk",
+          "text": "God å være rundt."
+        }
+      ]
+    },
+    {
+      "id": "serinakake",
+      "name": "Serinakaker",
+      "shareName": "serinakaker",
+      "emoji": null,
+      "description": "Du er hyggelig og jordnær. Du er ikke den som roper høyest, men alle savner deg når du er borte.",
+      "funFact": "Serinakaker pyntes ofte med et mønster fra en gaffel, og drysses med hakkede mandler og perlesukker.",
+      "image": "images/2026-12-03/serinakake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter aldri av seg selv."
+        },
+        {
+          "title": "Savnet",
+          "text": "Merkes når du mangler."
+        }
+      ]
+    },
+    {
+      "id": "sirupssnipp",
+      "name": "Sirupssnipper",
+      "shareName": "sirupssnipper",
+      "emoji": null,
+      "description": "Du er varm, krydret og full av personlighet. Du har alltid noe spennende på lur.",
+      "funFact": "Sirupssnipper skjæres i ruter på samme måte som fattigmann, og pyntes gjerne med en halv mandel.",
+      "image": "images/2026-12-03/sirupssnipp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra i alt."
+        },
+        {
+          "title": "Varm",
+          "text": "Som en peiskveld."
+        },
+        {
+          "title": "Spennende",
+          "text": "Har alltid noe på lur."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Vet hvem du er."
+        }
+      ]
+    },
+    {
+      "id": "fattigmann",
+      "name": "Fattigmann",
+      "shareName": "fattigmann",
+      "emoji": null,
+      "description": "Du er raus og mye rikere enn du ser ut som. Du deler gjerne det du har med alle rundt deg.",
+      "funFact": "I Danmark heter fattigmann «klejne», og i Frankrike kalles lignende kaker «merveilles», som betyr vidundere.",
+      "image": "images/2026-12-03/fattigmann.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn det ser ut."
+        },
+        {
+          "title": "Vridd",
+          "text": "Har en morsom vri."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Kjent i mange land."
+        }
+      ]
+    },
+    {
+      "id": "hjortetakk",
+      "name": "Hjortetakk",
+      "shareName": "hjortetakk",
+      "emoji": null,
+      "description": "Du er robust og eventyrlysten. Du trives ute i skog og mark, og du tåler en kald vinterdag.",
+      "funFact": "Hjortetakk heves med hjortetakksalt, som har fått navnet sitt fordi det opprinnelig ble laget av hjortehorn.",
+      "image": "images/2026-12-03/hjortetakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler det meste."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives i skogen."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Har en egen hemmelighet."
+        },
+        {
+          "title": "Sprek",
+          "text": "Alltid klar for tur."
+        }
+      ]
+    },
+    {
+      "id": "kokosmakron",
+      "name": "Kokosmakroner",
+      "shareName": "kokosmakroner",
+      "emoji": null,
+      "description": "Du er myk, søt og litt tropisk. Du får selv den kaldeste desemberdagen til å føles som sommer.",
+      "funFact": "Kokosmakroner lages av revet kokos og eggehvite, og trenger ikke mel i det hele tatt.",
+      "image": "images/2026-12-03/kokosmakron.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tropisk",
+          "text": "Litt sommer i desember."
+        },
+        {
+          "title": "Myk",
+          "text": "Seig og snill."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Uventet",
+          "text": "Ikke helt som de andre."
+        }
+      ]
+    },
+    {
+      "id": "kransekake",
+      "name": "Kransekake",
+      "shareName": "kransekake",
+      "emoji": null,
+      "description": "Du er festlig og alltid midtpunktet når noe skal feires. Du står støtt, selv når du blir stablet høyt.",
+      "funFact": "Kransekaken kan spores tilbake til gamle pyntebrød på festbordet, og Hanna Winsnes beskrev den i kokebøkene sine på 1800-tallet.",
+      "image": "images/2026-12-03/kransekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Med på alle fester."
+        },
+        {
+          "title": "Høy",
+          "text": "Når helt til topps."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står støtt og rakt."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle vil ha en bit."
+        }
+      ]
+    },
+    {
+      "id": "peppernott",
+      "name": "Peppernøtter",
+      "shareName": "peppernøtter",
+      "emoji": null,
+      "description": "Du er liten, men full av futt. Du overrasker folk med mer krydder enn de forventet.",
+      "funFact": "Peppernøtter er små, runde kaker som ofte krydres med pepper, ingefær og nellik.",
+      "image": "images/2026-12-03/peppernott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Liten",
+          "text": "Men full av futt."
+        },
+        {
+          "title": "Krydret",
+          "text": "Overrasker alle."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i en stor haug."
+        },
+        {
+          "title": "Kjapp",
+          "text": "Forsvinner fort."
+        }
+      ]
+    },
+    {
+      "id": "mandelflarn",
+      "name": "Mandelflarn",
+      "shareName": "mandelflarn",
+      "emoji": null,
+      "description": "Du er lett, luftig og litt drømmende. Du ser kanskje skjør ut, men du sprer glede overalt.",
+      "funFact": "Flarn flyter ut i ovnen og blir til tynne, sprø kaker med hull som minner om blonder.",
+      "image": "images/2026-12-03/mandelflarn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lett",
+          "text": "Nesten svevende."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Hodet i skyene."
+        },
+        {
+          "title": "Fin",
+          "text": "Som blonder i vinduet."
+        },
+        {
+          "title": "Sprø",
+          "text": "Knaser av glede."
+        }
+      ]
+    }
+  ]
+}

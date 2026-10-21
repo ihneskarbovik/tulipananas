@@ -1,0 +1,716 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "title": "Hvilken landslagsspiller er du i dag?",
+  "intro": "Landslaget spiller i november, og vi lurer på hvem av gutta du ligner mest på i dag. Svar på sju litt rare spørsmål og finn ut hvilken landslagsspiller du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva er det beste med en vaffel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rutene",
+          "scores": {
+            "ryerson": 2,
+            "haaland": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den sprø kanten",
+          "scores": {
+            "ostigard": 2,
+            "nyland": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hjerteformen",
+          "scores": {
+            "ajer": 2,
+            "nusa": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "At den kan brettes",
+          "scores": {
+            "nusa": 2,
+            "berge": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lukten i hele huset",
+          "scores": {
+            "nyland": 2,
+            "bobb": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "At det alltid blir én til",
+          "scores": {
+            "odegaard": 2,
+            "strandlarsen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En and vil låne sykkelen din. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klart, men ta på hjelm",
+          "scores": {
+            "berg": 2,
+            "ostigard": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare hvis jeg får sitte på",
+          "scores": {
+            "nusa": 2,
+            "nyland": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den må være tilbake før middag",
+          "scores": {
+            "ostigard": 2,
+            "ryerson": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lærer den å sykle først",
+          "scores": {
+            "strandlarsen": 2,
+            "nusa": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den kan få den, jeg går gjerne",
+          "scores": {
+            "bobb": 2,
+            "aursnes": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvorfor ikke bare fly?",
+          "scores": {
+            "aursnes": 2,
+            "ajer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan åpner du en melkekartong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt etter boka",
+          "scores": {
+            "haaland": 2,
+            "ryerson": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med saks, for sikkerhets skyld",
+          "scores": {
+            "berge": 2,
+            "aursnes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fra feil side, hver gang",
+          "scores": {
+            "berg": 2,
+            "berge": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noen andre åpner den",
+          "scores": {
+            "ostigard": 2,
+            "aursnes": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg rister den først",
+          "scores": {
+            "odegaard": 2,
+            "ajer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rask og bestemt",
+          "scores": {
+            "aursnes": 2,
+            "berg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor mange glass vann drikker du før lunsj?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen",
+          "scores": {
+            "nusa": 2,
+            "aursnes": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ett",
+          "scores": {
+            "berg": 2,
+            "strandlarsen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tre",
+          "scores": {
+            "berge": 2,
+            "bobb": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fem",
+          "scores": {
+            "ajer": 2,
+            "odegaard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg mister tellingen",
+          "scores": {
+            "bobb": 2,
+            "odegaard": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får male huset ditt i én farge. Hvilken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gult",
+          "scores": {
+            "berge": 2,
+            "haaland": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lyseblått",
+          "scores": {
+            "haaland": 2,
+            "ostigard": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mørkegrønt",
+          "scores": {
+            "nyland": 2,
+            "berge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Knallrosa",
+          "scores": {
+            "odegaard": 2,
+            "berg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hvitt, det er klassisk",
+          "scores": {
+            "strandlarsen": 2,
+            "ajer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Oransje med striper",
+          "scores": {
+            "ryerson": 2,
+            "aursnes": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan tar du en selfie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fra høyt oppe",
+          "scores": {
+            "berg": 2,
+            "nusa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med hele gjengen",
+          "scores": {
+            "bobb": 2,
+            "strandlarsen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tar heller bilde av andre",
+          "scores": {
+            "aursnes": 2,
+            "nyland": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mange, til én blir perfekt",
+          "scores": {
+            "strandlarsen": 2,
+            "berg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en morsom grimase",
+          "scores": {
+            "berge": 2,
+            "nusa": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Én, og så er det bra",
+          "scores": {
+            "nusa": 2,
+            "bobb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva synes du om mandager?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En ny sjanse",
+          "scores": {
+            "nyland": 2,
+            "odegaard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt greie",
+          "scores": {
+            "bobb": 2,
+            "ryerson": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt for tidlig om morgenen",
+          "scores": {
+            "ryerson": 2,
+            "strandlarsen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den beste dagen",
+          "scores": {
+            "strandlarsen": 2,
+            "haaland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "De burde vært kortere",
+          "scores": {
+            "ajer": 2,
+            "ostigard": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg glemmer ofte at det er mandag",
+          "scores": {
+            "haaland": 2,
+            "strandlarsen": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "haaland",
+      "name": "Erling Braut Haaland",
+      "shareName": "Erling Braut Haaland",
+      "emoji": null,
+      "description": "Du er målbevisst og full av energi. Når du har bestemt deg for noe, er det ingen som stopper deg.",
+      "funFact": "Erling Braut Haaland er Norges mestscorende landslagsspiller gjennom tidene. Han ble født i Leeds i England, men vokste opp på Bryne.",
+      "image": "images/2026-11-17/haaland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målbevisst",
+          "text": "Vet nøyaktig hva han vil."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har alltid full fart."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt i motvind."
+        },
+        {
+          "title": "Glad",
+          "text": "Feirer med hele seg."
+        }
+      ]
+    },
+    {
+      "id": "odegaard",
+      "name": "Martin Ødegaard",
+      "shareName": "Martin Ødegaard",
+      "emoji": null,
+      "description": "Du er kreativ og ser løsninger andre ikke ser. Folk følger deg gjerne, fordi du alltid har en plan.",
+      "funFact": "Martin Ødegaard var bare 15 år da han debuterte på A-landslaget i 2014, og ble den yngste som noen gang har spilt for Norge.",
+      "image": "images/2026-11-17/odegaard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ser rom ingen andre ser."
+        },
+        {
+          "title": "Leder",
+          "text": "Går foran med godt eksempel."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Presis",
+          "text": "Treffer akkurat der han vil."
+        }
+      ]
+    },
+    {
+      "id": "nyland",
+      "name": "Ørjan Nyland",
+      "shareName": "Ørjan Nyland",
+      "emoji": null,
+      "description": "Du er trygg og pålitelig. Når det virkelig gjelder, er det deg alle stoler på.",
+      "funFact": "Ørjan Nyland er fra Volda, og som ung prøvde han både håndball, alpint og fotball før han valgte å bli keeper.",
+      "image": "images/2026-11-17/nyland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Holder alt under kontroll."
+        },
+        {
+          "title": "Modig",
+          "text": "Kaster seg uten å nøle."
+        },
+        {
+          "title": "Erfaren",
+          "text": "Har vært med lenge."
+        },
+        {
+          "title": "Rolig",
+          "text": "Blir aldri stresset."
+        }
+      ]
+    },
+    {
+      "id": "ryerson",
+      "name": "Julian Ryerson",
+      "shareName": "Julian Ryerson",
+      "emoji": null,
+      "description": "Du er utholdende og gir aldri opp. Du løper gjerne den ekstra runden for at andre skal lykkes.",
+      "funFact": "Julian Ryerson spilte for Lyngdal og Viking som ung, før han flyttet til Tyskland i 2018.",
+      "image": "images/2026-11-17/ryerson.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Har lunger som en hest."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Løper for de andre."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan spille nesten overalt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Gir alltid alt."
+        }
+      ]
+    },
+    {
+      "id": "ajer",
+      "name": "Kristoffer Ajer",
+      "shareName": "Kristoffer Ajer",
+      "emoji": null,
+      "description": "Du er elegant og har god oversikt. Du gjør vanskelige ting enkle, og har alltid tid.",
+      "funFact": "Kristoffer Ajer spilte flere sesonger for Celtic i Skottland og vant seriegull der.",
+      "image": "images/2026-11-17/ajer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Gjør det vanskelige enkelt."
+        },
+        {
+          "title": "Oversikt",
+          "text": "Ser hele banen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har alltid god tid."
+        },
+        {
+          "title": "Høy",
+          "text": "Når opp til alt."
+        }
+      ]
+    },
+    {
+      "id": "ostigard",
+      "name": "Leo Østigård",
+      "shareName": "Leo Østigård",
+      "emoji": null,
+      "description": "Du er tøff, modig og har et stort hjerte. Du stiller alltid opp for laget ditt.",
+      "funFact": "Leo Østigård er fra Molde, og han scoret i sin første Champions League-kamp for Napoli i 2022.",
+      "image": "images/2026-11-17/ostigard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Går først inn i duellen."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Tøff",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte for laget."
+        }
+      ]
+    },
+    {
+      "id": "berge",
+      "name": "Sander Berge",
+      "shareName": "Sander Berge",
+      "emoji": null,
+      "description": "Du er stødig og klok. Du sørger for at alt henger sammen, selv når det stormer rundt deg.",
+      "funFact": "Sander Berge kommer fra en basketballfamilie: både faren, den svenske moren og storebroren hans har spilt basketball på landslagsnivå.",
+      "image": "images/2026-11-17/berge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Et fjell i midten."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før han handler."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Får de andre bedre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker pulsen til alle."
+        }
+      ]
+    },
+    {
+      "id": "berg",
+      "name": "Patrick Berg",
+      "shareName": "Patrick Berg",
+      "emoji": null,
+      "description": "Du er arbeidsom og trofast. Du jobber i det stille, og alle merker når du er der.",
+      "funFact": "Patrick Berg er tredje generasjon på landslaget. Både faren Runar Berg og bestefaren Harald Berg har spilt for Norge.",
+      "image": "images/2026-11-17/berg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Jobber hele tiden."
+        },
+        {
+          "title": "Trofast",
+          "text": "Glad i hjemplassen sin."
+        },
+        {
+          "title": "Smart",
+          "text": "Leser spillet godt."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Lar andre skinne."
+        }
+      ]
+    },
+    {
+      "id": "aursnes",
+      "name": "Fredrik Aursnes",
+      "shareName": "Fredrik Aursnes",
+      "emoji": null,
+      "description": "Du er allsidig og løser alle oppgaver du får. Du sier ikke så mye, men gjør alltid jobben.",
+      "funFact": "Fredrik Aursnes er fra Hareid, og ble som 16-åring den yngste som noen gang har vunnet norgesmesterskapet i fotball for menn, med Hødd i 2012.",
+      "image": "images/2026-11-17/aursnes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Kan alt som trengs."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Lar beina snakke."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Gjør alltid jobben."
+        },
+        {
+          "title": "Smart",
+          "text": "Er alltid riktig plassert."
+        }
+      ]
+    },
+    {
+      "id": "nusa",
+      "name": "Antonio Nusa",
+      "shareName": "Antonio Nusa",
+      "emoji": null,
+      "description": "Du er rask, leken og full av overraskelser. Ingen vet helt hva du finner på, og det er det som er så gøy.",
+      "funFact": "Antonio Nusa scoret i sin aller første landskamp for Norge, mot Jordan i 2023.",
+      "image": "images/2026-11-17/nusa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Lynrask med ballen."
+        },
+        {
+          "title": "Leken",
+          "text": "Har det gøy hele tiden."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve noe nytt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Ingen vet hva som kommer."
+        }
+      ]
+    },
+    {
+      "id": "bobb",
+      "name": "Oscar Bobb",
+      "shareName": "Oscar Bobb",
+      "emoji": null,
+      "description": "Du er teknisk og kreativ, og ser muligheter i trange rom. Du gjør det vanskelige til kunst.",
+      "funFact": "Oscar Bobb er fra Oslo, spilte for Lyn og Vålerenga som ung, og kom til Manchester City i 2019.",
+      "image": "images/2026-11-17/bobb.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Teknisk",
+          "text": "Ballen er hans venn."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner nye veier."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser aldri med ballen."
+        },
+        {
+          "title": "Ung",
+          "text": "Har mye mer å vise."
+        }
+      ]
+    },
+    {
+      "id": "strandlarsen",
+      "name": "Jørgen Strand Larsen",
+      "shareName": "Jørgen Strand Larsen",
+      "emoji": null,
+      "description": "Du er sosial og flink til å samarbeide. Du får alle rundt deg til å spille bedre.",
+      "funFact": "Jørgen Strand Larsen er fra Halden. Da han spilte for Celta Vigo i Spania, kalte fansen ham «Xurxo», som er den galisiske formen av navnet Jørgen.",
+      "image": "images/2026-11-17/strandlarsen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Får med seg alle."
+        },
+        {
+          "title": "Samarbeid",
+          "text": "Spiller andre gode."
+        },
+        {
+          "title": "Sterk",
+          "text": "Vinner mange hodedueller."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Har prøvd mange idretter."
+        }
+      ]
+    }
+  ]
+}

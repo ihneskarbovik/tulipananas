@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-04",
+  "date": "2026-12-04",
+  "title": "Hvilken Jesus er du i dag?",
+  "intro": "Advent er en tid for å vente på jul og tenke på fortellingene om Jesus. Svar på sju litt rare spørsmål og finn ut hvilken Jesus-fortelling som passer deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "En hare spør om å få bli med deg på jobb. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, hvis den tar med matpakke",
+          "scores": {
+            "snekker": 2,
+            "vin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Selvsagt, den kan sitte på fanget mitt",
+          "scores": {
+            "esel": 2,
+            "brod": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare hvis den kan svare i telefonen",
+          "scores": {
+            "brod": 2,
+            "barna": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vi bytter plass for en dag",
+          "scores": {
+            "vin": 2,
+            "oppstanden": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den får være sjef",
+          "scores": {
+            "tempel": 2,
+            "hyrde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nei, men vi tar en kopp te etterpå",
+          "scores": {
+            "vann": 2,
+            "tempel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om dørmatter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De fortjener mer takk",
+          "scores": {
+            "vin": 2,
+            "hyrde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg tørker alltid føttene tre ganger",
+          "scores": {
+            "barna": 2,
+            "tempel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg hopper over dem",
+          "scores": {
+            "oppstanden": 2,
+            "vin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "De burde si «velkommen» høyt",
+          "scores": {
+            "snekker": 2,
+            "babyjesus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg har aldri tenkt på dem før nå",
+          "scores": {
+            "tempel": 2,
+            "hyrde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil ha en med blomster på",
+          "scores": {
+            "hyrde": 2,
+            "vin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan skreller du en mandarin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I én lang spiral",
+          "scores": {
+            "brod": 2,
+            "vin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med tommelen, rett på",
+          "scores": {
+            "vin": 2,
+            "barna": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg får noen andre til å gjøre det",
+          "scores": {
+            "barna": 2,
+            "storm": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lager en blomst av skallet",
+          "scores": {
+            "snekker": 2,
+            "tempel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sakte, jeg nyter det",
+          "scores": {
+            "esel": 2,
+            "korset": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fort, før noen ser meg",
+          "scores": {
+            "vann": 2,
+            "brod": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får plante ett tre hvor som helst. Hvor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Midt på torget",
+          "scores": {
+            "tempel": 2,
+            "korset": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Utenfor vinduet mitt",
+          "scores": {
+            "snekker": 2,
+            "hyrde": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På toppen av et fjell",
+          "scores": {
+            "vin": 2,
+            "korset": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en gammel hage",
+          "scores": {
+            "vann": 2,
+            "babyjesus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved en skole",
+          "scores": {
+            "hyrde": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I en øde rundkjøring",
+          "scores": {
+            "oppstanden": 2,
+            "storm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange luer har du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, jeg fryser med stil",
+          "scores": {
+            "korset": 2,
+            "snekker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én, og den er perfekt",
+          "scores": {
+            "storm": 2,
+            "korset": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tre",
+          "scores": {
+            "esel": 2,
+            "hyrde": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Én for hver dag i uka",
+          "scores": {
+            "oppstanden": 2,
+            "barna": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Altfor mange",
+          "scores": {
+            "babyjesus": 2,
+            "hyrde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg låner alltid andres",
+          "scores": {
+            "brod": 2,
+            "vann": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når noen er lei seg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir en lang klem",
+          "scores": {
+            "storm": 2,
+            "tempel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager noe godt å spise",
+          "scores": {
+            "esel": 2,
+            "korset": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller en dårlig vits",
+          "scores": {
+            "vann": 2,
+            "brod": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sitter stille ved siden av",
+          "scores": {
+            "oppstanden": 2,
+            "barna": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lytter og spør",
+          "scores": {
+            "tempel": 2,
+            "babyjesus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar dem med ut på tur",
+          "scores": {
+            "hyrde": 2,
+            "oppstanden": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket tall er det fineste å telle til?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tre",
+          "scores": {
+            "vann": 2,
+            "korset": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sju",
+          "scores": {
+            "brod": 2,
+            "snekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ti",
+          "scores": {
+            "barna": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tjue",
+          "scores": {
+            "oppstanden": 2,
+            "barna": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hundre",
+          "scores": {
+            "babyjesus": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Uendelig",
+          "scores": {
+            "esel": 2,
+            "storm": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "babyjesus",
+      "name": "Baby-Jesus i krybben",
+      "shareName": "baby-Jesus i krybben",
+      "emoji": null,
+      "description": "Du er rolig og varm, og folk samler seg rundt deg uten at du sier et ord. Der du er, blir det fred.",
+      "funFact": "Ifølge Lukasevangeliet ble Jesus lagt i en krybbe fordi det ikke var plass til dem i herberget (Luk 2,7).",
+      "image": "images/2026-12-04/babyjesus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle vil være nær."
+        },
+        {
+          "title": "Varm",
+          "text": "Som et lunt teppe."
+        },
+        {
+          "title": "Ny",
+          "text": "Full av håp."
+        }
+      ]
+    },
+    {
+      "id": "esel",
+      "name": "Jesus på eselet",
+      "shareName": "Jesus på eselet",
+      "emoji": null,
+      "description": "Du er ydmyk og glad, og du trenger ikke stå i sentrum for å skape fest. Folk jubler når du kommer.",
+      "funFact": "Palmesøndag minnes at Jesus red inn i Jerusalem på et esel, og Johannesevangeliet forteller at folk tok med palmegrener (Joh 12,13).",
+      "image": "images/2026-12-04/esel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ydmyk",
+          "text": "Trenger ingen stor entré."
+        },
+        {
+          "title": "Festlig",
+          "text": "Skaper glede rundt seg."
+        },
+        {
+          "title": "Modig",
+          "text": "Rir rett inn."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Alle føler seg velkomne."
+        }
+      ]
+    },
+    {
+      "id": "snekker",
+      "name": "Snekker-Jesus",
+      "shareName": "snekker-Jesus",
+      "emoji": null,
+      "description": "Du er praktisk og tålmodig, og du liker å skape noe med hendene. Du bygger ting som varer.",
+      "funFact": "I Markusevangeliet blir Jesus kalt «snekkeren» (Mark 6,3). Det greske ordet tekton kan bety både snekker og byggmester.",
+      "image": "images/2026-12-04/snekker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Fikser det som er ødelagt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Måler to ganger."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Ser muligheter i alt."
+        },
+        {
+          "title": "Stødig",
+          "text": "Bygger ting som varer."
+        }
+      ]
+    },
+    {
+      "id": "korset",
+      "name": "Jesus på korset",
+      "shareName": "Jesus på korset",
+      "emoji": null,
+      "description": "Du er kjærlig og trofast, og du gir alt for de du er glad i. Du minner andre om at håpet alltid finnes.",
+      "funFact": "Korset er i dag det mest kjente symbolet for kristendommen over hele verden.",
+      "image": "images/2026-12-04/korset.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Gir alt for andre."
+        },
+        {
+          "title": "Trofast",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Håpefull",
+          "text": "Ser lys i mørket."
+        },
+        {
+          "title": "Sterk",
+          "text": "Stille og dyp styrke."
+        }
+      ]
+    },
+    {
+      "id": "vann",
+      "name": "Jesus som går på vannet",
+      "shareName": "Jesus som går på vannet",
+      "emoji": null,
+      "description": "Du er modig og tror på det umulige. Du får andre til å tørre å ta det første skrittet.",
+      "funFact": "Fortellingen om at Jesus går på vannet står hos Matteus, Markus og Johannes. Hos Matteus prøver Peter også (Matt 14,29).",
+      "image": "images/2026-12-04/vann.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tar det første skrittet."
+        },
+        {
+          "title": "Trygg",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Får andre til å tørre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke vippe."
+        }
+      ]
+    },
+    {
+      "id": "brod",
+      "name": "Jesus som metter fem tusen",
+      "shareName": "Jesus som metter fem tusen",
+      "emoji": null,
+      "description": "Du er raus og sørger for at alle får nok. Med deg blir det alltid plass til én til ved bordet.",
+      "funFact": "Bespisningen av de fem tusen er det eneste underet utenom oppstandelsen som står i alle de fire evangeliene.",
+      "image": "images/2026-12-04/brod.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler alltid det du har."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Ingen går sulten hjem."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Får lite til å holde."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker store fellesskap."
+        }
+      ]
+    },
+    {
+      "id": "vin",
+      "name": "Jesus i bryllupet i Kana",
+      "shareName": "Jesus i bryllupet i Kana",
+      "emoji": null,
+      "description": "Du er festglad og ser når noe mangler. Du redder dagen uten å lage noe nummer av det.",
+      "funFact": "Ifølge Johannesevangeliet var bryllupet i Kana stedet der Jesus gjorde sitt første tegn (Joh 2,11).",
+      "image": "images/2026-12-04/vin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festglad",
+          "text": "Elsker et godt selskap."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Ser hva som mangler."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Hjelper uten å skryte."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Redder dagen stille."
+        }
+      ]
+    },
+    {
+      "id": "storm",
+      "name": "Jesus som stiller stormen",
+      "shareName": "Jesus som stiller stormen",
+      "emoji": null,
+      "description": "Du er rolig når alt rundt deg er kaos. Folk blir trygge bare av å være i nærheten av deg.",
+      "funFact": "Fortellingen om stormen står hos Matteus, Markus og Lukas, og Markus forteller at Jesus sov i båten da stormen kom (Mark 4,38).",
+      "image": "images/2026-12-04/storm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker pulsen til alle."
+        },
+        {
+          "title": "Trygg",
+          "text": "En klippe i kaos."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Kan sove hvor som helst."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet hva som trengs."
+        }
+      ]
+    },
+    {
+      "id": "hyrde",
+      "name": "Den gode hyrde",
+      "shareName": "den gode hyrde",
+      "emoji": null,
+      "description": "Du passer på flokken din og legger merke til den som mangler. Ingen blir glemt når du er der.",
+      "funFact": "«Jeg er den gode gjeteren» står i Johannesevangeliet 10,11. I eldre bibeloversettelser heter det «den gode hyrde».",
+      "image": "images/2026-12-04/hyrde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på hele flokken."
+        },
+        {
+          "title": "Trofast",
+          "text": "Leter til alle er funnet."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Ser den som mangler."
+        },
+        {
+          "title": "Trygg",
+          "text": "Folk følger deg gjerne."
+        }
+      ]
+    },
+    {
+      "id": "tempel",
+      "name": "12 år gamle Jesus i tempelet",
+      "shareName": "12 år gamle Jesus i tempelet",
+      "emoji": null,
+      "description": "Du er nysgjerrig og stiller spørsmål ingen andre tenker på. Du kan bli helt borte i det som interesserer deg.",
+      "funFact": "Lukasevangeliet forteller at Jesus som tolvåring ble igjen i tempelet i Jerusalem, og at foreldrene lette i tre dager før de fant ham (Luk 2,41–46).",
+      "image": "images/2026-12-04/tempel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør om alt mulig."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Glemmer helt tiden."
+        },
+        {
+          "title": "Modig",
+          "text": "Snakker med alle."
+        }
+      ]
+    },
+    {
+      "id": "barna",
+      "name": "Jesus som velsigner barna",
+      "shareName": "Jesus som velsigner barna",
+      "emoji": null,
+      "description": "Du er leken og varm, og du tar alle på alvor uansett hvor små de er. Barn og dyr elsker deg.",
+      "funFact": "«La de små barna komme til meg» står i Markusevangeliet 10,14, og teksten leses ofte når barn blir døpt.",
+      "image": "images/2026-12-04/barna.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Har alltid tid til lek."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar alle på alvor."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Ingen er for små."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler med hele ansiktet."
+        }
+      ]
+    },
+    {
+      "id": "oppstanden",
+      "name": "Påskemorgen-Jesus",
+      "shareName": "påskemorgen-Jesus",
+      "emoji": null,
+      "description": "Du er full av håp og nye begynnelser. Når du kommer, blir det lyst og alle får lyst til å synge.",
+      "funFact": "Første påskedag faller alltid på en søndag mellom 22. mars og 25. april.",
+      "image": "images/2026-12-04/oppstanden.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Håpefull",
+          "text": "Starter alltid på nytt."
+        },
+        {
+          "title": "Lys",
+          "text": "Gjør dagen lysere."
+        },
+        {
+          "title": "Glad",
+          "text": "Full av overraskelser."
+        },
+        {
+          "title": "Ny",
+          "text": "Hver morgen er ny."
+        }
+      ]
+    }
+  ]
+}

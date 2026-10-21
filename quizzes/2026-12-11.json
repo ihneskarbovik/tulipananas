@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-11",
+  "date": "2026-12-11",
+  "title": "Hvilken julesang er du i dag?",
+  "intro": "Det er desember, og julesangene er overalt! Er du en stille klassiker, en sprudlende sing-along eller en hit som aldri går over? Svar på sju rare spørsmål og finn ut hvilken julesang du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket verktøy ville vært den beste kokken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hammeren",
+          "scores": {
+            "musevisa": 2,
+            "lastchristmas": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skrutrekkeren",
+          "scores": {
+            "gladejul": 2,
+            "tusenlys": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Målebåndet",
+          "scores": {
+            "rudolf": 2,
+            "etbarn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tanga",
+          "scores": {
+            "jinglebells": 2,
+            "grender": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Saga",
+          "scores": {
+            "alliwant": 2,
+            "grender": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vateret",
+          "scores": {
+            "grender": 2,
+            "jinglebells": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva synes du om sirkler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perfekte, ingen kanter å slå seg på",
+          "scores": {
+            "gladejul": 2,
+            "musevisa": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt kjedelige",
+          "scores": {
+            "etbarn": 2,
+            "lastchristmas": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tegner dem alltid litt skjeve",
+          "scores": {
+            "sajulekveld": 2,
+            "tusenlys": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "De burde vært firkantede",
+          "scores": {
+            "rudolf": 2,
+            "alliwant": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg går rundt i dem hele dagen",
+          "scores": {
+            "tusenlys": 2,
+            "grender": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har aldri tenkt på det",
+          "scores": {
+            "deilig": 2,
+            "rudolf": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan pusser du tennene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grundig, i to hele minutter",
+          "scores": {
+            "etbarn": 2,
+            "grender": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mens jeg danser",
+          "scores": {
+            "gladejul": 2,
+            "etbarn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Raskt, jeg har dårlig tid",
+          "scores": {
+            "grender": 2,
+            "ojul": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mens jeg leser noe",
+          "scores": {
+            "musevisa": 2,
+            "lastchristmas": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med den andre hånden, for å trene",
+          "scores": {
+            "alliwant": 2,
+            "etbarn": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mens jeg ser ut av vinduet",
+          "scores": {
+            "sajulekveld": 2,
+            "lastchristmas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal gi en gave til månen. Hva gir du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et teppe",
+          "scores": {
+            "rudolf": 2,
+            "ojul": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En termos med kakao",
+          "scores": {
+            "musevisa": 2,
+            "ojul": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et vennskapsarmbånd",
+          "scores": {
+            "alliwant": 2,
+            "jinglebells": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En ballong",
+          "scores": {
+            "gladejul": 2,
+            "lastchristmas": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et brettspill",
+          "scores": {
+            "sajulekveld": 2,
+            "musevisa": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En pute",
+          "scores": {
+            "lastchristmas": 2,
+            "sajulekveld": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor mange bilder tar du på en tur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingen, jeg husker heller",
+          "scores": {
+            "jinglebells": 2,
+            "rudolf": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ett, det beste",
+          "scores": {
+            "rudolf": 2,
+            "lastchristmas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rundt ti",
+          "scores": {
+            "tusenlys": 2,
+            "musevisa": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Over hundre",
+          "scores": {
+            "sajulekveld": 2,
+            "etbarn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare av maten",
+          "scores": {
+            "grender": 2,
+            "alliwant": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare av hunder jeg møter",
+          "scores": {
+            "deilig": 2,
+            "gladejul": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når det begynner å snø?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper ut med en gang",
+          "scores": {
+            "tusenlys": 2,
+            "ojul": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser på fra vinduet",
+          "scores": {
+            "deilig": 2,
+            "ojul": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rekker ut tunga",
+          "scores": {
+            "ojul": 2,
+            "etbarn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leter frem skiene",
+          "scores": {
+            "jinglebells": 2,
+            "ojul": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klager litt, men smiler",
+          "scores": {
+            "rudolf": 2,
+            "jinglebells": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en engel i snøen",
+          "scores": {
+            "alliwant": 2,
+            "tusenlys": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken del av en fisk er finest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Halen",
+          "scores": {
+            "jinglebells": 2,
+            "gladejul": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finnene",
+          "scores": {
+            "alliwant": 2,
+            "deilig": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skjellene, de glitrer",
+          "scores": {
+            "tusenlys": 2,
+            "grender": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Øynene",
+          "scores": {
+            "deilig": 2,
+            "ojul": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hele fisken, den er fin som den er",
+          "scores": {
+            "lastchristmas": 2,
+            "sajulekveld": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Boblene den lager",
+          "scores": {
+            "ojul": 2,
+            "alliwant": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "deilig",
+      "name": "Deilig er jorden",
+      "shareName": "«Deilig er jorden»",
+      "emoji": null,
+      "description": "Du er stor, rolig og høytidelig. Folk blir stille og glade når du dukker opp.",
+      "funFact": "Teksten ble skrevet av danske B. S. Ingemann og trykket første gang i 1850. Melodien er en gammel folketone, og ingen vet sikkert hvor den kommer fra.",
+      "image": "images/2026-12-11/deilig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høytidelig",
+          "text": "Får frem det fineste."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting i ro."
+        },
+        {
+          "title": "Tidløs",
+          "text": "Har vart i generasjoner."
+        },
+        {
+          "title": "Stor",
+          "text": "Fyller hele rommet."
+        }
+      ]
+    },
+    {
+      "id": "gladejul",
+      "name": "Glade jul",
+      "shareName": "«Glade jul»",
+      "emoji": null,
+      "description": "Du er mild, stille og full av varme. Du får selv de travleste til å senke skuldrene.",
+      "funFact": "Den opprinnelige østerrikske sangen ble fremført første gang på julaften i 1818, med tekst av Joseph Mohr og melodi av Franz Gruber.",
+      "image": "images/2026-12-11/gladejul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Snakker alltid lavt."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir de beste klemmene."
+        },
+        {
+          "title": "Kjent",
+          "text": "Alle kjenner deg."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Roer ned alle rundt."
+        }
+      ]
+    },
+    {
+      "id": "sajulekveld",
+      "name": "Jeg er så glad hver julekveld",
+      "shareName": "«Jeg er så glad hver julekveld»",
+      "emoji": null,
+      "description": "Du er takknemlig og blir glad av små ting. Gleden din smitter over på alle rundt deg.",
+      "funFact": "Teksten er skrevet av Marie Wexelsen og ble trykket første gang i 1860. Melodien er laget av Peder Knudsen.",
+      "image": "images/2026-12-11/sajulekveld.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smiler lett og ofte."
+        },
+        {
+          "title": "Takknemlig",
+          "text": "Setter pris på småting."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye."
+        },
+        {
+          "title": "Smittende",
+          "text": "Gjør andre glade."
+        }
+      ]
+    },
+    {
+      "id": "etbarn",
+      "name": "Et barn er født i Betlehem",
+      "shareName": "«Et barn er født i Betlehem»",
+      "emoji": null,
+      "description": "Du er gammel i sjelen og har mye klokskap. Du forteller gjerne den samme fine historien igjen og igjen.",
+      "funFact": "Sangen bygger på en latinsk middelaldersang, «Puer natus in Bethlehem», som er flere hundre år gammel.",
+      "image": "images/2026-12-11/etbarn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Har sett mye før."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer tilbake hvert år."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Elsker en god historie."
+        }
+      ]
+    },
+    {
+      "id": "tusenlys",
+      "name": "Nå tennes tusen julelys",
+      "shareName": "«Nå tennes tusen julelys»",
+      "emoji": null,
+      "description": "Du er lys, varm og optimistisk. Der du er, blir det litt lysere for alle.",
+      "funFact": "Sangen er svensk og ble skrevet i 1898 av Emmy Köhler, som laget både tekst og melodi.",
+      "image": "images/2026-12-11/tusenlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Optimistisk",
+          "text": "Ser det beste i alt."
+        },
+        {
+          "title": "Lys",
+          "text": "Gjør dagen bedre."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Varm",
+          "text": "Som en god peis."
+        }
+      ]
+    },
+    {
+      "id": "musevisa",
+      "name": "Musevisa",
+      "shareName": "«Musevisa»",
+      "emoji": null,
+      "description": "Du er leken, rask og full av fart. Du har alltid en plan, og den involverer ofte noe å spise.",
+      "funFact": "Alf Prøysen skrev teksten i 1946 på oppdrag fra NRK. Han var redd en glad sang om mus ville være upassende, men den ble en klassiker med en gang.",
+      "image": "images/2026-12-11/musevisa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Rask",
+          "text": "Kjapp i beina."
+        },
+        {
+          "title": "Lur",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker store familier."
+        }
+      ]
+    },
+    {
+      "id": "ojul",
+      "name": "O jul med din glede",
+      "shareName": "«O jul med din glede»",
+      "emoji": null,
+      "description": "Du er energisk og elsker å samle folk. Du er den som drar alle med ut på gulvet.",
+      "funFact": "Teksten ble skrevet av Gustava Kielland på 1800-tallet, og sangen er en av de mest brukte når man går rundt juletreet.",
+      "image": "images/2026-12-11/ojul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Kan ikke sitte stille."
+        },
+        {
+          "title": "Samlende",
+          "text": "Tar alle i hånden."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler hele veien."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Ingen står utenfor."
+        }
+      ]
+    },
+    {
+      "id": "grender",
+      "name": "Det lyser i stille grender",
+      "shareName": "«Det lyser i stille grender»",
+      "emoji": null,
+      "description": "Du er drømmende og trives best der det er stille. Du ser skjønnhet i det enkle.",
+      "funFact": "Teksten er skrevet av Jakob Sande, og melodien er laget av Lars Søraas den yngre.",
+      "image": "images/2026-12-11/grender.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene på vandring."
+        },
+        {
+          "title": "Stille",
+          "text": "Liker rolige kvelder."
+        },
+        {
+          "title": "Poetisk",
+          "text": "Ser skjønnhet overalt."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best hjemme i grenda."
+        }
+      ]
+    },
+    {
+      "id": "jinglebells",
+      "name": "Jingle Bells",
+      "shareName": "«Jingle Bells»",
+      "emoji": null,
+      "description": "Du er sprudlende og full av fart. Du får alle til å klappe og synge med.",
+      "funFact": "Sangen ble skrevet av James Lord Pierpont og utgitt i 1857. I 1965 ble den spilt i verdensrommet av astronautene på Gemini 6.",
+      "image": "images/2026-12-11/jinglebells.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Alltid i godt humør."
+        },
+        {
+          "title": "Rask",
+          "text": "Elsker høy fart."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Klinger hele veien."
+        },
+        {
+          "title": "Smittende",
+          "text": "Alle vil synge med."
+        }
+      ]
+    },
+    {
+      "id": "lastchristmas",
+      "name": "Last Christmas",
+      "shareName": "«Last Christmas»",
+      "emoji": null,
+      "description": "Du er følsom og romantisk. Du husker alt, og du har alltid en melodi på hjernen.",
+      "funFact": "Sangen ble gitt ut av Wham! i 1984, men kom ikke på førsteplass på den britiske hitlisten før i januar 2021.",
+      "image": "images/2026-12-11/lastchristmas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner ting dypt."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker en god historie."
+        },
+        {
+          "title": "Iørefallende",
+          "text": "Umulig å glemme."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på sin tur."
+        }
+      ]
+    },
+    {
+      "id": "alliwant",
+      "name": "All I Want for Christmas Is You",
+      "shareName": "«All I Want for Christmas Is You»",
+      "emoji": null,
+      "description": "Du er stor, glamorøs og full av energi. Når du kommer, vet alle at julen har begynt.",
+      "funFact": "Sangen kom ut i 1994, men nådde ikke førsteplass på den amerikanske hitlisten før i desember 2019, 25 år senere.",
+      "image": "images/2026-12-11/alliwant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glamorøs",
+          "text": "Elsker litt glitter."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart fra start."
+        },
+        {
+          "title": "Varig",
+          "text": "Kommer tilbake hvert år."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        }
+      ]
+    },
+    {
+      "id": "rudolf",
+      "name": "Rudolf er rød på nesen",
+      "shareName": "«Rudolf er rød på nesen»",
+      "emoji": null,
+      "description": "Du er unik og står ut i mengden. Det som gjør deg annerledes, er akkurat det som gjør deg fantastisk.",
+      "funFact": "Rudolf ble skapt i 1939 av Robert L. May til et hefte for en amerikansk varehuskjede. Sangen kom ti år senere, i 1949.",
+      "image": "images/2026-12-11/rudolf.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Modig",
+          "text": "Viser vei for andre."
+        },
+        {
+          "title": "Snill",
+          "text": "Tilgir lett."
+        },
+        {
+          "title": "Lysende",
+          "text": "Synes langt unna."
+        }
+      ]
+    }
+  ]
+}
