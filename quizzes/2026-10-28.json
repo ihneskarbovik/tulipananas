@@ -1,0 +1,724 @@
+{
+  "id": "2026-10-28",
+  "date": "2026-10-28",
+  "title": "Hvilken tid på døgnet er du i dag?",
+  "intro": "Er du en rolig grålysning, en koselig kveld eller en dramatisk midnatt? Svar på sju litt rare spørsmål og finn ut hvilken tid på døgnet du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket tall er mest koselig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tre",
+          "scores": {
+            "lunsj": 2,
+            "middag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sju",
+          "scores": {
+            "ettermiddag": 2,
+            "morgen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Elleve",
+          "scores": {
+            "soloppgang": 2,
+            "leggetid": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Førtito",
+          "scores": {
+            "morgen": 2,
+            "skumring": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hundre",
+          "scores": {
+            "gry": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Null",
+          "scores": {
+            "formiddag": 2,
+            "leggetid": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Et esel inviterer deg i bursdag. Hva gir du det i gave?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hatt med hull til ørene",
+          "scores": {
+            "midnatt": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En bok med dikt",
+          "scores": {
+            "kveld": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En trampoline",
+          "scores": {
+            "natt": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et kort du har tegnet selv",
+          "scores": {
+            "leggetid": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, men du holder en lang tale",
+          "scores": {
+            "middag": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor pose med knekkebrød",
+          "scores": {
+            "skumring": 2,
+            "leggetid": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan pakker du en sekk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alt i én stor klump",
+          "scores": {
+            "ettermiddag": 2,
+            "leggetid": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager liste først",
+          "scores": {
+            "formiddag": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare noe å spise, resten ordner seg",
+          "scores": {
+            "gry": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rullet sammen, som en proff",
+          "scores": {
+            "lunsj": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med ting jeg aldri bruker",
+          "scores": {
+            "morgen": 2,
+            "middag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg låner noen andres ferdigpakkede sekk",
+          "scores": {
+            "soloppgang": 2,
+            "skumring": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva synes du om dørklokker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De burde spille hele sanger",
+          "scores": {
+            "middag": 2,
+            "leggetid": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt skumle",
+          "scores": {
+            "midnatt": 2,
+            "middag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg banker heller på",
+          "scores": {
+            "natt": 2,
+            "ettermiddag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Elsker dem, jeg ringer alltid to ganger",
+          "scores": {
+            "kveld": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lurer alltid på hvem som står der",
+          "scores": {
+            "leggetid": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "De burde ha flere knapper",
+          "scores": {
+            "skumring": 2,
+            "middag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du skal male en stein. Hvordan blir den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prikkete",
+          "scores": {
+            "soloppgang": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den blir en marihøne",
+          "scores": {
+            "ettermiddag": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Helt glitrende",
+          "scores": {
+            "formiddag": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med ansikt og bart",
+          "scores": {
+            "gry": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stripete i mange farger",
+          "scores": {
+            "lunsj": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grå, den er fin som den er",
+          "scores": {
+            "morgen": 2,
+            "skumring": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor sitter du helst på bussen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt bakerst",
+          "scores": {
+            "skumring": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rett bak sjåføren",
+          "scores": {
+            "leggetid": 2,
+            "skumring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved vinduet",
+          "scores": {
+            "natt": 2,
+            "middag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg står, det er mer spennende",
+          "scores": {
+            "midnatt": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved siden av noen som ser hyggelige ut",
+          "scores": {
+            "kveld": 2,
+            "leggetid": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Der det er mest plass til beina",
+          "scores": {
+            "middag": 2,
+            "skumring": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor mange bokstaver skal et perfekt navn ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bare én",
+          "scores": {
+            "morgen": 2,
+            "middag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "To",
+          "scores": {
+            "formiddag": 2,
+            "natt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fire",
+          "scores": {
+            "soloppgang": 2,
+            "midnatt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Seks",
+          "scores": {
+            "ettermiddag": 2,
+            "kveld": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ni",
+          "scores": {
+            "gry": 2,
+            "leggetid": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så mange som mulig",
+          "scores": {
+            "lunsj": 2,
+            "skumring": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "gry",
+      "name": "Grålysning",
+      "shareName": "grålysning",
+      "emoji": null,
+      "description": "Du er stille, rolig og litt mystisk. Du ser ting før alle andre har fått øynene opp.",
+      "funFact": "Om våren synger mange småfugler aller mest i grålysningen, og det kalles ofte morgenkoret.",
+      "image": "images/2026-10-28/gry.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Trenger ikke mye støy."
+        },
+        {
+          "title": "Tidlig",
+          "text": "Alltid et skritt foran."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt tåkete i kantene."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører det andre overser."
+        }
+      ]
+    },
+    {
+      "id": "soloppgang",
+      "name": "Soloppgang",
+      "shareName": "soloppgang",
+      "emoji": null,
+      "description": "Du er håpefull og full av nye begynnelser. Når du kommer, blir alle litt mer optimistiske.",
+      "funFact": "I Tromsø står ikke sola opp i det hele tatt fra slutten av november til midten av januar. Det kalles mørketid.",
+      "image": "images/2026-10-28/soloppgang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Håpefull",
+          "text": "Tror alltid på i dag."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør rommet gyllent."
+        },
+        {
+          "title": "Modig",
+          "text": "Starter når andre nøler."
+        },
+        {
+          "title": "Vakker",
+          "text": "Folk stopper opp for deg."
+        }
+      ]
+    },
+    {
+      "id": "morgen",
+      "name": "Morgen",
+      "shareName": "morgen",
+      "emoji": null,
+      "description": "Du er frisk, effektiv og klar for alt. Du har lagt en plan før de andre har funnet sokkene sine.",
+      "funFact": "Ordtaket «morgenstund har gull i munn» har røtter i et gammelt latinsk ordtak om at morgengryet har gull i munnen.",
+      "image": "images/2026-10-28/morgen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort tidlig."
+        },
+        {
+          "title": "Frisk",
+          "text": "Som kaldt vann i ansiktet."
+        },
+        {
+          "title": "Planlagt",
+          "text": "Har alltid en liste."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Kommer hver eneste dag."
+        }
+      ]
+    },
+    {
+      "id": "formiddag",
+      "name": "Formiddag",
+      "shareName": "formiddag",
+      "emoji": null,
+      "description": "Du er stødig og i godt driv. Du er midt i noe spennende og har ikke tenkt å stoppe ennå.",
+      "funFact": "Ordet «formiddag» betyr rett og slett tiden før middag. Før i tiden spiste mange nordmenn middag midt på dagen.",
+      "image": "images/2026-10-28/formiddag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder jevnt tempo hele veien."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite hva som skjer."
+        },
+        {
+          "title": "Flittig",
+          "text": "Liker å være i gang."
+        },
+        {
+          "title": "Lys",
+          "text": "Har godt overblikk."
+        }
+      ]
+    },
+    {
+      "id": "lunsj",
+      "name": "Lunsjtid",
+      "shareName": "lunsjtid",
+      "emoji": null,
+      "description": "Du er sosial og alltid klar for en pause. Du vet at de beste samtalene skjer over en matpakke.",
+      "funFact": "Oslofrokosten, med grovbrød, melk og frukt, ble servert til skolebarn i Oslo fra 1932.",
+      "image": "images/2026-10-28/lunsj.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk rundt bordet."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar pausene på alvor."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne maten sin."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid en historie."
+        }
+      ]
+    },
+    {
+      "id": "ettermiddag",
+      "name": "Ettermiddag",
+      "shareName": "ettermiddag",
+      "emoji": null,
+      "description": "Du er lun og litt drømmende. Du kan nyte et øyeblikk uten å ha noe som helst på planen.",
+      "funFact": "Den britiske tradisjonen med ettermiddagste skal ha begynt med hertuginnen av Bedford på 1840-tallet, fordi hun ble sulten lenge før middag.",
+      "image": "images/2026-10-28/ettermiddag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Som et varmt teppe."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr litt rundt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid, alltid."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Inviterer gjerne på te."
+        }
+      ]
+    },
+    {
+      "id": "middag",
+      "name": "Middagstid",
+      "shareName": "middagstid",
+      "emoji": null,
+      "description": "Du er samlende og trygg. Når du er der, finner alle veien hjem til bordet.",
+      "funFact": "I Norge spiser mange middag allerede rundt klokka fem, mens det i Spania er vanlig å spise middag etter klokka ni om kvelden.",
+      "image": "images/2026-10-28/middag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Samlende",
+          "text": "Får alle til bordet."
+        },
+        {
+          "title": "Trygg",
+          "text": "Kommer når man trenger det."
+        },
+        {
+          "title": "Mett",
+          "text": "Fornøyd med livet."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på at alle får."
+        }
+      ]
+    },
+    {
+      "id": "skumring",
+      "name": "Skumring",
+      "shareName": "skumring",
+      "emoji": null,
+      "description": "Du er mild, myk og litt magisk. Du får vanlige ting til å se ut som eventyr.",
+      "funFact": "Det finnes tre slags skumring: borgerlig, nautisk og astronomisk. Det kommer an på hvor langt under horisonten sola har gått.",
+      "image": "images/2026-10-28/skumring.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Magisk",
+          "text": "Gjør alt litt eventyrlig."
+        },
+        {
+          "title": "Myk",
+          "text": "Ingen skarpe kanter her."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker gjerne store tanker."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lilla, rosa og oransje."
+        }
+      ]
+    },
+    {
+      "id": "kveld",
+      "name": "Kveld",
+      "shareName": "kveld",
+      "emoji": null,
+      "description": "Du er koselig og avslappet. Du tenner lys, finner fram et teppe og gjør alt litt hyggeligere.",
+      "funFact": "Kveldsrøden kommer av at sollyset må gå gjennom ekstra mye luft når sola står lavt, så det blå lyset spres bort og det røde blir igjen.",
+      "image": "images/2026-10-28/kveld.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Elsker levende lys."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Varm",
+          "text": "Lager god stemning."
+        },
+        {
+          "title": "Lojal",
+          "text": "Er der hver dag."
+        }
+      ]
+    },
+    {
+      "id": "leggetid",
+      "name": "Leggetid",
+      "shareName": "leggetid",
+      "emoji": null,
+      "description": "Du er omsorgsfull og vet hva som er best for alle. Du har alltid én historie til på lur.",
+      "funFact": "Eksperter anbefaler at barn i barneskolealder sover rundt 9 til 12 timer hver natt.",
+      "image": "images/2026-10-28/leggetid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Bretter dyna rundt andre."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet når nok er nok."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har alltid en historie."
+        },
+        {
+          "title": "Myk",
+          "text": "Som en god pute."
+        }
+      ]
+    },
+    {
+      "id": "midnatt",
+      "name": "Midnatt",
+      "shareName": "midnatt",
+      "emoji": null,
+      "description": "Du er spennende og litt dramatisk. Når du dukker opp, skjer det plutselig noe nytt.",
+      "funFact": "Klokka 24.00 og 00.00 er egentlig samme øyeblikk. 24.00 er slutten på en dag, og 00.00 er starten på den neste.",
+      "image": "images/2026-10-28/midnatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dramatisk",
+          "text": "Kommer alltid med et smell."
+        },
+        {
+          "title": "Spennende",
+          "text": "Alt kan skje nå."
+        },
+        {
+          "title": "Presis",
+          "text": "Kommer nøyaktig i tide."
+        },
+        {
+          "title": "Ny",
+          "text": "Starter noe helt nytt."
+        }
+      ]
+    },
+    {
+      "id": "natt",
+      "name": "Natt",
+      "shareName": "natt",
+      "emoji": null,
+      "description": "Du er dyp, rolig og full av drømmer. Du passer på verden mens den hviler.",
+      "funFact": "Om sommeren er det midnattssol nord for polarsirkelen, så der kan natta være like lys som dagen.",
+      "image": "images/2026-10-28/natt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Full av fantasier."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast i det hele tatt."
+        },
+        {
+          "title": "Hemmelig",
+          "text": "Bærer på mange mysterier."
+        },
+        {
+          "title": "Vaktsom",
+          "text": "Passer på de som sover."
+        }
+      ]
+    }
+  ]
+}
