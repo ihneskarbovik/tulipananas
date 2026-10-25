@@ -1,0 +1,716 @@
+{
+  "id": "2026-11-01",
+  "date": "2026-11-01",
+  "title": "Hvilken edelstein er du i dag?",
+  "intro": "Er du en bestemt diamant, en drømmende ametyst eller en koselig bit rav? Svar på sju litt rare spørsmål og finn ut hvilken edelstein du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor mange knapper skal en skjorte ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tre. Det holder lenge",
+          "scores": {
+            "jade": 2,
+            "diamant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sju, og alle skal være knappet",
+          "scores": {
+            "safir": 2,
+            "granat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Elleve, men alle i forskjellige farger",
+          "scores": {
+            "opal": 2,
+            "smaragd": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen. Jeg vil ha glidelås",
+          "scores": {
+            "turkis": 2,
+            "rubin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fem, og en reserveknapp i lomma",
+          "scores": {
+            "rav": 2,
+            "perle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg har aldri lagt merke til knapper",
+          "scores": {
+            "ametyst": 2,
+            "akvamarin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du møter en hval på trikken. Hva snakker dere om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hvor dere skal gå av",
+          "scores": {
+            "jade": 2,
+            "safir": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det siste den drømte i natt",
+          "scores": {
+            "ametyst": 2,
+            "opal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Om den vil være med på kino etterpå",
+          "scores": {
+            "turkis": 2,
+            "granat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, vi bare nikker vennlig",
+          "scores": {
+            "perle": 2,
+            "akvamarin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hvem som egentlig har rett på setet",
+          "scores": {
+            "rubin": 2,
+            "diamant": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gamle trikkelinjer som ikke finnes lenger",
+          "scores": {
+            "rav": 2,
+            "smaragd": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan kommer du deg opp i en hengekøye?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett elegant hopp, og så ligger jeg",
+          "scores": {
+            "perle": 2,
+            "rubin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg leser bruksanvisningen først",
+          "scores": {
+            "safir": 2,
+            "jade": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg faller ut tre ganger og ler hver gang",
+          "scores": {
+            "opal": 2,
+            "turkis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg drar med meg et pledd og en bok",
+          "scores": {
+            "rav": 2,
+            "ametyst": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg bestemmer meg for at det går, og så går det",
+          "scores": {
+            "diamant": 2,
+            "granat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser på den en stund og legger meg i gresset i stedet",
+          "scores": {
+            "akvamarin": 2,
+            "jade": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er fem minutter til noe begynner. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker at alt er klart, igjen",
+          "scores": {
+            "granat": 2,
+            "safir": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dagdrømmer om noe helt annet",
+          "scores": {
+            "smaragd": 2,
+            "ametyst": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med den som står nærmest",
+          "scores": {
+            "turkis": 2,
+            "rubin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Puster rolig og ser ut av vinduet",
+          "scores": {
+            "akvamarin": 2,
+            "jade": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Retter på klærne og håret",
+          "scores": {
+            "perle": 2,
+            "diamant": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver ned noe jeg vil huske",
+          "scores": {
+            "rav": 2,
+            "opal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du skal skrive en bok på bare én side. Hva handler den om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En and som blir ordfører",
+          "scores": {
+            "opal": 2,
+            "smaragd": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hvordan man lager verdens beste kakao",
+          "scores": {
+            "granat": 2,
+            "rav": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En stor kjærlighetshistorie, kort fortalt",
+          "scores": {
+            "rubin": 2,
+            "perle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Alt jeg vet, i punktliste",
+          "scores": {
+            "diamant": 2,
+            "safir": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En reise uten kart",
+          "scores": {
+            "turkis": 2,
+            "akvamarin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En hemmelig hage som bare finnes om natta",
+          "scores": {
+            "smaragd": 2,
+            "ametyst": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket kjøkkenapparat har mest personlighet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brødristeren. Den er så dramatisk",
+          "scores": {
+            "rubin": 2,
+            "opal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vaffeljernet. Alltid hyggelig",
+          "scores": {
+            "granat": 2,
+            "rav": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøkkenvekta. Den er ærlig",
+          "scores": {
+            "akvamarin": 2,
+            "diamant": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stavmikseren. Litt vill",
+          "scores": {
+            "smaragd": 2,
+            "turkis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vannkokeren. Rolig, men bestemt",
+          "scores": {
+            "jade": 2,
+            "ametyst": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor lenge kan man se på en vaskemaskin som går?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ett minutt, så har jeg skjønt det",
+          "scores": {
+            "perle": 2,
+            "diamant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hele programmet. Det er beroligende",
+          "scores": {
+            "akvamarin": 2,
+            "ametyst": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Til jeg finner ut hvor sokkene blir av",
+          "scores": {
+            "safir": 2,
+            "smaragd": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Så lenge noen ser på sammen med meg",
+          "scores": {
+            "granat": 2,
+            "perle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til jeg begynner å lage en sang om den",
+          "scores": {
+            "ametyst": 2,
+            "opal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går heller og henger opp forrige vask",
+          "scores": {
+            "jade": 2,
+            "rav": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "diamant",
+      "name": "Diamant",
+      "shareName": "en diamant",
+      "emoji": null,
+      "description": "Du er bestemt, tydelig og vanskelig å vippe av pinnen. Når du har bestemt deg, står du støtt.",
+      "funFact": "Diamant er det hardeste naturlige stoffet vi kjenner, og består av rent karbon, akkurat som grafitten i en blyant.",
+      "image": "images/2026-11-01/diamant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Klar",
+          "text": "Ingen skjulte kanter."
+        }
+      ]
+    },
+    {
+      "id": "rubin",
+      "name": "Rubin",
+      "shareName": "en rubin",
+      "emoji": null,
+      "description": "Du er varm, modig og full av liv. Du kjenner ting sterkt og sier gjerne ifra.",
+      "funFact": "Rubin og safir er egentlig samme mineral, korund. Bare den røde varianten kalles rubin.",
+      "image": "images/2026-11-01/rubin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å gå først."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier ifra med hjertet."
+        }
+      ]
+    },
+    {
+      "id": "safir",
+      "name": "Safir",
+      "shareName": "en safir",
+      "emoji": null,
+      "description": "Du er klok, lojal og tenker deg om før du handler. Folk kommer til deg når de trenger et godt råd.",
+      "funFact": "Safir finnes i nesten alle farger, ikke bare blå. Det eneste unntaket er rød, for da heter den rubin.",
+      "image": "images/2026-11-01/safir.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved dine."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Grundig",
+          "text": "Leser bruksanvisningen."
+        }
+      ]
+    },
+    {
+      "id": "smaragd",
+      "name": "Smaragd",
+      "shareName": "en smaragd",
+      "emoji": null,
+      "description": "Du er kreativ og fantasifull, og ser muligheter der andre ser rot. Det er de små skjevhetene som gjør deg spesiell.",
+      "funFact": "Nesten alle smaragder har små innslag inni seg. På fransk kalles de «jardin», som betyr hage.",
+      "image": "images/2026-11-01/smaragd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av rare ideer."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Lever i egne verdener."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Skjev på en fin måte."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør alltid hvorfor."
+        }
+      ]
+    },
+    {
+      "id": "ametyst",
+      "name": "Ametyst",
+      "shareName": "en ametyst",
+      "emoji": null,
+      "description": "Du er drømmende, rolig og merker stemninger før andre gjør det. Hodet ditt er fullt av små historier.",
+      "funFact": "Ametyst er en lilla variant av kvarts, og fargen kan bleke litt hvis steinen ligger lenge i sterkt sollys.",
+      "image": "images/2026-11-01/ametyst.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr avgårde."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Følsom",
+          "text": "Merker stemningen."
+        },
+        {
+          "title": "Mild",
+          "text": "Snakker med lav stemme."
+        }
+      ]
+    },
+    {
+      "id": "opal",
+      "name": "Opal",
+      "shareName": "en opal",
+      "emoji": null,
+      "description": "Du er uforutsigbar, morsom og ser ut på en ny måte hver gang noen ser på deg. Kjedelig blir det aldri.",
+      "funFact": "Det meste av verdens opal kommer fra Australia, og opal inneholder faktisk litt vann.",
+      "image": "images/2026-11-01/opal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på tull."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Aldri helt lik."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Mange humør samtidig."
+        }
+      ]
+    },
+    {
+      "id": "perle",
+      "name": "Perle",
+      "shareName": "en perle",
+      "emoji": null,
+      "description": "Du er elegant, tålmodig og myk i kantene. Du blir bare finere med tiden.",
+      "funFact": "Perler lages av østers og muslinger, som legger lag på lag med perlemor rundt en liten inntrenger.",
+      "image": "images/2026-11-01/perle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid litt pyntet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Myk",
+          "text": "Ingen skarpe kanter."
+        },
+        {
+          "title": "Høflig",
+          "text": "Husker alltid takk."
+        }
+      ]
+    },
+    {
+      "id": "rav",
+      "name": "Rav",
+      "shareName": "rav",
+      "emoji": null,
+      "description": "Du er varm, koselig og tar vare på minner. Du har alltid en god historie fra før i tiden.",
+      "funFact": "Rav er stivnet kvae fra trær som vokste for millioner av år siden, og noen ganger ligger det et insekt fanget inni.",
+      "image": "images/2026-11-01/rav.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som en kakao."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gamle bilder."
+        },
+        {
+          "title": "Trofast",
+          "text": "Glemmer aldri noen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        }
+      ]
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "shareName": "jade",
+      "emoji": null,
+      "description": "Du er balansert, praktisk og får ting gjort uten å stresse. Rundt deg blir alt litt roligere.",
+      "funFact": "Det vi kaller jade, er egentlig to helt forskjellige mineraler: jadeitt og nefritt.",
+      "image": "images/2026-11-01/jade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Verken for mye eller lite."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser aldri."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "turkis",
+      "name": "Turkis",
+      "shareName": "en turkis",
+      "emoji": null,
+      "description": "Du er eventyrlysten, sosial og alltid klar for noe nytt. Du blir kjent med folk overalt.",
+      "funFact": "Turkis har fått navnet sitt fra det franske ordet for «tyrkisk», fordi steinen kom til Europa via Tyrkia.",
+      "image": "images/2026-11-01/turkis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på vei."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av pågangsmot."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja først."
+        }
+      ]
+    },
+    {
+      "id": "granat",
+      "name": "Granat",
+      "shareName": "en granat",
+      "emoji": null,
+      "description": "Du er trofast, jordnær og den beste vennen man kan ha. Du stiller opp, uansett vær.",
+      "funFact": "Granat finnes i nesten alle farger, men blå granat er en av de sjeldneste edelsteinene i verden.",
+      "image": "images/2026-11-01/granat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge bein på bakken."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        }
+      ]
+    },
+    {
+      "id": "akvamarin",
+      "name": "Akvamarin",
+      "shareName": "en akvamarin",
+      "emoji": null,
+      "description": "Du er rolig, ærlig og har en fred i deg som smitter. Folk slapper av når du er i nærheten.",
+      "funFact": "Akvamarin er samme mineral som smaragd, beryll, og navnet betyr «sjøvann» på latin.",
+      "image": "images/2026-11-01/akvamarin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker pulsen rundt deg."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Klar som glass."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Unngår unødig bråk."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører virkelig etter."
+        }
+      ]
+    }
+  ]
+}
