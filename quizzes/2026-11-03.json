@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-03",
+  "date": "2026-11-03",
+  "title": "Hvilken hunderase er du i dag?",
+  "intro": "Er du en vennlig golden retriever, en bestemt dachshund eller en sprek husky? Svar på sju litt rare spørsmål og finn ut hvilken hunderase du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva synes du om glidelåser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fine, så lenge de ikke setter seg fast",
+          "scores": {
+            "bernhard": 2,
+            "golden": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg drar dem opp og ned når jeg tenker",
+          "scores": {
+            "collie": 2,
+            "husky": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Knapper er mye mer stilig",
+          "scores": {
+            "puddel": 2,
+            "dalmatiner": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har aldri tenkt over dem",
+          "scores": {
+            "mops": 2,
+            "corgi": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg vil ha dem overalt, også på luer",
+          "scores": {
+            "dachshund": 2,
+            "chihuahua": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "De bør være solide og tåle vær",
+          "scores": {
+            "elghund": 2,
+            "beagle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En pelikan vil bli med deg på kino. Hvilken film ser dere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En lang dokumentar om fjell",
+          "scores": {
+            "elghund": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En skrekkfilm, men vi holder hverandre i vingen",
+          "scores": {
+            "chihuahua": 2,
+            "beagle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En musikal vi synger med på",
+          "scores": {
+            "corgi": 2,
+            "dachshund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den pelikanen vil se, selvfølgelig",
+          "scores": {
+            "golden": 2,
+            "mops": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En smart krimfilm med mange vendinger",
+          "scores": {
+            "collie": 2,
+            "puddel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En actionfilm med biljakt",
+          "scores": {
+            "husky": 2,
+            "dalmatiner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan bærer du hjem handleposene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle på en gang, uansett hvor tunge de er",
+          "scores": {
+            "dachshund": 2,
+            "elghund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jevnt fordelt, like tungt i hver hånd",
+          "scores": {
+            "collie": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg spiser litt underveis så de blir lettere",
+          "scores": {
+            "beagle": 2,
+            "mops": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med en venn som hjelper til",
+          "scores": {
+            "golden": 2,
+            "corgi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I en fin kurv",
+          "scores": {
+            "puddel": 2,
+            "chihuahua": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg jogger hjem med dem",
+          "scores": {
+            "dalmatiner": 2,
+            "husky": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får bestemme hva som skal være på et nytt frimerke. Hva blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et bilde av bestemor",
+          "scores": {
+            "bernhard": 2,
+            "golden": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En kopp kakao",
+          "scores": {
+            "mops": 2,
+            "beagle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et kart over et sted ingen har vært",
+          "scores": {
+            "husky": 2,
+            "elghund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et mønster jeg har tegnet selv",
+          "scores": {
+            "puddel": 2,
+            "collie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Meg selv, i gullramme",
+          "scores": {
+            "chihuahua": 2,
+            "dachshund": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En tegning av en sky som smiler",
+          "scores": {
+            "corgi": 2,
+            "dalmatiner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor høyt skal musikken være når du rydder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Så høyt at naboen danser med",
+          "scores": {
+            "dalmatiner": 2,
+            "corgi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lavt, jeg vil høre mine egne tanker",
+          "scores": {
+            "bernhard": 2,
+            "collie": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg rydder ikke, jeg flytter bare ting",
+          "scores": {
+            "mops": 2,
+            "dachshund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg synger selv, så ingen musikk trengs",
+          "scores": {
+            "golden": 2,
+            "husky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Passe høyt, og alltid samme spilleliste",
+          "scores": {
+            "elghund": 2,
+            "puddel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det kommer an på hva jeg finner under sofaen",
+          "scores": {
+            "beagle": 2,
+            "chihuahua": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan reagerer du på en overraskelse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper høyt og hyler",
+          "scores": {
+            "chihuahua": 2,
+            "corgi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gråter litt av glede",
+          "scores": {
+            "golden": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Later som jeg visste det hele tiden",
+          "scores": {
+            "puddel": 2,
+            "dachshund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vil vite hvem som planla alt",
+          "scores": {
+            "beagle": 2,
+            "collie": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om vi kan gjøre det igjen med en gang",
+          "scores": {
+            "husky": 2,
+            "dalmatiner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smiler og fortsetter rolig",
+          "scores": {
+            "elghund": 2,
+            "mops": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du kommer to sekunder for sent til ferja. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vinker til den til den er borte",
+          "scores": {
+            "corgi": 2,
+            "golden": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Har allerede en plan B",
+          "scores": {
+            "collie": 2,
+            "elghund": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper en vaffel og venter på neste",
+          "scores": {
+            "mops": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Krangler litt med måkene",
+          "scores": {
+            "dachshund": 2,
+            "chihuahua": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leier en kajakk",
+          "scores": {
+            "dalmatiner": 2,
+            "husky": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir kjent med alle andre som også mistet den",
+          "scores": {
+            "beagle": 2,
+            "puddel": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "bernhard",
+      "name": "Sankt bernhardshund",
+      "shareName": "en sankt bernhardshund",
+      "emoji": null,
+      "description": "Du er rolig, omsorgsfull og den alle søker til når noe er vanskelig. Med deg i nærheten føler alle seg trygge.",
+      "funFact": "Sankt bernhardshunden har navnet sitt fra et hospits i de sveitsiske Alpene, der hundene hjalp til med å finne folk som gikk seg vill i snøen.",
+      "image": "images/2026-11-03/bernhard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "En trygg havn."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Stor",
+          "text": "Har plass til mange."
+        }
+      ]
+    },
+    {
+      "id": "dachshund",
+      "name": "Dachshund",
+      "shareName": "en dachshund",
+      "emoji": null,
+      "description": "Du er liten av fasong, men stor på selvtillit. Når du har bestemt deg, er det nesten umulig å få deg til å snu.",
+      "funFact": "Dachs betyr grevling på tysk. Dachshunden ble avlet for å krype ned i grevlinghi.",
+      "image": "images/2026-11-03/dachshund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Snur aldri halvveis."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Stor inni seg."
+        },
+        {
+          "title": "Sta",
+          "text": "Har egne meninger."
+        },
+        {
+          "title": "Morsom",
+          "text": "Gjør folk glade."
+        }
+      ]
+    },
+    {
+      "id": "chihuahua",
+      "name": "Chihuahua",
+      "shareName": "en chihuahua",
+      "emoji": null,
+      "description": "Du er modig, tydelig og fryktløs, uansett hvem du står overfor. Du har et stort hjerte og enda større meninger.",
+      "funFact": "Chihuahua har fått navnet sitt fra en delstat i Mexico.",
+      "image": "images/2026-11-03/chihuahua.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Redd for ingenting."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Sier ifra."
+        },
+        {
+          "title": "Hengiven",
+          "text": "Velger sine mennesker."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av temperament."
+        }
+      ]
+    },
+    {
+      "id": "dalmatiner",
+      "name": "Dalmatiner",
+      "shareName": "en dalmatiner",
+      "emoji": null,
+      "description": "Du er utadvendt, sprek og har en stil som ingen glemmer. Du elsker å være på farten sammen med andre.",
+      "funFact": "Dalmatinervalper blir født helt hvite. Prikkene kommer først etter et par uker.",
+      "image": "images/2026-11-03/dalmatiner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utadvendt",
+          "text": "Trives med folk."
+        },
+        {
+          "title": "Sprek",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Stilig",
+          "text": "Lett å huske."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved din side."
+        }
+      ]
+    },
+    {
+      "id": "corgi",
+      "name": "Corgi",
+      "shareName": "en corgi",
+      "emoji": null,
+      "description": "Du er glad, travel og sjarmerende på en måte folk ikke kan stå imot. Du lyser opp enhver hverdag.",
+      "funFact": "Dronning Elizabeth II hadde over 30 corgier i løpet av livet sitt.",
+      "image": "images/2026-11-03/corgi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Umulig å ikke like."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid på vei."
+        },
+        {
+          "title": "Munter",
+          "text": "Lyser opp dagen."
+        },
+        {
+          "title": "Tøff",
+          "text": "Mer mot enn høyde."
+        }
+      ]
+    },
+    {
+      "id": "mops",
+      "name": "Mops",
+      "shareName": "en mops",
+      "emoji": null,
+      "description": "Du er kosete, komisk og helt perfekt i sofaen. Du vet at livet er best med et teppe og noen du er glad i.",
+      "funFact": "Mopsen kommer opprinnelig fra Kina, og har vært en populær selskapshund i over 2000 år.",
+      "image": "images/2026-11-03/mops.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kosete",
+          "text": "Elsker sofakroker."
+        },
+        {
+          "title": "Komisk",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen grunn til stress."
+        },
+        {
+          "title": "Kjærlig",
+          "text": "Vil alltid være nær."
+        }
+      ]
+    },
+    {
+      "id": "husky",
+      "name": "Husky",
+      "shareName": "en husky",
+      "emoji": null,
+      "description": "Du er eventyrlysten, sprek og har mye å si. Du blir rastløs av å sitte stille og vil alltid videre.",
+      "funFact": "I 1925 fraktet hundespann med blant annet sibirske husky medisin over 1000 kilometer til byen Nome i Alaska.",
+      "image": "images/2026-11-03/husky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil alltid videre."
+        },
+        {
+          "title": "Sprek",
+          "text": "Går aldri tom."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har mye å si."
+        },
+        {
+          "title": "Fri",
+          "text": "Trenger mye plass."
+        }
+      ]
+    },
+    {
+      "id": "puddel",
+      "name": "Puddel",
+      "shareName": "en puddel",
+      "emoji": null,
+      "description": "Du er elegant, smart og har stil i alt du gjør. Du lærer raskt og liker at ting ser fint ut.",
+      "funFact": "Puddelen var opprinnelig en vannhund. Navnet kommer fra et gammelt tysk ord for å plaske.",
+      "image": "images/2026-11-03/puddel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stil i alt."
+        },
+        {
+          "title": "Smart",
+          "text": "Lærer superfort."
+        },
+        {
+          "title": "Stolt",
+          "text": "Holder hodet høyt."
+        },
+        {
+          "title": "Leken",
+          "text": "Mer tøys enn antatt."
+        }
+      ]
+    },
+    {
+      "id": "beagle",
+      "name": "Beagle",
+      "shareName": "en beagle",
+      "emoji": null,
+      "description": "Du er nysgjerrig, sosial og alltid på sporet av noe spennende. Du finner ut av ting før alle andre.",
+      "funFact": "Snoopy, den kjente tegneseriefiguren, er en beagle.",
+      "image": "images/2026-11-03/beagle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Må finne ut alt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker store flokker."
+        },
+        {
+          "title": "Matglad",
+          "text": "Sier aldri nei takk."
+        },
+        {
+          "title": "Munter",
+          "text": "Alltid i godt humør."
+        }
+      ]
+    },
+    {
+      "id": "elghund",
+      "name": "Norsk elghund",
+      "shareName": "en norsk elghund",
+      "emoji": null,
+      "description": "Du er tøff, selvstendig og trives best ute i all slags vær. Du tar vare på deg selv og de rundt deg.",
+      "funFact": "Norsk elghund grå regnes som Norges nasjonalhund, og har vært brukt til elgjakt i lang tid.",
+      "image": "images/2026-11-03/elghund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler all slags vær."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite som stresser deg."
+        },
+        {
+          "title": "Trofast",
+          "text": "Passer på sine."
+        }
+      ]
+    },
+    {
+      "id": "collie",
+      "name": "Border collie",
+      "shareName": "en border collie",
+      "emoji": null,
+      "description": "Du er flittig, smart og liker å ha en plan. Du får ting gjort og holder oversikten når andre mister tråden.",
+      "funFact": "Border collie regnes ofte som den mest lærenemme hunderasen i verden.",
+      "image": "images/2026-11-03/collie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker tre steg frem."
+        },
+        {
+          "title": "Oversikt",
+          "text": "Holder styr på alle."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Elsker en oppgave."
+        }
+      ]
+    },
+    {
+      "id": "golden",
+      "name": "Golden retriever",
+      "shareName": "en golden retriever",
+      "emoji": null,
+      "description": "Du er alles venn og får folk til å føle seg velkomne med en gang. Du ser alltid det beste i andre.",
+      "funFact": "Golden retriever ble utviklet i Skottland på 1800-tallet, for å hente fugler under jakt.",
+      "image": "images/2026-11-03/golden.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vennlig",
+          "text": "Alles beste venn."
+        },
+        {
+          "title": "Åpen",
+          "text": "Ser det beste."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler med hele kroppen."
+        },
+        {
+          "title": "Lojal",
+          "text": "Blir alltid værende."
+        }
+      ]
+    }
+  ]
+}

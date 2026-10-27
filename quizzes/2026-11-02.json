@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "title": "Hvilket krydder er du i dag?",
+  "intro": "Er du en varm stang kanel, en kvikk bit ingefær eller en mystisk stjerneanis? Svar på sju litt rare spørsmål og finn ut hvilket krydder du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva synes du om trapper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De er fine å sitte i og prate",
+          "scores": {
+            "hvitlok": 2,
+            "kardemomme": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg tar to trinn om gangen",
+          "scores": {
+            "chili": 2,
+            "ingefaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg teller trinnene hver gang",
+          "scores": {
+            "dill": 2,
+            "pepper": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiraltrapper er det fineste som finnes",
+          "scores": {
+            "stjerneanis": 2,
+            "safran": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Heis, takk",
+          "scores": {
+            "vanilje": 2,
+            "basilikum": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lurer alltid på hvor de fører",
+          "scores": {
+            "muskat": 2,
+            "kanel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En flodhest vil lære deg å strikke. Hva lager dere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et superlangt skjerf vi kan dele",
+          "scores": {
+            "kanel": 2,
+            "hvitlok": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En grytelapp. Det holder for i dag",
+          "scores": {
+            "pepper": 2,
+            "dill": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe helt uten mønster, bare fordi",
+          "scores": {
+            "basilikum": 2,
+            "chili": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Matchende luer med dusk",
+          "scores": {
+            "kardemomme": 2,
+            "vanilje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et kunstverk vi henger på veggen",
+          "scores": {
+            "safran": 2,
+            "stjerneanis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vi glemmer strikkingen og prater om flodhestlivet",
+          "scores": {
+            "muskat": 2,
+            "ingefaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du finner en liten dør i en trestamme. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banker forsiktig på",
+          "scores": {
+            "vanilje": 2,
+            "kardemomme": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Åpner den med en gang",
+          "scores": {
+            "chili": 2,
+            "muskat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Legger igjen en lapp og en kjeks",
+          "scores": {
+            "kanel": 2,
+            "basilikum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar bilde og viser alle",
+          "scores": {
+            "ingefaer": 2,
+            "hvitlok": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer på hvem som har snekret den så pent",
+          "scores": {
+            "safran": 2,
+            "pepper": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går videre, men drømmer om den i natt",
+          "scores": {
+            "stjerneanis": 2,
+            "dill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan skriver du en handleliste?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sortert etter hvor ting står i butikken",
+          "scores": {
+            "dill": 2,
+            "safran": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg husker alt i hodet. Nesten",
+          "scores": {
+            "pepper": 2,
+            "chili": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med små tegninger ved siden av",
+          "scores": {
+            "stjerneanis": 2,
+            "vanilje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På baksiden av en gammel kvittering",
+          "scores": {
+            "basilikum": 2,
+            "ingefaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sammen med noen, på telefonen",
+          "scores": {
+            "hvitlok": 2,
+            "kanel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den blir mest en ønskeliste",
+          "scores": {
+            "kardemomme": 2,
+            "muskat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får en tidsmaskin, men den kan bare reise ti minutter. Hva bruker du den til?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser den samme desserten to ganger",
+          "scores": {
+            "vanilje": 2,
+            "kanel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier noe smartere enn det jeg sa",
+          "scores": {
+            "safran": 2,
+            "dill": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser et fint øyeblikk en gang til",
+          "scores": {
+            "kardemomme": 2,
+            "stjerneanis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rekker bussen jeg nettopp mistet",
+          "scores": {
+            "pepper": 2,
+            "basilikum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjemmer meg og skremmer meg selv",
+          "scores": {
+            "ingefaer": 2,
+            "chili": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner ut hvem som spiste den siste kjeksen",
+          "scores": {
+            "muskat": 2,
+            "hvitlok": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor mange ballonger trenger et ordentlig selskap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Én, men den skal være kjempestor",
+          "scores": {
+            "safran": 2,
+            "muskat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nittini",
+          "scores": {
+            "chili": 2,
+            "hvitlok": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Akkurat like mange som gjester",
+          "scores": {
+            "dill": 2,
+            "pepper": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen. Jeg vil heller ha lys i glass",
+          "scores": {
+            "kanel": 2,
+            "vanilje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nok til at taket forsvinner",
+          "scores": {
+            "ingefaer": 2,
+            "basilikum": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tre i hver farge, i riktig rekkefølge",
+          "scores": {
+            "stjerneanis": 2,
+            "kardemomme": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan sovner du på et tog?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med hodet mot vinduet",
+          "scores": {
+            "kardemomme": 2,
+            "stjerneanis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sovner aldri, det skjer for mye",
+          "scores": {
+            "muskat": 2,
+            "ingefaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med jakka som dyne",
+          "scores": {
+            "kanel": 2,
+            "dill": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På skulderen til den ved siden av",
+          "scores": {
+            "hvitlok": 2,
+            "vanilje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med ørepropper og øyemaske",
+          "scores": {
+            "pepper": 2,
+            "safran": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sovner før toget har kjørt",
+          "scores": {
+            "basilikum": 2,
+            "chili": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "vanilje",
+      "name": "Vanilje",
+      "shareName": "vanilje",
+      "emoji": null,
+      "description": "Du er mild, myk og mye mer spennende enn folk tror. Du gjør alt rundt deg litt bedre uten å lage noe styr.",
+      "funFact": "Vanilje kommer fra frøkapselen til en orkidé. De fleste steder i verden må blomstene pollineres for hånd, en og en.",
+      "image": "images/2026-11-02/vanilje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Undervurdert",
+          "text": "Mer spennende enn antatt."
+        },
+        {
+          "title": "Myk",
+          "text": "Runder av skarpe kanter."
+        },
+        {
+          "title": "Søt",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "ingefaer",
+      "name": "Ingefær",
+      "shareName": "ingefær",
+      "emoji": null,
+      "description": "Du er frisk, kvikk og full av gode ideer. Du får folk til å våkne opp og bli med på noe nytt.",
+      "funFact": "Den delen av ingefær vi spiser, er ikke en rot. Det er en jordstengel, en slags stengel som vokser under bakken.",
+      "image": "images/2026-11-02/ingefaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvikk",
+          "text": "Tenker fort."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir alle ny energi."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på ting."
+        },
+        {
+          "title": "Uredd",
+          "text": "Prøver det ukjente."
+        }
+      ]
+    },
+    {
+      "id": "basilikum",
+      "name": "Basilikum",
+      "shareName": "basilikum",
+      "emoji": null,
+      "description": "Du er sorgløs, frisk og trives best når livet er enkelt. Du tar ting som de kommer og smiler mye.",
+      "funFact": "Basilikum er i samme plantefamilie som mynte, lavendel og timian.",
+      "image": "images/2026-11-02/basilikum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sorgløs",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Frisk",
+          "text": "Som en sommerdag."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler lett."
+        }
+      ]
+    },
+    {
+      "id": "chili",
+      "name": "Chili",
+      "shareName": "chili",
+      "emoji": null,
+      "description": "Du er full av energi og sier ja før du har tenkt deg om. Der du er, blir det aldri kjedelig.",
+      "funFact": "Fugler kjenner ikke styrken i chili. Det hjelper planten, fordi fuglene spiser bærene og sprer frøene langt av gårde.",
+      "image": "images/2026-11-02/chili.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Sier ja først."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har alltid fart på."
+        },
+        {
+          "title": "Spontan",
+          "text": "Planer er bare forslag."
+        },
+        {
+          "title": "Livlig",
+          "text": "Aldri en kjedelig stund."
+        }
+      ]
+    },
+    {
+      "id": "dill",
+      "name": "Dill",
+      "shareName": "dill",
+      "emoji": null,
+      "description": "Du er rolig, praktisk og helt fantastisk til å få ting gjort. Du har orden i sakene, men aldri på en kjedelig måte.",
+      "funFact": "Dill er i samme plantefamilie som gulrot, persille og karve.",
+      "image": "images/2026-11-02/dill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Orden i sakene."
+        },
+        {
+          "title": "Ekte",
+          "text": "Akkurat som du er."
+        }
+      ]
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper",
+      "shareName": "pepper",
+      "emoji": null,
+      "description": "Du er den alle stoler på, og du passer inn nesten overalt. Uten deg hadde ingenting smakt helt riktig.",
+      "funFact": "Svart, hvit og grønn pepper kommer fra den samme planten. Forskjellen er bare når bærene høstes og hvordan de behandles.",
+      "image": "images/2026-11-02/pepper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Alltid med på laget."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen unødige dikkedarer."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri gått av moten."
+        }
+      ]
+    },
+    {
+      "id": "hvitlok",
+      "name": "Hvitløk",
+      "shareName": "hvitløk",
+      "emoji": null,
+      "description": "Du er sosial, tydelig og har en personlighet som fyller rommet. De som blir kjent med deg, vil aldri være foruten.",
+      "funFact": "En hvitløk består av mange små fedd. Setter du ett fedd i jorda, kan det vokse opp til en helt ny hvitløk.",
+      "image": "images/2026-11-02/hvitlok.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives i store lag."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Folk husker deg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne alt."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        }
+      ]
+    },
+    {
+      "id": "kardemomme",
+      "name": "Kardemomme",
+      "shareName": "kardemomme",
+      "emoji": null,
+      "description": "Du er hjemmekjær, omtenksom og litt nostalgisk. Du husker de små tingene som gjør andre glade.",
+      "funFact": "Kardemomme er i samme plantefamilie som ingefær, og er et av de dyreste krydderne i verden.",
+      "image": "images/2026-11-02/kardemomme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Husker de små tingene."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best med egen dyne."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gode minner."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        }
+      ]
+    },
+    {
+      "id": "muskat",
+      "name": "Muskatnøtt",
+      "shareName": "en muskatnøtt",
+      "emoji": null,
+      "description": "Du er nysgjerrig, eventyrlysten og vil alltid vite hva som skjuler seg rundt neste sving. Du har alltid en god historie på lur.",
+      "funFact": "Muskatnøtt og krydderet muskatblomme kommer fra den samme frukten. Muskatblomme er det røde nettet som ligger rundt nøtta.",
+      "image": "images/2026-11-02/muskat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Klar for nye steder."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har alltid en historie."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn du tror."
+        }
+      ]
+    },
+    {
+      "id": "stjerneanis",
+      "name": "Stjerneanis",
+      "shareName": "stjerneanis",
+      "emoji": null,
+      "description": "Du er drømmende, kreativ og litt mystisk. Du ser mønstre og skjønnhet der andre bare ser hverdag.",
+      "funFact": "Stjerneanis har som regel åtte tagger, og i hver tagg ligger det et lite, blankt frø.",
+      "image": "images/2026-11-02/stjerneanis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ser ting annerledes."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene flyr langt."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Vakker",
+          "text": "Elsker fine detaljer."
+        }
+      ]
+    },
+    {
+      "id": "safran",
+      "name": "Safran",
+      "shareName": "safran",
+      "emoji": null,
+      "description": "Du er stilfull, nøye og har sans for kvalitet. Litt av deg holder lenge, og alle merker når du er der.",
+      "funFact": "Safran er arret fra en krokusblomst. Hver blomst har bare tre slike tråder, og de må plukkes for hånd.",
+      "image": "images/2026-11-02/safran.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "Har sans for kvalitet."
+        },
+        {
+          "title": "Nøye",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Ikke helt som andre."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for egne valg."
+        }
+      ]
+    },
+    {
+      "id": "kanel",
+      "name": "Kanel",
+      "shareName": "kanel",
+      "emoji": null,
+      "description": "Du er varm, trygg og gjør ethvert rom litt koseligere bare ved å være der. Folk blir rolige av å ha deg i nærheten.",
+      "funFact": "Kanel er innerbarken fra kaneltrær. Barken ruller seg sammen til stenger av seg selv når den tørker.",
+      "image": "images/2026-11-02/kanel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Gjør alt litt varmere."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der for andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til folk."
+        },
+        {
+          "title": "Tradisjon",
+          "text": "Elsker det som gjentas."
+        }
+      ]
+    }
+  ]
+}
