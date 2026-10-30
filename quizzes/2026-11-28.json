@@ -2,382 +2,382 @@
   "id": "2026-11-28",
   "date": "2026-11-28",
   "title": "Hvem er du i Biler-filmene i dag?",
-  "intro": "Er du en lojal bestevenn, en klok mentor eller en avslappet drømmer? Svar på sju litt rare spørsmål og finn ut hvem du er i Biler-filmene i dag.",
+  "intro": "Er du en lojal bestevenn, en klok mentor eller en avslappet drømmer? Svar på sju spørsmål og finn ut hvem du er i Biler-filmene i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilket kjøkkenredskap ville vært best til å danse?",
+      "text": "Hvilket bakverk liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Ostehøvelen",
+          "text": "Kanelbolle",
           "scores": {
-            "guido": 2,
-            "luigi": 2
+            "bill": 2,
+            "luigi": 1
           }
         },
         {
           "id": "b",
-          "text": "Visp",
+          "text": "Croissant",
           "scores": {
-            "luigi": 2,
-            "cruz": 2
+            "king": 2,
+            "ramone": 1
           }
         },
         {
           "id": "c",
-          "text": "Pannekakespaden",
+          "text": "Skolebolle",
           "scores": {
-            "cruz": 2,
-            "fillmore": 1
+            "sarge": 2,
+            "bill": 1
           }
         },
         {
           "id": "d",
-          "text": "Salatslynge",
+          "text": "Gulrotkake",
           "scores": {
-            "doc": 2,
+            "fillmore": 2,
             "sally": 1
           }
         },
         {
           "id": "e",
-          "text": "Kjevle",
+          "text": "Wienerbrød",
           "scores": {
-            "sarge": 2,
-            "luigi": 2
+            "luigi": 2,
+            "flo": 1
           }
         },
         {
           "id": "f",
-          "text": "Hvitløkspresse",
+          "text": "Sjokolademuffins",
           "scores": {
-            "bill": 2,
-            "flo": 2
+            "cruz": 2,
+            "lynet": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om pølsebrød?",
+      "text": "Hvor er du på en fest?",
       "options": [
         {
           "id": "a",
-          "text": "Det beste brødet som finnes",
+          "text": "På dansegulvet",
           "scores": {
-            "king": 2,
-            "fillmore": 2
+            "luigi": 2,
+            "ramone": 1
           }
         },
         {
           "id": "b",
-          "text": "Bare med sennep og løk",
+          "text": "Ved kjøkkenbenken og prater med alle som kommer innom",
           "scores": {
             "flo": 2,
-            "luigi": 1
+            "bill": 1
           }
         },
         {
           "id": "c",
-          "text": "Litt kjedelig, egentlig",
+          "text": "I sofaen med noen få gode venner",
           "scores": {
-            "guido": 2,
-            "lynet": 2
+            "fillmore": 2,
+            "guido": 1
           }
         },
         {
           "id": "d",
-          "text": "De er alltid for korte",
+          "text": "Der det er et spill eller en konkurranse",
           "scores": {
-            "ramone": 2,
-            "sally": 1
+            "lynet": 2,
+            "cruz": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg spiser dem uten pølse",
+          "text": "Ute på verandaen der det er litt roligere",
           "scores": {
-            "cruz": 2,
-            "ramone": 2
+            "sally": 2,
+            "doc": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg har aldri tenkt over det",
+          "text": "Rundt bordet der noen forteller historier",
           "scores": {
-            "sally": 2,
-            "fillmore": 2
+            "king": 2,
+            "bill": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "En sel vil lære deg å sjonglere. Hvordan går det?",
+      "text": "Hvilket land vil du helst besøke?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg er naturtalent",
+          "text": "Japan",
           "scores": {
-            "king": 2,
-            "ramone": 2
+            "guido": 2,
+            "ramone": 1
           }
         },
         {
           "id": "b",
-          "text": "Vi ler mest",
+          "text": "USA",
           "scores": {
-            "luigi": 2,
-            "sarge": 1
+            "lynet": 2,
+            "ramone": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg øver i flere uker",
+          "text": "Frankrike",
           "scores": {
-            "doc": 2,
-            "king": 1
+            "king": 2,
+            "luigi": 1
           }
         },
         {
           "id": "d",
-          "text": "Selen gir opp før meg",
+          "text": "Island",
           "scores": {
-            "sally": 2,
-            "doc": 2
+            "doc": 2,
+            "fillmore": 1
           }
         },
         {
           "id": "e",
-          "text": "Vi lager et show",
+          "text": "Australia",
           "scores": {
-            "sarge": 2,
-            "luigi": 2
+            "cruz": 2,
+            "bill": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg lærer selen noe i stedet",
+          "text": "Hellas",
           "scores": {
-            "guido": 2,
-            "ramone": 1
+            "flo": 2,
+            "sally": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan bretter du klesvasken?",
+      "text": "Telefonen ringer fra et ukjent nummer. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Perfekte firkanter",
+          "text": "Svarer med en gang",
           "scores": {
-            "fillmore": 2,
-            "bill": 2
+            "guido": 2,
+            "cruz": 1
           }
         },
         {
           "id": "b",
-          "text": "Rett i skuffen",
+          "text": "Lar det ringe og søker opp nummeret",
           "scores": {
-            "cruz": 2,
+            "doc": 2,
             "sally": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg ruller alt",
+          "text": "Svarer kort og høflig",
           "scores": {
-            "lynet": 2,
-            "flo": 2
+            "king": 2,
+            "sarge": 1
           }
         },
         {
           "id": "d",
-          "text": "Med musikk på",
+          "text": "Lar det ringe, de kan sende en melding",
           "scores": {
-            "king": 2,
-            "flo": 2
+            "sally": 2,
+            "fillmore": 1
           }
         },
         {
           "id": "e",
-          "text": "Den blir liggende i kurven",
+          "text": "Svarer blidt, det kan jo være noe hyggelig",
           "scores": {
-            "sarge": 2,
-            "doc": 1
+            "luigi": 2,
+            "flo": 1
           }
         },
         {
           "id": "f",
-          "text": "Noen andre gjør det",
+          "text": "Noterer nummeret og ringer tilbake senere",
           "scores": {
-            "ramone": 2,
-            "cruz": 1
+            "sarge": 2,
+            "guido": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange nøkler har du på nøkkelknippet?",
+      "text": "Hvordan pakker du til en ferie?",
       "options": [
         {
           "id": "a",
-          "text": "Én, det holder",
+          "text": "Lager en liste og pakker i god tid",
           "scores": {
-            "guido": 2,
-            "fillmore": 2
+            "sarge": 2,
+            "sally": 1
           }
         },
         {
           "id": "b",
-          "text": "Tre",
+          "text": "Kaster ting i kofferten rett før jeg drar",
           "scores": {
-            "doc": 2,
-            "cruz": 2
+            "fillmore": 2,
+            "bill": 1
           }
         },
         {
           "id": "c",
-          "text": "Sju",
+          "text": "Så lite som mulig, alt i én sekk",
           "scores": {
-            "king": 2,
-            "lynet": 1
+            "guido": 2,
+            "doc": 1
           }
         },
         {
           "id": "d",
-          "text": "Altfor mange",
+          "text": "Mange antrekk, for sikkerhets skyld",
           "scores": {
-            "fillmore": 2,
-            "sarge": 1
+            "ramone": 2,
+            "flo": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg vet ikke engang",
+          "text": "Bruker den samme pakkelisten som jeg har hatt i mange år",
           "scores": {
-            "luigi": 2,
-            "bill": 2
+            "doc": 2,
+            "sarge": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg har en nøkkelring uten nøkler",
+          "text": "Treningstøyet først, resten etterpå",
           "scores": {
-            "sally": 2,
-            "cruz": 1
+            "cruz": 2,
+            "lynet": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva gjør du mens du venter hos legen?",
+      "text": "Hvilken matrett fra et annet land liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Leser gamle blader",
+          "text": "Pizza",
           "scores": {
             "bill": 2,
-            "lynet": 2
+            "cruz": 1
           }
         },
         {
           "id": "b",
-          "text": "Prater med de andre",
+          "text": "Sushi",
           "scores": {
-            "sarge": 2,
-            "doc": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Tegner i hodet",
-          "scores": {
-            "flo": 2,
-            "lynet": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Mediterer",
-          "scores": {
-            "sally": 2,
-            "king": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Planlegger resten av dagen",
-          "scores": {
-            "lynet": 2,
+            "guido": 2,
             "sarge": 1
           }
         },
         {
-          "id": "f",
-          "text": "Teller takplatene",
+          "id": "c",
+          "text": "Tacos",
+          "scores": {
+            "flo": 2,
+            "cruz": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Indisk curry",
+          "scores": {
+            "ramone": 2,
+            "luigi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fransk løksuppe",
           "scores": {
             "king": 2,
-            "guido": 2
+            "doc": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Falafel",
+          "scores": {
+            "fillmore": 2,
+            "ramone": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilket ord rimer best på navnet ditt?",
+      "text": "Du skal på en lang biltur. Hva er viktigst for deg?",
       "options": [
         {
           "id": "a",
-          "text": "Sol",
+          "text": "God musikk på anlegget",
           "scores": {
-            "fillmore": 2,
-            "sarge": 1
+            "ramone": 2,
+            "luigi": 1
           }
         },
         {
           "id": "b",
-          "text": "Fantastisk",
+          "text": "Å komme fram så fort som mulig",
           "scores": {
-            "bill": 2,
-            "sarge": 2
+            "lynet": 2,
+            "guido": 1
           }
         },
         {
           "id": "c",
-          "text": "Kaffe",
+          "text": "Fine stopp og pauser underveis",
           "scores": {
-            "king": 2,
-            "guido": 2
+            "sally": 2,
+            "fillmore": 1
           }
         },
         {
           "id": "d",
-          "text": "Ballong",
+          "text": "Gode samtaler med dem som sitter på",
           "scores": {
             "flo": 2,
-            "ramone": 2
+            "bill": 1
           }
         },
         {
           "id": "e",
-          "text": "Sokk",
+          "text": "En ferdig planlagt rute",
           "scores": {
-            "cruz": 2,
-            "ramone": 2
+            "sarge": 2,
+            "doc": 1
           }
         },
         {
           "id": "f",
-          "text": "Bom",
+          "text": "Å se nye steder langs veien",
           "scores": {
-            "doc": 2,
-            "fillmore": 1
+            "cruz": 2,
+            "king": 1
           }
         }
       ]

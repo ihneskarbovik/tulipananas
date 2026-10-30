@@ -2,374 +2,382 @@
   "id": "2026-10-31",
   "date": "2026-10-31",
   "title": "Hvilket monster er du i dag?",
-  "intro": "Er du et sjenert spøkelse, en elegant vampyr eller et troll med stort hjerte? Svar på sju litt rare spørsmål og finn ut hvilket monster du er på halloween.",
+  "intro": "Er du et sjenert spøkelse, en elegant vampyr eller et troll med stort hjerte? Svar på sju spørsmål og finn ut hvilket monster du er på halloween.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken grønnsak ville vært den beste læreren?",
+      "text": "Hvilket sjødyr liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Brokkoli",
+          "text": "Delfin",
           "scores": {
-            "nokken": 2,
-            "troll": 1
+            "varulv": 1,
+            "skjelett": 1
           }
         },
         {
           "id": "b",
-          "text": "Potet",
+          "text": "Hval",
           "scores": {
-            "kyklop": 2,
-            "spokelse": 1
+            "yeti": 2,
+            "kraken": 1
           }
         },
         {
           "id": "c",
-          "text": "Agurk",
+          "text": "Sjøhest",
           "scores": {
-            "drage": 2,
-            "varulv": 2
+            "nokken": 2,
+            "vampyr": 1
           }
         },
         {
           "id": "d",
-          "text": "Paprika",
+          "text": "Havskilpadde",
           "scores": {
-            "yeti": 2,
-            "vampyr": 2
+            "mumie": 2,
+            "spokelse": 1
           }
         },
         {
           "id": "e",
-          "text": "Løk",
+          "text": "Hai",
           "scores": {
-            "troll": 2,
-            "kraken": 2
+            "drage": 2,
+            "kyklop": 1
           }
         },
         {
           "id": "f",
-          "text": "Blomkål",
+          "text": "Sel",
           "scores": {
-            "spokelse": 2,
-            "skjelett": 1
+            "troll": 1,
+            "heks": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "En sjiraff ber deg om hjelp med leksene. Hvilket fag?",
+      "text": "Planene dine blir avlyst i siste liten. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Matte",
+          "text": "Blir hjemme og slapper av i sofaen",
           "scores": {
-            "heks": 2,
-            "troll": 1
+            "mumie": 1,
+            "yeti": 1
           }
         },
         {
           "id": "b",
-          "text": "Norsk",
+          "text": "Ringer noen andre og finner på noe nytt",
           "scores": {
-            "kraken": 2,
-            "heks": 2
+            "varulv": 1,
+            "kraken": 2
           }
         },
         {
           "id": "c",
-          "text": "Gym",
+          "text": "Bruker tiden på et eget prosjekt",
           "scores": {
-            "vampyr": 2,
-            "nokken": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Musikk",
-          "scores": {
-            "drage": 2,
+            "heks": 1,
             "kyklop": 2
           }
         },
         {
-          "id": "e",
-          "text": "Kunst og håndverk",
+          "id": "d",
+          "text": "Blir litt sur, men kommer over det",
           "scores": {
-            "skjelett": 2,
-            "varulv": 1
+            "troll": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter på musikk og tenker på andre ting",
+          "scores": {
+            "nokken": 2,
+            "spokelse": 1
           }
         },
         {
           "id": "f",
-          "text": "Naturfag",
+          "text": "Sier ifra at det var dumt, og foreslår en ny dag",
           "scores": {
-            "kyklop": 2,
-            "mumie": 1
+            "skjelett": 2,
+            "vampyr": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hva synes du om gafler?",
+      "text": "Hvor vil du helst bo?",
       "options": [
         {
           "id": "a",
-          "text": "Undervurderte",
+          "text": "Leilighet midt i byen",
           "scores": {
-            "mumie": 2,
-            "kraken": 2
+            "vampyr": 2,
+            "kraken": 1
           }
         },
         {
           "id": "b",
-          "text": "Litt for spisse",
+          "text": "Hytte på fjellet",
           "scores": {
-            "heks": 2,
-            "spokelse": 1
+            "yeti": 1,
+            "troll": 1
           }
         },
         {
           "id": "c",
-          "text": "De burde ha flere tagger",
+          "text": "Hus ved sjøen",
           "scores": {
-            "nokken": 2,
-            "mumie": 2
+            "nokken": 1,
+            "kraken": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg spiser helst med skje",
+          "text": "Gård på landet",
           "scores": {
-            "vampyr": 2,
-            "drage": 1
+            "troll": 2,
+            "mumie": 1
           }
         },
         {
           "id": "e",
-          "text": "Fine til å gre håret",
+          "text": "Lite hus i skogen",
           "scores": {
-            "varulv": 2,
-            "yeti": 1
+            "spokelse": 1,
+            "heks": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg samler på dem",
+          "text": "Stort, gammelt hus med mange rom",
           "scores": {
-            "yeti": 2,
-            "troll": 2
+            "drage": 1,
+            "mumie": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan spiser du en is?",
+      "text": "Hva gjør du helst på halloween?",
       "options": [
         {
           "id": "a",
-          "text": "Biter rett i den",
+          "text": "Går rundt i nabolaget og ringer på",
           "scores": {
             "varulv": 2,
-            "kraken": 1
+            "skjelett": 1
           }
         },
         {
           "id": "b",
-          "text": "Slikker sakte rundt og rundt",
+          "text": "Ser en skummel film hjemme",
           "scores": {
-            "troll": 2,
-            "kyklop": 1
+            "spokelse": 2,
+            "yeti": 1
           }
         },
         {
           "id": "c",
-          "text": "Den smelter før jeg rekker det",
+          "text": "Lager mitt eget kostyme",
           "scores": {
-            "drage": 2,
-            "mumie": 2
+            "heks": 2,
+            "vampyr": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg deler den med noen",
+          "text": "Deler ut godteri til dem som ringer på",
           "scores": {
-            "kyklop": 2,
-            "heks": 1
+            "troll": 1,
+            "mumie": 1
           }
         },
         {
           "id": "e",
-          "text": "Bare toppen, så gir jeg bort resten",
+          "text": "Går på halloweenfest med venner",
           "scores": {
-            "skjelett": 2,
-            "vampyr": 2
+            "vampyr": 2,
+            "skjelett": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skjærer ut gresskar",
+          "scores": {
+            "kyklop": 2,
+            "heks": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange ganger sjekker du at døra er låst?",
+      "text": "Hva gjør du først når du kommer hjem?",
       "options": [
         {
           "id": "a",
-          "text": "Én gang, det holder",
+          "text": "Finner noe å spise",
           "scores": {
-            "nokken": 2,
-            "mumie": 2
+            "troll": 1,
+            "drage": 2
           }
         },
         {
           "id": "b",
-          "text": "To ganger, for sikkerhets skyld",
+          "text": "Legger meg på sofaen under et pledd",
           "scores": {
-            "yeti": 2,
-            "troll": 1
+            "mumie": 1,
+            "yeti": 1
           }
         },
         {
           "id": "c",
-          "text": "Fem ganger, minst",
+          "text": "Setter på musikk",
           "scores": {
-            "spokelse": 2,
-            "skjelett": 2
+            "nokken": 2,
+            "skjelett": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg går tilbake fra bussen",
+          "text": "Går i gang med noe jeg holder på med",
           "scores": {
-            "kraken": 2,
-            "kyklop": 2
+            "kyklop": 2,
+            "kraken": 1
           }
         },
         {
           "id": "e",
-          "text": "Hvilken dør?",
+          "text": "Sender melding til en venn",
           "scores": {
-            "drage": 2,
-            "kyklop": 1
+            "varulv": 1,
+            "kraken": 2
           }
         },
         {
           "id": "f",
-          "text": "Jeg låser ikke, jeg stoler på folk",
+          "text": "Går inn på rommet mitt og lukker døra",
           "scores": {
-            "varulv": 2,
-            "heks": 1
+            "spokelse": 2,
+            "yeti": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Du vinner et helt års forbruk av noe. Hva velger du?",
+      "text": "Hvilken by ville du helst bodd i?",
       "options": [
         {
           "id": "a",
-          "text": "Tannkrem",
+          "text": "Paris",
           "scores": {
-            "nokken": 2,
-            "troll": 2
+            "vampyr": 1,
+            "heks": 2
           }
         },
         {
           "id": "b",
-          "text": "Bananer",
+          "text": "New York",
           "scores": {
-            "heks": 2,
-            "kraken": 1
+            "kraken": 2,
+            "varulv": 1
           }
         },
         {
           "id": "c",
-          "text": "Strikkegarn",
+          "text": "Tromsø",
           "scores": {
-            "troll": 2,
-            "nokken": 2
+            "yeti": 2,
+            "spokelse": 1
           }
         },
         {
           "id": "d",
-          "text": "Ballonger",
+          "text": "Roma",
           "scores": {
-            "kraken": 2,
-            "yeti": 2
+            "mumie": 2,
+            "drage": 2
           }
         },
         {
           "id": "e",
-          "text": "Klistremerker",
+          "text": "Bergen",
           "scores": {
-            "drage": 2,
-            "vampyr": 2
+            "nokken": 2,
+            "troll": 1
           }
         },
         {
           "id": "f",
-          "text": "Saft",
+          "text": "Barcelona",
           "scores": {
-            "spokelse": 2,
-            "skjelett": 1
+            "skjelett": 2,
+            "varulv": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilken frisyre passer deg i dag?",
+      "text": "Hva er det viktigste du har i kjøleskapet?",
       "options": [
         {
           "id": "a",
-          "text": "Rett ut av senga",
+          "text": "Melk",
           "scores": {
-            "yeti": 2,
-            "spokelse": 2
+            "spokelse": 1,
+            "yeti": 1
           }
         },
         {
           "id": "b",
-          "text": "Stram hestehale",
+          "text": "Ost",
           "scores": {
-            "mumie": 2,
-            "skjelett": 2
+            "troll": 1,
+            "mumie": 1
           }
         },
         {
           "id": "c",
-          "text": "Masse krøller",
+          "text": "Juice",
           "scores": {
-            "drage": 2,
-            "skjelett": 2
+            "varulv": 2,
+            "skjelett": 1
           }
         },
         {
           "id": "d",
-          "text": "Helt glatt og blankt",
+          "text": "Pålegg til matpakken",
           "scores": {
-            "heks": 2,
-            "kraken": 2
+            "kyklop": 2,
+            "skjelett": 1
           }
         },
         {
           "id": "e",
-          "text": "En liten topp",
+          "text": "Ingredienser til å lage noe nytt",
           "scores": {
-            "nokken": 2,
-            "varulv": 1
+            "heks": 1,
+            "kraken": 1
           }
         },
         {
           "id": "f",
-          "text": "Lue, uansett",
+          "text": "Noe godt jeg sparer på",
           "scores": {
-            "kyklop": 2,
-            "yeti": 2
+            "drage": 2,
+            "vampyr": 1
           }
         }
       ]

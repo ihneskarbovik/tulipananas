@@ -2,382 +2,369 @@
   "id": "2026-12-13",
   "date": "2026-12-13",
   "title": "Hvilken julemat er du i dag?",
-  "intro": "Gratulerer med Luciadagen! Er du en trofast ribbe, en lys lussekatt eller en sjelden multekrem? Svar på sju litt rare spørsmål og finn ut hvilken julemat du er i dag.",
+  "intro": "Gratulerer med Luciadagen! Er du en trofast ribbe, en lys lussekatt eller en sjelden multekrem? Svar på sju spørsmål og finn ut hvilken julemat du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilket dyr ville vært best til å kjøre trikk?",
+      "text": "Hvilket rom liker du best hjemme?",
       "options": [
         {
           "id": "a",
-          "text": "Elefant",
+          "text": "Kjøkkenet",
           "scores": {
-            "lutefisk": 2,
+            "julekake": 2,
             "medisterkake": 1
           }
         },
         {
           "id": "b",
-          "text": "Pingvin",
+          "text": "Stua",
           "scores": {
             "ribbe": 2,
-            "lussekatt": 1
+            "risengrynsgrot": 1
           }
         },
         {
           "id": "c",
-          "text": "Ekorn",
+          "text": "Soverommet",
           "scores": {
-            "risengrynsgrot": 2,
-            "pepperkake": 2
+            "pinnekjott": 2,
+            "riskrem": 1
           }
         },
         {
           "id": "d",
-          "text": "Ugle",
+          "text": "Badet",
           "scores": {
-            "riskrem": 2,
-            "pepperkake": 1
+            "multekrem": 2,
+            "marsipangris": 2
           }
         },
         {
           "id": "e",
-          "text": "Skilpadde",
+          "text": "Et hobbyrom",
           "scores": {
-            "medisterkake": 2,
+            "pepperkake": 2,
             "riskrem": 1
           }
         },
         {
           "id": "f",
-          "text": "Hest",
+          "text": "Loftet med alle de gamle tingene",
           "scores": {
-            "marsipangris": 2,
-            "smultring": 1
+            "smultring": 2,
+            "lutefisk": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om strømper med tær?",
+      "text": "Hvordan møter du nye folk?",
       "options": [
         {
           "id": "a",
-          "text": "Genialt",
+          "text": "Går bort og presenterer meg",
           "scores": {
-            "multekrem": 2,
-            "pinnekjott": 1
+            "ribbe": 1,
+            "pepperkake": 1
           }
         },
         {
           "id": "b",
-          "text": "Litt skumle",
+          "text": "Venter til noen andre tar det første steget",
           "scores": {
-            "smultring": 2,
-            "medisterkake": 1
+            "medisterkake": 1,
+            "smultring": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg har ti par",
+          "text": "Spør om noe og lytter",
           "scores": {
-            "lussekatt": 2,
-            "lutefisk": 2
+            "risengrynsgrot": 2
           }
         },
         {
           "id": "d",
-          "text": "Tær skal være frie",
+          "text": "Kommer med en spøk",
           "scores": {
-            "julekake": 2,
-            "lutefisk": 1
+            "marsipangris": 2
           }
         },
         {
           "id": "e",
-          "text": "Bare til fest",
+          "text": "Er stille først, men blir kjent etter hvert",
           "scores": {
-            "risengrynsgrot": 2,
-            "riskrem": 2
+            "pinnekjott": 1
           }
         },
         {
           "id": "f",
-          "text": "Hvorfor ikke votter med tær også?",
+          "text": "Smiler og sier hei til alle",
           "scores": {
-            "marsipangris": 2,
-            "risengrynsgrot": 2
+            "lussekatt": 2,
+            "riskrem": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan går du over en isete parkeringsplass?",
+      "text": "Hvilken lukt liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Med små, forsiktige skritt",
+          "text": "Nyvasket tøy",
           "scores": {
-            "smultring": 2,
-            "pepperkake": 2
+            "medisterkake": 1
           }
         },
         {
           "id": "b",
-          "text": "Med armene ut som vinger",
+          "text": "Bål",
           "scores": {
-            "lutefisk": 2,
-            "multekrem": 2
+            "pinnekjott": 1,
+            "ribbe": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg sklir med vilje",
+          "text": "Sjøluft",
           "scores": {
-            "pinnekjott": 2,
-            "lussekatt": 2
+            "lutefisk": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg holder meg fast i noen",
+          "text": "Nybakt brød",
           "scores": {
-            "multekrem": 2,
-            "pinnekjott": 1
+            "julekake": 2,
+            "smultring": 1
           }
         },
         {
           "id": "e",
-          "text": "Går rundt, det finnes alltid en annen vei",
+          "text": "Stearinlys",
           "scores": {
-            "ribbe": 2,
-            "julekake": 2
+            "risengrynsgrot": 2,
+            "lussekatt": 1
           }
         },
         {
           "id": "f",
-          "text": "Fort, og håper på det beste",
+          "text": "Blomster",
           "scores": {
-            "risengrynsgrot": 2,
-            "pepperkake": 1
+            "multekrem": 2,
+            "marsipangris": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du får designe et nytt frimerke. Hva er på det?",
+      "text": "Hvordan liker du å starte en mørk desembermorgen?",
       "options": [
         {
           "id": "a",
-          "text": "En hund med solbriller",
+          "text": "Tenner lys og tar det med ro",
           "scores": {
-            "lussekatt": 2,
-            "pinnekjott": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Et fjell",
-          "scores": {
-            "julekake": 2,
+            "risengrynsgrot": 1,
             "smultring": 1
           }
         },
         {
-          "id": "c",
-          "text": "Bestemor",
+          "id": "b",
+          "text": "Setter på musikk og synger med",
           "scores": {
-            "multekrem": 2,
-            "julekake": 2
+            "lussekatt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går ut og får frisk luft",
+          "scores": {
+            "multekrem": 2
           }
         },
         {
           "id": "d",
-          "text": "Et kart over hemmelige steder",
+          "text": "Lager frokost til alle i huset",
           "scores": {
-            "marsipangris": 2,
-            "ribbe": 1
+            "medisterkake": 1
           }
         },
         {
           "id": "e",
-          "text": "Bare en stor prikk",
+          "text": "Blir under dyna så lenge jeg kan",
           "scores": {
-            "pepperkake": 2,
-            "risengrynsgrot": 1
+            "riskrem": 2,
+            "marsipangris": 1
           }
         },
         {
           "id": "f",
-          "text": "Et fyrtårn",
+          "text": "Står opp tidlig og er klar før alle andre",
           "scores": {
-            "smultring": 2,
-            "medisterkake": 1
+            "lussekatt": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange blyanter trenger et menneske?",
+      "text": "Hva gjør du når du gruer deg til noe?",
       "options": [
         {
           "id": "a",
-          "text": "Én, godt spisset",
+          "text": "Gjør det så fort som mulig, så er det gjort",
           "scores": {
-            "ribbe": 2,
-            "medisterkake": 2
+            "lutefisk": 2,
+            "ribbe": 1
           }
         },
         {
           "id": "b",
-          "text": "Tre",
+          "text": "Forbereder meg grundig",
+          "scores": {
+            "pinnekjott": 1,
+            "julekake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Snakker med noen jeg stoler på",
+          "scores": {
+            "medisterkake": 2,
+            "smultring": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker på noe hyggelig jeg skal gjøre etterpå",
           "scores": {
             "riskrem": 2,
             "marsipangris": 1
           }
         },
         {
-          "id": "c",
-          "text": "Tolv, i alle farger",
-          "scores": {
-            "pepperkake": 2,
-            "medisterkake": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "En hel boks",
-          "scores": {
-            "risengrynsgrot": 2,
-            "marsipangris": 1
-          }
-        },
-        {
           "id": "e",
-          "text": "Ingen, jeg husker alt",
+          "text": "Går en tur for å tømme hodet",
           "scores": {
-            "pinnekjott": 2,
-            "lutefisk": 1
+            "multekrem": 1,
+            "pinnekjott": 1
           }
         },
         {
           "id": "f",
-          "text": "Så mange at noen alltid er borte",
+          "text": "Prøver å se det fra den morsomme siden",
           "scores": {
-            "julekake": 2,
-            "multekrem": 2
+            "pepperkake": 1,
+            "lussekatt": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når noen synger falskt?",
+      "text": "Hva er favorittgodteriet ditt?",
       "options": [
         {
           "id": "a",
-          "text": "Synger enda falskere med",
+          "text": "Sjokolade",
           "scores": {
-            "pepperkake": 2,
-            "smultring": 1
+            "ribbe": 2,
+            "julekake": 2
           }
         },
         {
           "id": "b",
-          "text": "Smiler og klapper",
+          "text": "Lakris",
           "scores": {
-            "smultring": 2,
-            "pepperkake": 1
+            "lutefisk": 2
           }
         },
         {
           "id": "c",
-          "text": "Gir et lite tips om tonen",
+          "text": "Seigmenn",
           "scores": {
-            "riskrem": 2,
-            "ribbe": 1
+            "marsipangris": 2,
+            "lussekatt": 1
           }
         },
         {
           "id": "d",
-          "text": "Begynner å danse",
+          "text": "Karameller",
           "scores": {
-            "lussekatt": 2,
-            "pinnekjott": 1
+            "smultring": 2,
+            "risengrynsgrot": 1
           }
         },
         {
           "id": "e",
-          "text": "Later som det er en ny sjanger",
+          "text": "Konfekt i eske",
           "scores": {
-            "multekrem": 2,
-            "medisterkake": 2
+            "multekrem": 1,
+            "riskrem": 1
           }
         },
         {
           "id": "f",
-          "text": "Nynner med, helt rent",
+          "text": "Sure godterier",
           "scores": {
-            "marsipangris": 2,
-            "ribbe": 1
+            "pepperkake": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilken himmelretning liker du best?",
+      "text": "Du får 500 kroner. Hva gjør du med dem?",
       "options": [
         {
           "id": "a",
-          "text": "Nord",
+          "text": "Sparer dem",
           "scores": {
-            "pinnekjott": 2,
-            "riskrem": 2
+            "pinnekjott": 1
           }
         },
         {
           "id": "b",
-          "text": "Sør",
+          "text": "Spanderer noe på vennene mine",
           "scores": {
             "julekake": 2,
-            "smultring": 2
+            "risengrynsgrot": 1
           }
         },
         {
           "id": "c",
-          "text": "Øst",
+          "text": "Kjøper noe fint jeg har hatt lyst på lenge",
           "scores": {
-            "lussekatt": 2,
-            "julekake": 1
+            "multekrem": 2,
+            "marsipangris": 1
           }
         },
         {
           "id": "d",
-          "text": "Vest",
+          "text": "Kjøper ting til et nytt prosjekt",
           "scores": {
-            "marsipangris": 2,
-            "multekrem": 2
+            "pepperkake": 2,
+            "riskrem": 1
           }
         },
         {
           "id": "e",
-          "text": "Rett opp",
+          "text": "Gir dem til noen som trenger dem",
           "scores": {
-            "lutefisk": 2,
-            "medisterkake": 2
+            "medisterkake": 2,
+            "lussekatt": 1
           }
         },
         {
           "id": "f",
-          "text": "Den veien jeg står",
+          "text": "Bruker dem på noe jeg aldri har prøvd før",
           "scores": {
-            "ribbe": 2,
-            "lussekatt": 2
+            "lutefisk": 1
           }
         }
       ]

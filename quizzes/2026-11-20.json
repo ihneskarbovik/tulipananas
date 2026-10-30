@@ -2,349 +2,381 @@
   "id": "2026-11-20",
   "date": "2026-11-20",
   "title": "Hvilken drue er du i dag?",
-  "intro": "Er du en frisk Sauvignon Blanc, en myk Merlot eller en gåtefull Nebbiolo? Svar på sju litt rare spørsmål og finn ut hvilken drue du er i dag.",
+  "intro": "Er du en frisk Sauvignon Blanc, en myk Merlot eller en gåtefull Nebbiolo? Svar på sju spørsmål og finn ut hvilken drue du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilket vær liker du best å gå tur i?",
+      "text": "Hvilken høytid liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Strålende sol",
+          "text": "Jul",
           "scores": {
-            "pinotgris": 2,
-            "nebbiolo": 1
+            "merlot": 2,
+            "tempranillo": 1
           }
         },
         {
           "id": "b",
-          "text": "Lett yr",
+          "text": "17. mai",
           "scores": {
-            "riesling": 2,
-            "pinotnoir": 2
+            "sangiovese": 2,
+            "sauvignonblanc": 1
           }
         },
         {
           "id": "c",
-          "text": "Tåke over jordene",
+          "text": "Påske",
           "scores": {
-            "pinotnoir": 2,
-            "nebbiolo": 2
+            "riesling": 2,
+            "chardonnay": 1
           }
         },
         {
           "id": "d",
-          "text": "Kald og klar luft",
+          "text": "Nyttårsaften",
           "scores": {
-            "cabernet": 2,
-            "merlot": 2
+            "sauvignonblanc": 1,
+            "syrah": 2
           }
         },
         {
           "id": "e",
-          "text": "Sterk vind",
+          "text": "Sankthans",
           "scores": {
-            "sangiovese": 2,
-            "chardonnay": 2
+            "pinotgris": 2,
+            "chenin": 1
           }
         },
         {
           "id": "f",
-          "text": "Rett etter et regnskyll",
+          "text": "Halloween",
           "scores": {
-            "syrah": 2,
-            "riesling": 1
+            "nebbiolo": 2,
+            "syrah": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om skorpen på brødskiva?",
+      "text": "Hvordan handler du mat?",
       "options": [
         {
           "id": "a",
-          "text": "Den beste delen",
+          "text": "Har handleliste og følger den",
           "scores": {
             "tempranillo": 2,
-            "cabernet": 1
+            "riesling": 1
           }
         },
         {
           "id": "b",
-          "text": "Jeg skjærer den av",
+          "text": "Går rundt og ser hva som frister",
           "scores": {
-            "sangiovese": 2,
-            "chenin": 2
+            "chenin": 1,
+            "pinotgris": 1
           }
         },
         {
           "id": "c",
-          "text": "Spiser den til slutt",
+          "text": "Kjøper stort sett det samme hver uke",
           "scores": {
-            "pinotnoir": 2,
+            "chardonnay": 1,
+            "cabernet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøper ekstra i tilfelle det kommer gjester",
+          "scores": {
+            "merlot": 1,
             "sangiovese": 2
           }
         },
         {
-          "id": "d",
-          "text": "Bare hvis den er sprø",
-          "scores": {
-            "syrah": 2,
-            "cabernet": 1
-          }
-        },
-        {
           "id": "e",
-          "text": "Den gir jeg til fuglene",
-          "scores": {
-            "riesling": 2,
-            "nebbiolo": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "En katt vil skrive en bok om deg. Hva heter den?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Den rolige",
-          "scores": {
-            "tempranillo": 2,
-            "merlot": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Plutselig skjedde det",
-          "scores": {
-            "nebbiolo": 2,
-            "syrah": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Alltid presis",
-          "scores": {
-            "pinotgris": 2,
-            "chardonnay": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Nesten alltid hyggelig",
-          "scores": {
-            "merlot": 2,
-            "sauvignonblanc": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Mysteriet i gangen",
-          "scores": {
-            "cabernet": 2,
-            "tempranillo": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Hun som kom for sent",
-          "scores": {
-            "chenin": 2,
-            "sangiovese": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hvordan rydder du opp etter en fest?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Med en gang, før jeg legger meg",
-          "scores": {
-            "pinotgris": 2,
-            "pinotnoir": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Neste dag, med musikk",
-          "scores": {
-            "tempranillo": 2,
-            "sangiovese": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg lar gjestene hjelpe",
-          "scores": {
-            "syrah": 2,
-            "sauvignonblanc": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg flytter heller",
+          "text": "Leser nøye på varene og velger det beste",
           "scores": {
             "pinotnoir": 2,
             "riesling": 1
           }
         },
         {
+          "id": "f",
+          "text": "Gjør det så fort som mulig",
+          "scores": {
+            "sauvignonblanc": 1,
+            "syrah": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor i norsk natur trives du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt til fjells",
+          "scores": {
+            "cabernet": 2,
+            "riesling": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved sjøen",
+          "scores": {
+            "pinotgris": 2,
+            "chardonnay": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dypt inne i skogen",
+          "scores": {
+            "nebbiolo": 2,
+            "pinotnoir": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en øy ute i havet",
+          "scores": {
+            "sauvignonblanc": 2,
+            "chenin": 1
+          }
+        },
+        {
           "id": "e",
-          "text": "Bit for bit gjennom uka",
+          "text": "Ved et vann med en hytte",
+          "scores": {
+            "merlot": 1,
+            "tempranillo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved en stor foss",
+          "scores": {
+            "syrah": 2,
+            "chenin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du når du får en ny idé?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter i gang med en gang",
+          "scores": {
+            "sauvignonblanc": 2,
+            "syrah": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver den ned og tenker på den en stund",
+          "scores": {
+            "nebbiolo": 2,
+            "riesling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller den til alle jeg kjenner",
+          "scores": {
+            "sangiovese": 1,
+            "chenin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en plan for hvordan det kan gjøres",
+          "scores": {
+            "tempranillo": 2,
+            "cabernet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør noen jeg stoler på hva de synes",
           "scores": {
             "chardonnay": 2,
-            "nebbiolo": 2
+            "merlot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter og ser om den fortsatt er god i morgen",
+          "scores": {
+            "riesling": 1,
+            "pinotgris": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvilket rom ville du malt gult?",
+      "text": "Hvilken utflukt i byen velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Kjøkkenet",
+          "text": "Kunstmuseum",
           "scores": {
-            "nebbiolo": 2,
-            "pinotnoir": 1
+            "pinotnoir": 2,
+            "nebbiolo": 2
           }
         },
         {
           "id": "b",
-          "text": "Badet",
+          "text": "Kino",
           "scores": {
-            "sangiovese": 2,
-            "merlot": 2
+            "pinotgris": 1,
+            "merlot": 1
           }
         },
         {
           "id": "c",
-          "text": "Gangen",
+          "text": "Kafé med venner",
           "scores": {
-            "chenin": 2,
-            "cabernet": 2
+            "sangiovese": 2,
+            "merlot": 1
           }
         },
         {
           "id": "d",
-          "text": "Soverommet",
+          "text": "Konsert",
           "scores": {
-            "cabernet": 2,
-            "chenin": 2
+            "syrah": 2,
+            "cabernet": 1
           }
         },
         {
           "id": "e",
-          "text": "Boden",
+          "text": "Et sted i byen jeg aldri har vært før",
           "scores": {
-            "merlot": 2,
-            "tempranillo": 2
+            "chenin": 2,
+            "sauvignonblanc": 1
           }
         },
         {
           "id": "f",
-          "text": "Ingen, gult er for sterkt",
+          "text": "Historisk museum",
           "scores": {
-            "chardonnay": 2,
-            "sauvignonblanc": 2
+            "tempranillo": 2,
+            "cabernet": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvor mange bøker leser du samtidig?",
+      "text": "Hvordan feirer du når noe går bra?",
       "options": [
         {
           "id": "a",
-          "text": "Én, fra start til slutt",
+          "text": "Inviterer venner på middag",
           "scores": {
-            "riesling": 2,
-            "pinotnoir": 1
+            "sangiovese": 2,
+            "merlot": 1
           }
         },
         {
           "id": "b",
-          "text": "To, en lett og en tung",
+          "text": "Kjøper noe godt til meg selv",
           "scores": {
-            "tempranillo": 2,
-            "sauvignonblanc": 1
+            "pinotnoir": 2,
+            "pinotgris": 1
           }
         },
         {
           "id": "c",
-          "text": "Fem, alle halvveis",
+          "text": "Hopper og jubler",
           "scores": {
-            "chardonnay": 2,
-            "nebbiolo": 1
+            "sauvignonblanc": 1,
+            "chenin": 1
           }
         },
         {
           "id": "d",
-          "text": "Ingen nå, men snart",
+          "text": "Feirer i stillhet med en god kopp te",
           "scores": {
-            "cabernet": 2,
-            "syrah": 1
+            "nebbiolo": 2,
+            "riesling": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg leser heller oppskrifter",
+          "text": "Ringer familien og forteller det",
           "scores": {
-            "sauvignonblanc": 2,
-            "sangiovese": 1
+            "tempranillo": 2,
+            "merlot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Feirer litt og tenker så på neste mål",
+          "scores": {
+            "cabernet": 2,
+            "syrah": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilken del av uka er mest undervurdert?",
+      "text": "Det er mørkt allerede om ettermiddagen. Hva gjør du for å kose deg?",
       "options": [
         {
           "id": "a",
-          "text": "Mandag morgen",
+          "text": "Tenner stearinlys og leser en bok",
           "scores": {
-            "nebbiolo": 2,
-            "chenin": 2
+            "pinotnoir": 2,
+            "nebbiolo": 1
           }
         },
         {
           "id": "b",
-          "text": "Onsdag ettermiddag",
+          "text": "Lager en stor gryte og inviterer noen på middag",
           "scores": {
-            "syrah": 2,
-            "pinotgris": 1
+            "merlot": 2,
+            "sangiovese": 1
           }
         },
         {
           "id": "c",
-          "text": "Torsdag kveld",
+          "text": "Går en tur med hodelykt",
           "scores": {
             "riesling": 2,
-            "sauvignonblanc": 2
+            "cabernet": 2
           }
         },
         {
           "id": "d",
-          "text": "Fredag lunsj",
+          "text": "Lager kakao og ser en film",
           "scores": {
-            "sangiovese": 2,
-            "merlot": 2
+            "pinotgris": 1,
+            "chardonnay": 1
           }
         },
         {
           "id": "e",
-          "text": "Søndag kveld",
+          "text": "Begynner å planlegge jula",
           "scores": {
-            "pinotgris": 2,
+            "tempranillo": 1,
+            "chardonnay": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prøver en ny oppskrift",
+          "scores": {
+            "chenin": 2,
             "syrah": 1
           }
         }

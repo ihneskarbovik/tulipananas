@@ -2,293 +2,354 @@
   "id": "2026-11-24",
   "date": "2026-11-24",
   "title": "Hvilken statsråd er du i dag?",
-  "intro": "Hvem i regjeringen ligner du mest på i dag? Svar på sju helt upolitiske og litt rare spørsmål og finn ut hvilken statsråd du er.",
+  "intro": "Hvem i regjeringen ligner du mest på i dag? Svar på sju helt upolitiske spørsmål og finn ut hvilken statsråd du er.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken frukt er mest til å stole på?",
+      "text": "Hvilke sko går du helst i?",
       "options": [
         {
           "id": "a",
-          "text": "Banan",
+          "text": "Joggesko",
           "scores": {
-            "store": 2,
+            "gunaratnam": 2,
             "vestre": 1
           }
         },
         {
           "id": "b",
-          "text": "Eple",
+          "text": "Gode tursko",
           "scores": {
-            "vestre": 2,
-            "jaffery": 1
+            "aasland": 2,
+            "sandtroen": 1
           }
         },
         {
           "id": "c",
-          "text": "Pære",
+          "text": "Gummistøvler",
           "scores": {
-            "gunaratnam": 2,
-            "naess": 1
+            "naess": 2,
+            "sandtroen": 1
           }
         },
         {
           "id": "d",
-          "text": "Appelsin",
+          "text": "Pene skinnsko",
           "scores": {
-            "naess": 2,
-            "sandvik": 2
+            "aashansen": 2,
+            "store": 1
           }
         },
         {
           "id": "e",
-          "text": "Kiwi",
+          "text": "Fargerike sneakers",
           "scores": {
-            "aashansen": 2,
-            "naess": 1
+            "eide": 2,
+            "jaffery": 1
           }
         },
         {
           "id": "f",
-          "text": "Plomme",
+          "text": "Solide vinterstøvler",
           "scores": {
             "sandvik": 2,
-            "vestre": 2
+            "stoltenberg": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om agurker?",
+      "text": "Du er ute, og det begynner å regne. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Sterkt undervurdert",
+          "text": "Fortsetter som før, litt regn går fint",
           "scores": {
-            "jaffery": 2,
-            "gunaratnam": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Bare i tynne skiver",
-          "scores": {
-            "eide": 2,
+            "naess": 2,
             "sandtroen": 1
           }
         },
         {
-          "id": "c",
-          "text": "De er altfor lange",
+          "id": "b",
+          "text": "Tar fram paraplyen jeg har med meg",
           "scores": {
-            "aasland": 2,
-            "sandtroen": 2
+            "sandvik": 2,
+            "nordtun": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går inn på nærmeste kafé og venter",
+          "scores": {
+            "jaffery": 2,
+            "eide": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg synes litt synd på dem",
+          "text": "Sjekker værappen for å se hvor lenge det varer",
           "scores": {
             "stoltenberg": 2,
-            "sandtroen": 2
+            "aashansen": 1
           }
         },
         {
           "id": "e",
-          "text": "Agurk er bare vann med jobb",
+          "text": "Småløper dit jeg skal",
           "scores": {
             "gunaratnam": 2,
-            "naess": 1
+            "vestre": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter opp hetta og nyter lyden av regnet",
+          "scores": {
+            "aasland": 2,
+            "store": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "En geit vil bli med i bokklubben din. Hvilken bok velger den?",
+      "text": "Hva er favorittpålegget ditt?",
       "options": [
         {
           "id": "a",
-          "text": "En tykk krimroman",
+          "text": "Brunost",
           "scores": {
-            "stoltenberg": 2,
-            "gunaratnam": 1
+            "sandtroen": 2,
+            "store": 1
           }
         },
         {
           "id": "b",
-          "text": "Dikt om skyer",
+          "text": "Makrell i tomat",
           "scores": {
-            "sandtroen": 2,
-            "nordtun": 2
+            "naess": 2
           }
         },
         {
           "id": "c",
-          "text": "Bruksanvisningen til en vaskemaskin",
+          "text": "Leverpostei",
           "scores": {
-            "sandvik": 2,
-            "aasland": 2
+            "stoltenberg": 2,
+            "nordtun": 1
           }
         },
         {
           "id": "d",
-          "text": "En bok om seg selv",
+          "text": "Hummus",
           "scores": {
-            "store": 2,
-            "eide": 2
+            "aasland": 2,
+            "eide": 1
           }
         },
         {
           "id": "e",
-          "text": "Den spiser heller boka",
+          "text": "Syltetøy",
           "scores": {
-            "eide": 2,
+            "vestre": 2,
             "jaffery": 1
           }
         },
         {
           "id": "f",
-          "text": "En gammel tegneserie",
+          "text": "Gulost",
           "scores": {
-            "gunaratnam": 2,
-            "naess": 1
+            "aashansen": 2,
+            "store": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan åpner du et syltetøyglass som sitter fast?",
+      "text": "Du får bestemme hva hele nabolaget skal gjøre sammen en lørdag. Hva velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Banker lokket mot benken",
+          "text": "Dugnad og ryddeaksjon",
           "scores": {
-            "nordtun": 2,
-            "jaffery": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Holder det under varmt vann",
-          "scores": {
-            "stoltenberg": 2,
+            "aasland": 2,
             "sandvik": 1
           }
         },
         {
-          "id": "c",
-          "text": "Gir det til noen andre",
+          "id": "b",
+          "text": "Felles middag der alle tar med noe",
           "scores": {
             "sandtroen": 2,
-            "sandvik": 2
+            "jaffery": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lite løp med premier",
+          "scores": {
+            "gunaratnam": 2,
+            "stoltenberg": 1
           }
         },
         {
           "id": "d",
-          "text": "Bruker et kjøkkenhåndkle",
+          "text": "Loppemarked",
           "scores": {
-            "store": 2,
-            "nordtun": 1
+            "stoltenberg": 2,
+            "eide": 1
           }
         },
         {
           "id": "e",
-          "text": "Prøver til jeg vinner",
+          "text": "Konsert i bakgården",
           "scores": {
-            "aasland": 2,
-            "sandtroen": 2
+            "jaffery": 2,
+            "store": 1
           }
         },
         {
           "id": "f",
-          "text": "Lar det stå til i morgen",
+          "text": "Kurs der alle lærer noe nytt",
           "scores": {
-            "aashansen": 2,
-            "jaffery": 2
+            "nordtun": 2,
+            "aashansen": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange faner har du åpne i nettleseren?",
+      "text": "Hva vil du helst ha i koppen?",
       "options": [
         {
           "id": "a",
-          "text": "Én",
+          "text": "Svart kaffe",
           "scores": {
-            "aasland": 2,
-            "eide": 2
+            "naess": 2,
+            "sandvik": 1
           }
         },
         {
           "id": "b",
-          "text": "Tre eller fire",
+          "text": "Kaffe latte å ta med",
           "scores": {
-            "naess": 2,
-            "aashansen": 1
+            "gunaratnam": 2,
+            "eide": 1
           }
         },
         {
           "id": "c",
-          "text": "Rundt tjue",
+          "text": "Grønn te",
           "scores": {
             "aashansen": 2,
-            "gunaratnam": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Over femti",
-          "scores": {
-            "jaffery": 2,
             "aasland": 1
           }
         },
         {
-          "id": "e",
-          "text": "Hva er en fane?",
+          "id": "d",
+          "text": "Varm kakao",
           "scores": {
-            "sandvik": 2,
-            "vestre": 2
+            "vestre": 2,
+            "store": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Varm melk med honning",
+          "scores": {
+            "sandtroen": 2,
+            "nordtun": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når du har gått deg vill?",
+      "text": "Noen ber deg om hjelp. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Spør noen",
+          "text": "Sier ja med en gang",
           "scores": {
-            "aashansen": 2,
-            "vestre": 1
+            "vestre": 2,
+            "sandvik": 1
           }
         },
         {
           "id": "b",
-          "text": "Sjekker kartet",
+          "text": "Spør litt mer for å forstå hva de trenger",
           "scores": {
-            "eide": 2,
-            "aasland": 2
+            "store": 2,
+            "eide": 1
           }
         },
         {
           "id": "c",
-          "text": "Går videre, det ordner seg",
+          "text": "Viser dem hvordan de kan gjøre det selv",
           "scores": {
-            "sandtroen": 2,
-            "naess": 1
+            "nordtun": 2,
+            "store": 1
           }
         },
         {
           "id": "d",
-          "text": "Går etter solen",
+          "text": "Finner et tidspunkt som passer for oss begge",
+          "scores": {
+            "aashansen": 2,
+            "eide": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar med noen flere som kan hjelpe til",
+          "scores": {
+            "gunaratnam": 2,
+            "jaffery": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ordner det raskt uten mye prat",
+          "scores": {
+            "naess": 2,
+            "sandvik": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva slags arrangement går du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konsert",
+          "scores": {
+            "jaffery": 2,
+            "gunaratnam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Teater",
+          "scores": {
+            "jaffery": 1,
+            "eide": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fotballkamp",
+          "scores": {
+            "sandvik": 2,
+            "store": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foredrag",
           "scores": {
             "nordtun": 2,
             "stoltenberg": 1
@@ -296,64 +357,18 @@
         },
         {
           "id": "e",
-          "text": "Ringer en venn",
+          "text": "Matfestival",
           "scores": {
-            "store": 2,
-            "sandvik": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Setter meg ned og venter",
-          "scores": {
-            "naess": 2,
-            "sandtroen": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hvor ofte vanner du plantene?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Hver morgen",
-          "scores": {
-            "gunaratnam": 2,
-            "jaffery": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Når de ser triste ut",
-          "scores": {
-            "stoltenberg": 2,
-            "nordtun": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Når jeg husker det",
-          "scores": {
-            "naess": 2,
+            "sandtroen": 2,
             "vestre": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg har bare kaktus",
-          "scores": {
-            "aashansen": 2,
-            "vestre": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg snakker med dem i stedet",
+          "id": "f",
+          "text": "Friluftsfestival",
           "scores": {
             "aasland": 2,
-            "nordtun": 2
+            "naess": 1
           }
         }
       ]

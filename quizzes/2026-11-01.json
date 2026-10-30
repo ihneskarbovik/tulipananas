@@ -2,111 +2,111 @@
   "id": "2026-11-01",
   "date": "2026-11-01",
   "title": "Hvilken edelstein er du i dag?",
-  "intro": "Er du en bestemt diamant, en drømmende ametyst eller en koselig bit rav? Svar på sju litt rare spørsmål og finn ut hvilken edelstein du er i dag.",
+  "intro": "Er du en bestemt diamant, en drømmende ametyst eller en koselig bit rav? Svar på sju spørsmål og finn ut hvilken edelstein du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvor mange knapper skal en skjorte ha?",
+      "text": "Hvilken farge synes du er mest behagelig å se på?",
       "options": [
         {
           "id": "a",
-          "text": "Tre. Det holder lenge",
+          "text": "Lyseblå",
           "scores": {
-            "jade": 2,
-            "diamant": 1
+            "ametyst": 2,
+            "jade": 1
           }
         },
         {
           "id": "b",
-          "text": "Sju, og alle skal være knappet",
+          "text": "Skoggrønn",
           "scores": {
-            "safir": 2,
-            "granat": 1
+            "granat": 2,
+            "akvamarin": 2
           }
         },
         {
           "id": "c",
-          "text": "Elleve, men alle i forskjellige farger",
+          "text": "Varm gul",
           "scores": {
-            "opal": 2,
-            "smaragd": 1
+            "rubin": 2,
+            "turkis": 1
           }
         },
         {
           "id": "d",
-          "text": "Ingen. Jeg vil ha glidelås",
+          "text": "Grå",
           "scores": {
-            "turkis": 2,
-            "rubin": 1
+            "diamant": 1,
+            "safir": 1
           }
         },
         {
           "id": "e",
-          "text": "Fem, og en reserveknapp i lomma",
+          "text": "Lilla",
           "scores": {
-            "rav": 2,
-            "perle": 1
+            "smaragd": 1,
+            "opal": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg har aldri lagt merke til knapper",
+          "text": "Lys rosa",
           "scores": {
-            "ametyst": 2,
-            "akvamarin": 1
+            "perle": 2,
+            "rav": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Du møter en hval på trikken. Hva snakker dere om?",
+      "text": "Du må ta en vanskelig beslutning. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Hvor dere skal gå av",
+          "text": "Lager en liste med fordeler og ulemper",
           "scores": {
-            "jade": 2,
-            "safir": 1
+            "safir": 2,
+            "jade": 2
           }
         },
         {
           "id": "b",
-          "text": "Det siste den drømte i natt",
+          "text": "Går for det magefølelsen sier",
           "scores": {
-            "ametyst": 2,
-            "opal": 1
+            "rubin": 2,
+            "turkis": 1
           }
         },
         {
           "id": "c",
-          "text": "Om den vil være med på kino etterpå",
+          "text": "Spør noen jeg stoler på",
           "scores": {
-            "turkis": 2,
-            "granat": 1
+            "granat": 2,
+            "rav": 1
           }
         },
         {
           "id": "d",
-          "text": "Ingenting, vi bare nikker vennlig",
+          "text": "Sover på det og bestemmer meg dagen etter",
           "scores": {
-            "perle": 2,
-            "akvamarin": 1
+            "ametyst": 2,
+            "perle": 1
           }
         },
         {
           "id": "e",
-          "text": "Hvem som egentlig har rett på setet",
+          "text": "Bestemmer meg raskt og står for det",
           "scores": {
-            "rubin": 2,
-            "diamant": 1
+            "diamant": 1,
+            "rubin": 1
           }
         },
         {
           "id": "f",
-          "text": "Gamle trikkelinjer som ikke finnes lenger",
+          "text": "Kaster mynt og kron",
           "scores": {
-            "rav": 2,
+            "opal": 1,
             "smaragd": 1
           }
         }
@@ -114,262 +114,262 @@
     },
     {
       "id": "q3",
-      "text": "Hvordan kommer du deg opp i en hengekøye?",
+      "text": "Hva er favorittårstiden din?",
       "options": [
         {
           "id": "a",
-          "text": "Ett elegant hopp, og så ligger jeg",
+          "text": "Våren, når alt begynner å gro",
           "scores": {
-            "perle": 2,
-            "rubin": 1
+            "smaragd": 2,
+            "akvamarin": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg leser bruksanvisningen først",
+          "text": "Sommeren, med lange, lyse kvelder",
           "scores": {
-            "safir": 2,
-            "jade": 1
+            "turkis": 2,
+            "opal": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg faller ut tre ganger og ler hver gang",
-          "scores": {
-            "opal": 2,
-            "turkis": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg drar med meg et pledd og en bok",
+          "text": "Høsten, med farger og kakao",
           "scores": {
             "rav": 2,
             "ametyst": 1
           }
         },
         {
-          "id": "e",
-          "text": "Jeg bestemmer meg for at det går, og så går det",
+          "id": "d",
+          "text": "Vinteren, med snø og skiturer",
           "scores": {
             "diamant": 2,
             "granat": 1
           }
         },
         {
-          "id": "f",
-          "text": "Jeg ser på den en stund og legger meg i gresset i stedet",
+          "id": "e",
+          "text": "Førjulstiden, med lys i vinduene",
           "scores": {
-            "akvamarin": 2,
-            "jade": 1
+            "perle": 1,
+            "rav": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Det er fem minutter til noe begynner. Hva gjør du?",
+      "text": "Noe du er glad i, går i stykker. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Sjekker at alt er klart, igjen",
+          "text": "Prøver å fikse det selv med en gang",
           "scores": {
-            "granat": 2,
-            "safir": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Dagdrømmer om noe helt annet",
-          "scores": {
-            "smaragd": 2,
-            "ametyst": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Prater med den som står nærmest",
-          "scores": {
-            "turkis": 2,
-            "rubin": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Puster rolig og ser ut av vinduet",
-          "scores": {
-            "akvamarin": 2,
-            "jade": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Retter på klærne og håret",
-          "scores": {
-            "perle": 2,
+            "jade": 2,
             "diamant": 1
           }
         },
         {
-          "id": "f",
-          "text": "Skriver ned noe jeg vil huske",
+          "id": "b",
+          "text": "Finner ut hvordan det kan repareres",
           "scores": {
-            "rav": 2,
-            "opal": 1
+            "safir": 2,
+            "granat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe nytt av bitene",
+          "scores": {
+            "smaragd": 2,
+            "opal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir lei meg en stund",
+          "scores": {
+            "ametyst": 2,
+            "rav": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør noen som er flink til å fikse ting",
+          "scores": {
+            "turkis": 2,
+            "perle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det med ro, det er bare en ting",
+          "scores": {
+            "akvamarin": 2,
+            "jade": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Du skal skrive en bok på bare én side. Hva handler den om?",
+      "text": "Hva samler du helst på?",
       "options": [
         {
           "id": "a",
-          "text": "En and som blir ordfører",
+          "text": "Bilder og minner",
           "scores": {
-            "opal": 2,
-            "smaragd": 1
+            "rav": 2,
+            "granat": 1
           }
         },
         {
           "id": "b",
-          "text": "Hvordan man lager verdens beste kakao",
+          "text": "Bøker",
           "scores": {
-            "granat": 2,
-            "rav": 1
+            "safir": 2,
+            "ametyst": 1
           }
         },
         {
           "id": "c",
-          "text": "En stor kjærlighetshistorie, kort fortalt",
+          "text": "Samlekort eller klistremerker",
           "scores": {
-            "rubin": 2,
-            "perle": 1
+            "opal": 2,
+            "rubin": 1
           }
         },
         {
           "id": "d",
-          "text": "Alt jeg vet, i punktliste",
+          "text": "Planter",
           "scores": {
-            "diamant": 2,
-            "safir": 1
+            "jade": 2,
+            "akvamarin": 2
           }
         },
         {
           "id": "e",
-          "text": "En reise uten kart",
+          "text": "Garn, stoff og ting jeg kan lage noe av",
           "scores": {
-            "turkis": 2,
-            "akvamarin": 1
+            "smaragd": 1,
+            "perle": 1
           }
         },
         {
           "id": "f",
-          "text": "En hemmelig hage som bare finnes om natta",
+          "text": "Ingenting, jeg liker å ha lite ting",
           "scores": {
-            "smaragd": 2,
-            "ametyst": 1
+            "diamant": 1,
+            "turkis": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilket kjøkkenapparat har mest personlighet?",
+      "text": "Hva er drømmeferien din?",
       "options": [
         {
           "id": "a",
-          "text": "Brødristeren. Den er så dramatisk",
+          "text": "Rundreise med ryggsekk",
           "scores": {
-            "rubin": 2,
+            "turkis": 1,
             "opal": 1
           }
         },
         {
           "id": "b",
-          "text": "Vaffeljernet. Alltid hyggelig",
+          "text": "Hytte med peis og god tid",
           "scores": {
-            "granat": 2,
-            "rav": 1
+            "rav": 2,
+            "granat": 1
           }
         },
         {
           "id": "c",
-          "text": "Kjøkkenvekta. Den er ærlig",
+          "text": "Badeferie på en rolig strand",
           "scores": {
-            "akvamarin": 2,
-            "diamant": 1
+            "ametyst": 1,
+            "jade": 2
           }
         },
         {
           "id": "d",
-          "text": "Stavmikseren. Litt vill",
+          "text": "Storby med museer og kafeer",
           "scores": {
-            "smaragd": 2,
-            "turkis": 1
+            "perle": 1,
+            "safir": 1
           }
         },
         {
           "id": "e",
-          "text": "Vannkokeren. Rolig, men bestemt",
+          "text": "Fjelltur med telt",
           "scores": {
-            "jade": 2,
-            "ametyst": 1
+            "diamant": 1,
+            "granat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fornøyelsespark",
+          "scores": {
+            "opal": 2,
+            "rubin": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvor lenge kan man se på en vaskemaskin som går?",
+      "text": "Hvordan lærer du helst noe nytt?",
       "options": [
         {
           "id": "a",
-          "text": "Ett minutt, så har jeg skjønt det",
+          "text": "Prøver meg fram til det sitter",
           "scores": {
-            "perle": 2,
-            "diamant": 1
+            "rubin": 2,
+            "jade": 1
           }
         },
         {
           "id": "b",
-          "text": "Hele programmet. Det er beroligende",
+          "text": "Leser og tar notater",
           "scores": {
-            "akvamarin": 2,
-            "ametyst": 1
+            "safir": 1,
+            "diamant": 1
           }
         },
         {
           "id": "c",
-          "text": "Til jeg finner ut hvor sokkene blir av",
+          "text": "Ser på at noen andre gjør det først",
           "scores": {
-            "safir": 2,
-            "smaragd": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Så lenge noen ser på sammen med meg",
-          "scores": {
-            "granat": 2,
+            "akvamarin": 2,
             "perle": 1
           }
         },
         {
-          "id": "e",
-          "text": "Til jeg begynner å lage en sang om den",
+          "id": "d",
+          "text": "Øver litt hver dag over lang tid",
           "scores": {
-            "ametyst": 2,
-            "opal": 1
+            "perle": 2,
+            "granat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lærer sammen med venner",
+          "scores": {
+            "turkis": 2,
+            "granat": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg går heller og henger opp forrige vask",
+          "text": "Finner min egen måte å gjøre det på",
           "scores": {
-            "jade": 2,
-            "rav": 1
+            "smaragd": 2,
+            "opal": 1
           }
         }
       ]

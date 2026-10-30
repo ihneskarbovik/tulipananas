@@ -2,265 +2,273 @@
   "id": "2026-11-08",
   "date": "2026-11-08",
   "title": "Hvilket bilmerke er du i dag?",
-  "intro": "Er du en stødig stasjonsvogn, en temperamentsfull sportsbil eller en leken liten bybil? Svar på sju litt rare spørsmål og finn ut hvilket bilmerke du er i dag.",
+  "intro": "Er du en stødig stasjonsvogn, en temperamentsfull sportsbil eller en leken liten bybil? Svar på sju spørsmål og finn ut hvilket bilmerke du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken issmak er mest undervurdert?",
+      "text": "Hvilken lukt liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Pistasj",
+          "text": "Nybakt brød",
           "scores": {
             "mercedes": 2,
-            "tesla": 1
+            "volkswagen": 1
           }
         },
         {
           "id": "b",
-          "text": "Lakris",
+          "text": "Nyklipt gress",
           "scores": {
-            "volkswagen": 2,
-            "ferrari": 1
+            "toyota": 1,
+            "volvo": 1
           }
         },
         {
           "id": "c",
-          "text": "Bringebær",
+          "text": "Bålrøyk",
           "scores": {
-            "toyota": 2,
-            "jeep": 1
+            "jeep": 2,
+            "volvo": 1
           }
         },
         {
           "id": "d",
-          "text": "Kokos",
+          "text": "Nyvasket tøy",
           "scores": {
-            "porsche": 2,
-            "volkswagen": 2
+            "audi": 2,
+            "bmw": 1
           }
         },
         {
           "id": "e",
-          "text": "Vanilje",
+          "text": "Popkorn",
           "scores": {
             "fiat": 2,
-            "mini": 1
+            "mini": 2
           }
         },
         {
           "id": "f",
-          "text": "Mango",
+          "text": "En helt ny bok",
           "scores": {
-            "ferrari": 2,
-            "jeep": 1
+            "tesla": 2,
+            "audi": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om skjerf?",
+      "text": "Noen gir deg ros for noe du har gjort. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg har ett til hvert humør",
+          "text": "Sier takk og blir litt flau",
           "scores": {
-            "bmw": 2,
-            "ferrari": 1
+            "toyota": 1,
+            "audi": 1
           }
         },
         {
           "id": "b",
-          "text": "De klør",
+          "text": "Forteller gjerne hvordan jeg fikk det til",
           "scores": {
-            "audi": 2,
-            "fiat": 1
+            "tesla": 1,
+            "bmw": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg bruker dem som pute",
+          "text": "Sier at de andre også fortjener ros",
           "scores": {
-            "jeep": 2,
-            "mercedes": 1
+            "volkswagen": 2,
+            "volvo": 1
           }
         },
         {
           "id": "d",
-          "text": "Jo lengre, jo bedre",
+          "text": "Blir kjempeglad og vil feire",
           "scores": {
-            "porsche": 2,
-            "mercedes": 1
+            "ferrari": 2,
+            "fiat": 1
           }
         },
         {
           "id": "e",
-          "text": "Bare hvis noen jeg kjenner har strikket det",
+          "text": "Sier takk og tenker på hva jeg kan gjøre enda bedre",
           "scores": {
-            "fiat": 2,
-            "jeep": 1
+            "porsche": 2,
+            "bmw": 1
           }
         },
         {
           "id": "f",
-          "text": "Pynt, ikke varme",
+          "text": "Gir et kompliment tilbake",
           "scores": {
-            "toyota": 2,
-            "mercedes": 2
+            "mercedes": 1,
+            "fiat": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "En ugle spør deg om råd. Hva sier du?",
+      "text": "Hvilket godteri velger du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Følg magefølelsen",
+          "text": "Melkesjokolade",
           "scores": {
-            "porsche": 2,
-            "toyota": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Lag en liste",
-          "scores": {
-            "mini": 2,
-            "audi": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Sov på det",
-          "scores": {
-            "bmw": 2,
-            "tesla": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Spør en annen ugle",
-          "scores": {
-            "ferrari": 2,
-            "mercedes": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Gjør det motsatte av alle andre",
-          "scores": {
-            "audi": 2,
+            "volvo": 1,
             "volkswagen": 1
           }
         },
         {
-          "id": "f",
-          "text": "Ta en pause og spis noe",
+          "id": "b",
+          "text": "Mørk sjokolade",
           "scores": {
-            "fiat": 2,
-            "mini": 2
+            "audi": 1,
+            "mercedes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sure godterier",
+          "scores": {
+            "ferrari": 1,
+            "jeep": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lakris",
+          "scores": {
+            "porsche": 2,
+            "toyota": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt av alt i smågodtposen",
+          "scores": {
+            "fiat": 1,
+            "mini": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En smak jeg ikke har prøvd før",
+          "scores": {
+            "tesla": 2,
+            "jeep": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvor mange planter har du hjemme?",
+      "text": "Hva gjør du når du taper i et spill?",
       "options": [
         {
           "id": "a",
-          "text": "Ingen, de visner",
+          "text": "Vil spille én runde til med en gang",
           "scores": {
-            "porsche": 2,
-            "audi": 1
+            "ferrari": 2,
+            "porsche": 2
           }
         },
         {
           "id": "b",
-          "text": "Én, og den heter Rolf",
+          "text": "Gratulerer vinneren og koser meg likevel",
           "scores": {
-            "volvo": 2,
-            "mini": 2
+            "volkswagen": 1,
+            "fiat": 1
           }
         },
         {
           "id": "c",
-          "text": "Fem til ti",
-          "scores": {
-            "tesla": 2,
-            "volvo": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg har mistet tellingen",
-          "scores": {
-            "bmw": 2,
-            "volkswagen": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Bare kaktuser",
-          "scores": {
-            "ferrari": 2,
-            "jeep": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hva gjør du en regnværssøndag?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Bakeriet først, så sofaen",
+          "text": "Tenker over hva jeg kunne gjort annerledes",
           "scores": {
             "audi": 2,
             "tesla": 1
           }
         },
         {
-          "id": "b",
-          "text": "Rydder hele huset",
+          "id": "d",
+          "text": "Ler av det og finner på noe nytt",
           "scores": {
-            "mercedes": 2,
+            "mini": 2,
+            "fiat": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Trekker på skuldrene, det er bare et spill",
+          "scores": {
+            "toyota": 2,
+            "volvo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Øver litt til neste gang",
+          "scores": {
+            "bmw": 2,
+            "porsche": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva vil du helst ha på pizzaen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bare ost og tomat",
+          "scores": {
+            "toyota": 1,
+            "audi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skinke og ananas",
+          "scores": {
+            "mini": 2,
             "fiat": 1
           }
         },
         {
           "id": "c",
-          "text": "Går tur uansett",
+          "text": "Pepperoni",
           "scores": {
-            "jeep": 2,
-            "audi": 2
+            "volkswagen": 1,
+            "volvo": 1
           }
         },
         {
           "id": "d",
-          "text": "Ser en hel serie",
+          "text": "Sterk salami og jalapeño",
           "scores": {
-            "volvo": 2,
-            "bmw": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Inviterer på brettspill",
-          "scores": {
-            "ferrari": 2,
+            "ferrari": 1,
             "jeep": 1
           }
         },
         {
-          "id": "f",
-          "text": "Planlegger neste ferie",
+          "id": "e",
+          "text": "Kjøttdeig og paprika",
           "scores": {
-            "mini": 2,
+            "volvo": 2,
+            "jeep": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mozzarella, basilikum og spekeskinke",
+          "scores": {
+            "mercedes": 2,
             "porsche": 1
           }
         }
@@ -268,100 +276,108 @@
     },
     {
       "id": "q6",
-      "text": "Hvilket instrument ville du spilt i et band av hamstere?",
+      "text": "Hva sier vennene dine at du er god på?",
       "options": [
         {
           "id": "a",
-          "text": "Trommer",
+          "text": "Å lytte",
           "scores": {
             "audi": 2,
-            "toyota": 2
+            "toyota": 1
           }
         },
         {
           "id": "b",
-          "text": "Triangel",
-          "scores": {
-            "jeep": 2,
-            "bmw": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Elgitar",
-          "scores": {
-            "volvo": 2,
-            "tesla": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Fiolin",
-          "scores": {
-            "mercedes": 2,
-            "volkswagen": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Tuba",
+          "text": "Å få alle til å le",
           "scores": {
             "fiat": 2,
             "mini": 1
           }
         },
         {
-          "id": "f",
-          "text": "Jeg er dirigent",
+          "id": "c",
+          "text": "Å komme på nye ideer",
           "scores": {
-            "toyota": 2,
-            "volvo": 1
+            "tesla": 1,
+            "mini": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å planlegge og holde orden",
+          "scores": {
+            "bmw": 2,
+            "porsche": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å stille opp når noen trenger hjelp",
+          "scores": {
+            "volvo": 1,
+            "volkswagen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å prøve ting andre ikke tør",
+          "scores": {
+            "jeep": 2,
+            "ferrari": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvor raskt svarer du på meldinger?",
+      "text": "Hva gjør du helst på en lang biltur?",
       "options": [
         {
           "id": "a",
-          "text": "Med en gang",
+          "text": "Ser ut av vinduet og tenker",
           "scores": {
-            "volkswagen": 2,
-            "porsche": 1
+            "toyota": 2,
+            "mercedes": 1
           }
         },
         {
           "id": "b",
-          "text": "Innen en time",
+          "text": "Synger høyt med på musikken",
           "scores": {
-            "fiat": 2,
-            "ferrari": 1
+            "ferrari": 2,
+            "fiat": 1
           }
         },
         {
           "id": "c",
-          "text": "Når jeg kommer på det",
+          "text": "Leker gjettelek med de andre i bilen",
           "scores": {
-            "jeep": 2,
-            "mini": 1
+            "volkswagen": 2,
+            "mini": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg svarer med talemelding",
+          "text": "Deler ut niste til alle",
           "scores": {
-            "tesla": 2,
+            "mercedes": 2,
             "volvo": 1
           }
         },
         {
           "id": "e",
-          "text": "Ofte dagen etter, men grundig",
+          "text": "Følger med på kartet og hvor langt det er igjen",
           "scores": {
-            "mini": 2,
-            "porsche": 2
+            "bmw": 2,
+            "tesla": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser etter steder vi kan stoppe og utforske",
+          "scores": {
+            "jeep": 2,
+            "tesla": 1
           }
         }
       ]

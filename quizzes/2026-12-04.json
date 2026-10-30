@@ -2,382 +2,362 @@
   "id": "2026-12-04",
   "date": "2026-12-04",
   "title": "Hvilken Jesus er du i dag?",
-  "intro": "Advent er en tid for å vente på jul og tenke på fortellingene om Jesus. Svar på sju litt rare spørsmål og finn ut hvilken Jesus-fortelling som passer deg i dag.",
+  "intro": "Advent er en tid for å vente på jul og tenke på fortellingene om Jesus. Svar på sju spørsmål og finn ut hvilken Jesus-fortelling som passer deg i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "En hare spør om å få bli med deg på jobb. Hva sier du?",
+      "text": "Hvilken farge synes du er mest behagelig?",
       "options": [
         {
           "id": "a",
-          "text": "Ja, hvis den tar med matpakke",
+          "text": "Lyseblå",
           "scores": {
-            "snekker": 2,
-            "vin": 1
+            "vann": 2
           }
         },
         {
           "id": "b",
-          "text": "Selvsagt, den kan sitte på fanget mitt",
+          "text": "Varm gul",
           "scores": {
-            "esel": 2,
-            "brod": 2
+            "oppstanden": 2,
+            "barna": 1
           }
         },
         {
           "id": "c",
-          "text": "Bare hvis den kan svare i telefonen",
+          "text": "Mørkegrønn",
           "scores": {
-            "brod": 2,
-            "barna": 2
+            "hyrde": 1,
+            "snekker": 1
           }
         },
         {
           "id": "d",
-          "text": "Vi bytter plass for en dag",
+          "text": "Dyp rød",
           "scores": {
-            "vin": 2,
-            "oppstanden": 2
+            "korset": 2,
+            "vin": 2
           }
         },
         {
           "id": "e",
-          "text": "Den får være sjef",
+          "text": "Brun, som tre",
           "scores": {
-            "tempel": 2,
-            "hyrde": 1
+            "snekker": 1
           }
         },
         {
           "id": "f",
-          "text": "Nei, men vi tar en kopp te etterpå",
+          "text": "Lys kremhvit",
           "scores": {
-            "vann": 2,
-            "tempel": 2
+            "babyjesus": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om dørmatter?",
+      "text": "Du har en ledig ettermiddag uten planer. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "De fortjener mer takk",
+          "text": "Ringer noen og spør om de vil finne på noe",
           "scores": {
             "vin": 2,
-            "hyrde": 1
+            "esel": 1
           }
         },
         {
           "id": "b",
-          "text": "Jeg tørker alltid føttene tre ganger",
+          "text": "Legger meg på sofaen med et pledd",
           "scores": {
-            "barna": 2,
-            "tempel": 2
+            "storm": 2
           }
         },
         {
           "id": "c",
-          "text": "Jeg hopper over dem",
+          "text": "Går en lang tur ute",
           "scores": {
-            "oppstanden": 2,
-            "vin": 1
+            "hyrde": 2,
+            "vann": 1
           }
         },
         {
           "id": "d",
-          "text": "De burde si «velkommen» høyt",
+          "text": "Fikser noe hjemme som har ventet lenge",
           "scores": {
-            "snekker": 2,
-            "babyjesus": 2
+            "snekker": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg har aldri tenkt på dem før nå",
+          "text": "Leser eller ser en dokumentar",
           "scores": {
             "tempel": 2,
-            "hyrde": 1
+            "storm": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg vil ha en med blomster på",
+          "text": "Prøver noe jeg aldri har gjort før",
           "scores": {
-            "hyrde": 2,
-            "vin": 1
+            "vann": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan skreller du en mandarin?",
+      "text": "Hva er det viktigste du har i kjøleskapet?",
       "options": [
         {
           "id": "a",
-          "text": "I én lang spiral",
+          "text": "Melk",
           "scores": {
-            "brod": 2,
-            "vin": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Med tommelen, rett på",
-          "scores": {
-            "vin": 2,
+            "babyjesus": 1,
             "barna": 1
           }
         },
         {
-          "id": "c",
-          "text": "Jeg får noen andre til å gjøre det",
+          "id": "b",
+          "text": "Rester fra middagen i går",
           "scores": {
-            "barna": 2,
-            "storm": 2
+            "brod": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Frukt og grønnsaker",
+          "scores": {
+            "oppstanden": 2,
+            "vann": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg lager en blomst av skallet",
+          "text": "Ost og godt pålegg",
           "scores": {
-            "snekker": 2,
-            "tempel": 1
+            "vin": 2
           }
         },
         {
           "id": "e",
-          "text": "Sakte, jeg nyter det",
+          "text": "Litt ekstra i tilfelle det kommer gjester",
           "scores": {
-            "esel": 2,
-            "korset": 2
+            "brod": 1,
+            "hyrde": 1
           }
         },
         {
           "id": "f",
-          "text": "Fort, før noen ser meg",
+          "text": "Egg",
           "scores": {
-            "vann": 2,
-            "brod": 1
+            "snekker": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du får plante ett tre hvor som helst. Hvor?",
+      "text": "Hvordan velger du bursdagsgave til noen?",
       "options": [
         {
           "id": "a",
-          "text": "Midt på torget",
+          "text": "Lager noe selv",
           "scores": {
-            "tempel": 2,
-            "korset": 1
+            "snekker": 1,
+            "barna": 1
           }
         },
         {
           "id": "b",
-          "text": "Utenfor vinduet mitt",
+          "text": "Legger merke til hint gjennom hele året",
           "scores": {
-            "snekker": 2,
-            "hyrde": 2
+            "vin": 2,
+            "hyrde": 1
           }
         },
         {
           "id": "c",
-          "text": "På toppen av et fjell",
+          "text": "Spør rett ut hva de ønsker seg",
           "scores": {
-            "vin": 2,
-            "korset": 2
+            "esel": 2
           }
         },
         {
           "id": "d",
-          "text": "I en gammel hage",
+          "text": "Kjøper en opplevelse vi kan gjøre sammen",
           "scores": {
-            "vann": 2,
-            "babyjesus": 2
+            "brod": 2
           }
         },
         {
           "id": "e",
-          "text": "Ved en skole",
+          "text": "Finner en bok om noe de er interessert i",
           "scores": {
-            "hyrde": 2,
-            "storm": 1
+            "tempel": 1
           }
         },
         {
           "id": "f",
-          "text": "I en øde rundkjøring",
+          "text": "Gir noe som betyr mye, selv om det koster litt ekstra",
           "scores": {
-            "oppstanden": 2,
-            "storm": 2
+            "korset": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange luer har du?",
+      "text": "Hva er det fineste du kan få i posten?",
       "options": [
         {
           "id": "a",
-          "text": "Ingen, jeg fryser med stil",
+          "text": "Et kort med glitter",
           "scores": {
-            "korset": 2,
-            "snekker": 1
+            "esel": 2,
+            "barna": 2
           }
         },
         {
           "id": "b",
-          "text": "Én, og den er perfekt",
-          "scores": {
-            "storm": 2,
-            "korset": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Tre",
-          "scores": {
-            "esel": 2,
-            "hyrde": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Én for hver dag i uka",
+          "text": "En pakke jeg ikke visste kom",
           "scores": {
             "oppstanden": 2,
             "barna": 1
           }
         },
         {
-          "id": "e",
-          "text": "Altfor mange",
+          "id": "c",
+          "text": "Et brev fra noen som tenker på meg",
           "scores": {
-            "babyjesus": 2,
+            "korset": 2,
             "hyrde": 1
           }
         },
         {
-          "id": "f",
-          "text": "Jeg låner alltid andres",
+          "id": "d",
+          "text": "Deler til noe jeg skal bygge",
           "scores": {
-            "brod": 2,
-            "vann": 1
+            "snekker": 1,
+            "tempel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et nytt blad eller en bok",
+          "scores": {
+            "tempel": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et bilde av en ny baby i familien",
+          "scores": {
+            "babyjesus": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når noen er lei seg?",
+      "text": "Hvilken årstid liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Gir en lang klem",
+          "text": "Tidlig vår, når alt begynner å spire",
           "scores": {
-            "storm": 2,
-            "tempel": 1
+            "oppstanden": 2
           }
         },
         {
           "id": "b",
-          "text": "Lager noe godt å spise",
+          "text": "Sommer med lange, lyse kvelder",
           "scores": {
             "esel": 2,
-            "korset": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Forteller en dårlig vits",
-          "scores": {
-            "vann": 2,
-            "brod": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Sitter stille ved siden av",
-          "scores": {
-            "oppstanden": 2,
             "barna": 2
           }
         },
         {
-          "id": "e",
-          "text": "Lytter og spør",
+          "id": "c",
+          "text": "Sensommer, når det er tid for innhøsting",
           "scores": {
-            "tempel": 2,
-            "babyjesus": 1
+            "brod": 2,
+            "hyrde": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Høst med frisk luft og sterke farger",
+          "scores": {
+            "tempel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vinter med snø og kulde",
+          "scores": {
+            "storm": 2,
+            "vann": 1
           }
         },
         {
           "id": "f",
-          "text": "Tar dem med ut på tur",
+          "text": "Førjulstida",
           "scores": {
-            "hyrde": 2,
-            "oppstanden": 2
+            "babyjesus": 2
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilket tall er det fineste å telle til?",
+      "text": "Hvordan ser kveldsrutinen din ut?",
       "options": [
         {
           "id": "a",
-          "text": "Tre",
+          "text": "Akkurat den samme hver kveld",
           "scores": {
-            "vann": 2,
-            "korset": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Sju",
-          "scores": {
-            "brod": 2,
+            "korset": 1,
             "snekker": 1
           }
         },
         {
-          "id": "c",
-          "text": "Ti",
+          "id": "b",
+          "text": "Jeg leser til jeg sovner",
           "scores": {
-            "barna": 2,
-            "storm": 1
+            "tempel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rydder og gjør klart til i morgen",
+          "scores": {
+            "hyrde": 2
           }
         },
         {
           "id": "d",
-          "text": "Tjue",
+          "text": "Koser meg med dem jeg bor sammen med",
           "scores": {
-            "oppstanden": 2,
-            "barna": 2
+            "barna": 2,
+            "brod": 1
           }
         },
         {
           "id": "e",
-          "text": "Hundre",
+          "text": "Sovner på sofaen før jeg rekker å legge meg",
           "scores": {
-            "babyjesus": 2,
-            "storm": 1
+            "storm": 2
           }
         },
         {
           "id": "f",
-          "text": "Uendelig",
+          "text": "Tenker gjennom dagen og gleder meg til i morgen",
           "scores": {
-            "esel": 2,
-            "storm": 2
+            "oppstanden": 1,
+            "vann": 1
           }
         }
       ]

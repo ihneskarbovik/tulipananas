@@ -2,374 +2,379 @@
   "id": "2027-05-17",
   "date": "2027-05-17",
   "title": "Hvilken lov er du i dag?",
-  "intro": "Gratulerer med dagen! Grunnloven ble vedtatt 17. mai 1814, og den er full av viktige paragrafer. Svar på sju litt rare spørsmål og finn ut hvilken av dem du er i dag.",
+  "intro": "Gratulerer med dagen! Grunnloven ble vedtatt 17. mai 1814, og den er full av viktige paragrafer. Svar på sju spørsmål og finn ut hvilken av dem du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilket kjøkkenapparat ville vært den beste fotballspilleren?",
+      "text": "Hvilken utflukt i byen velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Brødristeren",
+          "text": "Museum",
           "scores": {
-            "p16": 2,
-            "p100": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Mikseren",
-          "scores": {
-            "p108": 2,
-            "p112": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Kjøleskapet",
-          "scores": {
-            "p1": 2,
+            "p109": 2,
             "p108": 1
           }
         },
         {
-          "id": "d",
-          "text": "Vaffeljernet",
-          "scores": {
-            "p100": 2,
-            "p112": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Oppvaskmaskinen",
-          "scores": {
-            "p104": 2,
-            "p49": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Kaffetrakteren",
-          "scores": {
-            "p50": 2,
-            "p109": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q2",
-      "text": "Hva synes du om sløyfer?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Jo flere, jo bedre",
-          "scores": {
-            "p1": 2,
-            "p101": 1
-          }
-        },
-        {
           "id": "b",
-          "text": "De er fine på gaver, ikke på meg",
+          "text": "En stor park",
           "scores": {
             "p112": 2,
-            "p101": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg kan ikke knyte dem",
-          "scores": {
-            "p106": 2,
-            "p98": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg knyter dobbel knute, for sikkerhets skyld",
-          "scores": {
-            "p100": 2,
-            "p106": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Sløyfer burde vært i håret til alle",
-          "scores": {
-            "p109": 2,
-            "p104": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Litt stressende, ærlig talt",
-          "scores": {
-            "p104": 2,
-            "p16": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Du finner en kasse med hundre badeender. Hva gjør du?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Setter dem i rekke etter størrelse",
-          "scores": {
-            "p1": 2,
-            "p112": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Gir én til alle jeg møter",
-          "scores": {
-            "p100": 2,
-            "p108": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Arrangerer et badeandløp i bekken",
-          "scores": {
-            "p16": 2,
             "p104": 1
           }
         },
         {
-          "id": "d",
-          "text": "Gir dem navn, alle sammen",
-          "scores": {
-            "p49": 2,
-            "p50": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Bygger et tårn",
-          "scores": {
-            "p98": 2,
-            "p112": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Lar dem bo i badekaret for alltid",
-          "scores": {
-            "p106": 2,
-            "p109": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hvordan krysser du en gate?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Venter på grønn mann, alltid",
-          "scores": {
-            "p106": 2,
-            "p98": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Løper litt for sikkerhets skyld",
-          "scores": {
-            "p104": 2,
-            "p112": 1
-          }
-        },
-        {
           "id": "c",
-          "text": "Holder noen i hånda",
+          "text": "Kino",
           "scores": {
-            "p101": 2,
+            "p100": 2,
             "p98": 1
           }
         },
         {
           "id": "d",
-          "text": "Teller bilene først",
+          "text": "Konsert",
           "scores": {
-            "p112": 2,
-            "p106": 1
+            "p101": 2,
+            "p50": 1
           }
         },
         {
           "id": "e",
-          "text": "Hopper bare på de hvite stripene",
+          "text": "En bydel jeg ikke har vært i før",
           "scores": {
-            "p109": 2,
-            "p98": 2
+            "p106": 2,
+            "p1": 1
           }
         },
         {
           "id": "f",
-          "text": "Synger en liten sang",
+          "text": "Bibliotek",
           "scores": {
-            "p108": 2,
+            "p16": 2,
             "p109": 1
           }
         }
       ]
     },
     {
-      "id": "q5",
-      "text": "Hva gjør du når noen avbryter deg?",
+      "id": "q2",
+      "text": "Planene dine blir avlyst i siste liten. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Venter tålmodig",
+          "text": "Blir litt skuffet, men finner fort på noe annet",
           "scores": {
-            "p109": 2,
-            "p101": 1
+            "p106": 2,
+            "p100": 1
           }
         },
         {
           "id": "b",
-          "text": "Snakker litt høyere",
+          "text": "Nyter at jeg får en rolig dag hjemme",
           "scores": {
-            "p104": 2,
-            "p49": 1
+            "p16": 2,
+            "p112": 1
           }
         },
         {
           "id": "c",
-          "text": "Begynner helt på nytt",
+          "text": "Ringer rundt og samler noen andre",
           "scores": {
-            "p50": 2,
-            "p108": 1
+            "p101": 2,
+            "p104": 1
           }
         },
         {
           "id": "d",
-          "text": "Sier «unnskyld, jeg var ikke ferdig»",
+          "text": "Sier ifra at jeg synes det var dumt",
           "scores": {
-            "p49": 2,
-            "p106": 1
+            "p50": 2,
+            "p100": 1
           }
         },
         {
           "id": "e",
-          "text": "Glemmer hva jeg skulle si",
+          "text": "Bruker tiden på noe jeg har lyst til å lære",
           "scores": {
-            "p98": 2,
-            "p101": 2
+            "p109": 2,
+            "p1": 1
           }
         },
         {
           "id": "f",
-          "text": "Ler og lar dem snakke",
+          "text": "Foreslår en ny dag som passer for alle",
           "scores": {
-            "p100": 2,
+            "p49": 2,
+            "p98": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilke sko går du helst i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joggesko",
+          "scores": {
+            "p106": 2,
+            "p104": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tursko",
+          "scores": {
+            "p108": 2,
+            "p112": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pene sko",
+          "scores": {
+            "p1": 2,
+            "p49": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sneakers i sterke farger",
+          "scores": {
+            "p100": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sandaler",
+          "scores": {
+            "p112": 2,
             "p16": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Støvletter",
+          "scores": {
+            "p50": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gleder du deg mest til på 17. mai?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toget med flagg og musikk",
+          "scores": {
+            "p1": 2,
+            "p49": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Is og pølser",
+          "scores": {
+            "p104": 2,
+            "p98": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å pynte meg i fine klær",
+          "scores": {
+            "p108": 2,
+            "p1": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Frokost med familie og venner",
+          "scores": {
+            "p108": 2,
+            "p101": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lekene og konkurransene",
+          "scores": {
+            "p98": 2,
+            "p50": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å oppleve folkelivet i byen",
+          "scores": {
+            "p106": 2,
+            "p100": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva er favorittpålegget ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brunost",
+          "scores": {
+            "p108": 2,
+            "p1": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leverpostei",
+          "scores": {
+            "p49": 2,
+            "p98": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Syltetøy",
+          "scores": {
+            "p104": 2,
+            "p16": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hvitost og skinke",
+          "scores": {
+            "p98": 2,
+            "p49": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Avokado",
+          "scores": {
+            "p112": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sjokoladepålegg",
+          "scores": {
+            "p104": 2,
+            "p101": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvor høyt synger du i bursdager?",
+      "text": "Hva gjør du først når du kommer hjem?",
       "options": [
         {
           "id": "a",
-          "text": "Så høyt at naboen hører",
+          "text": "Setter skoene på plass og henger opp jakka",
           "scores": {
-            "p101": 2,
-            "p49": 1
+            "p49": 2,
+            "p1": 1
           }
         },
         {
           "id": "b",
-          "text": "Akkurat passe",
+          "text": "Forteller noen hvordan dagen var",
           "scores": {
-            "p109": 2,
-            "p108": 1
+            "p100": 2,
+            "p109": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg nynner med",
+          "text": "Lager noe å spise til flere enn meg",
           "scores": {
-            "p112": 2,
-            "p16": 2
+            "p98": 2,
+            "p104": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg dirigerer de andre",
+          "text": "Setter på musikk og slapper av",
           "scores": {
-            "p108": 2,
-            "p98": 1
+            "p16": 2,
+            "p112": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg spiller luftgitar i stedet",
+          "text": "Sender melding til vennene mine",
           "scores": {
-            "p50": 2,
-            "p1": 1
+            "p101": 2,
+            "p50": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør unna leksene eller det jeg må",
+          "scores": {
+            "p109": 2,
+            "p49": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilket ord synes du burde vært forbudt?",
+      "text": "Hva drikker du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Snart",
+          "text": "Te",
           "scores": {
-            "p112": 2,
-            "p106": 2
+            "p109": 2,
+            "p16": 1
           }
         },
         {
           "id": "b",
-          "text": "Nesten",
+          "text": "Kaffe",
           "scores": {
-            "p1": 2,
-            "p100": 2
+            "p50": 2,
+            "p109": 1
           }
         },
         {
           "id": "c",
-          "text": "Kanskje",
+          "text": "Kakao",
           "scores": {
             "p108": 2,
-            "p50": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Mandag",
-          "scores": {
-            "p16": 2,
-            "p101": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Seng",
-          "scores": {
-            "p49": 2,
             "p104": 1
           }
         },
         {
-          "id": "f",
-          "text": "Støvsuger",
+          "id": "d",
+          "text": "Brus",
           "scores": {
-            "p50": 2,
-            "p106": 2
+            "p101": 2,
+            "p100": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vann, helst rett fra springen",
+          "scores": {
+            "p112": 2,
+            "p1": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smoothie",
+          "scores": {
+            "p106": 2,
+            "p109": 1
           }
         }
       ]

@@ -2,69 +2,69 @@
   "id": "2026-12-31",
   "date": "2026-12-31",
   "title": "Hvilket nyttårsforsett bør du ha?",
-  "intro": "Det er nyttårsaften, og et helt nytt år venter! Svar på sju litt rare spørsmål og finn ut hvilket nyttårsforsett du bør ha.",
+  "intro": "Det er nyttårsaften, og et helt nytt år venter! Svar på sju spørsmål og finn ut hvilket nyttårsforsett du bør ha.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken frukt ville vært best som ordfører?",
+      "text": "Hvilket kjæledyr vil du helst ha?",
       "options": [
         {
           "id": "a",
-          "text": "Banan",
+          "text": "Hund",
           "scores": {
-            "bake": 2,
-            "tur": 1
+            "tur": 2,
+            "trene": 1
           }
         },
         {
           "id": "b",
-          "text": "Eple",
+          "text": "Katt",
           "scores": {
-            "sprak": 2,
-            "rydde": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Ananas",
-          "scores": {
-            "lese": 2,
-            "sjonglere": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Kiwi",
-          "scores": {
-            "gronnsaker": 2,
+            "sove": 2,
             "lese": 1
           }
         },
         {
-          "id": "e",
-          "text": "Vannmelon",
+          "id": "c",
+          "text": "Kanin",
           "scores": {
-            "trene": 2,
-            "instrument": 1
+            "plukke": 2,
+            "gronnsaker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Papegøye",
+          "scores": {
+            "sprak": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kanarifugl",
+          "scores": {
+            "instrument": 2,
+            "ringe": 1
           }
         },
         {
           "id": "f",
-          "text": "Plomme",
+          "text": "Akvariefisk",
           "scores": {
-            "plukke": 2,
-            "sove": 2
+            "rydde": 2,
+            "sove": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om knappene på en fjernkontroll?",
+      "text": "Du er ute, og det begynner å regne. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Altfor mange",
+          "text": "Fortsetter som før, litt regn gjør ingenting",
           "scores": {
             "plukke": 2,
             "tur": 1
@@ -72,107 +72,106 @@
         },
         {
           "id": "b",
-          "text": "Jeg trykker på alle for å se hva som skjer",
+          "text": "Finner et tak og venter til det går over",
           "scores": {
-            "instrument": 2,
+            "sove": 2,
             "lese": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg bruker bare to av dem",
+          "text": "Løper hjem så fort jeg kan",
           "scores": {
-            "tur": 2,
-            "instrument": 2
+            "trene": 2,
+            "ringe": 1
           }
         },
         {
           "id": "d",
-          "text": "De burde lyse i mørket",
+          "text": "Går inn på nærmeste kafé",
           "scores": {
-            "bake": 2,
-            "sove": 1
+            "sprak": 2,
+            "bake": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg vet ikke hvor fjernkontrollen er",
+          "text": "Hopper i vannpyttene",
           "scores": {
-            "gronnsaker": 2,
-            "tur": 2
+            "sjonglere": 2,
+            "gronnsaker": 1
           }
         },
         {
           "id": "f",
-          "text": "De er fine å trykke på når man tenker",
+          "text": "Tar fram paraplyen, jeg sjekket været",
           "scores": {
-            "sove": 2,
-            "plukke": 1
+            "rydde": 2,
+            "sove": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan bretter du et kart?",
+      "text": "Hvilken frukt liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Akkurat slik det var",
+          "text": "Eple",
           "scores": {
-            "instrument": 2,
-            "trene": 2
+            "tur": 2,
+            "gronnsaker": 1
           }
         },
         {
           "id": "b",
-          "text": "Til en liten klump",
+          "text": "Banan",
           "scores": {
-            "sjonglere": 2,
-            "ringe": 1
+            "trene": 2,
+            "gronnsaker": 1
           }
         },
         {
           "id": "c",
-          "text": "Som et papirfly",
+          "text": "Klementin",
           "scores": {
-            "rydde": 2,
-            "sjonglere": 1
+            "ringe": 2,
+            "bake": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg lar det være ubrettet",
+          "text": "Mango",
           "scores": {
-            "sprak": 2,
-            "ringe": 1
+            "lese": 2,
+            "sprak": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg ber noen andre om hjelp",
+          "text": "Jordbær",
           "scores": {
-            "trene": 2,
-            "tur": 2
+            "bake": 2
           }
         },
         {
           "id": "f",
-          "text": "Kart? Jeg spør heller om veien",
+          "text": "Blåbær",
           "scores": {
-            "lese": 2,
-            "gronnsaker": 2
+            "plukke": 2,
+            "sove": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du får gi navn til en ny planet. Hva heter den?",
+      "text": "Hvordan vil du helst feire nyttårsaften?",
       "options": [
         {
           "id": "a",
-          "text": "Bobla",
+          "text": "Ute i kulda og se på rakettene",
           "scores": {
             "tur": 2,
             "plukke": 1
@@ -180,161 +179,113 @@
         },
         {
           "id": "b",
-          "text": "Gunnar",
+          "text": "I et stort selskap med mange venner",
           "scores": {
-            "sove": 2,
-            "lese": 1
+            "sprak": 2,
+            "sjonglere": 1
           }
         },
         {
           "id": "c",
-          "text": "Planet Pling",
+          "text": "Hjemme med familien og brettspill",
           "scores": {
-            "gronnsaker": 2,
-            "tur": 2
+            "ringe": 2,
+            "lese": 1
           }
         },
         {
           "id": "d",
-          "text": "Sokk",
-          "scores": {
-            "plukke": 2,
-            "ringe": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den Nye",
+          "text": "Med en lang middag og god dessert",
           "scores": {
             "bake": 2,
             "gronnsaker": 1
           }
         },
         {
-          "id": "f",
-          "text": "Ellevilla",
+          "id": "e",
+          "text": "Rolig, og i seng kort etter tolv",
           "scores": {
-            "ringe": 2,
-            "trene": 2
+            "sove": 2,
+            "rydde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med musikk og dans",
+          "scores": {
+            "instrument": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan venter du i en lang kø?",
+      "text": "Noen ber deg om hjelp. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Prater med den bak meg",
+          "text": "Sier ja og setter i gang med en gang",
           "scores": {
-            "sjonglere": 2,
-            "lese": 1
+            "plukke": 2
           }
         },
         {
           "id": "b",
-          "text": "Teller hvor mange som står foran",
+          "text": "Spør hva de trenger, og lager en plan",
           "scores": {
-            "instrument": 2,
-            "gronnsaker": 1
+            "rydde": 2,
+            "lese": 1
           }
         },
         {
           "id": "c",
-          "text": "Tripper og hopper litt",
+          "text": "Lytter først og prøver å forstå",
           "scores": {
-            "rydde": 2,
-            "instrument": 2
+            "ringe": 2,
+            "sprak": 1
           }
         },
         {
           "id": "d",
-          "text": "Dagdrømmer",
+          "text": "Lager noe godt til oss mens vi holder på",
           "scores": {
-            "lese": 2,
-            "sjonglere": 1
+            "bake": 2,
+            "ringe": 1
           }
         },
         {
           "id": "e",
-          "text": "Nynner på en melodi",
+          "text": "Viser hvordan jeg gjør det, og øver sammen med dem",
           "scores": {
-            "trene": 2,
-            "plukke": 1
+            "instrument": 2,
+            "sjonglere": 1
           }
         },
         {
           "id": "f",
-          "text": "Gir opp og kommer tilbake senere",
+          "text": "Sier ja, selv om jeg aldri har gjort det før",
           "scores": {
-            "sprak": 2,
-            "bake": 2
+            "gronnsaker": 2,
+            "sjonglere": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilken årstid bor i hjertet ditt?",
+      "text": "Hvilken is velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Tidlig vår",
+          "text": "Sjokolade",
           "scores": {
-            "plukke": 2,
+            "sove": 2,
             "lese": 1
           }
         },
         {
           "id": "b",
-          "text": "Høysommer",
-          "scores": {
-            "bake": 2,
-            "ringe": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Sen høst",
-          "scores": {
-            "gronnsaker": 2,
-            "sprak": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Midtvinter",
-          "scores": {
-            "tur": 2,
-            "sjonglere": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den uka der alt bare smelter",
-          "scores": {
-            "sove": 2,
-            "ringe": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "En hval sender deg en melding. Hva svarer du?",
-      "options": [
-        {
-          "id": "a",
-          "text": "«Hei! Hvordan er det der nede?»",
-          "scores": {
-            "sjonglere": 2,
-            "ringe": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "«Skal vi møtes på stranda?»",
+          "text": "Vanilje",
           "scores": {
             "ringe": 2,
             "rydde": 1
@@ -342,34 +293,88 @@
         },
         {
           "id": "c",
-          "text": "«Kan du synge for meg?»",
+          "text": "Jordbær",
           "scores": {
-            "bake": 2,
-            "sjonglere": 1
+            "instrument": 2,
+            "bake": 1
           }
         },
         {
           "id": "d",
-          "text": "«Unnskyld, feil nummer»",
+          "text": "Pistasj",
           "scores": {
-            "plukke": 2,
-            "trene": 1
+            "gronnsaker": 2,
+            "sprak": 1
           }
         },
         {
           "id": "e",
-          "text": "«Jeg svarer i morgen»",
+          "text": "Sitronsorbet",
           "scores": {
-            "sprak": 2,
-            "rydde": 2
+            "trene": 2,
+            "tur": 1
           }
         },
         {
           "id": "f",
-          "text": "«Har du det bra? Trenger du noe?»",
+          "text": "Karamell",
           "scores": {
-            "sove": 2,
+            "bake": 2,
+            "sjonglere": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken sport liker du best å se på eller drive med?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fotball",
+          "scores": {
+            "trene": 2,
+            "sjonglere": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Langrenn",
+          "scores": {
+            "tur": 2,
             "trene": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Turn eller dans",
+          "scores": {
+            "sjonglere": 2,
+            "instrument": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjakk",
+          "scores": {
+            "lese": 2,
+            "rydde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Orientering",
+          "scores": {
+            "plukke": 2,
+            "tur": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Svømming",
+          "scores": {
+            "gronnsaker": 2,
+            "sove": 1
           }
         }
       ]

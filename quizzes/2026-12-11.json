@@ -2,327 +2,317 @@
   "id": "2026-12-11",
   "date": "2026-12-11",
   "title": "Hvilken julesang er du i dag?",
-  "intro": "Det er desember, og julesangene er overalt! Er du en stille klassiker, en sprudlende sing-along eller en hit som aldri går over? Svar på sju rare spørsmål og finn ut hvilken julesang du er i dag.",
+  "intro": "Det er desember, og julesangene er overalt! Er du en stille klassiker, en sprudlende sing-along eller en hit som aldri går over? Svar på sju spørsmål og finn ut hvilken julesang du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilket verktøy ville vært den beste kokken?",
+      "text": "Hvordan ser søndagsmorgenen din ut?",
       "options": [
         {
           "id": "a",
-          "text": "Hammeren",
+          "text": "Jeg sover lenge",
           "scores": {
-            "musevisa": 2,
-            "lastchristmas": 2
+            "gladejul": 2
           }
         },
         {
           "id": "b",
-          "text": "Skrutrekkeren",
+          "text": "Stor frokost med hele familien",
           "scores": {
-            "gladejul": 2,
-            "tusenlys": 2
+            "ojul": 2,
+            "tusenlys": 1
           }
         },
         {
           "id": "c",
-          "text": "Målebåndet",
+          "text": "Tidlig opp og ut på tur",
           "scores": {
             "rudolf": 2,
-            "etbarn": 1
+            "jinglebells": 1
           }
         },
         {
           "id": "d",
-          "text": "Tanga",
+          "text": "Kaffe eller te og avisen i ro og fred",
           "scores": {
-            "jinglebells": 2,
-            "grender": 1
+            "etbarn": 2
           }
         },
         {
           "id": "e",
-          "text": "Saga",
+          "text": "Musikk på og dans rundt på kjøkkenet",
           "scores": {
-            "alliwant": 2,
-            "grender": 2
+            "alliwant": 2
           }
         },
         {
           "id": "f",
-          "text": "Vateret",
+          "text": "Ligger i senga og lar tankene vandre",
           "scores": {
-            "grender": 2,
-            "jinglebells": 1
+            "lastchristmas": 2,
+            "grender": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om sirkler?",
+      "text": "Hvilken filmsjanger liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Perfekte, ingen kanter å slå seg på",
+          "text": "Romantisk komedie",
           "scores": {
-            "gladejul": 2,
-            "musevisa": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Litt kjedelige",
-          "scores": {
-            "etbarn": 2,
-            "lastchristmas": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg tegner dem alltid litt skjeve",
-          "scores": {
-            "sajulekveld": 2,
-            "tusenlys": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "De burde vært firkantede",
-          "scores": {
-            "rudolf": 2,
+            "lastchristmas": 1,
             "alliwant": 1
           }
         },
         {
-          "id": "e",
-          "text": "Jeg går rundt i dem hele dagen",
+          "id": "b",
+          "text": "Action",
           "scores": {
-            "tusenlys": 2,
-            "grender": 2
+            "jinglebells": 2,
+            "musevisa": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dokumentar",
+          "scores": {
+            "etbarn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Animasjonsfilm",
+          "scores": {
+            "sajulekveld": 2,
+            "musevisa": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fantasy og eventyr",
+          "scores": {
+            "rudolf": 1,
+            "tusenlys": 1
           }
         },
         {
           "id": "f",
-          "text": "Har aldri tenkt på det",
+          "text": "Et stille drama",
           "scores": {
-            "deilig": 2,
-            "rudolf": 2
+            "grender": 2
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan pusser du tennene?",
+      "text": "Hva gjør du når du har altfor mye å gjøre?",
       "options": [
         {
           "id": "a",
-          "text": "Grundig, i to hele minutter",
+          "text": "Lager en liste og tar én ting om gangen",
           "scores": {
-            "etbarn": 2,
-            "grender": 1
+            "etbarn": 1
           }
         },
         {
           "id": "b",
-          "text": "Mens jeg danser",
+          "text": "Ber noen om hjelp",
           "scores": {
-            "gladejul": 2,
-            "etbarn": 2
+            "ojul": 1,
+            "sajulekveld": 1
           }
         },
         {
           "id": "c",
-          "text": "Raskt, jeg har dårlig tid",
+          "text": "Gjør alt i full fart",
           "scores": {
-            "grender": 2,
-            "ojul": 1
+            "jinglebells": 2,
+            "musevisa": 1
           }
         },
         {
           "id": "d",
-          "text": "Mens jeg leser noe",
+          "text": "Tar en pause først for å roe meg ned",
           "scores": {
-            "musevisa": 2,
-            "lastchristmas": 2
+            "gladejul": 1
           }
         },
         {
           "id": "e",
-          "text": "Med den andre hånden, for å trene",
+          "text": "Tar det med et smil og tenker at det ordner seg",
           "scores": {
-            "alliwant": 2,
-            "etbarn": 2
+            "tusenlys": 2
           }
         },
         {
           "id": "f",
-          "text": "Mens jeg ser ut av vinduet",
+          "text": "Gjør det på min egen måte",
           "scores": {
-            "sajulekveld": 2,
-            "lastchristmas": 1
+            "rudolf": 2,
+            "alliwant": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du skal gi en gave til månen. Hva gir du?",
+      "text": "Hvilken juletradisjon kan du ikke være foruten?",
       "options": [
         {
           "id": "a",
-          "text": "Et teppe",
+          "text": "Å gå rundt juletreet",
           "scores": {
-            "rudolf": 2,
-            "ojul": 1
+            "ojul": 2,
+            "jinglebells": 1
           }
         },
         {
           "id": "b",
-          "text": "En termos med kakao",
+          "text": "Å se den samme julefilmen hvert år",
           "scores": {
-            "musevisa": 2,
-            "ojul": 2
+            "lastchristmas": 2,
+            "alliwant": 1
           }
         },
         {
           "id": "c",
-          "text": "Et vennskapsarmbånd",
+          "text": "Å gå i kirken på julaften",
           "scores": {
-            "alliwant": 2,
-            "jinglebells": 2
+            "deilig": 2,
+            "gladejul": 1
           }
         },
         {
           "id": "d",
-          "text": "En ballong",
+          "text": "Å lese en julefortelling høyt",
           "scores": {
-            "gladejul": 2,
-            "lastchristmas": 2
+            "etbarn": 2,
+            "grender": 1
           }
         },
         {
           "id": "e",
-          "text": "Et brettspill",
+          "text": "Å bake mange slags kaker",
           "scores": {
-            "sajulekveld": 2,
-            "musevisa": 2
+            "musevisa": 2,
+            "sajulekveld": 1
           }
         },
         {
           "id": "f",
-          "text": "En pute",
+          "text": "Å gi noe til noen som trenger det",
           "scores": {
-            "lastchristmas": 2,
-            "sajulekveld": 1
+            "tusenlys": 2
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor mange bilder tar du på en tur?",
+      "text": "Hva slags bok leser du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Ingen, jeg husker heller",
+          "text": "Krim",
           "scores": {
-            "jinglebells": 2,
-            "rudolf": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Ett, det beste",
-          "scores": {
-            "rudolf": 2,
-            "lastchristmas": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Rundt ti",
-          "scores": {
-            "tusenlys": 2,
-            "musevisa": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Over hundre",
-          "scores": {
-            "sajulekveld": 2,
+            "musevisa": 2,
             "etbarn": 1
           }
         },
         {
-          "id": "e",
-          "text": "Bare av maten",
+          "id": "b",
+          "text": "Kjærlighetsroman",
+          "scores": {
+            "lastchristmas": 2,
+            "alliwant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Historisk roman",
+          "scores": {
+            "deilig": 2,
+            "etbarn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Dikt",
           "scores": {
             "grender": 2,
-            "alliwant": 2
+            "gladejul": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fantasy",
+          "scores": {
+            "rudolf": 2,
+            "tusenlys": 1
           }
         },
         {
           "id": "f",
-          "text": "Bare av hunder jeg møter",
+          "text": "Tegneserier",
           "scores": {
-            "deilig": 2,
-            "gladejul": 1
+            "sajulekveld": 2,
+            "jinglebells": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når det begynner å snø?",
+      "text": "Hvilken hobby vil du helst drive med?",
       "options": [
         {
           "id": "a",
-          "text": "Løper ut med en gang",
+          "text": "Synge i kor",
           "scores": {
-            "tusenlys": 2,
-            "ojul": 2
+            "deilig": 1
           }
         },
         {
           "id": "b",
-          "text": "Ser på fra vinduet",
+          "text": "Dans",
           "scores": {
-            "deilig": 2,
+            "alliwant": 2,
             "ojul": 1
           }
         },
         {
           "id": "c",
-          "text": "Rekker ut tunga",
+          "text": "Fotografering",
           "scores": {
-            "ojul": 2,
-            "etbarn": 2
+            "grender": 2,
+            "rudolf": 1
           }
         },
         {
           "id": "d",
-          "text": "Leter frem skiene",
+          "text": "Strikking",
           "scores": {
-            "jinglebells": 2,
-            "ojul": 2
+            "gladejul": 2,
+            "lastchristmas": 1
           }
         },
         {
           "id": "e",
-          "text": "Klager litt, men smiler",
+          "text": "Lagidrett",
           "scores": {
-            "rudolf": 2,
-            "jinglebells": 2
+            "ojul": 2,
+            "musevisa": 1
           }
         },
         {
           "id": "f",
-          "text": "Lager en engel i snøen",
+          "text": "Baking og matlaging",
           "scores": {
-            "alliwant": 2,
+            "sajulekveld": 1,
             "tusenlys": 1
           }
         }
@@ -330,54 +320,52 @@
     },
     {
       "id": "q7",
-      "text": "Hvilken del av en fisk er finest?",
+      "text": "Hvordan reiser du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Halen",
+          "text": "Med tog",
           "scores": {
-            "jinglebells": 2,
-            "gladejul": 1
+            "grender": 1
           }
         },
         {
           "id": "b",
-          "text": "Finnene",
+          "text": "Med fly",
           "scores": {
             "alliwant": 2,
-            "deilig": 1
+            "jinglebells": 1
           }
         },
         {
           "id": "c",
-          "text": "Skjellene, de glitrer",
+          "text": "Med bil og musikk på høyt",
           "scores": {
-            "tusenlys": 2,
-            "grender": 2
+            "jinglebells": 2,
+            "ojul": 1
           }
         },
         {
           "id": "d",
-          "text": "Øynene",
+          "text": "Med sykkel",
           "scores": {
-            "deilig": 2,
-            "ojul": 2
+            "rudolf": 2,
+            "musevisa": 1
           }
         },
         {
           "id": "e",
-          "text": "Hele fisken, den er fin som den er",
+          "text": "Med båt langs kysten",
           "scores": {
-            "lastchristmas": 2,
-            "sajulekveld": 1
+            "deilig": 2,
+            "lastchristmas": 1
           }
         },
         {
           "id": "f",
-          "text": "Boblene den lager",
+          "text": "Til fots",
           "scores": {
-            "ojul": 2,
-            "alliwant": 1
+            "sajulekveld": 1
           }
         }
       ]

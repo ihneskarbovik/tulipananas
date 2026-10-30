@@ -2,374 +2,376 @@
   "id": "2026-12-24",
   "date": "2026-12-24",
   "title": "Hvilken nisse er du i dag?",
-  "intro": "God jul! Endelig er det julaften, og nissene er på farten overalt. Er du den travle julenissen, en lun fjøsnisse eller en lur rampenisse? Svar på sju rare spørsmål og finn ut hvilken nisse du er i dag.",
+  "intro": "God jul! Endelig er det julaften, og nissene er på farten overalt. Er du den travle julenissen, en lun fjøsnisse eller en lur rampenisse? Svar på sju spørsmål og finn ut hvilken nisse du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "En kanin vil bli frisøren din. Hva sier du?",
+      "text": "Hvilket instrument vil du helst spille?",
       "options": [
         {
           "id": "a",
-          "text": "Ja, bare ikke for kort",
+          "text": "Piano",
           "scores": {
-            "fjosnisse": 2,
-            "nisseunge": 2
+            "kirkenisse": 2,
+            "nissemor": 1
           }
         },
         {
           "id": "b",
-          "text": "Kan du flette?",
+          "text": "Trommer",
           "scores": {
-            "verkstednisse": 2,
-            "skinisse": 1
+            "nisseunge": 2,
+            "rampenisse": 1
           }
         },
         {
           "id": "c",
-          "text": "Bare hvis jeg kan klippe deg tilbake",
+          "text": "Gitar",
           "scores": {
-            "julenisse": 2,
-            "verkstednisse": 1
+            "verkstednisse": 2,
+            "hagenisse": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg vil ha en frisyre som ingen har sett før",
+          "text": "Fiolin",
           "scores": {
-            "nisseunge": 2,
-            "skinisse": 1
+            "pepperkakenisse": 2
           }
         },
         {
           "id": "e",
-          "text": "Nei takk, jeg klipper meg selv",
+          "text": "Trekkspill",
           "scores": {
             "skipsnisse": 2,
-            "rampenisse": 2
+            "julenisse": 1
           }
         },
         {
           "id": "f",
-          "text": "Kan du ordne det før middag?",
+          "text": "Trompet",
           "scores": {
-            "hagenisse": 2,
-            "pepperkakenisse": 2
+            "skinisse": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om tallet åtte?",
+      "text": "Hvordan handler du mat?",
       "options": [
         {
           "id": "a",
-          "text": "Det ser ut som en snømann",
+          "text": "Med handleliste, sortert etter hvor ting står i butikken",
           "scores": {
-            "julenisse": 2,
+            "nissemor": 2,
             "pakkenisse": 1
           }
         },
         {
           "id": "b",
-          "text": "Det er altfor rundt",
+          "text": "Raskt inn og ut, jeg vet hva jeg skal ha",
           "scores": {
-            "skinisse": 2,
-            "pakkenisse": 2
+            "pakkenisse": 2,
+            "skinisse": 1
           }
         },
         {
           "id": "c",
-          "text": "Det er perfekt",
+          "text": "Jeg kjøper litt ekstra godt til alle",
           "scores": {
-            "kirkenisse": 2,
-            "nissemor": 2
+            "julenisse": 2,
+            "pepperkakenisse": 1
           }
         },
         {
           "id": "d",
-          "text": "Det burde vært to sjuere",
+          "text": "Jeg kjøper stort sett det samme som vanlig",
           "scores": {
-            "nisseunge": 2,
-            "kirkenisse": 2
+            "fjosnisse": 2,
+            "hagenisse": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg liker det best liggende",
+          "text": "Jeg går rundt og ser hva som er nytt",
           "scores": {
-            "pepperkakenisse": 2,
-            "skipsnisse": 2
+            "skipsnisse": 2,
+            "nisseunge": 1
           }
         },
         {
           "id": "f",
-          "text": "Ni er bedre",
+          "text": "Jeg finner på middagen mens jeg går rundt",
           "scores": {
-            "skipsnisse": 2,
-            "fjosnisse": 1
+            "rampenisse": 2,
+            "verkstednisse": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan tar du på deg en genser?",
+      "text": "Hvilket spill liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Armene først",
-          "scores": {
-            "julenisse": 2,
-            "skinisse": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Hodet først",
-          "scores": {
-            "nisseunge": 2,
-            "verkstednisse": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Baklengs, ved et uhell",
-          "scores": {
-            "fjosnisse": 2,
-            "skipsnisse": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg snurrer den rundt meg",
+          "text": "Sjakk",
           "scores": {
             "rampenisse": 2,
             "hagenisse": 1
           }
         },
         {
-          "id": "e",
-          "text": "Den er allerede på",
+          "id": "b",
+          "text": "Uno",
           "scores": {
-            "nissemor": 2,
-            "skinisse": 1
+            "nisseunge": 2,
+            "julenisse": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Yatzy",
+          "scores": {
+            "fjosnisse": 2,
+            "pepperkakenisse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Puslespill",
+          "scores": {
+            "verkstednisse": 2,
+            "kirkenisse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Monopol",
+          "scores": {
+            "pakkenisse": 2,
+            "nissemor": 1
           }
         },
         {
           "id": "f",
-          "text": "Den eldste genseren først, alltid",
+          "text": "Twister",
           "scores": {
-            "kirkenisse": 2,
-            "pepperkakenisse": 2
+            "skinisse": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du får lov til å innføre én ny regel. Hvilken?",
+      "text": "Hva gjør du når du får en ny idé?",
       "options": [
         {
           "id": "a",
-          "text": "Alle må smile på mandager",
+          "text": "Begynner å lage det med en gang",
           "scores": {
-            "kirkenisse": 2,
-            "nissemor": 2
+            "verkstednisse": 2,
+            "nisseunge": 1
           }
         },
         {
           "id": "b",
-          "text": "Dessert før middag",
+          "text": "Skriver den ned og legger en plan",
           "scores": {
-            "skipsnisse": 2,
-            "skinisse": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Ingen får stresse",
-          "scores": {
-            "pakkenisse": 2,
-            "nissemor": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Obligatorisk dans hver fredag",
-          "scores": {
-            "skinisse": 2,
+            "nissemor": 2,
             "kirkenisse": 1
           }
         },
         {
-          "id": "e",
-          "text": "Alle må hilse på naboen",
+          "id": "c",
+          "text": "Forteller den til en venn med en gang",
           "scores": {
-            "pepperkakenisse": 2,
-            "nissemor": 2
+            "julenisse": 2,
+            "rampenisse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker på den en stund før jeg gjør noe",
+          "scores": {
+            "kirkenisse": 2,
+            "hagenisse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holder den hemmelig til den er klar",
+          "scores": {
+            "pakkenisse": 2,
+            "rampenisse": 1
           }
         },
         {
           "id": "f",
-          "text": "Lørdag varer i to dager",
+          "text": "Prøver den ut, selv om jeg ikke vet hvordan det går",
           "scores": {
-            "verkstednisse": 2,
-            "pepperkakenisse": 1
+            "skipsnisse": 2,
+            "skinisse": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvordan reagerer du på en overraskelse?",
+      "text": "Det er julaften. Hva gjør du helst om morgenen?",
       "options": [
         {
           "id": "a",
-          "text": "Hyler av glede",
+          "text": "Ser julefilm i pysjamasen",
           "scores": {
             "pepperkakenisse": 2,
-            "pakkenisse": 1
+            "hagenisse": 1
           }
         },
         {
           "id": "b",
-          "text": "Later som jeg visste det",
+          "text": "Går en tur ute i kulda",
           "scores": {
-            "skipsnisse": 2,
-            "rampenisse": 1
+            "skinisse": 2,
+            "fjosnisse": 1
           }
         },
         {
           "id": "c",
-          "text": "Blir helt stille",
+          "text": "Hjelper til på kjøkkenet",
           "scores": {
-            "hagenisse": 2,
-            "verkstednisse": 1
+            "nissemor": 2,
+            "pepperkakenisse": 1
           }
         },
         {
           "id": "d",
-          "text": "Gir en stor klem",
+          "text": "Lager noe fint for hånd til noen",
           "scores": {
-            "rampenisse": 2,
-            "kirkenisse": 1
+            "pepperkakenisse": 2,
+            "verkstednisse": 1
           }
         },
         {
           "id": "e",
-          "text": "Ser etter den neste overraskelsen",
+          "text": "Hører på julesanger og tenner lys",
           "scores": {
-            "nissemor": 2,
-            "pakkenisse": 2
+            "kirkenisse": 2,
+            "pepperkakenisse": 1
           }
         },
         {
           "id": "f",
-          "text": "Lager en enda større overraskelse",
+          "text": "Kikker på det som ligger under treet",
           "scores": {
-            "nisseunge": 2,
-            "fjosnisse": 1
+            "nisseunge": 2
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvor bør man henge opp en hengekøye?",
+      "text": "Hvilken fugl liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Mellom to bjørker",
+          "text": "Ørn",
           "scores": {
-            "pakkenisse": 2,
-            "rampenisse": 1
+            "skipsnisse": 2
           }
         },
         {
           "id": "b",
-          "text": "På et fjell med utsikt",
+          "text": "Ugle",
           "scores": {
-            "pepperkakenisse": 2,
-            "verkstednisse": 1
+            "kirkenisse": 2,
+            "hagenisse": 1
           }
         },
         {
           "id": "c",
-          "text": "I stua, selvsagt",
+          "text": "Rødstrupe",
           "scores": {
-            "skinisse": 2,
-            "fjosnisse": 2
+            "hagenisse": 2,
+            "pepperkakenisse": 1
           }
         },
         {
           "id": "d",
-          "text": "Over et vann",
+          "text": "Papegøye",
           "scores": {
-            "verkstednisse": 2,
-            "nissemor": 1
+            "rampenisse": 2,
+            "julenisse": 1
           }
         },
         {
           "id": "e",
-          "text": "På en balkong i solen",
+          "text": "Kråke",
           "scores": {
-            "hagenisse": 2,
-            "julenisse": 1
+            "verkstednisse": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøttmeis",
+          "scores": {
+            "fjosnisse": 2,
+            "nisseunge": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilket møbel ville vært din beste venn?",
+      "text": "Hvordan feirer du når noe går bra?",
       "options": [
         {
           "id": "a",
-          "text": "En gyngestol",
+          "text": "Inviterer folk og lager fest",
           "scores": {
-            "skinisse": 2,
-            "kirkenisse": 2
+            "julenisse": 2,
+            "rampenisse": 1
           }
         },
         {
           "id": "b",
-          "text": "En stor sofa",
+          "text": "Hopper og danser rundt i stua",
           "scores": {
-            "julenisse": 2,
-            "nisseunge": 2
+            "skinisse": 2,
+            "nisseunge": 1
           }
         },
         {
           "id": "c",
-          "text": "En kommode med mange skuffer",
+          "text": "Unner meg noe godt og koser meg i fred og ro",
           "scores": {
-            "verkstednisse": 2,
-            "hagenisse": 1
+            "hagenisse": 2,
+            "kirkenisse": 1
           }
         },
         {
           "id": "d",
-          "text": "En krakk",
+          "text": "Kjøper noe fint til noen andre også",
           "scores": {
-            "fjosnisse": 2,
-            "pakkenisse": 2
+            "pakkenisse": 2,
+            "nissemor": 1
           }
         },
         {
           "id": "e",
-          "text": "En lenestol ved vinduet",
+          "text": "Pynter og gjør det ekstra koselig hjemme",
           "scores": {
-            "rampenisse": 2,
-            "skipsnisse": 1
+            "pepperkakenisse": 2,
+            "fjosnisse": 1
           }
         },
         {
           "id": "f",
-          "text": "En kjøkkenbenk",
+          "text": "Drar på en tur eller en liten utflukt",
           "scores": {
-            "hagenisse": 2,
-            "kirkenisse": 2
+            "skipsnisse": 2,
+            "skinisse": 1
           }
         }
       ]

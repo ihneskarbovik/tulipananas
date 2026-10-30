@@ -2,247 +2,298 @@
   "id": "2027-02-07",
   "date": "2027-02-07",
   "title": "Hvilken bolle er du i dag?",
-  "intro": "Det er fastelavn, og da er det bollesesong! Er du en festlig fastelavnsbolle, en lun kanelbolle eller noe helt uventet? Svar på sju rare spørsmål og finn ut hvilken bolle du er i dag.",
+  "intro": "Det er fastelavn, og da er det bollesesong! Er du en festlig fastelavnsbolle, en lun kanelbolle eller noe helt uventet? Svar på sju spørsmål og finn ut hvilken bolle du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "En hest vil lære å strikke. Hvilken farge velger den?",
+      "text": "Hvor er du som regel på en fest?",
       "options": [
         {
           "id": "a",
-          "text": "Knallgul",
+          "text": "Midt på dansegulvet",
           "scores": {
-            "kardemommebolle": 2,
-            "fastelavnsbolle": 1
+            "fastelavnsbolle": 2,
+            "berlinerbolle": 1
           }
         },
         {
           "id": "b",
-          "text": "Mørkeblå",
+          "text": "På kjøkkenet og prater med noen få",
           "scores": {
-            "skillingsbolle": 2,
-            "fiskebolle": 1
+            "kanelbolle": 2,
+            "kardemommebolle": 1
           }
         },
         {
           "id": "c",
-          "text": "Regnbue, selvsagt",
+          "text": "Ved bordet med snacks og godterier",
           "scores": {
-            "rosinbolle": 2,
-            "semla": 1
+            "sjokoladebolle": 2,
+            "kjottbolle": 1
           }
         },
         {
           "id": "d",
-          "text": "Akkurat samme farge som seg selv",
+          "text": "Jeg går rundt og hilser på alle",
           "scores": {
-            "semla": 2,
-            "fastelavnsbolle": 1
+            "skillingsbolle": 2,
+            "semla": 1
           }
         },
         {
           "id": "e",
-          "text": "Neongrønn",
+          "text": "I sofaen med en god venn",
           "scores": {
-            "berlinerbolle": 2,
-            "hvetebolle": 2
+            "hvetebolle": 2,
+            "rosinbolle": 1
           }
         },
         {
           "id": "f",
-          "text": "Den strikker uten garn",
+          "text": "Jeg er den som setter i gang leker",
           "scores": {
             "skolebolle": 2,
-            "kjottbolle": 2
+            "fiskebolle": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om bobleplast?",
+      "text": "Hvilken tid på døgnet liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg må knipe hver eneste boble",
-          "scores": {
-            "kardemommebolle": 2,
-            "berlinerbolle": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg sparer den til en dårlig dag",
-          "scores": {
-            "sjokoladebolle": 2,
-            "kanelbolle": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Den burde vært en egen sport",
-          "scores": {
-            "fiskebolle": 2,
-            "hvetebolle": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg pakker heller inn ting i aviser",
-          "scores": {
-            "semla": 2,
-            "rosinbolle": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg har sovet på den",
-          "scores": {
-            "kjottbolle": 2,
-            "sjokoladebolle": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg klarer ikke å kaste den",
-          "scores": {
-            "rosinbolle": 2,
-            "kjottbolle": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hvordan går du gjennom dyp snø?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Som en elefant, med store skritt",
-          "scores": {
-            "rosinbolle": 2,
-            "semla": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg lager engler underveis",
-          "scores": {
-            "skolebolle": 2,
-            "semla": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg følger sporene til noen andre",
-          "scores": {
-            "sjokoladebolle": 2,
-            "kanelbolle": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg graver en tunnel",
-          "scores": {
-            "fiskebolle": 2,
-            "kjottbolle": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg venter på våren",
+          "text": "Tidlig morgen",
           "scores": {
             "kardemommebolle": 2,
             "hvetebolle": 1
           }
         },
         {
-          "id": "f",
-          "text": "Raskt, og med sang",
+          "id": "b",
+          "text": "Formiddag",
           "scores": {
-            "fastelavnsbolle": 2,
+            "skolebolle": 2,
+            "rosinbolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ettermiddag",
+          "scores": {
+            "sjokoladebolle": 2,
+            "skillingsbolle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Middagstid",
+          "scores": {
+            "kjottbolle": 2,
+            "fastelavnsbolle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kveld",
+          "scores": {
+            "semla": 2,
+            "kanelbolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sent på natt",
+          "scores": {
+            "berlinerbolle": 2,
             "fiskebolle": 1
           }
         }
       ]
     },
     {
-      "id": "q4",
-      "text": "Hvor får du de beste ideene dine?",
+      "id": "q3",
+      "text": "Hvordan pakker du til en ferie?",
       "options": [
         {
           "id": "a",
-          "text": "I dusjen",
+          "text": "Jeg lager en liste og pakker i god tid",
           "scores": {
-            "skolebolle": 2,
-            "kanelbolle": 2
+            "semla": 2,
+            "kardemommebolle": 1
           }
         },
         {
           "id": "b",
-          "text": "På bussen",
+          "text": "Jeg pakker i siste liten",
+          "scores": {
+            "fiskebolle": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tar med litt for mye, for sikkerhets skyld",
+          "scores": {
+            "fastelavnsbolle": 2,
+            "rosinbolle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar med så lite som mulig",
+          "scores": {
+            "hvetebolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg husker alltid noe godt til reisen",
+          "scores": {
+            "kanelbolle": 2,
+            "sjokoladebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg pakker de samme tingene som alltid",
+          "scores": {
+            "kjottbolle": 2,
+            "kardemommebolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken høytid liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jul",
+          "scores": {
+            "kanelbolle": 2,
+            "kjottbolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "17. mai",
+          "scores": {
+            "skillingsbolle": 2,
+            "skolebolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Påske",
           "scores": {
             "rosinbolle": 2,
             "hvetebolle": 1
           }
         },
         {
-          "id": "c",
-          "text": "Rett før jeg sovner",
-          "scores": {
-            "semla": 2,
-            "skillingsbolle": 2
-          }
-        },
-        {
           "id": "d",
-          "text": "Når jeg egentlig skulle ha gjort noe annet",
+          "text": "Nyttårsaften",
           "scores": {
-            "kjottbolle": 2,
-            "rosinbolle": 2
+            "berlinerbolle": 2,
+            "semla": 1
           }
         },
         {
           "id": "e",
-          "text": "Sammen med andre",
+          "text": "Sankthans",
           "scores": {
             "fiskebolle": 2,
-            "berlinerbolle": 1
+            "kardemommebolle": 1
           }
         },
         {
           "id": "f",
-          "text": "Ute i skogen",
+          "text": "Bursdagen min",
           "scores": {
-            "sjokoladebolle": 2,
-            "skillingsbolle": 2
+            "fastelavnsbolle": 2,
+            "sjokoladebolle": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Du får en ekstra lomme på jakka. Hva har du i den?",
+      "text": "Telefonen ringer fra et nummer du ikke kjenner. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "En reserve-lue",
+          "text": "Svarer med en gang, det kan være noe spennende",
           "scores": {
-            "hvetebolle": 2,
-            "skillingsbolle": 2
+            "berlinerbolle": 2
           }
         },
         {
           "id": "b",
-          "text": "En liten stein jeg liker",
+          "text": "Lar det ringe og søker opp nummeret etterpå",
           "scores": {
-            "kjottbolle": 2,
-            "sjokoladebolle": 2
+            "semla": 2,
+            "kardemommebolle": 1
           }
         },
         {
           "id": "c",
-          "text": "Plaster, til alle",
+          "text": "Svarer høflig og rolig",
+          "scores": {
+            "hvetebolle": 2,
+            "kardemommebolle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar noen andre i familien ta den",
+          "scores": {
+            "sjokoladebolle": 2,
+            "kjottbolle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter og ser om de legger igjen en beskjed",
+          "scores": {
+            "rosinbolle": 2,
+            "hvetebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Svarer med et ekstra blidt «hallo»",
+          "scores": {
+            "fiskebolle": 2,
+            "sjokoladebolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det er søndag. Hva er det beste med dagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang frokost med hele familien",
+          "scores": {
+            "kjottbolle": 2,
+            "fastelavnsbolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe godt å drikke og bakst i sofaen",
+          "scores": {
+            "kanelbolle": 2,
+            "sjokoladebolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En tur ut, uansett vær",
           "scores": {
             "skillingsbolle": 2,
             "kardemommebolle": 1
@@ -250,134 +301,80 @@
         },
         {
           "id": "d",
-          "text": "Ingenting, jeg liker å vite at den er der",
+          "text": "Besøk av venner",
           "scores": {
-            "fastelavnsbolle": 2,
-            "kardemommebolle": 2
+            "skolebolle": 2,
+            "berlinerbolle": 1
           }
         },
         {
           "id": "e",
-          "text": "En notatblokk",
-          "scores": {
-            "berlinerbolle": 2,
-            "hvetebolle": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Flere lommer",
-          "scores": {
-            "fiskebolle": 2,
-            "rosinbolle": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hvordan vet du at det er lørdag?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Det lukter annerledes",
-          "scores": {
-            "skillingsbolle": 2,
-            "kanelbolle": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg har på meg favorittsokkene",
-          "scores": {
-            "berlinerbolle": 2,
-            "fiskebolle": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Alle i huset er i godt humør",
-          "scores": {
-            "kardemommebolle": 2,
-            "kjottbolle": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg sjekker tre ganger",
+          "text": "Å slippe å gjøre noe som helst",
           "scores": {
             "hvetebolle": 2,
-            "fiskebolle": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Det kjennes i tærne",
-          "scores": {
-            "semla": 2,
-            "skolebolle": 2
+            "fiskebolle": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg vet det ikke, hver dag er lørdag",
+          "text": "En utflukt til et sted jeg ikke har vært",
           "scores": {
-            "fastelavnsbolle": 2,
-            "berlinerbolle": 1
+            "rosinbolle": 2,
+            "semla": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvor mange tær ville vært mest praktisk å ha?",
+      "text": "Hvor i norsk natur trives du best?",
       "options": [
         {
           "id": "a",
-          "text": "Fire",
+          "text": "På fjellet",
           "scores": {
-            "kardemommebolle": 2,
-            "semla": 1
+            "skillingsbolle": 2,
+            "kardemommebolle": 1
           }
         },
         {
           "id": "b",
-          "text": "Ti, som nå",
+          "text": "I skjærgården",
           "scores": {
-            "berlinerbolle": 2,
-            "kjottbolle": 1
+            "fiskebolle": 2,
+            "hvetebolle": 1
           }
         },
         {
           "id": "c",
-          "text": "Elleve, for sikkerhets skyld",
+          "text": "I skogen",
           "scores": {
-            "fastelavnsbolle": 2,
-            "hvetebolle": 2
+            "kardemommebolle": 2,
+            "rosinbolle": 1
           }
         },
         {
           "id": "d",
-          "text": "Tjue",
+          "text": "Ved et vann med bål",
           "scores": {
-            "kanelbolle": 2,
-            "sjokoladebolle": 2
+            "kjottbolle": 2,
+            "skolebolle": 1
           }
         },
         {
           "id": "e",
-          "text": "Ingen, bare såler",
+          "text": "På en blomstereng",
           "scores": {
-            "skolebolle": 2,
+            "semla": 2,
             "sjokoladebolle": 1
           }
         },
         {
           "id": "f",
-          "text": "Én stor",
+          "text": "Ved en stor foss",
           "scores": {
-            "sjokoladebolle": 2,
-            "kjottbolle": 2
+            "berlinerbolle": 2,
+            "fastelavnsbolle": 1
           }
         }
       ]

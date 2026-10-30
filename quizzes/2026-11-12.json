@@ -2,273 +2,262 @@
   "id": "2026-11-12",
   "date": "2026-11-12",
   "title": "Hvem i den norske kongefamilien er du i dag?",
-  "intro": "Er du en lun konge, en eventyrlysten dronning eller en tøff kronprinsesse? Svar på sju litt rare spørsmål og finn ut hvem i kongefamilien du er i dag.",
+  "intro": "Er du en lun konge, en eventyrlysten dronning eller en tøff kronprinsesse? Svar på sju spørsmål og finn ut hvem i kongefamilien du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken kake passer best til en tirsdag?",
+      "text": "Hvilket spill liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Sukkerbrød uten pynt",
+          "text": "Sjakk",
           "scores": {
-            "sverre": 2,
-            "mettemarit": 1
+            "haakon7": 2,
+            "sonja": 1
           }
         },
         {
           "id": "b",
-          "text": "Gulrotkake",
+          "text": "Uno",
           "scores": {
-            "sonja": 2,
-            "marthalouise": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Noe kjøpt på vei hjem",
-          "scores": {
-            "ingrid": 2,
-            "sonja": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Eplekake med vaniljesaus",
-          "scores": {
-            "marthalouise": 2,
+            "sverre": 1,
             "olav": 1
           }
         },
         {
-          "id": "e",
-          "text": "Ingen kake, bare en kjeks",
+          "id": "c",
+          "text": "Scrabble",
+          "scores": {
+            "mettemarit": 1,
+            "sonja": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ludo",
           "scores": {
             "harald": 2,
             "olav": 2
           }
         },
         {
-          "id": "f",
-          "text": "En stor bløtkake, hvorfor ikke",
+          "id": "e",
+          "text": "Tegne- og gjettespill",
           "scores": {
-            "haakon": 2,
-            "maud": 2
+            "marthalouise": 2,
+            "sverre": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den forsvunne diamant",
+          "scores": {
+            "maud": 2,
+            "haakon": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om kjøkkenhåndklær?",
+      "text": "Hvordan møter du nye folk?",
       "options": [
         {
           "id": "a",
-          "text": "Jeg har en favoritt",
+          "text": "Går bort og hilser med en gang",
           "scores": {
-            "harald": 2,
-            "marthalouise": 1
+            "olav": 2,
+            "haakon7": 1
           }
         },
         {
           "id": "b",
-          "text": "De må henge helt rett",
+          "text": "Venter til noen andre tar første steg",
           "scores": {
-            "maud": 2,
-            "olav": 2
+            "sverre": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg tørker heller hendene på buksa",
+          "text": "Stiller mange spørsmål",
           "scores": {
-            "mettemarit": 2,
-            "sonja": 1
+            "haakon": 2,
+            "mettemarit": 1
           }
         },
         {
           "id": "d",
-          "text": "Jo flere mønstre, jo bedre",
+          "text": "Leter etter den som står alene",
           "scores": {
-            "sverre": 2,
-            "ingrid": 2
+            "mettemarit": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg bretter dem til små kunstverk",
+          "text": "Slår av en spøk",
           "scores": {
-            "haakon7": 2,
-            "harald": 1
+            "harald": 2,
+            "sverre": 1
           }
         },
         {
           "id": "f",
-          "text": "De forsvinner alltid",
+          "text": "Forteller litt om meg selv og hva jeg liker",
           "scores": {
-            "ingrid": 2,
-            "haakon": 2
+            "marthalouise": 1,
+            "maud": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "En pingvin ber deg holde en tale. Hva handler den om?",
+      "text": "Hvilken fugl liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Vennskap",
+          "text": "Ørn",
           "scores": {
-            "haakon": 2,
-            "sonja": 1
+            "haakon7": 2,
+            "haakon": 1
           }
         },
         {
           "id": "b",
-          "text": "Å stå i kø",
+          "text": "Lunde",
           "scores": {
-            "marthalouise": 2,
-            "mettemarit": 2
+            "harald": 2,
+            "sverre": 1
           }
         },
         {
           "id": "c",
-          "text": "Hvorfor fisk er undervurdert",
+          "text": "Ugle",
           "scores": {
-            "sonja": 2,
-            "sverre": 2
+            "sonja": 1,
+            "mettemarit": 1
           }
         },
         {
           "id": "d",
-          "text": "Kulde, men på en positiv måte",
+          "text": "Kjøttmeis",
           "scores": {
-            "haakon7": 2,
-            "sonja": 1
+            "olav": 2,
+            "mettemarit": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg improviserer",
+          "text": "Påfugl",
           "scores": {
-            "ingrid": 2,
-            "haakon7": 2
+            "marthalouise": 1,
+            "maud": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg lar pingvinen snakke selv",
+          "text": "Fjellrype",
           "scores": {
-            "maud": 2,
-            "harald": 2
+            "ingrid": 2,
+            "haakon": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvordan hilser du på noen du ikke har sett på lenge?",
+      "text": "Hva gjør du når du gruer deg til noe?",
       "options": [
         {
           "id": "a",
-          "text": "Stor klem",
+          "text": "Snakker med noen jeg stoler på",
           "scores": {
-            "mettemarit": 2,
-            "haakon": 1
+            "mettemarit": 1,
+            "harald": 1
           }
         },
         {
           "id": "b",
-          "text": "Et fast håndtrykk",
+          "text": "Går en tur ute for å få tankene bort",
           "scores": {
-            "marthalouise": 2,
-            "maud": 2
+            "sonja": 1,
+            "haakon": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg roper navnet på lang avstand",
+          "text": "Forbereder meg så godt jeg kan",
           "scores": {
-            "sverre": 2,
-            "harald": 2
+            "ingrid": 2,
+            "haakon7": 1
           }
         },
         {
           "id": "d",
-          "text": "Et lite vink og et smil",
+          "text": "Gjør det med en gang for å få det unna",
           "scores": {
-            "maud": 2,
-            "sonja": 1
+            "haakon7": 2,
+            "maud": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg sier «nei, men hei!»",
+          "text": "Tenker at det sikkert går fint",
           "scores": {
-            "olav": 2,
-            "sonja": 1
+            "sverre": 1,
+            "olav": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg begynner rett på en historie",
+          "text": "Tegner eller skriver for å roe meg ned",
           "scores": {
-            "haakon": 2,
-            "haakon7": 1
+            "marthalouise": 2,
+            "sonja": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hvor tidlig begynner du å pynte til jul?",
+      "text": "Hvilket kjæledyr vil du helst ha?",
       "options": [
         {
           "id": "a",
-          "text": "I oktober",
+          "text": "Hund",
           "scores": {
-            "haakon7": 2,
-            "mettemarit": 1
+            "harald": 2,
+            "ingrid": 2
           }
         },
         {
           "id": "b",
-          "text": "Første søndag i advent",
+          "text": "Katt",
           "scores": {
-            "olav": 2,
+            "marthalouise": 2,
             "sverre": 1
           }
         },
         {
           "id": "c",
-          "text": "Uka før jul",
+          "text": "Hest",
           "scores": {
             "maud": 2,
-            "haakon7": 2
+            "ingrid": 1
           }
         },
         {
           "id": "d",
-          "text": "På lille julaften",
+          "text": "Kanin",
           "scores": {
-            "ingrid": 2,
-            "maud": 1
+            "mettemarit": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg pynter aldri ned",
+          "text": "Akvariefisk",
           "scores": {
-            "mettemarit": 2,
-            "olav": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Når noen andre gjør det",
-          "scores": {
-            "harald": 2,
+            "sonja": 2,
             "sverre": 1
           }
         }
@@ -276,107 +265,107 @@
     },
     {
       "id": "q6",
-      "text": "Hva gjør du når det er helt stille?",
+      "text": "Du får 500 kroner. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Nyter det",
-          "scores": {
-            "mettemarit": 2,
-            "sverre": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Begynner å nynne",
-          "scores": {
-            "sonja": 2,
-            "ingrid": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Hører etter rare lyder",
-          "scores": {
-            "harald": 2,
-            "olav": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Tenker store tanker",
+          "text": "Sparer alt",
           "scores": {
             "haakon": 2,
             "haakon7": 1
           }
         },
         {
-          "id": "e",
-          "text": "Ringer noen",
+          "id": "b",
+          "text": "Spanderer noe godt på vennene mine",
           "scores": {
-            "maud": 2,
-            "marthalouise": 1
+            "olav": 2,
+            "mettemarit": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper en bok eller to",
+          "scores": {
+            "sonja": 2,
+            "mettemarit": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøper utstyr til tur eller trening",
+          "scores": {
+            "ingrid": 2,
+            "maud": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjøper noe til hobbyen min",
+          "scores": {
+            "sverre": 2,
+            "sonja": 1
           }
         },
         {
           "id": "f",
-          "text": "Sovner",
+          "text": "Gir noe til en innsamling",
           "scores": {
-            "olav": 2,
-            "harald": 2
+            "haakon7": 2,
+            "harald": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilken form har den perfekte puta?",
+      "text": "Du skal holde en kort tale i et bursdagsselskap. Hva handler den om?",
       "options": [
         {
           "id": "a",
-          "text": "Firkantet, helt klassisk",
+          "text": "Et morsomt minne med bursdagsbarnet",
           "scores": {
-            "sonja": 2,
-            "marthalouise": 2
+            "harald": 1,
+            "sverre": 1
           }
         },
         {
           "id": "b",
-          "text": "Rund som en månekake",
+          "text": "Hvor mye bursdagsbarnet betyr for alle",
           "scores": {
-            "sverre": 2,
-            "maud": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Lang som en pølse",
-          "scores": {
-            "ingrid": 2,
-            "marthalouise": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Hjerteformet",
-          "scores": {
-            "marthalouise": 2,
+            "mettemarit": 2,
             "haakon7": 2
           }
         },
         {
-          "id": "e",
-          "text": "Den er brettet dobbel",
+          "id": "c",
+          "text": "En tur vi har vært på sammen",
           "scores": {
-            "haakon7": 2,
+            "maud": 2,
             "haakon": 1
           }
         },
         {
-          "id": "f",
-          "text": "Hvilken som helst, bare den er myk",
+          "id": "d",
+          "text": "Noe klokt jeg har lært av bursdagsbarnet",
+          "scores": {
+            "sonja": 2,
+            "haakon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg holder den kort og takker for maten",
           "scores": {
             "olav": 2,
+            "ingrid": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg leser et dikt jeg har skrevet",
+          "scores": {
+            "marthalouise": 2,
             "mettemarit": 1
           }
         }

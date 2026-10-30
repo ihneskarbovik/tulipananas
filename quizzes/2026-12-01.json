@@ -2,57 +2,57 @@
   "id": "2026-12-01",
   "date": "2026-12-01",
   "title": "Hvilken julekalender er du i dag?",
-  "intro": "Desember er her, og luke nummer én er åpnet! Er du en klassiker fra Skomakergata, en rampete nisse eller en sprø kultfavoritt? Svar på sju rare spørsmål og finn ut hvilken julekalender du er.",
+  "intro": "Desember er her, og luke nummer én er åpnet! Er du en klassiker fra Skomakergata, en rampete nisse eller en sprø kultfavoritt? Svar på sju spørsmål og finn ut hvilken julekalender du er.",
   "questions": [
     {
       "id": "q1",
-      "text": "Et ekorn spør om å få låne sofaen din i en uke. Hva svarer du?",
+      "text": "Hvilken butikk liker du best å kikke i?",
       "options": [
         {
           "id": "a",
-          "text": "Ja, men det må støvsuge",
+          "text": "Bokhandel",
           "scores": {
-            "svingen": 2,
-            "skjul": 1
+            "skjul": 2,
+            "blodfjell": 1
           }
         },
         {
           "id": "b",
-          "text": "Selvsagt, ta med vennene dine",
+          "text": "Sportsbutikk",
           "scores": {
-            "skjul": 2,
-            "laven": 2
+            "stjerner": 2,
+            "skoghei": 1
           }
         },
         {
           "id": "c",
-          "text": "Vi må skrive en kontrakt først",
+          "text": "Bruktbutikk",
           "scores": {
-            "laven": 2,
-            "stjerner": 2
+            "thejul": 2,
+            "blafjell": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg flytter heller inn hos ekornet",
+          "text": "Interiørbutikk",
           "scores": {
-            "manetoppen": 2,
-            "stjerner": 1
+            "bingen": 2,
+            "manetoppen": 1
           }
         },
         {
           "id": "e",
-          "text": "Bare hvis det lærer meg å klatre",
+          "text": "Leketøysbutikk",
           "scores": {
-            "skomakergata": 2,
-            "rampenissen": 2
+            "rampenissen": 2,
+            "svingen": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg later som jeg ikke er hjemme",
+          "text": "Musikkbutikk",
           "scores": {
-            "blafjell": 2,
+            "skomakergata": 2,
             "thejul": 1
           }
         }
@@ -60,215 +60,213 @@
     },
     {
       "id": "q2",
-      "text": "Hvilken ukedag ville vært best som venn?",
+      "text": "Planene dine blir avlyst i siste liten. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Mandag",
+          "text": "Finner på noe annet med en gang",
           "scores": {
-            "skjul": 2,
-            "manetoppen": 2
+            "skoghei": 2,
+            "rampenissen": 1
           }
         },
         {
           "id": "b",
-          "text": "Tirsdag",
+          "text": "Blir litt skuffet, men nyter roen",
           "scores": {
-            "stjerner": 2,
-            "snofall": 1
+            "snofall": 2
           }
         },
         {
           "id": "c",
-          "text": "Onsdag",
+          "text": "Ringer en venn og spør om vi skal finne på noe",
           "scores": {
-            "rampenissen": 2,
-            "skomakergata": 1
+            "skoghei": 2,
+            "bingen": 1
           }
         },
         {
           "id": "d",
-          "text": "Fredag",
+          "text": "Lurer på hvorfor det ble avlyst",
           "scores": {
-            "laven": 2,
-            "thejul": 1
+            "blodfjell": 2,
+            "skjul": 1
           }
         },
         {
           "id": "e",
-          "text": "Lørdag",
+          "text": "Gjør noe nyttig hjemme",
           "scores": {
-            "svingen": 2,
-            "skoghei": 1
+            "skomakergata": 2,
+            "svingen": 1
           }
         },
         {
           "id": "f",
-          "text": "Søndag",
+          "text": "Ser en film i sofaen",
           "scores": {
-            "bingen": 2,
-            "thejul": 1
+            "laven": 2,
+            "svingen": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan pakker du inn en gave?",
+      "text": "Hva slags TV-program ser du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Med altfor mye teip",
+          "text": "Krim og mysterier",
           "scores": {
-            "skomakergata": 2,
-            "snofall": 2
+            "blodfjell": 2,
+            "skjul": 1
           }
         },
         {
           "id": "b",
-          "text": "Helt perfekt, med bånd og sløyfe",
+          "text": "Komedie",
           "scores": {
-            "skoghei": 2,
-            "blodfjell": 2
+            "laven": 2,
+            "thejul": 1
           }
         },
         {
           "id": "c",
-          "text": "I en pose, ferdig med det",
+          "text": "Naturprogram",
           "scores": {
-            "thejul": 2,
-            "skoghei": 1
+            "blafjell": 2,
+            "snofall": 1
           }
         },
         {
           "id": "d",
-          "text": "Avispapir og kreativitet",
+          "text": "Quiz og konkurranser",
           "scores": {
-            "snofall": 2,
-            "thejul": 2
+            "stjerner": 2,
+            "skjul": 1
           }
         },
         {
           "id": "e",
-          "text": "Inni fem esker, den ene inni den andre",
+          "text": "Reiseprogram",
           "scores": {
-            "blafjell": 2,
-            "blodfjell": 1
+            "skoghei": 2,
+            "manetoppen": 1
           }
         },
         {
           "id": "f",
-          "text": "Ikke i det hele tatt, det er spenning nok",
+          "text": "Familieserier",
           "scores": {
-            "rampenissen": 2,
-            "blodfjell": 1
+            "svingen": 2
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hva synes du om paraplyer?",
+      "text": "Du får åpne én luke i en kalender. Hva håper du ligger bak?",
       "options": [
         {
           "id": "a",
-          "text": "Fantastiske, jeg har tre",
+          "text": "Sjokolade",
           "scores": {
             "laven": 2,
-            "blodfjell": 1
+            "rampenissen": 1
           }
         },
         {
           "id": "b",
-          "text": "Jeg mister dem alltid",
+          "text": "En lapp med en hyggelig beskjed",
           "scores": {
-            "stjerner": 2,
-            "bingen": 1
+            "bingen": 2,
+            "manetoppen": 1
           }
         },
         {
           "id": "c",
-          "text": "Litt farlige, egentlig",
+          "text": "En gåte du må løse",
           "scores": {
-            "svingen": 2,
-            "skoghei": 1
+            "blodfjell": 2,
+            "skjul": 1
           }
         },
         {
           "id": "d",
-          "text": "Hatter er bedre",
+          "text": "En liten leke",
           "scores": {
-            "bingen": 2,
-            "snofall": 2
+            "rampenissen": 2,
+            "stjerner": 1
           }
         },
         {
           "id": "e",
-          "text": "De burde ha lys inni",
+          "text": "Noe fint å henge på juletreet",
           "scores": {
             "snofall": 2,
-            "blodfjell": 2
+            "skomakergata": 1
           }
         },
         {
           "id": "f",
-          "text": "Regn er bare vann, det går fint",
+          "text": "En billett til noe spennende",
           "scores": {
-            "skjul": 2,
-            "blodfjell": 1
+            "blafjell": 2,
+            "skoghei": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva gjør du på en lang biltur?",
+      "text": "Hvilken gave vil du helst få?",
       "options": [
         {
           "id": "a",
-          "text": "Synger høyt",
+          "text": "Et brettspill",
           "scores": {
-            "blodfjell": 2,
-            "manetoppen": 1
+            "stjerner": 2,
+            "svingen": 1
           }
         },
         {
           "id": "b",
-          "text": "Sover",
+          "text": "Konsertbilletter",
           "scores": {
-            "skoghei": 2,
-            "manetoppen": 1
+            "thejul": 2,
+            "skomakergata": 1
           }
         },
         {
           "id": "c",
-          "text": "Spør om vi er framme snart",
+          "text": "En opplevelse for to",
           "scores": {
-            "skomakergata": 2,
-            "blodfjell": 2
+            "bingen": 2,
+            "laven": 1
           }
         },
         {
           "id": "d",
-          "text": "Teller røde biler",
+          "text": "Gode ullsokker",
           "scores": {
-            "rampenissen": 2,
-            "stjerner": 2
+            "skomakergata": 2,
+            "manetoppen": 1
           }
         },
         {
           "id": "e",
-          "text": "Lager en quiz til de andre",
+          "text": "En spennende krimbok",
           "scores": {
-            "manetoppen": 2,
-            "thejul": 2
+            "skjul": 2,
+            "blodfjell": 1
           }
         },
         {
           "id": "f",
-          "text": "Spiser opp nista før vi er ute av byen",
+          "text": "Noe hjemmelaget",
           "scores": {
-            "blafjell": 2,
+            "manetoppen": 2,
             "snofall": 1
           }
         }
@@ -276,100 +274,106 @@
     },
     {
       "id": "q6",
-      "text": "Hvor mange ganger trykker du på heisknappen?",
+      "text": "Hva gjør du først når du kommer hjem?",
       "options": [
         {
           "id": "a",
-          "text": "Én gang, det holder",
+          "text": "Setter på musikk",
           "scores": {
-            "laven": 2,
-            "manetoppen": 2
+            "thejul": 2
           }
         },
         {
           "id": "b",
-          "text": "Til den lyser",
+          "text": "Sjekker hva som finnes i kjøleskapet",
           "scores": {
-            "svingen": 2,
-            "bingen": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Mange ganger, i takt",
-          "scores": {
-            "thejul": 2,
+            "rampenissen": 2,
             "laven": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg tar trappa",
+          "id": "c",
+          "text": "Slenger meg i sofaen",
           "scores": {
-            "rampenissen": 2,
+            "snofall": 2,
+            "manetoppen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder litt og legger ting på plass",
+          "scores": {
             "skjul": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg lar noen andre trykke",
+          "text": "Forteller noen hvordan dagen min har vært",
           "scores": {
-            "skoghei": 2,
-            "bingen": 2
+            "blodfjell": 2,
+            "bingen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skifter til treningstøy",
+          "scores": {
+            "stjerner": 2,
+            "blafjell": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva har du i lomma når du går ut?",
+      "text": "Hvor overnatter du helst på tur?",
       "options": [
         {
           "id": "a",
-          "text": "En kastanje",
+          "text": "I telt",
           "scores": {
             "blafjell": 2,
-            "snofall": 1
+            "stjerner": 1
           }
         },
         {
           "id": "b",
-          "text": "Et viskelær",
+          "text": "På hytte",
           "scores": {
-            "skomakergata": 2,
-            "snofall": 1
+            "svingen": 2,
+            "blodfjell": 1
           }
         },
         {
           "id": "c",
-          "text": "Ingenting, jeg liker tomme lommer",
+          "text": "På et fint hotell",
           "scores": {
             "bingen": 2,
-            "skoghei": 2
+            "laven": 1
           }
         },
         {
           "id": "d",
-          "text": "Godteri til senere",
+          "text": "I hengekøye under åpen himmel",
           "scores": {
-            "blodfjell": 2,
-            "bingen": 2
+            "manetoppen": 2,
+            "snofall": 1
           }
         },
         {
           "id": "e",
-          "text": "En lapp med en tegning av en and",
+          "text": "Hos venner eller familie",
           "scores": {
-            "skjul": 2,
-            "stjerner": 2
+            "skoghei": 2,
+            "svingen": 1
           }
         },
         {
           "id": "f",
-          "text": "Nøkler, lommebok og ekstra sokker",
+          "text": "I bobil",
           "scores": {
-            "stjerner": 2,
-            "rampenissen": 2
+            "rampenissen": 2,
+            "thejul": 1
           }
         }
       ]

@@ -2,31 +2,31 @@
   "id": "2026-12-02",
   "date": "2026-12-02",
   "title": "Hvilken julefilm er du i dag?",
-  "intro": "Desember er i gang, og det er tid for julefilmer i sofaen! Er du en tidløs klassiker, en norsk favoritt eller en tegnefilm med stort hjerte? Svar på sju rare spørsmål og finn ut hvilken julefilm du er i dag.",
+  "intro": "Desember er i gang, og det er tid for julefilmer i sofaen! Er du en tidløs klassiker, en norsk favoritt eller en tegnefilm med stort hjerte? Svar på sju spørsmål og finn ut hvilken julefilm du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken farge har tirsdager?",
+      "text": "Hvordan tar du en vanskelig beslutning?",
       "options": [
         {
           "id": "a",
-          "text": "Gul som en banan",
+          "text": "Velger det som virker mest spennende",
           "scores": {
-            "polar": 2,
-            "blafjell": 2
+            "blafjell": 2,
+            "arthur": 1
           }
         },
         {
           "id": "b",
-          "text": "Litt grå, men hyggelig",
+          "text": "Spør noen jeg stoler på",
           "scores": {
-            "klaus": 2,
-            "donald": 2
+            "snekker": 2,
+            "donald": 1
           }
         },
         {
           "id": "c",
-          "text": "Lyseblå",
+          "text": "Går på magefølelsen",
           "scores": {
             "askepott": 2,
             "elf": 1
@@ -34,350 +34,347 @@
         },
         {
           "id": "d",
-          "text": "Grønn som en frosk",
+          "text": "Lager en liste med for og imot",
           "scores": {
-            "snekker": 2,
-            "donald": 1
+            "alenehjemme": 2,
+            "arthur": 1
           }
         },
         {
           "id": "e",
-          "text": "Oransje",
+          "text": "Sover på det",
           "scores": {
-            "arthur": 2,
-            "elf": 1
+            "polar": 2,
+            "mirakel": 1
           }
         },
         {
           "id": "f",
-          "text": "De har ingen farge, de er bare tirsdager",
+          "text": "Velger det som er best for dem rundt meg",
           "scores": {
-            "alenehjemme": 2,
-            "muppets": 2
+            "julestjernen": 2,
+            "arthur": 1
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvor mange pinner trengs til et ordentlig fuglehus?",
+      "text": "Hvilket mønster liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Tre, resten er overdrivelse",
+          "text": "Striper",
           "scores": {
-            "snekker": 2,
-            "mirakel": 1
+            "arthur": 2,
+            "elf": 1
           }
         },
         {
           "id": "b",
-          "text": "Tolv",
+          "text": "Ruter",
           "scores": {
-            "elf": 2,
-            "klaus": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Åtte hundre",
-          "scores": {
-            "polar": 2,
+            "snekker": 2,
             "julestjernen": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg bruker heller en tekanne",
+          "id": "c",
+          "text": "Prikker",
           "scores": {
-            "muppets": 2,
-            "klaus": 2
+            "elf": 2,
+            "muppets": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blomstermønster",
+          "scores": {
+            "askepott": 2,
+            "julestjernen": 1
           }
         },
         {
           "id": "e",
-          "text": "Det kommer an på fuglen",
+          "text": "Ensfarget, helt uten mønster",
           "scores": {
-            "blafjell": 2,
-            "arthur": 2
+            "klaus": 2,
+            "mirakel": 1
           }
         },
         {
           "id": "f",
-          "text": "Ingen, jeg kjøper et ferdig",
+          "text": "Klassisk strikkemønster",
           "scores": {
-            "mirakel": 2,
-            "polar": 2
+            "donald": 2,
+            "snekker": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Du må bytte stemme med et dyr i én dag. Hvilket?",
+      "text": "Noe går i stykker hjemme. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "En and",
-          "scores": {
-            "blafjell": 2,
-            "donald": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "En hval",
-          "scores": {
-            "askepott": 2,
-            "donald": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "En mus",
-          "scores": {
-            "alenehjemme": 2,
-            "mirakel": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "En katt",
-          "scores": {
-            "julestjernen": 2,
-            "muppets": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "En papegøye",
-          "scores": {
-            "polar": 2,
-            "askepott": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "En ku",
-          "scores": {
-            "snekker": 2,
-            "klaus": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hvordan legger du sokker i skuffen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Rullet sammen i par",
-          "scores": {
-            "donald": 2,
-            "blafjell": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Bare kaster dem oppi",
+          "text": "Fikser det med det jeg har for hånden",
           "scores": {
             "alenehjemme": 2,
             "snekker": 1
           }
         },
         {
-          "id": "c",
-          "text": "Sortert etter farge",
+          "id": "b",
+          "text": "Henter verktøykassa og gjør det skikkelig",
           "scores": {
-            "elf": 2,
-            "mirakel": 2
+            "snekker": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser en video om hvordan det repareres",
+          "scores": {
+            "blafjell": 2,
+            "arthur": 1
           }
         },
         {
           "id": "d",
-          "text": "Hvilken skuff?",
+          "text": "Lager noe nytt av delene",
           "scores": {
-            "muppets": 2,
-            "arthur": 2
+            "klaus": 2,
+            "alenehjemme": 1
           }
         },
         {
           "id": "e",
-          "text": "Brettet helt flatt",
+          "text": "Ler litt av det og rydder opp",
           "scores": {
-            "mirakel": 2,
-            "donald": 2
+            "muppets": 2,
+            "donald": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg har dem i en kurv på gulvet",
+          "text": "Tar det med ro og ordner det i morgen",
           "scores": {
-            "klaus": 2,
-            "julestjernen": 2
+            "polar": 2,
+            "mirakel": 1
           }
         }
       ]
     },
     {
-      "id": "q5",
-      "text": "Hvilken ting på badet er klokest?",
+      "id": "q4",
+      "text": "Hvilken tur går du helst?",
       "options": [
         {
           "id": "a",
-          "text": "Speilet",
+          "text": "Fjelltur",
+          "scores": {
+            "blafjell": 2,
+            "askepott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skogstur",
           "scores": {
             "julestjernen": 2,
             "klaus": 1
           }
         },
         {
-          "id": "b",
-          "text": "Tannbørsten",
+          "id": "c",
+          "text": "Strandtur",
           "scores": {
-            "snekker": 2,
+            "polar": 2,
+            "mirakel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bytur med kafébesøk",
+          "scores": {
+            "alenehjemme": 2,
+            "elf": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sykkeltur",
+          "scores": {
+            "arthur": 2,
+            "alenehjemme": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Søndagstur i nabolaget med familien",
+          "scores": {
+            "donald": 2,
+            "snekker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva må du ha i sofaen når du ser film?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort, mykt pledd",
+          "scores": {
+            "mirakel": 2,
+            "polar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Godteri",
+          "scores": {
+            "elf": 2,
             "muppets": 1
           }
         },
         {
           "id": "c",
-          "text": "Badekaret",
+          "text": "Hele familien",
           "scores": {
-            "polar": 2,
-            "julestjernen": 2
+            "donald": 2,
+            "julestjernen": 1
           }
         },
         {
           "id": "d",
-          "text": "Håndkleet",
+          "text": "Noe å holde på med i hendene",
           "scores": {
-            "arthur": 2,
-            "donald": 2
+            "klaus": 2
           }
         },
         {
           "id": "e",
-          "text": "Såpa",
+          "text": "En god venn å le sammen med",
           "scores": {
             "muppets": 2,
-            "mirakel": 1
+            "arthur": 1
           }
         },
         {
           "id": "f",
-          "text": "Vekta, den vet mye",
+          "text": "En kopp varm te",
           "scores": {
-            "blafjell": 2,
-            "alenehjemme": 1
+            "mirakel": 2,
+            "polar": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvordan tror du en sky smaker?",
+      "text": "Hvilken blomst liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Som bomull",
+          "text": "Rose",
           "scores": {
-            "polar": 2,
-            "mirakel": 2
+            "julestjernen": 2,
+            "askepott": 1
           }
         },
         {
           "id": "b",
-          "text": "Som vann med boble",
+          "text": "Solsikke",
           "scores": {
-            "klaus": 2,
-            "julestjernen": 2
+            "elf": 2,
+            "arthur": 1
           }
         },
         {
           "id": "c",
-          "text": "Som vaniljeis",
+          "text": "Tulipan",
           "scores": {
-            "elf": 2,
-            "mirakel": 2
+            "muppets": 2,
+            "donald": 1
           }
         },
         {
           "id": "d",
-          "text": "Som ingenting, men på en fin måte",
+          "text": "Liljekonvall",
           "scores": {
-            "donald": 2,
-            "muppets": 1
+            "klaus": 2,
+            "polar": 1
           }
         },
         {
           "id": "e",
-          "text": "Som peppermynte",
+          "text": "Lavendel",
           "scores": {
-            "askepott": 2,
-            "arthur": 2
+            "mirakel": 2
           }
         },
         {
           "id": "f",
-          "text": "Litt som regn i går",
+          "text": "Prestekrage",
           "scores": {
-            "mirakel": 2,
-            "elf": 2
+            "askepott": 2,
+            "snekker": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Du kan bare spise med én ting resten av uka. Hva velger du?",
+      "text": "Hvordan lærer du noe nytt best?",
       "options": [
         {
           "id": "a",
-          "text": "Skje",
+          "text": "Prøver meg fram",
           "scores": {
-            "snekker": 2,
-            "arthur": 2
+            "blafjell": 2,
+            "alenehjemme": 1
           }
         },
         {
           "id": "b",
-          "text": "Spisepinner",
+          "text": "Leser meg opp først",
           "scores": {
-            "elf": 2,
-            "muppets": 1
+            "mirakel": 2,
+            "julestjernen": 1
           }
         },
         {
           "id": "c",
-          "text": "Fingrene",
+          "text": "Ser på at noen andre gjør det",
           "scores": {
-            "arthur": 2,
-            "donald": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "En liten spade",
-          "scores": {
-            "alenehjemme": 2,
+            "klaus": 2,
             "polar": 1
           }
         },
         {
-          "id": "e",
-          "text": "Gaffel",
+          "id": "d",
+          "text": "Lærer sammen med venner",
           "scores": {
-            "blafjell": 2,
-            "alenehjemme": 2
+            "donald": 2,
+            "elf": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Øver og øver til det sitter",
+          "scores": {
+            "arthur": 2,
+            "askepott": 1
           }
         },
         {
           "id": "f",
-          "text": "Et sugerør",
+          "text": "Lager en sang eller en regle for å huske",
           "scores": {
-            "askepott": 2,
-            "klaus": 2
+            "muppets": 2,
+            "elf": 1
           }
         }
       ]

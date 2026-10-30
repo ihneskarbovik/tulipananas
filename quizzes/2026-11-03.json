@@ -2,363 +2,301 @@
   "id": "2026-11-03",
   "date": "2026-11-03",
   "title": "Hvilken hunderase er du i dag?",
-  "intro": "Er du en vennlig golden retriever, en bestemt dachshund eller en sprek husky? Svar på sju litt rare spørsmål og finn ut hvilken hunderase du er i dag.",
+  "intro": "Er du en vennlig golden retriever, en bestemt dachshund eller en sprek husky? Svar på sju spørsmål og finn ut hvilken hunderase du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva synes du om glidelåser?",
+      "text": "Hvilket tre liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Fine, så lenge de ikke setter seg fast",
+          "text": "Eik",
           "scores": {
-            "bernhard": 2,
-            "golden": 1
+            "bernhard": 1,
+            "elghund": 2
           }
         },
         {
           "id": "b",
-          "text": "Jeg drar dem opp og ned når jeg tenker",
+          "text": "Bjørk",
           "scores": {
-            "collie": 2,
-            "husky": 1
+            "golden": 1,
+            "corgi": 1
           }
         },
         {
           "id": "c",
-          "text": "Knapper er mye mer stilig",
+          "text": "Gran",
+          "scores": {
+            "elghund": 1,
+            "husky": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kirsebærtre",
           "scores": {
             "puddel": 2,
             "dalmatiner": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg har aldri tenkt over dem",
-          "scores": {
-            "mops": 2,
-            "corgi": 2
-          }
-        },
-        {
           "id": "e",
-          "text": "Jeg vil ha dem overalt, også på luer",
+          "text": "Epletre",
           "scores": {
-            "dachshund": 2,
-            "chihuahua": 1
+            "beagle": 2,
+            "mops": 1
           }
         },
         {
           "id": "f",
-          "text": "De bør være solide og tåle vær",
+          "text": "Palme",
           "scores": {
-            "elghund": 2,
-            "beagle": 1
+            "mops": 2,
+            "chihuahua": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "En pelikan vil bli med deg på kino. Hvilken film ser dere?",
+      "text": "Du har en ledig ettermiddag uten planer. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "En lang dokumentar om fjell",
+          "text": "Slapper av i sofaen",
           "scores": {
-            "elghund": 2,
+            "mops": 1,
             "bernhard": 1
           }
         },
         {
           "id": "b",
-          "text": "En skrekkfilm, men vi holder hverandre i vingen",
+          "text": "Drar ut på tur",
           "scores": {
-            "chihuahua": 2,
-            "beagle": 1
+            "husky": 2,
+            "dalmatiner": 1
           }
         },
         {
           "id": "c",
-          "text": "En musikal vi synger med på",
+          "text": "Får gjort ting jeg har utsatt",
           "scores": {
-            "corgi": 2,
+            "collie": 2,
             "dachshund": 1
           }
         },
         {
           "id": "d",
-          "text": "Den pelikanen vil se, selvfølgelig",
+          "text": "Ringer noen og finner på noe",
           "scores": {
             "golden": 2,
-            "mops": 1
+            "beagle": 1
           }
         },
         {
           "id": "e",
-          "text": "En smart krimfilm med mange vendinger",
+          "text": "Utforsker et sted jeg ikke har vært før",
           "scores": {
-            "collie": 2,
-            "puddel": 1
+            "beagle": 2,
+            "husky": 1
           }
         },
         {
           "id": "f",
-          "text": "En actionfilm med biljakt",
+          "text": "Gjør ferdig noe jeg har bestemt meg for",
           "scores": {
-            "husky": 2,
-            "dalmatiner": 1
+            "dachshund": 2,
+            "collie": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan bærer du hjem handleposene?",
+      "text": "Hva slags vær liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Alle på en gang, uansett hvor tunge de er",
-          "scores": {
-            "dachshund": 2,
-            "elghund": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jevnt fordelt, like tungt i hver hånd",
-          "scores": {
-            "collie": 2,
-            "bernhard": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg spiser litt underveis så de blir lettere",
-          "scores": {
-            "beagle": 2,
-            "mops": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Med en venn som hjelper til",
+          "text": "Sol og varme",
           "scores": {
             "golden": 2,
             "corgi": 1
           }
         },
         {
-          "id": "e",
-          "text": "I en fin kurv",
+          "id": "b",
+          "text": "Klar og kald vinterdag",
           "scores": {
-            "puddel": 2,
-            "chihuahua": 1
+            "elghund": 2,
+            "husky": 1
           }
         },
         {
-          "id": "f",
-          "text": "Jeg jogger hjem med dem",
+          "id": "c",
+          "text": "Regn som tromme på vinduet",
           "scores": {
-            "dalmatiner": 2,
-            "husky": 2
+            "mops": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Storm og vind",
+          "scores": {
+            "chihuahua": 2,
+            "dachshund": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Frisk høstdag med blå himmel",
+          "scores": {
+            "dalmatiner": 1,
+            "collie": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Du får bestemme hva som skal være på et nytt frimerke. Hva blir det?",
+      "text": "Hvordan vil du helst bli vekket om morgenen?",
       "options": [
         {
           "id": "a",
-          "text": "Et bilde av bestemor",
+          "text": "Av noen som sier god morgen",
           "scores": {
-            "bernhard": 2,
+            "corgi": 1,
             "golden": 1
           }
         },
         {
           "id": "b",
-          "text": "En kopp kakao",
+          "text": "Av meg selv, uten vekkerklokke",
           "scores": {
-            "mops": 2,
+            "elghund": 2,
             "beagle": 1
           }
         },
         {
           "id": "c",
-          "text": "Et kart over et sted ingen har vært",
+          "text": "Sakte, med fem minutter ekstra under dyna",
           "scores": {
-            "husky": 2,
-            "elghund": 1
+            "bernhard": 2,
+            "mops": 1
           }
         },
         {
           "id": "d",
-          "text": "Et mønster jeg har tegnet selv",
+          "text": "Av en rolig melodi",
           "scores": {
             "puddel": 2,
-            "collie": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Meg selv, i gullramme",
-          "scores": {
-            "chihuahua": 2,
-            "dachshund": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "En tegning av en sky som smiler",
-          "scores": {
-            "corgi": 2,
-            "dalmatiner": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hvor høyt skal musikken være når du rydder?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Så høyt at naboen danser med",
-          "scores": {
-            "dalmatiner": 2,
             "corgi": 1
           }
         },
         {
-          "id": "b",
-          "text": "Lavt, jeg vil høre mine egne tanker",
+          "id": "e",
+          "text": "Av vekkerklokka, og så rett opp",
           "scores": {
-            "bernhard": 2,
-            "collie": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg rydder ikke, jeg flytter bare ting",
-          "scores": {
-            "mops": 2,
+            "husky": 1,
             "dachshund": 1
           }
         },
         {
-          "id": "d",
-          "text": "Jeg synger selv, så ingen musikk trengs",
-          "scores": {
-            "golden": 2,
-            "husky": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Passe høyt, og alltid samme spilleliste",
-          "scores": {
-            "elghund": 2,
-            "puddel": 1
-          }
-        },
-        {
           "id": "f",
-          "text": "Det kommer an på hva jeg finner under sofaen",
+          "text": "Av høy musikk",
           "scores": {
-            "beagle": 2,
+            "dalmatiner": 2,
             "chihuahua": 1
           }
         }
       ]
     },
     {
-      "id": "q6",
-      "text": "Hvordan reagerer du på en overraskelse?",
+      "id": "q5",
+      "text": "Hvilken filmsjanger liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Hopper høyt og hyler",
+          "text": "Komedie",
           "scores": {
-            "chihuahua": 2,
+            "mops": 2,
             "corgi": 1
           }
         },
         {
           "id": "b",
-          "text": "Gråter litt av glede",
+          "text": "Action",
           "scores": {
-            "golden": 2,
-            "bernhard": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Later som jeg visste det hele tiden",
-          "scores": {
-            "puddel": 2,
-            "dachshund": 1
-          }
-        },
-        {
-          "id": "d",
-          "text": "Vil vite hvem som planla alt",
-          "scores": {
-            "beagle": 2,
-            "collie": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Spør om vi kan gjøre det igjen med en gang",
-          "scores": {
-            "husky": 2,
+            "chihuahua": 2,
             "dalmatiner": 1
           }
         },
         {
-          "id": "f",
-          "text": "Smiler og fortsetter rolig",
+          "id": "c",
+          "text": "Eventyr",
           "scores": {
-            "elghund": 2,
-            "mops": 1
+            "husky": 2,
+            "golden": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Krim og mysterier",
+          "scores": {
+            "beagle": 2,
+            "collie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Dokumentar",
+          "scores": {
+            "collie": 1,
+            "puddel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Familiefilm",
+          "scores": {
+            "golden": 2,
+            "bernhard": 2
           }
         }
       ]
     },
     {
-      "id": "q7",
-      "text": "Du kommer to sekunder for sent til ferja. Hva gjør du?",
+      "id": "q6",
+      "text": "Hvordan velger du bursdagsgave til noen?",
       "options": [
         {
           "id": "a",
-          "text": "Vinker til den til den er borte",
+          "text": "Spør hva de ønsker seg",
           "scores": {
-            "corgi": 2,
-            "golden": 2
+            "collie": 2,
+            "golden": 1
           }
         },
         {
           "id": "b",
-          "text": "Har allerede en plan B",
+          "text": "Lytter etter hint lenge i forveien",
           "scores": {
-            "collie": 2,
-            "elghund": 1
+            "bernhard": 1,
+            "elghund": 2
           }
         },
         {
           "id": "c",
-          "text": "Kjøper en vaffel og venter på neste",
+          "text": "Finner noe fint og stilig",
           "scores": {
-            "mops": 2,
-            "bernhard": 1
+            "puddel": 2,
+            "dalmatiner": 1
           }
         },
         {
           "id": "d",
-          "text": "Krangler litt med måkene",
+          "text": "Kjøper noe jeg selv ville likt",
           "scores": {
             "dachshund": 2,
             "chihuahua": 1
@@ -366,18 +304,72 @@
         },
         {
           "id": "e",
-          "text": "Leier en kajakk",
+          "text": "Gir en opplevelse vi kan gjøre sammen",
           "scores": {
             "dalmatiner": 2,
-            "husky": 1
+            "beagle": 1
           }
         },
         {
           "id": "f",
-          "text": "Blir kjent med alle andre som også mistet den",
+          "text": "Lager noe selv",
           "scores": {
-            "beagle": 2,
-            "puddel": 1
+            "corgi": 2,
+            "elghund": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan ser kveldsrutinen din ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Samme faste rutine hver kveld",
+          "scores": {
+            "collie": 2,
+            "elghund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser en serie i sofaen til jeg blir trøtt",
+          "scores": {
+            "mops": 1,
+            "beagle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser en bok i senga",
+          "scores": {
+            "puddel": 2,
+            "bernhard": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prater med noen til det blir sent",
+          "scores": {
+            "husky": 2,
+            "golden": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Får plutselig energi og rydder litt",
+          "scores": {
+            "corgi": 2,
+            "collie": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Legger meg når jeg selv bestemmer",
+          "scores": {
+            "dachshund": 1,
+            "chihuahua": 1
           }
         }
       ]

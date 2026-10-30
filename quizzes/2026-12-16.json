@@ -2,382 +2,380 @@
   "id": "2026-12-16",
   "date": "2026-12-16",
   "title": "Hvilken disippel er du i dag?",
-  "intro": "Jesus hadde tolv disipler, og alle var forskjellige: fiskere, en tollinnkrever, noen ivrige og noen stille. Svar på sju litt rare spørsmål og finn ut hvilken disippel du er i dag.",
+  "intro": "Jesus hadde tolv disipler, og alle var forskjellige: fiskere, en tollinnkrever, noen ivrige og noen stille. Svar på sju spørsmål og finn ut hvilken disippel du er i dag.",
   "questions": [
     {
       "id": "q1",
-      "text": "En elefant vil bli med på kino. Hvor sitter den?",
+      "text": "Hva vil du helst ha på pizzaen?",
       "options": [
         {
           "id": "a",
-          "text": "Helt bakerst, så alle andre ser",
+          "text": "Pepperoni",
           "scores": {
-            "jakob": 2,
+            "simon": 2,
+            "peter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skinke og sopp",
+          "scores": {
+            "jakobalfeus": 2,
             "taddeus": 1
           }
         },
         {
-          "id": "b",
-          "text": "Ved siden av meg, med popkorn",
-          "scores": {
-            "tomas": 2,
-            "peter": 2
-          }
-        },
-        {
           "id": "c",
-          "text": "På første rad",
+          "text": "Bare tomat og ost",
           "scores": {
-            "jakobalfeus": 2,
-            "simon": 2
+            "bartolomeus": 2,
+            "mattias": 1
           }
         },
         {
           "id": "d",
-          "text": "I midtgangen, den trenger plass",
-          "scores": {
-            "johannes": 2,
-            "bartolomeus": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den kjøper to seter",
-          "scores": {
-            "mattias": 2,
-            "jakobalfeus": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Den ser filmen hjemme og forteller meg om den etterpå",
-          "scores": {
-            "simon": 2,
-            "matteus": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q2",
-      "text": "Hva synes du om hengelåser?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Veldig nyttige",
-          "scores": {
-            "tomas": 2,
-            "filip": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg glemmer alltid koden",
-          "scores": {
-            "taddeus": 2,
-            "tomas": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Fine, hvis de er grønne",
+          "text": "Kylling og paprika",
           "scores": {
             "filip": 2,
-            "peter": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg liker lyden når de klikker",
-          "scores": {
-            "simon": 2,
-            "taddeus": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Litt mistenkelige",
-          "scores": {
-            "jakobalfeus": 2,
-            "mattias": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "De burde synge når de åpnes",
-          "scores": {
-            "matteus": 2,
-            "taddeus": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "Hvordan bærer du handleposene hjem?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Alle i én hånd",
-          "scores": {
-            "simon": 2,
-            "mattias": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jevnt fordelt på begge sider",
-          "scores": {
-            "taddeus": 2,
-            "tomas": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg bærer de andres også",
-          "scores": {
-            "matteus": 2,
-            "mattias": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg tar heller flere turer",
-          "scores": {
-            "jakob": 2,
-            "matteus": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "På hodet, som en balansekunstner",
-          "scores": {
-            "peter": 2,
-            "filip": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "I sekken, alltid i sekken",
-          "scores": {
-            "jakobalfeus": 2,
-            "bartolomeus": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hvor lang tid bruker du på å velge is i en iskiosk?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Under ett sekund",
-          "scores": {
-            "tomas": 2,
             "jakob": 1
           }
         },
         {
-          "id": "b",
-          "text": "Til køen bak meg begynner å sukke",
-          "scores": {
-            "jakobalfeus": 2,
-            "filip": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg spør alle andre først",
-          "scores": {
-            "bartolomeus": 2,
-            "andreas": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Ingen tid, jeg tar alltid den samme",
-          "scores": {
-            "johannes": 2,
-            "jakobalfeus": 1
-          }
-        },
-        {
           "id": "e",
-          "text": "Jeg leser hele lista to ganger",
-          "scores": {
-            "taddeus": 2,
-            "peter": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Jeg lar noen andre velge for meg",
-          "scores": {
-            "jakob": 2,
-            "andreas": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Du får skrive én setning på en kjempestor plakat midt i byen. Hva skriver du?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Husk å drikke vann",
-          "scores": {
-            "johannes": 2,
-            "simon": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Du er bra nok",
-          "scores": {
-            "taddeus": 2,
-            "mattias": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Har noen sett votten min?",
-          "scores": {
-            "filip": 2,
-            "jakobalfeus": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Hei til alle som leser dette",
-          "scores": {
-            "andreas": 2,
-            "bartolomeus": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Vær snill med duene",
-          "scores": {
-            "jakob": 2,
-            "jakobalfeus": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Vaffelfest hos meg klokka fem",
-          "scores": {
-            "mattias": 2,
-            "bartolomeus": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hvordan tørker du deg etter dusjen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Raskt og effektivt",
-          "scores": {
-            "matteus": 2,
-            "taddeus": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Jeg lufttørker",
-          "scores": {
-            "andreas": 2,
-            "mattias": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Med et kjempestort badehåndkle",
-          "scores": {
-            "simon": 2,
-            "bartolomeus": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Med to håndklær, ett til håret",
-          "scores": {
-            "jakob": 2,
-            "andreas": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg rister meg som en hund",
-          "scores": {
-            "filip": 2,
-            "simon": 2
-          }
-        },
-        {
-          "id": "f",
-          "text": "Med et håndkle som har ligget på varmen",
-          "scores": {
-            "tomas": 2,
-            "johannes": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q7",
-      "text": "Hvilket vær passer best til å fortelle en hemmelighet?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Lett snøvær",
-          "scores": {
-            "andreas": 2,
-            "bartolomeus": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Duskregn",
-          "scores": {
-            "filip": 2,
-            "simon": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Strålende sol",
+          "text": "Spekeskinke og ruccola",
           "scores": {
             "matteus": 2,
             "johannes": 1
           }
         },
         {
-          "id": "d",
-          "text": "Tett tåke",
+          "id": "f",
+          "text": "Noe jeg aldri har smakt før",
           "scores": {
-            "taddeus": 2,
-            "tomas": 2
+            "tomas": 2,
+            "andreas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan planlegger du en helg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg lager en liste over alt jeg vil rekke",
+          "scores": {
+            "matteus": 2,
+            "filip": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg bestemmer meg der og da",
+          "scores": {
+            "peter": 2,
+            "simon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg spør vennene mine hva de har lyst til",
+          "scores": {
+            "andreas": 2,
+            "taddeus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg setter av god tid til å slappe av hjemme",
+          "scores": {
+            "johannes": 2,
+            "bartolomeus": 1
           }
         },
         {
           "id": "e",
-          "text": "Sterk vind",
+          "text": "Jeg fyller den med trening og aktiviteter",
           "scores": {
-            "peter": 2,
-            "mattias": 2
+            "simon": 2,
+            "jakob": 1
           }
         },
         {
           "id": "f",
-          "text": "En stille kveld med stjerner",
+          "text": "Jeg venter og blir med på det som dukker opp",
           "scores": {
-            "johannes": 2,
-            "matteus": 2
+            "mattias": 2,
+            "jakobalfeus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva bestiller du oftest på kafé?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kakao med krem",
+          "scores": {
+            "taddeus": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor kaffe og et rundstykke",
+          "scores": {
+            "filip": 2,
+            "jakobalfeus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Te og en bolle",
+          "scores": {
+            "bartolomeus": 2,
+            "mattias": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe nytt fra tavla",
+          "scores": {
+            "tomas": 2,
+            "peter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kanelboller til hele bordet",
+          "scores": {
+            "andreas": 2,
+            "matteus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En smoothie",
+          "scores": {
+            "jakob": 2,
+            "simon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du når du blir irritert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier fra med en gang",
+          "scores": {
+            "peter": 1,
+            "bartolomeus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går en tur for å roe meg ned",
+          "scores": {
+            "jakobalfeus": 2,
+            "mattias": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med en god venn om det",
+          "scores": {
+            "taddeus": 2,
+            "andreas": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver å finne ut hvorfor det skjedde",
+          "scores": {
+            "tomas": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir meg ikke før det er ordnet opp i",
+          "scores": {
+            "simon": 2,
+            "jakob": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder eller fikser noe for å få det ut",
+          "scores": {
+            "filip": 2,
+            "matteus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva er favorittmiddagen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taco",
+          "scores": {
+            "peter": 2,
+            "andreas": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fiskesuppe",
+          "scores": {
+            "jakobalfeus": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøttkaker med brun saus",
+          "scores": {
+            "mattias": 2,
+            "taddeus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lasagne",
+          "scores": {
+            "matteus": 2,
+            "filip": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Grillet kylling med grønnsaker",
+          "scores": {
+            "jakob": 2,
+            "simon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pasta med tomatsaus",
+          "scores": {
+            "bartolomeus": 2,
+            "tomas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Desember er godt i gang. Hva gleder du deg mest til nå?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å bake og pynte sammen med andre",
+          "scores": {
+            "andreas": 2,
+            "filip": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å finne de perfekte gavene",
+          "scores": {
+            "matteus": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rolige kvelder med levende lys",
+          "scores": {
+            "johannes": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snø, aking og skiturer",
+          "scores": {
+            "jakob": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å besøke familie og venner",
+          "scores": {
+            "taddeus": 2,
+            "jakobalfeus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nedtellingen til julaften",
+          "scores": {
+            "mattias": 2,
+            "simon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva vil du helst se når du ser ut av vinduet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Havet",
+          "scores": {
+            "peter": 2,
+            "mattias": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høye fjell",
+          "scores": {
+            "simon": 2,
+            "jakob": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En stille skog",
+          "scores": {
+            "mattias": 2,
+            "bartolomeus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En gate med folk og butikker",
+          "scores": {
+            "tomas": 2,
+            "matteus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hage full av blomster",
+          "scores": {
+            "taddeus": 2,
+            "johannes": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jorder og en gård",
+          "scores": {
+            "filip": 1,
+            "jakobalfeus": 2
           }
         }
       ]

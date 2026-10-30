@@ -2,374 +2,382 @@
   "id": "2026-11-17",
   "date": "2026-11-17",
   "title": "Hvilken landslagsspiller er du i dag?",
-  "intro": "Landslaget spiller i november, og vi lurer på hvem av gutta du ligner mest på i dag. Svar på sju litt rare spørsmål og finn ut hvilken landslagsspiller du er.",
+  "intro": "Landslaget spiller i november, og vi lurer på hvem av gutta du ligner mest på i dag. Svar på sju spørsmål og finn ut hvilken landslagsspiller du er.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hva er det beste med en vaffel?",
+      "text": "Hvilken frukt liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "Rutene",
+          "text": "Banan",
           "scores": {
-            "ryerson": 2,
-            "haaland": 2
+            "haaland": 1,
+            "ryerson": 1
           }
         },
         {
           "id": "b",
-          "text": "Den sprø kanten",
+          "text": "Eple",
           "scores": {
-            "ostigard": 2,
-            "nyland": 2
+            "aursnes": 2,
+            "berg": 1
           }
         },
         {
           "id": "c",
-          "text": "Hjerteformen",
+          "text": "Mango",
           "scores": {
-            "ajer": 2,
-            "nusa": 2
+            "nusa": 2,
+            "bobb": 1
           }
         },
         {
           "id": "d",
-          "text": "At den kan brettes",
+          "text": "Appelsin",
           "scores": {
-            "nusa": 2,
-            "berge": 1
+            "strandlarsen": 2,
+            "ostigard": 1
           }
         },
         {
           "id": "e",
-          "text": "Lukten i hele huset",
+          "text": "Druer",
           "scores": {
-            "nyland": 2,
-            "bobb": 2
+            "ajer": 2,
+            "odegaard": 1
           }
         },
         {
           "id": "f",
-          "text": "At det alltid blir én til",
+          "text": "Blåbær rett fra skogen",
           "scores": {
-            "odegaard": 2,
-            "strandlarsen": 1
+            "berg": 2,
+            "nyland": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "En and vil låne sykkelen din. Hva sier du?",
+      "text": "Hvordan planlegger du en helg?",
       "options": [
         {
           "id": "a",
-          "text": "Klart, men ta på hjelm",
+          "text": "Lager en plan for hele helgen",
           "scores": {
-            "berg": 2,
-            "ostigard": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Bare hvis jeg får sitte på",
-          "scores": {
-            "nusa": 2,
+            "odegaard": 1,
             "nyland": 1
           }
         },
         {
-          "id": "c",
-          "text": "Den må være tilbake før middag",
+          "id": "b",
+          "text": "Bestemmer meg der og da",
           "scores": {
-            "ostigard": 2,
-            "ryerson": 2
+            "nusa": 2,
+            "bobb": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør vennene mine hva de vil gjøre",
+          "scores": {
+            "strandlarsen": 2,
+            "ryerson": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg lærer den å sykle først",
+          "text": "Setter av tid til trening eller tur",
           "scores": {
-            "strandlarsen": 2,
-            "nusa": 1
+            "haaland": 1,
+            "ryerson": 2
           }
         },
         {
           "id": "e",
-          "text": "Den kan få den, jeg går gjerne",
+          "text": "Gjør det samme som jeg pleier",
           "scores": {
-            "bobb": 2,
-            "aursnes": 2
+            "berg": 2,
+            "aursnes": 1
           }
         },
         {
           "id": "f",
-          "text": "Hvorfor ikke bare fly?",
+          "text": "Blir med på det de andre vil",
           "scores": {
             "aursnes": 2,
-            "ajer": 1
+            "ostigard": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Hvordan åpner du en melkekartong?",
+      "text": "Hvilken issmak velger du?",
       "options": [
         {
           "id": "a",
-          "text": "Helt etter boka",
+          "text": "Vanilje",
           "scores": {
-            "haaland": 2,
-            "ryerson": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Med saks, for sikkerhets skyld",
-          "scores": {
-            "berge": 2,
-            "aursnes": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Fra feil side, hver gang",
-          "scores": {
-            "berg": 2,
+            "nyland": 2,
             "berge": 1
           }
         },
         {
-          "id": "d",
-          "text": "Noen andre åpner den",
+          "id": "b",
+          "text": "Sjokolade",
           "scores": {
             "ostigard": 2,
-            "aursnes": 2
+            "haaland": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jordbær",
+          "scores": {
+            "strandlarsen": 2,
+            "ryerson": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pistasj",
+          "scores": {
+            "odegaard": 2,
+            "ajer": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg rister den først",
+          "text": "Salt karamell",
           "scores": {
-            "odegaard": 2,
-            "ajer": 2
+            "bobb": 2,
+            "nusa": 1
           }
         },
         {
           "id": "f",
-          "text": "Rask og bestemt",
+          "text": "Tyggegummi",
           "scores": {
-            "aursnes": 2,
-            "berg": 2
+            "nusa": 2,
+            "haaland": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvor mange glass vann drikker du før lunsj?",
+      "text": "Hva gjør du når du blir irritert?",
       "options": [
         {
           "id": "a",
-          "text": "Ingen",
+          "text": "Tar noen dype pust",
           "scores": {
-            "nusa": 2,
-            "aursnes": 2
+            "berge": 2,
+            "ajer": 1
           }
         },
         {
           "id": "b",
-          "text": "Ett",
+          "text": "Går en tur eller løper det av meg",
           "scores": {
-            "berg": 2,
-            "strandlarsen": 1
+            "ryerson": 1,
+            "haaland": 1
           }
         },
         {
           "id": "c",
-          "text": "Tre",
+          "text": "Sier ifra med en gang",
           "scores": {
-            "berge": 2,
-            "bobb": 1
+            "ostigard": 2,
+            "haaland": 1
           }
         },
         {
           "id": "d",
-          "text": "Fem",
+          "text": "Holder det for meg selv",
           "scores": {
-            "ajer": 2,
-            "odegaard": 1
+            "aursnes": 2,
+            "berg": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg mister tellingen",
+          "text": "Tenker over hva som egentlig skjedde",
           "scores": {
-            "bobb": 2,
-            "odegaard": 2
+            "odegaard": 2,
+            "nyland": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner på noe annet å gjøre",
+          "scores": {
+            "nusa": 1,
+            "bobb": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Du får male huset ditt i én farge. Hvilken?",
+      "text": "Hvilken sport liker du best å se på eller drive med?",
       "options": [
         {
           "id": "a",
-          "text": "Gult",
+          "text": "Langrenn",
           "scores": {
-            "berge": 2,
-            "haaland": 1
+            "ryerson": 1,
+            "berg": 2
           }
         },
         {
           "id": "b",
-          "text": "Lyseblått",
+          "text": "Håndball",
           "scores": {
-            "haaland": 2,
-            "ostigard": 2
+            "strandlarsen": 1,
+            "aursnes": 1
           }
         },
         {
           "id": "c",
-          "text": "Mørkegrønt",
+          "text": "Turn",
           "scores": {
-            "nyland": 2,
-            "berge": 2
+            "bobb": 2,
+            "ajer": 1
           }
         },
         {
           "id": "d",
-          "text": "Knallrosa",
+          "text": "Skihopp",
           "scores": {
-            "odegaard": 2,
-            "berg": 1
+            "nusa": 1,
+            "ostigard": 1
           }
         },
         {
           "id": "e",
-          "text": "Hvitt, det er klassisk",
+          "text": "Sjakk",
           "scores": {
-            "strandlarsen": 2,
-            "ajer": 2
+            "odegaard": 2,
+            "berge": 2
           }
         },
         {
           "id": "f",
-          "text": "Oransje med striper",
+          "text": "Vektløfting",
           "scores": {
-            "ryerson": 2,
-            "aursnes": 1
+            "haaland": 1,
+            "ostigard": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvordan tar du en selfie?",
+      "text": "Du har fått en ny nabo. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Fra høyt oppe",
+          "text": "Ringer på og sier hei med en gang",
           "scores": {
-            "berg": 2,
-            "nusa": 1
+            "haaland": 1,
+            "ostigard": 1
           }
         },
         {
           "id": "b",
-          "text": "Med hele gjengen",
+          "text": "Venter og ser an hvordan de er",
           "scores": {
-            "bobb": 2,
-            "strandlarsen": 1
+            "ajer": 2,
+            "odegaard": 1
           }
         },
         {
           "id": "c",
-          "text": "Jeg tar heller bilde av andre",
+          "text": "Inviterer dem på grillfest",
           "scores": {
-            "aursnes": 2,
-            "nyland": 2
+            "strandlarsen": 2,
+            "nusa": 1
           }
         },
         {
           "id": "d",
-          "text": "Mange, til én blir perfekt",
+          "text": "Hilser vennlig når vi møtes",
           "scores": {
-            "strandlarsen": 2,
-            "berg": 1
+            "nyland": 2,
+            "berge": 2
           }
         },
         {
           "id": "e",
-          "text": "Med en morsom grimase",
+          "text": "Tilbyr meg å hjelpe med flyttingen",
           "scores": {
-            "berge": 2,
-            "nusa": 2
+            "ryerson": 2,
+            "ostigard": 1
           }
         },
         {
           "id": "f",
-          "text": "Én, og så er det bra",
+          "text": "Lager en velkomsthilsen til postkassa",
           "scores": {
-            "nusa": 2,
-            "bobb": 2
+            "bobb": 2,
+            "nusa": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hva synes du om mandager?",
+      "text": "Hvilken tid på døgnet liker du best?",
       "options": [
         {
           "id": "a",
-          "text": "En ny sjanse",
+          "text": "Tidlig morgen når det er stille",
           "scores": {
-            "nyland": 2,
-            "odegaard": 1
+            "berg": 2,
+            "nyland": 1
           }
         },
         {
           "id": "b",
-          "text": "Helt greie",
+          "text": "Formiddagen, når dagen er i gang",
           "scores": {
-            "bobb": 2,
-            "ryerson": 2
+            "haaland": 2,
+            "ryerson": 1
           }
         },
         {
           "id": "c",
-          "text": "Litt for tidlig om morgenen",
+          "text": "Ettermiddagen",
           "scores": {
-            "ryerson": 2,
-            "strandlarsen": 2
+            "aursnes": 2,
+            "berge": 2
           }
         },
         {
           "id": "d",
-          "text": "Den beste dagen",
+          "text": "Kvelden sammen med andre",
           "scores": {
             "strandlarsen": 2,
-            "haaland": 1
+            "ostigard": 1
           }
         },
         {
           "id": "e",
-          "text": "De burde vært kortere",
+          "text": "Sent på kvelden når alle andre sover",
           "scores": {
-            "ajer": 2,
-            "ostigard": 2
+            "bobb": 2,
+            "nusa": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg glemmer ofte at det er mandag",
+          "text": "Når solen går ned",
           "scores": {
-            "haaland": 2,
-            "strandlarsen": 2
+            "ajer": 2,
+            "berge": 1
           }
         }
       ]

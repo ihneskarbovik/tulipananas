@@ -2,319 +2,308 @@
   "id": "2026-12-05",
   "date": "2026-12-05",
   "title": "Hvilken juletrepynt er du i dag?",
-  "intro": "Treet er på plass, og pyntekassa er hentet ned fra loftet. Er du stjerna i toppen, en koselig lysslynge eller en sta halmbukk? Svar på sju rare spørsmål og finn ut hvilken juletrepynt du er.",
+  "intro": "Treet er på plass, og pyntekassa er hentet ned fra loftet. Er du stjerna i toppen, en koselig lysslynge eller en sta halmbukk? Svar på sju spørsmål og finn ut hvilken juletrepynt du er.",
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken bokstav ville vært best i ballspill?",
+      "text": "Hvordan ser en perfekt fredagskveld ut?",
       "options": [
         {
           "id": "a",
-          "text": "O",
+          "text": "Taco og film med familien",
           "scores": {
-            "julekule": 2,
-            "lysslynge": 1
+            "papirlenke": 2,
+            "pepperkake": 2
           }
         },
         {
           "id": "b",
-          "text": "X",
+          "text": "Ute og danse med venner",
           "scores": {
-            "pepperkake": 2,
+            "glitter": 1,
             "flagg": 1
           }
         },
         {
           "id": "c",
-          "text": "K",
+          "text": "Middag med noen få gode venner",
           "scores": {
-            "flagg": 2,
-            "lysslynge": 1
+            "engel": 1
           }
         },
         {
           "id": "d",
-          "text": "Å",
+          "text": "Stort selskap hjemme hos meg",
           "scores": {
-            "papirlenke": 2,
-            "stjerne": 2
+            "julekule": 2
           }
         },
         {
           "id": "e",
-          "text": "S",
+          "text": "Rolig kveld med en hobby",
           "scores": {
-            "glitter": 2,
-            "lysslynge": 2
+            "julekurv": 1
           }
         },
         {
           "id": "f",
-          "text": "Q",
+          "text": "Tur i skogen med bål",
           "scores": {
-            "halmbukk": 2,
-            "julekule": 1
+            "kongle": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hvordan heller du opp melk?",
+      "text": "Hva gjør du mens du står i kø?",
       "options": [
         {
           "id": "a",
-          "text": "Sakte og forsiktig",
+          "text": "Prater med dem som står rundt meg",
           "scores": {
-            "flagg": 2,
-            "pepperkake": 2
+            "julekule": 1,
+            "pepperkake": 1
           }
         },
         {
           "id": "b",
-          "text": "Fort, og tørker etterpå",
+          "text": "Ser på mobilen",
           "scores": {
-            "pepperkake": 2,
-            "halmbukk": 1
+            "istapp": 1
           }
         },
         {
           "id": "c",
-          "text": "Rett fra kartongen i munnen",
+          "text": "Står rolig og venter",
           "scores": {
-            "papirlenke": 2,
             "lysslynge": 2
           }
         },
         {
           "id": "d",
-          "text": "Til glasset er helt fullt",
+          "text": "Sjekker om det finnes en raskere kø",
           "scores": {
-            "halmbukk": 2,
-            "kongle": 2
+            "stjerne": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg lar noen andre gjøre det",
+          "text": "Lar noen som har det travelt, gå foran",
           "scores": {
             "engel": 2,
-            "glitter": 1
+            "papirlenke": 1
           }
         },
         {
           "id": "f",
-          "text": "Med en liten dans",
+          "text": "Blir litt utålmodig, men står der til det er min tur",
           "scores": {
-            "julekurv": 2,
-            "engel": 1
+            "halmbukk": 1,
+            "istapp": 1
           }
         }
       ]
     },
     {
       "id": "q3",
-      "text": "Du skal gjemme en skatt. Hvor gjemmer du den?",
+      "text": "Hva er favorittdrikken din?",
       "options": [
         {
           "id": "a",
-          "text": "Under en stein i skogen",
+          "text": "Varm kakao",
           "scores": {
-            "pepperkake": 2,
-            "julekule": 1
+            "pepperkake": 2
           }
         },
         {
           "id": "b",
-          "text": "Inni en gammel sokk",
+          "text": "Vann med sitron",
           "scores": {
             "istapp": 2,
-            "glitter": 2
+            "kongle": 1
           }
         },
         {
           "id": "c",
-          "text": "Bak en bok i bokhylla",
+          "text": "Brus",
           "scores": {
-            "julekurv": 2,
-            "kongle": 2
+            "glitter": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg graver et skikkelig hull",
+          "text": "Te",
           "scores": {
-            "flagg": 2,
-            "julekurv": 2
+            "engel": 1
           }
         },
         {
           "id": "e",
-          "text": "Jeg forteller alle hvor den er",
+          "text": "Kaffe",
           "scores": {
-            "glitter": 2,
-            "istapp": 1
+            "halmbukk": 2
           }
         },
         {
           "id": "f",
-          "text": "Jeg glemmer hvor jeg gjemte den",
+          "text": "Saft",
           "scores": {
-            "halmbukk": 2,
-            "papirlenke": 2
+            "papirlenke": 2,
+            "flagg": 1
           }
         }
       ]
     },
     {
       "id": "q4",
-      "text": "Hvor mange pauser tar du på en gåtur?",
+      "text": "Når synes du det er riktig å pynte juletreet?",
       "options": [
         {
           "id": "a",
-          "text": "Ingen, jeg går rett på",
+          "text": "Allerede i november",
           "scores": {
-            "papirlenke": 2,
-            "stjerne": 2
+            "glitter": 1
           }
         },
         {
           "id": "b",
-          "text": "Én lang en",
+          "text": "Første søndag i advent",
           "scores": {
-            "julekurv": 2,
-            "stjerne": 1
+            "stjerne": 2,
+            "flagg": 2
           }
         },
         {
           "id": "c",
-          "text": "Hver gang jeg ser en fin hund",
+          "text": "Midt i desember",
           "scores": {
-            "lysslynge": 2,
-            "stjerne": 2
+            "julekurv": 2,
+            "kongle": 1
           }
         },
         {
           "id": "d",
-          "text": "Bare når noen andre vil",
+          "text": "Lillejulaften",
           "scores": {
-            "flagg": 2,
-            "engel": 2
+            "halmbukk": 1
           }
         },
         {
           "id": "e",
-          "text": "Mange, jeg må se på alt",
+          "text": "Når hele familien har tid til å gjøre det sammen",
           "scores": {
-            "halmbukk": 2,
-            "pepperkake": 2
+            "papirlenke": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg går, men snakker hele tiden",
+          "text": "Når jeg har funnet akkurat riktig tre",
           "scores": {
-            "istapp": 2,
-            "engel": 2
+            "istapp": 1
           }
         }
       ]
     },
     {
       "id": "q5",
-      "text": "Hva sier du til en snømann som fryser?",
+      "text": "Hva er drømmeferien din?",
       "options": [
         {
           "id": "a",
-          "text": "Vil du låne skjerfet mitt?",
+          "text": "Storbyferie med kafeer og butikker",
           "scores": {
-            "engel": 2,
-            "halmbukk": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Det er jo litt av poenget med deg",
-          "scores": {
-            "glitter": 2,
             "istapp": 1
           }
         },
         {
-          "id": "c",
-          "text": "Kom, vi danser oss varme",
+          "id": "b",
+          "text": "Hytte på fjellet",
           "scores": {
             "kongle": 2,
-            "julekurv": 2
+            "halmbukk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Badeferie i sola med mange venner",
+          "scores": {
+            "glitter": 2,
+            "flagg": 2
           }
         },
         {
           "id": "d",
-          "text": "Jeg henter en kopp kakao",
+          "text": "Skiferie i Alpene",
           "scores": {
-            "stjerne": 2,
-            "papirlenke": 1
+            "stjerne": 2
           }
         },
         {
           "id": "e",
-          "text": "Jeg kan bygge deg et hus",
+          "text": "Hjemme hos familien, der alt er som det pleier",
           "scores": {
-            "julekule": 2,
-            "kongle": 2
+            "halmbukk": 1,
+            "pepperkake": 1
           }
         },
         {
           "id": "f",
-          "text": "Du ser fantastisk ut uansett",
+          "text": "Et rolig sted ved sjøen med en god bok",
           "scores": {
-            "lysslynge": 2,
-            "pepperkake": 1
+            "lysslynge": 1,
+            "engel": 1
           }
         }
       ]
     },
     {
       "id": "q6",
-      "text": "Hvilket kjøretøy er snillest?",
+      "text": "Hvordan rydder du?",
       "options": [
         {
           "id": "a",
-          "text": "Traktoren",
+          "text": "Alt på én gang, med musikk på høyt",
           "scores": {
-            "flagg": 2,
-            "istapp": 2
+            "glitter": 2,
+            "flagg": 2
           }
         },
         {
           "id": "b",
-          "text": "Bybussen",
+          "text": "Litt hver dag, så det aldri blir rotete",
           "scores": {
-            "istapp": 2,
-            "julekule": 1
+            "julekurv": 2
           }
         },
         {
           "id": "c",
-          "text": "Søppelbilen",
+          "text": "Hver ting har sin faste plass",
           "scores": {
-            "papirlenke": 2,
-            "kongle": 2
+            "halmbukk": 1,
+            "istapp": 1
           }
         },
         {
           "id": "d",
-          "text": "Sparkesykkelen",
+          "text": "Får med meg hele husstanden",
           "scores": {
-            "pepperkake": 2,
-            "halmbukk": 2
+            "papirlenke": 2
           }
         },
         {
           "id": "e",
-          "text": "Ambulansen",
+          "text": "Rydder når det kommer besøk",
           "scores": {
-            "kongle": 2,
+            "julekule": 2,
+            "pepperkake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder for andre også, uten at de spør",
+          "scores": {
+            "engel": 2,
             "lysslynge": 2
           }
         }
@@ -322,54 +311,53 @@
     },
     {
       "id": "q7",
-      "text": "Hvordan sorterer du fargeblyanter?",
+      "text": "Hva slags musikk setter du på?",
       "options": [
         {
           "id": "a",
-          "text": "Etter regnbuen",
+          "text": "Pop som alle kan synge med på",
           "scores": {
-            "glitter": 2,
-            "engel": 2
+            "julekule": 1
           }
         },
         {
           "id": "b",
-          "text": "Etter hvor spisse de er",
+          "text": "Rolig akustisk musikk",
           "scores": {
-            "engel": 2,
-            "julekule": 2
+            "lysslynge": 2,
+            "engel": 1
           }
         },
         {
           "id": "c",
-          "text": "Etter hvilke jeg liker best",
+          "text": "Noe nytt som få har hørt om",
           "scores": {
-            "julekule": 2,
-            "papirlenke": 2
+            "istapp": 1,
+            "stjerne": 1
           }
         },
         {
           "id": "d",
-          "text": "Jeg sorterer ikke, alt i én boks",
+          "text": "Gamle klassikere jeg har hørt i mange år",
           "scores": {
-            "kongle": 2,
-            "istapp": 1
+            "halmbukk": 2,
+            "pepperkake": 1
           }
         },
         {
           "id": "e",
-          "text": "Etter lengde",
+          "text": "Dansemusikk med mye fart",
           "scores": {
-            "stjerne": 2,
-            "papirlenke": 1
+            "glitter": 1,
+            "flagg": 1
           }
         },
         {
           "id": "f",
-          "text": "Jeg gir dem navn først",
+          "text": "Viser og folkemusikk",
           "scores": {
-            "halmbukk": 2,
-            "istapp": 2
+            "kongle": 2,
+            "julekurv": 1
           }
         }
       ]

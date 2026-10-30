@@ -6,305 +6,89 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvilken fugl ville vært best til å holde orden?",
+      "text": "Hva bestiller du på kafé?",
       "options": [
         {
           "id": "a",
-          "text": "En ugle",
+          "text": "Kakao med krem",
           "scores": {
-            "swift": 2,
-            "go": 2
+            "scratch": 2,
+            "kotlin": 1
           }
         },
         {
           "id": "b",
-          "text": "En pingvin",
+          "text": "Svart kaffe",
           "scores": {
-            "scratch": 2,
-            "swift": 1
+            "c": 1,
+            "go": 1
           }
         },
         {
           "id": "c",
-          "text": "En skjære",
+          "text": "Cappuccino",
           "scores": {
-            "javascript": 2,
-            "kotlin": 1
+            "csharp": 2,
+            "python": 1
           }
         },
         {
           "id": "d",
-          "text": "En papegøye",
+          "text": "Latte med havremelk",
           "scores": {
-            "java": 2,
-            "scratch": 1
+            "swift": 2,
+            "typescript": 2
           }
         },
         {
           "id": "e",
-          "text": "En kråke",
+          "text": "Det samme som jeg pleier",
           "scores": {
-            "typescript": 2,
-            "kotlin": 1
+            "java": 1,
+            "rust": 1
           }
         },
         {
           "id": "f",
-          "text": "En due",
+          "text": "Noe nytt fra menyen",
           "scores": {
-            "rust": 2,
-            "kotlin": 1
+            "javascript": 2,
+            "cpp": 2
           }
         }
       ]
     },
     {
       "id": "q2",
-      "text": "Hva synes du om sokker i sandaler?",
+      "text": "Du har altfor mye å gjøre. Hva gjør du?",
       "options": [
         {
           "id": "a",
-          "text": "Genialt, varmt og luftig",
+          "text": "Lager en liste og tar én ting om gangen",
           "scores": {
-            "swift": 2,
-            "cpp": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Bare hvis sokkene matcher",
-          "scores": {
-            "rust": 2,
-            "scratch": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Aldri i livet",
-          "scores": {
-            "python": 2,
-            "javascript": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Ja, med striper",
-          "scores": {
-            "go": 2,
-            "typescript": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Jeg har aldri tenkt på det",
-          "scores": {
-            "cpp": 2,
-            "scratch": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Det kommer an på været",
-          "scores": {
-            "scratch": 2,
-            "cpp": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q3",
-      "text": "En blekksprut kommer på middag. Hvor setter du den?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Ved bordenden, med god plass",
-          "scores": {
-            "java": 2,
-            "c": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "Ved siden av meg",
-          "scores": {
-            "c": 2,
-            "swift": 1
-          }
-        },
-        {
-          "id": "c",
-          "text": "Ved vinduet",
-          "scores": {
-            "go": 2,
-            "csharp": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Jeg lager en egen stol",
-          "scores": {
-            "rust": 2,
-            "kotlin": 2
-          }
-        },
-        {
-          "id": "e",
-          "text": "Den får bestemme selv",
-          "scores": {
-            "python": 2,
+            "typescript": 2,
             "java": 1
           }
         },
         {
-          "id": "f",
-          "text": "Midt på bordet, så alle ser den",
-          "scores": {
-            "cpp": 2,
-            "csharp": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q4",
-      "text": "Hvordan sorterer du skoene i gangen?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Par for par, på rekke",
-          "scores": {
-            "c": 2,
-            "swift": 2
-          }
-        },
-        {
           "id": "b",
-          "text": "Etter farge",
-          "scores": {
-            "typescript": 2,
-            "cpp": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Jeg har bare ett par",
-          "scores": {
-            "csharp": 2,
-            "java": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "I en stor haug",
-          "scores": {
-            "swift": 2,
-            "rust": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Etter hvem som eier dem",
-          "scores": {
-            "scratch": 2,
-            "go": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Etter hvor ofte jeg bruker dem",
-          "scores": {
-            "kotlin": 2,
-            "javascript": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q5",
-      "text": "Hvordan lærer du deg et nytt brettspill?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Leser hele regelboka først",
-          "scores": {
-            "python": 2,
-            "swift": 1
-          }
-        },
-        {
-          "id": "b",
-          "text": "Spiller og ser hva som skjer",
-          "scores": {
-            "c": 2,
-            "typescript": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Spør den som har spilt før",
-          "scores": {
-            "rust": 2,
-            "cpp": 2
-          }
-        },
-        {
-          "id": "d",
-          "text": "Ser en video",
-          "scores": {
-            "kotlin": 2,
-            "python": 1
-          }
-        },
-        {
-          "id": "e",
-          "text": "Lager egne regler",
-          "scores": {
-            "csharp": 2,
-            "swift": 1
-          }
-        },
-        {
-          "id": "f",
-          "text": "Lærer det bort til andre med en gang",
-          "scores": {
-            "scratch": 2,
-            "javascript": 2
-          }
-        }
-      ]
-    },
-    {
-      "id": "q6",
-      "text": "Hvor mange ting gjør du samtidig?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Én, men skikkelig",
+          "text": "Gjør flere ting samtidig",
           "scores": {
             "go": 2,
-            "csharp": 2
-          }
-        },
-        {
-          "id": "b",
-          "text": "To",
-          "scores": {
-            "swift": 2,
-            "c": 2
+            "javascript": 1
           }
         },
         {
           "id": "c",
-          "text": "Fem eller flere",
+          "text": "Gjør det viktigste først og dropper resten",
           "scores": {
-            "kotlin": 2,
-            "cpp": 1
+            "c": 2,
+            "kotlin": 1
           }
         },
         {
           "id": "d",
-          "text": "Det kommer an på dagen",
+          "text": "Spør noen om hjelp",
           "scores": {
             "python": 2,
             "csharp": 1
@@ -312,64 +96,286 @@
         },
         {
           "id": "e",
-          "text": "Jeg starter mange, fullfører noen",
+          "text": "Jobber til alt er ferdig, uansett hvor lenge det tar",
+          "scores": {
+            "cpp": 2,
+            "rust": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar en pause og går en tur først",
+          "scores": {
+            "kotlin": 2,
+            "scratch": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva er favorittmiddagen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taco",
+          "scores": {
+            "python": 1,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fiskeboller i hvit saus",
+          "scores": {
+            "java": 2,
+            "c": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pasta med kjøttsaus",
+          "scores": {
+            "go": 2,
+            "kotlin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sushi",
+          "scores": {
+            "swift": 2,
+            "csharp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lasagne",
+          "scores": {
+            "cpp": 1,
+            "java": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pizza",
+          "scores": {
+            "javascript": 2,
+            "scratch": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva vil du helst se ut av vinduet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fjell",
           "scores": {
             "rust": 2,
+            "java": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hav",
+          "scores": {
+            "kotlin": 2,
+            "csharp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En travel bygate",
+          "scores": {
+            "javascript": 2,
+            "go": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor hage med blomster",
+          "scores": {
+            "scratch": 1,
+            "python": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Byen med lys om kvelden",
+          "scores": {
+            "swift": 2,
+            "cpp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rolig skog",
+          "scores": {
+            "c": 2,
+            "rust": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket instrument vil du helst spille?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Piano",
+          "scores": {
+            "csharp": 2,
+            "typescript": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gitar",
+          "scores": {
+            "python": 1,
+            "kotlin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Trommer",
+          "scores": {
+            "javascript": 1,
             "go": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fiolin",
+          "scores": {
+            "rust": 1,
+            "cpp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Synthesizer",
+          "scores": {
+            "swift": 2,
+            "scratch": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ukulele",
+          "scores": {
+            "scratch": 2,
+            "kotlin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan ser søndagsmorgenen din ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover lenge og tar det helt med ro",
+          "scores": {
+            "kotlin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står opp tidlig og går en tur",
+          "scores": {
+            "rust": 2,
+            "java": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager stor frokost til alle",
+          "scores": {
+            "python": 2,
+            "csharp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder og planlegger uka",
+          "scores": {
+            "typescript": 2,
+            "java": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiller spill eller tegner",
+          "scores": {
+            "scratch": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jobber med et prosjekt jeg holder på med",
+          "scores": {
+            "cpp": 2,
+            "c": 1
           }
         }
       ]
     },
     {
       "id": "q7",
-      "text": "Hvilken farge har en god idé?",
+      "text": "Du skal lage en julegave selv i år. Hva lager du?",
       "options": [
         {
           "id": "a",
-          "text": "Gul",
+          "text": "Pepperkaker i en fin boks",
           "scores": {
-            "javascript": 2,
-            "c": 2
+            "swift": 2,
+            "python": 1
           }
         },
         {
           "id": "b",
-          "text": "Blå",
+          "text": "Et kort med et lite dikt",
           "scores": {
             "csharp": 2,
-            "java": 2
-          }
-        },
-        {
-          "id": "c",
-          "text": "Grønn",
-          "scores": {
-            "kotlin": 2,
             "scratch": 1
           }
         },
         {
-          "id": "d",
-          "text": "Oransje",
+          "id": "c",
+          "text": "En fotobok med fine minner",
           "scores": {
-            "typescript": 2,
-            "scratch": 2
+            "java": 2,
+            "typescript": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe snekret av tre",
+          "scores": {
+            "rust": 2,
+            "c": 1
           }
         },
         {
           "id": "e",
-          "text": "Lilla",
+          "text": "Et hjemmelaget spill",
           "scores": {
-            "go": 2,
+            "cpp": 1,
             "scratch": 1
           }
         },
         {
           "id": "f",
-          "text": "Alle farger på en gang",
+          "text": "Kuponger, som «én gang oppvask»",
           "scores": {
-            "java": 2,
-            "rust": 2
+            "go": 2,
+            "c": 1
           }
         }
       ]
