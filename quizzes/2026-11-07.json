@@ -1,0 +1,708 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "title": "Hvilken farge er du i dag?",
+  "intro": "Er du varm og leken, rolig og trygg eller elegant og litt mystisk? Svar på sju spørsmål og finn ut hvilken farge du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken gave blir du gladest for å få?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En konsertbillett",
+          "scores": {
+            "rod": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe hjemmelaget",
+          "scores": {
+            "rosa": 2,
+            "brun": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En plante",
+          "scores": {
+            "gronn": 2,
+            "hvit": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En god bok",
+          "scores": {
+            "bla": 2,
+            "gra": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe pent til hjemmet",
+          "scores": {
+            "hvit": 2,
+            "svart": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et kunstsett",
+          "scores": {
+            "lilla": 2,
+            "turkis": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Et ukjent nummer ringer deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Svarer med en gang, det kan jo være spennende",
+          "scores": {
+            "gul": 1,
+            "oransje": 1,
+            "turkis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar det ringe og søker opp nummeret",
+          "scores": {
+            "bla": 2,
+            "gra": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Svarer kort og bestemt",
+          "scores": {
+            "svart": 2,
+            "rod": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Svarer høflig og vennlig",
+          "scores": {
+            "rosa": 2,
+            "gronn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar det ringe, de kan sende en melding",
+          "scores": {
+            "hvit": 2,
+            "lilla": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags arrangement går du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konsert",
+          "scores": {
+            "rod": 2,
+            "bla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Teater",
+          "scores": {
+            "lilla": 2,
+            "rosa": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fotballkamp",
+          "scores": {
+            "oransje": 2,
+            "brun": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kunstutstilling",
+          "scores": {
+            "svart": 2,
+            "turkis": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Marked med lokal mat",
+          "scores": {
+            "gronn": 2,
+            "brun": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Standup-show",
+          "scores": {
+            "gul": 2,
+            "oransje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket bakverk velger du på bakeriet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kanelbolle",
+          "scores": {
+            "brun": 2,
+            "oransje": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Croissant",
+          "scores": {
+            "svart": 2,
+            "lilla": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Wienerbrød",
+          "scores": {
+            "gul": 2,
+            "rod": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Grovt rundstykke",
+          "scores": {
+            "gra": 2,
+            "gronn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kremkake",
+          "scores": {
+            "hvit": 2,
+            "rosa": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "En venn spør hva dere skal gjøre i helgen. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Noe vi aldri har gjort før",
+          "scores": {
+            "turkis": 2,
+            "oransje": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En tur i skogen",
+          "scores": {
+            "gronn": 2,
+            "brun": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ha det koselig hjemme",
+          "scores": {
+            "brun": 2,
+            "rosa": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gå ut og danse",
+          "scores": {
+            "svart": 2,
+            "rod": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hva som helst, du velger",
+          "scores": {
+            "gra": 2,
+            "bla": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe kreativt, som å male",
+          "scores": {
+            "lilla": 2,
+            "gul": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regn mot vinduet",
+          "scores": {
+            "gra": 2,
+            "bla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bølger mot stranda",
+          "scores": {
+            "turkis": 2,
+            "bla": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Knitring fra peisen",
+          "scores": {
+            "brun": 2,
+            "rod": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fuglesang om morgenen",
+          "scores": {
+            "gul": 2,
+            "gronn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Helt stille",
+          "scores": {
+            "hvit": 2,
+            "svart": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Latter fra venner",
+          "scores": {
+            "oransje": 2,
+            "rosa": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det har kommet første snø. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper ut og lager snøengel",
+          "scores": {
+            "oransje": 2,
+            "gul": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar bilder av alt",
+          "scores": {
+            "lilla": 2,
+            "hvit": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går en lang tur",
+          "scores": {
+            "bla": 2,
+            "gronn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager kakao og ser på fra sofaen",
+          "scores": {
+            "rosa": 2,
+            "brun": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henter frem skiene",
+          "scores": {
+            "turkis": 2,
+            "rod": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det med ro, det smelter nok",
+          "scores": {
+            "gra": 2,
+            "svart": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "rod",
+      "name": "Rød",
+      "shareName": "rød",
+      "emoji": null,
+      "description": "Du er modig, lidenskapelig og full av energi. Når du bestemmer deg for noe, merker alle det.",
+      "funFact": "Rødt lys har den lengste bølgelengden av alle fargene vi kan se.",
+      "image": "images/2026-11-07/rod.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Lidenskapelig",
+          "text": "Gir alt for det."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Vet hva du vil."
+        }
+      ]
+    },
+    {
+      "id": "oransje",
+      "name": "Oransje",
+      "shareName": "oransje",
+      "emoji": null,
+      "description": "Du er leken, varm og spontan. Du får folk til å le og gjør enhver dag litt morsommere.",
+      "funFact": "Fargen oransje har fått navnet sitt fra frukten appelsin, som heter orange på flere språk.",
+      "image": "images/2026-11-07/oransje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på morsomme ting."
+        },
+        {
+          "title": "Varm",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker å være sammen."
+        }
+      ]
+    },
+    {
+      "id": "gul",
+      "name": "Gul",
+      "shareName": "gul",
+      "emoji": null,
+      "description": "Du er glad, optimistisk og nysgjerrig. Du ser lyspunktene i alt og får andre til å smile.",
+      "funFact": "Mange taxier i New York er gule fordi gult er en farge som syns godt på lang avstand.",
+      "image": "images/2026-11-07/gul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Smiler nesten hele tiden."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Ser alltid lyspunktene."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve alt."
+        },
+        {
+          "title": "Lys",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "gronn",
+      "name": "Grønn",
+      "shareName": "grønn",
+      "emoji": null,
+      "description": "Du er rolig, balansert og omsorgsfull. Du henter energi i naturen og tar godt vare på folk rundt deg.",
+      "funFact": "Planter er grønne fordi klorofyllet i bladene sender grønt lys tilbake i stedet for å ta det opp.",
+      "image": "images/2026-11-07/gronn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Har en indre ro."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Henter energi ute."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Balansert",
+          "text": "Finner den gylne middelvei."
+        }
+      ]
+    },
+    {
+      "id": "turkis",
+      "name": "Turkis",
+      "shareName": "turkis",
+      "emoji": null,
+      "description": "Du er frisk, kreativ og eventyrlysten. Du drømmer om havet og nye steder og får alltid gode ideer.",
+      "funFact": "Turkis har navn etter steinen turkis, og ordet betyr egentlig tyrkisk på fransk.",
+      "image": "images/2026-11-07/turkis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en havbris."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil oppleve nye ting."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av gode ideer."
+        },
+        {
+          "title": "Fri",
+          "text": "Lar seg ikke stenge inne."
+        }
+      ]
+    },
+    {
+      "id": "bla",
+      "name": "Blå",
+      "shareName": "blå",
+      "emoji": null,
+      "description": "Du er rolig, lojal og tenksom. Folk stoler på deg, og du er et trygt sted å lande.",
+      "funFact": "Himmelen er blå fordi blått lys spres mer i lufta enn de andre fargene i sollyset.",
+      "image": "images/2026-11-07/bla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Tenksom",
+          "text": "Tenker gjennom ting."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til andre."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "lilla",
+      "name": "Lilla",
+      "shareName": "lilla",
+      "emoji": null,
+      "description": "Du er drømmende, kreativ og litt magisk. Du ser verden på din egen måte og har en enorm fantasi.",
+      "funFact": "I oldtiden var purpurfarge så dyr å lage at den ble forbundet med keisere og konger.",
+      "image": "images/2026-11-07/lilla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Skaper noe nytt hele tiden."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har tankene i skyene."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Helt sin egen."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser det andre ikke ser."
+        }
+      ]
+    },
+    {
+      "id": "rosa",
+      "name": "Rosa",
+      "shareName": "rosa",
+      "emoji": null,
+      "description": "Du er snill, omtenksom og full av varme. Du husker bursdager og vet akkurat hva andre trenger.",
+      "funFact": "Flamingoer blir rosa av fargestoffer i maten de spiser.",
+      "image": "images/2026-11-07/rosa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Har et stort hjerte."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker alle bursdager."
+        },
+        {
+          "title": "Søt",
+          "text": "Gjør alt litt finere."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker fine øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "brun",
+      "name": "Brun",
+      "shareName": "brun",
+      "emoji": null,
+      "description": "Du er jordnær, trygg og varm. Du liker det ekte og enkle, og hos deg føler alle seg hjemme.",
+      "funFact": "Brunt finnes ikke i regnbuen, for brunt er egentlig en mørk variant av oransje.",
+      "image": "images/2026-11-07/brun.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Står støtt i livet."
+        },
+        {
+          "title": "Trygg",
+          "text": "En klippe for andre."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør alle velkomne."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "gra",
+      "name": "Grå",
+      "shareName": "grå",
+      "emoji": null,
+      "description": "Du er balansert, klok og diplomatisk. Du ser alle sider av en sak og hjelper andre å finne en løsning.",
+      "funFact": "Elefanter er grå, men ser ofte brune ut fordi de dekker seg med jord for å beskytte huden mot sola.",
+      "image": "images/2026-11-07/gra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Ser alle sider."
+        },
+        {
+          "title": "Diplomatisk",
+          "text": "Finner løsninger sammen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Blir aldri stresset."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke rampelyset."
+        }
+      ]
+    },
+    {
+      "id": "hvit",
+      "name": "Hvit",
+      "shareName": "hvit",
+      "emoji": null,
+      "description": "Du er ryddig, fredelig og liker det enkle. Rundt deg blir det rolig og klart.",
+      "funFact": "Hvitt lys inneholder alle regnbuens farger, noe du kan se når lyset går gjennom et prisme.",
+      "image": "images/2026-11-07/hvit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Har orden i livet."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Skaper ro rundt seg."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det rene."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Har ingenting å skjule."
+        }
+      ]
+    },
+    {
+      "id": "svart",
+      "name": "Svart",
+      "shareName": "svart",
+      "emoji": null,
+      "description": "Du er elegant, selvsikker og litt mystisk. Du har stil og trenger aldri å rope for å bli lagt merke til.",
+      "funFact": "Isbjørnen har svart hud under den hvite pelsen.",
+      "image": "images/2026-11-07/svart.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid stilfull."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hvem du er."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        }
+      ]
+    }
+  ]
+}

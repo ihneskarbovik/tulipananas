@@ -1,0 +1,722 @@
+{
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "title": "Hvilket land i Europa er du i dag?",
+  "intro": "Er du sol og lange middager, fjell og frisk luft eller te og god humor? Svar på sju spørsmål og finn ut hvilket europeisk land du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilke sko bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joggesko",
+          "scores": {
+            "nederland": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fjellstøvler",
+          "scores": {
+            "island": 1,
+            "sveits": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sandaler",
+          "scores": {
+            "hellas": 2,
+            "portugal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pene skinnsko",
+          "scores": {
+            "storbritannia": 2,
+            "frankrike": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Solide sko som varer lenge",
+          "scores": {
+            "tyskland": 2,
+            "danmark": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fargerike sneakers",
+          "scores": {
+            "italia": 2,
+            "irland": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du blir forsinket til en avtale. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Det skjer nesten aldri",
+          "scores": {
+            "tyskland": 2,
+            "sveits": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sender en melding og beklager",
+          "scores": {
+            "danmark": 2,
+            "storbritannia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar det med ro, de venter nok",
+          "scores": {
+            "hellas": 2,
+            "portugal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en snarvei",
+          "scores": {
+            "nederland": 2,
+            "island": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer med en morsom unnskyldning",
+          "scores": {
+            "irland": 2,
+            "italia": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer inn med et stort smil",
+          "scores": {
+            "spania": 2,
+            "irland": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken butikk liker du best å kikke i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bokhandel",
+          "scores": {
+            "irland": 2,
+            "storbritannia": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Interiørbutikk",
+          "scores": {
+            "danmark": 2,
+            "frankrike": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klesbutikk",
+          "scores": {
+            "italia": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sportsbutikk",
+          "scores": {
+            "island": 2,
+            "nederland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Delikatessebutikk",
+          "scores": {
+            "frankrike": 2,
+            "portugal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Elektronikkbutikk",
+          "scores": {
+            "tyskland": 2,
+            "sveits": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal pakke til ferie. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager liste flere dager før",
+          "scores": {
+            "sveits": 2,
+            "tyskland": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pakker lett, bare det nødvendigste",
+          "scores": {
+            "nederland": 2,
+            "island": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar med altfor mange klær",
+          "scores": {
+            "italia": 1,
+            "frankrike": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kaster alt i kofferten kvelden før",
+          "scores": {
+            "spania": 2,
+            "irland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Husker alltid paraply og regnjakke",
+          "scores": {
+            "storbritannia": 2,
+            "danmark": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Badetøy først, resten ordner seg",
+          "scores": {
+            "hellas": 2,
+            "portugal": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor sover du helst når du er på tur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I telt under åpen himmel",
+          "scores": {
+            "island": 2,
+            "irland": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På et lite familiehotell",
+          "scores": {
+            "portugal": 2,
+            "italia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en hytte med peis",
+          "scores": {
+            "sveits": 2,
+            "danmark": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en bobil",
+          "scores": {
+            "nederland": 2,
+            "tyskland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På et fint hotell i sentrum",
+          "scores": {
+            "frankrike": 2,
+            "storbritannia": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hos venner",
+          "scores": {
+            "spania": 1,
+            "irland": 1,
+            "hellas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket fag likte du best på skolen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Historie",
+          "scores": {
+            "storbritannia": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kunst og håndverk",
+          "scores": {
+            "frankrike": 2,
+            "danmark": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kroppsøving",
+          "scores": {
+            "spania": 2,
+            "island": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Matematikk",
+          "scores": {
+            "tyskland": 2,
+            "sveits": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Musikk",
+          "scores": {
+            "irland": 2,
+            "portugal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mat og helse",
+          "scores": {
+            "italia": 1,
+            "portugal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du sender et postkort hjem fra ferien. Hva skriver du om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maten",
+          "scores": {
+            "portugal": 2,
+            "italia": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Været",
+          "scores": {
+            "hellas": 2,
+            "portugal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Folkene jeg har møtt",
+          "scores": {
+            "spania": 2,
+            "irland": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Utsikten og naturen",
+          "scores": {
+            "island": 2,
+            "sveits": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Alle severdighetene jeg har sett",
+          "scores": {
+            "tyskland": 2,
+            "storbritannia": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvor koselig det er",
+          "scores": {
+            "danmark": 2,
+            "nederland": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "italia",
+      "name": "Italia",
+      "shareName": "Italia",
+      "emoji": null,
+      "description": "Du er livlig, varm og elsker god mat i godt selskap. Du har stil, og du lever livet med stort engasjement.",
+      "funFact": "Italia har flere steder på UNESCOs verdensarvliste enn noe annet land i verden.",
+      "image": "images/2026-11-06/italia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Fyller rommet med energi."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker lange måltider."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Har sans for stil."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Brenner for sine interesser."
+        }
+      ]
+    },
+    {
+      "id": "frankrike",
+      "name": "Frankrike",
+      "shareName": "Frankrike",
+      "emoji": null,
+      "description": "Du er elegant, romantisk og glad i kunst og kultur. Du vet hvordan man nyter de små tingene i livet.",
+      "funFact": "Frankrike er det landet i verden som får besøk av flest turister.",
+      "image": "images/2026-11-06/frankrike.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har sans for det vakre."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker fine øyeblikk."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser skjønnhet overalt."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg god tid."
+        }
+      ]
+    },
+    {
+      "id": "spania",
+      "name": "Spania",
+      "shareName": "Spania",
+      "emoji": null,
+      "description": "Du er energisk, sosial og full av varme. Du blir gjerne den siste som går hjem fra festen.",
+      "funFact": "Spania er verdens største produsent av olivenolje.",
+      "image": "images/2026-11-06/spania.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Har krefter til alt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker å være sammen."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør alle velkomne."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        }
+      ]
+    },
+    {
+      "id": "hellas",
+      "name": "Hellas",
+      "shareName": "Hellas",
+      "emoji": null,
+      "description": "Du er avslappet, gjestfri og glad i sol og lange samtaler. Du tar livet med ro og har mye klokskap å dele.",
+      "funFact": "Hellas har rundt 6000 øyer og holmer, men bare drøyt 200 av dem har fastboende.",
+      "image": "images/2026-11-06/hellas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Har alltid plass til flere."
+        },
+        {
+          "title": "Klok",
+          "text": "Liker gode samtaler."
+        },
+        {
+          "title": "Solglad",
+          "text": "Trives best i varmen."
+        }
+      ]
+    },
+    {
+      "id": "island",
+      "name": "Island",
+      "shareName": "Island",
+      "emoji": null,
+      "description": "Du er tøff, eventyrlysten og glad i vill natur. Du trives med å klare deg selv, uansett vær.",
+      "funFact": "Alltinget på Island ble grunnlagt i år 930 og regnes som et av verdens eldste parlamenter.",
+      "image": "images/2026-11-06/island.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler både vind og vær."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Leter etter nye opplevelser."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Henter energi ute."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg fint alene."
+        }
+      ]
+    },
+    {
+      "id": "sveits",
+      "name": "Sveits",
+      "shareName": "Sveits",
+      "emoji": null,
+      "description": "Du er presis, ryddig og rolig. Du har orden på det meste, og folk vet at de kan stole på deg.",
+      "funFact": "Sveits har fire nasjonale språk: tysk, fransk, italiensk og retoromansk.",
+      "image": "images/2026-11-06/sveits.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Alltid på minuttet."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Har orden på alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder alltid løftene sine."
+        }
+      ]
+    },
+    {
+      "id": "nederland",
+      "name": "Nederland",
+      "shareName": "Nederland",
+      "emoji": null,
+      "description": "Du er praktisk, åpen og sier det du mener. Du finner alltid en smart og enkel løsning.",
+      "funFact": "Rundt en fjerdedel av Nederland ligger under havnivå.",
+      "image": "images/2026-11-06/nederland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Finner enkle løsninger."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot nye ideer."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        }
+      ]
+    },
+    {
+      "id": "irland",
+      "name": "Irland",
+      "shareName": "Irland",
+      "emoji": null,
+      "description": "Du er morsom, varm og en fantastisk historieforteller. Der du er, blir det musikk, latter og god stemning.",
+      "funFact": "Harpen er Irlands nasjonalsymbol og står på de irske euromyntene.",
+      "image": "images/2026-11-06/irland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har alltid en historie."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Synger gjerne med."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør alle til venner."
+        }
+      ]
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "shareName": "Portugal",
+      "emoji": null,
+      "description": "Du er rolig, vennlig og litt drømmende. Du elsker havet og setter pris på de enkle gledene.",
+      "funFact": "Portugisisk er offisielt språk i flere land, blant annet i Brasil, Angola og Mosambik.",
+      "image": "images/2026-11-06/portugal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Lar ingenting stresse."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser ofte mot horisonten."
+        },
+        {
+          "title": "Ekte",
+          "text": "Liker det enkle."
+        }
+      ]
+    },
+    {
+      "id": "danmark",
+      "name": "Danmark",
+      "shareName": "Danmark",
+      "emoji": null,
+      "description": "Du er koselig, avslappet og har sans for fin design. Du gjør hverdagen hyggelig for alle rundt deg.",
+      "funFact": "Danmarks flagg, Dannebrog, regnes som et av verdens eldste nasjonalflagg som fortsatt er i bruk.",
+      "image": "images/2026-11-06/danmark.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Tenner alltid et lys."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Stilsikker",
+          "text": "Har sans for design."
+        },
+        {
+          "title": "Blid",
+          "text": "Har godt humør."
+        }
+      ]
+    },
+    {
+      "id": "storbritannia",
+      "name": "Storbritannia",
+      "shareName": "Storbritannia",
+      "emoji": null,
+      "description": "Du er høflig, morsom på en tørr måte og glad i tradisjoner. Du holder hodet kaldt og har alltid en god kopp te klar.",
+      "funFact": "Big Ben er egentlig navnet på den store klokka inne i tårnet, ikke på selve tårnet.",
+      "image": "images/2026-11-06/storbritannia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høflig",
+          "text": "Har alltid god oppførsel."
+        },
+        {
+          "title": "Vittig",
+          "text": "Har en tørr humor."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Elsker faste vaner."
+        },
+        {
+          "title": "Belest",
+          "text": "Har lest det meste."
+        }
+      ]
+    },
+    {
+      "id": "tyskland",
+      "name": "Tyskland",
+      "shareName": "Tyskland",
+      "emoji": null,
+      "description": "Du er grundig, effektiv og veldig pålitelig. Når du har bestemt deg for noe, blir det gjort skikkelig.",
+      "funFact": "Tyskland har mer enn tusen ulike typer pølser.",
+      "image": "images/2026-11-06/tyskland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Grundig",
+          "text": "Gjør alt ordentlig."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Organisert",
+          "text": "Har en plan for alt."
+        }
+      ]
+    }
+  ]
+}
