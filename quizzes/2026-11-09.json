@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "title": "Hvilket skogsdyr er du i dag?",
+  "intro": "Er du en rolig elg, et travelt ekorn eller en lur liten rev? Svar på sju spørsmål og finn ut hvilket dyr i den norske skogen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva har du helst på brødskiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brunost",
+          "scores": {
+            "grevling": 2,
+            "bjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leverpostei",
+          "scores": {
+            "ulv": 2,
+            "elg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jordbærsyltetøy",
+          "scores": {
+            "pinnsvin": 2,
+            "skogmus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ost og skinke",
+          "scores": {
+            "bever": 2,
+            "ekorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Avokado",
+          "scores": {
+            "gaupe": 1,
+            "rev": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Banan i skiver",
+          "scores": {
+            "hare": 2,
+            "radyr": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har kjøpt noe som må settes sammen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser hele bruksanvisningen først",
+          "scores": {
+            "bever": 2,
+            "radyr": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Begynner rett på og ser hva som skjer",
+          "scores": {
+            "hare": 2,
+            "rev": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ringer en venn og gjør det sammen",
+          "scores": {
+            "ulv": 2,
+            "skogmus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venter til jeg har god tid",
+          "scores": {
+            "bjorn": 2,
+            "elg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter på musikk og tar det i mitt tempo",
+          "scores": {
+            "gaupe": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør det med en gang",
+          "scores": {
+            "ekorn": 2,
+            "hare": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken blomst liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solsikke",
+          "scores": {
+            "ekorn": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rose",
+          "scores": {
+            "gaupe": 2,
+            "rev": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hvitveis",
+          "scores": {
+            "radyr": 2,
+            "skogmus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lavendel",
+          "scores": {
+            "grevling": 2,
+            "pinnsvin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tulipan",
+          "scores": {
+            "pinnsvin": 2,
+            "bjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lyng",
+          "scores": {
+            "elg": 2,
+            "gaupe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du går deg litt bort på en tur. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser på kartet i ro og mak",
+          "scores": {
+            "elg": 2,
+            "bever": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Følger magefølelsen",
+          "scores": {
+            "gaupe": 2,
+            "rev": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ringer noen og spør om veien",
+          "scores": {
+            "ulv": 2,
+            "radyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Synes det er litt spennende",
+          "scores": {
+            "skogmus": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går tilbake samme vei som jeg kom",
+          "scores": {
+            "radyr": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg ned og spiser matpakka først",
+          "scores": {
+            "bjorn": 2,
+            "pinnsvin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Det er tid for vinterlue. Hvilken velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykk ullue med dusk",
+          "scores": {
+            "pinnsvin": 2,
+            "ekorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pannebånd",
+          "scores": {
+            "hare": 2,
+            "gaupe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lue med øreklaffer",
+          "scores": {
+            "bjorn": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Strikket lue med mønster",
+          "scores": {
+            "skogmus": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bruker hetta på jakka",
+          "scores": {
+            "rev": 2,
+            "elg": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den samme gamle lua som alltid",
+          "scores": {
+            "grevling": 1,
+            "bever": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket mønster liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Striper",
+          "scores": {
+            "bever": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prikker",
+          "scores": {
+            "skogmus": 2,
+            "pinnsvin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rutete",
+          "scores": {
+            "grevling": 2,
+            "elg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blomster",
+          "scores": {
+            "radyr": 2,
+            "pinnsvin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Helt ensfarget",
+          "scores": {
+            "gaupe": 2,
+            "bjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mange sterke farger",
+          "scores": {
+            "ekorn": 2,
+            "rev": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Noen kommer på besøk uten å ha sagt fra. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter på kaffe og finner fram kake",
+          "scores": {
+            "bjorn": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir glad og inviterer flere",
+          "scores": {
+            "ulv": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rydder litt i full fart",
+          "scores": {
+            "bever": 2,
+            "ekorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår at vi går en tur",
+          "scores": {
+            "elg": 1,
+            "hare": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir litt satt ut, men koser meg etter hvert",
+          "scores": {
+            "pinnsvin": 2,
+            "radyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Viser fram noe nytt jeg har laget",
+          "scores": {
+            "rev": 2,
+            "skogmus": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "elg",
+      "name": "Elg",
+      "shareName": "en elg",
+      "emoji": null,
+      "description": "Du er stødig, rolig og trygg i deg selv. Du tar deg god tid og går din egen vei, og folk rundt deg føler seg trygge når du er der.",
+      "funFact": "Elgen er det største hjortedyret i verden, og den er en overraskende flink svømmer.",
+      "image": "images/2026-11-09/elg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt uansett vær."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Går gjerne sin egen vei."
+        },
+        {
+          "title": "Trygg",
+          "text": "Andre slapper av rundt deg."
+        }
+      ]
+    },
+    {
+      "id": "radyr",
+      "name": "Rådyr",
+      "shareName": "et rådyr",
+      "emoji": null,
+      "description": "Du er varsom, mild og legger merke til alt som skjer rundt deg. Du trives med ro og harmoni, og du har et stort hjerte for andre.",
+      "funFact": "Rådyret er det minste hjortedyret i Norge, og bukken feller geviret sitt hver høst eller vinter.",
+      "image": "images/2026-11-09/radyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varsom",
+          "text": "Merker stemninger med en gang."
+        },
+        {
+          "title": "Mild",
+          "text": "Snakker vennlig til alle."
+        },
+        {
+          "title": "Harmonisk",
+          "text": "Trives best med ro."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på andre først."
+        }
+      ]
+    },
+    {
+      "id": "rev",
+      "name": "Rev",
+      "shareName": "en rev",
+      "emoji": null,
+      "description": "Du er lur, nysgjerrig og full av gode ideer. Du finner alltid en smart løsning, og du har en sjarm som får folk til å smile.",
+      "funFact": "Reven hører så godt at den kan finne en mus som beveger seg under et tykt lag med snø.",
+      "image": "images/2026-11-09/rev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Finner alltid en løsning."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Får folk til å smile."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt om alt."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av gode ideer."
+        }
+      ]
+    },
+    {
+      "id": "ekorn",
+      "name": "Ekorn",
+      "shareName": "et ekorn",
+      "emoji": null,
+      "description": "Du er full av energi og har alltid noe på gang. Du liker å være forberedt, og du får utrolig mye gjort på kort tid.",
+      "funFact": "Ekornet gjemmer tusenvis av nøtter og frø om høsten, og de det glemmer, kan bli til nye trær.",
+      "image": "images/2026-11-09/ekorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid i full fart."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Har en plan for alt."
+        },
+        {
+          "title": "Leken",
+          "text": "Gjør hverdagen litt morsommere."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort fort."
+        }
+      ]
+    },
+    {
+      "id": "grevling",
+      "name": "Grevling",
+      "shareName": "en grevling",
+      "emoji": null,
+      "description": "Du er hjemmekjær, trofast og glad i gode vaner. Hos deg er det alltid lunt og koselig, og vennene dine vet at de kan stole på deg.",
+      "funFact": "Grevlingen bor i store hi med mange ganger og rom, og noen hi har vært i bruk i hundrevis av år.",
+      "image": "images/2026-11-09/grevling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives best i eget hjem."
+        },
+        {
+          "title": "Trofast",
+          "text": "Stiller opp for sine."
+        },
+        {
+          "title": "Koselig",
+          "text": "Lager lune stunder overalt."
+        },
+        {
+          "title": "Vanefast",
+          "text": "Liker faste gode rutiner."
+        }
+      ]
+    },
+    {
+      "id": "gaupe",
+      "name": "Gaupe",
+      "shareName": "en gaupe",
+      "emoji": null,
+      "description": "Du er selvstendig, fokusert og litt mystisk. Du trenger ikke mye bråk rundt deg, men når du bestemmer deg for noe, gjør du det skikkelig.",
+      "funFact": "Gaupa er det eneste kattedyret som lever vilt i Norge.",
+      "image": "images/2026-11-09/gaupe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Elegant",
+          "text": "Beveger seg med stil."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Uavhengig",
+          "text": "Trives godt i eget selskap."
+        }
+      ]
+    },
+    {
+      "id": "hare",
+      "name": "Hare",
+      "shareName": "en hare",
+      "emoji": null,
+      "description": "Du er rask, spontan og elsker å prøve nye ting. Du hopper gjerne rett inn i et eventyr, og du får alltid fart på resten av gjengen.",
+      "funFact": "Haren skifter pels om høsten og blir nesten helt hvit til vinteren, slik at den gjemmer seg godt i snøen.",
+      "image": "images/2026-11-09/hare.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Sier ja før du tenker."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid først ute."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker nye opplevelser."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Smitter med god energi."
+        }
+      ]
+    },
+    {
+      "id": "pinnsvin",
+      "name": "Pinnsvin",
+      "shareName": "et pinnsvin",
+      "emoji": null,
+      "description": "Du er litt sjenert til å begynne med, men utrolig varm når folk blir kjent med deg. Du er glad i kos, ro og de små gledene i hverdagen.",
+      "funFact": "Pinnsvinet går i dvale om vinteren, og et voksent pinnsvin har flere tusen pigger.",
+      "image": "images/2026-11-09/pinnsvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Blir glad i folk."
+        },
+        {
+          "title": "Sjenert",
+          "text": "Trenger litt tid først."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker myke tepper og te."
+        },
+        {
+          "title": "Søt",
+          "text": "Gjør andre i godt humør."
+        }
+      ]
+    },
+    {
+      "id": "bever",
+      "name": "Bever",
+      "shareName": "en bever",
+      "emoji": null,
+      "description": "Du er flittig, praktisk og flink med hendene. Når noe skal bygges, fikses eller ordnes, er det deg alle spør først.",
+      "funFact": "Beveren har oransje fortenner fordi de inneholder jern, noe som gjør dem ekstra sterke.",
+      "image": "images/2026-11-09/bever.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Gir seg aldri halvveis."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste selv."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gjør ting ordentlig."
+        },
+        {
+          "title": "Lagbygger",
+          "text": "Bygger noe for alle."
+        }
+      ]
+    },
+    {
+      "id": "bjorn",
+      "name": "Bjørn",
+      "shareName": "en bjørn",
+      "emoji": null,
+      "description": "Du er varm, rolig og glad i å ta vare på de rundt deg. Du setter pris på god mat, lange netter med søvn og en stor klem.",
+      "funFact": "Bjørnen kan ligge i hi i opptil et halvt år, og ungene blir født mens mora sover der inne.",
+      "image": "images/2026-11-09/bjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer godt på sine."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Matglad",
+          "text": "Setter pris på god mat."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye uten å klage."
+        }
+      ]
+    },
+    {
+      "id": "ulv",
+      "name": "Ulv",
+      "shareName": "en ulv",
+      "emoji": null,
+      "description": "Du er sosial, lojal og en ekte lagspiller. Du blomstrer når du er sammen med gjengen din, og du stiller alltid opp for vennene dine.",
+      "funFact": "Ulver lever i flokker, og hylet deres kan høres flere kilometer unna.",
+      "image": "images/2026-11-09/ulv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Står alltid ved vennene."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives best i flokk."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Får gruppa til å fungere."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å gå foran."
+        }
+      ]
+    },
+    {
+      "id": "skogmus",
+      "name": "Skogmus",
+      "shareName": "en skogmus",
+      "emoji": null,
+      "description": "Du er liten i fremtoningen, men stor i hjertet og modigere enn mange tror. Du finner glede i små ting og ser detaljer andre går glipp av.",
+      "funFact": "Skogmusa er flink til å hoppe med de lange bakbeina sine, og den samler gjerne et lite matlager til vinteren.",
+      "image": "images/2026-11-09/skogmus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Større mot enn du tror."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker hver krok."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke mye plass."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser det andre overser."
+        }
+      ]
+    }
+  ]
+}
