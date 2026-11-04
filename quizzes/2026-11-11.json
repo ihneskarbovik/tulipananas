@@ -1,0 +1,721 @@
+{
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "title": "Hvilket landemerke er du i dag?",
+  "intro": "Er du et elegant Eiffeltårn, en rolig Fuji eller et litt skjevt tårn i Pisa? Svar på sju spørsmål og finn ut hvilket kjent landemerke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags suvenir kjøper du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et postkort å sende hjem",
+          "scores": {
+            "bigben": 1,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe lokalt å spise",
+          "scores": {
+            "colosseum": 2,
+            "eiffel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lite kunstverk fra et marked",
+          "scores": {
+            "sydney": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En bok om stedet",
+          "scores": {
+            "frihet": 2,
+            "pyramide": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, jeg tar heller masse bilder",
+          "scores": {
+            "prekestolen": 2,
+            "pisa": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En kopp eller noe annet jeg kan bruke",
+          "scores": {
+            "muren": 2,
+            "oslo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du kommer til en by du aldri har vært i. Hva gjør du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finner en koselig kafé",
+          "scores": {
+            "eiffel": 2,
+            "oslo": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går rett til de kjente stedene",
+          "scores": {
+            "bigben": 1,
+            "frihet": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rusler rundt uten kart",
+          "scores": {
+            "pisa": 2,
+            "sydney": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en park eller et utsiktspunkt",
+          "scores": {
+            "prekestolen": 2,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir med på en guidet tur",
+          "scores": {
+            "pyramide": 2,
+            "muren": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør folk som bor der om tips",
+          "scores": {
+            "colosseum": 1,
+            "oslo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken grønnsak liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Søtpotet",
+          "scores": {
+            "fuji": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Brokkoli",
+          "scores": {
+            "muren": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Paprika",
+          "scores": {
+            "sydney": 2,
+            "pisa": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gulrot",
+          "scores": {
+            "bigben": 2,
+            "oslo": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mais",
+          "scores": {
+            "colosseum": 2,
+            "pisa": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Asparges",
+          "scores": {
+            "eiffel": 2,
+            "frihet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du når du ikke får sove?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser til jeg blir trøtt",
+          "scores": {
+            "pyramide": 2,
+            "bigben": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hører på rolig musikk",
+          "scores": {
+            "fuji": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Står opp og finner på noe",
+          "scores": {
+            "colosseum": 2,
+            "prekestolen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker ut nye ideer",
+          "scores": {
+            "frihet": 2,
+            "sydney": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ligger stille og venter",
+          "scores": {
+            "fuji": 2,
+            "muren": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager meg en kopp varm melk",
+          "scores": {
+            "oslo": 2,
+            "pisa": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags museum går du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Historisk museum",
+          "scores": {
+            "pyramide": 2,
+            "muren": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kunstmuseum",
+          "scores": {
+            "tajmahal": 2,
+            "eiffel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Naturhistorisk museum",
+          "scores": {
+            "prekestolen": 2,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Teknisk museum",
+          "scores": {
+            "bigben": 2,
+            "frihet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Friluftsmuseum med gamle hus",
+          "scores": {
+            "oslo": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går heller i en fornøyelsespark",
+          "scores": {
+            "pisa": 2,
+            "colosseum": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du når dere jobber sammen i en gruppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som tar ledelsen",
+          "scores": {
+            "frihet": 2,
+            "colosseum": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som holder styr på tiden",
+          "scores": {
+            "bigben": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som kommer med ideene",
+          "scores": {
+            "sydney": 2,
+            "eiffel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som passer på at alle blir hørt",
+          "scores": {
+            "oslo": 2,
+            "tajmahal": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som gjør jobben uten å mase",
+          "scores": {
+            "muren": 2,
+            "pyramide": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som får alle til å le",
+          "scores": {
+            "pisa": 2,
+            "prekestolen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva slags klær føler du deg best i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Noe pent og elegant",
+          "scores": {
+            "eiffel": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Myk joggedress",
+          "scores": {
+            "fuji": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Turbukse og god jakke",
+          "scores": {
+            "prekestolen": 2,
+            "muren": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fargerike klær",
+          "scores": {
+            "sydney": 2,
+            "tajmahal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Enkle klær i nøytrale farger",
+          "scores": {
+            "fuji": 2,
+            "pyramide": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Treningstøy",
+          "scores": {
+            "colosseum": 2,
+            "frihet": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "eiffel",
+      "name": "Eiffeltårnet",
+      "shareName": "Eiffeltårnet",
+      "emoji": null,
+      "description": "Du er Eiffeltårnet, elegant, romantisk og alltid klar for en hyggelig kveld. Du får hverdagen til å føles litt mer som en fest.",
+      "funFact": "Eiffeltårnet blir malt omtrent hvert sjuende år, og det går med rundt 60 tonn maling hver gang.",
+      "image": "images/2026-11-11/eiffel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stilfull uten å prøve."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker lys og fine kvelder."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives blant mange mennesker."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg tid til det gode."
+        }
+      ]
+    },
+    {
+      "id": "bigben",
+      "name": "Big Ben",
+      "shareName": "Big Ben",
+      "emoji": null,
+      "description": "Du er Big Ben, pålitelig, punktlig og alltid til å stole på. Andre vet at de kan regne med deg.",
+      "funFact": "Big Ben er egentlig navnet på den store klokka inne i tårnet, ikke på selve tårnet.",
+      "image": "images/2026-11-11/bigben.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Punktlig",
+          "text": "Kommer alltid i tide."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Liker system og orden."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Setter pris på gode vaner."
+        }
+      ]
+    },
+    {
+      "id": "pisa",
+      "name": "Det skjeve tårnet i Pisa",
+      "shareName": "Det skjeve tårnet i Pisa",
+      "emoji": null,
+      "description": "Du er Det skjeve tårnet i Pisa, sjarmerende, avslappet og flink til å le av deg selv. Du viser at ting ikke trenger å være perfekte for å være fine.",
+      "funFact": "Tårnet begynte å helle allerede mens det ble bygget på 1170-tallet, fordi grunnen under var for myk.",
+      "image": "images/2026-11-11/pisa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Folk blir glade av deg."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Morsom",
+          "text": "Ler gjerne av seg selv."
+        },
+        {
+          "title": "Unik",
+          "text": "Helt annerledes, og stolt."
+        }
+      ]
+    },
+    {
+      "id": "pyramide",
+      "name": "Pyramidene i Giza",
+      "shareName": "en pyramide i Giza",
+      "emoji": null,
+      "description": "Du er en pyramide i Giza, klok, tålmodig og full av spennende historier. Du tenker deg om før du handler.",
+      "funFact": "Den store pyramiden i Giza var det høyeste byggverket i verden i rundt 3800 år.",
+      "image": "images/2026-11-11/pyramide.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet mye om mangt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid, alltid."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Elsker gamle hemmeligheter."
+        }
+      ]
+    },
+    {
+      "id": "tajmahal",
+      "name": "Taj Mahal",
+      "shareName": "Taj Mahal",
+      "emoji": null,
+      "description": "Du er Taj Mahal, varm, kjærlig og opptatt av å gjøre ting vakre for andre. Du legger merke til de små detaljene.",
+      "funFact": "Taj Mahal ble bygget som et minnesmerke over keiser Shah Jahans kone, Mumtaz Mahal.",
+      "image": "images/2026-11-11/tajmahal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Viser omsorg hver dag."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker hva andre liker."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser de små tingene."
+        },
+        {
+          "title": "Vakker",
+          "text": "Pynter opp hverdagen."
+        }
+      ]
+    },
+    {
+      "id": "muren",
+      "name": "Den kinesiske mur",
+      "shareName": "Den kinesiske mur",
+      "emoji": null,
+      "description": "Du er Den kinesiske mur, stødig, trofast og utrolig utholdende. Du gir deg ikke før jobben er gjort.",
+      "funFact": "Det er en myte at Den kinesiske mur kan ses med det blotte øye fra verdensrommet.",
+      "image": "images/2026-11-11/muren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Holder ut lenge."
+        },
+        {
+          "title": "Trofast",
+          "text": "En venn for livet."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig når andre stresser."
+        },
+        {
+          "title": "Arbeidsom",
+          "text": "Gjør jobben uten mas."
+        }
+      ]
+    },
+    {
+      "id": "colosseum",
+      "name": "Colosseum",
+      "shareName": "Colosseum",
+      "emoji": null,
+      "description": "Du er Colosseum, full av energi og glad i liv og røre. Du elsker å samle folk og heie på alle.",
+      "funFact": "Colosseum i Roma hadde plass til rundt 50 000 tilskuere.",
+      "image": "images/2026-11-11/colosseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid klar for action."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk rundt seg."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker lek og konkurranse."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Heier høyt på andre."
+        }
+      ]
+    },
+    {
+      "id": "sydney",
+      "name": "Operahuset i Sydney",
+      "shareName": "Operahuset i Sydney",
+      "emoji": null,
+      "description": "Du er Operahuset i Sydney, kreativ, leken og full av nye ideer. Du ser muligheter der andre ser vanlige ting.",
+      "funFact": "Operahuset i Sydney ble tegnet av den danske arkitekten Jørn Utzon.",
+      "image": "images/2026-11-11/sydney.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av nye ideer."
+        },
+        {
+          "title": "Leken",
+          "text": "Liker å prøve nytt."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser skjønnhet overalt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å gjøre annerledes."
+        }
+      ]
+    },
+    {
+      "id": "oslo",
+      "name": "Operahuset i Oslo",
+      "shareName": "Operahuset i Oslo",
+      "emoji": null,
+      "description": "Du er Operahuset i Oslo, åpen, inkluderende og enkel på en fin måte. Hos deg føler alle seg velkomne.",
+      "funFact": "Du kan gå helt opp på taket av Operahuset i Oslo, og mange bruker det som utsiktspunkt.",
+      "image": "images/2026-11-11/oslo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Alle er velkomne her."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Passer på at alle blir med."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det rene og rolige."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Trygg og lett å prate med."
+        }
+      ]
+    },
+    {
+      "id": "prekestolen",
+      "name": "Preikestolen",
+      "shareName": "Preikestolen",
+      "emoji": null,
+      "description": "Du er Preikestolen, modig, eventyrlysten og glad i frisk luft. Du vil helst se verden fra toppen.",
+      "funFact": "Preikestolen ligger omtrent 604 meter over Lysefjorden i Rogaland.",
+      "image": "images/2026-11-11/prekestolen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på vei ut."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta sjansen."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives best ute."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av ny energi."
+        }
+      ]
+    },
+    {
+      "id": "frihet",
+      "name": "Frihetsgudinnen",
+      "shareName": "Frihetsgudinnen",
+      "emoji": null,
+      "description": "Du er Frihetsgudinnen, modig, rettferdig og en som andre ser opp til. Du står opp for det du tror på.",
+      "funFact": "Frihetsgudinnen er laget av kobber og var opprinnelig brun, men har blitt grønn av vær og vind.",
+      "image": "images/2026-11-11/frihet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Står opp for andre."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Vil at alle skal ha det bra."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Får andre til å tørre."
+        },
+        {
+          "title": "Leder",
+          "text": "Viser gjerne vei."
+        }
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "Fuji-fjellet",
+      "shareName": "Fuji-fjellet",
+      "emoji": null,
+      "description": "Du er Fuji-fjellet, rolig, harmonisk og vakker i all slags vær. Du gir ro til alle rundt deg.",
+      "funFact": "Fuji-fjellet er en vulkan, og det siste utbruddet var i 1707.",
+      "image": "images/2026-11-11/fuji.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Harmonisk",
+          "text": "Finner balanse i alt."
+        },
+        {
+          "title": "Stille",
+          "text": "Liker de rolige stundene."
+        },
+        {
+          "title": "Vakker",
+          "text": "Like fin hver årstid."
+        }
+      ]
+    }
+  ]
+}
