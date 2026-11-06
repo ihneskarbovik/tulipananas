@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "title": "Hvilken sopp er du i dag?",
+  "intro": "Er du en gyllen kantarell, en solid steinsopp eller en fargerik fluesopp? Svar på sju spørsmål og finn ut hvilken sopp du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket bær plukker du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blåbær",
+          "scores": {
+            "steinsopp": 2,
+            "piggsopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tyttebær",
+          "scores": {
+            "traktkantarell": 2,
+            "rodskrubb": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jordbær",
+          "scores": {
+            "sjampinjong": 2,
+            "morkel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bringebær",
+          "scores": {
+            "kantarell": 2,
+            "osterssopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Multer",
+          "scores": {
+            "rodskrubb": 2,
+            "parasollsopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Solbær",
+          "scores": {
+            "blekksopp": 2,
+            "fluesopp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan svarer du på meldinger fra venner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en gang, med mange utropstegn",
+          "scores": {
+            "kantarell": 2,
+            "osterssopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med en lang og gjennomtenkt melding",
+          "scores": {
+            "blekksopp": 2,
+            "steinsopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg sender en talemelding",
+          "scores": {
+            "fluesopp": 2,
+            "shiitake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kort og greit når jeg har tid",
+          "scores": {
+            "piggsopp": 2,
+            "rodskrubb": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg ringer heller",
+          "scores": {
+            "parasollsopp": 2,
+            "osterssopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tidlig neste morgen",
+          "scores": {
+            "morkel": 2,
+            "traktkantarell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken suppe liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tomatsuppe",
+          "scores": {
+            "sjampinjong": 2,
+            "kantarell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fiskesuppe",
+          "scores": {
+            "parasollsopp": 2,
+            "steinsopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ramen",
+          "scores": {
+            "shiitake": 2,
+            "osterssopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøttsuppe",
+          "scores": {
+            "steinsopp": 2,
+            "traktkantarell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gresskarsuppe",
+          "scores": {
+            "fluesopp": 2,
+            "morkel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ertesuppe",
+          "scores": {
+            "piggsopp": 2,
+            "rodskrubb": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor sitter du helst på kino?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt foran",
+          "scores": {
+            "rodskrubb": 2,
+            "fluesopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midt i salen",
+          "scores": {
+            "sjampinjong": 2,
+            "steinsopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bakerst",
+          "scores": {
+            "traktkantarell": 2,
+            "piggsopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ytterst ved midtgangen",
+          "scores": {
+            "morkel": 2,
+            "shiitake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Der vennegjengen sitter",
+          "scores": {
+            "osterssopp": 2,
+            "parasollsopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser heller film hjemme",
+          "scores": {
+            "blekksopp": 2,
+            "traktkantarell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du lager middag uten oppskrift. Hvordan går du fram?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager det jeg kan best",
+          "scores": {
+            "piggsopp": 2,
+            "steinsopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver noe helt nytt",
+          "scores": {
+            "shiitake": 2,
+            "fluesopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bruker det som er i kjøleskapet",
+          "scores": {
+            "traktkantarell": 2,
+            "sjampinjong": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en stor gryte til mange",
+          "scores": {
+            "parasollsopp": 2,
+            "osterssopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smaker meg fram underveis",
+          "scores": {
+            "blekksopp": 2,
+            "kantarell": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har alt klart før jeg begynner",
+          "scores": {
+            "morkel": 2,
+            "sjampinjong": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva slags podkast hører du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Humor",
+          "scores": {
+            "kantarell": 2,
+            "sjampinjong": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Krim",
+          "scores": {
+            "blekksopp": 2,
+            "traktkantarell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Historie",
+          "scores": {
+            "steinsopp": 2,
+            "parasollsopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Reise",
+          "scores": {
+            "shiitake": 2,
+            "rodskrubb": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Natur og dyr",
+          "scores": {
+            "rodskrubb": 2,
+            "piggsopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prat mellom gode venner",
+          "scores": {
+            "osterssopp": 2,
+            "morkel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du er på tur i skogen en høstdag. Hva gjør du mest av?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plukker med meg noe godt til middag",
+          "scores": {
+            "piggsopp": 2,
+            "sjampinjong": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar bilder av alle fargene",
+          "scores": {
+            "fluesopp": 2,
+            "blekksopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går raskt for å få opp pulsen",
+          "scores": {
+            "rodskrubb": 2,
+            "morkel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en fin plass og drikker kakao",
+          "scores": {
+            "parasollsopp": 2,
+            "kantarell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Følger en sti jeg ikke kjenner",
+          "scores": {
+            "shiitake": 2,
+            "morkel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prater med turfølget hele veien",
+          "scores": {
+            "osterssopp": 2,
+            "kantarell": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kantarell",
+      "name": "Kantarell",
+      "shareName": "en kantarell",
+      "emoji": null,
+      "description": "Du er en kantarell: gyllen, blid og alles favoritt på tur. Du sprer god stemning og gjør hverdagen litt mer festlig.",
+      "funFact": "Kantarellen lever i samliv med trerøttene i skogen, og derfor har ingen klart å dyrke den i stor skala.",
+      "image": "images/2026-11-13/kantarell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Sprer god stemning overalt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives best med folk."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle blir glade av deg."
+        },
+        {
+          "title": "Varm",
+          "text": "Gyllen både inni og utenpå."
+        }
+      ]
+    },
+    {
+      "id": "steinsopp",
+      "name": "Steinsopp",
+      "shareName": "en steinsopp",
+      "emoji": null,
+      "description": "Du er en steinsopp: solid, pålitelig og alltid god å ha i nærheten. Du liker det klassiske og gjør ting skikkelig.",
+      "funFact": "Steinsopp er en av verdens mest kjente matsopper, og i Italia kalles den porcini.",
+      "image": "images/2026-11-13/steinsopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt i all slags vær."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder alltid det du lover."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Liker det som fungerer."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        }
+      ]
+    },
+    {
+      "id": "fluesopp",
+      "name": "Fluesopp",
+      "shareName": "en fluesopp",
+      "emoji": null,
+      "description": "Du er en fluesopp: fargerik, modig og umulig å overse. Du tør å være annerledes, og folk husker deg lenge.",
+      "funFact": "Fluesopp er giftig, og har fått navnet fordi den før i tiden ble lagt i melk for å drepe fluer.",
+      "image": "images/2026-11-13/fluesopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å skille seg ut."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp hele skogen."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av egne ideer."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hvem du er."
+        }
+      ]
+    },
+    {
+      "id": "traktkantarell",
+      "name": "Traktkantarell",
+      "shareName": "en traktkantarell",
+      "emoji": null,
+      "description": "Du er en traktkantarell: beskjeden, trofast og mye sterkere enn mange tror. Du holder ut lenge etter at andre har gitt seg.",
+      "funFact": "Traktkantarellen er hul inni stilken, og den kan plukkes langt utpå høsten, ofte helt til frosten kommer.",
+      "image": "images/2026-11-13/traktkantarell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Er der når det gjelder."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke mye oppmerksomhet."
+        },
+        {
+          "title": "Koselig",
+          "text": "Liker en lun krok."
+        }
+      ]
+    },
+    {
+      "id": "piggsopp",
+      "name": "Piggsopp",
+      "shareName": "en piggsopp",
+      "emoji": null,
+      "description": "Du er en piggsopp: jordnær, snill og helt uten fjas. Du gjør ting på din egen rolige måte, og alle stoler på deg.",
+      "funFact": "Piggsopp har små, myke pigger under hatten i stedet for skiver eller rør.",
+      "image": "images/2026-11-13/piggsopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Holder bena på jorda."
+        },
+        {
+          "title": "Snill",
+          "text": "Tenker på andre først."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det som er greit."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        }
+      ]
+    },
+    {
+      "id": "sjampinjong",
+      "name": "Sjampinjong",
+      "shareName": "en sjampinjong",
+      "emoji": null,
+      "description": "Du er en sjampinjong: allsidig, praktisk og lett å like. Du passer inn nesten overalt og får ting til å fungere.",
+      "funFact": "Ordet sjampinjong kommer fra det franske ordet champignon, som rett og slett betyr sopp.",
+      "image": "images/2026-11-13/sjampinjong.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Passer inn nesten overalt."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting til å fungere."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Lett å bli kjent med."
+        },
+        {
+          "title": "Hverdagshelt",
+          "text": "Alltid klar til innsats."
+        }
+      ]
+    },
+    {
+      "id": "osterssopp",
+      "name": "Østerssopp",
+      "shareName": "en østerssopp",
+      "emoji": null,
+      "description": "Du er en østerssopp: sosial, rask og en ekte lagspiller. Du trives best når dere er mange sammen.",
+      "funFact": "Østerssopp vokser på trestammer, og den er en av få sopper som kan fange og spise bittesmå rundormer.",
+      "image": "images/2026-11-13/osterssopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Best når dere er flere."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt bord."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort i gang."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        }
+      ]
+    },
+    {
+      "id": "shiitake",
+      "name": "Shiitake",
+      "shareName": "en shiitake",
+      "emoji": null,
+      "description": "Du er en shiitake: nysgjerrig, eventyrlysten og glad i nye smaker. Du drømmer om reiser og elsker å prøve noe du ikke har gjort før.",
+      "funFact": "Shiitake har blitt dyrket på trestokker i Kina og Japan i flere hundre år, og navnet betyr «sopp fra shii-treet» på japansk.",
+      "image": "images/2026-11-13/shiitake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve alt nytt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Drømmer om fjerne steder."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot nye ideer."
+        },
+        {
+          "title": "Smaksrik",
+          "text": "Setter krydder på hverdagen."
+        }
+      ]
+    },
+    {
+      "id": "morkel",
+      "name": "Morkel",
+      "shareName": "en morkel",
+      "emoji": null,
+      "description": "Du er en morkel: tidlig ute, egen og full av initiativ. Du er klar før alle andre og liker å ha god oversikt.",
+      "funFact": "Morkler dukker opp om våren, mens de fleste andre matsopper kommer om høsten.",
+      "image": "images/2026-11-13/morkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tidlig",
+          "text": "Først ute hver gang."
+        },
+        {
+          "title": "Egen",
+          "text": "Gjør ting på din måte."
+        },
+        {
+          "title": "Strukturert",
+          "text": "Liker god oversikt."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Tar initiativ selv."
+        }
+      ]
+    },
+    {
+      "id": "parasollsopp",
+      "name": "Parasollsopp",
+      "shareName": "en parasollsopp",
+      "emoji": null,
+      "description": "Du er en parasollsopp: raus, omsorgsfull og et fantastisk vertskap. Du passer på folkene dine og har alltid plass til en til.",
+      "funFact": "Stor parasollsopp er en av de største soppene i Norge, og hatten kan bli over 25 centimeter bred.",
+      "image": "images/2026-11-13/parasollsopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Har alltid plass til flere."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer godt på andre."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Elsker å ha besøk."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ly i alt slags vær."
+        }
+      ]
+    },
+    {
+      "id": "blekksopp",
+      "name": "Matblekksopp",
+      "shareName": "en matblekksopp",
+      "emoji": null,
+      "description": "Du er en matblekksopp: kreativ, ordrik og full av følelser. Du har alltid en historie å fortelle og ser ting andre ikke legger merke til.",
+      "funFact": "Gamle matblekksopper løser seg opp til en svart væske, og den ble før i tiden brukt som blekk.",
+      "image": "images/2026-11-13/blekksopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av historier."
+        },
+        {
+          "title": "Ordrik",
+          "text": "Finner alltid de rette ordene."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner ting sterkt."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser det andre overser."
+        }
+      ]
+    },
+    {
+      "id": "rodskrubb",
+      "name": "Rødskrubb",
+      "shareName": "en rødskrubb",
+      "emoji": null,
+      "description": "Du er en rødskrubb: sporty, tøff og glad i frisk luft. Du trives best ute og har alltid lyst på en ny tur.",
+      "funFact": "Rødskrubb vokser sammen med bjørk, og kjøttet blir gråsvart når du skjærer i den eller steker den.",
+      "image": "images/2026-11-13/rodskrubb.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler både regn og vind."
+        },
+        {
+          "title": "Frisk",
+          "text": "Henter energi ute."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har masse krefter."
+        }
+      ]
+    }
+  ]
+}
