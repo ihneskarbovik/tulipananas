@@ -1,0 +1,716 @@
+{
+  "id": "2026-11-15",
+  "date": "2026-11-15",
+  "title": "Hvilket yrke er du i dag?",
+  "intro": "Er du en kreativ kokk, en stødig snekker eller en nysgjerrig forsker? Svar på sju spørsmål og finn ut hvilket yrke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva legger du helst på grillen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fisk i folie",
+          "scores": {
+            "fisker": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grønnsaksspyd",
+          "scores": {
+            "forsker": 2,
+            "veterinar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hamburgere til hele gjengen",
+          "scores": {
+            "larer": 2,
+            "brannkonstabel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pølser med lompe",
+          "scores": {
+            "larer": 2,
+            "bibliotekar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe nytt jeg har marinert selv",
+          "scores": {
+            "kokk": 2,
+            "skuespiller": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mais og halloumi",
+          "scores": {
+            "frisor": 2,
+            "pilot": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du mister bussen med noen sekunder. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går i stedet, det er fint vær uansett",
+          "scores": {
+            "bonde": 2,
+            "fisker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker appen og finner raskeste vei",
+          "scores": {
+            "pilot": 2,
+            "forsker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ringer noen og prater mens jeg venter",
+          "scores": {
+            "frisor": 2,
+            "skuespiller": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser litt mens jeg venter på neste",
+          "scores": {
+            "bibliotekar": 2,
+            "larer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om noen andre skal samme vei",
+          "scores": {
+            "brannkonstabel": 2,
+            "veterinar": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sukker litt og tar en kaffe",
+          "scores": {
+            "kokk": 2,
+            "snekker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket dyr vil du helst se i dyreparken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ulv",
+          "scores": {
+            "veterinar": 2,
+            "fisker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pingvin",
+          "scores": {
+            "skuespiller": 2,
+            "larer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sel",
+          "scores": {
+            "fisker": 2,
+            "forsker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ugle",
+          "scores": {
+            "bibliotekar": 2,
+            "forsker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bjørn",
+          "scores": {
+            "snekker": 2,
+            "brannkonstabel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Papegøye",
+          "scores": {
+            "frisor": 2,
+            "pilot": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags hage vil du helst ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøkkenhage med grønnsaker",
+          "scores": {
+            "bonde": 2,
+            "kokk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blomsterbed i alle farger",
+          "scores": {
+            "frisor": 2,
+            "larer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En stor plen å leke på",
+          "scores": {
+            "larer": 2,
+            "brannkonstabel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En vill hage med fuglekasser",
+          "scores": {
+            "veterinar": 2,
+            "bibliotekar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Terrasse jeg har bygget selv",
+          "scores": {
+            "snekker": 2,
+            "pilot": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen har en helt annen mening enn deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør hvorfor de mener det",
+          "scores": {
+            "forsker": 2,
+            "larer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lytter og prøver å forstå",
+          "scores": {
+            "veterinar": 2,
+            "frisor": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en morsom kommentar",
+          "scores": {
+            "skuespiller": 2,
+            "kokk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner fakta som kan hjelpe",
+          "scores": {
+            "bibliotekar": 2,
+            "pilot": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar det være, vi kan være uenige",
+          "scores": {
+            "fisker": 2,
+            "snekker": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier ærlig hva jeg tenker",
+          "scores": {
+            "brannkonstabel": 2,
+            "bonde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva tar du helst bilder av?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maten jeg lager",
+          "scores": {
+            "kokk": 2,
+            "frisor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Utsikten fra høye steder",
+          "scores": {
+            "pilot": 2,
+            "snekker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dyr jeg møter",
+          "scores": {
+            "veterinar": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venner og morsomme øyeblikk",
+          "scores": {
+            "skuespiller": 2,
+            "brannkonstabel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Havet og himmelen",
+          "scores": {
+            "fisker": 2,
+            "pilot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Små detaljer i naturen",
+          "scores": {
+            "forsker": 2,
+            "bibliotekar": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du skal holde en presentasjon. Hvordan forbereder du deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager grundige notater",
+          "scores": {
+            "forsker": 2,
+            "bibliotekar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Øver foran speilet",
+          "scores": {
+            "skuespiller": 2,
+            "frisor": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en tydelig plan steg for steg",
+          "scores": {
+            "pilot": 2,
+            "larer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar med noe folk kan se og ta på",
+          "scores": {
+            "snekker": 2,
+            "kokk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Snakker fritt, det ordner seg",
+          "scores": {
+            "fisker": 2,
+            "brannkonstabel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Øver for familien hjemme",
+          "scores": {
+            "bonde": 2,
+            "larer": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kokk",
+      "name": "Kokk",
+      "shareName": "kokk",
+      "emoji": null,
+      "description": "Du er kokk, kreativ og raus, og du viser omsorg gjennom mat. Du trives når det er travelt og alle får noe godt.",
+      "funFact": "Ifølge en gammel fortelling skal foldene i kokkehatten vise hvor mange måter kokken kan lage egg på.",
+      "image": "images/2026-11-15/kokk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med andre."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Smaker og prøver nytt."
+        },
+        {
+          "title": "Rask",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Viser kjærlighet med mat."
+        }
+      ]
+    },
+    {
+      "id": "snekker",
+      "name": "Snekker",
+      "shareName": "snekker",
+      "emoji": null,
+      "description": "Du er snekker, praktisk og stødig, og du liker å se resultater av arbeidet ditt. Du finner alltid en løsning med hendene.",
+      "funFact": "Urnes stavkirke fra 1100-tallet er bygget av tre og står på UNESCOs verdensarvliste.",
+      "image": "images/2026-11-15/snekker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste selv."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Liker ekte materialer."
+        }
+      ]
+    },
+    {
+      "id": "brannkonstabel",
+      "name": "Brannkonstabel",
+      "shareName": "brannkonstabel",
+      "emoji": null,
+      "description": "Du er brannkonstabel, modig og hjelpsom, og du stiller opp når noen trenger det. Du er rolig når andre blir stresset.",
+      "funFact": "Nødnummeret til brannvesenet i Norge er 110.",
+      "image": "images/2026-11-15/brannkonstabel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør når det gjelder."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sterkest sammen med andre."
+        }
+      ]
+    },
+    {
+      "id": "bonde",
+      "name": "Bonde",
+      "shareName": "bonde",
+      "emoji": null,
+      "description": "Du er bonde, tålmodig og glad i naturen, og du står tidlig opp uten å klage. Du liker ting som vokser sakte og blir gode.",
+      "funFact": "En god melkeku kan gi mer enn 25 liter melk om dagen.",
+      "image": "images/2026-11-15/bonde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Vet at alt tar tid."
+        },
+        {
+          "title": "Morgenfugl",
+          "text": "Oppe før sola."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives best ute."
+        },
+        {
+          "title": "Trofast",
+          "text": "Tar vare på sine."
+        }
+      ]
+    },
+    {
+      "id": "pilot",
+      "name": "Pilot",
+      "shareName": "pilot",
+      "emoji": null,
+      "description": "Du er pilot, eventyrlysten og ansvarsfull, og du elsker utsikt og nye steder. Du har kontroll, selv når det rister litt.",
+      "funFact": "Piloter og flygeledere over hele verden snakker engelsk med hverandre, slik at alle forstår hverandre.",
+      "image": "images/2026-11-15/pilot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Drømmer om nye steder."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder stø kurs."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se verden."
+        }
+      ]
+    },
+    {
+      "id": "frisor",
+      "name": "Frisør",
+      "shareName": "frisør",
+      "emoji": null,
+      "description": "Du er frisør, sosial og stilsikker, og folk forteller deg gjerne hemmelighetene sine. Du får andre til å føle seg fine.",
+      "funFact": "Hår vokser omtrent én centimeter i måneden.",
+      "image": "images/2026-11-15/frisor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Stilsikker",
+          "text": "Har øye for detaljer."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Folk betror seg til deg."
+        },
+        {
+          "title": "Oppmuntrende",
+          "text": "Får andre til å skinne."
+        }
+      ]
+    },
+    {
+      "id": "bibliotekar",
+      "name": "Bibliotekar",
+      "shareName": "bibliotekar",
+      "emoji": null,
+      "description": "Du er bibliotekar, rolig og kunnskapsrik, og du vet alltid hvor du finner svaret. Du elsker gode historier og stille stunder.",
+      "funFact": "Deichman Bjørvika i Oslo ble kåret til verdens beste nye folkebibliotek i 2021.",
+      "image": "images/2026-11-15/bibliotekar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kunnskapsrik",
+          "text": "Vet litt om alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Elsker stille stunder."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Finner svaret for deg."
+        }
+      ]
+    },
+    {
+      "id": "veterinar",
+      "name": "Veterinær",
+      "shareName": "veterinær",
+      "emoji": null,
+      "description": "Du er veterinær, varm og omtenksom, og du har et ekstra stort hjerte for dyr. Du er rolig og trygg når noen er redde.",
+      "funFact": "Norges veterinærhøgskole ble opprettet i Oslo i 1935.",
+      "image": "images/2026-11-15/veterinar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Ser når noen trenger hjelp."
+        },
+        {
+          "title": "Dyreglad",
+          "text": "Alle dyr stoler på deg."
+        },
+        {
+          "title": "Trygg",
+          "text": "Rolig i vanskelige stunder."
+        },
+        {
+          "title": "Kunnskapsrik",
+          "text": "Elsker å lære mer."
+        }
+      ]
+    },
+    {
+      "id": "skuespiller",
+      "name": "Skuespiller",
+      "shareName": "skuespiller",
+      "emoji": null,
+      "description": "Du er skuespiller, uttrykksfull og morsom, og du elsker å underholde. Du kan sette deg inn i hvordan andre har det.",
+      "funFact": "Nationaltheatret i Oslo åpnet i 1899.",
+      "image": "images/2026-11-15/skuespiller.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser følelser med hele kroppen."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Empatisk",
+          "text": "Forstår andre godt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å stå fram."
+        }
+      ]
+    },
+    {
+      "id": "forsker",
+      "name": "Forsker",
+      "shareName": "forsker",
+      "emoji": null,
+      "description": "Du er forsker, nysgjerrig og grundig, og du gir deg ikke før du har funnet ut hvorfor. Du stiller spørsmålene andre ikke tenker på.",
+      "funFact": "Nobelprisen ble delt ut første gang i 1901.",
+      "image": "images/2026-11-15/forsker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør alltid hvorfor."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker alt to ganger."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Smart",
+          "text": "Ser mønstre andre overser."
+        }
+      ]
+    },
+    {
+      "id": "larer",
+      "name": "Lærer",
+      "shareName": "lærer",
+      "emoji": null,
+      "description": "Du er lærer, tålmodig og inspirerende, og du liker å hjelpe andre å bli bedre. Du er flink til å forklare ting enkelt.",
+      "funFact": "I Norge ble det innført skoleplikt for barn på landet i 1739.",
+      "image": "images/2026-11-15/larer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Inspirerende",
+          "text": "Får andre til å vokse."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Forklarer gjerne igjen."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Alle blir sett."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Brenner for det du gjør."
+        }
+      ]
+    },
+    {
+      "id": "fisker",
+      "name": "Fisker",
+      "shareName": "fisker",
+      "emoji": null,
+      "description": "Du er fisker, rolig og robust, og du trives best nær havet. Du tåler litt vind og vær og vet å vente på riktig øyeblikk.",
+      "funFact": "Skreien er torsk som vandrer fra Barentshavet til Lofoten for å gyte om vinteren.",
+      "image": "images/2026-11-15/fisker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler vind og vær."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Uavhengig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Havglad",
+          "text": "Hjemme ved sjøen."
+        }
+      ]
+    }
+  ]
+}

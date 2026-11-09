@@ -1,0 +1,708 @@
+{
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "title": "Hvilken dans er du i dag?",
+  "intro": "Er du en elegant vals, en sprudlende samba eller en sprek halling? Svar på sju spørsmål og finn ut hvilken dans du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken badeplass liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang sandstrand i varmen",
+          "scores": {
+            "samba": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Svaberg ved sjøen",
+          "scores": {
+            "halling": 2,
+            "linedance": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Liten innsjø i skogen",
+          "scores": {
+            "ballett": 2,
+            "vals": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Basseng med vannsklie",
+          "scores": {
+            "swing": 2,
+            "disco": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Brygge midt i byen",
+          "scores": {
+            "hiphop": 2,
+            "tango": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bade? Jeg blir heller på land",
+          "scores": {
+            "stepp": 2,
+            "flamenco": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det blir strømbrudd en kveld. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner masse stearinlys og koser meg",
+          "scores": {
+            "vals": 2,
+            "tango": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner fram et kortspill",
+          "scores": {
+            "stepp": 2,
+            "swing": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Banker på hos naboen",
+          "scores": {
+            "salsa": 2,
+            "linedance": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar på hodelykt og går en tur",
+          "scores": {
+            "halling": 2,
+            "hiphop": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Synger og spiller musikk på mobilen",
+          "scores": {
+            "disco": 2,
+            "samba": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket måltid er dagens beste?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolig frokost med kaffe",
+          "scores": {
+            "ballett": 2,
+            "vals": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lunsj ute med venner",
+          "scores": {
+            "salsa": 2,
+            "swing": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Middag rundt et stort bord",
+          "scores": {
+            "linedance": 2,
+            "flamenco": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kveldsmat i sofaen",
+          "scores": {
+            "stepp": 2,
+            "hiphop": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sen middag på restaurant",
+          "scores": {
+            "tango": 2,
+            "disco": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grillmat i sola",
+          "scores": {
+            "samba": 2,
+            "stepp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags bilde vil du helst ha på veggen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort, fargerikt maleri",
+          "scores": {
+            "flamenco": 2,
+            "samba": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et svart-hvitt fotografi",
+          "scores": {
+            "tango": 2,
+            "ballett": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En plakat fra en konsert",
+          "scores": {
+            "disco": 2,
+            "hiphop": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et landskap fra fjellet",
+          "scores": {
+            "halling": 2,
+            "linedance": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gamle familiebilder",
+          "scores": {
+            "swing": 2,
+            "flamenco": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du vinner en liten konkurranse. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jubler høyt og klemmer alle",
+          "scores": {
+            "samba": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler og takker pent",
+          "scores": {
+            "vals": 2,
+            "ballett": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spanderer på de andre",
+          "scores": {
+            "linedance": 2,
+            "swing": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en liten seiersdans",
+          "scores": {
+            "stepp": 2,
+            "disco": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Begynner å øve til neste gang",
+          "scores": {
+            "ballett": 2,
+            "halling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar det synes at jeg er stolt",
+          "scores": {
+            "flamenco": 2,
+            "tango": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken stol sitter du helst i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En dyp lenestol med pledd",
+          "scores": {
+            "vals": 2,
+            "linedance": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En sakkosekk på gulvet",
+          "scores": {
+            "hiphop": 2,
+            "stepp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En gyngestol på verandaen",
+          "scores": {
+            "swing": 2,
+            "halling": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En barkrakk ved kjøkkenbenken",
+          "scores": {
+            "disco": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stilig designstol",
+          "scores": {
+            "flamenco": 2,
+            "tango": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En hengekøye",
+          "scores": {
+            "samba": 2,
+            "ballett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du er på konsert. Hvor står du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt foran ved scenen",
+          "scores": {
+            "flamenco": 2,
+            "disco": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midt i mengden med vennene",
+          "scores": {
+            "salsa": 2,
+            "samba": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bakerst, der det er god plass",
+          "scores": {
+            "linedance": 2,
+            "stepp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en god sitteplass",
+          "scores": {
+            "ballett": 2,
+            "tango": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Der lyden er best",
+          "scores": {
+            "hiphop": 2,
+            "swing": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved utgangen, klar til å gå tidlig",
+          "scores": {
+            "halling": 2,
+            "linedance": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "vals",
+      "name": "Vals",
+      "shareName": "vals",
+      "emoji": null,
+      "description": "Du er vals, myk og elegant, og du tar ting i ditt eget rolige tempo. Du liker det klassiske og får folk til å føle seg trygge.",
+      "funFact": "Johann Strauss den yngre skrev den kjente valsen «An der schönen blauen Donau» i 1866–67.",
+      "image": "images/2026-11-14/vals.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Beveger deg med ro."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker levende lys."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Setter pris på tradisjoner."
+        },
+        {
+          "title": "Trygg",
+          "text": "Folk slapper av rundt deg."
+        }
+      ]
+    },
+    {
+      "id": "tango",
+      "name": "Tango",
+      "shareName": "tango",
+      "emoji": null,
+      "description": "Du er tango, stilig og intens, og du gjør ting helhjertet. Når du først bestemmer deg, går du all in.",
+      "funFact": "Tangoen oppsto i Buenos Aires og Montevideo på slutten av 1800-tallet og ble UNESCO-kulturarv i 2009.",
+      "image": "images/2026-11-14/tango.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilig",
+          "text": "Alltid litt elegant kledd."
+        },
+        {
+          "title": "Intens",
+          "text": "Gjør alt helhjertet."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for det du liker."
+        }
+      ]
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "shareName": "salsa",
+      "emoji": null,
+      "description": "Du er salsa, varm og sosial, og du får alle med deg ut på gulvet. Der du er, blir det fort god stemning.",
+      "funFact": "Salsa vokste fram i New York på 1960- og 70-tallet, med røtter i kubansk musikk.",
+      "image": "images/2026-11-14/salsa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker å være med folk."
+        },
+        {
+          "title": "Varm",
+          "text": "Smitter med godt humør."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja til eventyr."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har alltid krefter igjen."
+        }
+      ]
+    },
+    {
+      "id": "hiphop",
+      "name": "Hiphopdans",
+      "shareName": "hiphopdans",
+      "emoji": null,
+      "description": "Du er hiphopdans, kreativ og selvsikker, med din helt egen stil. Du liker å finne på nye ting og gjør dem på din måte.",
+      "funFact": "Hiphop som kultur oppsto i Bronx i New York på 1970-tallet.",
+      "image": "images/2026-11-14/hiphop.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Finner alltid nye løsninger."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Står for egen stil."
+        },
+        {
+          "title": "Kul",
+          "text": "Rolig når andre stresser."
+        },
+        {
+          "title": "Urban",
+          "text": "Trives i byens puls."
+        }
+      ]
+    },
+    {
+      "id": "ballett",
+      "name": "Ballett",
+      "shareName": "ballett",
+      "emoji": null,
+      "description": "Du er ballett, presis og drømmende på én gang. Du øver til ting sitter, og gjør det vanskelige til å se lett ut.",
+      "funFact": "Ballett oppsto ved italienske hoff under renessansen og ble videreutviklet i Frankrike, derfor er ballettordene franske.",
+      "image": "images/2026-11-14/ballett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Gjør ting ordentlig."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har mye fantasi."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Grasiøs",
+          "text": "Får vanskelige ting lette."
+        }
+      ]
+    },
+    {
+      "id": "swing",
+      "name": "Swing",
+      "shareName": "swing",
+      "emoji": null,
+      "description": "Du er swing, leken og glad, med sans for det gamle og sjarmerende. Du ler lett og får andre til å le også.",
+      "funFact": "Lindy hop, en av de mest kjente swingdansene, oppsto i Harlem i New York på slutten av 1920-tallet.",
+      "image": "images/2026-11-14/swing.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner moro i alt."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Retro",
+          "text": "Elsker gamle ting."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å bli glad i."
+        }
+      ]
+    },
+    {
+      "id": "halling",
+      "name": "Halling",
+      "shareName": "halling",
+      "emoji": null,
+      "description": "Du er halling, sprek og modig, og du er ikke redd for å vise hva du kan. Du er stolt av hvor du kommer fra.",
+      "funFact": "I hallingkast prøver danseren å sparke ned en hatt som holdes høyt opp på en stang.",
+      "image": "images/2026-11-14/halling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Elsker å være i aktivitet."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Stolt",
+          "text": "Glad i røttene dine."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Liker natur og tradisjon."
+        }
+      ]
+    },
+    {
+      "id": "linedance",
+      "name": "Linedance",
+      "shareName": "linedance",
+      "emoji": null,
+      "description": "Du er linedance, inkluderende og avslappet, og alle er velkomne der du er. Du liker fellesskap mer enn å stå i sentrum.",
+      "funFact": "I linedance danser alle de samme trinnene på rekker, så man trenger ingen partner.",
+      "image": "images/2026-11-14/linedance.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Inkluderende",
+          "text": "Alle får være med."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Trofast",
+          "text": "Stiller opp hver gang."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Hilser på alle."
+        }
+      ]
+    },
+    {
+      "id": "disco",
+      "name": "Disco",
+      "shareName": "disco",
+      "emoji": null,
+      "description": "Du er disco, glitrende og festlig, og du elsker en god kveld ute. Du er ikke redd for litt glitter og oppmerksomhet.",
+      "funFact": "Filmen «Saturday Night Fever» fra 1977 gjorde discodansen verdenskjent.",
+      "image": "images/2026-11-14/disco.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager fest av hverdagen."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Elsker litt glamour."
+        },
+        {
+          "title": "Utadvendt",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Glad i gamle hits."
+        }
+      ]
+    },
+    {
+      "id": "flamenco",
+      "name": "Flamenco",
+      "shareName": "flamenco",
+      "emoji": null,
+      "description": "Du er flamenco, uttrykksfull og stolt, og du viser tydelig hva du føler. Folk merker godt når du er til stede.",
+      "funFact": "Flamenco kommer fra Andalucía i Sør-Spania og ble UNESCO-kulturarv i 2010.",
+      "image": "images/2026-11-14/flamenco.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser følelsene dine."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står rakrygget."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står i stormen."
+        }
+      ]
+    },
+    {
+      "id": "samba",
+      "name": "Samba",
+      "shareName": "samba",
+      "emoji": null,
+      "description": "Du er samba, solfylt og sprudlende, og du elsker farger og musikk. Du gjør enhver dag litt mer som en sommerdag.",
+      "funFact": "Samba er hjertet i karnevalet i Rio de Janeiro, der sambaskoler konkurrerer med store opptog.",
+      "image": "images/2026-11-14/samba.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solfylt",
+          "text": "Sprer varme rundt deg."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Elsker sterke farger."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Har musikken i kroppen."
+        }
+      ]
+    },
+    {
+      "id": "stepp",
+      "name": "Steppdans",
+      "shareName": "steppdans",
+      "emoji": null,
+      "description": "Du er steppdans, rytmisk og morsom, og du har alltid en liten vits på lur. Du liker å få ting til å stemme helt.",
+      "funFact": "Steppesko har metallplater under hæl og tå, slik at føttene blir til et slagverk.",
+      "image": "images/2026-11-14/stepp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rytmisk",
+          "text": "Tromme i fingrene."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har alltid en vits."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Liker når alt stemmer."
+        },
+        {
+          "title": "Lekende",
+          "text": "Gjør hverdagen til show."
+        }
+      ]
+    }
+  ]
+}

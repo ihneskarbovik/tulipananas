@@ -1,0 +1,716 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "title": "Hvilket brettspill er du i dag?",
+  "intro": "Er du et strategisk sjakkparti, en lattermild runde Pictionary eller et klassisk Ludo? Svar på sju spørsmål og finn ut hvilket brettspill du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken vinteraktivitet liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang skitur i skogen",
+          "scores": {
+            "sjakk": 2,
+            "dam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Aking med venner",
+          "scores": {
+            "pictionary": 2,
+            "ludo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skøyter på et islagt vann",
+          "scores": {
+            "kinasjakk": 2,
+            "stigespill": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Slalåm i full fart",
+          "scores": {
+            "afrikas": 2,
+            "monopol": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bygge snømann",
+          "scores": {
+            "ludo": 2,
+            "catan": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Inne med en bok og kakao",
+          "scores": {
+            "scrabble": 2,
+            "cluedo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det kommer en uventet pakke til deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "River den opp med en gang",
+          "scores": {
+            "stigespill": 2,
+            "pictionary": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver å gjette hva det er først",
+          "scores": {
+            "cluedo": 2,
+            "trivial": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Venter til jeg har god tid",
+          "scores": {
+            "sjakk": 2,
+            "scrabble": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Viser den fram til alle",
+          "scores": {
+            "kinasjakk": 2,
+            "pictionary": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer på hvem som har sendt den",
+          "scores": {
+            "afrikas": 2,
+            "cluedo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Åpner den forsiktig og sparer papiret",
+          "scores": {
+            "dam": 2,
+            "catan": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken båttur vil du helst ta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seilbåt langs kysten",
+          "scores": {
+            "catan": 2,
+            "afrikas": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hurtigruten nordover",
+          "scores": {
+            "trivial": 2,
+            "dam": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kano på en stille elv",
+          "scores": {
+            "stigespill": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ferje til en ny by",
+          "scores": {
+            "afrikas": 2,
+            "kinasjakk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Speedbåt i fart",
+          "scores": {
+            "pictionary": 2,
+            "monopol": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket kjøkkenapparat bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaffetrakteren",
+          "scores": {
+            "cluedo": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vaffeljernet",
+          "scores": {
+            "ludo": 2,
+            "stigespill": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blenderen",
+          "scores": {
+            "pictionary": 2,
+            "kinasjakk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøkkenmaskinen til baking",
+          "scores": {
+            "catan": 2,
+            "scrabble": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vannkokeren til te",
+          "scores": {
+            "dam": 2,
+            "scrabble": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Brødristeren",
+          "scores": {
+            "trivial": 2,
+            "dam": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du kommer altfor tidlig til en avtale. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser meg rundt og legger merke til ting",
+          "scores": {
+            "cluedo": 2,
+            "afrikas": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Løser kryssord på mobilen",
+          "scores": {
+            "scrabble": 2,
+            "trivial": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går en ekstra runde rundt kvartalet",
+          "scores": {
+            "stigespill": 2,
+            "ludo": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Planlegger resten av uka",
+          "scores": {
+            "monopol": 2,
+            "catan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Begynner å prate med noen",
+          "scores": {
+            "kinasjakk": 2,
+            "pictionary": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter rolig på stedet",
+          "scores": {
+            "dam": 2,
+            "sjakk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du helst på telefonen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiller quiz",
+          "scores": {
+            "monopol": 2,
+            "trivial": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser på morsomme videoer",
+          "scores": {
+            "pictionary": 2,
+            "ludo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser nyheter",
+          "scores": {
+            "trivial": 2,
+            "sjakk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hører på krimpodkast",
+          "scores": {
+            "cluedo": 2,
+            "scrabble": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sender meldinger til venner",
+          "scores": {
+            "catan": 2,
+            "kinasjakk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser på reisebilder",
+          "scores": {
+            "afrikas": 2,
+            "stigespill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gleder du deg mest til i desember?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å pynte og gjøre det koselig",
+          "scores": {
+            "ludo": 2,
+            "dam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Julebordet og alt det sosiale",
+          "scores": {
+            "catan": 2,
+            "kinasjakk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å finne den perfekte gaven",
+          "scores": {
+            "monopol": 2,
+            "cluedo": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lange kvelder med film og spill",
+          "scores": {
+            "stigespill": 2,
+            "trivial": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Julemusikk og gamle tradisjoner",
+          "scores": {
+            "dam": 2,
+            "afrikas": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å lese og slappe av",
+          "scores": {
+            "scrabble": 2,
+            "sjakk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "monopol",
+      "name": "Monopol",
+      "shareName": "Monopol",
+      "emoji": null,
+      "description": "Du er Monopol, ambisiøs og målrettet, og du elsker en god plan. Du gir deg ikke før du har nådd målet.",
+      "funFact": "Monopol bygger på «The Landlord's Game», som Lizzie Magie fikk patent på i 1904.",
+      "image": "images/2026-11-16/monopol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt."
+        },
+        {
+          "title": "Strategisk",
+          "text": "Tenker mange trekk fram."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Spiller til siste slutt."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Tror på planen din."
+        }
+      ]
+    },
+    {
+      "id": "ludo",
+      "name": "Ludo",
+      "shareName": "Ludo",
+      "emoji": null,
+      "description": "Du er Ludo, glad og enkel å bli med på, og du passer for alle. Du tar både medgang og motgang med et smil.",
+      "funFact": "Ludo stammer fra det indiske spillet pachisi, som er flere hundre år gammelt.",
+      "image": "images/2026-11-16/ludo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Inkluderende",
+          "text": "Alle kan være med."
+        },
+        {
+          "title": "Glad",
+          "text": "Ler både av seier og tap."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri gått av moten."
+        },
+        {
+          "title": "Lekende",
+          "text": "Barnlig på en god måte."
+        }
+      ]
+    },
+    {
+      "id": "sjakk",
+      "name": "Sjakk",
+      "shareName": "sjakk",
+      "emoji": null,
+      "description": "Du er sjakk, rolig og gjennomtenkt, og du ser ting andre ikke ser. Du tenker før du handler.",
+      "funFact": "Magnus Carlsen ble verdensmester i sjakk første gang i 2013.",
+      "image": "images/2026-11-16/sjakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjennomtenkt",
+          "text": "Tenker før du handler."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite stresser deg."
+        },
+        {
+          "title": "Smart",
+          "text": "Ser løsninger tidlig."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på riktig øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "scrabble",
+      "name": "Scrabble",
+      "shareName": "Scrabble",
+      "emoji": null,
+      "description": "Du er Scrabble, ordrik og kvikk, og du elsker språk og gode formuleringer. Du finner alltid det rette ordet.",
+      "funFact": "Scrabble ble funnet opp av den amerikanske arkitekten Alfred Mosher Butts på 1930-tallet.",
+      "image": "images/2026-11-16/scrabble.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordrik",
+          "text": "Har alltid rett ord."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Tenker raskt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Elsker å lære."
+        },
+        {
+          "title": "Presis",
+          "text": "Bryr deg om detaljer."
+        }
+      ]
+    },
+    {
+      "id": "kinasjakk",
+      "name": "Kinasjakk",
+      "shareName": "kinasjakk",
+      "emoji": null,
+      "description": "Du er kinasjakk, fargerik og fleksibel, og du finner alltid nye veier fram. Du hopper gjerne over hindringer.",
+      "funFact": "Kinasjakk kommer ikke fra Kina, men ble laget i Tyskland på 1890-tallet under navnet Stern-Halma.",
+      "image": "images/2026-11-16/kinasjakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Finner nye veier."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Sosial",
+          "text": "Jo flere, jo bedre."
+        },
+        {
+          "title": "Løsningsorientert",
+          "text": "Hopper over hindringer."
+        }
+      ]
+    },
+    {
+      "id": "trivial",
+      "name": "Trivial Pursuit",
+      "shareName": "Trivial Pursuit",
+      "emoji": null,
+      "description": "Du er Trivial Pursuit, kunnskapsrik og nysgjerrig, og du har alltid en fun fact på lur. Du elsker å lære noe nytt hver dag.",
+      "funFact": "Trivial Pursuit ble funnet opp av to kanadiere i Montreal i 1979.",
+      "image": "images/2026-11-16/trivial.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kunnskapsrik",
+          "text": "Vet litt om alt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør mye."
+        },
+        {
+          "title": "Konkurranselysten",
+          "text": "Liker å vinne."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Har alltid en historie."
+        }
+      ]
+    },
+    {
+      "id": "cluedo",
+      "name": "Cluedo",
+      "shareName": "Cluedo",
+      "emoji": null,
+      "description": "Du er Cluedo, skarp og observant, og du legger merke til små detaljer. Du elsker et godt mysterium.",
+      "funFact": "Cluedo ble laget av engelskmannen Anthony E. Pratt og kom ut i 1949.",
+      "image": "images/2026-11-16/cluedo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Observant",
+          "text": "Ser alle detaljer."
+        },
+        {
+          "title": "Skarp",
+          "text": "Løser gåter raskt."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Elsker hemmeligheter."
+        },
+        {
+          "title": "Logisk",
+          "text": "Tenker steg for steg."
+        }
+      ]
+    },
+    {
+      "id": "afrikas",
+      "name": "Afrikas stjerne",
+      "shareName": "Afrikas stjerne",
+      "emoji": null,
+      "description": "Du er Afrikas stjerne, eventyrlysten og optimistisk, og du drømmer om fjerne steder. Du tror alltid at lykken venter rundt neste sving.",
+      "funFact": "Afrikas stjerne ble laget av den finske designeren Kari Mannerla og kom ut i 1951.",
+      "image": "images/2026-11-16/afrikas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se hele verden."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Tror på flaks."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Glad i gamle minner."
+        }
+      ]
+    },
+    {
+      "id": "catan",
+      "name": "Catan",
+      "shareName": "Catan",
+      "emoji": null,
+      "description": "Du er Catan, sosial og strategisk, og du er god til å forhandle. Du bygger noe stort sammen med andre.",
+      "funFact": "Catan ble laget av tyskeren Klaus Teuber og kom ut i 1995.",
+      "image": "images/2026-11-16/catan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Strategisk",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker å forhandle."
+        },
+        {
+          "title": "Byggende",
+          "text": "Skaper noe fra bunnen."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Vil at alle får sitt."
+        }
+      ]
+    },
+    {
+      "id": "stigespill",
+      "name": "Stigespill",
+      "shareName": "stigespillet",
+      "emoji": null,
+      "description": "Du er stigespillet, avslappet og positiv, og du tar livets opp- og nedturer med godt humør. Du vet at det snart går oppover igjen.",
+      "funFact": "Stigespillet har røtter i et gammelt indisk spill kalt moksha patam.",
+      "image": "images/2026-11-16/stigespill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på det."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite for å kose deg."
+        },
+        {
+          "title": "Robust",
+          "text": "Reiser deg igjen."
+        }
+      ]
+    },
+    {
+      "id": "dam",
+      "name": "Dam",
+      "shareName": "dam",
+      "emoji": null,
+      "description": "Du er dam, enkel og ærlig, og du liker ting som er greie og tydelige. Du er stødig og trofast.",
+      "funFact": "Vanlig dam spilles på et brett med 64 ruter, akkurat som sjakk.",
+      "image": "images/2026-11-16/dam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det kjente."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder blikket på målet."
+        }
+      ]
+    },
+    {
+      "id": "pictionary",
+      "name": "Pictionary",
+      "shareName": "Pictionary",
+      "emoji": null,
+      "description": "Du er Pictionary, kreativ og morsom, og du får hele rommet til å le. Du forklarer gjerne med hendene.",
+      "funFact": "Pictionary ble laget av amerikaneren Robert Angel og kom ut i 1985.",
+      "image": "images/2026-11-16/pictionary.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Har fantasi i massevis."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Utadvendt",
+          "text": "Tar gjerne ordet."
+        },
+        {
+          "title": "Spontan",
+          "text": "Kaster deg ut i ting."
+        }
+      ]
+    }
+  ]
+}
