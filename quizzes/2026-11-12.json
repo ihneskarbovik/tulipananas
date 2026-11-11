@@ -12,16 +12,16 @@
           "id": "a",
           "text": "Sjakk",
           "scores": {
-            "haakon7": 2,
-            "sonja": 1
+            "sonja": 1,
+            "marius": 1
           }
         },
         {
           "id": "b",
           "text": "Uno",
           "scores": {
-            "sverre": 1,
-            "olav": 1
+            "sverre": 2,
+            "marius": 1
           }
         },
         {
@@ -37,7 +37,7 @@
           "text": "Ludo",
           "scores": {
             "harald": 2,
-            "olav": 2
+            "durek": 1
           }
         },
         {
@@ -66,14 +66,15 @@
           "id": "a",
           "text": "Går bort og hilser med en gang",
           "scores": {
-            "olav": 2,
-            "haakon7": 1
+            "durek": 2,
+            "ingrid": 1
           }
         },
         {
           "id": "b",
           "text": "Venter til noen andre tar første steg",
           "scores": {
+            "marius": 2,
             "sverre": 1
           }
         },
@@ -104,8 +105,8 @@
           "id": "f",
           "text": "Forteller litt om meg selv og hva jeg liker",
           "scores": {
-            "marthalouise": 1,
-            "maud": 1
+            "marthalouise": 2,
+            "maud": 2
           }
         }
       ]
@@ -118,8 +119,8 @@
           "id": "a",
           "text": "Ørn",
           "scores": {
-            "haakon7": 2,
-            "haakon": 1
+            "haakon": 2,
+            "marius": 1
           }
         },
         {
@@ -142,7 +143,7 @@
           "id": "d",
           "text": "Kjøttmeis",
           "scores": {
-            "olav": 2,
+            "sverre": 2,
             "mettemarit": 1
           }
         },
@@ -150,8 +151,8 @@
           "id": "e",
           "text": "Påfugl",
           "scores": {
-            "marthalouise": 1,
-            "maud": 1
+            "durek": 2,
+            "marthalouise": 1
           }
         },
         {
@@ -189,23 +190,23 @@
           "text": "Forbereder meg så godt jeg kan",
           "scores": {
             "ingrid": 2,
-            "haakon7": 1
+            "haakon": 1
           }
         },
         {
           "id": "d",
           "text": "Gjør det med en gang for å få det unna",
           "scores": {
-            "haakon7": 2,
-            "maud": 2
+            "maud": 2,
+            "marius": 1
           }
         },
         {
           "id": "e",
           "text": "Tenker at det sikkert går fint",
           "scores": {
-            "sverre": 1,
-            "olav": 1
+            "durek": 2,
+            "sverre": 1
           }
         },
         {
@@ -235,7 +236,7 @@
           "text": "Katt",
           "scores": {
             "marthalouise": 2,
-            "sverre": 1
+            "durek": 1
           }
         },
         {
@@ -258,7 +259,7 @@
           "text": "Akvariefisk",
           "scores": {
             "sonja": 2,
-            "sverre": 1
+            "marius": 1
           }
         }
       ]
@@ -271,15 +272,15 @@
           "id": "a",
           "text": "Sparer alt",
           "scores": {
-            "haakon": 2,
-            "haakon7": 1
+            "marius": 2,
+            "haakon": 1
           }
         },
         {
           "id": "b",
           "text": "Spanderer noe godt på vennene mine",
           "scores": {
-            "olav": 2,
+            "durek": 2,
             "mettemarit": 1
           }
         },
@@ -311,8 +312,8 @@
           "id": "f",
           "text": "Gir noe til en innsamling",
           "scores": {
-            "haakon7": 2,
-            "harald": 1
+            "harald": 2,
+            "mettemarit": 1
           }
         }
       ]
@@ -334,7 +335,7 @@
           "text": "Hvor mye bursdagsbarnet betyr for alle",
           "scores": {
             "mettemarit": 2,
-            "haakon7": 2
+            "durek": 2
           }
         },
         {
@@ -357,7 +358,7 @@
           "id": "e",
           "text": "Jeg holder den kort og takker for maten",
           "scores": {
-            "olav": 2,
+            "marius": 2,
             "ingrid": 1
           }
         },
@@ -458,6 +459,34 @@
       ]
     },
     {
+      "id": "marius",
+      "name": "Marius Borg Høiby",
+      "shareName": "Marius Borg Høiby",
+      "emoji": null,
+      "description": "Du er Marius Borg Høiby, og du gjør ting på din egen måte. Du liker å holde deg litt unna rampelyset.",
+      "funFact": "Marius Borg Høiby ble født 13. januar 1997, og er Dronning Mette-Marits eldste sønn. Han har ingen kongelig tittel.",
+      "image": "images/2026-11-12/marius.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Går sine egne veier."
+        },
+        {
+          "title": "Privat",
+          "text": "Holder seg utenfor rampelyset."
+        },
+        {
+          "title": "Storebror",
+          "text": "Eldst av søsknene."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        }
+      ]
+    },
+    {
       "id": "sverre",
       "name": "Prins Sverre Magnus",
       "shareName": "Prins Sverre Magnus",
@@ -542,6 +571,34 @@
       ]
     },
     {
+      "id": "durek",
+      "name": "Durek Verrett",
+      "shareName": "Durek Verrett",
+      "emoji": null,
+      "description": "Du er Durek Verrett, og du er fargerik, varm og full av energi. Du er ikke redd for å skille deg ut, og du sier gjerne til folk at du er glad i dem.",
+      "funFact": "Durek Verrett kommer fra California i USA. Han giftet seg med Prinsesse Märtha Louise i Geiranger 31. august 2024.",
+      "image": "images/2026-11-12/durek.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Kler seg i sterke farger."
+        },
+        {
+          "title": "Varm",
+          "text": "Viser følelser åpent."
+        },
+        {
+          "title": "Utadvendt",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Tror på stor kjærlighet."
+        }
+      ]
+    },
+    {
       "id": "harald",
       "name": "Kong Harald V",
       "shareName": "Kong Harald V",
@@ -566,62 +623,6 @@
         {
           "title": "Sjømann",
           "text": "Hjemme på havet."
-        }
-      ]
-    },
-    {
-      "id": "olav",
-      "name": "Kong Olav V",
-      "shareName": "Kong Olav V",
-      "emoji": null,
-      "description": "Du er Kong Olav V, folkekongen. Du er sporty, hjertelig og helt uten jåleri, og du tar gjerne trikken som alle andre.",
-      "funFact": "Kong Olav vant olympisk gull i seiling i 1928 i Amsterdam, med båten Norna i 6-meterklassen.",
-      "image": "images/2026-11-12/olav.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Folkelig",
-          "text": "Tar trikken som alle."
-        },
-        {
-          "title": "Sporty",
-          "text": "Vinner gjerne gull."
-        },
-        {
-          "title": "Hjertelig",
-          "text": "Varm mot alle."
-        },
-        {
-          "title": "Beskjeden",
-          "text": "Ingen jåleri her."
-        }
-      ]
-    },
-    {
-      "id": "haakon7",
-      "name": "Kong Haakon VII",
-      "shareName": "Kong Haakon VII",
-      "emoji": null,
-      "description": "Du er Kong Haakon VII, den første kongen i det selvstendige Norge. Du er prinsippfast og modig, og du står ved det du tror på.",
-      "funFact": "Kong Haakon VII ble Norges konge i 1905, og det var han som først valgte valgspråket «Alt for Norge».",
-      "image": "images/2026-11-12/haakon7.jpg",
-      "imageCredit": null,
-      "traits": [
-        {
-          "title": "Prinsippfast",
-          "text": "Sier nei når det trengs."
-        },
-        {
-          "title": "Modig",
-          "text": "Står i stormen."
-        },
-        {
-          "title": "Samlende",
-          "text": "Samler hele folket."
-        },
-        {
-          "title": "Pliktoppfyllende",
-          "text": "Alt for Norge."
         }
       ]
     },
