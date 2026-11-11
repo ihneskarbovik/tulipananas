@@ -1,0 +1,725 @@
+{
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "title": "Hvilket hus er du i dag?",
+  "intro": "Noen hus står stødig ved havet, andre ruller av gårde på hjul. Svar på sju spørsmål og finn ut hvilket hus du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken årstid liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vinter med mye snø",
+          "scores": {
+            "igloo": 2,
+            "pepperkakehus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Våren, når alt begynner å spire",
+          "scores": {
+            "laave": 2,
+            "trehytte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sommer med lange, lyse kvelder",
+          "scores": {
+            "telt": 2,
+            "husbat": 1,
+            "campingvogn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Høsten, med klar luft og fine farger",
+          "scores": {
+            "hytte": 2,
+            "stabbur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Senhøst med storm utenfor vinduet",
+          "scores": {
+            "rorbu": 2,
+            "fyrtarn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Advent og førjulstid",
+          "scores": {
+            "pepperkakehus": 2,
+            "slott": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Planene dine blir avlyst i siste liten. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finner på noe nytt med en gang",
+          "scores": {
+            "campingvogn": 2,
+            "trehytte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Koser meg hjemme under et pledd",
+          "scores": {
+            "hytte": 2,
+            "igloo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer noen andre hjem til meg",
+          "scores": {
+            "slott": 2,
+            "rorbu": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går en lang tur ute",
+          "scores": {
+            "telt": 2,
+            "fyrtarn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør ferdig ting jeg har utsatt",
+          "scores": {
+            "stabbur": 2,
+            "laave": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Baker noe godt",
+          "scores": {
+            "pepperkakehus": 2,
+            "husbat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken dessert velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjokoladekake",
+          "scores": {
+            "slott": 2,
+            "trehytte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Is med jordbær",
+          "scores": {
+            "husbat": 2,
+            "campingvogn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Riskrem",
+          "scores": {
+            "stabbur": 2,
+            "pepperkakehus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Eplekake med vaniljesaus",
+          "scores": {
+            "laave": 2,
+            "rorbu": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vafler med syltetøy",
+          "scores": {
+            "hytte": 2,
+            "igloo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grillet banan med sjokolade",
+          "scores": {
+            "telt": 2,
+            "trehytte": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "En venn er lei seg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lytter så lenge det trengs",
+          "scores": {
+            "fyrtarn": 2,
+            "stabbur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar med vennen ut i frisk luft",
+          "scores": {
+            "telt": 2,
+            "laave": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe godt å spise",
+          "scores": {
+            "pepperkakehus": 2,
+            "stabbur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Får vennen til å le",
+          "scores": {
+            "trehytte": 2,
+            "campingvogn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sender en lang, fin melding",
+          "scores": {
+            "husbat": 2,
+            "slott": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Samler flere venner til en hyggelig kveld",
+          "scores": {
+            "slott": 2,
+            "rorbu": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags musikk hører du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolige viser",
+          "scores": {
+            "hytte": 2,
+            "fyrtarn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pop man kan synge med på",
+          "scores": {
+            "campingvogn": 2,
+            "slott": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klassisk musikk",
+          "scores": {
+            "slott": 2,
+            "igloo": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Folkemusikk med fele",
+          "scores": {
+            "laave": 2,
+            "stabbur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Allsang med venner",
+          "scores": {
+            "rorbu": 2,
+            "fyrtarn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Musikk fra filmer og musikaler",
+          "scores": {
+            "trehytte": 2,
+            "pepperkakehus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har en ledig ettermiddag. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går en tur langs sjøen",
+          "scores": {
+            "fyrtarn": 2,
+            "husbat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder og sorterer",
+          "scores": {
+            "stabbur": 2,
+            "igloo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Snekrer eller bygger noe",
+          "scores": {
+            "laave": 2,
+            "trehytte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjører et sted jeg aldri har vært",
+          "scores": {
+            "campingvogn": 2,
+            "telt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fisker fra brygga med venner",
+          "scores": {
+            "rorbu": 2,
+            "husbat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Leser en bok under et pledd",
+          "scores": {
+            "igloo": 2,
+            "hytte": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken filmsjanger liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eventyrfilm",
+          "scores": {
+            "trehytte": 2,
+            "telt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Romantisk komedie",
+          "scores": {
+            "pepperkakehus": 2,
+            "slott": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Naturdokumentar",
+          "scores": {
+            "igloo": 2,
+            "telt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Krim og mysterier",
+          "scores": {
+            "fyrtarn": 2,
+            "stabbur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Film om en lang reise",
+          "scores": {
+            "campingvogn": 2,
+            "husbat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Varm familiefilm",
+          "scores": {
+            "laave": 2,
+            "hytte": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "husbat",
+      "name": "Husbåt",
+      "shareName": "en husbåt",
+      "emoji": null,
+      "description": "Du er avslappet og liker å ha frihet til å flytte på deg. Du trives nær vannet og har en kreativ og litt annerledes stil.",
+      "funFact": "I kanalene i Amsterdam ligger det rundt 2500 husbåter.",
+      "image": "images/2026-11-18/husbat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Ikke bundet til ett sted."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar livet som det kommer."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Har en egen stil."
+        },
+        {
+          "title": "Vannglad",
+          "text": "Trives best ved vann."
+        }
+      ]
+    },
+    {
+      "id": "fyrtarn",
+      "name": "Fyrtårn",
+      "shareName": "et fyrtårn",
+      "emoji": null,
+      "description": "Du er trofast og stødig, og andre vet at de kan stole på deg. Du holder utkikk og passer på at alle kommer trygt hjem.",
+      "funFact": "Lindesnes fyr er Norges eldste fyrstasjon. Det ble tent for første gang i 1656.",
+      "image": "images/2026-11-18/fyrtarn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid der for andre."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står rolig i stormen."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Viser andre veien."
+        },
+        {
+          "title": "Våken",
+          "text": "Holder utkikk hele natta."
+        }
+      ]
+    },
+    {
+      "id": "igloo",
+      "name": "Iglo",
+      "shareName": "en iglo",
+      "emoji": null,
+      "description": "Du er tøff og oppfinnsom, og klarer deg med det du har. Selv på kalde dager klarer du å gjøre det lunt rundt deg.",
+      "funFact": "Ordet iglo kommer fra inuittenes språk og betyr egentlig bare «hus».",
+      "image": "images/2026-11-18/igloo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler både kulde og motvind."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Bygger med det som finnes."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker stille, hvite dager."
+        },
+        {
+          "title": "Lun",
+          "text": "Varm innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "hytte",
+      "name": "Fjellhytte",
+      "shareName": "en fjellhytte",
+      "emoji": null,
+      "description": "Du er rolig og koselig, og trives best når det er enkelt. Hos deg er det alltid varmt i ovnen og plass til en til.",
+      "funFact": "Den Norske Turistforening ble stiftet i 1868 og har i dag flere hundre hytter over hele landet.",
+      "image": "images/2026-11-18/hytte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene hos andre."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Lader opp i fjellet."
+        },
+        {
+          "title": "Koselig",
+          "text": "Fyrer i ovnen."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye."
+        }
+      ]
+    },
+    {
+      "id": "rorbu",
+      "name": "Rorbu",
+      "shareName": "en rorbu",
+      "emoji": null,
+      "description": "Du er arbeidsom og ekte, og trives sammen med gode venner. Du elsker havet og har alltid en god historie å fortelle.",
+      "funFact": "Rorbuer ble bygd for fiskere som kom til Lofoten for skreifisket om vinteren.",
+      "image": "images/2026-11-18/rorbu.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står tidlig opp."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i godt lag."
+        },
+        {
+          "title": "Ekte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Sjøglad",
+          "text": "Har havet i blodet."
+        }
+      ]
+    },
+    {
+      "id": "slott",
+      "name": "Slott",
+      "shareName": "et slott",
+      "emoji": null,
+      "description": "Du er raus og gjestfri, og elsker å samle folk rundt et stort bord. Du liker tradisjoner og at ting blir gjort ordentlig.",
+      "funFact": "Det kongelige slott i Oslo sto ferdig i 1849 og har 173 rom.",
+      "image": "images/2026-11-18/slott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Har alltid plass til gjester."
+        },
+        {
+          "title": "Elegant",
+          "text": "Pynter seg gjerne litt."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne det beste."
+        },
+        {
+          "title": "Stolt",
+          "text": "Tar vare på tradisjoner."
+        }
+      ]
+    },
+    {
+      "id": "stabbur",
+      "name": "Stabbur",
+      "shareName": "et stabbur",
+      "emoji": null,
+      "description": "Du er ordentlig og godt forberedt, og har alltid litt ekstra i reserve. Du tar vare på det gamle og gjør hverdagen trygg for andre.",
+      "funFact": "Stabburet står på stolper, kalt stabber, slik at mus og fukt ikke skal komme inn til maten.",
+      "image": "images/2026-11-18/stabbur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forberedt",
+          "text": "Har alltid noe i reserve."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Trygg",
+          "text": "Andre stoler på deg."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gamle."
+        }
+      ]
+    },
+    {
+      "id": "trehytte",
+      "name": "Trehytte",
+      "shareName": "en trehytte",
+      "emoji": null,
+      "description": "Du er leken og fantasifull, og ser eventyr overalt. Du liker å klatre litt høyere enn andre for å se hva som finnes der.",
+      "funFact": "På Treehotel i Harads i Nord-Sverige kan man overnatte i hytter som henger oppe i trærne.",
+      "image": "images/2026-11-18/trehytte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner alltid på noe."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser eventyr overalt."
+        },
+        {
+          "title": "Modig",
+          "text": "Klatrer gjerne høyt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se litt lenger."
+        }
+      ]
+    },
+    {
+      "id": "pepperkakehus",
+      "name": "Pepperkakehus",
+      "shareName": "et pepperkakehus",
+      "emoji": null,
+      "description": "Du er søt og kreativ, og gjør alt litt hyggeligere rundt deg. Du elsker pynt, lukten av baking og tiden før jul.",
+      "funFact": "Pepperkakebyen i Bergen har blitt bygd hvert år siden 1991 og kalles ofte verdens største pepperkakeby.",
+      "image": "images/2026-11-18/pepperkakehus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Sprer glede rundt seg."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Pynter med stor fantasi."
+        },
+        {
+          "title": "Juleglad",
+          "text": "Gleder seg hele året."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        }
+      ]
+    },
+    {
+      "id": "campingvogn",
+      "name": "Campingvogn",
+      "shareName": "en campingvogn",
+      "emoji": null,
+      "description": "Du er reiseglad og spontan, og pakker gjerne bilen på kort varsel. Du blir kjent med nye folk overalt hvor du kommer.",
+      "funFact": "Den første campingvognen laget for ferieturer ble bygd i England i 1885.",
+      "image": "images/2026-11-18/campingvogn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Reiseglad",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Spontan",
+          "text": "Bestemmer seg underveis."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får plass til alt."
+        },
+        {
+          "title": "Utadvendt",
+          "text": "Blir kjent med naboene."
+        }
+      ]
+    },
+    {
+      "id": "telt",
+      "name": "Telt",
+      "shareName": "et telt",
+      "emoji": null,
+      "description": "Du er fleksibel og eventyrlysten, og trenger ikke mye for å ha det fint. Du sover gjerne under åpen himmel hvis du får sjansen.",
+      "funFact": "Lavvoen er et tradisjonelt samisk telt som kan settes opp og tas ned raskt.",
+      "image": "images/2026-11-18/telt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Trives nesten hvor som helst."
+        },
+        {
+          "title": "Enkel",
+          "text": "Klarer seg med lite."
+        },
+        {
+          "title": "Uredd",
+          "text": "Liker litt villmark."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid klar for tur."
+        }
+      ]
+    },
+    {
+      "id": "laave",
+      "name": "Låve",
+      "shareName": "en låve",
+      "emoji": null,
+      "description": "Du er jordnær og sterk, og liker å gjøre ting med hendene. Du har et stort hjerte, både for folk og for dyr.",
+      "funFact": "Mange låver har en låvebru, en rampe som gjorde at man kunne kjøre høylasset rett inn i andre etasje.",
+      "image": "images/2026-11-18/laave.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Står med beina på jorda."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye arbeid."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det som trengs."
+        },
+        {
+          "title": "Dyrevenn",
+          "text": "Har plass til alle."
+        }
+      ]
+    }
+  ]
+}
