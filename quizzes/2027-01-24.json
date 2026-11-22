@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-24",
+  "date": "2027-01-24",
+  "title": "Hvilket regnskogsdyr er du i dag?",
+  "intro": "Mens vi har vinter her, er det varmt og grønt i regnskogen. Er du et rolig dovendyr, en fargerik tukan eller en lur kameleon? Svar på sju spørsmål og finn ut hvilket regnskogsdyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du helst i et drivhus eller en botanisk hage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser på de største plantene",
+          "scores": {
+            "orangutang": 2,
+            "tapir": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leter etter de rareste blomstene",
+          "scores": {
+            "kameleon": 2,
+            "kolibri": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar bilder",
+          "scores": {
+            "tukan": 1,
+            "ara": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter meg ned og nyter varmen",
+          "scores": {
+            "dovendyr": 2,
+            "lemur": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser alle skiltene",
+          "scores": {
+            "orangutang": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Løper rundt og utforsker",
+          "scores": {
+            "jaguar": 1,
+            "giftfrosk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du vinner en konkurranse du ikke visste du var med i. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jubler høyt",
+          "scores": {
+            "tukan": 2,
+            "lemur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir mistenksom",
+          "scores": {
+            "kameleon": 2,
+            "giftfrosk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Deler premien med venner",
+          "scores": {
+            "ara": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir glad, men tar det rolig",
+          "scores": {
+            "dovendyr": 2,
+            "tapir": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller det til alle",
+          "scores": {
+            "tukan": 1,
+            "kolibri": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lurer på hvordan det skjedde",
+          "scores": {
+            "orangutang": 1,
+            "jaguar": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best med varme land?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å bade i varmt hav",
+          "scores": {
+            "jaguar": 1,
+            "tapir": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fargerike markeder",
+          "scores": {
+            "tukan": 2,
+            "ara": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Frukt rett fra treet",
+          "scores": {
+            "orangutang": 1,
+            "kolibri": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å slappe av i sola",
+          "scores": {
+            "dovendyr": 1,
+            "lemur": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å utforske ukjente steder",
+          "scores": {
+            "kameleon": 2,
+            "jaguar": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lune kvelder ute",
+          "scores": {
+            "giftfrosk": 2,
+            "lemur": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får lov til å bo i et annet klima i ett år. Hvilket velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varmt og fuktig, som i regnskogen",
+          "scores": {
+            "jaguar": 2,
+            "giftfrosk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Varmt og tørt, som i ørkenen",
+          "scores": {
+            "lemur": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Middelhavsklima",
+          "scores": {
+            "tukan": 1,
+            "kolibri": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kaldt og snørikt",
+          "scores": {
+            "orangutang": 2,
+            "tapir": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et sted med evig vår",
+          "scores": {
+            "ara": 2,
+            "kolibri": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg blir der jeg er",
+          "scores": {
+            "dovendyr": 1,
+            "tapir": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan reagerer du når noen klager hele tiden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lytter tålmodig",
+          "scores": {
+            "orangutang": 1,
+            "tapir": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier fra at det holder",
+          "scores": {
+            "giftfrosk": 2,
+            "jaguar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver å få dem til å se det positive",
+          "scores": {
+            "tukan": 2,
+            "lemur": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bytter tema",
+          "scores": {
+            "kameleon": 1,
+            "kolibri": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klager litt med",
+          "scores": {
+            "ara": 2,
+            "dovendyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Trekker meg unna",
+          "scores": {
+            "dovendyr": 1,
+            "jaguar": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva liker du best å gjøre i sola?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ligge helt stille",
+          "scores": {
+            "dovendyr": 2,
+            "lemur": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spille ball",
+          "scores": {
+            "kolibri": 1,
+            "jaguar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lese under en parasoll",
+          "scores": {
+            "orangutang": 1,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bade",
+          "scores": {
+            "jaguar": 1,
+            "tapir": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spise frukt",
+          "scores": {
+            "tukan": 2,
+            "ara": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finne skyggen",
+          "scores": {
+            "giftfrosk": 2,
+            "kameleon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva ville du helst gjort på en eksotisk ferie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Suset gjennom jungelen i taubane",
+          "scores": {
+            "kolibri": 2,
+            "jaguar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snorklet blant fisker",
+          "scores": {
+            "tapir": 2,
+            "giftfrosk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ligget på stranden",
+          "scores": {
+            "dovendyr": 2,
+            "lemur": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Besøkt markeder",
+          "scores": {
+            "tukan": 1,
+            "ara": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sett ville dyr på tur",
+          "scores": {
+            "orangutang": 2,
+            "kameleon": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klatret i fjellet",
+          "scores": {
+            "jaguar": 2,
+            "kameleon": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "dovendyr",
+      "name": "Dovendyr",
+      "shareName": "et dovendyr",
+      "emoji": null,
+      "description": "Du er rolig, avslappet og lar deg aldri stresse. Du vet at det er lov å ta ting sakte.",
+      "funFact": "Dovendyr beveger seg så sakte at det kan vokse alger i pelsen deres.",
+      "image": "images/2027-01-24/dovendyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Sakte og sikkert."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Glad for lite."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne."
+        }
+      ]
+    },
+    {
+      "id": "tukan",
+      "name": "Tukan",
+      "shareName": "en tukan",
+      "emoji": null,
+      "description": "Du er fargerik, sosial og lett å legge merke til. Du har alltid noe å si.",
+      "funFact": "Tukanens store nebb er lett fordi det er nesten hult inni.",
+      "image": "images/2027-01-24/tukan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Mye å si."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å smile."
+        }
+      ]
+    },
+    {
+      "id": "ara",
+      "name": "Ara",
+      "shareName": "en ara",
+      "emoji": null,
+      "description": "Du er klok, trofast og elsker å prate. Du har gode venner hele livet.",
+      "funFact": "Araer kan bli over 50 år gamle.",
+      "image": "images/2027-01-24/ara.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Venner for livet."
+        },
+        {
+          "title": "Klok",
+          "text": "Lærer mye."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Elsker å prate."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Full av farger."
+        }
+      ]
+    },
+    {
+      "id": "jaguar",
+      "name": "Jaguar",
+      "shareName": "en jaguar",
+      "emoji": null,
+      "description": "Du er sterk, selvstendig og målrettet. Du går dine egne veier og tør det andre ikke tør.",
+      "funFact": "Jaguaren er en god svømmer, i motsetning til mange andre katter.",
+      "image": "images/2027-01-24/jaguar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Egne veier."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør mye."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder blikket."
+        }
+      ]
+    },
+    {
+      "id": "orangutang",
+      "name": "Orangutang",
+      "shareName": "en orangutang",
+      "emoji": null,
+      "description": "Du er klok, omsorgsfull og glad i et koselig hjem. Du tenker deg om før du handler.",
+      "funFact": "Orangutanger bygger et nytt rede av blader hver kveld.",
+      "image": "images/2027-01-24/orangutang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Lager reir."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "giftfrosk",
+      "name": "Giftfrosk",
+      "shareName": "en giftfrosk",
+      "emoji": null,
+      "description": "Du er liten, men tydelig, og du sier fra når noe ikke er greit. Du har sterke farger og sterk personlighet.",
+      "funFact": "De sterke fargene på giftfrosker er en advarsel til andre dyr.",
+      "image": "images/2027-01-24/giftfrosk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier fra."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Sterke farger."
+        },
+        {
+          "title": "Liten",
+          "text": "Men tøff."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram."
+        }
+      ]
+    },
+    {
+      "id": "kameleon",
+      "name": "Kameleon",
+      "shareName": "en kameleon",
+      "emoji": null,
+      "description": "Du er tilpasningsdyktig, observant og passer inn overalt. Du ser ting fra flere sider.",
+      "funFact": "Kameleoner kan bevege øynene hver for seg.",
+      "image": "images/2027-01-24/kameleon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser to veier."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Skifter farge."
+        }
+      ]
+    },
+    {
+      "id": "tapir",
+      "name": "Tapir",
+      "shareName": "en tapir",
+      "emoji": null,
+      "description": "Du er snill, rolig og litt spesiell. Du er ikke som noen andre, og det er fint.",
+      "funFact": "Tapiren har en kort snabel som den bruker til å plukke blader.",
+      "image": "images/2027-01-24/tapir.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Vennlig mot alle."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Ikke som andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        }
+      ]
+    },
+    {
+      "id": "kolibri",
+      "name": "Kolibri",
+      "shareName": "en kolibri",
+      "emoji": null,
+      "description": "Du er rask, energisk og kan nesten alt. Du flyr fra blomst til blomst med stor glede.",
+      "funFact": "Kolibrien kan fly baklengs.",
+      "image": "images/2027-01-24/kolibri.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Lynrask."
+        },
+        {
+          "title": "Energisk",
+          "text": "Aldri stille."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan nesten alt."
+        },
+        {
+          "title": "Glad",
+          "text": "Elsker blomster."
+        }
+      ]
+    },
+    {
+      "id": "lemur",
+      "name": "Lemur",
+      "shareName": "en lemur",
+      "emoji": null,
+      "description": "Du er leken, sosial og elsker å sole deg. Du trives best i en stor gjeng.",
+      "funFact": "Lemurer finnes vilt bare på Madagaskar.",
+      "image": "images/2027-01-24/lemur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rundt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i flokk."
+        },
+        {
+          "title": "Solglad",
+          "text": "Elsker varme."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        }
+      ]
+    }
+  ]
+}

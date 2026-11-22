@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-05",
+  "date": "2027-01-05",
+  "title": "Hvilken origamifigur er du i dag?",
+  "intro": "Origami er japansk papirbretting, og ordet betyr rett og slett å brette papir. Er du en elegant trane, en hoppende frosk eller et raskt papirfly? Svar på sju spørsmål og finn ut hvilken origamifigur du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva ville du dyrket i en kjøkkenhage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tomater",
+          "scores": {
+            "hjerte": 2,
+            "stjerne": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Poteter",
+          "scores": {
+            "kopp": 2,
+            "baat": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jordbær",
+          "scores": {
+            "sommerfugl": 2,
+            "frosk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Urter",
+          "scores": {
+            "trane": 2,
+            "rev": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gresskar",
+          "scores": {
+            "hatt": 2,
+            "papirfly": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Solsikker",
+          "scores": {
+            "stjerne": 2,
+            "sommerfugl": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du skal ta et viktig valg om framtiden. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenker lenge og grundig",
+          "scores": {
+            "trane": 2,
+            "rev": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Følger magefølelsen",
+          "scores": {
+            "papirfly": 2,
+            "frosk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør familie og venner",
+          "scores": {
+            "hjerte": 2,
+            "kopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en liste med fordeler og ulemper",
+          "scores": {
+            "rev": 2,
+            "kopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Velger det som er mest spennende",
+          "scores": {
+            "papirfly": 2,
+            "sommerfugl": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det steg for steg",
+          "scores": {
+            "baat": 2,
+            "trane": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken type video ser du mest på nettet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Morsomme dyrevideoer",
+          "scores": {
+            "frosk": 2,
+            "hatt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Matoppskrifter",
+          "scores": {
+            "kopp": 2,
+            "hjerte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Reisevideoer",
+          "scores": {
+            "papirfly": 2,
+            "baat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lær-deg-selv-videoer",
+          "scores": {
+            "rev": 2,
+            "trane": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Musikkvideoer",
+          "scores": {
+            "stjerne": 2,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser nesten ikke på video",
+          "scores": {
+            "baat": 2,
+            "trane": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan sier du takk for maten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med et stort smil",
+          "scores": {
+            "stjerne": 2,
+            "frosk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ordentlig og høflig",
+          "scores": {
+            "trane": 2,
+            "kopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en klem til kokken",
+          "scores": {
+            "hjerte": 1,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ved å hjelpe til med oppvasken",
+          "scores": {
+            "kopp": 2,
+            "rev": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en morsom kommentar",
+          "scores": {
+            "hatt": 2,
+            "frosk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kort og raskt",
+          "scores": {
+            "papirfly": 2,
+            "baat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket sete velger du på flyet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vindusplass",
+          "scores": {
+            "trane": 1,
+            "papirfly": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midtgangen",
+          "scores": {
+            "rev": 2,
+            "kopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Helt foran",
+          "scores": {
+            "hatt": 2,
+            "stjerne": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bakerst, der det er roligere",
+          "scores": {
+            "baat": 2,
+            "trane": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved siden av den jeg reiser med",
+          "scores": {
+            "hjerte": 1,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det er det samme for meg",
+          "scores": {
+            "hatt": 2,
+            "frosk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du når du er veldig glad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper og danser",
+          "scores": {
+            "frosk": 2,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler for meg selv",
+          "scores": {
+            "trane": 1,
+            "baat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller det til alle",
+          "scores": {
+            "stjerne": 2,
+            "hatt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir noen en klem",
+          "scores": {
+            "hjerte": 2,
+            "kopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe fint",
+          "scores": {
+            "sommerfugl": 2,
+            "rev": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner på noe spontant",
+          "scores": {
+            "hatt": 2,
+            "papirfly": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med juleservietter og julepapir som er igjen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bretter noe fint av det",
+          "scores": {
+            "trane": 1,
+            "stjerne": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sparer det til neste år",
+          "scores": {
+            "kopp": 2,
+            "baat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en kollasj",
+          "scores": {
+            "sommerfugl": 2,
+            "hatt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kaster det på gjenvinningen",
+          "scores": {
+            "rev": 2,
+            "papirfly": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir det til noen som trenger det",
+          "scores": {
+            "hjerte": 2,
+            "kopp": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bruker det til å pakke inn bursdagsgaver",
+          "scores": {
+            "hjerte": 2,
+            "frosk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "trane",
+      "name": "Trane",
+      "shareName": "en papirtrane",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og har store ønsker. Du tror på at små steg kan bli til noe stort.",
+      "funFact": "En gammel japansk legende sier at den som bretter tusen papirtraner, får et ønske oppfylt.",
+      "image": "images/2027-01-05/trane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Én brett om gangen."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Store ønsker."
+        },
+        {
+          "title": "Elegant",
+          "text": "Lett og fin."
+        },
+        {
+          "title": "Rolig",
+          "text": "Finner ro."
+        }
+      ]
+    },
+    {
+      "id": "frosk",
+      "name": "Frosk",
+      "shareName": "en papirfrosk",
+      "emoji": null,
+      "description": "Du er leken, spretten og alltid klar for moro. Du får alle til å le.",
+      "funFact": "En origamifrosk kan faktisk hoppe hvis man trykker på baken på den.",
+      "image": "images/2027-01-05/frosk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rundt."
+        },
+        {
+          "title": "Spretten",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Spontan",
+          "text": "Klar for alt."
+        }
+      ]
+    },
+    {
+      "id": "papirfly",
+      "name": "Papirfly",
+      "shareName": "et papirfly",
+      "emoji": null,
+      "description": "Du er rask, eventyrlysten og drømmer om å fly langt. Du sikter høyt.",
+      "funFact": "Verdensrekorden for lengste flytur med papirfly er over 80 meter.",
+      "image": "images/2027-01-05/papirfly.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Suser av gårde."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil langt."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt."
+        },
+        {
+          "title": "Fri",
+          "text": "Flyr dit du vil."
+        }
+      ]
+    },
+    {
+      "id": "baat",
+      "name": "Båt",
+      "shareName": "en papirbåt",
+      "emoji": null,
+      "description": "Du er rolig, eventyrlysten og flyter trygt gjennom det meste. Du tar livet som det kommer.",
+      "funFact": "En papirbåt kan flyte på vann en god stund før papiret blir bløtt.",
+      "image": "images/2027-01-05/baat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Flyter i ro."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ut på tur."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Følger strømmen."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "stjerne",
+      "name": "Stjerne",
+      "shareName": "en papirstjerne",
+      "emoji": null,
+      "description": "Du er lys, positiv og liten, men skinner sterkt. Du gjør andre glade.",
+      "funFact": "Små origamistjerner brettes ofte av lange, smale papirstrimler.",
+      "image": "images/2027-01-05/stjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Skinner sterkt."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser det gode."
+        },
+        {
+          "title": "Liten",
+          "text": "Men viktig."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer glede."
+        }
+      ]
+    },
+    {
+      "id": "sommerfugl",
+      "name": "Sommerfugl",
+      "shareName": "en papirsommerfugl",
+      "emoji": null,
+      "description": "Du er lett, fargerik og elsker forandring. Du flyr fra blomst til blomst.",
+      "funFact": "I tradisjonell origami brukes bare ett ark, uten saks og lim.",
+      "image": "images/2027-01-05/sommerfugl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lett",
+          "text": "Svever gjennom dagen."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Forandringsvillig",
+          "text": "Elsker nytt."
+        },
+        {
+          "title": "Vakker",
+          "text": "Ser det fine."
+        }
+      ]
+    },
+    {
+      "id": "hjerte",
+      "name": "Hjerte",
+      "shareName": "et papirhjerte",
+      "emoji": null,
+      "description": "Du er kjærlig, omtenksom og gir gjerne små gaver. Du viser folk at de betyr noe.",
+      "funFact": "Et origamihjerte kan brettes av en pengeseddel.",
+      "image": "images/2027-01-05/hjerte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker alle."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Gir gjerne."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        }
+      ]
+    },
+    {
+      "id": "rev",
+      "name": "Rev",
+      "shareName": "en papirrev",
+      "emoji": null,
+      "description": "Du er lur, smart og finner enkle løsninger. Du klarer mye med lite.",
+      "funFact": "Origamireven brettes av et kvadratisk ark på bare noen få trinn.",
+      "image": "images/2027-01-05/rev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har en plan."
+        },
+        {
+          "title": "Smart",
+          "text": "Enkle løsninger."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Få steg."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Snuser rundt."
+        }
+      ]
+    },
+    {
+      "id": "hatt",
+      "name": "Hatt",
+      "shareName": "en papirhatt",
+      "emoji": null,
+      "description": "Du er festlig, praktisk og kan lage noe gøy av nesten ingenting. Du er alltid klar for en lek.",
+      "funFact": "En papirhatt kan brettes av en vanlig avisside.",
+      "image": "images/2027-01-05/hatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Klar for fest."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Bruker det som finnes."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker lek."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Ser muligheter."
+        }
+      ]
+    },
+    {
+      "id": "kopp",
+      "name": "Kopp",
+      "shareName": "en papirkopp",
+      "emoji": null,
+      "description": "Du er praktisk, hjelpsom og overraskende sterk. Du holder mer enn folk tror.",
+      "funFact": "En origamikopp kan faktisk holde vann en kort stund.",
+      "image": "images/2027-01-05/kopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Holder det andre trenger."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Sterkere enn du ser ut."
+        },
+        {
+          "title": "Enkel",
+          "text": "Rett fram."
+        }
+      ]
+    }
+  ]
+}

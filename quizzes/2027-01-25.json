@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-25",
+  "date": "2027-01-25",
+  "title": "Hvilket grunnstoff er du i dag?",
+  "intro": "Alt rundt oss er laget av grunnstoffer. Er du livsviktig oksygen, skinnende gull eller lett helium? Svar på sju spørsmål og finn ut hvilket grunnstoff du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken sjokolade velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Melkesjokolade",
+          "scores": {
+            "kalsium": 2,
+            "helium": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mørk sjokolade",
+          "scores": {
+            "karbon": 2,
+            "jern": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hvit sjokolade",
+          "scores": {
+            "solv": 2,
+            "hydrogen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med nøtter",
+          "scores": {
+            "kobber": 2,
+            "jern": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med karamell",
+          "scores": {
+            "gull": 2,
+            "kobber": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med noe surt og sprakende",
+          "scores": {
+            "neon": 2,
+            "oksygen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du skal lære bort noe du kan godt. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Viser steg for steg",
+          "scores": {
+            "kalsium": 2,
+            "jern": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gjør det morsomt",
+          "scores": {
+            "helium": 2,
+            "neon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forklarer hvorfor det fungerer",
+          "scores": {
+            "karbon": 2,
+            "solv": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar dem prøve selv",
+          "scores": {
+            "oksygen": 2,
+            "hydrogen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Er tålmodig og rolig",
+          "scores": {
+            "gull": 1,
+            "kobber": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en liten oppgave til dem",
+          "scores": {
+            "solv": 2,
+            "karbon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du når du får hikke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Holder pusten",
+          "scores": {
+            "oksygen": 2,
+            "hydrogen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Drikker et glass vann opp ned",
+          "scores": {
+            "helium": 2,
+            "neon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Venter rolig til det går over",
+          "scores": {
+            "kalsium": 2,
+            "karbon": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber noen skremme meg",
+          "scores": {
+            "neon": 1,
+            "kobber": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiser en skje sukker",
+          "scores": {
+            "gull": 1,
+            "solv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ler av det til det slutter",
+          "scores": {
+            "helium": 1,
+            "jern": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan holder du deg i form om vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går lange turer i mørket med hodelykt",
+          "scores": {
+            "jern": 2,
+            "oksygen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går på ski",
+          "scores": {
+            "oksygen": 1,
+            "hydrogen": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Trener inne på et senter",
+          "scores": {
+            "kalsium": 2,
+            "karbon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Danser hjemme i stua",
+          "scores": {
+            "neon": 2,
+            "helium": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Svømmer i et varmt basseng",
+          "scores": {
+            "hydrogen": 2,
+            "solv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar vinterferie fra trening",
+          "scores": {
+            "gull": 2,
+            "kobber": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken sport ville du helst vært med i i OL?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Langrenn",
+          "scores": {
+            "jern": 2,
+            "kalsium": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kunstløp",
+          "scores": {
+            "gull": 2,
+            "neon": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sprint",
+          "scores": {
+            "hydrogen": 2,
+            "oksygen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skiskyting",
+          "scores": {
+            "solv": 2,
+            "karbon": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Svømming",
+          "scores": {
+            "oksygen": 1,
+            "kobber": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snowboard",
+          "scores": {
+            "helium": 2,
+            "neon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du våkner før vekkerklokka. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står opp og starter dagen",
+          "scores": {
+            "oksygen": 2,
+            "jern": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir liggende og nyter det",
+          "scores": {
+            "gull": 2,
+            "kobber": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sovner igjen",
+          "scores": {
+            "kalsium": 2,
+            "helium": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser litt",
+          "scores": {
+            "karbon": 2,
+            "solv": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjekker telefonen",
+          "scores": {
+            "neon": 2,
+            "hydrogen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en god frokost",
+          "scores": {
+            "kobber": 2,
+            "kalsium": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvis du var på et laboratorium, hva ville du gjort?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Laget eksperimenter med farger",
+          "scores": {
+            "neon": 2,
+            "helium": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Undersøkt ting i mikroskop",
+          "scores": {
+            "karbon": 2,
+            "solv": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ryddet og satt alt i system",
+          "scores": {
+            "kalsium": 2,
+            "jern": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Laget noe som kan hjelpe andre",
+          "scores": {
+            "oksygen": 1,
+            "kobber": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Laget noe skinnende",
+          "scores": {
+            "gull": 2,
+            "solv": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prøvd å lage en rakett",
+          "scores": {
+            "hydrogen": 2,
+            "helium": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "oksygen",
+      "name": "Oksygen",
+      "shareName": "oksygen",
+      "emoji": null,
+      "description": "Du er livsviktig, frisk og gir energi til alle rundt deg. Folk merker det godt når du er der.",
+      "funFact": "Omtrent en femtedel av lufta vi puster inn, er oksygen.",
+      "image": "images/2027-01-25/oksygen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livsviktig",
+          "text": "Alle trenger deg."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Sosial",
+          "text": "Finnes overalt."
+        },
+        {
+          "title": "Oppkvikkende",
+          "text": "Får folk i gang."
+        }
+      ]
+    },
+    {
+      "id": "gull",
+      "name": "Gull",
+      "shareName": "gull",
+      "emoji": null,
+      "description": "Du er verdifull, stabil og mister aldri glansen din. Du er like fin år etter år.",
+      "funFact": "Gull ruster ikke.",
+      "image": "images/2027-01-25/gull.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Verdifull",
+          "text": "Gull verdt."
+        },
+        {
+          "title": "Stabil",
+          "text": "Mister aldri glansen."
+        },
+        {
+          "title": "Elegant",
+          "text": "Skinner fint."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid den samme."
+        }
+      ]
+    },
+    {
+      "id": "solv",
+      "name": "Sølv",
+      "shareName": "sølv",
+      "emoji": null,
+      "description": "Du er smart, rask og flink til å knytte folk sammen. Du får ting til å flyte.",
+      "funFact": "Sølv leder strøm bedre enn noe annet metall.",
+      "image": "images/2027-01-25/solv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Kvikk i tanken."
+        },
+        {
+          "title": "Samlende",
+          "text": "Knytter folk sammen."
+        },
+        {
+          "title": "Elegant",
+          "text": "Glinser."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Leder godt."
+        }
+      ]
+    },
+    {
+      "id": "jern",
+      "name": "Jern",
+      "shareName": "jern",
+      "emoji": null,
+      "description": "Du er sterk, solid og pålitelig. Du er kjernen som holder alt sammen.",
+      "funFact": "Jordas kjerne består for det meste av jern.",
+      "image": "images/2027-01-25/jern.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder sammen."
+        },
+        {
+          "title": "Arbeidsom",
+          "text": "Bygger alt."
+        }
+      ]
+    },
+    {
+      "id": "helium",
+      "name": "Helium",
+      "shareName": "helium",
+      "emoji": null,
+      "description": "Du er lett, glad og får alle til å smile. Du tar ting med et lett hjerte.",
+      "funFact": "Helium er lettere enn luft, og derfor flyr heliumballonger.",
+      "image": "images/2027-01-25/helium.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lett",
+          "text": "Svever av gårde."
+        },
+        {
+          "title": "Glad",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid på fest."
+        },
+        {
+          "title": "Fri",
+          "text": "Stiger opp."
+        }
+      ]
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "shareName": "neon",
+      "emoji": null,
+      "description": "Du er fargerik, synlig og elsker å lyse opp kvelden. Du har en egen stil.",
+      "funFact": "Neon lyser rødoransje i lysrør.",
+      "image": "images/2027-01-25/neon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser sterkt."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å se."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Egen stil."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Lyser om kvelden."
+        }
+      ]
+    },
+    {
+      "id": "karbon",
+      "name": "Karbon",
+      "shareName": "karbon",
+      "emoji": null,
+      "description": "Du er allsidig og kan bli nesten hva som helst. Du er like hjemme i en blyant som i en diamant.",
+      "funFact": "Både diamanter og grafitt i blyanter er laget av karbon.",
+      "image": "images/2027-01-25/karbon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Kan bli alt."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Tegner og skaper."
+        },
+        {
+          "title": "Sterk",
+          "text": "Som en diamant."
+        },
+        {
+          "title": "Grunnleggende",
+          "text": "Finnes i alt levende."
+        }
+      ]
+    },
+    {
+      "id": "kalsium",
+      "name": "Kalsium",
+      "shareName": "kalsium",
+      "emoji": null,
+      "description": "Du er stødig, trygg og gir andre ryggrad. Du er god å lene seg på.",
+      "funFact": "Kalsium gjør tenner og skjelett sterke.",
+      "image": "images/2027-01-25/kalsium.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Gir ryggrad."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å lene seg på."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Sterk",
+          "text": "Holder alt oppe."
+        }
+      ]
+    },
+    {
+      "id": "hydrogen",
+      "name": "Hydrogen",
+      "shareName": "hydrogen",
+      "emoji": null,
+      "description": "Du er liten, men overalt. Du er der det hele begynner.",
+      "funFact": "Hydrogen er det vanligste grunnstoffet i universet.",
+      "image": "images/2027-01-25/hydrogen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Grunnleggende",
+          "text": "Der alt begynner."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av kraft."
+        },
+        {
+          "title": "Liten",
+          "text": "Men viktig."
+        },
+        {
+          "title": "Overalt",
+          "text": "Finnes i hele universet."
+        }
+      ]
+    },
+    {
+      "id": "kobber",
+      "name": "Kobber",
+      "shareName": "kobber",
+      "emoji": null,
+      "description": "Du er varm, hjelpsom og blir bare finere med årene. Du har en egen patina.",
+      "funFact": "Frihetsgudinnen i New York er laget av kobber, og den grønne fargen kommer av irr.",
+      "image": "images/2027-01-25/kobber.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Varm farge."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Leder strøm og varme."
+        },
+        {
+          "title": "Stødig",
+          "text": "Varer lenge."
+        },
+        {
+          "title": "Karakterfull",
+          "text": "Blir finere med årene."
+        }
+      ]
+    }
+  ]
+}

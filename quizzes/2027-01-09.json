@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-09",
+  "date": "2027-01-09",
+  "title": "Hvilket strandfunn er du i dag?",
+  "intro": "Selv om det er vinter, finnes det skatter på stranden. Er du et blankt sjøglass, en hemmelig flaskepost eller en tøff kråkebolle? Svar på sju spørsmål og finn ut hvilket strandfunn du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best med sommeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bading i sjøen",
+          "scores": {
+            "sjostjerne": 2,
+            "tang": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lyse netter",
+          "scores": {
+            "flaskepost": 2,
+            "maakefjaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Is og jordbær",
+          "scores": {
+            "sjoglass": 2,
+            "blaaskjell": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lange turer",
+          "scores": {
+            "rekved": 2,
+            "rullestein": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At det er ferie",
+          "scores": {
+            "maakefjaer": 2,
+            "strandsnegl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grilling med venner",
+          "scores": {
+            "blaaskjell": 1,
+            "krakebolle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du finner en gammel dagbok du skrev som liten. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser alt med en gang",
+          "scores": {
+            "flaskepost": 2,
+            "sjoglass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler høyt av meg selv",
+          "scores": {
+            "maakefjaer": 2,
+            "blaaskjell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Viser den til familien",
+          "scores": {
+            "blaaskjell": 2,
+            "tang": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Legger den trygt tilbake",
+          "scores": {
+            "strandsnegl": 2,
+            "rullestein": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skriver noe nytt i den",
+          "scores": {
+            "rekved": 1,
+            "sjostjerne": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir litt flau og gjemmer den",
+          "scores": {
+            "krakebolle": 1,
+            "strandsnegl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva ville du helst funnet på et gammelt loft?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En skattekiste",
+          "scores": {
+            "flaskepost": 2,
+            "sjostjerne": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gamle brev",
+          "scores": {
+            "sjoglass": 2,
+            "flaskepost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gamle leker",
+          "scores": {
+            "blaaskjell": 1,
+            "tang": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gamle klær å prøve",
+          "scores": {
+            "maakefjaer": 1,
+            "sjoglass": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Verktøy og ting å fikse",
+          "scores": {
+            "rullestein": 2,
+            "krakebolle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et gammelt kart",
+          "scores": {
+            "rekved": 1,
+            "strandsnegl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du kommer til en avtale på feil dag. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler av meg selv",
+          "scores": {
+            "maakefjaer": 2,
+            "sjostjerne": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir irritert på meg selv",
+          "scores": {
+            "krakebolle": 2,
+            "rullestein": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner på noe annet hyggelig der jeg er",
+          "scores": {
+            "rekved": 2,
+            "tang": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sender en melding og spør",
+          "scores": {
+            "blaaskjell": 2,
+            "strandsnegl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skriver det i kalenderen med en gang",
+          "scores": {
+            "rullestein": 2,
+            "strandsnegl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller det som en morsom historie senere",
+          "scores": {
+            "flaskepost": 1,
+            "sjoglass": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken lek liker du best på en lang biltur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "«Jeg ser noe som du ikke ser»",
+          "scores": {
+            "strandsnegl": 2,
+            "sjoglass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Telle biler med en bestemt farge",
+          "scores": {
+            "rullestein": 2,
+            "blaaskjell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Synge sammen",
+          "scores": {
+            "maakefjaer": 2,
+            "sjostjerne": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjettelek",
+          "scores": {
+            "flaskepost": 2,
+            "krakebolle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, jeg sover",
+          "scores": {
+            "tang": 2,
+            "strandsnegl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finne på historier",
+          "scores": {
+            "rekved": 2,
+            "flaskepost": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen ber om å få låne noe av deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Låner det bort med glede",
+          "scores": {
+            "blaaskjell": 2,
+            "tang": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør når jeg får det tilbake",
+          "scores": {
+            "rullestein": 2,
+            "strandsnegl": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Låner det bort, men er litt bekymret",
+          "scores": {
+            "sjoglass": 2,
+            "krakebolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir det heller bort",
+          "scores": {
+            "maakefjaer": 1,
+            "rekved": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Låner bort, men skriver det ned",
+          "scores": {
+            "strandsnegl": 2,
+            "rullestein": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer an på hva det er",
+          "scores": {
+            "krakebolle": 2,
+            "sjostjerne": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på en strandtur om vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leter etter skatter",
+          "scores": {
+            "flaskepost": 2,
+            "sjoglass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kaster stein på vannet",
+          "scores": {
+            "rullestein": 1,
+            "sjostjerne": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar et kaldt bad",
+          "scores": {
+            "krakebolle": 2,
+            "tang": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går og tenker",
+          "scores": {
+            "strandsnegl": 2,
+            "rekved": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mater måkene",
+          "scores": {
+            "maakefjaer": 2,
+            "blaaskjell": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager bål",
+          "scores": {
+            "rekved": 2,
+            "blaaskjell": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "blaaskjell",
+      "name": "Blåskjell",
+      "shareName": "et blåskjell",
+      "emoji": null,
+      "description": "Du er trofast og holder godt fast i dem du er glad i. Du trives best sammen med mange andre.",
+      "funFact": "Blåskjell fester seg til steiner med sterke, tynne tråder.",
+      "image": "images/2027-01-09/blaaskjell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder godt fast."
+        },
+        {
+          "title": "Sosial",
+          "text": "Lever i store grupper."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler bølgene."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Enkel og ekte."
+        }
+      ]
+    },
+    {
+      "id": "sjoglass",
+      "name": "Sjøglass",
+      "shareName": "et sjøglass",
+      "emoji": null,
+      "description": "Du er myk i kantene og har blitt vakrere med tiden. Du har en spesiell glød.",
+      "funFact": "Sjøglass er biter av glass som bølger og sand har slipt runde og matte i mange år.",
+      "image": "images/2027-01-09/sjoglass.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Ingen skarpe kanter."
+        },
+        {
+          "title": "Vakker",
+          "text": "Skinner i sola."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Formet over tid."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Vanskelig å finne."
+        }
+      ]
+    },
+    {
+      "id": "rekved",
+      "name": "Rekved",
+      "shareName": "en rekved",
+      "emoji": null,
+      "description": "Du er eventyrlysten og har mange historier å fortelle. Du har kommet langt for å være her.",
+      "funFact": "Noe av rekveden på Svalbard har drevet helt fra Sibir.",
+      "image": "images/2027-01-09/rekved.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Har reist langt."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Mange historier."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler vær og vind."
+        },
+        {
+          "title": "Fri",
+          "text": "Følger strømmen."
+        }
+      ]
+    },
+    {
+      "id": "flaskepost",
+      "name": "Flaskepost",
+      "shareName": "en flaskepost",
+      "emoji": null,
+      "description": "Du er drømmende, romantisk og full av hemmeligheter. Folk blir glade når de finner deg.",
+      "funFact": "En flaskepost som ble funnet i Australia i 2018, hadde ligget i sjøen i over 130 år.",
+      "image": "images/2027-01-09/flaskepost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Fulle av ønsker."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Bærer på et budskap."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter lenge."
+        },
+        {
+          "title": "Spennende",
+          "text": "Alle vil åpne deg."
+        }
+      ]
+    },
+    {
+      "id": "tang",
+      "name": "Tang",
+      "shareName": "tang",
+      "emoji": null,
+      "description": "Du er fleksibel og tilpasser deg alt. Du gir ly og hjem til mange.",
+      "funFact": "Tang og tare er alger, og noen av dem kan spises.",
+      "image": "images/2027-01-09/tang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Bøyer seg med bølgene."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Gir ly til andre."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Tåler stormen."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Svaier rolig."
+        }
+      ]
+    },
+    {
+      "id": "rullestein",
+      "name": "Rullestein",
+      "shareName": "en rullestein",
+      "emoji": null,
+      "description": "Du er rolig, stødig og glatt i kantene. Du er god å ha i lomma.",
+      "funFact": "Rullesteiner er runde fordi de har blitt slipt mot hverandre av vann.",
+      "image": "images/2027-01-09/rullestein.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Glatt",
+          "text": "Ingen kanter."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid den samme."
+        }
+      ]
+    },
+    {
+      "id": "krakebolle",
+      "name": "Kråkebolle",
+      "shareName": "en kråkebolle",
+      "emoji": null,
+      "description": "Du er stikkete utenpå, men myk inni. De som kjenner deg, vet hvor god du er.",
+      "funFact": "Kråkebollen har munnen på undersiden.",
+      "image": "images/2027-01-09/krakebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Pigger utenpå."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill inni."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        }
+      ]
+    },
+    {
+      "id": "maakefjaer",
+      "name": "Måkefjær",
+      "shareName": "en måkefjær",
+      "emoji": null,
+      "description": "Du er lett, fri og elsker vind i håret. Du lar deg ikke tynge ned.",
+      "funFact": "Fugler smører fjærene med fett fra en kjertel ved halen for å holde dem vanntette.",
+      "image": "images/2027-01-09/maakefjaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Flyr med vinden."
+        },
+        {
+          "title": "Lett",
+          "text": "Ingen tyngde."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se mer."
+        },
+        {
+          "title": "Sosial",
+          "text": "Alltid i flokk."
+        }
+      ]
+    },
+    {
+      "id": "strandsnegl",
+      "name": "Strandsnegl",
+      "shareName": "en strandsnegl",
+      "emoji": null,
+      "description": "Du er tålmodig, forsiktig og har alltid et trygt sted å trekke deg tilbake til. Du gjør ting i ditt eget tempo.",
+      "funFact": "Strandsnegler kan lukke seg inne i skallet med et lite lokk.",
+      "image": "images/2027-01-09/strandsnegl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Sakte og sikkert."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Trekker seg inn."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Bærer hjemmet med seg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "sjostjerne",
+      "name": "Sjøstjerne",
+      "shareName": "en sjøstjerne",
+      "emoji": null,
+      "description": "Du er seig, positiv og kommer alltid tilbake etter en tøff dag. Du skinner på havbunnen.",
+      "funFact": "Sjøstjerner kan gro ut nye armer hvis de mister en.",
+      "image": "images/2027-01-09/sjostjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Gror tilbake."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på ting."
+        },
+        {
+          "title": "Lysende",
+          "text": "Skinner på bunnen."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler mye."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-31",
+  "date": "2027-01-31",
+  "title": "Hvilken varmekilde er du i dag?",
+  "intro": "Januar er ofte den kaldeste måneden i året. Er du en sprakende peis, en lun varmeflaske eller selveste sola? Svar på sju spørsmål og finn ut hvilken varmekilde du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan holder du varmen når du fryser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper og løper rundt",
+          "scores": {
+            "bal": 2,
+            "sola": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kryper under dyna",
+          "scores": {
+            "varmeflaske": 2,
+            "gulvvarme": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter meg nær ovnen",
+          "scores": {
+            "peis": 2,
+            "vedovn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar på ullgenser",
+          "scores": {
+            "panelovn": 2,
+            "handvarmer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Drikker noe varmt",
+          "scores": {
+            "varmeflaske": 2,
+            "peis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skrur opp varmen litt",
+          "scores": {
+            "varmepumpe": 1,
+            "panelovn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du helst en søndag formiddag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager stor frokost til alle",
+          "scores": {
+            "peis": 2,
+            "sola": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går tur i skogen",
+          "scores": {
+            "bal": 2,
+            "vedovn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sover lenge",
+          "scores": {
+            "gulvvarme": 2,
+            "varmeflaske": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fikser noe i huset",
+          "scores": {
+            "varmepumpe": 2,
+            "panelovn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Møter venner",
+          "scores": {
+            "badstue": 2,
+            "bal": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør meg klar for uka",
+          "scores": {
+            "handvarmer": 2,
+            "panelovn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan liker du å bli trøstet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en lang klem",
+          "scores": {
+            "varmeflaske": 2,
+            "peis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med noen som bare er der",
+          "scores": {
+            "gulvvarme": 2,
+            "vedovn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en god prat",
+          "scores": {
+            "bal": 2,
+            "badstue": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med en løsning på problemet",
+          "scores": {
+            "varmepumpe": 2,
+            "handvarmer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med noe som får meg til å le",
+          "scores": {
+            "sola": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil helst være alene litt",
+          "scores": {
+            "panelovn": 2,
+            "badstue": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor varm vil du ha dusjen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Så varm som mulig",
+          "scores": {
+            "badstue": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Passe varm",
+          "scores": {
+            "panelovn": 2,
+            "gulvvarme": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lunken",
+          "scores": {
+            "varmeflaske": 1,
+            "vedovn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Varm først, så iskald",
+          "scores": {
+            "badstue": 2,
+            "sola": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kort og effektiv",
+          "scores": {
+            "varmepumpe": 2,
+            "handvarmer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar heller et langt bad",
+          "scores": {
+            "peis": 1,
+            "gulvvarme": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Det er 20 kuldegrader ute. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fyrer i ovnen hele dagen",
+          "scores": {
+            "vedovn": 2,
+            "peis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går ut og nyter den klare lufta",
+          "scores": {
+            "sola": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder meg inne og jobber",
+          "scores": {
+            "panelovn": 2,
+            "varmepumpe": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kryper under et teppe",
+          "scores": {
+            "varmeflaske": 1,
+            "gulvvarme": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kler meg godt og går som vanlig",
+          "scores": {
+            "handvarmer": 2,
+            "panelovn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Varmer meg i badstua",
+          "scores": {
+            "badstue": 2,
+            "gulvvarme": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva tar du med til en venn som er syk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hjemmelaget suppe",
+          "scores": {
+            "peis": 2,
+            "vedovn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En tegning eller et kort",
+          "scores": {
+            "varmeflaske": 1,
+            "sola": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et brettspill",
+          "scores": {
+            "bal": 2,
+            "badstue": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare meg selv og god tid",
+          "scores": {
+            "gulvvarme": 2,
+            "varmeflaske": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe praktisk de trenger",
+          "scores": {
+            "handvarmer": 2,
+            "panelovn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tips om en bra serie",
+          "scores": {
+            "varmepumpe": 2,
+            "sola": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du når noen er kalde og sure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir dem en klem",
+          "scores": {
+            "varmeflaske": 2,
+            "peis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Får dem til å le",
+          "scores": {
+            "sola": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe varmt til dem",
+          "scores": {
+            "vedovn": 2,
+            "peis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Låner dem jakka mi",
+          "scores": {
+            "handvarmer": 2,
+            "gulvvarme": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar dem være i fred litt",
+          "scores": {
+            "panelovn": 2,
+            "badstue": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner ut hva som er galt",
+          "scores": {
+            "varmepumpe": 2,
+            "panelovn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "peis",
+      "name": "Peisen",
+      "shareName": "peisen",
+      "emoji": null,
+      "description": "Du er koselig, samlende og får alle til å trekke inn mot deg. Du er midtpunktet på en kald kveld.",
+      "funFact": "En åpen peis sender mye av varmen rett opp gjennom pipa.",
+      "image": "images/2027-01-31/peis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Alle samles."
+        },
+        {
+          "title": "Samlende",
+          "text": "Midtpunktet."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gamle vaner."
+        }
+      ]
+    },
+    {
+      "id": "vedovn",
+      "name": "Vedovnen",
+      "shareName": "vedovnen",
+      "emoji": null,
+      "description": "Du er robust, stødig og gir varme i lang tid. Du er tøff utenpå og varm inni.",
+      "funFact": "Ved som har tørket godt, gir mer varme og mindre røyk.",
+      "image": "images/2027-01-31/vedovn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Stødig",
+          "text": "Varer lenge."
+        },
+        {
+          "title": "Varm",
+          "text": "Inni og ut."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        }
+      ]
+    },
+    {
+      "id": "varmeflaske",
+      "name": "Varmeflasken",
+      "shareName": "varmeflasken",
+      "emoji": null,
+      "description": "Du er omsorgsfull, myk og vet akkurat hva folk trenger. Du er god å ha når noen er lei seg.",
+      "funFact": "Varmeflasker av gummi har vært vanlige i mer enn hundre år.",
+      "image": "images/2027-01-31/varmeflaske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Trøster andre."
+        },
+        {
+          "title": "Myk",
+          "text": "God å holde."
+        },
+        {
+          "title": "Nær",
+          "text": "Alltid tett på."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ro."
+        }
+      ]
+    },
+    {
+      "id": "sola",
+      "name": "Sola",
+      "shareName": "sola",
+      "emoji": null,
+      "description": "Du er strålende, raus og gir energi til alle. Livet blir lysere når du er der.",
+      "funFact": "Sollyset bruker litt over åtte minutter fra sola til jorda.",
+      "image": "images/2027-01-31/sola.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Strålende",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Energisk",
+          "text": "Gir krefter."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Alltid lys."
+        }
+      ]
+    },
+    {
+      "id": "bal",
+      "name": "Bålet",
+      "shareName": "bålet",
+      "emoji": null,
+      "description": "Du er eventyrlysten, sosial og elsker livet ute. Rundt deg blir det historier og latter.",
+      "funFact": "Mennesker har brukt ild i flere hundre tusen år.",
+      "image": "images/2027-01-31/bal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker natur."
+        },
+        {
+          "title": "Livlig",
+          "text": "Spraker og gnistrer."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Mange historier."
+        }
+      ]
+    },
+    {
+      "id": "gulvvarme",
+      "name": "Gulvvarmen",
+      "shareName": "gulvvarmen",
+      "emoji": null,
+      "description": "Du er stille, pålitelig og gjør ting bedre uten å skryte av det. Folk merker først hvor fin du er når du er borte.",
+      "funFact": "Romerne hadde gulvvarme for to tusen år siden. Varm luft gikk under gulvet.",
+      "image": "images/2027-01-31/gulvvarme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskjeden",
+          "text": "Skryter ikke."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Behagelig",
+          "text": "Gir god følelse."
+        },
+        {
+          "title": "Diskré",
+          "text": "Jobber i stillhet."
+        }
+      ]
+    },
+    {
+      "id": "varmepumpe",
+      "name": "Varmepumpen",
+      "shareName": "varmepumpen",
+      "emoji": null,
+      "description": "Du er smart, effektiv og får mye ut av lite. Du finner løsninger andre ikke ser.",
+      "funFact": "En varmepumpe henter varme fra lufta ute, selv når det er kuldegrader.",
+      "image": "images/2027-01-31/varmepumpe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Tenker effektivt."
+        },
+        {
+          "title": "Moderne",
+          "text": "Følger med."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Mye av lite."
+        },
+        {
+          "title": "Miljøvennlig",
+          "text": "Tenker framover."
+        }
+      ]
+    },
+    {
+      "id": "badstue",
+      "name": "Badstua",
+      "shareName": "badstua",
+      "emoji": null,
+      "description": "Du er intens, avslappet og elsker kontraster. Du kan gå fra varm til kald uten å blunke.",
+      "funFact": "Badstue har lang tradisjon i Finland, der det finnes millioner av badstuer.",
+      "image": "images/2027-01-31/badstue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Intens",
+          "text": "Full varme."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ro i kroppen."
+        },
+        {
+          "title": "Modig",
+          "text": "Elsker kontraster."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater gjerne."
+        }
+      ]
+    },
+    {
+      "id": "handvarmer",
+      "name": "Håndvarmeren",
+      "shareName": "håndvarmeren",
+      "emoji": null,
+      "description": "Du er liten, praktisk og alltid forberedt. Du dukker opp akkurat når noen fryser.",
+      "funFact": "Mange håndvarmere blir varme når jernpulveret inni møter luft.",
+      "image": "images/2027-01-31/handvarmer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Klar i lomma."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Når noen fryser."
+        },
+        {
+          "title": "Kompakt",
+          "text": "Liten, men sterk."
+        }
+      ]
+    },
+    {
+      "id": "panelovn",
+      "name": "Panelovnen",
+      "shareName": "panelovnen",
+      "emoji": null,
+      "description": "Du er ordentlig, stødig og gjør jobben uten dikkedarer. Du står klar under vinduet hver vinter.",
+      "funFact": "Panelovner står ofte under vinduer for å hindre kald trekk fra glasset.",
+      "image": "images/2027-01-31/panelovn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt i system."
+        },
+        {
+          "title": "Stødig",
+          "text": "Gjør jobben."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Følger termostaten."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Hver vinter."
+        }
+      ]
+    }
+  ]
+}

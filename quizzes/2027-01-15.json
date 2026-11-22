@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-15",
+  "date": "2027-01-15",
+  "title": "Hvilken fisk er du i dag?",
+  "intro": "Nå er det skreisesong langs norskekysten. Er du en trofast torsk, en eventyrlysten laks eller en lur breiflabb? Svar på sju spørsmål og finn ut hvilken fisk du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best av kylling?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kyllingvinger",
+          "scores": {
+            "makrell": 2,
+            "tunfisk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grillet kylling",
+          "scores": {
+            "laks": 2,
+            "torsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kyllingsuppe",
+          "scores": {
+            "kveite": 2,
+            "orret": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kyllingsalat",
+          "scores": {
+            "sild": 1,
+            "sei": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kyllinggryte med ris",
+          "scores": {
+            "steinbit": 2,
+            "breiflabb": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spiser ikke kylling",
+          "scores": {
+            "orret": 2,
+            "breiflabb": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får skryt for noe en annen egentlig gjorde. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier fra med en gang",
+          "scores": {
+            "torsk": 2,
+            "kveite": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir skrytet videre til den riktige personen",
+          "scores": {
+            "sild": 1,
+            "sei": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir flau og rødmer",
+          "scores": {
+            "orret": 2,
+            "breiflabb": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ler og forklarer hva som skjedde",
+          "scores": {
+            "makrell": 2,
+            "steinbit": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Takker og sier fra etterpå",
+          "scores": {
+            "laks": 1,
+            "kveite": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sørger for at alle vet hvem som gjorde det",
+          "scores": {
+            "tunfisk": 2,
+            "torsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst på sankthansaften?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitter ved bålet",
+          "scores": {
+            "torsk": 1,
+            "sei": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bader i sjøen",
+          "scores": {
+            "makrell": 2,
+            "sild": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fisker",
+          "scores": {
+            "laks": 2,
+            "orret": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Er på fest med mange folk",
+          "scores": {
+            "sild": 2,
+            "tunfisk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser på solnedgangen",
+          "scores": {
+            "kveite": 1,
+            "breiflabb": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Griller hjemme",
+          "scores": {
+            "steinbit": 2,
+            "torsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får en dårlig karakter eller tilbakemelding. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jobber hardere neste gang",
+          "scores": {
+            "laks": 2,
+            "tunfisk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør hva jeg kan gjøre bedre",
+          "scores": {
+            "torsk": 1,
+            "sei": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir sur en stund",
+          "scores": {
+            "steinbit": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker at det går bedre neste gang",
+          "scores": {
+            "sild": 2,
+            "orret": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner en lur måte å forbedre meg på",
+          "scores": {
+            "breiflabb": 2,
+            "kveite": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snakker med en venn",
+          "scores": {
+            "sild": 1,
+            "sei": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags burger liker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En klassisk med ost",
+          "scores": {
+            "torsk": 1,
+            "sei": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med bacon og alt",
+          "scores": {
+            "steinbit": 2,
+            "tunfisk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fiskeburger",
+          "scores": {
+            "kveite": 2,
+            "sild": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vegetarburger",
+          "scores": {
+            "orret": 2,
+            "laks": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sterk, med chili",
+          "scores": {
+            "makrell": 1,
+            "breiflabb": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den største på menyen",
+          "scores": {
+            "tunfisk": 2,
+            "steinbit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har glemt å gjøre noe du lovet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier unnskyld og gjør det med en gang",
+          "scores": {
+            "torsk": 2,
+            "sei": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner en måte å gjøre det godt igjen",
+          "scores": {
+            "breiflabb": 1,
+            "laks": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir veldig lei meg",
+          "scores": {
+            "orret": 2,
+            "sild": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Forklarer hva som skjedde",
+          "scores": {
+            "kveite": 1,
+            "steinbit": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler det bort og lover bedring",
+          "scores": {
+            "makrell": 2,
+            "tunfisk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver det ned så det ikke skjer igjen",
+          "scores": {
+            "kveite": 2,
+            "torsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er din favorittfiskerett?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fiskesuppe",
+          "scores": {
+            "torsk": 1,
+            "kveite": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grillet laks",
+          "scores": {
+            "laks": 2,
+            "orret": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fiskepinner",
+          "scores": {
+            "sei": 2,
+            "sild": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sushi",
+          "scores": {
+            "tunfisk": 2,
+            "makrell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bacalao",
+          "scores": {
+            "steinbit": 2,
+            "breiflabb": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spiser ikke fisk",
+          "scores": {
+            "breiflabb": 2,
+            "makrell": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "torsk",
+      "name": "Torsk",
+      "shareName": "en torsk",
+      "emoji": null,
+      "description": "Du er stødig, folkelig og alltid til stede. Folk vet at de kan regne med deg.",
+      "funFact": "Torsken har en liten skjeggtråd under haken som hjelper den å finne mat.",
+      "image": "images/2027-01-15/torsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Seig",
+          "text": "Tåler kalde hav."
+        },
+        {
+          "title": "Klassisk",
+          "text": "En ekte klassiker."
+        }
+      ]
+    },
+    {
+      "id": "laks",
+      "name": "Laks",
+      "shareName": "en laks",
+      "emoji": null,
+      "description": "Du er målrettet, eventyrlysten og gir deg aldri. Du finner alltid veien hjem.",
+      "funFact": "Laksen svømmer tilbake til elva der den ble født for å gyte.",
+      "image": "images/2027-01-15/laks.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Reiser langt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Finner veien hjem."
+        },
+        {
+          "title": "Sterk",
+          "text": "Hopper opp fossen."
+        }
+      ]
+    },
+    {
+      "id": "makrell",
+      "name": "Makrell",
+      "shareName": "en makrell",
+      "emoji": null,
+      "description": "Du er energisk, rask og kan nesten aldri sitte stille. Du elsker sommeren.",
+      "funFact": "Makrellen har ingen svømmeblære og må svømme hele tiden.",
+      "image": "images/2027-01-15/makrell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Rask",
+          "text": "Full fart."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker lyse dager."
+        },
+        {
+          "title": "Sosial",
+          "text": "Svømmer i stim."
+        }
+      ]
+    },
+    {
+      "id": "sild",
+      "name": "Sild",
+      "shareName": "en sild",
+      "emoji": null,
+      "description": "Du er sosial, lojal og trives best i en stor gjeng. Sammen er dere sterke.",
+      "funFact": "Sild svømmer i enorme stimer som kan bestå av millioner av fisker.",
+      "image": "images/2027-01-15/sild.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Best i flokk."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sammen."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten, men viktig."
+        },
+        {
+          "title": "Smidig",
+          "text": "Beveger seg i takt."
+        }
+      ]
+    },
+    {
+      "id": "orret",
+      "name": "Ørret",
+      "shareName": "en ørret",
+      "emoji": null,
+      "description": "Du er naturglad, rolig og trives i det stille. Du liker klare bekker og fjellvann.",
+      "funFact": "Ørret finnes i nesten alle elver og vann i Norge.",
+      "image": "images/2027-01-15/orret.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Naturglad",
+          "text": "Trives i fjellet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Trofast",
+          "text": "Hjemme i sitt vann."
+        }
+      ]
+    },
+    {
+      "id": "kveite",
+      "name": "Kveite",
+      "shareName": "en kveite",
+      "emoji": null,
+      "description": "Du er stor, rolig og har en egen verdighet. Du tar plass, men på en stille måte.",
+      "funFact": "Kveita kan bli over to meter lang og er en av de største flatfiskene.",
+      "image": "images/2027-01-15/kveite.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Verdig",
+          "text": "Rolig og stor."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på bunnen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Klok",
+          "text": "Har levd lenge."
+        }
+      ]
+    },
+    {
+      "id": "steinbit",
+      "name": "Steinbit",
+      "shareName": "en steinbit",
+      "emoji": null,
+      "description": "Du ser kanskje litt barsk ut, men du er snill når man blir kjent med deg. Du biter fra deg når det trengs.",
+      "funFact": "Steinbiten har kraftige tenner som den knuser skjell og kråkeboller med.",
+      "image": "images/2027-01-15/steinbit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Litt barsk utenpå."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk inni."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Biter fra seg."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        }
+      ]
+    },
+    {
+      "id": "breiflabb",
+      "name": "Breiflabb",
+      "shareName": "en breiflabb",
+      "emoji": null,
+      "description": "Du er lur, tålmodig og venter på det perfekte øyeblikket. Du har alltid et triks på lur.",
+      "funFact": "Breiflabben har en «fiskestang» på hodet som den lokker byttedyr med.",
+      "image": "images/2027-01-15/breiflabb.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har et triks."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter rolig."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Ikke som andre."
+        },
+        {
+          "title": "Smart",
+          "text": "Lokker fram."
+        }
+      ]
+    },
+    {
+      "id": "sei",
+      "name": "Sei",
+      "shareName": "en sei",
+      "emoji": null,
+      "description": "Du er arbeidsom, jordnær og ukomplisert. Du gjør jobben uten å lage noe nummer av det.",
+      "funFact": "Små sei kalles ofte pale langs norskekysten.",
+      "image": "images/2027-01-15/sei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står på."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen stas."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        }
+      ]
+    },
+    {
+      "id": "tunfisk",
+      "name": "Tunfisk",
+      "shareName": "en tunfisk",
+      "emoji": null,
+      "description": "Du er rask, sterk og elsker lange reiser. Du har mye fart og krefter.",
+      "funFact": "Tunfisken kan svømme i omtrent 70 kilometer i timen.",
+      "image": "images/2027-01-15/tunfisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Lynrask."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Svømmer langt."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Høyt tempo."
+        }
+      ]
+    }
+  ]
+}

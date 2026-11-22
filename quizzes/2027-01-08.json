@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-08",
+  "date": "2027-01-08",
+  "title": "Hvilken norrøn gud er du i dag?",
+  "intro": "I norrøn mytologi finnes det mange guder og gudinner, hver med sine egne krefter. Er du den kloke Odin, den sterke Tor eller den lure Loke? Svar på sju spørsmål og finn ut hvilken norrøn gud du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken festival ville du helst dratt på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor musikkfestival",
+          "scores": {
+            "loke": 2,
+            "froya": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En matfestival",
+          "scores": {
+            "njord": 2,
+            "idun": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En filmfestival",
+          "scores": {
+            "odin": 1,
+            "frigg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En vikingfestival",
+          "scores": {
+            "tor": 2,
+            "skade": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En lysfestival om vinteren",
+          "scores": {
+            "balder": 2,
+            "heimdall": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En bokfestival",
+          "scores": {
+            "odin": 1,
+            "frigg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du må dele rom med noen på tur. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prater til langt på natt",
+          "scores": {
+            "loke": 2,
+            "froya": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sovner først av alle",
+          "scores": {
+            "njord": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rydder min halvdel pent",
+          "scores": {
+            "frigg": 2,
+            "heimdall": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Står opp tidlig og går ut",
+          "scores": {
+            "skade": 2,
+            "tor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Deler snacksen min",
+          "scores": {
+            "idun": 2,
+            "balder": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Leser til jeg sovner",
+          "scores": {
+            "odin": 1,
+            "frigg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best med høsten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fargene på trærne",
+          "scores": {
+            "froya": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Epler og plommer",
+          "scores": {
+            "idun": 2,
+            "njord": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stormvær",
+          "scores": {
+            "tor": 2,
+            "heimdall": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Levende lys og mørke kvelder",
+          "scores": {
+            "frigg": 2,
+            "odin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Halloween",
+          "scores": {
+            "loke": 1,
+            "skade": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Friske turer i skogen",
+          "scores": {
+            "skade": 2,
+            "heimdall": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får høre at noen har sagt noe dumt om deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konfronterer dem med en gang",
+          "scores": {
+            "tor": 2,
+            "skade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tenker meg om før jeg gjør noe",
+          "scores": {
+            "odin": 2,
+            "frigg": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler det bort",
+          "scores": {
+            "loke": 1,
+            "balder": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snakker med en venn om det",
+          "scores": {
+            "froya": 2,
+            "idun": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar det ligge, det er ikke verdt det",
+          "scores": {
+            "njord": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner ut hva som egentlig ble sagt",
+          "scores": {
+            "heimdall": 2,
+            "odin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvor vil du helst sitte i bilen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bak rattet",
+          "scores": {
+            "tor": 1,
+            "heimdall": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I forsetet, så jeg kan velge musikk",
+          "scores": {
+            "froya": 2,
+            "loke": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Baksetet med en bok",
+          "scores": {
+            "odin": 2,
+            "frigg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Baksetet ved vinduet, og se ut",
+          "scores": {
+            "njord": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Midt i baksetet mellom de andre",
+          "scores": {
+            "idun": 2,
+            "loke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går heller",
+          "scores": {
+            "skade": 2,
+            "heimdall": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket dyr synes du er mest fascinerende?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ravnen",
+          "scores": {
+            "odin": 2,
+            "heimdall": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Katten",
+          "scores": {
+            "froya": 2,
+            "frigg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ulven",
+          "scores": {
+            "skade": 2,
+            "tor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hvalen",
+          "scores": {
+            "njord": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Reven",
+          "scores": {
+            "loke": 2,
+            "idun": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hesten",
+          "scores": {
+            "heimdall": 2,
+            "balder": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på en mørk januarkveld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner peisen",
+          "scores": {
+            "tor": 2,
+            "frigg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser en tykk bok",
+          "scores": {
+            "odin": 1,
+            "heimdall": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går på ski med hodelykt",
+          "scores": {
+            "skade": 2,
+            "njord": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Baker noe godt",
+          "scores": {
+            "idun": 2,
+            "froya": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner på noe gøy med venner",
+          "scores": {
+            "loke": 2,
+            "balder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser på stjernene",
+          "scores": {
+            "balder": 2,
+            "njord": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "odin",
+      "name": "Odin",
+      "shareName": "Odin",
+      "emoji": null,
+      "description": "Du er klok, nysgjerrig og vil alltid lære mer. Folk kommer til deg for gode råd.",
+      "funFact": "Odin hadde to ravner, Hugin og Munin, som fløy rundt i verden og fortalte ham hva de så.",
+      "image": "images/2027-01-08/odin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet mye."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære alt."
+        },
+        {
+          "title": "Leder",
+          "text": "Tar ansvar."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker langt."
+        }
+      ]
+    },
+    {
+      "id": "tor",
+      "name": "Tor",
+      "shareName": "Tor",
+      "emoji": null,
+      "description": "Du er sterk, modig og beskytter dem du er glad i. Du kan bli litt hissig, men hjertet ditt er av gull.",
+      "funFact": "Tors hammer heter Mjølner.",
+      "image": "images/2027-01-08/tor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Modig",
+          "text": "Står i stormen."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram."
+        }
+      ]
+    },
+    {
+      "id": "froya",
+      "name": "Frøya",
+      "shareName": "Frøya",
+      "emoji": null,
+      "description": "Du er varm, vakker og elsker livet. Du gjør hverdagen litt mer magisk.",
+      "funFact": "Frøya kjørte i en vogn som ble trukket av to katter.",
+      "image": "images/2027-01-08/froya.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Livsglad",
+          "text": "Elsker livet."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle."
+        },
+        {
+          "title": "Magisk",
+          "text": "Litt trolldom."
+        }
+      ]
+    },
+    {
+      "id": "frigg",
+      "name": "Frigg",
+      "shareName": "Frigg",
+      "emoji": null,
+      "description": "Du er rolig, omsorgsfull og ser lenger enn de fleste. Du holder familien samlet.",
+      "funFact": "Frigg var Odins kone, og det ble sagt at hun kunne se framtiden.",
+      "image": "images/2027-01-08/frigg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Klok",
+          "text": "Ser framover."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen panikk."
+        },
+        {
+          "title": "Samlende",
+          "text": "Holder familien sammen."
+        }
+      ]
+    },
+    {
+      "id": "loke",
+      "name": "Loke",
+      "shareName": "Loke",
+      "emoji": null,
+      "description": "Du er lur, morsom og full av overraskelser. Med deg blir det aldri kjedelig.",
+      "funFact": "Loke kunne skifte ham og forvandle seg til forskjellige dyr.",
+      "image": "images/2027-01-08/loke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Alltid en plan."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mye tull."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Overrasker alle."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner på ting."
+        }
+      ]
+    },
+    {
+      "id": "balder",
+      "name": "Balder",
+      "shareName": "Balder",
+      "emoji": null,
+      "description": "Du er lys, snill og elsket av alle. Du sprer god stemning bare ved å være der.",
+      "funFact": "Balder ble regnet som den lyseste og mest elskede av gudene.",
+      "image": "images/2027-01-08/balder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Snill",
+          "text": "Vennlig mot alle."
+        },
+        {
+          "title": "Elsket",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gir trygghet."
+        }
+      ]
+    },
+    {
+      "id": "heimdall",
+      "name": "Heimdall",
+      "shareName": "Heimdall",
+      "emoji": null,
+      "description": "Du er årvåken, pålitelig og har oversikt over alt. Du sier fra når noe er galt.",
+      "funFact": "Heimdall voktet regnbuebrua Bifrost og hadde hornet Gjallarhorn.",
+      "image": "images/2027-01-08/heimdall.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Årvåken",
+          "text": "Ser og hører alt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid på vakt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter lenge."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Vokter andre."
+        }
+      ]
+    },
+    {
+      "id": "idun",
+      "name": "Idun",
+      "shareName": "Idun",
+      "emoji": null,
+      "description": "Du er frisk, omsorgsfull og passer på at andre har det bra. Du holder liv i det gode.",
+      "funFact": "Idun passet på eplene som holdt gudene unge.",
+      "image": "images/2027-01-08/idun.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som et eple."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Ungdommelig",
+          "text": "Alltid ung til sinns."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder løfter."
+        }
+      ]
+    },
+    {
+      "id": "njord",
+      "name": "Njord",
+      "shareName": "Njord",
+      "emoji": null,
+      "description": "Du er rolig, raus og glad i havet. Du tar ting som de kommer, som tidevannet.",
+      "funFact": "Njord var guden for havet, vinden og fiske.",
+      "image": "images/2027-01-08/njord.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Som stille hav."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler fangsten."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker havet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på vinden."
+        }
+      ]
+    },
+    {
+      "id": "skade",
+      "name": "Skade",
+      "shareName": "Skade",
+      "emoji": null,
+      "description": "Du er tøff, selvstendig og elsker vinteren. Du går dine egne veier, gjerne på ski.",
+      "funFact": "Skade var gudinne for jakt og ski.",
+      "image": "images/2027-01-08/skade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler kulda."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Egne veier."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Elsker snø."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid aktiv."
+        }
+      ]
+    }
+  ]
+}

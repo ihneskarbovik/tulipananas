@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-22",
+  "date": "2027-01-22",
+  "title": "Hvilken is er du i dag?",
+  "intro": "Is smaker godt hele året, også i januar. Er du en myk softis, en frisk sorbet eller en klassisk is i kjeks? Svar på sju spørsmål og finn ut hvilken is du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du har en hel uke fri uten planer. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reiser et sted spontant",
+          "scores": {
+            "bananasplit": 2,
+            "mochi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Slapper helt av hjemme",
+          "scores": {
+            "milkshake": 2,
+            "kuleis": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Treffer så mange venner som mulig",
+          "scores": {
+            "iskake": 2,
+            "softis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Starter på et nytt prosjekt",
+          "scores": {
+            "frozenyogurt": 2,
+            "gelato": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Er ute i naturen hver dag",
+          "scores": {
+            "sorbet": 2,
+            "saftis": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en liste og får gjort masse",
+          "scores": {
+            "frozenyogurt": 1,
+            "kuleis": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får for mye mat på tallerkenen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser opp alt",
+          "scores": {
+            "iskake": 2,
+            "bananasplit": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spiser det jeg klarer",
+          "scores": {
+            "kuleis": 2,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar med resten hjem",
+          "scores": {
+            "frozenyogurt": 2,
+            "mochi": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Deler med noen",
+          "scores": {
+            "milkshake": 2,
+            "softis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om en mindre porsjon neste gang",
+          "scores": {
+            "gelato": 2,
+            "frozenyogurt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser det beste først",
+          "scores": {
+            "saftis": 2,
+            "bananasplit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor i byen liker du best å være?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I parken",
+          "scores": {
+            "sorbet": 2,
+            "kuleis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en koselig kafé",
+          "scores": {
+            "milkshake": 2,
+            "gelato": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I gågata blant folk",
+          "scores": {
+            "softis": 2,
+            "bananasplit": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en benk ved vannet",
+          "scores": {
+            "mochi": 2,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På kjøpesenteret",
+          "scores": {
+            "frozenyogurt": 1,
+            "iskake": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "På lekeplassen eller en aktivitet",
+          "scores": {
+            "saftis": 2,
+            "softis": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du i en bilkø?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger med radioen",
+          "scores": {
+            "softis": 2,
+            "saftis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir utålmodig",
+          "scores": {
+            "bananasplit": 2,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med de andre i bilen",
+          "scores": {
+            "milkshake": 1,
+            "iskake": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser meg rundt og drømmer",
+          "scores": {
+            "mochi": 2,
+            "gelato": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner en annen vei",
+          "scores": {
+            "frozenyogurt": 2,
+            "kuleis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "kuleis": 1,
+            "milkshake": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva lager du helst til lunsj en lørdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omelett",
+          "scores": {
+            "kuleis": 2,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Toast",
+          "scores": {
+            "saftis": 2,
+            "softis": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Suppe",
+          "scores": {
+            "milkshake": 1,
+            "iskake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rester fra i går",
+          "scores": {
+            "frozenyogurt": 2,
+            "kuleis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe helt nytt fra en oppskrift",
+          "scores": {
+            "mochi": 2,
+            "gelato": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pannekaker",
+          "scores": {
+            "bananasplit": 2,
+            "iskake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan sier du hei til noen du ikke har sett på lenge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en kjempeklem",
+          "scores": {
+            "milkshake": 2,
+            "iskake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hyler av glede",
+          "scores": {
+            "softis": 2,
+            "bananasplit": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Smiler og sier hei",
+          "scores": {
+            "kuleis": 1,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hvordan de har hatt det",
+          "scores": {
+            "gelato": 2,
+            "frozenyogurt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en spøk vi har sammen",
+          "scores": {
+            "saftis": 2,
+            "mochi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt forsiktig, til jeg er varm i trøya",
+          "scores": {
+            "mochi": 2,
+            "sorbet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor er det beste stedet å spise is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På stranden",
+          "scores": {
+            "kuleis": 2,
+            "saftis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I en park",
+          "scores": {
+            "softis": 1,
+            "sorbet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I sofaen med pledd",
+          "scores": {
+            "milkshake": 2,
+            "iskake": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en fin iskafé",
+          "scores": {
+            "gelato": 2,
+            "mochi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På tur i fjellet",
+          "scores": {
+            "frozenyogurt": 2,
+            "sorbet": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvor som helst, også i snøen",
+          "scores": {
+            "bananasplit": 2,
+            "softis": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "softis",
+      "name": "Softis",
+      "shareName": "en softis",
+      "emoji": null,
+      "description": "Du er myk, glad og lett å like. Du gjør enhver dag til en liten fest.",
+      "funFact": "Softis inneholder mer luft enn vanlig is og serveres mykere.",
+      "image": "images/2027-01-22/softis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer humør."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle vil ha deg."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker strøssel."
+        }
+      ]
+    },
+    {
+      "id": "sorbet",
+      "name": "Sorbet",
+      "shareName": "en sorbet",
+      "emoji": null,
+      "description": "Du er frisk, lett og ærlig. Du trenger ikke mye for å være god.",
+      "funFact": "Sorbet lages uten melk, bare av frukt, sukker og vann.",
+      "image": "images/2027-01-22/sorbet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en sommerbris."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Ren og enkel."
+        },
+        {
+          "title": "Lett",
+          "text": "Ingen tyngde."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Full av frukt."
+        }
+      ]
+    },
+    {
+      "id": "gelato",
+      "name": "Gelato",
+      "shareName": "en gelato",
+      "emoji": null,
+      "description": "Du er elegant, kvalitetsbevisst og har sans for det gode i livet. Du har ekte italiensk sjarm.",
+      "funFact": "Gelato inneholder mindre luft enn vanlig is, og blir derfor tettere.",
+      "image": "images/2027-01-22/gelato.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Litt eksklusiv."
+        },
+        {
+          "title": "Kvalitetsbevisst",
+          "text": "Bare det beste."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Italiensk stil."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg tid."
+        }
+      ]
+    },
+    {
+      "id": "kuleis",
+      "name": "Is i kjeks",
+      "shareName": "en is i kjeks",
+      "emoji": null,
+      "description": "Du er klassisk, trofast og alltid en god idé. Du passer like godt på stranden som i byen.",
+      "funFact": "Iskremkjeksen ble kjent under verdensutstillingen i St. Louis i 1904.",
+      "image": "images/2027-01-22/kuleis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Alltid en vinner."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid til stede."
+        },
+        {
+          "title": "Sosial",
+          "text": "Deler en kule."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "saftis",
+      "name": "Saftis",
+      "shareName": "en saftis",
+      "emoji": null,
+      "description": "Du er enkel, leken og full av gode barndomsminner. Du gjør de små tingene gøy.",
+      "funFact": "Ifølge historien ble ispinnen oppfunnet ved et uhell av en elleve år gammel gutt i 1905.",
+      "image": "images/2027-01-22/saftis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Barnslig glede."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ukomplisert."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Gode minner."
+        }
+      ]
+    },
+    {
+      "id": "iskake",
+      "name": "Iskake",
+      "shareName": "en iskake",
+      "emoji": null,
+      "description": "Du er raus, festlig og samler folk. Du er med når det er noe å feire.",
+      "funFact": "Baked Alaska er en iskake dekket av marengs som stekes kort i ovnen uten at isen smelter.",
+      "image": "images/2027-01-22/iskake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        },
+        {
+          "title": "Festlig",
+          "text": "Til bursdager."
+        },
+        {
+          "title": "Samlende",
+          "text": "Folk rundt bordet."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        }
+      ]
+    },
+    {
+      "id": "bananasplit",
+      "name": "Banana split",
+      "shareName": "en banana split",
+      "emoji": null,
+      "description": "Du er eventyrlysten og gjør alt med ekstra pynt. Du sier sjelden nei til litt ekstra.",
+      "funFact": "Banana split ble trolig laget første gang i USA i 1904.",
+      "image": "images/2027-01-22/bananasplit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ekstravagant",
+          "text": "Litt ekstra av alt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil prøve alt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Pynter seg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "milkshake",
+      "name": "Milkshake",
+      "shareName": "en milkshake",
+      "emoji": null,
+      "description": "Du er avslappet, kremet og elsker å kose deg. Du tar ting i ditt eget tempo, gjerne med sugerør.",
+      "funFact": "Milkshake ble populært i USA da elektriske miksere ble vanlige på 1920-tallet.",
+      "image": "images/2027-01-22/milkshake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker kos."
+        },
+        {
+          "title": "Sosial",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Søt",
+          "text": "Snill mot alle."
+        }
+      ]
+    },
+    {
+      "id": "frozenyogurt",
+      "name": "Frozen yogurt",
+      "shareName": "en frozen yogurt",
+      "emoji": null,
+      "description": "Du er sunn, moderne og liker å velge selv. Du har mange ideer om hvordan ting kan bli bedre.",
+      "funFact": "Frozen yogurt lages av yoghurt i stedet for fløte.",
+      "image": "images/2027-01-22/frozenyogurt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        },
+        {
+          "title": "Moderne",
+          "text": "Følger trendene."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Velger toppingen selv."
+        },
+        {
+          "title": "Frisk",
+          "text": "Lett og god."
+        }
+      ]
+    },
+    {
+      "id": "mochi",
+      "name": "Mochi-is",
+      "shareName": "en mochi-is",
+      "emoji": null,
+      "description": "Du er spesiell, myk og litt mystisk. Folk blir nysgjerrige på deg.",
+      "funFact": "Mochi-is er is pakket inn i en myk deig av risemel, og kommer fra Japan.",
+      "image": "images/2027-01-22/mochi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spesiell",
+          "text": "Ikke som andre."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill inni."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt gåtefull."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        }
+      ]
+    }
+  ]
+}

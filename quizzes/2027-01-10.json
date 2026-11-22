@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-10",
+  "date": "2027-01-10",
+  "title": "Hvilken husmannskost er du i dag?",
+  "intro": "Når det er kaldt ute, er det godt med skikkelig norsk middag. Er du en varm fårikål, en solid raspeball eller en klassisk kjøttkake? Svar på sju spørsmål og finn ut hvilken husmannskost du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva bygger du helst i snøen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En snømann",
+          "scores": {
+            "kjottkaker": 2,
+            "fiskeboller": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En snøhule",
+          "scores": {
+            "betasuppe": 2,
+            "lapskaus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En snølykt",
+          "scores": {
+            "sodd": 1,
+            "kaalruletter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor snøborg",
+          "scores": {
+            "raspeballer": 1,
+            "farikal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En akebakke",
+          "scores": {
+            "fiskegrateng": 2,
+            "plukkfisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En snøengel",
+          "scores": {
+            "fiskeboller": 1,
+            "kaalruletter": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det er stille hjemme en hel kveld. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nyter roen",
+          "scores": {
+            "plukkfisk": 2,
+            "fiskeboller": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer en venn",
+          "scores": {
+            "kjottkaker": 2,
+            "sodd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en skikkelig middag",
+          "scores": {
+            "farikal": 2,
+            "betasuppe": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder og ordner",
+          "scores": {
+            "kaalruletter": 2,
+            "lapskaus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser en film med pledd",
+          "scores": {
+            "fiskegrateng": 2,
+            "raspeballer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Inviterer noen over",
+          "scores": {
+            "sodd": 1,
+            "kjottkaker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best på en buffet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varmrettene",
+          "scores": {
+            "farikal": 2,
+            "betasuppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Salatbaren",
+          "scores": {
+            "kaalruletter": 2,
+            "plukkfisk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dessertbordet",
+          "scores": {
+            "fiskegrateng": 2,
+            "kjottkaker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Brød og pålegg",
+          "scores": {
+            "raspeballer": 2,
+            "fiskeboller": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt av alt på én tallerken",
+          "scores": {
+            "lapskaus": 2,
+            "sodd": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fisk og sjømat",
+          "scores": {
+            "plukkfisk": 1,
+            "fiskegrateng": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser et stjerneskudd. Hva ønsker du deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At alle jeg er glad i har det bra",
+          "scores": {
+            "fiskeboller": 2,
+            "kjottkaker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et godt måltid",
+          "scores": {
+            "betasuppe": 2,
+            "raspeballer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En lang reise",
+          "scores": {
+            "plukkfisk": 2,
+            "lapskaus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor fest",
+          "scores": {
+            "sodd": 2,
+            "farikal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mer tid",
+          "scores": {
+            "kaalruletter": 1,
+            "fiskegrateng": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg rekker aldri å ønske noe",
+          "scores": {
+            "lapskaus": 1,
+            "raspeballer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags pute liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor og myk",
+          "scores": {
+            "fiskegrateng": 2,
+            "fiskeboller": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En flat og fast",
+          "scores": {
+            "plukkfisk": 1,
+            "raspeballer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mange puter",
+          "scores": {
+            "sodd": 2,
+            "kjottkaker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En pute med ull eller dun",
+          "scores": {
+            "farikal": 1,
+            "betasuppe": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den gamle, gode puta mi",
+          "scores": {
+            "lapskaus": 2,
+            "fiskeboller": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En spesialpute for nakken",
+          "scores": {
+            "kaalruletter": 2,
+            "plukkfisk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen spør hva du tenker på. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mat, som regel",
+          "scores": {
+            "kjottkaker": 2,
+            "betasuppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg forteller det ærlig",
+          "scores": {
+            "plukkfisk": 1,
+            "raspeballer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting spesielt",
+          "scores": {
+            "fiskeboller": 2,
+            "lapskaus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe jeg gleder meg til",
+          "scores": {
+            "sodd": 2,
+            "fiskegrateng": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe jeg skal ordne",
+          "scores": {
+            "kaalruletter": 2,
+            "farikal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spør hva de tenker på",
+          "scores": {
+            "farikal": 2,
+            "kjottkaker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du når det er skikkelig kaldt ute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar på ullundertøy og går ut likevel",
+          "scores": {
+            "plukkfisk": 2,
+            "raspeballer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir inne med noe varmt",
+          "scores": {
+            "betasuppe": 2,
+            "fiskegrateng": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager suppe",
+          "scores": {
+            "lapskaus": 2,
+            "farikal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fyrer i ovnen",
+          "scores": {
+            "sodd": 2,
+            "kjottkaker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fryser og klager litt",
+          "scores": {
+            "fiskeboller": 2,
+            "kaalruletter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går på skøyter",
+          "scores": {
+            "raspeballer": 2,
+            "sodd": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "farikal",
+      "name": "Fårikål",
+      "shareName": "fårikål",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, varm og samler folk rundt gryta. Du blir bare bedre med tiden.",
+      "funFact": "Fårikål er kåret til Norges nasjonalrett og har sin egen festdag siste torsdag i september.",
+      "image": "images/2027-01-10/farikal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "En ekte klassiker."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trøst."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle rundt gryta."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Blir bedre med tiden."
+        }
+      ]
+    },
+    {
+      "id": "raspeballer",
+      "name": "Raspeballer",
+      "shareName": "raspeballer",
+      "emoji": null,
+      "description": "Du er solid, mettende og har mange navn rundt om i landet. Folk har sterke meninger om deg, men de fleste elsker deg.",
+      "funFact": "Raspeballer har mange navn rundt om i landet, blant annet komle, kumle og klubb.",
+      "image": "images/2027-01-10/raspeballer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Holder deg mett."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Mange navn."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "lapskaus",
+      "name": "Lapskaus",
+      "shareName": "lapskaus",
+      "emoji": null,
+      "description": "Du er praktisk og får det beste ut av alt som finnes. Ingenting går til spille hos deg.",
+      "funFact": "Navnet lapskaus kommer fra en gammel sjømannsrett som på engelsk heter lobscouse.",
+      "image": "images/2027-01-10/lapskaus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Bruker alt."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer med alt."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen stas."
+        },
+        {
+          "title": "Varm",
+          "text": "God på kalde dager."
+        }
+      ]
+    },
+    {
+      "id": "kjottkaker",
+      "name": "Kjøttkaker",
+      "shareName": "kjøttkaker",
+      "emoji": null,
+      "description": "Du er trygg, populær og alltid en god idé. Folk blir glade når du står på bordet.",
+      "funFact": "Kjøttkaker serveres ofte med brun saus, ertestuing og tyttebær.",
+      "image": "images/2027-01-10/kjottkaker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid en god idé."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Hjemmekoselig",
+          "text": "Som hos mormor."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        }
+      ]
+    },
+    {
+      "id": "fiskeboller",
+      "name": "Fiskeboller",
+      "shareName": "fiskeboller",
+      "emoji": null,
+      "description": "Du er myk, snill og litt gammeldags på en fin måte. Du har en egen plass i hjertet til mange.",
+      "funFact": "Fiskeboller i hvit saus har vært vanlig middag i Norge i over hundre år.",
+      "image": "images/2027-01-10/fiskeboller.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Litt gammeldags."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "sodd",
+      "name": "Sodd",
+      "shareName": "sodd",
+      "emoji": null,
+      "description": "Du er festlig, tradisjonsrik og stolt av hvor du kommer fra. Du hører til de store anledningene.",
+      "funFact": "Sodd er en tradisjonsrett fra Trøndelag med kjøttboller og kjøtt i klar buljong.",
+      "image": "images/2027-01-10/sodd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Til store dager."
+        },
+        {
+          "title": "Stolt",
+          "text": "Kjenner røttene."
+        },
+        {
+          "title": "Klar",
+          "text": "Ærlig og enkel."
+        },
+        {
+          "title": "Samlende",
+          "text": "For mange gjester."
+        }
+      ]
+    },
+    {
+      "id": "plukkfisk",
+      "name": "Plukkfisk",
+      "shareName": "plukkfisk",
+      "emoji": null,
+      "description": "Du er ærlig, enkel og sterk i smaken. Du trenger ikke mye for å være god.",
+      "funFact": "Plukkfisk lages av lettsaltet fisk som plukkes i biter og blandes med poteter.",
+      "image": "images/2027-01-10/plukkfisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Enkel",
+          "text": "Få ingredienser."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram."
+        },
+        {
+          "title": "Kystmenneske",
+          "text": "Glad i havet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Plukket for hånd."
+        }
+      ]
+    },
+    {
+      "id": "betasuppe",
+      "name": "Betasuppe",
+      "shareName": "betasuppe",
+      "emoji": null,
+      "description": "Du er varm, raus og full av gode ting. Du gir krefter på kalde dager.",
+      "funFact": "Betasuppe er en kraftig suppe med kjøtt, grønnsaker og ofte erter.",
+      "image": "images/2027-01-10/betasuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir krefter."
+        },
+        {
+          "title": "Raus",
+          "text": "Mye godt i."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives på kjøkkenet."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mettende."
+        }
+      ]
+    },
+    {
+      "id": "fiskegrateng",
+      "name": "Fiskegrateng",
+      "shareName": "fiskegrateng",
+      "emoji": null,
+      "description": "Du er koselig, myk og har en sprø overflate. Folk som kjenner deg, vet at du er god helt inn.",
+      "funFact": "Fiskegrateng lages ofte med makaroni, fisk og hvit saus i ovnen.",
+      "image": "images/2027-01-10/fiskegrateng.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "God og varm."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill inni."
+        },
+        {
+          "title": "Sprø",
+          "text": "Litt tøff overflate."
+        },
+        {
+          "title": "Familievennlig",
+          "text": "Alle liker deg."
+        }
+      ]
+    },
+    {
+      "id": "kaalruletter",
+      "name": "Kålruletter",
+      "shareName": "kålruletter",
+      "emoji": null,
+      "description": "Du er omtenksom, ordentlig og pakker ting pent inn. Du har mer å by på enn man ser utenpå.",
+      "funFact": "Kålruletter er kjøttdeig rullet inn i kålblader.",
+      "image": "images/2027-01-10/kaalruletter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Pent pakket."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på detaljene."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Godt inni."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gammel oppskrift."
+        }
+      ]
+    }
+  ]
+}

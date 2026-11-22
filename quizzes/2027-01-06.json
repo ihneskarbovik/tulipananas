@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-06",
+  "date": "2027-01-06",
+  "title": "Hvilken krone er du i dag?",
+  "intro": "I dag er det helligtrekongersdag, oppkalt etter de tre kongene i juleevangeliet. Er du en ekte kongekrone, en papirkrone eller et kronestykke? Svar på sju spørsmål og finn ut hvilken krone du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst ha på balkongen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Masse blomster",
+          "scores": {
+            "blomsterkrans": 2,
+            "keiserkrone": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Urter og tomater",
+          "scores": {
+            "kronestykke": 1,
+            "adventskrans": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En grill",
+          "scores": {
+            "papirkrone": 1,
+            "kronekork": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En god stol og et pledd",
+          "scores": {
+            "luciakrone": 1,
+            "adventskrans": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lys og lysslynger",
+          "scores": {
+            "brudekrone": 2,
+            "keiserkrone": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Treningsutstyr",
+          "scores": {
+            "laurbaer": 1,
+            "kongekrone": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du blir bedt om å lede noe. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar ansvar med en gang",
+          "scores": {
+            "kongekrone": 2,
+            "laurbaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør alle om hva de mener",
+          "scores": {
+            "adventskrans": 2,
+            "kronestykke": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør det morsomt for alle",
+          "scores": {
+            "papirkrone": 2,
+            "kronekork": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en tydelig plan",
+          "scores": {
+            "kongekrone": 2,
+            "brudekrone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leder ved å gå foran som et godt eksempel",
+          "scores": {
+            "luciakrone": 2,
+            "laurbaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier helst nei takk",
+          "scores": {
+            "keiserkrone": 2,
+            "blomsterkrans": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva savner du mest når du er borte hjemmefra?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Senga mi",
+          "scores": {
+            "adventskrans": 1,
+            "luciakrone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Familien",
+          "scores": {
+            "brudekrone": 2,
+            "kongekrone": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Maten hjemme",
+          "scores": {
+            "kronestykke": 2,
+            "adventskrans": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vennene mine",
+          "scores": {
+            "papirkrone": 2,
+            "kronekork": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjæledyret",
+          "scores": {
+            "blomsterkrans": 2,
+            "keiserkrone": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nesten ingenting, jeg elsker å være borte",
+          "scores": {
+            "laurbaer": 2,
+            "kronekork": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er din tur til å velge middag for familien. Hva blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pizza",
+          "scores": {
+            "papirkrone": 2,
+            "kronekork": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Taco",
+          "scores": {
+            "kronekork": 2,
+            "laurbaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En fin treretters",
+          "scores": {
+            "kongekrone": 1,
+            "brudekrone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Grønnsakssuppe",
+          "scores": {
+            "blomsterkrans": 2,
+            "keiserkrone": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det vi har i kjøleskapet",
+          "scores": {
+            "kronestykke": 2,
+            "adventskrans": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Favorittretten til mormor",
+          "scores": {
+            "luciakrone": 2,
+            "adventskrans": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken himmel liker du best å se på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stjernehimmel",
+          "scores": {
+            "luciakrone": 2,
+            "kongekrone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En rosa solnedgang",
+          "scores": {
+            "brudekrone": 2,
+            "blomsterkrans": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blå himmel med små skyer",
+          "scores": {
+            "keiserkrone": 2,
+            "kronestykke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et skikkelig tordenvær",
+          "scores": {
+            "laurbaer": 2,
+            "kronekork": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nordlys",
+          "scores": {
+            "adventskrans": 2,
+            "luciakrone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Morgenhimmelen før sola står opp",
+          "scores": {
+            "kongekrone": 2,
+            "laurbaer": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har kranglet med en venn. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar kontakt og sier unnskyld",
+          "scores": {
+            "brudekrone": 2,
+            "luciakrone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter til vi begge har roet oss",
+          "scores": {
+            "kongekrone": 1,
+            "adventskrans": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer på noe hyggelig",
+          "scores": {
+            "papirkrone": 1,
+            "kronekork": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snakker ut om det med en gang",
+          "scores": {
+            "laurbaer": 1,
+            "kronestykke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skriver en melding",
+          "scores": {
+            "blomsterkrans": 2,
+            "keiserkrone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar det gå over av seg selv",
+          "scores": {
+            "kronestykke": 2,
+            "papirkrone": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på helligtrekongersdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar ned juletreet",
+          "scores": {
+            "kronestykke": 2,
+            "kongekrone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Har en siste julekveld med lys",
+          "scores": {
+            "luciakrone": 2,
+            "adventskrans": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser de siste julekakene",
+          "scores": {
+            "papirkrone": 2,
+            "kronekork": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går en lang tur",
+          "scores": {
+            "laurbaer": 2,
+            "blomsterkrans": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder og gjør klart til hverdagen",
+          "scores": {
+            "brudekrone": 2,
+            "kronestykke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg visste ikke at det var en spesiell dag",
+          "scores": {
+            "keiserkrone": 2,
+            "papirkrone": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kongekrone",
+      "name": "Kongekrone",
+      "shareName": "en kongekrone",
+      "emoji": null,
+      "description": "Du er verdig, ansvarsfull og vet hva du står for. Folk ser opp til deg.",
+      "funFact": "Den norske kongekronen ble laget i Stockholm i 1818.",
+      "image": "images/2027-01-06/kongekrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Verdig",
+          "text": "Høyt hevet hode."
+        },
+        {
+          "title": "Ansvarsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for deg selv."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Mange hundre år."
+        }
+      ]
+    },
+    {
+      "id": "papirkrone",
+      "name": "Papirkrone",
+      "shareName": "en papirkrone",
+      "emoji": null,
+      "description": "Du er festlig, leken og tar ikke deg selv så høytidelig. Du gjør enhver middag morsommere.",
+      "funFact": "I Storbritannia er det vanlig å ha på seg papirkroner fra knallbonbonger i julemiddagen.",
+      "image": "images/2027-01-06/papirkrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Elsker fest."
+        },
+        {
+          "title": "Leken",
+          "text": "Tuller gjerne."
+        },
+        {
+          "title": "Ukomplisert",
+          "text": "Enkel glede."
+        },
+        {
+          "title": "Raus",
+          "text": "Alle får en."
+        }
+      ]
+    },
+    {
+      "id": "blomsterkrans",
+      "name": "Blomsterkrans",
+      "shareName": "en blomsterkrans",
+      "emoji": null,
+      "description": "Du er naturglad, romantisk og elsker lyse sommerkvelder. Du ser det vakre overalt.",
+      "funFact": "Blomsterkranser i håret er en kjent tradisjon på midtsommer, særlig i Sverige.",
+      "image": "images/2027-01-06/blomsterkrans.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Naturglad",
+          "text": "Elsker blomster."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Drømmer om sommer."
+        },
+        {
+          "title": "Lys",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Fletter fint."
+        }
+      ]
+    },
+    {
+      "id": "laurbaer",
+      "name": "Laurbærkrans",
+      "shareName": "en laurbærkrans",
+      "emoji": null,
+      "description": "Du er målrettet og jobber hardt for å nå målene dine. Du fortjener alt du får.",
+      "funFact": "I antikkens Hellas fikk vinnerne i lekene i Delfi en krans av laurbær.",
+      "image": "images/2027-01-06/laurbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Jobber mot målet."
+        },
+        {
+          "title": "Konkurranse",
+          "text": "Liker å vinne."
+        },
+        {
+          "title": "Stolt",
+          "text": "Fortjener det."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "luciakrone",
+      "name": "Luciakrone",
+      "shareName": "en luciakrone",
+      "emoji": null,
+      "description": "Du er lysende, rolig og sprer varme i mørket. Folk blir stille av å se deg.",
+      "funFact": "Luciakronen har levende eller elektriske lys, og bæres av Lucia i luciatoget.",
+      "image": "images/2027-01-06/luciakrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lysende",
+          "text": "Lyser i mørket."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trøst."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker skikker."
+        }
+      ]
+    },
+    {
+      "id": "brudekrone",
+      "name": "Brudekrone",
+      "shareName": "en brudekrone",
+      "emoji": null,
+      "description": "Du er høytidelig, trofast og elsker store øyeblikk. Du tar vare på det som betyr noe.",
+      "funFact": "Brudekroner i sølv har vært en del av norske bryllupstradisjoner i flere hundre år.",
+      "image": "images/2027-01-06/brudekrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høytidelig",
+          "text": "Store øyeblikk."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Elegant",
+          "text": "Skinner i sølv."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Tror på kjærligheten."
+        }
+      ]
+    },
+    {
+      "id": "kronestykke",
+      "name": "Kronestykke",
+      "shareName": "et kronestykke",
+      "emoji": null,
+      "description": "Du er praktisk, nøktern og vet at mange små ting blir til mye. Du er mer verdt enn du tror.",
+      "funFact": "Den norske kronen ble innført som valuta i 1875.",
+      "image": "images/2027-01-06/kronestykke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Sparer litt."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten, men viktig."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder verdien."
+        }
+      ]
+    },
+    {
+      "id": "kronekork",
+      "name": "Kronekork",
+      "shareName": "en kronekork",
+      "emoji": null,
+      "description": "Du er livlig, sosial og alltid med der det skjer. Du holder på det gode inni.",
+      "funFact": "Kronekorken ble oppfunnet i 1892 og har tradisjonelt 21 takker.",
+      "image": "images/2027-01-06/kronekork.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Pop!"
+        },
+        {
+          "title": "Sosial",
+          "text": "Alltid med."
+        },
+        {
+          "title": "Tett",
+          "text": "Holder på hemmeligheter."
+        },
+        {
+          "title": "Samler",
+          "text": "Folk samler på deg."
+        }
+      ]
+    },
+    {
+      "id": "adventskrans",
+      "name": "Adventskrans",
+      "shareName": "en adventskrans",
+      "emoji": null,
+      "description": "Du er tålmodig, koselig og gleder deg lenge til ting. Du teller ned med glede.",
+      "funFact": "Adventskransen ble trolig først laget i Tyskland på 1800-tallet.",
+      "image": "images/2027-01-06/adventskrans.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ett lys om gangen."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det hyggelig."
+        },
+        {
+          "title": "Forventningsfull",
+          "text": "Gleder seg lenge."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        }
+      ]
+    },
+    {
+      "id": "keiserkrone",
+      "name": "Keiserkrone",
+      "shareName": "en keiserkrone",
+      "emoji": null,
+      "description": "Du er spesiell, stolt og liker å skille deg ut. Du blomstrer på din egen måte.",
+      "funFact": "Keiserkrone er en hageplante med en krans av blomster og en dusk av blader på toppen.",
+      "image": "images/2027-01-06/keiserkrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spesiell",
+          "text": "Skiller seg ut."
+        },
+        {
+          "title": "Stolt",
+          "text": "Rak i ryggen."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Blomstrer om våren."
+        },
+        {
+          "title": "Original",
+          "text": "Helt egen stil."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-07",
+  "date": "2027-01-07",
+  "title": "Hvem er du i sirkuset i dag?",
+  "intro": "Er du en morsom klovn, en modig trapesartist eller en lur tryllekunstner? Svar på sju spørsmål og finn ut hvem du er i sirkuset i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Votter eller hansker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykke votter",
+          "scores": {
+            "klovn": 1,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tynne hansker",
+          "scores": {
+            "tryllekunstner": 2,
+            "linedanser": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lovvotter med en tråd i mellom",
+          "scores": {
+            "enhjul": 1,
+            "stylter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skihansker",
+          "scores": {
+            "akrobat": 2,
+            "trapes": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Halvvotter, så jeg kan bruke fingrene",
+          "scores": {
+            "sjonglor": 2,
+            "direktor": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg har hendene i lomma",
+          "scores": {
+            "linedanser": 1,
+            "enhjul": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du blir bedt om å synge alene foran andre. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger av full hals",
+          "scores": {
+            "klovn": 2,
+            "direktor": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Synger, men blir litt rød",
+          "scores": {
+            "popkorn": 2,
+            "stylter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør det til et morsomt nummer",
+          "scores": {
+            "sjonglor": 2,
+            "tryllekunstner": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier nei takk",
+          "scores": {
+            "linedanser": 2,
+            "enhjul": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Får med alle andre",
+          "scores": {
+            "direktor": 1,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar sjansen, det blir gøy",
+          "scores": {
+            "trapes": 1,
+            "akrobat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst i et svømmebasseng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper fra stupebrettet",
+          "scores": {
+            "trapes": 1,
+            "akrobat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Svømmer lengde etter lengde",
+          "scores": {
+            "linedanser": 2,
+            "enhjul": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Flyter på ryggen",
+          "scores": {
+            "stylter": 2,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leker med ball",
+          "scores": {
+            "sjonglor": 2,
+            "klovn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sitter i boblebadet",
+          "scores": {
+            "direktor": 1,
+            "tryllekunstner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prøver vannsklia",
+          "scores": {
+            "klovn": 1,
+            "trapes": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen utfordrer deg til et veddemål. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier ja med en gang",
+          "scores": {
+            "trapes": 2,
+            "akrobat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør hva vi vedder om først",
+          "scores": {
+            "direktor": 2,
+            "linedanser": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vedder om noe morsomt",
+          "scores": {
+            "klovn": 1,
+            "sjonglor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en lur måte å vinne på",
+          "scores": {
+            "tryllekunstner": 2,
+            "enhjul": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier nei, jeg vedder ikke",
+          "scores": {
+            "stylter": 2,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vedder om en is",
+          "scores": {
+            "popkorn": 2,
+            "klovn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken matrett vil du helst lære å lage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sushi",
+          "scores": {
+            "linedanser": 1,
+            "tryllekunstner": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hjemmelaget pizza",
+          "scores": {
+            "klovn": 1,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ekte italiensk pasta",
+          "scores": {
+            "direktor": 1,
+            "stylter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor bløtkake",
+          "scores": {
+            "sjonglor": 1,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Indisk karri",
+          "scores": {
+            "trapes": 1,
+            "enhjul": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den perfekte biffen",
+          "scores": {
+            "akrobat": 2,
+            "direktor": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken rolle har du i vennegjengen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den morsomme",
+          "scores": {
+            "klovn": 2,
+            "sjonglor": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som planlegger",
+          "scores": {
+            "direktor": 1,
+            "stylter": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som lytter",
+          "scores": {
+            "linedanser": 1,
+            "popkorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som tør alt",
+          "scores": {
+            "trapes": 2,
+            "akrobat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som overrasker",
+          "scores": {
+            "tryllekunstner": 2,
+            "enhjul": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som tar med snacks",
+          "scores": {
+            "popkorn": 2,
+            "klovn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det første du gjør når juleferien er over?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pakker sekken og er klar",
+          "scores": {
+            "direktor": 1,
+            "akrobat": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover så lenge jeg kan",
+          "scores": {
+            "stylter": 2,
+            "enhjul": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gleder meg til å se alle igjen",
+          "scores": {
+            "popkorn": 2,
+            "klovn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en plan for våren",
+          "scores": {
+            "linedanser": 2,
+            "direktor": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Starter på noe nytt",
+          "scores": {
+            "trapes": 2,
+            "sjonglor": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Later som ferien fortsatt varer",
+          "scores": {
+            "tryllekunstner": 2,
+            "klovn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "klovn",
+      "name": "Klovn",
+      "shareName": "en klovn",
+      "emoji": null,
+      "description": "Du er morsom, varm og får alle til å le. Du tåler å dumme deg ut hvis det gjør andre glade.",
+      "funFact": "Klovner har vært med i sirkus siden det moderne sirkuset startet i London på 1700-tallet.",
+      "image": "images/2027-01-07/klovn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å dumme seg ut."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid på tull."
+        }
+      ]
+    },
+    {
+      "id": "akrobat",
+      "name": "Akrobat",
+      "shareName": "en akrobat",
+      "emoji": null,
+      "description": "Du er sterk, smidig og liker å utfordre deg selv. Du gjør det vanskelige lett å se på.",
+      "funFact": "Ordet akrobat kommer fra gresk og betyr «en som går på tærne».",
+      "image": "images/2027-01-07/akrobat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smidig",
+          "text": "Bøyer seg lett."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det store."
+        },
+        {
+          "title": "Disiplinert",
+          "text": "Øver mye."
+        }
+      ]
+    },
+    {
+      "id": "linedanser",
+      "name": "Linedanser",
+      "shareName": "en linedanser",
+      "emoji": null,
+      "description": "Du er fokusert, rolig og har god balanse i livet. Du holder hodet kaldt når det gjelder.",
+      "funFact": "Linedansere bruker ofte en lang stang for å holde balansen.",
+      "image": "images/2027-01-07/linedanser.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Blikket fremover."
+        },
+        {
+          "title": "Balansert",
+          "text": "Holder seg på linja."
+        },
+        {
+          "title": "Rolig",
+          "text": "Kaldt hode."
+        },
+        {
+          "title": "Modig",
+          "text": "Høyt oppe."
+        }
+      ]
+    },
+    {
+      "id": "sjonglor",
+      "name": "Sjonglør",
+      "shareName": "en sjonglør",
+      "emoji": null,
+      "description": "Du er flink til å holde mange baller i lufta. Du får til mye på en gang.",
+      "funFact": "Sjonglering er avbildet på egyptiske veggmalerier som er rundt 4000 år gamle.",
+      "image": "images/2027-01-07/sjonglor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Mange ting på en gang."
+        },
+        {
+          "title": "Koordinert",
+          "text": "God kontroll."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å vise fram."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Øver til det sitter."
+        }
+      ]
+    },
+    {
+      "id": "tryllekunstner",
+      "name": "Tryllekunstner",
+      "shareName": "en tryllekunstner",
+      "emoji": null,
+      "description": "Du er lur, sjarmerende og har alltid en overraskelse på lur. Folk lurer på hvordan du får det til.",
+      "funFact": "Illusjonisten Harry Houdini ble verdenskjent for å rømme fra lenker og låste kister.",
+      "image": "images/2027-01-07/tryllekunstner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har noe i ermet."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner publikum."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Avslører ingenting."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Nye triks."
+        }
+      ]
+    },
+    {
+      "id": "trapes",
+      "name": "Trapesartist",
+      "shareName": "en trapesartist",
+      "emoji": null,
+      "description": "Du er modig, eventyrlysten og stoler på dem rundt deg. Du flyr høyt og lander trygt.",
+      "funFact": "Den flygende trapesen ble oppfunnet av franskmannen Jules Léotard i 1859, og trikoten er oppkalt etter ham.",
+      "image": "images/2027-01-07/trapes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Flyr høyt."
+        },
+        {
+          "title": "Tillitsfull",
+          "text": "Stoler på makkeren."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker suset."
+        },
+        {
+          "title": "Elegant",
+          "text": "Lett i lufta."
+        }
+      ]
+    },
+    {
+      "id": "enhjul",
+      "name": "Enhjulssyklist",
+      "shareName": "en enhjulssyklist",
+      "emoji": null,
+      "description": "Du er særegen, utholdende og gjør ting på din egen måte. Du trenger ikke det samme som alle andre.",
+      "funFact": "De fleste enhjulssykler har ikke brems.",
+      "image": "images/2027-01-07/enhjul.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Særegen",
+          "text": "Egen vei."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Tråkker videre."
+        },
+        {
+          "title": "Balansert",
+          "text": "Holder seg oppe."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg med ett hjul."
+        }
+      ]
+    },
+    {
+      "id": "direktor",
+      "name": "Sirkusdirektør",
+      "shareName": "en sirkusdirektør",
+      "emoji": null,
+      "description": "Du er tydelig, sosial og liker å ha oversikt. Du samler alle og får showet til å gå.",
+      "funFact": "Manesjen i et sirkus er ofte rund og rundt 13 meter i diameter.",
+      "image": "images/2027-01-07/direktor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leder",
+          "text": "Holder i trådene."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Høres godt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Kjenner alle."
+        },
+        {
+          "title": "Organisert",
+          "text": "Har oversikt."
+        }
+      ]
+    },
+    {
+      "id": "stylter",
+      "name": "Styltegjenger",
+      "shareName": "en styltegjenger",
+      "emoji": null,
+      "description": "Du er høy i hatten på en fin måte, og du ser ting fra et annet perspektiv. Du har oversikt over alt.",
+      "funFact": "Gjetere i Frankrike brukte stylter for å holde oversikt over sauene.",
+      "image": "images/2027-01-07/stylter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oversikt",
+          "text": "Ser over alt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Ett steg om gangen."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å finne."
+        },
+        {
+          "title": "Annerledes",
+          "text": "Eget perspektiv."
+        }
+      ]
+    },
+    {
+      "id": "popkorn",
+      "name": "Popkornselger",
+      "shareName": "en popkornselger",
+      "emoji": null,
+      "description": "Du er hyggelig, raus og elsker stemningen der folk er samlet. Du sørger for at alle har det bra.",
+      "funFact": "Popkorn spretter fordi vannet inni kornet blir til damp og sprenger skallet.",
+      "image": "images/2027-01-07/popkorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Alltid et smil."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler ut."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Ingen er sultne."
+        }
+      ]
+    }
+  ]
+}

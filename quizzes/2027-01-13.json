@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-13",
+  "date": "2027-01-13",
+  "title": "Hvilken tidsepoke er du i dag?",
+  "intro": "Hvis du kunne reist i tid, hvor ville du hørt hjemme? Er du steinalderen, vikingtiden eller romalderen? Svar på sju spørsmål og finn ut hvilken tidsepoke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å ha på veggen hjemme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamle kart",
+          "scores": {
+            "vikingtid": 2,
+            "middelalder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et maleri",
+          "scores": {
+            "renessanse": 2,
+            "hellas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Familiebilder",
+          "scores": {
+            "steinalder": 1,
+            "middelalder": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor plakat av verdensrommet",
+          "scores": {
+            "romalder": 2,
+            "industri": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hylle med ting jeg har laget",
+          "scores": {
+            "bronsealder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor kalender og planer",
+          "scores": {
+            "romertid": 2,
+            "egypt": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får vite at du skal flytte til en ny by. Hvordan reagerer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gleder meg til eventyret",
+          "scores": {
+            "vikingtid": 2,
+            "romalder": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager en plan for alt",
+          "scores": {
+            "romertid": 2,
+            "egypt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir litt lei meg",
+          "scores": {
+            "middelalder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lurer på hva jeg kan lære der",
+          "scores": {
+            "hellas": 2,
+            "renessanse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Begynner å pakke med en gang",
+          "scores": {
+            "industri": 2,
+            "bronsealder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prøver å få med meg vennene",
+          "scores": {
+            "middelalder": 1,
+            "hellas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken rolle ville du hatt i et teaterstykke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hovedrollen",
+          "scores": {
+            "romertid": 2,
+            "hellas": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skurken",
+          "scores": {
+            "vikingtid": 2,
+            "egypt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den morsomme bifiguren",
+          "scores": {
+            "renessanse": 2,
+            "bronsealder": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Regissøren",
+          "scores": {
+            "egypt": 1,
+            "industri": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som lager kulissene",
+          "scores": {
+            "steinalder": 1,
+            "bronsealder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg sitter helst i publikum",
+          "scores": {
+            "middelalder": 1,
+            "romalder": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du merker at noen har det vanskelig, men de sier ingenting. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør forsiktig hvordan det går",
+          "scores": {
+            "middelalder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inviterer dem med på noe",
+          "scores": {
+            "hellas": 2,
+            "renessanse": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir dem tid og er der hvis de trenger meg",
+          "scores": {
+            "egypt": 2,
+            "romalder": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager noe godt til dem",
+          "scores": {
+            "bronsealder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver å finne ut hva som er galt",
+          "scores": {
+            "romertid": 2,
+            "industri": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør noe morsomt for å muntre dem opp",
+          "scores": {
+            "vikingtid": 2,
+            "renessanse": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du på den første varme vårdagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser is ute",
+          "scores": {
+            "bronsealder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar fram sykkelen",
+          "scores": {
+            "industri": 2,
+            "romertid": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter meg i sola med en bok",
+          "scores": {
+            "hellas": 2,
+            "renessanse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går en lang tur",
+          "scores": {
+            "vikingtid": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Planter noe i hagen",
+          "scores": {
+            "egypt": 1,
+            "middelalder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Møter venner i parken",
+          "scores": {
+            "romalder": 2,
+            "hellas": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva liker du best med å bo der du bor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naturen rundt",
+          "scores": {
+            "steinalder": 2,
+            "vikingtid": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Naboene og vennene",
+          "scores": {
+            "middelalder": 2,
+            "hellas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At alt er i nærheten",
+          "scores": {
+            "romertid": 2,
+            "industri": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Historien og de gamle husene",
+          "scores": {
+            "egypt": 2,
+            "middelalder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At det skjer mye",
+          "scores": {
+            "renessanse": 2,
+            "romalder": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Roen",
+          "scores": {
+            "steinalder": 1,
+            "bronsealder": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvis du kunne fått én ting fra framtiden, hva skulle det vært?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En flygende bil",
+          "scores": {
+            "romalder": 2,
+            "industri": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En robot som lager mat",
+          "scores": {
+            "bronsealder": 2,
+            "romertid": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En maskin som oversetter alle språk",
+          "scores": {
+            "hellas": 2,
+            "renessanse": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En tidsmaskin",
+          "scores": {
+            "egypt": 2,
+            "vikingtid": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, jeg liker det gamle",
+          "scores": {
+            "middelalder": 2,
+            "steinalder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et hus som rydder seg selv",
+          "scores": {
+            "industri": 2,
+            "steinalder": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "steinalder",
+      "name": "Steinalderen",
+      "shareName": "steinalderen",
+      "emoji": null,
+      "description": "Du er praktisk, jordnær og klarer deg med det du har. Du trenger ikke mye for å ha det bra.",
+      "funFact": "De første menneskene kom til Norge for over 11 000 år siden, i steinalderen.",
+      "image": "images/2027-01-13/steinalder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Lager det du trenger."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Nær naturen."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Seig",
+          "text": "Klarer seg."
+        }
+      ]
+    },
+    {
+      "id": "bronsealder",
+      "name": "Bronsealderen",
+      "shareName": "bronsealderen",
+      "emoji": null,
+      "description": "Du er oppfinnsom og glad i å finne nye løsninger. Du blander gamle ideer til noe nytt.",
+      "funFact": "I bronsealderen lærte folk å blande kobber og tinn til bronse.",
+      "image": "images/2027-01-13/bronsealder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppfinnsom",
+          "text": "Nye løsninger."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Blander ideer."
+        },
+        {
+          "title": "Flittig",
+          "text": "Jobber med hendene."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære mer."
+        }
+      ]
+    },
+    {
+      "id": "egypt",
+      "name": "Oldtidens Egypt",
+      "shareName": "oldtidens Egypt",
+      "emoji": null,
+      "description": "Du er ambisiøs, tålmodig og tenker stort. Det du bygger, varer lenge.",
+      "funFact": "Den store pyramiden i Giza var verdens høyeste bygning i over 3800 år.",
+      "image": "images/2027-01-13/egypt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ambisiøs",
+          "text": "Tenker stort."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Bygger for evigheten."
+        },
+        {
+          "title": "Organisert",
+          "text": "Har en plan."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Full av hemmeligheter."
+        }
+      ]
+    },
+    {
+      "id": "hellas",
+      "name": "Antikkens Hellas",
+      "shareName": "antikkens Hellas",
+      "emoji": null,
+      "description": "Du er nysgjerrig, filosofisk og glad i en god diskusjon. Du liker også å konkurrere.",
+      "funFact": "De første olympiske leker ble holdt i Olympia i Hellas i år 776 før vår tidsregning.",
+      "image": "images/2027-01-13/hellas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Filosofisk",
+          "text": "Stiller store spørsmål."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alt."
+        },
+        {
+          "title": "Konkurranse",
+          "text": "Liker å vinne."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser det vakre."
+        }
+      ]
+    },
+    {
+      "id": "romertid",
+      "name": "Romertiden",
+      "shareName": "romertiden",
+      "emoji": null,
+      "description": "Du er organisert, effektiv og får store ting til å skje. Du bygger veier for andre.",
+      "funFact": "Romerne bygde et enormt nettverk av veier, og mange av dem brukes fortsatt.",
+      "image": "images/2027-01-13/romertid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Organisert",
+          "text": "Alt i system."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Leder",
+          "text": "Holder orden."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bygger solid."
+        }
+      ]
+    },
+    {
+      "id": "vikingtid",
+      "name": "Vikingtiden",
+      "shareName": "vikingtiden",
+      "emoji": null,
+      "description": "Du er eventyrlysten, modig og elsker å reise. Du tar sjanser og drar langt hjemmefra.",
+      "funFact": "Vikingtiden regnes ofte fra rundt år 793 til 1066.",
+      "image": "images/2027-01-13/vikingtid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Seiler ut i verden."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar sjanser."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Mange sagaer."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler vær og vind."
+        }
+      ]
+    },
+    {
+      "id": "middelalder",
+      "name": "Middelalderen",
+      "shareName": "middelalderen",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, trofast og glad i gamle historier. Du ville likt riddere og slott.",
+      "funFact": "Nidarosdomen i Trondheim ble påbegynt rundt år 1070.",
+      "image": "images/2027-01-13/middelalder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder løfter."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker det gamle."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Riddere og sagn."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Bygger i mange år."
+        }
+      ]
+    },
+    {
+      "id": "renessanse",
+      "name": "Renessansen",
+      "shareName": "renessansen",
+      "emoji": null,
+      "description": "Du er kreativ, kunstnerisk og nysgjerrig på alt. Du ser muligheter overalt.",
+      "funFact": "Johannes Gutenberg utviklet boktrykkerkunsten rundt 1450.",
+      "image": "images/2027-01-13/renessanse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan mye."
+        }
+      ]
+    },
+    {
+      "id": "industri",
+      "name": "Den industrielle revolusjonen",
+      "shareName": "den industrielle revolusjonen",
+      "emoji": null,
+      "description": "Du er effektiv, oppfinnsom og liker fart og framgang. Du får maskineriet til å gå.",
+      "funFact": "Den industrielle revolusjonen startet i England på 1700-tallet.",
+      "image": "images/2027-01-13/industri.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Fart og framgang."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Nye maskiner."
+        },
+        {
+          "title": "Flittig",
+          "text": "Jobber hardt."
+        },
+        {
+          "title": "Framtidsrettet",
+          "text": "Ser framover."
+        }
+      ]
+    },
+    {
+      "id": "romalder",
+      "name": "Romalderen",
+      "shareName": "romalderen",
+      "emoji": null,
+      "description": "Du er framtidsrettet, modig og drømmer om stjernene. Du vil dit ingen har vært før.",
+      "funFact": "Det første mennesket i verdensrommet var Jurij Gagarin i 1961.",
+      "image": "images/2027-01-13/romalder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Framtidsrettet",
+          "text": "Ser mot stjernene."
+        },
+        {
+          "title": "Modig",
+          "text": "Drar ut i det ukjente."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil utforske."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Store visjoner."
+        }
+      ]
+    }
+  ]
+}

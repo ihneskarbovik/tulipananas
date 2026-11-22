@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-26",
+  "date": "2027-01-26",
+  "title": "Hvilket trafikkskilt er du i dag?",
+  "intro": "Er du et tydelig stoppskilt, et vennlig gangfeltskilt eller et norsk elgfareskilt? Svar på sju spørsmål og finn ut hvilket trafikkskilt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du står og venter på grønt lys. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter tålmodig",
+          "scores": {
+            "vikeplikt": 2,
+            "stopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trykker på knappen mange ganger",
+          "scores": {
+            "fartsgrense": 2,
+            "rundkjoring": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på folk rundt meg",
+          "scores": {
+            "gangfelt": 2,
+            "parkering": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjekker telefonen",
+          "scores": {
+            "blindvei": 2,
+            "parkering": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser etter dyr og fugler",
+          "scores": {
+            "elgfare": 2,
+            "sykkelvei": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Følger nøye med på trafikken",
+          "scores": {
+            "glattvei": 2,
+            "stopp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du er sist ute av huset om morgenen. Hva sjekker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At døra er låst, to ganger",
+          "scores": {
+            "stopp": 2,
+            "glattvei": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "At komfyren er av",
+          "scores": {
+            "gangfelt": 2,
+            "fartsgrense": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At jeg har nøkler, mobil og lommebok",
+          "scores": {
+            "vikeplikt": 2,
+            "parkering": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, jeg løper ut",
+          "scores": {
+            "rundkjoring": 2,
+            "sykkelvei": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "At lysene er slukket",
+          "scores": {
+            "blindvei": 2,
+            "fartsgrense": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "At jeg har med meg matpakke",
+          "scores": {
+            "elgfare": 2,
+            "gangfelt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Det kommer et skikkelig snøvær og alt blir avlyst. Hva gjør du med dagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baker boller",
+          "scores": {
+            "parkering": 2,
+            "gangfelt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går ut og leker i snøen",
+          "scores": {
+            "elgfare": 2,
+            "rundkjoring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rydder skuffer jeg har utsatt",
+          "scores": {
+            "stopp": 1,
+            "fartsgrense": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser en hel serie",
+          "scores": {
+            "blindvei": 2,
+            "parkering": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hjelper naboen med å måke",
+          "scores": {
+            "vikeplikt": 1,
+            "gangfelt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sjekker værmeldingen hver time",
+          "scores": {
+            "glattvei": 2,
+            "sykkelvei": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser en hund som har gått seg bort. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker halsbåndet og ringer eieren",
+          "scores": {
+            "vikeplikt": 2,
+            "gangfelt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir hos den til noen kommer",
+          "scores": {
+            "parkering": 1,
+            "blindvei": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør folk i nærheten",
+          "scores": {
+            "rundkjoring": 2,
+            "sykkelvei": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Melder fra på nettet med bilde",
+          "scores": {
+            "fartsgrense": 2,
+            "glattvei": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holder god avstand og ringer noen",
+          "scores": {
+            "elgfare": 2,
+            "stopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar den med hjem til den er funnet",
+          "scores": {
+            "gangfelt": 1,
+            "parkering": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen kjører eller sykler for fort forbi deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roper etter dem",
+          "scores": {
+            "stopp": 1,
+            "elgfare": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rister på hodet",
+          "scores": {
+            "fartsgrense": 2,
+            "blindvei": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tenker at de sikkert har dårlig tid",
+          "scores": {
+            "vikeplikt": 2,
+            "parkering": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt skremt",
+          "scores": {
+            "gangfelt": 2,
+            "glattvei": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier fra til noen",
+          "scores": {
+            "fartsgrense": 2,
+            "stopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "rundkjoring": 2,
+            "sykkelvei": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du helst på en grill-kveld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står ved grillen",
+          "scores": {
+            "stopp": 2,
+            "fartsgrense": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager salater",
+          "scores": {
+            "vikeplikt": 1,
+            "gangfelt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiller spill i hagen",
+          "scores": {
+            "rundkjoring": 2,
+            "sykkelvei": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ligger i en solseng",
+          "scores": {
+            "parkering": 2,
+            "blindvei": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prater med alle",
+          "scores": {
+            "elgfare": 2,
+            "rundkjoring": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder underveis",
+          "scores": {
+            "glattvei": 2,
+            "vikeplikt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du når noen kjører sakte foran deg på sykkelstien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter rolig til det blir plass",
+          "scores": {
+            "vikeplikt": 1,
+            "parkering": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer forsiktig med bjella",
+          "scores": {
+            "sykkelvei": 2,
+            "gangfelt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjører forbi så fort jeg kan",
+          "scores": {
+            "fartsgrense": 2,
+            "rundkjoring": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar en annen vei",
+          "scores": {
+            "blindvei": 1,
+            "elgfare": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stopper og nyter utsikten",
+          "scores": {
+            "stopp": 2,
+            "parkering": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Holder ekstra avstand",
+          "scores": {
+            "glattvei": 2,
+            "stopp": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stopp",
+      "name": "Stoppskilt",
+      "shareName": "et stoppskilt",
+      "emoji": null,
+      "description": "Du er tydelig, bestemt og sier fra når noe må stoppe. Folk vet alltid hvor de har deg.",
+      "funFact": "Stoppskiltet er åttekantet nesten over hele verden, slik at man kan kjenne det igjen bakfra.",
+      "image": "images/2027-01-26/stopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier klart fra."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Ingen tvil."
+        },
+        {
+          "title": "Ansvarsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å se."
+        }
+      ]
+    },
+    {
+      "id": "vikeplikt",
+      "name": "Vikepliktskilt",
+      "shareName": "et vikepliktskilt",
+      "emoji": null,
+      "description": "Du er høflig, hensynsfull og lar gjerne andre gå først. Du skaper god flyt.",
+      "funFact": "Vikepliktskiltet er en trekant med spissen ned.",
+      "image": "images/2027-01-26/vikeplikt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høflig",
+          "text": "Andre først."
+        },
+        {
+          "title": "Hensynsfull",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet når man skal vente."
+        }
+      ]
+    },
+    {
+      "id": "gangfelt",
+      "name": "Gangfeltskilt",
+      "shareName": "et gangfeltskilt",
+      "emoji": null,
+      "description": "Du er trygg, hjelpsom og passer på dem som trenger det. Med deg kommer alle trygt over.",
+      "funFact": "I Norge skal bilister vike for fotgjengere som er i, eller på vei ut i, gangfeltet.",
+      "image": "images/2027-01-26/gangfelt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alle kommer over."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Passer på de små."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Ser andre."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Står alltid der."
+        }
+      ]
+    },
+    {
+      "id": "elgfare",
+      "name": "Elgfareskilt",
+      "shareName": "et elgfareskilt",
+      "emoji": null,
+      "description": "Du er norsk, populær og litt eventyrlysten. Turister elsker deg.",
+      "funFact": "Elgfareskilt er så populære at turister av og til tar dem med seg som suvenir.",
+      "image": "images/2027-01-26/elgfare.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Populær",
+          "text": "Alle vil ha deg."
+        },
+        {
+          "title": "Norsk",
+          "text": "Kjenner røttene."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ute i villmarka."
+        },
+        {
+          "title": "Morsom",
+          "text": "Folk smiler av deg."
+        }
+      ]
+    },
+    {
+      "id": "fartsgrense",
+      "name": "Fartsgrense",
+      "shareName": "et fartsgrenseskilt",
+      "emoji": null,
+      "description": "Du er fornuftig, rettferdig og liker at alle følger reglene. Du holder et jevnt tempo.",
+      "funFact": "Den høyeste fartsgrensen i Norge er 110 kilometer i timen.",
+      "image": "images/2027-01-26/fartsgrense.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fornuftig",
+          "text": "Holder tempoet."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Like regler for alle."
+        },
+        {
+          "title": "Stødig",
+          "text": "Jevnt og trutt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid tydelig."
+        }
+      ]
+    },
+    {
+      "id": "rundkjoring",
+      "name": "Rundkjøring",
+      "shareName": "et rundkjøringsskilt",
+      "emoji": null,
+      "description": "Du er sosial, fleksibel og får ting til å flyte. Du har alltid en ny vei å foreslå.",
+      "funFact": "I rundkjøringer i Norge kjører man mot klokka.",
+      "image": "images/2027-01-26/rundkjoring.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Mange veier ut."
+        },
+        {
+          "title": "Sosial",
+          "text": "Alle møtes her."
+        },
+        {
+          "title": "Effektiv",
+          "text": "God flyt."
+        },
+        {
+          "title": "Leken",
+          "text": "Rundt og rundt."
+        }
+      ]
+    },
+    {
+      "id": "blindvei",
+      "name": "Blindvei",
+      "shareName": "et blindveiskilt",
+      "emoji": null,
+      "description": "Du er rolig, hjemmekjær og liker de stille stedene. Hos deg er det trygt og fredelig.",
+      "funFact": "Et blindveiskilt viser at veien ikke går videre.",
+      "image": "images/2027-01-26/blindvei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen gjennomkjøring."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Trygg",
+          "text": "Fredelig nabolag."
+        }
+      ]
+    },
+    {
+      "id": "parkering",
+      "name": "Parkering",
+      "shareName": "et parkeringsskilt",
+      "emoji": null,
+      "description": "Du er avslappet, gjestfri og gir andre et sted å hvile. Folk er glade når de finner deg.",
+      "funFact": "Det blå P-skiltet viser at det er lov å parkere.",
+      "image": "images/2027-01-26/parkering.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tid for pause."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til mange."
+        },
+        {
+          "title": "Etterlengtet",
+          "text": "Alle leter etter deg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        }
+      ]
+    },
+    {
+      "id": "sykkelvei",
+      "name": "Sykkelvei",
+      "shareName": "et sykkelveiskilt",
+      "emoji": null,
+      "description": "Du er aktiv, frisk og alltid på farten. Du gir folk lyst til å bevege seg.",
+      "funFact": "Sykkelveiskiltet er rundt og blått med en hvit sykkel.",
+      "image": "images/2027-01-26/sykkelvei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir energi."
+        },
+        {
+          "title": "Miljøvennlig",
+          "text": "Tråkker selv."
+        },
+        {
+          "title": "Fri",
+          "text": "Vind i håret."
+        }
+      ]
+    },
+    {
+      "id": "glattvei",
+      "name": "Glatt kjørebane",
+      "shareName": "et skilt for glatt kjørebane",
+      "emoji": null,
+      "description": "Du er forsiktig, varslende og passer på at folk tar det med ro. Du er ekstra viktig om vinteren.",
+      "funFact": "Skiltet for glatt kjørebane viser en bil som sklir.",
+      "image": "images/2027-01-26/glattvei.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forsiktig",
+          "text": "Ta det med ro."
+        },
+        {
+          "title": "Varslende",
+          "text": "Sier fra i tide."
+        },
+        {
+          "title": "Vinterklar",
+          "text": "Viktig om vinteren."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        }
+      ]
+    }
+  ]
+}

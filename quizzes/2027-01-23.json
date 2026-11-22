@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-23",
+  "date": "2027-01-23",
+  "title": "Hvilket bakeutstyr er du i dag?",
+  "intro": "Er du en flittig visp, et trofast kjevle eller en kreativ sprøytepose? Svar på sju spørsmål og finn ut hvilket bakeutstyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best med vinteren i byen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Julelys som henger igjen",
+          "scores": {
+            "utstikker": 2,
+            "sproytepose": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skøytebanen",
+          "scores": {
+            "visp": 2,
+            "kakeform": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Varme kafeer",
+          "scores": {
+            "bakebolle": 1,
+            "ovnsvott": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snøen i parken",
+          "scores": {
+            "kjevle": 2,
+            "slikkepott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At det er rolig i gatene",
+          "scores": {
+            "sikt": 2,
+            "vekt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, jeg drar heller til fjells",
+          "scores": {
+            "visp": 1,
+            "kjevle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen ber deg om å smake på maten deres. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At det er kjempegodt",
+          "scores": {
+            "ovnsvott": 2,
+            "bakebolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir et ærlig råd om litt mer salt",
+          "scores": {
+            "vekt": 2,
+            "sikt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør hva som er i den",
+          "scores": {
+            "sproytepose": 2,
+            "slikkepott": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber om en porsjon til",
+          "scores": {
+            "visp": 2,
+            "utstikker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier noe hyggelig og ett lite tips",
+          "scores": {
+            "kakeform": 2,
+            "kjevle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smaker en gang til før jeg svarer",
+          "scores": {
+            "sikt": 2,
+            "vekt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst når det regner hele dagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baker noe godt",
+          "scores": {
+            "kjevle": 1,
+            "utstikker": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser film under et pledd",
+          "scores": {
+            "bakebolle": 2,
+            "ovnsvott": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar på regntøy og går ut",
+          "scores": {
+            "visp": 1,
+            "kakeform": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tegner eller lager noe",
+          "scores": {
+            "sproytepose": 2,
+            "utstikker": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder skap og skuffer",
+          "scores": {
+            "vekt": 2,
+            "slikkepott": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Leser",
+          "scores": {
+            "sikt": 1,
+            "kjevle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal lage noe etter en oppskrift. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Følger oppskriften nøyaktig",
+          "scores": {
+            "vekt": 2,
+            "sikt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker oppskriften som et forslag",
+          "scores": {
+            "sproytepose": 2,
+            "visp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dobler alt, det blir mer",
+          "scores": {
+            "bakebolle": 2,
+            "ovnsvott": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skraper bollen helt ren etterpå",
+          "scores": {
+            "slikkepott": 2,
+            "kjevle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør det på min egen måte",
+          "scores": {
+            "utstikker": 2,
+            "sproytepose": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager det sammen med noen",
+          "scores": {
+            "kakeform": 2,
+            "bakebolle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken by ville du helst besøkt for maten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paris",
+          "scores": {
+            "sproytepose": 1,
+            "ovnsvott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Roma",
+          "scores": {
+            "bakebolle": 2,
+            "kjevle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tokyo",
+          "scores": {
+            "vekt": 2,
+            "sikt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mexico by",
+          "scores": {
+            "visp": 1,
+            "utstikker": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bangkok",
+          "scores": {
+            "slikkepott": 2,
+            "visp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "New York",
+          "scores": {
+            "kakeform": 2,
+            "utstikker": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du når noe tar lengre tid enn du trodde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tålmodig, det tar den tiden det tar",
+          "scores": {
+            "kjevle": 2,
+            "kakeform": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir stresset",
+          "scores": {
+            "visp": 1,
+            "utstikker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner en raskere måte",
+          "scores": {
+            "visp": 1,
+            "sikt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber om hjelp",
+          "scores": {
+            "bakebolle": 2,
+            "ovnsvott": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bruker tiden på å gjøre det ekstra fint",
+          "scores": {
+            "sproytepose": 2,
+            "slikkepott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en ny plan",
+          "scores": {
+            "vekt": 2,
+            "kakeform": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva baker du helst når du får gjester?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boller",
+          "scores": {
+            "kjevle": 1,
+            "bakebolle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor bløtkake",
+          "scores": {
+            "sproytepose": 2,
+            "visp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Småkaker i fine former",
+          "scores": {
+            "utstikker": 2,
+            "vekt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En enkel kake i form",
+          "scores": {
+            "kakeform": 1,
+            "slikkepott": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Brød",
+          "scores": {
+            "sikt": 2,
+            "ovnsvott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg kjøper heller noe",
+          "scores": {
+            "ovnsvott": 2,
+            "visp": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kjevle",
+      "name": "Kjevle",
+      "shareName": "et kjevle",
+      "emoji": null,
+      "description": "Du er stødig, jevn og får ting til å bli fine og glatte. Du er en ekte klassiker på kjøkkenet.",
+      "funFact": "Kjevler av marmor holder seg kalde, og det er fint når man lager butterdeig.",
+      "image": "images/2027-01-23/kjevle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Jevn og rolig."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Alltid på kjøkkenet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Ruller fram og tilbake."
+        },
+        {
+          "title": "Grundig",
+          "text": "Får det glatt."
+        }
+      ]
+    },
+    {
+      "id": "visp",
+      "name": "Visp",
+      "shareName": "en visp",
+      "emoji": null,
+      "description": "Du er energisk, rask og tilfører luft og lettelse. Du får alt til å bli luftig og godt.",
+      "funFact": "En ballongvisp fanger luft, og det er derfor krem og eggehvite blir luftig.",
+      "image": "images/2027-01-23/visp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Rask",
+          "text": "Ferdig på et blunk."
+        },
+        {
+          "title": "Lett",
+          "text": "Gjør ting luftig."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye bevegelse."
+        }
+      ]
+    },
+    {
+      "id": "sikt",
+      "name": "Melsikt",
+      "shareName": "en melsikt",
+      "emoji": null,
+      "description": "Du er grundig, nøye og fjerner det som ikke hører hjemme. Du ser detaljene.",
+      "funFact": "Når man sikter mel, forsvinner klumper, og kaker blir luftigere.",
+      "image": "images/2027-01-23/sikt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Grundig",
+          "text": "Ingen klumper."
+        },
+        {
+          "title": "Nøye",
+          "text": "Ser detaljene."
+        },
+        {
+          "title": "Rolig",
+          "text": "Rister forsiktig."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Bare det beste kommer gjennom."
+        }
+      ]
+    },
+    {
+      "id": "bakebolle",
+      "name": "Bakebolle",
+      "shareName": "en bakebolle",
+      "emoji": null,
+      "description": "Du er romslig, inkluderende og har plass til alle. Det er hos deg alt begynner.",
+      "funFact": "Bakeboller i metall bør ikke brukes i mikroovnen.",
+      "image": "images/2027-01-23/bakebolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romslig",
+          "text": "Plass til alt."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle er med."
+        },
+        {
+          "title": "Samlende",
+          "text": "Her starter alt."
+        },
+        {
+          "title": "Trygg",
+          "text": "Holder på alt."
+        }
+      ]
+    },
+    {
+      "id": "slikkepott",
+      "name": "Slikkepott",
+      "shareName": "en slikkepott",
+      "emoji": null,
+      "description": "Du er nøysom, grundig og lar ingenting gå til spille. Du får med deg det siste.",
+      "funFact": "En slikkepott gjør at nesten ingenting av røra blir igjen i bollen.",
+      "image": "images/2027-01-23/slikkepott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøysom",
+          "text": "Ingenting går til spille."
+        },
+        {
+          "title": "Grundig",
+          "text": "Får med alt."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Bøyer seg."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Alltid nyttig."
+        }
+      ]
+    },
+    {
+      "id": "kakeform",
+      "name": "Kakeform",
+      "shareName": "en kakeform",
+      "emoji": null,
+      "description": "Du er pålitelig, ordentlig og gir andre trygge rammer. Du hjelper ting å bli til noe.",
+      "funFact": "En springform har en lås på siden, slik at kanten kan tas av.",
+      "image": "images/2027-01-23/kakeform.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Holder formen."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Gode rammer."
+        },
+        {
+          "title": "Trygg",
+          "text": "Holder på alt."
+        },
+        {
+          "title": "Støttende",
+          "text": "Hjelper andre å vokse."
+        }
+      ]
+    },
+    {
+      "id": "sproytepose",
+      "name": "Sprøytepose",
+      "shareName": "en sprøytepose",
+      "emoji": null,
+      "description": "Du er kreativ, kunstnerisk og elsker detaljer. Du gir alt en vakker finish.",
+      "funFact": "Sprøyteposer brukes til å pynte kaker med krem og glasur.",
+      "image": "images/2027-01-23/sproytepose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Fine mønstre."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Sans for det vakre."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Perfekt finish."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å pynte."
+        }
+      ]
+    },
+    {
+      "id": "vekt",
+      "name": "Kjøkkenvekt",
+      "shareName": "en kjøkkenvekt",
+      "emoji": null,
+      "description": "Du er presis, rettferdig og liker at ting stemmer. Du får balansen akkurat riktig.",
+      "funFact": "Mange oppskrifter fra andre land måler i kopper i stedet for gram.",
+      "image": "images/2027-01-23/vekt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Grammet riktig."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Likt for alle."
+        },
+        {
+          "title": "Balansert",
+          "text": "Akkurat passe."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid riktig."
+        }
+      ]
+    },
+    {
+      "id": "ovnsvott",
+      "name": "Ovnsvott",
+      "shareName": "en ovnsvott",
+      "emoji": null,
+      "description": "Du er beskyttende, varm og tåler å ta i det varme. Du passer på at ingen brenner seg.",
+      "funFact": "Ovnsvotter beskytter mot varme med tykt, isolerende stoff.",
+      "image": "images/2027-01-23/ovnsvott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Tar i det varme."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk og god."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        }
+      ]
+    },
+    {
+      "id": "utstikker",
+      "name": "Pepperkakeform",
+      "shareName": "en pepperkakeform",
+      "emoji": null,
+      "description": "Du er leken, kreativ og gjør vanlige ting til noe morsomt. Du gir alt en egen form.",
+      "funFact": "Med en pepperkakeform kan man lage mange like figurer av samme deig.",
+      "image": "images/2027-01-23/utstikker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Lager figurer."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Egne former."
+        },
+        {
+          "title": "Festlig",
+          "text": "Til jul og fest."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Brukt i generasjoner."
+        }
+      ]
+    }
+  ]
+}

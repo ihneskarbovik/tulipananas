@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-19",
+  "date": "2027-01-19",
+  "title": "Hvilken sysak er du i dag?",
+  "intro": "Er du en spiss synål, en trofast knapp eller en praktisk glidelås? Svar på sju spørsmål og finn ut hvilken ting fra sykurven du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å kjøpe på et loppemarked?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamle bøker",
+          "scores": {
+            "traadsnelle": 2,
+            "stoppesopp": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klær og vesker",
+          "scores": {
+            "knapp": 2,
+            "symaskin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kopper og fat",
+          "scores": {
+            "naalepute": 1,
+            "fingerbol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leker og spill",
+          "scores": {
+            "sikkerhetsnaal": 2,
+            "glidelaas": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gamle møbler å pusse opp",
+          "scores": {
+            "maalebaand": 2,
+            "synal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser mest",
+          "scores": {
+            "fingerbol": 2,
+            "traadsnelle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du lager mat og det svir seg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redder det som reddes kan",
+          "scores": {
+            "sikkerhetsnaal": 2,
+            "stoppesopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Begynner på nytt med en gang",
+          "scores": {
+            "symaskin": 2,
+            "glidelaas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler og bestiller pizza",
+          "scores": {
+            "knapp": 2,
+            "traadsnelle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skraper av det svidde og serverer likevel",
+          "scores": {
+            "fingerbol": 2,
+            "naalepute": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner ut hva som gikk galt",
+          "scores": {
+            "maalebaand": 2,
+            "synal": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør om noen andre kan lage mat i dag",
+          "scores": {
+            "naalepute": 2,
+            "knapp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket syltetøy liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jordbær",
+          "scores": {
+            "knapp": 2,
+            "traadsnelle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bringebær",
+          "scores": {
+            "naalepute": 2,
+            "symaskin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blåbær",
+          "scores": {
+            "stoppesopp": 2,
+            "fingerbol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Aprikos",
+          "scores": {
+            "glidelaas": 2,
+            "synal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Appelsinmarmelade",
+          "scores": {
+            "maalebaand": 1,
+            "sikkerhetsnaal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker ikke syltetøy",
+          "scores": {
+            "synal": 2,
+            "maalebaand": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det begynner en ny person i klassen eller på jobben. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hilser og presenterer meg",
+          "scores": {
+            "glidelaas": 2,
+            "knapp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Viser dem rundt",
+          "scores": {
+            "sikkerhetsnaal": 2,
+            "traadsnelle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer dem med i lunsjen",
+          "scores": {
+            "naalepute": 2,
+            "stoppesopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venter og ser hvordan de er",
+          "scores": {
+            "fingerbol": 2,
+            "maalebaand": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om de trenger hjelp med noe",
+          "scores": {
+            "synal": 2,
+            "symaskin": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sørger for at de får en god første dag",
+          "scores": {
+            "stoppesopp": 2,
+            "fingerbol": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan bestemmer du deg i en klesbutikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver alt før jeg velger",
+          "scores": {
+            "maalebaand": 2,
+            "synal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøper det første jeg liker",
+          "scores": {
+            "glidelaas": 2,
+            "symaskin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør den jeg er med",
+          "scores": {
+            "knapp": 1,
+            "naalepute": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går hjem og tenker på det",
+          "scores": {
+            "fingerbol": 1,
+            "stoppesopp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Velger det som er mest praktisk",
+          "scores": {
+            "sikkerhetsnaal": 2,
+            "maalebaand": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøper det i flere farger",
+          "scores": {
+            "traadsnelle": 2,
+            "knapp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har vunnet en premie du ikke trenger. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir den til noen som trenger den",
+          "scores": {
+            "stoppesopp": 2,
+            "naalepute": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bytter den i noe annet",
+          "scores": {
+            "sikkerhetsnaal": 2,
+            "glidelaas": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Beholder den, kanskje jeg trenger den en gang",
+          "scores": {
+            "traadsnelle": 1,
+            "fingerbol": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager noe nytt av den",
+          "scores": {
+            "symaskin": 2,
+            "synal": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Selger den",
+          "scores": {
+            "maalebaand": 2,
+            "glidelaas": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir den bort som gave",
+          "scores": {
+            "knapp": 2,
+            "naalepute": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du får et hull i favorittgenseren. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stopper det selv",
+          "scores": {
+            "stoppesopp": 2,
+            "synal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Syr på et morsomt merke",
+          "scores": {
+            "knapp": 1,
+            "symaskin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ber noen som kan sy om hjelp",
+          "scores": {
+            "naalepute": 2,
+            "fingerbol": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bruker den likevel, det er sjarmerende",
+          "scores": {
+            "traadsnelle": 2,
+            "sikkerhetsnaal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjøper en ny",
+          "scores": {
+            "glidelaas": 2,
+            "maalebaand": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager noe nytt av den",
+          "scores": {
+            "symaskin": 1,
+            "sikkerhetsnaal": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "synal",
+      "name": "Synål",
+      "shareName": "en synål",
+      "emoji": null,
+      "description": "Du er presis, skarp og fester ting sammen. Du får det til å holde.",
+      "funFact": "De eldste kjente synålene er laget av bein og er over 40 000 år gamle.",
+      "image": "images/2027-01-19/synal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Treffer riktig."
+        },
+        {
+          "title": "Skarp",
+          "text": "Kvikk i tanken."
+        },
+        {
+          "title": "Samlende",
+          "text": "Fester sammen."
+        },
+        {
+          "title": "Liten",
+          "text": "Men viktig."
+        }
+      ]
+    },
+    {
+      "id": "traadsnelle",
+      "name": "Trådsnelle",
+      "shareName": "en trådsnelle",
+      "emoji": null,
+      "description": "Du er tålmodig, fargerik og har lang utholdenhet. Du har nok tråd til mange prosjekter.",
+      "funFact": "Bomullstråd lages av fibrene rundt frøene i bomullsplanten.",
+      "image": "images/2027-01-19/traadsnelle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Lang tråd."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Mange farger."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Holder lenge."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Alltid til nytte."
+        }
+      ]
+    },
+    {
+      "id": "knapp",
+      "name": "Knapp",
+      "shareName": "en knapp",
+      "emoji": null,
+      "description": "Du er søt, praktisk og holder ting sammen. Du er liten, men det merkes når du mangler.",
+      "funFact": "Knapper ble først brukt som pynt, og knapphull ble vanlige først i middelalderen.",
+      "image": "images/2027-01-19/knapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Liten og fin."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Holder sammen."
+        },
+        {
+          "title": "Trofast",
+          "text": "Sitter godt."
+        },
+        {
+          "title": "Savnet",
+          "text": "Merkes når du mangler."
+        }
+      ]
+    },
+    {
+      "id": "fingerbol",
+      "name": "Fingerbøl",
+      "shareName": "et fingerbøl",
+      "emoji": null,
+      "description": "Du er beskyttende, trygg og står mellom andre og det som stikker. Folk føler seg trygge med deg.",
+      "funFact": "Fingerbøl beskytter fingeren mot nålen når man syr.",
+      "image": "images/2027-01-19/fingerbol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Tar støyten."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Solid",
+          "text": "Hardt utenpå."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten og stille."
+        }
+      ]
+    },
+    {
+      "id": "maalebaand",
+      "name": "Målebånd",
+      "shareName": "et målebånd",
+      "emoji": null,
+      "description": "Du er nøyaktig, rettferdig og liker at ting er riktig. Du måler to ganger og klipper én.",
+      "funFact": "Et skreddermålebånd er ofte 150 centimeter langt.",
+      "image": "images/2027-01-19/maalebaand.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøyaktig",
+          "text": "Måler riktig."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Like for alle."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Bøyer seg."
+        },
+        {
+          "title": "Grundig",
+          "text": "Måler to ganger."
+        }
+      ]
+    },
+    {
+      "id": "naalepute",
+      "name": "Nålepute",
+      "shareName": "en nålepute",
+      "emoji": null,
+      "description": "Du er myk, tålmodig og tåler mye. Andre kan alltid regne med deg.",
+      "funFact": "Mange nåleputer er formet som tomater, og den lille jordbæren inneholder sand som sliper nålene.",
+      "image": "images/2027-01-19/naalepute.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Holder på alt."
+        }
+      ]
+    },
+    {
+      "id": "glidelaas",
+      "name": "Glidelås",
+      "shareName": "en glidelås",
+      "emoji": null,
+      "description": "Du er effektiv, smart og får ting til å gå raskt og greit. Du åpner og lukker dører.",
+      "funFact": "Glidelåsen ble patentert av Gideon Sundback i 1917.",
+      "image": "images/2027-01-19/glidelaas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Raskt og greit."
+        },
+        {
+          "title": "Smart",
+          "text": "God løsning."
+        },
+        {
+          "title": "Samlende",
+          "text": "Fører sammen."
+        },
+        {
+          "title": "Moderne",
+          "text": "Alltid oppdatert."
+        }
+      ]
+    },
+    {
+      "id": "symaskin",
+      "name": "Symaskin",
+      "shareName": "en symaskin",
+      "emoji": null,
+      "description": "Du er flittig, kreativ og får mye gjort på kort tid. Du gjør ideer til virkelighet.",
+      "funFact": "Før de elektriske kom, var det vanlig med symaskiner som ble drevet med en pedal.",
+      "image": "images/2027-01-19/symaskin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Mange sting."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager noe nytt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Raskt ferdig."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid klar."
+        }
+      ]
+    },
+    {
+      "id": "sikkerhetsnaal",
+      "name": "Sikkerhetsnål",
+      "shareName": "en sikkerhetsnål",
+      "emoji": null,
+      "description": "Du er praktisk, oppfinnsom og redder dagen i siste liten. Du har alltid en løsning.",
+      "funFact": "Sikkerhetsnålen ble oppfunnet av Walter Hunt i 1849.",
+      "image": "images/2027-01-19/sikkerhetsnaal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Redder dagen."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Trygg",
+          "text": "Lukker seg trygt."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Alltid klar."
+        }
+      ]
+    },
+    {
+      "id": "stoppesopp",
+      "name": "Stoppesopp",
+      "shareName": "en stoppesopp",
+      "emoji": null,
+      "description": "Du er omsorgsfull, nøktern og tar vare på det du har. Du fikser heller enn å kaste.",
+      "funFact": "En stoppesopp brukes når man skal reparere hull i sokker.",
+      "image": "images/2027-01-19/stoppesopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Fikser heller enn å kaste."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Sting for sting."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gammel kunst."
+        }
+      ]
+    }
+  ]
+}

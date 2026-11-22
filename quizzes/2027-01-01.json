@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-01",
+  "date": "2027-01-01",
+  "title": "Hvilken nyttårstradisjon er du i dag?",
+  "intro": "Godt nytt år! Rundt om i verden feires nyttår på mange ulike måter. Er du tolv druer fra Spania, et stolhopp fra Danmark eller en kofferttur fra Colombia? Svar på sju spørsmål og finn ut hvilken nyttårstradisjon du er.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst våkne til?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fuglesang",
+          "scores": {
+            "klokker": 2,
+            "tinn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Favorittmusikken min",
+          "scores": {
+            "nyttarskule": 2,
+            "stolhopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sollys gjennom vinduet",
+          "scores": {
+            "bolger": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lukten av frokost",
+          "scores": {
+            "kransekake": 2,
+            "forstegjest": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noen som sier god morgen",
+          "scores": {
+            "tallerken": 2,
+            "druer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt stillhet",
+          "scores": {
+            "klokker": 1,
+            "kransekake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan holder du deg våken når du er trøtt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drikker noe kaldt",
+          "scores": {
+            "bolger": 2,
+            "druer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går en tur",
+          "scores": {
+            "koffert": 1,
+            "klokker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med noen",
+          "scores": {
+            "tallerken": 2,
+            "forstegjest": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på høy musikk",
+          "scores": {
+            "nyttarskule": 2,
+            "stolhopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiser noe godt",
+          "scores": {
+            "kransekake": 2,
+            "druer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir opp og legger meg",
+          "scores": {
+            "tinn": 2,
+            "klokker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilke solbriller ville du valgt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store og glamorøse",
+          "scores": {
+            "nyttarskule": 2,
+            "bolger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klassiske og svarte",
+          "scores": {
+            "klokker": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fargerike og morsomme",
+          "scores": {
+            "stolhopp": 2,
+            "tallerken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sporty, til tur",
+          "scores": {
+            "koffert": 1,
+            "bolger": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Runde, litt gammeldags",
+          "scores": {
+            "tinn": 2,
+            "forstegjest": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg bruker sjelden solbriller",
+          "scores": {
+            "druer": 2,
+            "klokker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du når du er nervøs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prater mye",
+          "scores": {
+            "tallerken": 2,
+            "stolhopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir helt stille",
+          "scores": {
+            "klokker": 1,
+            "tinn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør meg ekstra godt forberedt",
+          "scores": {
+            "kransekake": 2,
+            "druer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ler og tuller det bort",
+          "scores": {
+            "nyttarskule": 2,
+            "bolger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en tur for å roe meg",
+          "scores": {
+            "koffert": 2,
+            "forstegjest": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer noen jeg stoler på",
+          "scores": {
+            "forstegjest": 2,
+            "tallerken": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gleder du deg mest til når våren kommer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lyse kvelder",
+          "scores": {
+            "bolger": 2,
+            "nyttarskule": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å sitte ute i sola",
+          "scores": {
+            "druer": 2,
+            "stolhopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blomster og grønne trær",
+          "scores": {
+            "tinn": 2,
+            "klokker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å planlegge sommerferien",
+          "scores": {
+            "koffert": 1,
+            "tallerken": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Påsken",
+          "scores": {
+            "kransekake": 2,
+            "forstegjest": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å bytte vinterjakken med noe lett",
+          "scores": {
+            "stolhopp": 2,
+            "koffert": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får for mye vekslepenger i kassa. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier fra med en gang",
+          "scores": {
+            "klokker": 2,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går tilbake og gir dem pengene",
+          "scores": {
+            "forstegjest": 2,
+            "druer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier fra og ler litt av det",
+          "scores": {
+            "tallerken": 2,
+            "stolhopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjekker kvitteringen først",
+          "scores": {
+            "tinn": 1,
+            "klokker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir pengene og et smil",
+          "scores": {
+            "bolger": 2,
+            "nyttarskule": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier fra og kjøper en is av gleden",
+          "scores": {
+            "koffert": 2,
+            "druer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det beste med første januar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å sove lenge",
+          "scores": {
+            "klokker": 1,
+            "kransekake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "At alt føles nytt",
+          "scores": {
+            "tinn": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Restene fra i går",
+          "scores": {
+            "druer": 2,
+            "tallerken": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En tur i frisk luft",
+          "scores": {
+            "bolger": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hopprennet på TV",
+          "scores": {
+            "stolhopp": 2,
+            "nyttarskule": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å være sammen med familien",
+          "scores": {
+            "forstegjest": 2,
+            "kransekake": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "druer",
+      "name": "Tolv druer",
+      "shareName": "tolv druer",
+      "emoji": null,
+      "description": "Du er festlig, rask og elsker en god tradisjon. Du tar året ett steg, eller én drue, om gangen.",
+      "funFact": "I Spania spiser mange tolv druer ved midnatt, én for hvert klokkeslag.",
+      "image": "images/2027-01-01/druer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Elsker en god fest."
+        },
+        {
+          "title": "Rask",
+          "text": "Klar på sekundet."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gjør det hvert år."
+        },
+        {
+          "title": "Søt",
+          "text": "Sprer glede."
+        }
+      ]
+    },
+    {
+      "id": "stolhopp",
+      "name": "Stolhopp",
+      "shareName": "et stolhopp",
+      "emoji": null,
+      "description": "Du er leken, modig og hopper rett inn i nye ting. Med deg starter alt med et smil.",
+      "funFact": "I Danmark hopper mange ned fra en stol ved midnatt for å «hoppe inn i» det nye året.",
+      "image": "images/2027-01-01/stolhopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rett inn."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Spontan",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        }
+      ]
+    },
+    {
+      "id": "koffert",
+      "name": "Kofferttur",
+      "shareName": "en kofferttur",
+      "emoji": null,
+      "description": "Du er eventyrlysten og drømmer om å se verden. Du har alltid en ny reise i tankene.",
+      "funFact": "I Colombia går noen rundt kvartalet med en tom koffert ved midnatt for å få et år med mange reiser.",
+      "image": "images/2027-01-01/koffert.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Planlegger reiser."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Tror på et godt år."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        }
+      ]
+    },
+    {
+      "id": "tallerken",
+      "name": "Tallerkenknusing",
+      "shareName": "tallerkenknusing",
+      "emoji": null,
+      "description": "Du er sosial, raus og tenker mye på vennene dine. Du viser at du bryr deg på din helt egen måte.",
+      "funFact": "I Danmark knuser noen gamle tallerkener mot døra til venner på nyttårsaften, og flest skår betyr flest venner.",
+      "image": "images/2027-01-01/tallerken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Mange venner."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir av deg selv."
+        },
+        {
+          "title": "Livlig",
+          "text": "Litt bråkete."
+        },
+        {
+          "title": "Lojal",
+          "text": "Venner betyr alt."
+        }
+      ]
+    },
+    {
+      "id": "klokker",
+      "name": "Tempelklokker",
+      "shareName": "tempelklokker",
+      "emoji": null,
+      "description": "Du er rolig, ettertenksom og gir deg tid til å tenke. Du starter året med ro i sjelen.",
+      "funFact": "I Japan ringer buddhistiske templer klokkene 108 ganger rundt midnatt på nyttårsaften.",
+      "image": "images/2027-01-01/klokker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Starter året i ro."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Ett slag om gangen."
+        },
+        {
+          "title": "Klok",
+          "text": "Ser helheten."
+        }
+      ]
+    },
+    {
+      "id": "tinn",
+      "name": "Tinnstøping",
+      "shareName": "tinnstøping",
+      "emoji": null,
+      "description": "Du er nysgjerrig, kreativ og elsker litt mystikk. Du ser former og muligheter overalt.",
+      "funFact": "I Finland har det vært vanlig å smelte tinn og slippe det i kaldt vann, og så tolke formen det får.",
+      "image": "images/2027-01-01/tinn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite hva som kommer."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Ser former overalt."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Liker litt magi."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser det andre ikke ser."
+        }
+      ]
+    },
+    {
+      "id": "kransekake",
+      "name": "Kransekake",
+      "shareName": "en kransekake",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, varm og samler folk rundt bordet. Du gjør hver feiring litt mer høytidelig.",
+      "funFact": "Kransekake er en vanlig festkake på nyttårsaften i Norge.",
+      "image": "images/2027-01-01/kransekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker faste skikker."
+        },
+        {
+          "title": "Varm",
+          "text": "Samler familien."
+        },
+        {
+          "title": "Stødig",
+          "text": "Ring på ring."
+        },
+        {
+          "title": "Festlig",
+          "text": "Pynter bordet."
+        }
+      ]
+    },
+    {
+      "id": "forstegjest",
+      "name": "Første gjest",
+      "shareName": "den første gjesten",
+      "emoji": null,
+      "description": "Du er hyggelig, gavmild og alltid velkommen. Folk blir glade når du står i døra.",
+      "funFact": "I Skottland tror mange at den første som går over dørstokken etter midnatt, bringer lykke for året, gjerne med en liten gave.",
+      "image": "images/2027-01-01/forstegjest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Alltid velkommen."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Kommer med gaver."
+        },
+        {
+          "title": "Heldig",
+          "text": "Bringer lykke."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker besøk."
+        }
+      ]
+    },
+    {
+      "id": "nyttarskule",
+      "name": "Nyttårskula",
+      "shareName": "nyttårskula",
+      "emoji": null,
+      "description": "Du er glamorøs, synlig og elsker store øyeblikk. Når du er med, teller alle ned sammen.",
+      "funFact": "På Times Square i New York senkes en stor, glitrende kule de siste sekundene før midnatt.",
+      "image": "images/2027-01-01/nyttarskule.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glamorøs",
+          "text": "Glitrer i mørket."
+        },
+        {
+          "title": "Synlig",
+          "text": "Alle ser på deg."
+        },
+        {
+          "title": "Festlig",
+          "text": "Elsker store øyeblikk."
+        },
+        {
+          "title": "Samlende",
+          "text": "Alle teller med."
+        }
+      ]
+    },
+    {
+      "id": "bolger",
+      "name": "Sju bølger",
+      "shareName": "sju bølger",
+      "emoji": null,
+      "description": "Du er frisk, positiv og elsker sommerstemning, selv midt på vinteren. Du gir aldri opp ønskene dine.",
+      "funFact": "I Brasil kler mange seg i hvitt og hopper over sju bølger på stranden for å få lykke i det nye året.",
+      "image": "images/2027-01-01/bolger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Positiv",
+          "text": "Tror på ønsker."
+        },
+        {
+          "title": "Frisk",
+          "text": "Som en havbris."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Alltid sol inni deg."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Hopper sju ganger."
+        }
+      ]
+    }
+  ]
+}

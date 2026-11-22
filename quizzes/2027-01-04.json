@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-04",
+  "date": "2027-01-04",
+  "title": "Hvilken dings er du i dag?",
+  "intro": "Er du en trofast lader, en sosial høyttaler eller en rolig fjernkontroll? Svar på sju spørsmål og finn ut hvilken dings du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor gjør du lekser eller jobber best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved kjøkkenbordet",
+          "scores": {
+            "lader": 2,
+            "tastatur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en kafé",
+          "scores": {
+            "mobil": 2,
+            "hoyttaler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I senga",
+          "scores": {
+            "fjernkontroll": 1,
+            "hodetelefoner": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På et stille bibliotek",
+          "scores": {
+            "minnepinne": 2,
+            "hodetelefoner": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ute når det er fint vær",
+          "scores": {
+            "powerbank": 1,
+            "nettbrett": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved et ryddig skrivebord",
+          "scores": {
+            "datamus": 2,
+            "tastatur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva ville du helst gjort som frivillig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Passet på dyr på et dyrehjem",
+          "scores": {
+            "lader": 2,
+            "fjernkontroll": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hjulpet til på en festival",
+          "scores": {
+            "hoyttaler": 2,
+            "mobil": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lest for eldre eller barn",
+          "scores": {
+            "minnepinne": 2,
+            "hodetelefoner": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ryddet søppel i naturen",
+          "scores": {
+            "powerbank": 2,
+            "datamus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Laget nettsider for en forening",
+          "scores": {
+            "tastatur": 2,
+            "nettbrett": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vært med i en idrettsklubb",
+          "scores": {
+            "datamus": 2,
+            "powerbank": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva ville du bli da du var liten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lege eller sykepleier",
+          "scores": {
+            "lader": 1,
+            "powerbank": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Popstjerne",
+          "scores": {
+            "hoyttaler": 2,
+            "mobil": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forfatter",
+          "scores": {
+            "tastatur": 2,
+            "minnepinne": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kunstner",
+          "scores": {
+            "nettbrett": 2,
+            "hodetelefoner": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Astronaut eller pilot",
+          "scores": {
+            "datamus": 2,
+            "powerbank": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe helt annet hver uke",
+          "scores": {
+            "fjernkontroll": 1,
+            "nettbrett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får mange meldinger på en gang. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Svarer på alle med en gang",
+          "scores": {
+            "mobil": 2,
+            "tastatur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser dem og svarer senere",
+          "scores": {
+            "minnepinne": 2,
+            "fjernkontroll": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ringer heller",
+          "scores": {
+            "hoyttaler": 2,
+            "lader": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Svarer bare de viktigste",
+          "scores": {
+            "datamus": 2,
+            "powerbank": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sender et samlet svar",
+          "scores": {
+            "tastatur": 2,
+            "nettbrett": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Slår av lyden og tar en pause",
+          "scores": {
+            "hodetelefoner": 2,
+            "fjernkontroll": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva kjøper du helst på en bensinstasjon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pølse i brød",
+          "scores": {
+            "hoyttaler": 2,
+            "mobil": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En kaffe eller kakao",
+          "scores": {
+            "lader": 1,
+            "tastatur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Is",
+          "scores": {
+            "fjernkontroll": 2,
+            "nettbrett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En bolle",
+          "scores": {
+            "minnepinne": 2,
+            "hodetelefoner": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare drivstoff, så kjører jeg videre",
+          "scores": {
+            "datamus": 2,
+            "powerbank": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Godteri til turen",
+          "scores": {
+            "nettbrett": 2,
+            "hoyttaler": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn har fått noe du har ønsket deg lenge. Hvordan føles det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg blir glad på deres vegne",
+          "scores": {
+            "lader": 2,
+            "powerbank": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt misunnelig, men det går over",
+          "scores": {
+            "mobil": 2,
+            "hoyttaler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg spør om jeg kan prøve",
+          "scores": {
+            "nettbrett": 2,
+            "datamus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg begynner å spare selv",
+          "scores": {
+            "tastatur": 2,
+            "minnepinne": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg tenker at jeg ikke trengte det likevel",
+          "scores": {
+            "fjernkontroll": 2,
+            "hodetelefoner": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vi kan dele",
+          "scores": {
+            "powerbank": 2,
+            "hoyttaler": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du først en vanlig mandag morgen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker telefonen",
+          "scores": {
+            "mobil": 2,
+            "nettbrett": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Setter på musikk",
+          "scores": {
+            "hoyttaler": 1,
+            "hodetelefoner": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en liste over uka",
+          "scores": {
+            "tastatur": 2,
+            "datamus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drikker et stort glass vann",
+          "scores": {
+            "powerbank": 2,
+            "lader": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Slumrer litt til",
+          "scores": {
+            "fjernkontroll": 2,
+            "minnepinne": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier god morgen til alle",
+          "scores": {
+            "lader": 2,
+            "hoyttaler": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "fjernkontroll",
+      "name": "Fjernkontroll",
+      "shareName": "en fjernkontroll",
+      "emoji": null,
+      "description": "Du er avslappet, men liker å bestemme hva som skjer. Du trives best i sofaen med god utsikt.",
+      "funFact": "Mange fjernkontroller sender signaler med infrarødt lys som vi ikke kan se.",
+      "image": "images/2027-01-04/fjernkontroll.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Sofaens beste venn."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Velger kanalen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid innen rekkevidde."
+        }
+      ]
+    },
+    {
+      "id": "lader",
+      "name": "Lader",
+      "shareName": "en lader",
+      "emoji": null,
+      "description": "Du er omsorgsfull og gir andre ny energi. Alle trenger deg, særlig når det er krise.",
+      "funFact": "En lader gjør strømmen fra stikkontakten om til en spenning telefonen tåler.",
+      "image": "images/2027-01-04/lader.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Gir andre energi."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Etterspurt",
+          "text": "Alle trenger deg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gjør jobben stille."
+        }
+      ]
+    },
+    {
+      "id": "hodetelefoner",
+      "name": "Hodetelefoner",
+      "shareName": "et par hodetelefoner",
+      "emoji": null,
+      "description": "Du er rolig, drømmende og elsker din egen verden. Du er en god lytter.",
+      "funFact": "Støydempende hodetelefoner lager motlyd som nuller ut støy rundt deg.",
+      "image": "images/2027-01-04/hodetelefoner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lyttende",
+          "text": "Hører godt etter."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Egen verden."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stenger ute støy."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Alltid en sang."
+        }
+      ]
+    },
+    {
+      "id": "mobil",
+      "name": "Mobiltelefon",
+      "shareName": "en mobiltelefon",
+      "emoji": null,
+      "description": "Du er sosial, nysgjerrig og alltid oppdatert. Du vet hva som skjer før alle andre.",
+      "funFact": "Den første samtalen med en håndholdt mobiltelefon ble gjort i 1973.",
+      "image": "images/2027-01-04/mobil.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Holder kontakten."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Alltid oppdatert."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan det meste."
+        },
+        {
+          "title": "Rask",
+          "text": "Svarer med en gang."
+        }
+      ]
+    },
+    {
+      "id": "nettbrett",
+      "name": "Nettbrett",
+      "shareName": "et nettbrett",
+      "emoji": null,
+      "description": "Du er kreativ, fleksibel og liker store bilder. Du kombinerer lek og læring.",
+      "funFact": "Berøringsskjermen på et nettbrett merker den svake strømmen i fingrene dine.",
+      "image": "images/2027-01-04/nettbrett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Tegner og lager."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Gjør mye."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker spill."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Utforsker alt."
+        }
+      ]
+    },
+    {
+      "id": "hoyttaler",
+      "name": "Høyttaler",
+      "shareName": "en høyttaler",
+      "emoji": null,
+      "description": "Du er livlig, sosial og får stemningen i gang. Der du er, blir det fest.",
+      "funFact": "En høyttaler lager lyd ved at en membran vibrerer fram og tilbake.",
+      "image": "images/2027-01-04/hoyttaler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Høyt og glad."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Festlig",
+          "text": "Setter stemningen."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Høres godt."
+        }
+      ]
+    },
+    {
+      "id": "tastatur",
+      "name": "Tastatur",
+      "shareName": "et tastatur",
+      "emoji": null,
+      "description": "Du er flittig, ordrik og får mye gjort. Du har alltid noe å skrive eller si.",
+      "funFact": "Bokstavrekkefølgen QWERTY ble laget for skrivemaskiner på 1870-tallet.",
+      "image": "images/2027-01-04/tastatur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Mange tastetrykk."
+        },
+        {
+          "title": "Ordrik",
+          "text": "Mye å si."
+        },
+        {
+          "title": "Systematisk",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "datamus",
+      "name": "Datamus",
+      "shareName": "en datamus",
+      "emoji": null,
+      "description": "Du er smidig, rask og alltid der det skjer. Du hjelper andre med å finne fram.",
+      "funFact": "Den første datamusa ble laget på 1960-tallet, og den var laget av tre.",
+      "image": "images/2027-01-04/datamus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smidig",
+          "text": "Glir lett."
+        },
+        {
+          "title": "Rask",
+          "text": "Klikker fort."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Viser vei."
+        },
+        {
+          "title": "Liten",
+          "text": "Men viktig."
+        }
+      ]
+    },
+    {
+      "id": "minnepinne",
+      "name": "Minnepinne",
+      "shareName": "en minnepinne",
+      "emoji": null,
+      "description": "Du er liten, men husker alt. Folk stoler på at du tar vare på det viktige.",
+      "funFact": "Minnepinner lagrer data uten strøm ved hjelp av såkalt flashminne.",
+      "image": "images/2027-01-04/minnepinne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hukommelse",
+          "text": "Husker alt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten og diskret."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid med."
+        }
+      ]
+    },
+    {
+      "id": "powerbank",
+      "name": "Powerbank",
+      "shareName": "en powerbank",
+      "emoji": null,
+      "description": "Du er forberedt, sterk og alltid klar til å hjelpe på tur. Du redder dagen når andre går tomme.",
+      "funFact": "De fleste powerbanker har litium-ion-batterier, samme type som i mobiltelefoner.",
+      "image": "images/2027-01-04/powerbank.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forberedt",
+          "text": "Alltid ladet."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Redder dagen."
+        },
+        {
+          "title": "Uavhengig",
+          "text": "Klarer seg uten kontakt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-30",
+  "date": "2027-01-30",
+  "title": "Hvilken vind er du i dag?",
+  "intro": "Vinteren er tiden for storm og kuling langs kysten. Er du en mild bris, en vill orkan eller helt vindstille? Svar på sju spørsmål og finn ut hvilken vind du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hatten din blåser av. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper etter den og ler",
+          "scores": {
+            "virvelvind": 2,
+            "friskbris": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar den fly, den kommer tilbake",
+          "scores": {
+            "vindstille": 2,
+            "havbris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sprinter alt jeg kan",
+          "scores": {
+            "orkan": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Roper til noen at de må ta den",
+          "scores": {
+            "kuling": 2,
+            "nordavind": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hadde den festet med et bånd",
+          "scores": {
+            "nordavind": 2,
+            "bris": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøper en ny og varmere",
+          "scores": {
+            "fonvind": 2,
+            "havbris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan ser håret ditt ut etter en tur ute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt vilt",
+          "scores": {
+            "orkan": 2,
+            "virvelvind": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Akkurat som før",
+          "scores": {
+            "vindstille": 2,
+            "bris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt rufsete, men fint",
+          "scores": {
+            "friskbris": 2,
+            "havbris": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har lue, så det vet ingen",
+          "scores": {
+            "nordavind": 2,
+            "kuling": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fullt av salt og sand",
+          "scores": {
+            "havbris": 2,
+            "storm": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Varmt og tørt",
+          "scores": {
+            "fonvind": 2,
+            "bris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst i sofaen en mørk kveld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser en spennende film",
+          "scores": {
+            "storm": 2,
+            "orkan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prater med noen jeg er glad i",
+          "scores": {
+            "bris": 1,
+            "fonvind": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Strikker eller tegner",
+          "scores": {
+            "vindstille": 2,
+            "havbris": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiller noe sammen med andre",
+          "scores": {
+            "friskbris": 1,
+            "virvelvind": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Planlegger neste uke",
+          "scores": {
+            "nordavind": 2,
+            "kuling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sovner etter fem minutter",
+          "scores": {
+            "vindstille": 2,
+            "bris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du når du har bestemt deg for noe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingenting kan stoppe meg",
+          "scores": {
+            "orkan": 2,
+            "storm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sier det tydelig til alle",
+          "scores": {
+            "kuling": 2,
+            "nordavind": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg gjør det stille og rolig",
+          "scores": {
+            "vindstille": 2,
+            "bris": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg ombestemmer meg kanskje",
+          "scores": {
+            "virvelvind": 2,
+            "havbris": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg tar med meg andre",
+          "scores": {
+            "friskbris": 2,
+            "fonvind": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg venter på riktig øyeblikk",
+          "scores": {
+            "havbris": 1,
+            "vindstille": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken drage ville du sendt opp i lufta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor drage med lang hale",
+          "scores": {
+            "friskbris": 1,
+            "storm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En liten, enkel drage",
+          "scores": {
+            "bris": 2,
+            "vindstille": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En drage som gjør triks",
+          "scores": {
+            "virvelvind": 2,
+            "orkan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En drage formet som en fisk",
+          "scores": {
+            "havbris": 1,
+            "fonvind": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En sterk drage som tåler alt",
+          "scores": {
+            "kuling": 2,
+            "nordavind": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser heller på andres drager",
+          "scores": {
+            "vindstille": 1,
+            "havbris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når du kommer inn fra kulda?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hiver av meg alt og løper til ovnen",
+          "scores": {
+            "virvelvind": 2,
+            "orkan": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager kakao til alle",
+          "scores": {
+            "fonvind": 1,
+            "bris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henger klærne pent til tørk",
+          "scores": {
+            "nordavind": 2,
+            "vindstille": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Forteller om alt jeg så ute",
+          "scores": {
+            "friskbris": 1,
+            "storm": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar en varm dusj",
+          "scores": {
+            "havbris": 2,
+            "bris": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kler på meg og går ut igjen",
+          "scores": {
+            "kuling": 2,
+            "friskbris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan sier du fra at du er uenig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt og tydelig",
+          "scores": {
+            "kuling": 1,
+            "storm": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir sint, men det går fort over",
+          "scores": {
+            "orkan": 2,
+            "virvelvind": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rolig og vennlig",
+          "scores": {
+            "bris": 2,
+            "vindstille": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kort og kjølig",
+          "scores": {
+            "nordavind": 1,
+            "kuling": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en spøk",
+          "scores": {
+            "friskbris": 2,
+            "havbris": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg prøver å finne noe vi er enige om",
+          "scores": {
+            "fonvind": 2,
+            "bris": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "bris",
+      "name": "Lett bris",
+      "shareName": "en lett bris",
+      "emoji": null,
+      "description": "Du er mild, behagelig og gjør dagen litt bedre for alle rundt deg. Folk slapper av når du er der.",
+      "funFact": "I en lett bris blåser det mellom 3,4 og 5,4 meter i sekundet.",
+      "image": "images/2027-01-30/bris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Behagelig å være rundt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Gjør dagen bedre."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting med ro."
+        }
+      ]
+    },
+    {
+      "id": "friskbris",
+      "name": "Frisk bris",
+      "shareName": "en frisk bris",
+      "emoji": null,
+      "description": "Du er frisk, våken og full av energi. Du får alle ut av sofaen.",
+      "funFact": "Frisk bris er perfekt for å sette opp drage.",
+      "image": "images/2027-01-30/friskbris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Våkner alle."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Får folk i gang."
+        }
+      ]
+    },
+    {
+      "id": "kuling",
+      "name": "Kuling",
+      "shareName": "kuling",
+      "emoji": null,
+      "description": "Du er tydelig, sterk og sier fra når noe er galt. Folk merker det når du kommer.",
+      "funFact": "Det finnes liten, stiv og sterk kuling, og den sterkeste er på opptil 20,7 meter i sekundet.",
+      "image": "images/2027-01-30/kuling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier fra."
+        },
+        {
+          "title": "Sterk",
+          "text": "Merkes godt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett på sak."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Bryr deg."
+        }
+      ]
+    },
+    {
+      "id": "storm",
+      "name": "Storm",
+      "shareName": "storm",
+      "emoji": null,
+      "description": "Du er kraftfull, lidenskapelig og stor i alt du gjør. Du forandrer ting når du først setter i gang.",
+      "funFact": "I Norge får ekstremvær egne navn, som «Ingunn» i 2024.",
+      "image": "images/2027-01-30/storm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kraftfull",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Lidenskapelig",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Rydder vei."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Stor stemning."
+        }
+      ]
+    },
+    {
+      "id": "orkan",
+      "name": "Orkan",
+      "shareName": "orkan",
+      "emoji": null,
+      "description": "Du er vill, mektig og helt umulig å overse. Du har mer energi enn de fleste.",
+      "funFact": "Orkan er det sterkeste trinnet på vindskalaen, med minst 32,7 meter i sekundet.",
+      "image": "images/2027-01-30/orkan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vill",
+          "text": "Ingen grenser."
+        },
+        {
+          "title": "Mektig",
+          "text": "Stor kraft."
+        },
+        {
+          "title": "Intens",
+          "text": "Helt eller ikke."
+        },
+        {
+          "title": "Uforglemmelig",
+          "text": "Sett og husket."
+        }
+      ]
+    },
+    {
+      "id": "fonvind",
+      "name": "Fønvind",
+      "shareName": "fønvind",
+      "emoji": null,
+      "description": "Du er varm, overraskende og kan smelte det kaldeste hjerte. Du kommer med sol midt på vinteren.",
+      "funFact": "Fønvind er varm, tørr vind som kommer ned fra fjellene og kan gi vinterdager med over ti varmegrader.",
+      "image": "images/2027-01-30/fonvind.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Smelter alt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Kommer uventet."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Sol på vinteren."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler varme."
+        }
+      ]
+    },
+    {
+      "id": "havbris",
+      "name": "Havbris",
+      "shareName": "havbris",
+      "emoji": null,
+      "description": "Du er frisk, sommerglad og elsker sjøen. Du får folk til å drømme om ferie.",
+      "funFact": "Havbris blåser fra havet mot land på varme dager, fordi landet blir varmere enn sjøen.",
+      "image": "images/2027-01-30/havbris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sommerglad",
+          "text": "Drømmer om ferie."
+        },
+        {
+          "title": "Frisk",
+          "text": "Ren og salt."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Kommer hver ettermiddag."
+        }
+      ]
+    },
+    {
+      "id": "virvelvind",
+      "name": "Virvelvind",
+      "shareName": "en virvelvind",
+      "emoji": null,
+      "description": "Du er rask, uforutsigbar og alltid i bevegelse. Du snurrer rundt og får alt til å skje.",
+      "funFact": "En virvelvind kan suge opp løv og støv og snurre dem i en høy søyle.",
+      "image": "images/2027-01-30/virvelvind.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Leken",
+          "text": "Snurrer rundt."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Aldri likt."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av liv."
+        }
+      ]
+    },
+    {
+      "id": "nordavind",
+      "name": "Nordavind",
+      "shareName": "nordavind",
+      "emoji": null,
+      "description": "Du er kjølig, klar og står støtt. Du sier ting som de er, og folk vet hvor de har deg.",
+      "funFact": "Nordavind kommer ofte med kald, tørr luft og klar himmel.",
+      "image": "images/2027-01-30/nordavind.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klar",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Kjølig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Ingen omveier."
+        }
+      ]
+    },
+    {
+      "id": "vindstille",
+      "name": "Vindstille",
+      "shareName": "vindstille",
+      "emoji": null,
+      "description": "Du er rolig, harmonisk og helt i balanse. Du gir andre ro bare ved å være der.",
+      "funFact": "Når det er vindstille, kan sjøen bli blank som et speil.",
+      "image": "images/2027-01-30/vindstille.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Indre ro."
+        },
+        {
+          "title": "Harmonisk",
+          "text": "I balanse."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne."
+        },
+        {
+          "title": "Speilblank",
+          "text": "Ingen krusninger."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-12",
+  "date": "2027-01-12",
+  "title": "Hvilken yogastilling er du i dag?",
+  "intro": "Mange starter det nye året med å trene litt mer. Er du det rolige treet, den lekne hunden eller den sterke krigeren? Svar på sju spørsmål og finn ut hvilken yogastilling du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken takeaway bestiller du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pizza",
+          "scores": {
+            "hunden": 2,
+            "katten": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sushi",
+          "scores": {
+            "lotus": 2,
+            "treet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Burger",
+          "scores": {
+            "krigeren": 1,
+            "kobra": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Indisk mat",
+          "scores": {
+            "sommerfugl": 2,
+            "broen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kinesisk mat",
+          "scores": {
+            "fjellet": 2,
+            "barnet": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lager heller mat selv",
+          "scores": {
+            "fjellet": 1,
+            "treet": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan er du når noen kommer litt for nær deg i køen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier vennlig fra",
+          "scores": {
+            "broen": 2,
+            "kobra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar et steg til siden",
+          "scores": {
+            "katten": 2,
+            "treet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Later som ingenting",
+          "scores": {
+            "barnet": 2,
+            "lotus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser tydelig på dem",
+          "scores": {
+            "krigeren": 2,
+            "kobra": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smiler og prater med dem",
+          "scores": {
+            "hunden": 1,
+            "sommerfugl": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Står helt rolig",
+          "scores": {
+            "fjellet": 1,
+            "lotus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva har du helst i en smoothie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banan og jordbær",
+          "scores": {
+            "sommerfugl": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spinat og eple",
+          "scores": {
+            "treet": 1,
+            "lotus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mango og pasjonsfrukt",
+          "scores": {
+            "kobra": 2,
+            "krigeren": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blåbær og havre",
+          "scores": {
+            "fjellet": 1,
+            "barnet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Peanøttsmør og sjokolade",
+          "scores": {
+            "katten": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker ikke smoothie",
+          "scores": {
+            "fjellet": 1,
+            "broen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan starter du en treningsøkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en god oppvarming",
+          "scores": {
+            "fjellet": 2,
+            "treet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rett på det tunge",
+          "scores": {
+            "krigeren": 2,
+            "kobra": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med musikk på øret",
+          "scores": {
+            "hunden": 1,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sammen med en venn",
+          "scores": {
+            "broen": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med pusteøvelser",
+          "scores": {
+            "lotus": 1,
+            "barnet": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg prøver å unngå trening",
+          "scores": {
+            "katten": 2,
+            "barnet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du helst i påsken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går på ski i fjellet",
+          "scores": {
+            "krigeren": 2,
+            "fjellet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover lenge og spiser påskeegg",
+          "scores": {
+            "barnet": 2,
+            "katten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Er på hytta med familien",
+          "scores": {
+            "broen": 2,
+            "treet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Reiser til et varmt sted",
+          "scores": {
+            "sommerfugl": 2,
+            "kobra": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser påskekrim",
+          "scores": {
+            "lotus": 2,
+            "treet": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner på ting med venner",
+          "scores": {
+            "hunden": 2,
+            "broen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har en dag der alt går galt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar en dyp pust og fortsetter",
+          "scores": {
+            "lotus": 2,
+            "fjellet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer noen og forteller alt",
+          "scores": {
+            "broen": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Legger meg tidlig",
+          "scores": {
+            "barnet": 1,
+            "katten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir aldri opp",
+          "scores": {
+            "krigeren": 2,
+            "kobra": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler av hvor dumt det er",
+          "scores": {
+            "sommerfugl": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går en lang tur",
+          "scores": {
+            "treet": 2,
+            "fjellet": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket nyttårsforsett er lettest for deg å holde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å trene mer",
+          "scores": {
+            "krigeren": 2,
+            "kobra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å sove mer",
+          "scores": {
+            "barnet": 2,
+            "katten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å være mer ute",
+          "scores": {
+            "treet": 2,
+            "fjellet": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å være snillere med meg selv",
+          "scores": {
+            "lotus": 2,
+            "sommerfugl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å ringe venner oftere",
+          "scores": {
+            "broen": 2,
+            "hunden": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lager ingen forsetter",
+          "scores": {
+            "katten": 2,
+            "sommerfugl": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "fjellet",
+      "name": "Fjellet",
+      "shareName": "fjellet",
+      "emoji": null,
+      "description": "Du er stødig, rolig og står trygt med begge beina på jorda. Andre bygger videre på deg.",
+      "funFact": "Fjellstillingen er en enkel stående stilling som mange andre stillinger starter fra.",
+      "image": "images/2027-01-12/fjellet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står trygt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Grunnfjell",
+          "text": "Andre bygger på deg."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Står i det."
+        }
+      ]
+    },
+    {
+      "id": "treet",
+      "name": "Treet",
+      "shareName": "treet",
+      "emoji": null,
+      "description": "Du er balansert, rolig og vokser i ditt eget tempo. Du holder deg rak selv når det blåser.",
+      "funFact": "I treet står man på ett bein med den andre foten mot leggen eller låret.",
+      "image": "images/2027-01-12/treet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Står på ett bein."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Voksende",
+          "text": "Utvikler seg."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Røtter i jorda."
+        }
+      ]
+    },
+    {
+      "id": "hunden",
+      "name": "Nedovervendt hund",
+      "shareName": "nedovervendt hund",
+      "emoji": null,
+      "description": "Du er leken, energisk og elsker å strekke deg etter nye ting. Du gjør alle i godt humør.",
+      "funFact": "Nedovervendt hund er en av de mest kjente yogastillingene i verden.",
+      "image": "images/2027-01-12/hunden.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Glad i bevegelse."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av fart."
+        },
+        {
+          "title": "Sosial",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Strekker seg langt."
+        }
+      ]
+    },
+    {
+      "id": "katten",
+      "name": "Katt og ku",
+      "shareName": "katt og ku",
+      "emoji": null,
+      "description": "Du er smidig, avslappet og veksler lett mellom stemninger. Du tar livet med myke bevegelser.",
+      "funFact": "Katt og ku brukes ofte for å myke opp ryggen ved at man runder og svaier ryggen.",
+      "image": "images/2027-01-12/katten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smidig",
+          "text": "Myk i bevegelsene."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Litt av hvert."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker komfort."
+        }
+      ]
+    },
+    {
+      "id": "kobra",
+      "name": "Kobraen",
+      "shareName": "kobraen",
+      "emoji": null,
+      "description": "Du er modig, stolt og reiser deg når det gjelder. Du viser hva du står for.",
+      "funFact": "I kobraen ligger man på magen og løfter overkroppen, som en slange som reiser seg.",
+      "image": "images/2027-01-12/kobra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Høyt hevet hode."
+        },
+        {
+          "title": "Modig",
+          "text": "Reiser seg."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Viser hvem du er."
+        }
+      ]
+    },
+    {
+      "id": "barnet",
+      "name": "Barnets stilling",
+      "shareName": "barnets stilling",
+      "emoji": null,
+      "description": "Du er rolig, trygg og vet når du trenger en pause. Du lader batteriene på en god måte.",
+      "funFact": "Barnets stilling er en hvilestilling man kan gå tilbake til når man trenger en pause.",
+      "image": "images/2027-01-12/barnet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar pauser."
+        },
+        {
+          "title": "Trygg",
+          "text": "Kjenner seg selv."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker hvile."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet når nok er nok."
+        }
+      ]
+    },
+    {
+      "id": "krigeren",
+      "name": "Krigeren",
+      "shareName": "krigeren",
+      "emoji": null,
+      "description": "Du er sterk, fokusert og målrettet. Du står støtt og går for det du vil.",
+      "funFact": "Krigeren er oppkalt etter en kriger i indisk mytologi som heter Virabhadra.",
+      "image": "images/2027-01-12/krigeren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Blikket fremover."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Går for det."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør utfordringer."
+        }
+      ]
+    },
+    {
+      "id": "broen",
+      "name": "Broen",
+      "shareName": "broen",
+      "emoji": null,
+      "description": "Du er hjelpsom og knytter folk sammen. Du får andre til å møtes.",
+      "funFact": "I broen ligger man på ryggen og løfter hoftene mot taket.",
+      "image": "images/2027-01-12/broen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Bærer andre."
+        },
+        {
+          "title": "Samlende",
+          "text": "Knytter folk sammen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Holder mye."
+        },
+        {
+          "title": "Åpen",
+          "text": "Rommer alle."
+        }
+      ]
+    },
+    {
+      "id": "lotus",
+      "name": "Lotus",
+      "shareName": "lotus",
+      "emoji": null,
+      "description": "Du er rolig, klok og har ro i sjelen. Du er god til å tenke og lytte.",
+      "funFact": "Lotusstillingen er oppkalt etter lotusblomsten, som er et viktig symbol i India.",
+      "image": "images/2027-01-12/lotus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ro i sjelen."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører etter."
+        },
+        {
+          "title": "Balansert",
+          "text": "Indre ro."
+        }
+      ]
+    },
+    {
+      "id": "sommerfugl",
+      "name": "Sommerfuglen",
+      "shareName": "sommerfuglen",
+      "emoji": null,
+      "description": "Du er lett, glad og åpen for alt. Du sprer god stemning rundt deg.",
+      "funFact": "I sommerfuglen sitter man med fotsålene mot hverandre og knærne ut til siden.",
+      "image": "images/2027-01-12/sommerfugl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lett",
+          "text": "Svever gjennom dagen."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alt."
+        },
+        {
+          "title": "Fri",
+          "text": "Ingen tvang."
+        }
+      ]
+    }
+  ]
+}

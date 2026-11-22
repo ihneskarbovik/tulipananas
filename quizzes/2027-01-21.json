@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-21",
+  "date": "2027-01-21",
+  "title": "Hvilken musikkspiller er du i dag?",
+  "intro": "Musikk har blitt spilt av på mange måter gjennom tidene. Er du en gammeldags grammofon, en trofast kassettspiller eller en moderne smarthøyttaler? Svar på sju spørsmål og finn ut hvilken musikkspiller du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du finner ikke noe i kjøleskapet du har lyst på. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager noe kreativt av det som er der",
+          "scores": {
+            "kassett": 2,
+            "spilledaase": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går og handler",
+          "scores": {
+            "mp3": 2,
+            "cd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bestiller mat",
+          "scores": {
+            "jukeboks": 2,
+            "karaoke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiser en brødskive likevel",
+          "scores": {
+            "platespiller": 2,
+            "grammofon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om noen vil lage mat sammen",
+          "scores": {
+            "radio": 2,
+            "jukeboks": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ber smarthøyttaleren om en oppskrift",
+          "scores": {
+            "smarthoyttaler": 2,
+            "mp3": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har sett en film alle snakker om, men du likte den ikke. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier ærlig hva jeg mener",
+          "scores": {
+            "cd": 2,
+            "radio": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Holder det for meg selv",
+          "scores": {
+            "spilledaase": 2,
+            "platespiller": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forklarer grundig hvorfor",
+          "scores": {
+            "grammofon": 2,
+            "smarthoyttaler": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hva de andre likte med den",
+          "scores": {
+            "kassett": 2,
+            "radio": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler og sier jeg må ha sovnet",
+          "scores": {
+            "karaoke": 2,
+            "jukeboks": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier at den hadde sine fine øyeblikk",
+          "scores": {
+            "mp3": 2,
+            "kassett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken utstilling ville du helst gått på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dinosaurer",
+          "scores": {
+            "grammofon": 2,
+            "radio": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vikinger",
+          "scores": {
+            "cd": 2,
+            "platespiller": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kunst",
+          "scores": {
+            "spilledaase": 2,
+            "kassett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Verdensrommet",
+          "scores": {
+            "smarthoyttaler": 2,
+            "mp3": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Teknologi og oppfinnelser",
+          "scores": {
+            "smarthoyttaler": 2,
+            "cd": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mote og klær gjennom tidene",
+          "scores": {
+            "jukeboks": 2,
+            "karaoke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan feirer du en liten seier i hverdagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Danser litt alene",
+          "scores": {
+            "karaoke": 2,
+            "jukeboks": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Unner meg noe godt",
+          "scores": {
+            "platespiller": 1,
+            "grammofon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller det til en venn",
+          "scores": {
+            "radio": 2,
+            "kassett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Krysser det av på lista og går videre",
+          "scores": {
+            "cd": 2,
+            "smarthoyttaler": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smiler for meg selv",
+          "scores": {
+            "spilledaase": 2,
+            "mp3": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter på en sang og synger med",
+          "scores": {
+            "karaoke": 1,
+            "radio": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva liker du best å se på TV-serier om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Krim og mysterier",
+          "scores": {
+            "grammofon": 1,
+            "cd": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Komedie",
+          "scores": {
+            "karaoke": 2,
+            "jukeboks": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Natur og dyr",
+          "scores": {
+            "spilledaase": 2,
+            "platespiller": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Matlaging",
+          "scores": {
+            "kassett": 1,
+            "radio": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fremtiden og verdensrommet",
+          "scores": {
+            "smarthoyttaler": 2,
+            "mp3": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Historiske dramaer",
+          "scores": {
+            "grammofon": 1,
+            "platespiller": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan svarer du når noen spør om du vil ha mer mat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja takk, gjerne!",
+          "scores": {
+            "jukeboks": 2,
+            "radio": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bare litt",
+          "scores": {
+            "spilledaase": 1,
+            "cd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nei takk, jeg er god og mett",
+          "scores": {
+            "mp3": 2,
+            "smarthoyttaler": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hva som er igjen",
+          "scores": {
+            "kassett": 2,
+            "karaoke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kanskje etter en liten pause",
+          "scores": {
+            "platespiller": 2,
+            "grammofon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar heller dessert",
+          "scores": {
+            "karaoke": 2,
+            "jukeboks": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan hører du helst på musikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt, så alle hører",
+          "scores": {
+            "jukeboks": 2,
+            "karaoke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På hodetelefoner",
+          "scores": {
+            "mp3": 2,
+            "smarthoyttaler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en gammel platespiller",
+          "scores": {
+            "platespiller": 2,
+            "grammofon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På radioen i bakgrunnen",
+          "scores": {
+            "radio": 2,
+            "cd": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Live på konsert",
+          "scores": {
+            "karaoke": 1,
+            "radio": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stille, mens jeg sovner",
+          "scores": {
+            "spilledaase": 2,
+            "kassett": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "grammofon",
+      "name": "Grammofon",
+      "shareName": "en grammofon",
+      "emoji": null,
+      "description": "Du er nostalgisk, sjarmerende og elsker ting med historie. Du har en egen klang som ingen andre har.",
+      "funFact": "Thomas Edison laget fonografen i 1877, en av de første maskinene som kunne ta opp og spille av lyd.",
+      "image": "images/2027-01-21/grammofon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker det gamle."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Egen klang."
+        },
+        {
+          "title": "Elegant",
+          "text": "Klassisk stil."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Én plate om gangen."
+        }
+      ]
+    },
+    {
+      "id": "platespiller",
+      "name": "Platespiller",
+      "shareName": "en platespiller",
+      "emoji": null,
+      "description": "Du er kvalitetsbevisst, rolig og tar deg tid til det som er godt. Du lytter skikkelig.",
+      "funFact": "Vinylplater snurrer vanligvis med 33 eller 45 omdreininger i minuttet.",
+      "image": "images/2027-01-21/platespiller.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvalitetsbevisst",
+          "text": "Det beste lyden."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører etter."
+        },
+        {
+          "title": "Samler",
+          "text": "Har mange plater."
+        }
+      ]
+    },
+    {
+      "id": "kassett",
+      "name": "Kassettspiller",
+      "shareName": "en kassettspiller",
+      "emoji": null,
+      "description": "Du er kreativ og glad i å lage ting til andre. Du husker gode minner.",
+      "funFact": "Kassetten kom på 1960-tallet.",
+      "image": "images/2027-01-21/kassett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager egne miksteiper."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Lager ting til andre."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Gode minner."
+        },
+        {
+          "title": "Leken",
+          "text": "Spoler fram og tilbake."
+        }
+      ]
+    },
+    {
+      "id": "cd",
+      "name": "CD-spiller",
+      "shareName": "en CD-spiller",
+      "emoji": null,
+      "description": "Du er ordentlig, pålitelig og liker at ting fungerer. Du hører et album fra start til slutt.",
+      "funFact": "CD-en kom i salg i 1982.",
+      "image": "images/2027-01-21/cd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt i rekkefølge."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Fungerer alltid."
+        },
+        {
+          "title": "Grundig",
+          "text": "Hele albumet."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs."
+        }
+      ]
+    },
+    {
+      "id": "radio",
+      "name": "Radio",
+      "shareName": "en radio",
+      "emoji": null,
+      "description": "Du er sosial, nysgjerrig og liker å vite hva som skjer. Du er god selskap hele dagen.",
+      "funFact": "NRK startet radiosendinger i 1933.",
+      "image": "images/2027-01-21/radio.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Godt selskap."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Følger med."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Mye å fortelle."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Aldri helt likt."
+        }
+      ]
+    },
+    {
+      "id": "jukeboks",
+      "name": "Jukeboks",
+      "shareName": "en jukeboks",
+      "emoji": null,
+      "description": "Du er festlig, fargerik og elsker å samle folk. Du spiller det folk ønsker seg.",
+      "funFact": "En jukeboks spiller sangen du velger når du putter på mynter.",
+      "image": "images/2027-01-21/jukeboks.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager fest."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Raus",
+          "text": "Spiller ønsker."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        }
+      ]
+    },
+    {
+      "id": "mp3",
+      "name": "MP3-spiller",
+      "shareName": "en MP3-spiller",
+      "emoji": null,
+      "description": "Du er praktisk, aktiv og har mye på liten plass. Du er alltid klar for tur.",
+      "funFact": "MP3 er et format som gjør lydfiler mye mindre.",
+      "image": "images/2027-01-21/mp3.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Mye på liten plass."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid med på tur."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Rask og enkel."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Din egen spilleliste."
+        }
+      ]
+    },
+    {
+      "id": "spilledaase",
+      "name": "Spilledåse",
+      "shareName": "en spilledåse",
+      "emoji": null,
+      "description": "Du er drømmende, søt og litt magisk. Du får folk til å smile og minnes.",
+      "funFact": "Spilledåser har en sylinder med små pigger som slår an tynne metalltunger.",
+      "image": "images/2027-01-21/spilledaase.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Litt magisk."
+        },
+        {
+          "title": "Søt",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Vekker minner."
+        },
+        {
+          "title": "Rolig",
+          "text": "Myke toner."
+        }
+      ]
+    },
+    {
+      "id": "smarthoyttaler",
+      "name": "Smarthøyttaler",
+      "shareName": "en smarthøyttaler",
+      "emoji": null,
+      "description": "Du er moderne, hjelpsom og lytter når noen trenger deg. Du har svar på det meste.",
+      "funFact": "Smarthøyttalere kan styres med stemmen.",
+      "image": "images/2027-01-21/smarthoyttaler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Følger med i tiden."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Svarer på alt."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører når du snakker."
+        },
+        {
+          "title": "Smart",
+          "text": "Lærer stadig."
+        }
+      ]
+    },
+    {
+      "id": "karaoke",
+      "name": "Karaokemaskin",
+      "shareName": "en karaokemaskin",
+      "emoji": null,
+      "description": "Du er modig, sosial og elsker å underholde. Du får selv de sjenerte til å synge.",
+      "funFact": "Karaoke betyr «tomt orkester» på japansk.",
+      "image": "images/2027-01-21/karaoke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Synger høyt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Får alle med."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Elsker scenen."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mye latter."
+        }
+      ]
+    }
+  ]
+}

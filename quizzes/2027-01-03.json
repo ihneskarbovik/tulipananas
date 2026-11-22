@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-03",
+  "date": "2027-01-03",
+  "title": "Hvilken baderomsting er du i dag?",
+  "intro": "Er du en trofast tannbørste, en leken badeand eller en brusende badebombe? Svar på sju spørsmål og finn ut hvilken ting på badet du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken avdeling i matbutikken bruker du mest tid i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frukt og grønt",
+          "scores": {
+            "tannkrem": 2,
+            "svamp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Godterihylla",
+          "scores": {
+            "badeand": 1,
+            "badebombe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brødavdelingen",
+          "scores": {
+            "handkle": 1,
+            "sape": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Frysedisken",
+          "scores": {
+            "dusj": 2,
+            "harforner": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blomsterhjørnet",
+          "scores": {
+            "kam": 2,
+            "badebombe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg er raskt inn og ut",
+          "scores": {
+            "tannborste": 2,
+            "dusj": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det blir stille i en samtale. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finner på noe nytt å prate om",
+          "scores": {
+            "harforner": 2,
+            "badeand": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar det være stille, det er greit",
+          "scores": {
+            "kam": 2,
+            "svamp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kommer med en vits",
+          "scores": {
+            "badebombe": 1,
+            "badeand": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stiller et spørsmål",
+          "scores": {
+            "svamp": 2,
+            "handkle": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smiler og venter",
+          "scores": {
+            "sape": 2,
+            "kam": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Foreslår at vi gjør noe",
+          "scores": {
+            "dusj": 2,
+            "tannkrem": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva spiser du helst når du er syk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Suppe",
+          "scores": {
+            "handkle": 2,
+            "svamp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Is",
+          "scores": {
+            "badeand": 1,
+            "badebombe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Loff med syltetøy",
+          "scores": {
+            "sape": 2,
+            "kam": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, bare te",
+          "scores": {
+            "tannborste": 1,
+            "tannkrem": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Akkurat det samme som vanlig",
+          "scores": {
+            "dusj": 2,
+            "harforner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe noen har laget til meg",
+          "scores": {
+            "handkle": 2,
+            "badeand": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har sovet dårlig. Hvordan blir dagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg tar meg sammen og kjører på",
+          "scores": {
+            "tannborste": 2,
+            "dusj": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg er litt grinete",
+          "scores": {
+            "harforner": 2,
+            "sape": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tar en lur så fort jeg kan",
+          "scores": {
+            "svamp": 2,
+            "handkle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg drikker mye vann og går ut",
+          "scores": {
+            "tannkrem": 2,
+            "dusj": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg blir fnisete og rar",
+          "scores": {
+            "badeand": 1,
+            "badebombe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg legger meg tidlig neste kveld",
+          "scores": {
+            "kam": 1,
+            "tannborste": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags sengetøy liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hvitt og enkelt",
+          "scores": {
+            "sape": 2,
+            "tannborste": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mønstret og fargerikt",
+          "scores": {
+            "badebombe": 2,
+            "badeand": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mykt flanell",
+          "scores": {
+            "handkle": 2,
+            "svamp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Glatt og kjølig",
+          "scores": {
+            "dusj": 2,
+            "tannkrem": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med et morsomt motiv",
+          "scores": {
+            "badeand": 1,
+            "harforner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det samme jeg alltid har hatt",
+          "scores": {
+            "kam": 2,
+            "sape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen sender deg et gammelt bilde av deg selv. Hvordan reagerer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler høyt",
+          "scores": {
+            "badeand": 2,
+            "harforner": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir litt flau",
+          "scores": {
+            "kam": 2,
+            "sape": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender et enda verre bilde tilbake",
+          "scores": {
+            "badebombe": 2,
+            "harforner": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir rørt og minnes",
+          "scores": {
+            "handkle": 2,
+            "svamp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lagrer det i en egen mappe",
+          "scores": {
+            "tannborste": 2,
+            "kam": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Viser det til alle",
+          "scores": {
+            "tannkrem": 2,
+            "badebombe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva hører du på når du går tur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musikk",
+          "scores": {
+            "harforner": 2,
+            "badebombe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lydbok",
+          "scores": {
+            "svamp": 2,
+            "kam": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting, bare naturen",
+          "scores": {
+            "sape": 2,
+            "tannborste": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prater i telefonen med noen",
+          "scores": {
+            "handkle": 2,
+            "badeand": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En podkast",
+          "scores": {
+            "tannkrem": 2,
+            "svamp": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg synger selv",
+          "scores": {
+            "badeand": 2,
+            "dusj": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "tannborste",
+      "name": "Tannbørste",
+      "shareName": "en tannbørste",
+      "emoji": null,
+      "description": "Du er pålitelig, ordentlig og har gode rutiner. Du gjør jobben din to ganger om dagen, hver eneste dag.",
+      "funFact": "De første tannbørstene med bust ble laget i Kina for over 500 år siden.",
+      "image": "images/2027-01-03/tannborste.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Hver morgen og kveld."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Gode rutiner."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Frisk",
+          "text": "Smiler bredt."
+        }
+      ]
+    },
+    {
+      "id": "badeand",
+      "name": "Badeand",
+      "shareName": "en badeand",
+      "emoji": null,
+      "description": "Du er leken, glad og flyter gjennom livet med et smil. Du gjør selv kjedelige stunder morsomme.",
+      "funFact": "I 1992 falt tusenvis av badeleker i Stillehavet, og noen har drevet i land over hele verden.",
+      "image": "images/2027-01-03/badeand.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Glad",
+          "text": "Alltid et smil."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Har reist langt."
+        },
+        {
+          "title": "Lett",
+          "text": "Flyter gjennom alt."
+        }
+      ]
+    },
+    {
+      "id": "sape",
+      "name": "Såpestykke",
+      "shareName": "et såpestykke",
+      "emoji": null,
+      "description": "Du er ren, enkel og ærlig. Du gjør verden litt bedre uten å lage noe nummer av det.",
+      "funFact": "Såpe lages ved at fett eller olje blandes med lut.",
+      "image": "images/2027-01-03/sape.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Ren og klar."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Glatt",
+          "text": "Smidig i alle situasjoner."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Alltid nyttig."
+        }
+      ]
+    },
+    {
+      "id": "svamp",
+      "name": "Svamp",
+      "shareName": "en svamp",
+      "emoji": null,
+      "description": "Du er myk, lyttende og tar inn alt rundt deg. Du lærer raskt og er god å ha i nærheten.",
+      "funFact": "Ekte badesvamper er skjelettet av et dyr som lever i havet.",
+      "image": "images/2027-01-03/svamp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lyttende",
+          "text": "Tar inn alt."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Suger opp kunnskap."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg."
+        }
+      ]
+    },
+    {
+      "id": "handkle",
+      "name": "Håndkle",
+      "shareName": "et håndkle",
+      "emoji": null,
+      "description": "Du er varm, omsorgsfull og alltid klar når noen trenger deg. Du gjør andre godt.",
+      "funFact": "Frottéhåndklær har små løkker som suger opp vann.",
+      "image": "images/2027-01-03/handkle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tørker tårer."
+        },
+        {
+          "title": "Varm",
+          "text": "Som en klem."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Myk",
+          "text": "God å være nær."
+        }
+      ]
+    },
+    {
+      "id": "harforner",
+      "name": "Hårføner",
+      "shareName": "en hårføner",
+      "emoji": null,
+      "description": "Du er rask, energisk og litt bråkete på en god måte. Du får fart på ting.",
+      "funFact": "De første hårfønerne var store og tunge, og kom tidlig på 1900-tallet.",
+      "image": "images/2027-01-03/harforner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av luft."
+        },
+        {
+          "title": "Rask",
+          "text": "Ferdig på et blunk."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir god varme."
+        },
+        {
+          "title": "Livlig",
+          "text": "Litt bråkete."
+        }
+      ]
+    },
+    {
+      "id": "tannkrem",
+      "name": "Tannkrem",
+      "shareName": "en tannkrem",
+      "emoji": null,
+      "description": "Du er frisk, positiv og gir folk et smil. Du har alltid noe hyggelig å si.",
+      "funFact": "Tannkrem med fluor hjelper med å beskytte tennene mot hull.",
+      "image": "images/2027-01-03/tannkrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som mynte."
+        },
+        {
+          "title": "Positiv",
+          "text": "Får folk til å smile."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        }
+      ]
+    },
+    {
+      "id": "kam",
+      "name": "Kam",
+      "shareName": "en kam",
+      "emoji": null,
+      "description": "Du er ordentlig, rolig og liker at alt er på plass. Du hjelper andre med å finne roen.",
+      "funFact": "Kammer er blant de eldste redskapene vi kjenner, og er funnet fra steinalderen.",
+      "image": "images/2027-01-03/kam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen floker."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Løser floker."
+        }
+      ]
+    },
+    {
+      "id": "badebombe",
+      "name": "Badebombe",
+      "shareName": "en badebombe",
+      "emoji": null,
+      "description": "Du er sprudlende, fargerik og full av overraskelser. Du gjør alt litt mer spesielt.",
+      "funFact": "Badebomber bruser fordi natron og sitronsyre reagerer når de kommer i vann.",
+      "image": "images/2027-01-03/badebombe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Bruser av glede."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Aldri helt likt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør det spesielt."
+        }
+      ]
+    },
+    {
+      "id": "dusj",
+      "name": "Dusj",
+      "shareName": "en dusj",
+      "emoji": null,
+      "description": "Du er frisk, effektiv og gir folk ny energi. Du hjelper andre i gang med dagen.",
+      "funFact": "En vanlig dusj bruker omtrent ti liter vann i minuttet, eller mer.",
+      "image": "images/2027-01-03/dusj.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Rask og grei."
+        },
+        {
+          "title": "Oppkvikkende",
+          "text": "Vekker folk."
+        },
+        {
+          "title": "Direkte",
+          "text": "Ingen omveier."
+        }
+      ]
+    }
+  ]
+}

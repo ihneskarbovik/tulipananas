@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-29",
+  "date": "2027-01-29",
+  "title": "Hvilken båt er du i dag?",
+  "intro": "Norge har en lang kyst og mange båter. Er du en rolig robåt, en tøff isbryter eller et stolt vikingskip? Svar på sju spørsmål og finn ut hvilken båt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor sitter du helst når du er med en båt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt fremst i baugen",
+          "scores": {
+            "vikingskip": 2,
+            "isbryter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Inne i varmen",
+          "scores": {
+            "ferje": 2,
+            "ubat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved roret",
+          "scores": {
+            "seilbat": 2,
+            "redningsskoyte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bakerst og ser på kjølvannet",
+          "scores": {
+            "robat": 2,
+            "fiskebat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med beina i vannet",
+          "scores": {
+            "flate": 2,
+            "kajakk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Der det er mat",
+          "scores": {
+            "ferje": 1,
+            "flate": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du er kaptein for en dag. Hva gjør du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker kart og vær",
+          "scores": {
+            "seilbat": 2,
+            "redningsskoyte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir alle mannskapet en oppgave",
+          "scores": {
+            "vikingskip": 2,
+            "fiskebat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter kursen mot et ukjent sted",
+          "scores": {
+            "kajakk": 2,
+            "vikingskip": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager god stemning om bord",
+          "scores": {
+            "ferje": 2,
+            "flate": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjører rett gjennom alt",
+          "scores": {
+            "isbryter": 2,
+            "fiskebat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Dykker ned for å se hva som er under",
+          "scores": {
+            "ubat": 2,
+            "kajakk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Det blåser kraftig ute. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går ut og kjenner på vinden",
+          "scores": {
+            "seilbat": 2,
+            "vikingskip": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir inne med noe varmt",
+          "scores": {
+            "ferje": 2,
+            "ubat": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sjekker om noen trenger hjelp",
+          "scores": {
+            "redningsskoyte": 2,
+            "isbryter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går tur likevel, med god jakke",
+          "scores": {
+            "fiskebat": 2,
+            "robat": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner et lunt sted i le",
+          "scores": {
+            "kajakk": 1,
+            "flate": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stenger vinduene og rydder",
+          "scores": {
+            "isbryter": 2,
+            "robat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan sier du ha det når du drar fra et selskap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klemmer alle",
+          "scores": {
+            "redningsskoyte": 2,
+            "flate": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vinker fra døra",
+          "scores": {
+            "ferje": 1,
+            "robat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sniker meg ut uten å si noe",
+          "scores": {
+            "ubat": 2,
+            "kajakk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Takker verten skikkelig",
+          "scores": {
+            "fiskebat": 2,
+            "robat": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Drar sist av alle",
+          "scores": {
+            "vikingskip": 1,
+            "flate": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går tidlig, jeg har planer",
+          "scores": {
+            "seilbat": 2,
+            "isbryter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket dyr vil du helst se fra båten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hval som blåser",
+          "scores": {
+            "vikingskip": 1,
+            "seilbat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Niser som hopper",
+          "scores": {
+            "kajakk": 2,
+            "flate": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En havørn",
+          "scores": {
+            "isbryter": 2,
+            "fiskebat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En sel på et skjær",
+          "scores": {
+            "robat": 2,
+            "ubat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En flokk med måker",
+          "scores": {
+            "ferje": 1,
+            "fiskebat": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Maneter i vannet",
+          "scores": {
+            "ubat": 1,
+            "redningsskoyte": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan bader du helst i sjøen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper rett ut fra et svaberg",
+          "scores": {
+            "vikingskip": 2,
+            "isbryter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går forsiktig ut fra stranda",
+          "scores": {
+            "robat": 2,
+            "ferje": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Svømmer langt ut",
+          "scores": {
+            "kajakk": 2,
+            "seilbat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ligger og flyter på ryggen",
+          "scores": {
+            "flate": 2,
+            "ubat": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bader hele året, også om vinteren",
+          "scores": {
+            "isbryter": 2,
+            "fiskebat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg passer på de som bader",
+          "scores": {
+            "redningsskoyte": 2,
+            "ferje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan takler du en tur med store bølger?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg elsker det",
+          "scores": {
+            "vikingskip": 2,
+            "seilbat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg holder meg fast og smiler",
+          "scores": {
+            "kajakk": 1,
+            "redningsskoyte": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg ser på horisonten og puster rolig",
+          "scores": {
+            "robat": 2,
+            "ubat": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg legger meg ned og venter",
+          "scores": {
+            "flate": 2,
+            "ferje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg merker det knapt",
+          "scores": {
+            "isbryter": 2,
+            "fiskebat": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg hjelper de som blir sjøsyke",
+          "scores": {
+            "redningsskoyte": 2,
+            "ferje": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "robat",
+      "name": "Robåten",
+      "shareName": "robåten",
+      "emoji": null,
+      "description": "Du er rolig, sterk og liker å ta ting i ditt eget tempo. Du kommer fram med egen kraft.",
+      "funFact": "Å ro trener armer, rygg og bein på en gang.",
+      "image": "images/2027-01-29/robat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ditt eget tempo."
+        },
+        {
+          "title": "Sterk",
+          "text": "Egen kraft."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkle gleder."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Ror og ror."
+        }
+      ]
+    },
+    {
+      "id": "seilbat",
+      "name": "Seilbåten",
+      "shareName": "seilbåten",
+      "emoji": null,
+      "description": "Du er fri, eventyrlysten og bruker vinden til din fordel. Du finner alltid en vei, selv i motvind.",
+      "funFact": "En seilbåt kan komme seg fram mot vinden ved å seile på skrå i sikksakk. Det kalles å krysse.",
+      "image": "images/2027-01-29/seilbat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Følger vinden."
+        },
+        {
+          "title": "Smart",
+          "text": "Bruker motvind."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ut på havet."
+        },
+        {
+          "title": "Elegant",
+          "text": "Glir lett."
+        }
+      ]
+    },
+    {
+      "id": "kajakk",
+      "name": "Kajakken",
+      "shareName": "kajakken",
+      "emoji": null,
+      "description": "Du er smidig, selvstendig og elsker å utforske. Du kommer deg dit ingen andre kommer.",
+      "funFact": "Kajakken ble utviklet av inuittene i Arktis.",
+      "image": "images/2027-01-29/kajakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smidig",
+          "text": "Kommer overalt."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Finner nye steder."
+        },
+        {
+          "title": "Rask",
+          "text": "Kjapp i vendingen."
+        }
+      ]
+    },
+    {
+      "id": "ferje",
+      "name": "Ferja",
+      "shareName": "ferja",
+      "emoji": null,
+      "description": "Du er hjelpsom, pålitelig og får folk dit de skal. Du knytter steder og mennesker sammen.",
+      "funFact": "Ferja Ampere startet i 2015 og regnes som verdens første elektriske bilferje.",
+      "image": "images/2027-01-29/ferje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Frakter alle."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Går hver dag."
+        },
+        {
+          "title": "Samlende",
+          "text": "Knytter sammen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        }
+      ]
+    },
+    {
+      "id": "vikingskip",
+      "name": "Vikingskipet",
+      "shareName": "vikingskipet",
+      "emoji": null,
+      "description": "Du er modig, stolt og klar for store eventyr. Du har historie og kraft i deg.",
+      "funFact": "Osebergskipet ble funnet i en gravhaug i Vestfold i 1904.",
+      "image": "images/2027-01-29/vikingskip.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Stolt",
+          "text": "Kjenner historien."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Lange reiser."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye kraft."
+        }
+      ]
+    },
+    {
+      "id": "fiskebat",
+      "name": "Fiskebåten",
+      "shareName": "fiskebåten",
+      "emoji": null,
+      "description": "Du er arbeidsom, tøff og står tidlig opp. Du kjenner havet og værets luner.",
+      "funFact": "Lofotfisket etter skrei har foregått i over tusen år.",
+      "image": "images/2027-01-29/fiskebat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står tidlig opp."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler vær."
+        },
+        {
+          "title": "Erfaren",
+          "text": "Kjenner havet."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ekte og ærlig."
+        }
+      ]
+    },
+    {
+      "id": "isbryter",
+      "name": "Isbryteren",
+      "shareName": "isbryteren",
+      "emoji": null,
+      "description": "Du er sterk, bestemt og baner vei for andre. Når det er vanskelig, går du først.",
+      "funFact": "En isbryter knuser isen ved å presse baugen opp på den, så isen sprekker under vekten.",
+      "image": "images/2027-01-29/isbryter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Knuser hindringer."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Gir ikke opp."
+        },
+        {
+          "title": "Modig",
+          "text": "Går først."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Baner vei."
+        }
+      ]
+    },
+    {
+      "id": "ubat",
+      "name": "Ubåten",
+      "shareName": "ubåten",
+      "emoji": null,
+      "description": "Du er stille, dyp og mer spennende enn folk tror. Du ser ting andre ikke legger merke til.",
+      "funFact": "En ubåt dykker ved å fylle tanker med vann, og stiger ved å blåse dem tomme med luft.",
+      "image": "images/2027-01-29/ubat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Mye under overflaten."
+        },
+        {
+          "title": "Stille",
+          "text": "Rolig og observant."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Spennende."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder kursen."
+        }
+      ]
+    },
+    {
+      "id": "redningsskoyte",
+      "name": "Redningsskøyta",
+      "shareName": "redningsskøyta",
+      "emoji": null,
+      "description": "Du er modig, omsorgsfull og stiller opp når noen trenger hjelp. Du er der i all slags vær.",
+      "funFact": "Redningsselskapet i Norge ble stiftet i 1891.",
+      "image": "images/2027-01-29/redningsskoyte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Hjelper alle."
+        },
+        {
+          "title": "Modig",
+          "text": "Ut i alt vær."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort."
+        }
+      ]
+    },
+    {
+      "id": "flate",
+      "name": "Flåten",
+      "shareName": "flåten",
+      "emoji": null,
+      "description": "Du er avslappet, kreativ og tar livet som det kommer. Du trenger ikke mye for å ha det gøy.",
+      "funFact": "Thor Heyerdahl krysset Stillehavet på balsaflåten Kon-Tiki i 1947.",
+      "image": "images/2027-01-29/flate.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det som det kommer."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager av lite."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Store drømmer."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke mye."
+        }
+      ]
+    }
+  ]
+}

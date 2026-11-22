@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-27",
+  "date": "2027-01-27",
+  "title": "Hvilken komponist er du i dag?",
+  "intro": "Den 27. januar 1756 ble Wolfgang Amadeus Mozart født. Er du lekne Mozart, kraftfulle Beethoven eller norske Grieg? Svar på sju spørsmål og finn ut hvilken komponist du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor liker du best å høre musikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en stor konsertscene",
+          "scores": {
+            "beethoven": 2,
+            "handel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "I en kirke",
+          "scores": {
+            "bach": 2,
+            "handel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På et ballett-teater",
+          "scores": {
+            "tsjaikovskij": 2,
+            "strauss": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ute i naturen med ørepropper",
+          "scores": {
+            "grieg": 2,
+            "vivaldi": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Alene ved et piano",
+          "scores": {
+            "chopin": 2,
+            "debussy": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "På kjøkkenet mens jeg lager mat",
+          "scores": {
+            "mozart": 1,
+            "strauss": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva liker du best med at lyset kommer tilbake etter vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solnedgangene blir lange og fargerike",
+          "scores": {
+            "debussy": 2,
+            "chopin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg får mer energi",
+          "scores": {
+            "beethoven": 2,
+            "mozart": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fuglene begynner å synge",
+          "scores": {
+            "vivaldi": 2,
+            "grieg": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg kan gå tur etter jobb igjen",
+          "scores": {
+            "grieg": 2,
+            "bach": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det blir lysere stemning overalt",
+          "scores": {
+            "strauss": 2,
+            "tsjaikovskij": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker egentlig mørket best",
+          "scores": {
+            "chopin": 1,
+            "handel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du skal på en konsert. Hvor vil du sitte?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt foran",
+          "scores": {
+            "beethoven": 1,
+            "mozart": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På balkongen med god utsikt",
+          "scores": {
+            "handel": 1,
+            "bach": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Midt i salen",
+          "scores": {
+            "strauss": 2,
+            "vivaldi": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bakerst, så jeg kan lukke øynene",
+          "scores": {
+            "debussy": 2,
+            "chopin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Der vennene mine sitter",
+          "scores": {
+            "strauss": 2,
+            "mozart": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg står helst",
+          "scores": {
+            "grieg": 2,
+            "beethoven": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen gjør noe fint for deg uten grunn. Hvordan reagerer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir kjempeglad og takker mange ganger",
+          "scores": {
+            "mozart": 2,
+            "strauss": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir litt rørt",
+          "scores": {
+            "chopin": 2,
+            "tsjaikovskij": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør noe fint tilbake",
+          "scores": {
+            "bach": 2,
+            "handel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lurer på hvorfor",
+          "scores": {
+            "beethoven": 2,
+            "debussy": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller alle om det",
+          "scores": {
+            "vivaldi": 2,
+            "strauss": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver det ned i dagboka",
+          "scores": {
+            "grieg": 1,
+            "chopin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva liker du å gjøre i hagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plante blomster",
+          "scores": {
+            "vivaldi": 2,
+            "grieg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sitte i en hengekøye",
+          "scores": {
+            "debussy": 2,
+            "chopin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ha store selskap",
+          "scores": {
+            "handel": 2,
+            "strauss": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Klippe plenen helt rett",
+          "scores": {
+            "bach": 2,
+            "beethoven": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leke og spille ball",
+          "scores": {
+            "mozart": 2,
+            "vivaldi": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Se på stjernene om kvelden",
+          "scores": {
+            "tsjaikovskij": 2,
+            "debussy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du når du skal pugge noe utenat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gjentar det om og om igjen",
+          "scores": {
+            "bach": 2,
+            "beethoven": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager en sang av det",
+          "scores": {
+            "mozart": 2,
+            "strauss": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tegner det",
+          "scores": {
+            "debussy": 2,
+            "grieg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går rundt mens jeg øver",
+          "scores": {
+            "vivaldi": 2,
+            "beethoven": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Øver sammen med noen",
+          "scores": {
+            "handel": 2,
+            "tsjaikovskij": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver det ned for hånd",
+          "scores": {
+            "chopin": 2,
+            "bach": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken musikk vil du ha på når du skal sove?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolig pianomusikk",
+          "scores": {
+            "chopin": 2,
+            "debussy": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lyden av regn",
+          "scores": {
+            "grieg": 2,
+            "bach": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En gammel vuggevise",
+          "scores": {
+            "mozart": 2,
+            "tsjaikovskij": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, helt stille",
+          "scores": {
+            "beethoven": 1,
+            "bach": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe jeg kan nynne på",
+          "scores": {
+            "strauss": 2,
+            "vivaldi": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor symfoni",
+          "scores": {
+            "handel": 2,
+            "beethoven": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "mozart",
+      "name": "Mozart",
+      "shareName": "Mozart",
+      "emoji": null,
+      "description": "Du er leken, talentfull og full av energi. Du får vanskelige ting til å se enkle ut.",
+      "funFact": "Mozart ble født 27. januar 1756 i Salzburg.",
+      "image": "images/2027-01-27/mozart.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Full av moro."
+        },
+        {
+          "title": "Talentfull",
+          "text": "Mye i fingrene."
+        },
+        {
+          "title": "Energisk",
+          "text": "Mange ideer."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Alle liker deg."
+        }
+      ]
+    },
+    {
+      "id": "beethoven",
+      "name": "Beethoven",
+      "shareName": "Beethoven",
+      "emoji": null,
+      "description": "Du er lidenskapelig, sterk og gir aldri opp. Du følger hjertet ditt, uansett hva.",
+      "funFact": "Beethoven fortsatte å komponere selv etter at han nesten hadde mistet hørselen.",
+      "image": "images/2027-01-27/beethoven.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for ting."
+        },
+        {
+          "title": "Sterk",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Intens",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Følger hjertet."
+        }
+      ]
+    },
+    {
+      "id": "bach",
+      "name": "Bach",
+      "shareName": "Bach",
+      "emoji": null,
+      "description": "Du er ordentlig, klok og stødig. Du bygger ting som varer i hundrevis av år.",
+      "funFact": "Johann Sebastian Bach fikk hele 20 barn.",
+      "image": "images/2027-01-27/bach.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt i system."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker grundig."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Familiekjær",
+          "text": "Stor familie."
+        }
+      ]
+    },
+    {
+      "id": "grieg",
+      "name": "Grieg",
+      "shareName": "Grieg",
+      "emoji": null,
+      "description": "Du er naturglad, følsom og stolt av hvor du kommer fra. Du finner musikk i fjell og fjorder.",
+      "funFact": "Edvard Grieg skrev musikken til Peer Gynt, blant annet «Morgenstemning».",
+      "image": "images/2027-01-27/grieg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Naturglad",
+          "text": "Elsker fjell og fjord."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Stolt",
+          "text": "Kjenner røttene."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser stemninger."
+        }
+      ]
+    },
+    {
+      "id": "vivaldi",
+      "name": "Vivaldi",
+      "shareName": "Vivaldi",
+      "emoji": null,
+      "description": "Du er energisk, fargerik og elsker forandring. Du trives i alle årstider.",
+      "funFact": "Antonio Vivaldi skrev «De fire årstider».",
+      "image": "images/2027-01-27/vivaldi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Mange stemninger."
+        },
+        {
+          "title": "Forandringsglad",
+          "text": "Alle årstider."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye bevegelse."
+        }
+      ]
+    },
+    {
+      "id": "tsjaikovskij",
+      "name": "Tsjaikovskij",
+      "shareName": "Tsjaikovskij",
+      "emoji": null,
+      "description": "Du er romantisk, drømmende og elsker det magiske. Du gjør hverdagen til et eventyr.",
+      "funFact": "Tsjaikovskij skrev musikken til balletten «Nøtteknekkeren».",
+      "image": "images/2027-01-27/tsjaikovskij.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Eventyr i hodet."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner dypt."
+        },
+        {
+          "title": "Magisk",
+          "text": "Litt eventyr."
+        }
+      ]
+    },
+    {
+      "id": "chopin",
+      "name": "Chopin",
+      "shareName": "Chopin",
+      "emoji": null,
+      "description": "Du er følsom, poetisk og uttrykker deg best på din egen måte. Du har en stille styrke.",
+      "funFact": "Chopin skrev nesten all musikken sin for piano.",
+      "image": "images/2027-01-27/chopin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Poetisk",
+          "text": "Vakre uttrykk."
+        },
+        {
+          "title": "Stille",
+          "text": "Indre styrke."
+        },
+        {
+          "title": "Elegant",
+          "text": "Myke bevegelser."
+        }
+      ]
+    },
+    {
+      "id": "strauss",
+      "name": "Strauss",
+      "shareName": "Johann Strauss",
+      "emoji": null,
+      "description": "Du er festlig, sosial og elsker å danse. Du får alle ut på gulvet.",
+      "funFact": "Johann Strauss den yngre kalles «valsekongen» og skrev «An der schönen blauen Donau».",
+      "image": "images/2027-01-27/strauss.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager fest."
+        },
+        {
+          "title": "Sosial",
+          "text": "Får alle med."
+        },
+        {
+          "title": "Dansende",
+          "text": "Kan ikke sitte stille."
+        },
+        {
+          "title": "Elegant",
+          "text": "Stil og eleganse."
+        }
+      ]
+    },
+    {
+      "id": "debussy",
+      "name": "Debussy",
+      "shareName": "Debussy",
+      "emoji": null,
+      "description": "Du er drømmende, rolig og ser verden i myke farger. Du finner skjønnhet i det stille.",
+      "funFact": "Debussys stykke «Clair de lune» betyr måneskinn.",
+      "image": "images/2027-01-27/debussy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Myke farger."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Egen stil."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Elsker måneskinn."
+        }
+      ]
+    },
+    {
+      "id": "handel",
+      "name": "Händel",
+      "shareName": "Händel",
+      "emoji": null,
+      "description": "Du er storslått, raus og elsker store anledninger. Du får folk til å reise seg.",
+      "funFact": "Händel skrev oratoriet «Messias», med det berømte «Halleluja».",
+      "image": "images/2027-01-27/handel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Storslått",
+          "text": "Store øyeblikk."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir mye."
+        },
+        {
+          "title": "Høytidelig",
+          "text": "Til store dager."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får alle til å synge."
+        }
+      ]
+    }
+  ]
+}

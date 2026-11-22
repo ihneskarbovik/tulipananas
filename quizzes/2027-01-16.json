@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-16",
+  "date": "2027-01-16",
+  "title": "Hvilket reiseutstyr er du i dag?",
+  "intro": "Er du en trofast koffert, et smart kompass eller en varm sovepose? Svar på sju spørsmål og finn ut hvilket reiseutstyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva er det beste med å komme hjem etter en reise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Min egen seng",
+          "scores": {
+            "sovepose": 2,
+            "nakkepute": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å møte familien",
+          "scores": {
+            "pass": 2,
+            "kompass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å vaske alle klærne",
+          "scores": {
+            "koffert": 1,
+            "adapter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å planlegge neste tur",
+          "scores": {
+            "billett": 2,
+            "kart": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vanlig hverdagsmat",
+          "scores": {
+            "ryggsekk": 2,
+            "solkrem": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "At alt er som før",
+          "scores": {
+            "kompass": 2,
+            "sovepose": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En god venn skal flytte langt bort. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en avskjedsfest",
+          "scores": {
+            "billett": 2,
+            "solkrem": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir et minne de kan ta med seg",
+          "scores": {
+            "kart": 2,
+            "pass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lover å ringe ofte",
+          "scores": {
+            "adapter": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjelper til med flyttingen",
+          "scores": {
+            "ryggsekk": 2,
+            "kompass": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir lei meg en stund",
+          "scores": {
+            "nakkepute": 2,
+            "sovepose": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger å besøke dem",
+          "scores": {
+            "billett": 1,
+            "kart": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan pakker du sekken til en dagstur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Etter en fast liste",
+          "scores": {
+            "koffert": 2,
+            "kompass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det jeg finner i siste liten",
+          "scores": {
+            "billett": 1,
+            "adapter": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med masse mat",
+          "scores": {
+            "ryggsekk": 2,
+            "sovepose": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Så lett som mulig",
+          "scores": {
+            "kart": 2,
+            "solkrem": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med alt man kan trenge",
+          "scores": {
+            "koffert": 1,
+            "pass": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ber noen andre bære",
+          "scores": {
+            "nakkepute": 2,
+            "solkrem": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du helst på en lang togtur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser ut av vinduet",
+          "scores": {
+            "kart": 2,
+            "kompass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover",
+          "scores": {
+            "nakkepute": 2,
+            "sovepose": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser i kafévogna",
+          "scores": {
+            "solkrem": 2,
+            "billett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jobber eller leser",
+          "scores": {
+            "pass": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prater med folk",
+          "scores": {
+            "adapter": 2,
+            "billett": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hører på musikk",
+          "scores": {
+            "ryggsekk": 2,
+            "nakkepute": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har mistet veien i en fremmed by. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør noen om hjelp",
+          "scores": {
+            "adapter": 1,
+            "pass": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner fram kartet",
+          "scores": {
+            "kart": 1,
+            "kompass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går litt rundt og utforsker",
+          "scores": {
+            "billett": 1,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar en taxi",
+          "scores": {
+            "koffert": 2,
+            "nakkepute": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter meg på en kafé og tenker",
+          "scores": {
+            "sovepose": 2,
+            "solkrem": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Følger magefølelsen",
+          "scores": {
+            "kompass": 2,
+            "billett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva slags mat vil du helst prøve på ferie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gatemat",
+          "scores": {
+            "billett": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den lokale nasjonalretten",
+          "scores": {
+            "kart": 2,
+            "pass": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fersk fisk og sjømat",
+          "scores": {
+            "kompass": 2,
+            "solkrem": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe jeg aldri har hørt om",
+          "scores": {
+            "adapter": 1,
+            "billett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det jeg kjenner igjen hjemmefra",
+          "scores": {
+            "sovepose": 2,
+            "koffert": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Is hver dag",
+          "scores": {
+            "solkrem": 2,
+            "nakkepute": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det første du gjør når du kommer inn på et hotellrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper i senga",
+          "scores": {
+            "nakkepute": 2,
+            "sovepose": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker utsikten",
+          "scores": {
+            "kart": 1,
+            "kompass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pakker ut alt",
+          "scores": {
+            "koffert": 2,
+            "pass": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leter etter bassenget",
+          "scores": {
+            "solkrem": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går ut og utforsker",
+          "scores": {
+            "billett": 2,
+            "adapter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lader telefonen",
+          "scores": {
+            "adapter": 2,
+            "koffert": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "koffert",
+      "name": "Koffert",
+      "shareName": "en koffert",
+      "emoji": null,
+      "description": "Du er forberedt, ordentlig og har plass til alt. Du ruller trygt dit du skal.",
+      "funFact": "Kofferter med hjul ble patentert i 1970.",
+      "image": "images/2027-01-16/koffert.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forberedt",
+          "text": "Alt er pakket."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Trofast",
+          "text": "Med på alle turer."
+        },
+        {
+          "title": "Rommelig",
+          "text": "Plass til mye."
+        }
+      ]
+    },
+    {
+      "id": "ryggsekk",
+      "name": "Ryggsekk",
+      "shareName": "en ryggsekk",
+      "emoji": null,
+      "description": "Du er aktiv, praktisk og alltid klar for neste eventyr. Du bærer det som trengs.",
+      "funFact": "Mange ryggsekker måles i liter, og en dagstursekk er ofte på 20 til 30 liter.",
+      "image": "images/2027-01-16/ryggsekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Aktiv",
+          "text": "Klar for tur."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Har det som trengs."
+        },
+        {
+          "title": "Fri",
+          "text": "Hendene ledige."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler mye."
+        }
+      ]
+    },
+    {
+      "id": "pass",
+      "name": "Pass",
+      "shareName": "et pass",
+      "emoji": null,
+      "description": "Du er viktig, pålitelig og åpner dører for andre. Uten deg blir det ingen tur.",
+      "funFact": "Det norske passet har bilder av norsk natur som bare synes i UV-lys.",
+      "image": "images/2027-01-16/pass.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Viktig",
+          "text": "Åpner dører."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid gyldig."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Har orden på papirene."
+        },
+        {
+          "title": "Verdensvant",
+          "text": "Har sett mye."
+        }
+      ]
+    },
+    {
+      "id": "nakkepute",
+      "name": "Nakkepute",
+      "shareName": "en nakkepute",
+      "emoji": null,
+      "description": "Du er omsorgsfull, myk og sørger for at andre får hvile. Du gjør lange reiser bedre.",
+      "funFact": "En nakkepute hjelper hodet med å ikke falle til siden når man sover sittende.",
+      "image": "images/2027-01-16/nakkepute.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Gir hvile."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Elsker en lur."
+        },
+        {
+          "title": "Støttende",
+          "text": "Holder andre oppe."
+        }
+      ]
+    },
+    {
+      "id": "kart",
+      "name": "Kart",
+      "shareName": "et kart",
+      "emoji": null,
+      "description": "Du er oversiktlig, klok og hjelper andre å finne fram. Du ser det store bildet.",
+      "funFact": "Det eldste kjente verdenskartet er en babylonsk leirtavle som er rundt 2500 år gammel.",
+      "image": "images/2027-01-16/kart.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oversikt",
+          "text": "Ser helheten."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet veien."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Viser vei."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Får med alt."
+        }
+      ]
+    },
+    {
+      "id": "kompass",
+      "name": "Kompass",
+      "shareName": "et kompass",
+      "emoji": null,
+      "description": "Du er stødig, ærlig og vet alltid hva som er riktig retning. Folk stoler på deg.",
+      "funFact": "Kompassnåla peker mot nord fordi den påvirkes av jordas magnetfelt.",
+      "image": "images/2027-01-16/kompass.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Peker riktig vei."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Alltid sann."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Svikter aldri."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen panikk."
+        }
+      ]
+    },
+    {
+      "id": "sovepose",
+      "name": "Sovepose",
+      "shareName": "en sovepose",
+      "emoji": null,
+      "description": "Du er varm, koselig og trygg. Du gjør selv de kaldeste nettene gode.",
+      "funFact": "Soveposer har en temperaturgrense som forteller hvor kaldt det kan være.",
+      "image": "images/2027-01-16/sovepose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Koselig",
+          "text": "Som en klem."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler kulda."
+        },
+        {
+          "title": "Rolig",
+          "text": "God søvn."
+        }
+      ]
+    },
+    {
+      "id": "solkrem",
+      "name": "Solkrem",
+      "shareName": "en solkrem",
+      "emoji": null,
+      "description": "Du er beskyttende, positiv og tenker på andre. Du passer på at ingen blir brent.",
+      "funFact": "Solkrem trengs også på fjellet om vinteren, fordi snøen reflekterer sollyset.",
+      "image": "images/2027-01-16/solkrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Positiv",
+          "text": "Solskinn i sinnet."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker fremover."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker sol."
+        }
+      ]
+    },
+    {
+      "id": "adapter",
+      "name": "Reiseadapter",
+      "shareName": "en reiseadapter",
+      "emoji": null,
+      "description": "Du er fleksibel og passer inn overalt. Du får ting til å fungere uansett hvor du er.",
+      "funFact": "Det finnes over ti ulike typer stikkontakter i verden.",
+      "image": "images/2027-01-16/adapter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Smart",
+          "text": "Løser problemer."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Internasjonal",
+          "text": "Verdensvant."
+        }
+      ]
+    },
+    {
+      "id": "billett",
+      "name": "Billett",
+      "shareName": "en billett",
+      "emoji": null,
+      "description": "Du er spent, eventyrlysten og alltid på vei et sted. Du er starten på noe nytt.",
+      "funFact": "Den transsibirske jernbanen fra Moskva til Vladivostok er over 9000 kilometer lang.",
+      "image": "images/2027-01-16/billett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Klar for avreise."
+        },
+        {
+          "title": "Spent",
+          "text": "Gleder seg."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hopper på."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se mer."
+        }
+      ]
+    }
+  ]
+}

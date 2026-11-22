@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-02",
+  "date": "2027-01-02",
+  "title": "Hvilket istidsdyr er du i dag?",
+  "intro": "For lenge siden var store deler av verden dekket av is, og det levde mange store og spesielle dyr. Er du en lodden mammut, en sterk sabeltanntiger eller et kjempedovendyr? Svar på sju spørsmål og finn ut hvilket istidsdyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan liker du popcorn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med salt",
+          "scores": {
+            "mammut": 2,
+            "steppebison": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Søte, med sukker",
+          "scores": {
+            "dovendyr": 2,
+            "hulebjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med karamell",
+          "scores": {
+            "kjempehjort": 2,
+            "huleloeve": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med smør, og mye av det",
+          "scores": {
+            "sabeltann": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hjemmelagde i kjelen",
+          "scores": {
+            "kjempebever": 2,
+            "glyptodon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker ikke popcorn",
+          "scores": {
+            "glyptodon": 2,
+            "neshorn": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen tuller litt med deg. Hvordan tar du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tuller tilbake",
+          "scores": {
+            "sabeltann": 2,
+            "huleloeve": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler med",
+          "scores": {
+            "dovendyr": 2,
+            "steppebison": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir litt fornærmet først",
+          "scores": {
+            "neshorn": 1,
+            "kjempehjort": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Later som ingenting",
+          "scores": {
+            "glyptodon": 2,
+            "hulebjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "mammut": 1,
+            "dovendyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer med en smart kommentar",
+          "scores": {
+            "kjempebever": 2,
+            "sabeltann": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva har du på nattbordet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En bok",
+          "scores": {
+            "mammut": 2,
+            "glyptodon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et glass vann",
+          "scores": {
+            "steppebison": 2,
+            "kjempebever": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Telefonen",
+          "scores": {
+            "kjempehjort": 2,
+            "sabeltann": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En liten lampe",
+          "scores": {
+            "hulebjorn": 2,
+            "dovendyr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En plante",
+          "scores": {
+            "dovendyr": 1,
+            "mammut": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mye rart",
+          "scores": {
+            "huleloeve": 2,
+            "neshorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken husoppgave gjør du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Støvsuger",
+          "scores": {
+            "neshorn": 2,
+            "sabeltann": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vasker opp",
+          "scores": {
+            "kjempebever": 2,
+            "mammut": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager middag",
+          "scores": {
+            "huleloeve": 2,
+            "steppebison": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vanner planter",
+          "scores": {
+            "dovendyr": 2,
+            "glyptodon": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bretter klær",
+          "scores": {
+            "kjempehjort": 2,
+            "hulebjorn": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bærer ut søppelet",
+          "scores": {
+            "steppebison": 2,
+            "neshorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du på en lang flytur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover nesten hele veien",
+          "scores": {
+            "dovendyr": 1,
+            "hulebjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser film etter film",
+          "scores": {
+            "kjempehjort": 2,
+            "huleloeve": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser",
+          "scores": {
+            "mammut": 1,
+            "glyptodon": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prater med den ved siden av meg",
+          "scores": {
+            "steppebison": 2,
+            "huleloeve": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går og strekker på beina",
+          "scores": {
+            "sabeltann": 1,
+            "kjempebever": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser ut av vinduet",
+          "scores": {
+            "neshorn": 1,
+            "mammut": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn forteller en spennende nyhet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyler av glede",
+          "scores": {
+            "huleloeve": 2,
+            "kjempehjort": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klemmer dem",
+          "scores": {
+            "mammut": 2,
+            "hulebjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om alle detaljene",
+          "scores": {
+            "kjempebever": 2,
+            "sabeltann": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Smiler og sier at jeg er glad på deres vegne",
+          "scores": {
+            "dovendyr": 1,
+            "glyptodon": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår at vi feirer",
+          "scores": {
+            "steppebison": 2,
+            "huleloeve": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller at jeg allerede ante det",
+          "scores": {
+            "neshorn": 2,
+            "sabeltann": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket sted på skolen eller jobben liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kantina",
+          "scores": {
+            "steppebison": 2,
+            "mammut": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Biblioteket",
+          "scores": {
+            "glyptodon": 2,
+            "dovendyr": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Uteområdet",
+          "scores": {
+            "kjempehjort": 2,
+            "sabeltann": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pauserommet",
+          "scores": {
+            "hulebjorn": 2,
+            "dovendyr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gymsalen",
+          "scores": {
+            "huleloeve": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Verkstedet",
+          "scores": {
+            "kjempebever": 2,
+            "neshorn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "mammut",
+      "name": "Mammut",
+      "shareName": "en mammut",
+      "emoji": null,
+      "description": "Du er stor, varm og passer godt på flokken din. Folk føler seg trygge når du er i nærheten.",
+      "funFact": "Noen ullhårede mammuter levde på en øy i Nordishavet til for rundt 4000 år siden.",
+      "image": "images/2027-01-02/mammut.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Passer på flokken."
+        },
+        {
+          "title": "Varm",
+          "text": "Tykk og lodden pels."
+        },
+        {
+          "title": "Klok",
+          "text": "Husker alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar tingene med ro."
+        }
+      ]
+    },
+    {
+      "id": "sabeltann",
+      "name": "Sabeltanntiger",
+      "shareName": "en sabeltanntiger",
+      "emoji": null,
+      "description": "Du er modig, sterk og lett å legge merke til. Du går rett på målet.",
+      "funFact": "Sabeltanntigeren hadde hjørnetenner som kunne bli over 20 centimeter lange.",
+      "image": "images/2027-01-02/sabeltann.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Sterk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Går rett på sak."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Viser tennene."
+        }
+      ]
+    },
+    {
+      "id": "neshorn",
+      "name": "Ullhåret neshorn",
+      "shareName": "et ullhåret neshorn",
+      "emoji": null,
+      "description": "Du er sta, tøff og står støtt i all slags vær. Når du har bestemt deg, er det ingen vei tilbake.",
+      "funFact": "Det ullhårede neshornet hadde et horn som kunne bli omtrent en meter langt.",
+      "image": "images/2027-01-02/neshorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler alt vær."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        }
+      ]
+    },
+    {
+      "id": "dovendyr",
+      "name": "Kjempedovendyr",
+      "shareName": "et kjempedovendyr",
+      "emoji": null,
+      "description": "Du er rolig, avslappet og stor i hjertet. Du lar deg aldri stresse.",
+      "funFact": "Kjempedovendyret kunne bli omtrent like stort som en elefant.",
+      "image": "images/2027-01-02/dovendyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Stor",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Glad for lite."
+        }
+      ]
+    },
+    {
+      "id": "kjempehjort",
+      "name": "Kjempehjort",
+      "shareName": "en kjempehjort",
+      "emoji": null,
+      "description": "Du er stolt, elegant og vil gjerne vise deg fram. Du har stil og ser alltid bra ut.",
+      "funFact": "Kjempehjorten hadde gevir som kunne bli over tre meter bredt.",
+      "image": "images/2027-01-02/kjempehjort.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Høyt hevet hode."
+        },
+        {
+          "title": "Elegant",
+          "text": "Stilfull."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å legge merke til."
+        },
+        {
+          "title": "Rask",
+          "text": "Løper fort."
+        }
+      ]
+    },
+    {
+      "id": "huleloeve",
+      "name": "Huleløve",
+      "shareName": "en huleløve",
+      "emoji": null,
+      "description": "Du er en naturlig leder med stort mot. Du samler folk rundt deg.",
+      "funFact": "Huleløven er avbildet på hulemalerier som er over 30 000 år gamle.",
+      "image": "images/2027-01-02/huleloeve.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leder",
+          "text": "Tar ansvar."
+        },
+        {
+          "title": "Modig",
+          "text": "Stort mot."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler flokken."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for deg selv."
+        }
+      ]
+    },
+    {
+      "id": "hulebjorn",
+      "name": "Hulebjørn",
+      "shareName": "en hulebjørn",
+      "emoji": null,
+      "description": "Du er stor, snill og glad i å kose deg. Du liker hulen din og en god lang søvn.",
+      "funFact": "Hulebjørnen var svært stor, men spiste for det meste planter.",
+      "image": "images/2027-01-02/hulebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Mykere enn du ser ut."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker hulen sin."
+        },
+        {
+          "title": "Søvnig",
+          "text": "Lange vinternetter."
+        },
+        {
+          "title": "Sterk",
+          "text": "Stor og tøff."
+        }
+      ]
+    },
+    {
+      "id": "glyptodon",
+      "name": "Glyptodont",
+      "shareName": "en glyptodont",
+      "emoji": null,
+      "description": "Du er solid, forsiktig og har et sterkt skall utenpå. Inni er du rolig og varm.",
+      "funFact": "Glyptodonten var et kjempebeltedyr med et skall omtrent like stort som en liten bil.",
+      "image": "images/2027-01-02/glyptodon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står imot alt."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Beskyttet",
+          "text": "Hardt skall."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "kjempebever",
+      "name": "Kjempebever",
+      "shareName": "en kjempebever",
+      "emoji": null,
+      "description": "Du er flittig, praktisk og glad i å bygge. Du får store ting til å skje.",
+      "funFact": "Kjempebeveren i Nord-Amerika kunne bli over to meter lang.",
+      "image": "images/2027-01-02/kjempebever.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Alltid i arbeid."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Bygger det som trengs."
+        },
+        {
+          "title": "Smart",
+          "text": "Lure løsninger."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker sitt eget."
+        }
+      ]
+    },
+    {
+      "id": "steppebison",
+      "name": "Steppebison",
+      "shareName": "en steppebison",
+      "emoji": null,
+      "description": "Du er utholdende, sosial og trives i stor flokk. Du kommer deg gjennom alt sammen med andre.",
+      "funFact": "Steppebisonen er avbildet i mange hulemalerier i Europa.",
+      "image": "images/2027-01-02/steppebison.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Går langt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i flokk."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler kulda."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sammen."
+        }
+      ]
+    }
+  ]
+}

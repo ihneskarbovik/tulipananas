@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-18",
+  "date": "2027-01-18",
+  "title": "Hvilken hverdagsglede er du i dag?",
+  "intro": "Tredje mandag i januar kalles noen ganger «Blue Monday», årets tyngste dag. Derfor handler dagens quiz om de små tingene som gjør dagen bedre. Er du en god klem, sol i ansiktet eller favorittsangen på radioen?",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å ha i kakaoen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Krem",
+          "scores": {
+            "klem": 2,
+            "nybakt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Marshmallows",
+          "scores": {
+            "solepytt": 2,
+            "sang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kanel",
+          "scores": {
+            "sengetoy": 1,
+            "dusj": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, bare kakao",
+          "scores": {
+            "grontlys": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjokoladebiter",
+          "scores": {
+            "penger": 2,
+            "solepytt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt chili",
+          "scores": {
+            "melding": 2,
+            "sang": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du kommer hjem, og noen har laget middag til deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir kokken en stor klem",
+          "scores": {
+            "klem": 2,
+            "nybakt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir så glad at jeg nesten gråter",
+          "scores": {
+            "melding": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser med god appetitt",
+          "scores": {
+            "grontlys": 2,
+            "penger": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lover å lage middag neste gang",
+          "scores": {
+            "sengetoy": 2,
+            "dusj": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter på musikk og tenner lys",
+          "scores": {
+            "sang": 2,
+            "sengetoy": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør hva som er anledningen",
+          "scores": {
+            "penger": 2,
+            "solepytt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst i et badeland?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar den største vannsklia",
+          "scores": {
+            "solepytt": 2,
+            "grontlys": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ligger i boblebadet",
+          "scores": {
+            "dusj": 2,
+            "sengetoy": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Svømmer i bølgebassenget",
+          "scores": {
+            "sang": 2,
+            "sol": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Er i badstua",
+          "scores": {
+            "nybakt": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leker med de minste",
+          "scores": {
+            "klem": 1,
+            "melding": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser is i kafeen",
+          "scores": {
+            "penger": 1,
+            "nybakt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan gir du andre komplimenter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier det rett ut",
+          "scores": {
+            "sol": 2,
+            "grontlys": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver det i en melding",
+          "scores": {
+            "melding": 2,
+            "penger": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en klem",
+          "scores": {
+            "klem": 1,
+            "sengetoy": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt forsiktig, jeg blir sjenert",
+          "scores": {
+            "dusj": 2,
+            "nybakt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en morsom vri",
+          "scores": {
+            "solepytt": 2,
+            "sang": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg viser det heller enn å si det",
+          "scores": {
+            "nybakt": 2,
+            "klem": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du helst etter skole eller jobb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Slapper av i sofaen",
+          "scores": {
+            "sengetoy": 2,
+            "dusj": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trener",
+          "scores": {
+            "grontlys": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Treffer venner",
+          "scores": {
+            "sang": 2,
+            "melding": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager noe godt",
+          "scores": {
+            "nybakt": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en tur ute",
+          "scores": {
+            "solepytt": 2,
+            "sol": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør noe jeg liker, som en hobby",
+          "scores": {
+            "penger": 2,
+            "dusj": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du når det er tordenvær?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser på lynene fra vinduet",
+          "scores": {
+            "sol": 2,
+            "solepytt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gjemmer meg under dyna",
+          "scores": {
+            "sengetoy": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Teller sekunder mellom lyn og torden",
+          "scores": {
+            "grontlys": 2,
+            "penger": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Synes det er koselig",
+          "scores": {
+            "nybakt": 2,
+            "dusj": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir litt redd",
+          "scores": {
+            "melding": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går ut og kjenner på regnet",
+          "scores": {
+            "solepytt": 2,
+            "sang": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du for å muntre deg selv opp på en grå mandag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringer en venn",
+          "scores": {
+            "melding": 1,
+            "klem": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Setter på god musikk",
+          "scores": {
+            "sang": 2,
+            "solepytt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går ut i dagslyset",
+          "scores": {
+            "sol": 2,
+            "grontlys": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøper noe godt til meg selv",
+          "scores": {
+            "penger": 2,
+            "nybakt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar et langt, varmt bad",
+          "scores": {
+            "dusj": 2,
+            "sengetoy": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger noe å glede meg til",
+          "scores": {
+            "grontlys": 2,
+            "penger": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sengetoy",
+      "name": "Nyvasket sengetøy",
+      "shareName": "nyvasket sengetøy",
+      "emoji": null,
+      "description": "Du er trygg, frisk og gir folk en god start og en god slutt på dagen. Hos deg kan man slappe av helt.",
+      "funFact": "Mange sover best i et litt kjølig soverom, rundt 16 til 18 grader.",
+      "image": "images/2027-01-18/sengetoy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Som å komme hjem."
+        },
+        {
+          "title": "Frisk",
+          "text": "Ren og god."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gir hvile."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        }
+      ]
+    },
+    {
+      "id": "klem",
+      "name": "En god klem",
+      "shareName": "en god klem",
+      "emoji": null,
+      "description": "Du er varm, omsorgsfull og vet hvordan du får andre til å føle seg sett. Du gjør alt litt bedre.",
+      "funFact": "En god klem kan få kroppen til å skille ut oksytocin, som gir en følelse av trygghet.",
+      "image": "images/2027-01-18/klem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Ser andre."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være nær."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "sol",
+      "name": "Sol i ansiktet",
+      "shareName": "sol i ansiktet",
+      "emoji": null,
+      "description": "Du er lys, positiv og gir folk energi. Du kommer som en befrielse etter mørke dager.",
+      "funFact": "Sollys hjelper kroppen med å lage D-vitamin.",
+      "image": "images/2027-01-18/sol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Positiv",
+          "text": "Ser lyset."
+        },
+        {
+          "title": "Energisk",
+          "text": "Gir krefter."
+        },
+        {
+          "title": "Varm",
+          "text": "Sprer varme."
+        },
+        {
+          "title": "Etterlengtet",
+          "text": "Alle venter på deg."
+        }
+      ]
+    },
+    {
+      "id": "melding",
+      "name": "En uventet melding",
+      "shareName": "en uventet melding",
+      "emoji": null,
+      "description": "Du er omtenksom og husker på folk når de minst venter det. Du får andre til å smile.",
+      "funFact": "Den første SMS-en ble sendt i 1992, og det sto «Merry Christmas».",
+      "image": "images/2027-01-18/melding.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Husker alle."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp plutselig."
+        },
+        {
+          "title": "Sosial",
+          "text": "Holder kontakten."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "dusj",
+      "name": "En varm dusj",
+      "shareName": "en varm dusj",
+      "emoji": null,
+      "description": "Du er avslappet, effektiv og hjelper andre med å komme i gang igjen. Du gir ny energi.",
+      "funFact": "Varmt vann kan få musklene til å slappe av.",
+      "image": "images/2027-01-18/dusj.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Oppkvikkende",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Varm",
+          "text": "Behagelig å være med."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Rask og god."
+        }
+      ]
+    },
+    {
+      "id": "nybakt",
+      "name": "Lukten av nybakt brød",
+      "shareName": "lukten av nybakt brød",
+      "emoji": null,
+      "description": "Du er hjemmekoselig, varm og får alle til å føle seg velkomne. Du minner folk om det gode.",
+      "funFact": "Lukten av nybakt brød kommer blant annet fra en reaksjon som skjer i skorpen når den blir brun.",
+      "image": "images/2027-01-18/nybakt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekoselig",
+          "text": "Som hos mormor."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trøst."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Det gode tar tid."
+        }
+      ]
+    },
+    {
+      "id": "penger",
+      "name": "Penger i lomma",
+      "shareName": "penger i lomma",
+      "emoji": null,
+      "description": "Du er heldig, overraskende og full av små gleder. Du gjør vanlige dager litt spennende.",
+      "funFact": "Den norske enkronen og femkronen har hull i midten.",
+      "image": "images/2027-01-18/penger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Heldig",
+          "text": "Små overraskelser."
+        },
+        {
+          "title": "Spennende",
+          "text": "Uventet glede."
+        },
+        {
+          "title": "Sparsom",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler lett."
+        }
+      ]
+    },
+    {
+      "id": "sang",
+      "name": "Favorittsangen på radioen",
+      "shareName": "favorittsangen på radioen",
+      "emoji": null,
+      "description": "Du er livlig, glad og får folk til å synge med. Du snur dårlig humør på et øyeblikk.",
+      "funFact": "Musikk vi liker, kan få hjernen til å skille ut stoffet dopamin, som gir en god følelse.",
+      "image": "images/2027-01-18/sang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Får folk til å synge."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer humør."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av rytme."
+        },
+        {
+          "title": "Smittende",
+          "text": "Alle blir med."
+        }
+      ]
+    },
+    {
+      "id": "solepytt",
+      "name": "Å hoppe i en sølepytt",
+      "shareName": "å hoppe i en sølepytt",
+      "emoji": null,
+      "description": "Du er leken, spontan og har et barn inni deg. Du gjør det kjedelige morsomt.",
+      "funFact": "Sølepytter forsvinner raskere når det blåser, fordi vinden får vannet til å fordampe.",
+      "image": "images/2027-01-18/solepytt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rett i."
+        },
+        {
+          "title": "Spontan",
+          "text": "Tenker ikke to ganger."
+        },
+        {
+          "title": "Barnslig",
+          "text": "Ung til sinns."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å bli våt."
+        }
+      ]
+    },
+    {
+      "id": "grontlys",
+      "name": "Grønt lys hele veien",
+      "shareName": "grønt lys hele veien",
+      "emoji": null,
+      "description": "Du er effektiv, positiv og får ting til å flyte. Med deg går alt litt lettere.",
+      "funFact": "Verdens første elektriske trafikklys ble satt opp i Cleveland i USA i 1914.",
+      "image": "images/2027-01-18/grontlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Kommer fram."
+        },
+        {
+          "title": "Positiv",
+          "text": "Alt går din vei."
+        },
+        {
+          "title": "Rolig",
+          "text": "Flyter lett."
+        },
+        {
+          "title": "Heldig",
+          "text": "Alt klaffer."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-17",
+  "date": "2027-01-17",
+  "title": "Hvilket vinterfenomen er du i dag?",
+  "intro": "Midt i januar er vinteren på sitt kaldeste. Er du glitrende rimfrost, en lang istapp eller lett puddersnø? Svar på sju spørsmål og finn ut hvilket vinterfenomen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken te liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Svart te med melk",
+          "scores": {
+            "snofonn": 2,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grønn te",
+          "scores": {
+            "rimfrost": 2,
+            "isroser": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fruktte",
+          "scores": {
+            "pudder": 1,
+            "hagl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Urtete",
+          "scores": {
+            "morketid": 2,
+            "frostroyk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Te med honning og sitron",
+          "scores": {
+            "snofnugg": 2,
+            "sludd": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg drikker ikke te",
+          "scores": {
+            "hagl": 2,
+            "sludd": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du skal sove borte hos noen for første gang. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gleder meg og pakker masse",
+          "scores": {
+            "pudder": 2,
+            "snofnugg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Litt nervøs, men det går fint",
+          "scores": {
+            "isroser": 2,
+            "rimfrost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar med min egen pute",
+          "scores": {
+            "morketid": 2,
+            "snofonn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sovner med en gang",
+          "scores": {
+            "istapp": 2,
+            "frostroyk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Er våken og prater lenge",
+          "scores": {
+            "hagl": 1,
+            "pudder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tilpasser meg det de gjør",
+          "scores": {
+            "sludd": 2,
+            "snofnugg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst på en lørdagsformiddag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover lenge",
+          "scores": {
+            "morketid": 2,
+            "frostroyk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går på ski",
+          "scores": {
+            "pudder": 1,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en stor frokost",
+          "scores": {
+            "snofonn": 2,
+            "sludd": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rydder og ordner",
+          "scores": {
+            "istapp": 1,
+            "rimfrost": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tegner, maler eller lager noe",
+          "scores": {
+            "isroser": 2,
+            "snofnugg": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner på noe med venner",
+          "scores": {
+            "hagl": 1,
+            "pudder": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du hører favorittsangen din på butikken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger med",
+          "scores": {
+            "hagl": 2,
+            "pudder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Danser litt mellom hyllene",
+          "scores": {
+            "snofnugg": 2,
+            "sludd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Smiler for meg selv",
+          "scores": {
+            "rimfrost": 1,
+            "morketid": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nynner stille",
+          "scores": {
+            "isroser": 2,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir stående til den er ferdig",
+          "scores": {
+            "frostroyk": 2,
+            "snofonn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter den på når jeg kommer hjem",
+          "scores": {
+            "istapp": 1,
+            "morketid": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du helst på biblioteket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Låner en stabel bøker",
+          "scores": {
+            "istapp": 1,
+            "morketid": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser tegneserier",
+          "scores": {
+            "pudder": 1,
+            "hagl": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør lekser eller jobber i ro",
+          "scores": {
+            "rimfrost": 2,
+            "snofonn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leter etter noe helt nytt",
+          "scores": {
+            "isroser": 1,
+            "snofnugg": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går på et arrangement",
+          "scores": {
+            "sludd": 1,
+            "hagl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sitter og drømmer meg bort",
+          "scores": {
+            "frostroyk": 2,
+            "snofnugg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan reagerer du når du blir skremt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper høyt og hyler",
+          "scores": {
+            "hagl": 2,
+            "pudder": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler etterpå",
+          "scores": {
+            "sludd": 2,
+            "snofnugg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir helt stille",
+          "scores": {
+            "frostroyk": 2,
+            "rimfrost": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt sint",
+          "scores": {
+            "istapp": 2,
+            "hagl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Later som ingenting",
+          "scores": {
+            "morketid": 2,
+            "snofonn": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skremmer tilbake",
+          "scores": {
+            "pudder": 2,
+            "isroser": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det beste med en kald og klar januardag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gnistrende snø i sola",
+          "scores": {
+            "rimfrost": 2,
+            "snofnugg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Perfekte skiforhold",
+          "scores": {
+            "pudder": 1,
+            "istapp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Varm kakao etterpå",
+          "scores": {
+            "morketid": 2,
+            "snofonn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den friske lufta",
+          "scores": {
+            "frostroyk": 2,
+            "hagl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fine mønstre på vinduet",
+          "scores": {
+            "isroser": 2,
+            "rimfrost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, jeg liker milde dager",
+          "scores": {
+            "sludd": 2,
+            "snofonn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "rimfrost",
+      "name": "Rimfrost",
+      "shareName": "rimfrost",
+      "emoji": null,
+      "description": "Du er stille, vakker og legger merke til detaljer. Du får hverdagen til å glitre.",
+      "funFact": "Rimfrost dannes når vanndamp fryser direkte til is på kalde gjenstander.",
+      "image": "images/2027-01-17/rimfrost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vakker",
+          "text": "Glitrer i sola."
+        },
+        {
+          "title": "Stille",
+          "text": "Kommer om natta."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Fine mønstre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        }
+      ]
+    },
+    {
+      "id": "istapp",
+      "name": "Istapp",
+      "shareName": "en istapp",
+      "emoji": null,
+      "description": "Du er tålmodig, utholdende og vokser litt hver dag. Du blir stor av små steg.",
+      "funFact": "Istapper vokser når snø smelter i sola og vannet fryser igjen når det drypper ned.",
+      "image": "images/2027-01-17/istapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Vokser sakte."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Dag etter dag."
+        },
+        {
+          "title": "Skarp",
+          "text": "Klar i tanken."
+        },
+        {
+          "title": "Skinnende",
+          "text": "Lyser i sola."
+        }
+      ]
+    },
+    {
+      "id": "snofnugg",
+      "name": "Snøfnugg",
+      "shareName": "et snøfnugg",
+      "emoji": null,
+      "description": "Du er unik, lett og helt ulik alle andre. Du daler gjennom livet med eleganse.",
+      "funFact": "Snøkrystaller har nesten alltid seks armer.",
+      "image": "images/2027-01-17/snofnugg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Ingen er lik deg."
+        },
+        {
+          "title": "Lett",
+          "text": "Daler rolig."
+        },
+        {
+          "title": "Elegant",
+          "text": "Fine former."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Svever av gårde."
+        }
+      ]
+    },
+    {
+      "id": "pudder",
+      "name": "Puddersnø",
+      "shareName": "puddersnø",
+      "emoji": null,
+      "description": "Du er leken, lett og elsker frihet. Du gjør hver tur til en fest.",
+      "funFact": "Puddersnø er lett og tørr fordi den faller når det er veldig kaldt.",
+      "image": "images/2027-01-17/pudder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Fri",
+          "text": "Ingen grenser."
+        },
+        {
+          "title": "Lett",
+          "text": "Svever av gårde."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ut i løssnøen."
+        }
+      ]
+    },
+    {
+      "id": "sludd",
+      "name": "Sludd",
+      "shareName": "sludd",
+      "emoji": null,
+      "description": "Du er uforutsigbar, fleksibel og litt av hvert. Du lar deg ikke sette i bås.",
+      "funFact": "Sludd er en blanding av regn og snø.",
+      "image": "images/2027-01-17/sludd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uforutsigbar",
+          "text": "Litt av hvert."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Både og."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser stemningen."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "hagl",
+      "name": "Hagl",
+      "shareName": "hagl",
+      "emoji": null,
+      "description": "Du er energisk, tydelig og får alle til å legge merke til deg. Du kommer med full kraft.",
+      "funFact": "Hagl dannes i store tordenskyer og kan komme selv om sommeren.",
+      "image": "images/2027-01-17/hagl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full kraft."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Høres godt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Kommer plutselig."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye krefter."
+        }
+      ]
+    },
+    {
+      "id": "isroser",
+      "name": "Isroser",
+      "shareName": "isroser",
+      "emoji": null,
+      "description": "Du er kreativ, kunstnerisk og lager vakre ting ut av ingenting. Du ser mønstre overalt.",
+      "funFact": "Isroser er frostmønstre som dannes på kalde vindusruter.",
+      "image": "images/2027-01-17/isroser.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager kunst."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser mønstre."
+        },
+        {
+          "title": "Stille",
+          "text": "Jobber om natta."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Nytt hver morgen."
+        }
+      ]
+    },
+    {
+      "id": "frostroyk",
+      "name": "Frostrøyk",
+      "shareName": "frostrøyk",
+      "emoji": null,
+      "description": "Du er mystisk, stemningsfull og litt sjelden. Folk stopper opp når de ser deg.",
+      "funFact": "Frostrøyk dannes når svært kald luft blåser over vann som er varmere.",
+      "image": "images/2027-01-17/frostroyk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mystisk",
+          "text": "Litt gåtefull."
+        },
+        {
+          "title": "Stemningsfull",
+          "text": "Skaper stemning."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag."
+        },
+        {
+          "title": "Rolig",
+          "text": "Driver stille."
+        }
+      ]
+    },
+    {
+      "id": "snofonn",
+      "name": "Snøfonn",
+      "shareName": "en snøfonn",
+      "emoji": null,
+      "description": "Du er solid, sterk og samler opp alt rundt deg. Du blir større jo mer det skjer.",
+      "funFact": "Vinden kan blåse snø sammen til fonner som er flere meter høye.",
+      "image": "images/2027-01-17/snofonn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Samlende",
+          "text": "Samler alt."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Stor",
+          "text": "Tar plass."
+        }
+      ]
+    },
+    {
+      "id": "morketid",
+      "name": "Mørketid",
+      "shareName": "mørketid",
+      "emoji": null,
+      "description": "Du er rolig, ettertenksom og trives med levende lys. Du vet at lyset alltid kommer tilbake.",
+      "funFact": "Mørketiden er perioden i Nord-Norge da sola ikke kommer over horisonten.",
+      "image": "images/2027-01-17/morketid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Koselig",
+          "text": "Levende lys."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Lyset kommer tilbake."
+        }
+      ]
+    }
+  ]
+}

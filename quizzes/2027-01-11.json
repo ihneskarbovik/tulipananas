@@ -1,0 +1,668 @@
+{
+  "id": "2027-01-11",
+  "date": "2027-01-11",
+  "title": "Hvilken robot er du i dag?",
+  "intro": "Roboter kan støvsuge, klippe plenen og kjøre rundt på Mars. Er du en flittig støvsugerrobot, en modig marsbil eller en leken robothund? Svar på sju spørsmål og finn ut hvilken robot du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken app bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meldinger",
+          "scores": {
+            "menneskerobot": 2,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kart",
+          "scores": {
+            "marsbil": 2,
+            "drone": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Musikk",
+          "scores": {
+            "lekerobot": 1,
+            "undervann": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kalender",
+          "scores": {
+            "industri": 2,
+            "stovsuger": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kamera",
+          "scores": {
+            "drone": 2,
+            "lekerobot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Oppskrifter",
+          "scores": {
+            "kjokkenrobot": 1,
+            "gressklipper": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har fått en ny telefon. Hva gjør du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter alt opp perfekt",
+          "scores": {
+            "industri": 2,
+            "stovsuger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar masse bilder",
+          "scores": {
+            "drone": 2,
+            "lekerobot": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender melding til alle",
+          "scores": {
+            "menneskerobot": 2,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Laster ned favorittappene",
+          "scores": {
+            "kjokkenrobot": 2,
+            "gressklipper": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Utforsker alle funksjonene",
+          "scores": {
+            "marsbil": 2,
+            "undervann": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøper et fint deksel",
+          "scores": {
+            "lekerobot": 2,
+            "robothund": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor ville du helst hatt en sommerjobb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en kafé",
+          "scores": {
+            "kjokkenrobot": 2,
+            "menneskerobot": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en gård",
+          "scores": {
+            "gressklipper": 2,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en badeplass",
+          "scores": {
+            "undervann": 2,
+            "drone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en butikk",
+          "scores": {
+            "stovsuger": 1,
+            "menneskerobot": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en festival",
+          "scores": {
+            "lekerobot": 1,
+            "drone": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "På et verksted",
+          "scores": {
+            "industri": 2,
+            "marsbil": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har gjort noe fint for noen, og de takker deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier at det var ingen sak",
+          "scores": {
+            "stovsuger": 2,
+            "gressklipper": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir veldig glad",
+          "scores": {
+            "robothund": 2,
+            "lekerobot": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om de trenger mer hjelp",
+          "scores": {
+            "kjokkenrobot": 2,
+            "menneskerobot": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt flau",
+          "scores": {
+            "undervann": 2,
+            "marsbil": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir en klem",
+          "scores": {
+            "robothund": 2,
+            "menneskerobot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smiler og går videre",
+          "scores": {
+            "drone": 2,
+            "industri": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du helst på en flyplass mens du venter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser på flyene som letter",
+          "scores": {
+            "drone": 2,
+            "marsbil": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøper noe å spise",
+          "scores": {
+            "kjokkenrobot": 2,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser eller hører på noe",
+          "scores": {
+            "undervann": 2,
+            "gressklipper": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går rundt i butikkene",
+          "scores": {
+            "lekerobot": 2,
+            "menneskerobot": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sitter ved gaten i god tid",
+          "scores": {
+            "industri": 1,
+            "stovsuger": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prater med folk",
+          "scores": {
+            "menneskerobot": 2,
+            "robothund": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du må lære deg noe vanskelig på kort tid. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Øver og øver",
+          "scores": {
+            "industri": 2,
+            "stovsuger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Deler det opp i små biter",
+          "scores": {
+            "gressklipper": 2,
+            "kjokkenrobot": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ber en venn lære meg",
+          "scores": {
+            "menneskerobot": 1,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjør det til en lek",
+          "scores": {
+            "lekerobot": 2,
+            "drone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser alt jeg finner om det",
+          "scores": {
+            "undervann": 2,
+            "marsbil": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kaster meg ut i det",
+          "scores": {
+            "marsbil": 2,
+            "drone": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva hadde du gjort hvis du hadde en robot hjemme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Latt den gjøre husarbeidet",
+          "scores": {
+            "stovsuger": 2,
+            "industri": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lært den å lage mat",
+          "scores": {
+            "kjokkenrobot": 2,
+            "gressklipper": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lekt med den",
+          "scores": {
+            "lekerobot": 2,
+            "robothund": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tatt den med på tur",
+          "scores": {
+            "marsbil": 2,
+            "drone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøvd å bli venn med den",
+          "scores": {
+            "menneskerobot": 2,
+            "robothund": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skrudd den fra hverandre for å se hvordan den virker",
+          "scores": {
+            "undervann": 2,
+            "industri": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stovsuger",
+      "name": "Støvsugerrobot",
+      "shareName": "en støvsugerrobot",
+      "emoji": null,
+      "description": "Du er flittig, ordentlig og gjør jobben uten å klage. Du finner alltid veien rundt hindringer.",
+      "funFact": "Mange støvsugerroboter bruker sensorer for å unngå å kjøre utfor trapper.",
+      "image": "images/2027-01-11/stovsuger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Jobber hver dag."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Holder det rent."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Rundt og rundt."
+        },
+        {
+          "title": "Lur",
+          "text": "Kjører rundt hindringer."
+        }
+      ]
+    },
+    {
+      "id": "gressklipper",
+      "name": "Gressklipperrobot",
+      "shareName": "en gressklipperrobot",
+      "emoji": null,
+      "description": "Du er stødig, rolig og liker faste rutiner. Litt hver dag er din oppskrift.",
+      "funFact": "En gressklipperrobot holder seg innenfor en ledning som er gravd ned rundt plenen.",
+      "image": "images/2027-01-11/gressklipper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Litt hver dag."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives ute."
+        },
+        {
+          "title": "Rutinert",
+          "text": "Faste vaner."
+        }
+      ]
+    },
+    {
+      "id": "industri",
+      "name": "Industrirobot",
+      "shareName": "en industrirobot",
+      "emoji": null,
+      "description": "Du er sterk, presis og får mye gjort. Du gjør ting riktig hver eneste gang.",
+      "funFact": "Den første industriroboten, Unimate, begynte å jobbe på en bilfabrikk i USA i 1961.",
+      "image": "images/2027-01-11/industri.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Riktig hver gang."
+        },
+        {
+          "title": "Sterk",
+          "text": "Løfter tungt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Blir aldri sliten."
+        }
+      ]
+    },
+    {
+      "id": "marsbil",
+      "name": "Marsbil",
+      "shareName": "en marsbil",
+      "emoji": null,
+      "description": "Du er modig, nysgjerrig og elsker å utforske nye steder. Du drar dit ingen har vært før.",
+      "funFact": "Marsbilen Curiosity landet på Mars i 2012 og er omtrent like stor som en liten bil.",
+      "image": "images/2027-01-11/marsbil.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Langt hjemmefra."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker alt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Kjører sakte og sikkert."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg alene."
+        }
+      ]
+    },
+    {
+      "id": "robothund",
+      "name": "Robothund",
+      "shareName": "en robothund",
+      "emoji": null,
+      "description": "Du er leken, lojal og reiser deg alltid opp igjen. Du gjør hverdagen morsommere.",
+      "funFact": "Noen robothunder kan gå i trapper og reise seg igjen hvis de faller.",
+      "image": "images/2027-01-11/robothund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Klar for lek."
+        },
+        {
+          "title": "Lojal",
+          "text": "Følger med deg."
+        },
+        {
+          "title": "Seig",
+          "text": "Reiser seg igjen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        }
+      ]
+    },
+    {
+      "id": "kjokkenrobot",
+      "name": "Kjøkkenrobot",
+      "shareName": "en kjøkkenrobot",
+      "emoji": null,
+      "description": "Du er praktisk, allsidig og gjør hverdagen enklere for alle rundt deg. Du elsker å lage noe godt.",
+      "funFact": "Ordet robot kommer fra et tsjekkisk skuespill fra 1920, og betyr tvangsarbeid.",
+      "image": "images/2027-01-11/kjokkenrobot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Hjelper til."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan mye."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives på kjøkkenet."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Raskt ferdig."
+        }
+      ]
+    },
+    {
+      "id": "lekerobot",
+      "name": "Lekerobot",
+      "shareName": "en lekerobot",
+      "emoji": null,
+      "description": "Du er morsom, lærevillig og nysgjerrig på alt. Du lærer nye triks hele tiden.",
+      "funFact": "Mange lekeroboter kan programmeres av barn ved hjelp av enkle klosser på et nettbrett.",
+      "image": "images/2027-01-11/lekerobot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Gjør lek av alt."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Lærer nye triks."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve alt."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        }
+      ]
+    },
+    {
+      "id": "menneskerobot",
+      "name": "Menneskerobot",
+      "shareName": "en menneskerobot",
+      "emoji": null,
+      "description": "Du er sosial, omtenksom og prøver å forstå andre. Du vil gjerne være en del av gjengen.",
+      "funFact": "En menneskerobot er bygget for å ligne et menneske, med armer, bein og hode.",
+      "image": "images/2027-01-11/menneskerobot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Vil være med."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Prøver å forstå."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Øver hver dag."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        }
+      ]
+    },
+    {
+      "id": "undervann",
+      "name": "Undervannsrobot",
+      "shareName": "en undervannsrobot",
+      "emoji": null,
+      "description": "Du er rolig, dyp og trives der andre ikke tør å dra. Du finner skatter på bunnen.",
+      "funFact": "Undervannsroboter brukes blant annet til å utforske havbunnen på store dyp.",
+      "image": "images/2027-01-11/undervann.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Går til bunns."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i stillhet."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør mørket."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Finner skatter."
+        }
+      ]
+    },
+    {
+      "id": "drone",
+      "name": "Drone",
+      "shareName": "en drone",
+      "emoji": null,
+      "description": "Du er rask, fri og har oversikt over alt. Du ser ting ovenfra.",
+      "funFact": "Droner brukes blant annet til å levere medisiner til steder som er vanskelige å nå.",
+      "image": "images/2027-01-11/drone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Suser av gårde."
+        },
+        {
+          "title": "Oversikt",
+          "text": "Ser alt ovenfra."
+        },
+        {
+          "title": "Fri",
+          "text": "Flyr dit du vil."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Leverer det som trengs."
+        }
+      ]
+    }
+  ]
+}
