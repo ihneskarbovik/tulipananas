@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "title": "Hvilken hatt er du i dag?",
+  "intro": "Er du en elegant flosshatt, en praktisk sydvest eller en koselig lue med dusk? Svar på sju spørsmål og finn ut hvilken hatt som passer deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket fag likte du best på skolen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kunst og håndverk",
+          "scores": {
+            "alpelue": 2,
+            "dusklue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kroppsøving",
+          "scores": {
+            "kaps": 2,
+            "hjelm": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mat og helse",
+          "scores": {
+            "kokkelue": 1,
+            "nisselue": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Musikk",
+          "scores": {
+            "botte": 2,
+            "strahatt": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Naturfag",
+          "scores": {
+            "sydvest": 2,
+            "cowboy": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Historie",
+          "scores": {
+            "sixpence": 2,
+            "flosshatt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan bestemmer du hva du skal ha på deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker værmeldingen først",
+          "scores": {
+            "sydvest": 2,
+            "hjelm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar det som ligger øverst",
+          "scores": {
+            "kaps": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Planlegger antrekket kvelden før",
+          "scores": {
+            "flosshatt": 2,
+            "sixpence": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Velger det som er mest koselig",
+          "scores": {
+            "dusklue": 2,
+            "nisselue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kombinerer noe nytt og uventet",
+          "scores": {
+            "alpelue": 1,
+            "botte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar på favorittklærne igjen",
+          "scores": {
+            "cowboy": 2,
+            "kokkelue": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags veske bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ryggsekk",
+          "scores": {
+            "kaps": 2,
+            "hjelm": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Handlenett i tøy",
+          "scores": {
+            "alpelue": 2,
+            "strahatt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Liten skulderveske",
+          "scores": {
+            "flosshatt": 2,
+            "botte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gammel skinnveske",
+          "scores": {
+            "sixpence": 2,
+            "cowboy": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vanntett bag",
+          "scores": {
+            "sydvest": 1,
+            "kokkelue": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg har alt i lommene",
+          "scores": {
+            "dusklue": 2,
+            "nisselue": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du møter noen, men har glemt navnet deres. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier det ærlig og ler litt av det",
+          "scores": {
+            "botte": 2,
+            "kaps": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prater videre og håper det dukker opp",
+          "scores": {
+            "strahatt": 2,
+            "dusklue": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Presenterer dem for en venn, så de sier navnet selv",
+          "scores": {
+            "flosshatt": 1,
+            "alpelue": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør forsiktig om navnet igjen",
+          "scores": {
+            "hjelm": 2,
+            "sixpence": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hilser med et stort smil",
+          "scores": {
+            "nisselue": 2,
+            "kokkelue": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter rolig til jeg kommer på det",
+          "scores": {
+            "sydvest": 1,
+            "cowboy": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva ville du helst samlet på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frimerker",
+          "scores": {
+            "sixpence": 2,
+            "flosshatt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vinylplater",
+          "scores": {
+            "botte": 2,
+            "alpelue": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Steiner og skjell",
+          "scores": {
+            "sydvest": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kokebøker",
+          "scores": {
+            "kokkelue": 2,
+            "nisselue": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fotballkort",
+          "scores": {
+            "kaps": 1,
+            "hjelm": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Postkort fra reiser",
+          "scores": {
+            "cowboy": 2,
+            "dusklue": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du helst en varm sommerdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bader",
+          "scores": {
+            "strahatt": 2,
+            "sydvest": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sykler en lang tur",
+          "scores": {
+            "hjelm": 2,
+            "cowboy": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Griller i hagen",
+          "scores": {
+            "kokkelue": 2,
+            "nisselue": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiser is på brygga",
+          "scores": {
+            "dusklue": 2,
+            "kaps": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går på festival",
+          "scores": {
+            "botte": 2,
+            "flosshatt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sitter i skyggen med en bok",
+          "scores": {
+            "alpelue": 2,
+            "sixpence": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Vennene dine har laget en overraskelsesfest for deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyler av glede og klemmer alle",
+          "scores": {
+            "nisselue": 2,
+            "botte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir litt rørt og stille",
+          "scores": {
+            "sixpence": 2,
+            "dusklue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder en liten takketale",
+          "scores": {
+            "flosshatt": 2,
+            "hjelm": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på musikk og starter dansen",
+          "scores": {
+            "kaps": 2,
+            "strahatt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Later som jeg visste det hele tiden",
+          "scores": {
+            "cowboy": 2,
+            "alpelue": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Begynner å hjelpe til med maten",
+          "scores": {
+            "kokkelue": 2,
+            "sydvest": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "flosshatt",
+      "name": "Flosshatt",
+      "shareName": "en flosshatt",
+      "emoji": null,
+      "description": "Du er elegant, sjarmerende og har en egen evne til å gjøre øyeblikk høytidelige. Du har alltid en liten overraskelse på lur.",
+      "funFact": "Flosshatten ble populær på 1800-tallet, og tryllekunstnere har lenge brukt den til trikset med kaninen i hatten.",
+      "image": "images/2026-11-26/flosshatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid pent antrukket."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Høytidelig",
+          "text": "Gjør dager spesielle."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Har noe på lur."
+        }
+      ]
+    },
+    {
+      "id": "cowboy",
+      "name": "Cowboyhatt",
+      "shareName": "en cowboyhatt",
+      "emoji": null,
+      "description": "Du er eventyrlysten, modig og elsker frihet. Du drar gjerne ut på nye veier, gjerne langt ut på landet.",
+      "funFact": "Den brede bremmen på cowboyhatten skal beskytte mot både sol og regn.",
+      "image": "images/2026-11-26/cowboy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid klar for tur."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Fri",
+          "text": "Går sine egne veier."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Står for valgene sine."
+        }
+      ]
+    },
+    {
+      "id": "kokkelue",
+      "name": "Kokkelue",
+      "shareName": "en kokkelue",
+      "emoji": null,
+      "description": "Du er kreativ, raus og elsker å samle folk rundt et bord. Du tar gjerne ansvar når noe skal lages.",
+      "funFact": "Det sies at en tradisjonell kokkelue hadde 100 folder, én for hver måte kokken kunne lage egg på.",
+      "image": "images/2026-11-26/kokkelue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Lager mat til alle."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Prøver nye oppskrifter."
+        },
+        {
+          "title": "Leder",
+          "text": "Tar styringen gjerne."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker god mat."
+        }
+      ]
+    },
+    {
+      "id": "sydvest",
+      "name": "Sydvest",
+      "shareName": "en sydvest",
+      "emoji": null,
+      "description": "Du er hardfør, praktisk og lar deg ikke stoppe av litt vær. Folk vet at du stiller opp, uansett hvordan det ser ut.",
+      "funFact": "Sydvesten har lengre brem bak enn foran, slik at regnvannet renner av utenfor kragen.",
+      "image": "images/2026-11-26/sydvest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hardfør",
+          "text": "Tåler all slags vær."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Tenker løsninger først."
+        },
+        {
+          "title": "Trofast",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        }
+      ]
+    },
+    {
+      "id": "strahatt",
+      "name": "Stråhatt",
+      "shareName": "en stråhatt",
+      "emoji": null,
+      "description": "Du er avslappet, solfylt og tar livet med ro. Med deg føles det alltid litt som sommerferie.",
+      "funFact": "Panamahatten er en stråhatt som egentlig kommer fra Ecuador, ikke fra Panama.",
+      "image": "images/2026-11-26/strahatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Sprer sommerstemning."
+        },
+        {
+          "title": "Sorgløs",
+          "text": "Bekymrer seg lite."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å være rundt."
+        }
+      ]
+    },
+    {
+      "id": "botte",
+      "name": "Bøttehatt",
+      "shareName": "en bøttehatt",
+      "emoji": null,
+      "description": "Du er kul, uformell og alltid klar for neste konsert eller festival. Du har din egen stil og bryr deg lite om hva andre synes.",
+      "funFact": "Bøttehatten ble opprinnelig brukt av irske fiskere og bønder for å beskytte seg mot regnet.",
+      "image": "images/2026-11-26/botte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Har sin egen stil."
+        },
+        {
+          "title": "Uformell",
+          "text": "Holder det enkelt."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Elsker en god konsert."
+        },
+        {
+          "title": "Sosial",
+          "text": "Finner venner overalt."
+        }
+      ]
+    },
+    {
+      "id": "kaps",
+      "name": "Caps",
+      "shareName": "en caps",
+      "emoji": null,
+      "description": "Du er sporty, aktiv og en ekte lagspiller. Du er alltid klar for en kamp, en tur eller noe nytt.",
+      "funFact": "Capsen ble vanlig gjennom baseball i USA allerede på 1800-tallet.",
+      "image": "images/2026-11-26/kaps.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Alltid klar for aktivitet."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Best sammen med andre."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen stress med stil."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        }
+      ]
+    },
+    {
+      "id": "sixpence",
+      "name": "Sixpence",
+      "shareName": "en sixpence",
+      "emoji": null,
+      "description": "Du er klassisk, klok og har en sjarm som aldri går av moten. Du liker gamle ting med en god historie.",
+      "funFact": "Sixpencen var en vanlig hverdagslue for menn både i Storbritannia og i Norden tidlig på 1900-tallet.",
+      "image": "images/2026-11-26/sixpence.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Aldri ute av moten."
+        },
+        {
+          "title": "Klok",
+          "text": "Har gode råd."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Liker ting på stell."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gamle historier."
+        }
+      ]
+    },
+    {
+      "id": "alpelue",
+      "name": "Alpelue",
+      "shareName": "en alpelue",
+      "emoji": null,
+      "description": "Du er kunstnerisk, drømmende og ser verden med andre øyne. Du trives på en kafé med en skissebok eller en god bok.",
+      "funFact": "Alpeluen kalles også baskerlue, og har røtter i Baskerland mellom Frankrike og Spania.",
+      "image": "images/2026-11-26/alpelue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kunstnerisk",
+          "text": "Ser det vakre overalt."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Hodet fullt av ideer."
+        },
+        {
+          "title": "Original",
+          "text": "Gjør ting på sin måte."
+        },
+        {
+          "title": "Rolig",
+          "text": "Nyter små øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "nisselue",
+      "name": "Nisselue",
+      "shareName": "en nisselue",
+      "emoji": null,
+      "description": "Du er festlig, varm og elsker tradisjoner. Du gir gjerne bort litt glede, og det er ikke bare i desember.",
+      "funFact": "I norsk folketro bodde nissen på gården, og han blir ofte tegnet med rød topplue.",
+      "image": "images/2026-11-26/nisselue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager stemning overalt."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Gir gjerne til andre."
+        },
+        {
+          "title": "Tradisjonsglad",
+          "text": "Elsker gamle skikker."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være rundt."
+        }
+      ]
+    },
+    {
+      "id": "dusklue",
+      "name": "Lue med dusk",
+      "shareName": "en lue med dusk",
+      "emoji": null,
+      "description": "Du er koselig, leken og elsker vinteren. Du gjør kalde dager varmere for alle rundt deg.",
+      "funFact": "Ull holder på varmen selv om den blir litt fuktig.",
+      "image": "images/2026-11-26/dusklue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som en klem."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Elsker kalde dager."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        }
+      ]
+    },
+    {
+      "id": "hjelm",
+      "name": "Sykkelhjelm",
+      "shareName": "en sykkelhjelm",
+      "emoji": null,
+      "description": "Du er fornuftig, ansvarsfull og passer godt på deg selv og andre. Du er likevel alltid klar for et nytt eventyr.",
+      "funFact": "I Norge er det ikke påbudt for voksne å bruke sykkelhjelm, men det anbefales.",
+      "image": "images/2026-11-26/hjelm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fornuftig",
+          "text": "Tenker seg om først."
+        },
+        {
+          "title": "Ansvarsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Trygg",
+          "text": "Folk stoler på deg."
+        }
+      ]
+    }
+  ]
+}

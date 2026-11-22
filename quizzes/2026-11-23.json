@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "title": "Hvilken frokost er du i dag?",
+  "intro": "Er du en varm havregrøt, en festlig stabel pannekaker eller en rask smoothie? Svar på sju spørsmål og finn ut hvilken frokost du er denne mandagen.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken hobby har du mest lyst til å prøve?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strikking",
+          "scores": {
+            "grot": 2,
+            "eggerore": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Løping",
+          "scores": {
+            "smoothie": 2,
+            "eggbacon": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Maling",
+          "scores": {
+            "croissant": 1,
+            "avokado": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Matlaging fra hele verden",
+          "scores": {
+            "shakshuka": 2,
+            "pannekaker": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fiske",
+          "scores": {
+            "brunost": 2,
+            "knekkebrod": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Puslespill",
+          "scores": {
+            "yoghurt": 1,
+            "frokostbl": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du finner ikke nøklene dine. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leter systematisk rom for rom",
+          "scores": {
+            "yoghurt": 2,
+            "knekkebrod": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer noen i familien",
+          "scores": {
+            "eggerore": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar det med ro, de dukker opp",
+          "scores": {
+            "croissant": 2,
+            "grot": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjekker alle lommene i full fart",
+          "scores": {
+            "smoothie": 2,
+            "frokostbl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner en plan B med en gang",
+          "scores": {
+            "eggbacon": 2,
+            "shakshuka": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør de jeg bor med",
+          "scores": {
+            "pannekaker": 1,
+            "avokado": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket språk vil du helst lære?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fransk",
+          "scores": {
+            "croissant": 2,
+            "avokado": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spansk",
+          "scores": {
+            "pannekaker": 2,
+            "shakshuka": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Japansk",
+          "scores": {
+            "smoothie": 1,
+            "frokostbl": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Islandsk",
+          "scores": {
+            "brunost": 1,
+            "grot": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tysk",
+          "scores": {
+            "knekkebrod": 2,
+            "yoghurt": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Italiensk",
+          "scores": {
+            "eggerore": 2,
+            "eggbacon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvis du kunne fått én superkraft, hvilken ville du valgt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Å kunne fly",
+          "scores": {
+            "smoothie": 2,
+            "frokostbl": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å bli usynlig",
+          "scores": {
+            "croissant": 2,
+            "knekkebrod": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å lese tanker",
+          "scores": {
+            "yoghurt": 1,
+            "avokado": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å teleportere meg hvor som helst",
+          "scores": {
+            "shakshuka": 2,
+            "eggbacon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å snakke med dyr",
+          "scores": {
+            "grot": 1,
+            "brunost": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å helbrede andre",
+          "scores": {
+            "eggerore": 2,
+            "pannekaker": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du i lunsjpausen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser matpakka i ro og fred",
+          "scores": {
+            "brunost": 1,
+            "knekkebrod": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sitter med en stor gjeng",
+          "scores": {
+            "pannekaker": 1,
+            "avokado": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går en kort tur",
+          "scores": {
+            "smoothie": 2,
+            "yoghurt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser eller hører på noe",
+          "scores": {
+            "croissant": 1,
+            "grot": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver et nytt sted å spise",
+          "scores": {
+            "shakshuka": 2,
+            "eggbacon": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prater med en god venn",
+          "scores": {
+            "eggerore": 2,
+            "frokostbl": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva spiser du helst til kveldsmat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toast med ost og skinke",
+          "scores": {
+            "eggerore": 2,
+            "frokostbl": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noen brødskiver",
+          "scores": {
+            "brunost": 1,
+            "knekkebrod": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En bolle med frukt",
+          "scores": {
+            "smoothie": 1,
+            "yoghurt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rester fra middagen",
+          "scores": {
+            "eggbacon": 2,
+            "shakshuka": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Te og en kjeks",
+          "scores": {
+            "croissant": 2,
+            "grot": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nachos med venner",
+          "scores": {
+            "avokado": 2,
+            "pannekaker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor liker du best å sitte og tenke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en benk i parken",
+          "scores": {
+            "croissant": 1,
+            "avokado": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I sofaen under et pledd",
+          "scores": {
+            "grot": 2,
+            "eggerore": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved kjøkkenbordet",
+          "scores": {
+            "brunost": 2,
+            "pannekaker": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På bussen på vei et sted",
+          "scores": {
+            "smoothie": 1,
+            "frokostbl": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en stein ved vannet",
+          "scores": {
+            "knekkebrod": 2,
+            "shakshuka": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved skrivebordet med en notatbok",
+          "scores": {
+            "yoghurt": 2,
+            "eggbacon": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "grot",
+      "name": "Havregrøt",
+      "shareName": "havregrøt",
+      "emoji": null,
+      "description": "Du er varm, trofast og god å ha i nærheten. Folk vet at de alltid kan regne med deg, særlig på kalde dager.",
+      "funFact": "Havre tåler kaldt og fuktig klima godt, og har blitt dyrket i Norge i svært lang tid.",
+      "image": "images/2026-11-23/grot.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet til alle."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der for deg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar dagen med ro."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det som funker."
+        }
+      ]
+    },
+    {
+      "id": "brunost",
+      "name": "Brødskive med brunost",
+      "shareName": "en brødskive med brunost",
+      "emoji": null,
+      "description": "Du er jordnær, hyggelig og helt ukomplisert. Du trenger ikke noe stas for å ha det bra.",
+      "funFact": "Brunost lages av myse, det som blir igjen når man lager vanlig ost.",
+      "image": "images/2026-11-23/brunost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å bli kjent med."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke noe stas."
+        },
+        {
+          "title": "Norsk",
+          "text": "Kjenner sine røtter."
+        }
+      ]
+    },
+    {
+      "id": "pannekaker",
+      "name": "Amerikanske pannekaker",
+      "shareName": "amerikanske pannekaker",
+      "emoji": null,
+      "description": "Du er festlig, raus og gjør hverdagen til en liten helg. Folk blir i godt humør bare av å se deg.",
+      "funFact": "Det meste av verdens lønnesirup kommer fra Québec i Canada.",
+      "image": "images/2026-11-23/pannekaker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Gjør hverdag til helg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne med alle."
+        },
+        {
+          "title": "Søt",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best rundt et stort bord."
+        }
+      ]
+    },
+    {
+      "id": "eggbacon",
+      "name": "Egg og bacon",
+      "shareName": "egg og bacon",
+      "emoji": null,
+      "description": "Du er solid, direkte og full av energi. Du går løs på dagen med stor appetitt.",
+      "funFact": "En «full English breakfast» kan også inneholde bønner i tomatsaus, pølser og stekt tomat.",
+      "image": "images/2026-11-23/eggbacon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Holder deg gående lenge."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar store jafs av livet."
+        }
+      ]
+    },
+    {
+      "id": "yoghurt",
+      "name": "Yoghurt med müsli",
+      "shareName": "yoghurt med müsli",
+      "emoji": null,
+      "description": "Du er balansert, ordentlig og liker å ha kontroll. Du planlegger godt og tar gode valg for deg selv.",
+      "funFact": "Müsli ble utviklet rundt år 1900 av den sveitsiske legen Maximilian Bircher-Benner.",
+      "image": "images/2026-11-23/yoghurt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Litt av alt godt."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Har orden på ting."
+        },
+        {
+          "title": "Planlegger",
+          "text": "Tenker på morgendagen."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        }
+      ]
+    },
+    {
+      "id": "smoothie",
+      "name": "Smoothie",
+      "shareName": "en smoothie",
+      "emoji": null,
+      "description": "Du er rask, frisk og alltid på farten. Du får mye gjort, og du gjør det med et smil.",
+      "funFact": "Banan gjør en smoothie tykk og kremet, selv uten melk eller yoghurt.",
+      "image": "images/2026-11-23/smoothie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Klar på et blunk."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av farger."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på ting."
+        }
+      ]
+    },
+    {
+      "id": "croissant",
+      "name": "Croissant",
+      "shareName": "en croissant",
+      "emoji": null,
+      "description": "Du er elegant, avslappet og vet å nyte øyeblikket. Du tar deg alltid tid til det gode i livet.",
+      "funFact": "Croissanten har trolig røtter i en østerriksk bakst som heter kipferl.",
+      "image": "images/2026-11-23/croissant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid litt stilfull."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Lar ingen stresse deg."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        }
+      ]
+    },
+    {
+      "id": "avokado",
+      "name": "Avokadotoast",
+      "shareName": "en avokadotoast",
+      "emoji": null,
+      "description": "Du er moderne, kreativ og elsker å møte venner over en lang frokost. Du har alltid fått med deg det nyeste.",
+      "funFact": "Avokado er botanisk sett et bær med én stor stein.",
+      "image": "images/2026-11-23/avokado.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Følger med i tiden."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Gjør det på sin måte."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker lange frokoster."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Har sans for detaljer."
+        }
+      ]
+    },
+    {
+      "id": "eggerore",
+      "name": "Eggerøre",
+      "shareName": "eggerøre",
+      "emoji": null,
+      "description": "Du er myk, omsorgsfull og god å komme hjem til. Du gjør de små tingene som får folk til å føle seg velkomne.",
+      "funFact": "Eggerøre blir ekstra myk og saftig hvis den lages på lav varme mens man rører rolig.",
+      "image": "images/2026-11-23/eggerore.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på de andre."
+        },
+        {
+          "title": "Myk",
+          "text": "Varm og snill."
+        },
+        {
+          "title": "Koselig",
+          "text": "Skaper hjemmefølelse."
+        },
+        {
+          "title": "Enkel",
+          "text": "Lite er mer."
+        }
+      ]
+    },
+    {
+      "id": "frokostbl",
+      "name": "Frokostblanding",
+      "shareName": "frokostblanding",
+      "emoji": null,
+      "description": "Du er leken, lettvint og alltid klar for moro. Du gjør ting enkelt og har det gøy underveis.",
+      "funFact": "Cornflakes ble laget av brødrene Kellogg i USA på slutten av 1800-tallet.",
+      "image": "images/2026-11-23/frokostbl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner moro overalt."
+        },
+        {
+          "title": "Lettvint",
+          "text": "Gjør ting enkelt."
+        },
+        {
+          "title": "Spontan",
+          "text": "Bestemmer seg i farta."
+        },
+        {
+          "title": "Ungdommelig",
+          "text": "Alltid ung til sinns."
+        }
+      ]
+    },
+    {
+      "id": "knekkebrod",
+      "name": "Knekkebrød",
+      "shareName": "knekkebrød",
+      "emoji": null,
+      "description": "Du er praktisk, effektiv og holder stand lenge. Du lar deg ikke stresse og gjør ting skikkelig.",
+      "funFact": "Knekkebrød holder seg lenge fordi det nesten ikke inneholder vann.",
+      "image": "images/2026-11-23/knekkebrod.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid en løsning."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Holdbar",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Trenger ikke mye."
+        }
+      ]
+    },
+    {
+      "id": "shakshuka",
+      "name": "Shakshuka",
+      "shareName": "shakshuka",
+      "emoji": null,
+      "description": "Du er eventyrlysten, modig og elsker å dele med andre. Du gir hverdagen litt ekstra krydder.",
+      "funFact": "Shakshuka er egg som posjeres i en krydret tomatsaus, og retten er populær i Nord-Afrika og Midtøsten.",
+      "image": "images/2026-11-23/shakshuka.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil prøve alt nytt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta sjanser."
+        },
+        {
+          "title": "Delende",
+          "text": "Setter gryta midt på."
+        },
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra av alt."
+        }
+      ]
+    }
+  ]
+}

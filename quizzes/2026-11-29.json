@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-29",
+  "date": "2026-11-29",
+  "title": "Hvilket lys er du i dag?",
+  "intro": "Det er første søndag i advent, og mørketiden er her. Er du et rolig stearinlys, et trygt fyrtårn eller et magisk nordlys? Svar på sju spørsmål og finn ut hvilket lys du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor vil du helst se solnedgangen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en brygge ved havet",
+          "scores": {
+            "fyrtarn": 2,
+            "stearinlys": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en fjelltopp",
+          "scores": {
+            "hodelykt": 2,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fra sofaen med god utsikt",
+          "scores": {
+            "lavalampe": 2,
+            "adventsstjerne": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ved et bål på stranden",
+          "scores": {
+            "bal": 2,
+            "stjerneskudd": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en takterrasse i byen",
+          "scores": {
+            "lysslynge": 2,
+            "gatelykt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fra et vindu på reise",
+          "scores": {
+            "lyspare": 2,
+            "lommelykt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får gjester om en time. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner lys og setter på musikk",
+          "scores": {
+            "stearinlys": 2,
+            "lysslynge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder raskt etter en plan",
+          "scores": {
+            "fyrtarn": 2,
+            "gatelykt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe enkelt å spise",
+          "scores": {
+            "bal": 2,
+            "adventsstjerne": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hva de har lyst på",
+          "scores": {
+            "lommelykt": 2,
+            "lyspare": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "lavalampe": 2,
+            "nordlys": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Farer rundt i full fart",
+          "scores": {
+            "stjerneskudd": 2,
+            "hodelykt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst på hytta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fyrer i peisen og slapper av",
+          "scores": {
+            "stearinlys": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går lange turer",
+          "scores": {
+            "hodelykt": 2,
+            "lommelykt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiller kort til langt på kveld",
+          "scores": {
+            "lysslynge": 2,
+            "stjerneskudd": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser og drikker te",
+          "scores": {
+            "adventsstjerne": 2,
+            "lavalampe": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fikser noe som trenger reparasjon",
+          "scores": {
+            "lyspare": 2,
+            "gatelykt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser på stjernene",
+          "scores": {
+            "nordlys": 2,
+            "fyrtarn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser at noen har mistet en vott på fortauet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Henger den opp der den synes godt",
+          "scores": {
+            "gatelykt": 2,
+            "fyrtarn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser meg rundt etter eieren",
+          "scores": {
+            "lommelykt": 2,
+            "hodelykt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Legger ut et bilde i nabolagsgruppa",
+          "scores": {
+            "lysslynge": 1,
+            "lyspare": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar den med til butikken på hjørnet",
+          "scores": {
+            "adventsstjerne": 2,
+            "stearinlys": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer på hvem den tilhører",
+          "scores": {
+            "nordlys": 2,
+            "lavalampe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Løper etter personen jeg nettopp så",
+          "scores": {
+            "stjerneskudd": 2,
+            "bal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken kunstform liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maleri",
+          "scores": {
+            "lavalampe": 1,
+            "adventsstjerne": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Teater",
+          "scores": {
+            "lysslynge": 1,
+            "stjerneskudd": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fotografi",
+          "scores": {
+            "nordlys": 2,
+            "lommelykt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Arkitektur",
+          "scores": {
+            "fyrtarn": 1,
+            "gatelykt": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Håndverk",
+          "scores": {
+            "stearinlys": 2,
+            "bal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Film",
+          "scores": {
+            "lyspare": 2,
+            "hodelykt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal fortelle om noe som har skjedd. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kort og presist",
+          "scores": {
+            "lommelykt": 2,
+            "gatelykt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med masse innlevelse",
+          "scores": {
+            "bal": 2,
+            "stjerneskudd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med alle detaljene",
+          "scores": {
+            "adventsstjerne": 2,
+            "fyrtarn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rolig, så alle lytter",
+          "scores": {
+            "stearinlys": 1,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med en overraskende slutt",
+          "scores": {
+            "lyspare": 1,
+            "lavalampe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sammen med dem som var der",
+          "scores": {
+            "lysslynge": 2,
+            "hodelykt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er første søndag i advent. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner det første adventslyset",
+          "scores": {
+            "stearinlys": 1,
+            "adventsstjerne": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Henger opp julelys",
+          "scores": {
+            "lysslynge": 1,
+            "gatelykt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går en tur i mørket",
+          "scores": {
+            "hodelykt": 2,
+            "lommelykt": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Baker pepperkaker med venner",
+          "scores": {
+            "bal": 2,
+            "stjerneskudd": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager pynt selv",
+          "scores": {
+            "lavalampe": 2,
+            "lyspare": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter spent på snøen",
+          "scores": {
+            "nordlys": 2,
+            "fyrtarn": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stearinlys",
+      "name": "Stearinlys",
+      "shareName": "et stearinlys",
+      "emoji": null,
+      "description": "Du er rolig, varm og skaper ro rundt deg. Folk slapper av og senker skuldrene når du er i nærheten.",
+      "funFact": "Flammen på et stearinlys er varmest i den blå delen nederst.",
+      "image": "images/2026-11-29/stearinlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Skaper ro rundt seg."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir lys og varme."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør kvelden god."
+        },
+        {
+          "title": "Tilstede",
+          "text": "Lever i øyeblikket."
+        }
+      ]
+    },
+    {
+      "id": "adventsstjerne",
+      "name": "Adventsstjerne",
+      "shareName": "en adventsstjerne",
+      "emoji": null,
+      "description": "Du er tradisjonsglad, hjemmekjær og gleder deg til ting lenge i forveien. Du gjør hjemmet varmt og innbydende.",
+      "funFact": "Den kjente Herrnhut-stjernen med mange takker ble laget i Tyskland på 1800-tallet.",
+      "image": "images/2026-11-29/adventsstjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsglad",
+          "text": "Elsker faste ritualer."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives best hjemme."
+        },
+        {
+          "title": "Forventningsfull",
+          "text": "Gleder seg lenge."
+        },
+        {
+          "title": "Innbydende",
+          "text": "Ønsker alle velkommen."
+        }
+      ]
+    },
+    {
+      "id": "lysslynge",
+      "name": "Lysslynge",
+      "shareName": "en lysslynge",
+      "emoji": null,
+      "description": "Du er sosial, festlig og flink til å samle folk. Du lyser best når mange er sammen.",
+      "funFact": "Elektriske julelys ble første gang brukt på et juletre i 1882, av Edward Johnson, som jobbet med Thomas Edison.",
+      "image": "images/2026-11-29/lysslynge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk rundt seg."
+        },
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle henger sammen."
+        },
+        {
+          "title": "Glad",
+          "text": "Blinker av godt humør."
+        }
+      ]
+    },
+    {
+      "id": "lommelykt",
+      "name": "Lommelykt",
+      "shareName": "en lommelykt",
+      "emoji": null,
+      "description": "Du er praktisk, hjelpsom og alltid forberedt. Når noen trenger hjelp, er du den første de spør.",
+      "funFact": "De første lommelyktene hadde så svake batterier at de bare lyste i korte glimt, og derfor heter de «flashlight» på engelsk.",
+      "image": "images/2026-11-29/lommelykt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Viser vei for andre."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Klar når det trengs."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Svikter aldri."
+        }
+      ]
+    },
+    {
+      "id": "hodelykt",
+      "name": "Hodelykt",
+      "shareName": "en hodelykt",
+      "emoji": null,
+      "description": "Du er aktiv, eventyrlysten og elsker å være ute, også når det er mørkt. Du går gjerne først og viser vei.",
+      "funFact": "Gruvearbeidere brukte lamper på hjelmen lenge før hodelykter ble vanlige på tur.",
+      "image": "images/2026-11-29/hodelykt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ute i all slags vær."
+        },
+        {
+          "title": "Modig",
+          "text": "Går først i mørket."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Ser rett fram."
+        }
+      ]
+    },
+    {
+      "id": "fyrtarn",
+      "name": "Fyrtårn",
+      "shareName": "et fyrtårn",
+      "emoji": null,
+      "description": "Du er trygg, stødig og passer på dem rundt deg. Folk vet at de alltid kan finne veien hjem til deg.",
+      "funFact": "Lindesnes fyr er Norges eldste fyrstasjon, og ble tent første gang i 1656.",
+      "image": "images/2026-11-29/fyrtarn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Viser vei hjem."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står i all slags vær."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Lyser natt etter natt."
+        }
+      ]
+    },
+    {
+      "id": "gatelykt",
+      "name": "Gatelykt",
+      "shareName": "en gatelykt",
+      "emoji": null,
+      "description": "Du er pålitelig, rolig og liker faste rutiner. Du er der hver eneste kveld, og nabolaget hadde ikke vært det samme uten deg.",
+      "funFact": "Før elektrisk lys ble vanlig, gikk lyktetennere rundt og tente gatelyktene for hånd hver kveld.",
+      "image": "images/2026-11-29/gatelykt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Der hver kveld."
+        },
+        {
+          "title": "Rutinert",
+          "text": "Liker faste vaner."
+        },
+        {
+          "title": "Nabovennlig",
+          "text": "Kjenner alle i gata."
+        },
+        {
+          "title": "Rolig",
+          "text": "Står støtt."
+        }
+      ]
+    },
+    {
+      "id": "bal",
+      "name": "Bål",
+      "shareName": "et bål",
+      "emoji": null,
+      "description": "Du er varm, sosial og elsker gode historier. Folk samler seg rundt deg og blir sittende lenge.",
+      "funFact": "Mennesker har brukt og kontrollert ild i flere hundre tusen år.",
+      "image": "images/2026-11-29/bal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Varmer alle rundt seg."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk i ring."
+        },
+        {
+          "title": "Fortellerglad",
+          "text": "Har mange historier."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av gnister."
+        }
+      ]
+    },
+    {
+      "id": "lavalampe",
+      "name": "Lavalampe",
+      "shareName": "en lavalampe",
+      "emoji": null,
+      "description": "Du er kreativ, avslappet og litt annerledes. Du tar ting i ditt eget tempo og får andre til å slappe av.",
+      "funFact": "Lavalampen ble oppfunnet av briten Edward Craven Walker i 1963.",
+      "image": "images/2026-11-29/lavalampe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Former nye ideer."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Original",
+          "text": "Helt sin egen."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Lar tankene flyte."
+        }
+      ]
+    },
+    {
+      "id": "nordlys",
+      "name": "Nordlys",
+      "shareName": "nordlys",
+      "emoji": null,
+      "description": "Du er magisk, fri og litt uforutsigbar. Når du dukker opp, blir alle glade og stopper opp for å se.",
+      "funFact": "Nordlys oppstår når partikler fra sola treffer gasser høyt oppe i atmosfæren.",
+      "image": "images/2026-11-29/nordlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Magisk",
+          "text": "Får alle til å stoppe."
+        },
+        {
+          "title": "Fri",
+          "text": "Danser dit du vil."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Kommer når du vil."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp himmelen."
+        }
+      ]
+    },
+    {
+      "id": "stjerneskudd",
+      "name": "Stjerneskudd",
+      "shareName": "et stjerneskudd",
+      "emoji": null,
+      "description": "Du er energisk, spontan og full av gnist. Du lyser opp ethvert rom på et øyeblikk.",
+      "funFact": "Gnistene fra et stjerneskudd kommer fra små biter av metall, som jern, som brenner.",
+      "image": "images/2026-11-29/stjerneskudd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av gnist."
+        },
+        {
+          "title": "Spontan",
+          "text": "Tenner på et øyeblikk."
+        },
+        {
+          "title": "Festlig",
+          "text": "Lyser opp ethvert rom."
+        },
+        {
+          "title": "Leken",
+          "text": "Gjør alt litt morsommere."
+        }
+      ]
+    },
+    {
+      "id": "lyspare",
+      "name": "Lyspære",
+      "shareName": "en lyspære",
+      "emoji": null,
+      "description": "Du er idérik, smart og alltid nysgjerrig. Du får de beste ideene når du minst venter det.",
+      "funFact": "Gamle glødepærer ble faset ut i Norge og EU fra 2009 fordi de bruker mye strøm.",
+      "image": "images/2026-11-29/lyspare.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Idérik",
+          "text": "Full av gode ideer."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker klart."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alt."
+        },
+        {
+          "title": "Løsningsorientert",
+          "text": "Finner alltid en vei."
+        }
+      ]
+    }
+  ]
+}

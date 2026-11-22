@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-27",
+  "date": "2026-11-27",
+  "title": "Hvilket lekeapparat er du i dag?",
+  "intro": "Er du en huske, en trampoline eller en koselig lekehytte? Svar på sju spørsmål og finn ut hvilket lekeapparat på lekeplassen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor vil du helst ha piknik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I parken med mye folk",
+          "scores": {
+            "karusell": 2,
+            "trampoline": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved et stille vann",
+          "scores": {
+            "huske": 2,
+            "vippedyr": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en fjelltopp",
+          "scores": {
+            "klatrestativ": 1,
+            "taubane": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På stranden",
+          "scores": {
+            "sandkasse": 2,
+            "sklie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I hagen hjemme",
+          "scores": {
+            "lekehytte": 2,
+            "vippe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "På et teppe i skogen",
+          "scores": {
+            "klatrenett": 2,
+            "balansebom": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan holder du kontakten med gamle venner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringer dem jevnlig",
+          "scores": {
+            "vippe": 2,
+            "vippedyr": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sender meldinger og bilder",
+          "scores": {
+            "sklie": 1,
+            "karusell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer til middag",
+          "scores": {
+            "lekehytte": 2,
+            "klatrenett": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Møtes til en aktivitet",
+          "scores": {
+            "klatrestativ": 2,
+            "trampoline": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vi tar opp tråden der vi slapp, selv etter lang tid",
+          "scores": {
+            "huske": 1,
+            "sandkasse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger en tur sammen",
+          "scores": {
+            "taubane": 2,
+            "balansebom": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags pasta liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spaghetti bolognese",
+          "scores": {
+            "karusell": 2,
+            "sklie": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lasagne",
+          "scores": {
+            "lekehytte": 2,
+            "vippedyr": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pasta carbonara",
+          "scores": {
+            "vippe": 1,
+            "balansebom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pasta med pesto",
+          "scores": {
+            "huske": 1,
+            "klatrenett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Makaroni og ost",
+          "scores": {
+            "trampoline": 2,
+            "sandkasse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sterk arrabbiata",
+          "scores": {
+            "taubane": 2,
+            "klatrestativ": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det du skulle kjøpe, er utsolgt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøper noe annet med en gang",
+          "scores": {
+            "sklie": 2,
+            "trampoline": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter til det kommer inn igjen",
+          "scores": {
+            "vippedyr": 2,
+            "balansebom": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leter i andre butikker",
+          "scores": {
+            "klatrestativ": 1,
+            "taubane": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør om de kan bestille det",
+          "scores": {
+            "vippe": 2,
+            "klatrenett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe lignende selv",
+          "scores": {
+            "sandkasse": 2,
+            "lekehytte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Glemmer det og tenker på noe annet",
+          "scores": {
+            "huske": 1,
+            "karusell": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken grønnsak liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gulrot",
+          "scores": {
+            "sandkasse": 2,
+            "vippedyr": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Agurk",
+          "scores": {
+            "balansebom": 2,
+            "vippe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mais",
+          "scores": {
+            "karusell": 1,
+            "sklie": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Brokkoli",
+          "scores": {
+            "klatrestativ": 2,
+            "klatrenett": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Paprika",
+          "scores": {
+            "trampoline": 2,
+            "taubane": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Søtpotet",
+          "scores": {
+            "lekehytte": 2,
+            "huske": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får servert en rett du aldri har smakt før. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smaker med en gang",
+          "scores": {
+            "taubane": 2,
+            "trampoline": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar en liten bit først",
+          "scores": {
+            "balansebom": 2,
+            "vippedyr": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør hva den inneholder",
+          "scores": {
+            "vippe": 1,
+            "sandkasse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser hva de andre gjør",
+          "scores": {
+            "klatrenett": 2,
+            "karusell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gleder meg, jeg elsker nye ting",
+          "scores": {
+            "sklie": 2,
+            "klatrestativ": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker på hva den minner meg om",
+          "scores": {
+            "huske": 2,
+            "lekehytte": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du skal på kostymefest. Hva kler du deg ut som?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Superhelt",
+          "scores": {
+            "klatrestativ": 2,
+            "taubane": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prinsesse eller ridder",
+          "scores": {
+            "lekehytte": 1,
+            "huske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et dyr",
+          "scores": {
+            "trampoline": 2,
+            "vippedyr": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pirat",
+          "scores": {
+            "sklie": 1,
+            "karusell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Astronaut",
+          "scores": {
+            "balansebom": 2,
+            "sandkasse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe hele gjengen kler seg ut som sammen",
+          "scores": {
+            "klatrenett": 2,
+            "vippe": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "huske",
+      "name": "Huske",
+      "shareName": "en huske",
+      "emoji": null,
+      "description": "Du er drømmende, rolig og liker å la tankene fly. Du finner din egen rytme og trives med frihet.",
+      "funFact": "Man har funnet bilder av folk som husker på keramikk fra antikkens Hellas.",
+      "image": "images/2026-11-27/huske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Lar tankene fly."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Finner sin egen takt."
+        },
+        {
+          "title": "Fri",
+          "text": "Trenger litt luft."
+        },
+        {
+          "title": "Rolig",
+          "text": "Frem og tilbake."
+        }
+      ]
+    },
+    {
+      "id": "sklie",
+      "name": "Sklie",
+      "shareName": "en sklie",
+      "emoji": null,
+      "description": "Du er spontan, glad og sier ja til det meste. Med deg går ting fort, og det er alltid moro.",
+      "funFact": "En av de første store lekeplass-skliene ble satt opp i Wicksteed Park i England i 1922.",
+      "image": "images/2026-11-27/sklie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler hele veien."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort fram."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting lett."
+        }
+      ]
+    },
+    {
+      "id": "sandkasse",
+      "name": "Sandkasse",
+      "shareName": "en sandkasse",
+      "emoji": null,
+      "description": "Du er kreativ, rolig og elsker å bygge noe fra bunnen av. Du har fantasi nok til en hel by.",
+      "funFact": "Sandslott holder seg best med fuktig sand, fordi vannet binder sandkornene sammen.",
+      "image": "images/2026-11-27/sandkasse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Bygger store planer."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker å fordype seg."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir seg ikke."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser muligheter overalt."
+        }
+      ]
+    },
+    {
+      "id": "klatrestativ",
+      "name": "Klatrestativ",
+      "shareName": "et klatrestativ",
+      "emoji": null,
+      "description": "Du er modig, målrettet og elsker en utfordring. Du vil alltid opp et hakk til.",
+      "funFact": "Klatring trener både styrke, balanse og koordinasjon på én gang.",
+      "image": "images/2026-11-27/klatrestativ.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vil helt til toppen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Holder godt fast."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Finner nye veier."
+        }
+      ]
+    },
+    {
+      "id": "karusell",
+      "name": "Karusell",
+      "shareName": "en karusell",
+      "emoji": null,
+      "description": "Du er sosial, energisk og sørger for at alle får være med. Rundt deg er det alltid liv og latter.",
+      "funFact": "Ordet karusell kommer fra italiensk og spansk, og betydde opprinnelig en slags ridelek.",
+      "image": "images/2026-11-27/karusell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Alle får være med."
+        },
+        {
+          "title": "Energisk",
+          "text": "Holder farten oppe."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Ingen blir glemt."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mye latter rundt deg."
+        }
+      ]
+    },
+    {
+      "id": "vippe",
+      "name": "Vippe",
+      "shareName": "en vippe",
+      "emoji": null,
+      "description": "Du er rettferdig, samarbeidsvillig og flink til å finne balansen. Du vet at det meste blir bedre når man gjør det sammen.",
+      "funFact": "På en vippe kan den tyngste flytte seg nærmere midten, så blir det balanse.",
+      "image": "images/2026-11-27/vippe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rettferdig",
+          "text": "Alle får sin tur."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Best når vi er to."
+        },
+        {
+          "title": "Balansert",
+          "text": "Finner midten."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sin del."
+        }
+      ]
+    },
+    {
+      "id": "trampoline",
+      "name": "Trampoline",
+      "shareName": "en trampoline",
+      "emoji": null,
+      "description": "Du er energisk, leken og full av optimisme. Du spretter tilbake uansett hva som skjer.",
+      "funFact": "Trampoline har vært en olympisk gren siden sommer-OL i Sydney i 2000.",
+      "image": "images/2026-11-27/trampoline.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av sprett."
+        },
+        {
+          "title": "Leken",
+          "text": "Alt kan bli moro."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Spretter alltid opp igjen."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter med godt humør."
+        }
+      ]
+    },
+    {
+      "id": "taubane",
+      "name": "Taubane",
+      "shareName": "en taubane",
+      "emoji": null,
+      "description": "Du er eventyrlysten, fartsglad og liker å kjenne suset i magen. Du kaster deg ut i nye ting uten å nøle.",
+      "funFact": "En taubane drives av tyngdekraften: når starten er høyere enn slutten, suser du nedover av deg selv.",
+      "image": "images/2026-11-27/taubane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil oppleve mye."
+        },
+        {
+          "title": "Fartsglad",
+          "text": "Jo fortere jo bedre."
+        },
+        {
+          "title": "Modig",
+          "text": "Hopper i det."
+        },
+        {
+          "title": "Fri",
+          "text": "Elsker suset."
+        }
+      ]
+    },
+    {
+      "id": "lekehytte",
+      "name": "Lekehytte",
+      "shareName": "en lekehytte",
+      "emoji": null,
+      "description": "Du er fantasifull, koselig og en ekte vert. Hos deg føler alle seg velkomne.",
+      "funFact": "Rollelek, som å leke butikk eller familie, hjelper barn med å øve på språk og samarbeid.",
+      "image": "images/2026-11-27/lekehytte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fantasifull",
+          "text": "Lager egne verdener."
+        },
+        {
+          "title": "Koselig",
+          "text": "Alltid varmt hos deg."
+        },
+        {
+          "title": "Vertskap",
+          "text": "Inviterer alle inn."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på gjestene."
+        }
+      ]
+    },
+    {
+      "id": "vippedyr",
+      "name": "Vippedyr",
+      "shareName": "et vippedyr",
+      "emoji": null,
+      "description": "Du er rolig, trofast og trygg å være rundt. Du er alltid der, og folk kommer gjerne tilbake til deg.",
+      "funFact": "Vippedyr står på en kraftig stålfjær som gir etter i alle retninger.",
+      "image": "images/2026-11-27/vippedyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid på samme sted."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å lene seg på."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Alltid et smil."
+        }
+      ]
+    },
+    {
+      "id": "klatrenett",
+      "name": "Klatrenett",
+      "shareName": "et klatrenett",
+      "emoji": null,
+      "description": "Du er fleksibel, støttende og liker at mange er med samtidig. Du holder folk sammen når det trengs.",
+      "funFact": "Klatrenett er ofte formet som pyramider eller edderkoppnett, og gir litt etter når mange klatrer samtidig.",
+      "image": "images/2026-11-27/klatrenett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Gir etter når det trengs."
+        },
+        {
+          "title": "Støttende",
+          "text": "Holder andre oppe."
+        },
+        {
+          "title": "Sosial",
+          "text": "Plass til mange."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        }
+      ]
+    },
+    {
+      "id": "balansebom",
+      "name": "Balansebom",
+      "shareName": "en balansebom",
+      "emoji": null,
+      "description": "Du er fokusert, presis og har god kontroll. Du tar ett steg om gangen og kommer alltid fram.",
+      "funFact": "Balansebommen i turn er bare 10 centimeter bred.",
+      "image": "images/2026-11-27/balansebom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Holder blikket fremover."
+        },
+        {
+          "title": "Presis",
+          "text": "Ett steg om gangen."
+        },
+        {
+          "title": "Kontrollert",
+          "text": "Holder balansen."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Øver til det sitter."
+        }
+      ]
+    }
+  ]
+}

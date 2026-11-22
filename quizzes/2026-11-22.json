@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-22",
+  "date": "2026-11-22",
+  "title": "Hvilket arktisk dyr er du i dag?",
+  "intro": "Er du en rolig isbjørn, en sosial hvalross eller en lur polarrev? Svar på sju spørsmål og finn ut hvilket dyr fra det kalde nord du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags bok liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Krim",
+          "scores": {
+            "polarrev": 2,
+            "snougle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fantasy",
+          "scores": {
+            "narhval": 2,
+            "lemen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Biografi om en eventyrer",
+          "scores": {
+            "isbjorn": 2,
+            "rein": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Feelgood-roman",
+          "scores": {
+            "hvalross": 2,
+            "sel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Faktabok om naturen",
+          "scores": {
+            "rype": 2,
+            "moskus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tegneserie",
+          "scores": {
+            "lunde": 2,
+            "hvithval": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Vekkerklokka ringer. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står opp med en gang",
+          "scores": {
+            "rype": 2,
+            "rein": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trykker på slumre én gang til",
+          "scores": {
+            "hvalross": 2,
+            "sel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Var allerede våken før den ringte",
+          "scores": {
+            "snougle": 2,
+            "isbjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på musikk og kommer i gang",
+          "scores": {
+            "hvithval": 2,
+            "lunde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir liggende og tenker på dagen",
+          "scores": {
+            "narhval": 2,
+            "moskus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hopper ut av senga i full fart",
+          "scores": {
+            "lemen": 2,
+            "polarrev": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan reiser du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tog med fin utsikt",
+          "scores": {
+            "snougle": 2,
+            "narhval": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Båt langs kysten",
+          "scores": {
+            "hvalross": 1,
+            "lunde": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bil med venner",
+          "scores": {
+            "hvithval": 1,
+            "lemen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sykkel",
+          "scores": {
+            "rein": 2,
+            "polarrev": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til fots med sekk på ryggen",
+          "scores": {
+            "isbjorn": 1,
+            "rype": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fly, så jeg kommer raskt fram",
+          "scores": {
+            "lemen": 2,
+            "moskus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har sagt ja til to ting samme kveld. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier ærlig fra til den ene",
+          "scores": {
+            "isbjorn": 2,
+            "snougle": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver å rekke begge",
+          "scores": {
+            "lunde": 2,
+            "lemen": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Velger det jeg lovet først",
+          "scores": {
+            "rype": 2,
+            "moskus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør om vi kan slå dem sammen",
+          "scores": {
+            "hvalross": 2,
+            "hvithval": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner en lur løsning",
+          "scores": {
+            "polarrev": 2,
+            "rein": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Velger det som virker koseligst",
+          "scores": {
+            "sel": 2,
+            "narhval": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket stoff kjennes best mot huden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykk ull",
+          "scores": {
+            "moskus": 2,
+            "rype": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Myk fleece",
+          "scores": {
+            "sel": 2,
+            "hvalross": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Glatt silke",
+          "scores": {
+            "narhval": 2,
+            "hvithval": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lin",
+          "scores": {
+            "snougle": 2,
+            "polarrev": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bomull",
+          "scores": {
+            "rein": 2,
+            "lunde": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lett dun",
+          "scores": {
+            "isbjorn": 2,
+            "lemen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du står fast på en oppgave. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver igjen til det løsner",
+          "scores": {
+            "moskus": 2,
+            "isbjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør noen om hjelp",
+          "scores": {
+            "hvalross": 1,
+            "hvithval": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar en pause og går en tur",
+          "scores": {
+            "rein": 2,
+            "snougle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver en helt ny vei",
+          "scores": {
+            "polarrev": 2,
+            "narhval": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør noe annet og kommer tilbake senere",
+          "scores": {
+            "lemen": 2,
+            "sel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter opp en liten plan",
+          "scores": {
+            "rype": 2,
+            "lunde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bølger mot stranden",
+          "scores": {
+            "hvalross": 1,
+            "sel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knitring fra peisen",
+          "scores": {
+            "moskus": 2,
+            "isbjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fuglesang om morgenen",
+          "scores": {
+            "lunde": 2,
+            "snougle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Regn på taket",
+          "scores": {
+            "narhval": 2,
+            "rype": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Latter rundt bordet",
+          "scores": {
+            "hvithval": 2,
+            "lemen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snø som knaser under skoene",
+          "scores": {
+            "rein": 2,
+            "polarrev": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "isbjorn",
+      "name": "Isbjørn",
+      "shareName": "en isbjørn",
+      "emoji": null,
+      "description": "Du er rolig, sterk og klarer deg fint på egen hånd. Du tar ting i ditt eget tempo, men når du først bestemmer deg, er du ikke til å stoppe.",
+      "funFact": "Isbjørnen har svart hud under pelsen, og pelshårene er egentlig gjennomsiktige, ikke hvite.",
+      "image": "images/2026-11-22/isbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg fint alene."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt i uvær."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting i sitt tempo."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva den vil."
+        }
+      ]
+    },
+    {
+      "id": "hvalross",
+      "name": "Hvalross",
+      "shareName": "en hvalross",
+      "emoji": null,
+      "description": "Du er sosial, avslappet og elsker å ha folk rundt deg. Du vet at livet er best når man ligger tett sammen og koser seg.",
+      "funFact": "Hvalrossen bruker de lange støttennene til å dra seg opp på isen.",
+      "image": "images/2026-11-22/hvalross.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives best i flokk."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Koselig",
+          "text": "Elsker å kose seg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne plassen."
+        }
+      ]
+    },
+    {
+      "id": "polarrev",
+      "name": "Polarrev",
+      "shareName": "en polarrev",
+      "emoji": null,
+      "description": "Du er smart, lur og finner alltid en løsning. Du tilpasser deg raskt, uansett hva som skjer rundt deg.",
+      "funFact": "Polarreven skifter fra hvit vinterpels til brun eller grå sommerpels.",
+      "image": "images/2026-11-22/polarrev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker raskt og klart."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Trives i alle forhold."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Snuser på alt nytt."
+        }
+      ]
+    },
+    {
+      "id": "rein",
+      "name": "Reinsdyr",
+      "shareName": "et reinsdyr",
+      "emoji": null,
+      "description": "Du er utholdende, pålitelig og alltid på farten. Du trives i fellesskap og drar gjerne lasset når det trengs.",
+      "funFact": "Reinsdyr er det eneste hjortedyret der både hanner og hunner kan ha gevir.",
+      "image": "images/2026-11-22/rein.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Går og går."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Flokkdyr",
+          "text": "Sterkest sammen med andre."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på vei."
+        }
+      ]
+    },
+    {
+      "id": "moskus",
+      "name": "Moskus",
+      "shareName": "en moskus",
+      "emoji": null,
+      "description": "Du er trofast, tålmodig og passer godt på dem du er glad i. Du står støtt, uansett hvor kald vinden er.",
+      "funFact": "Moskusen har en myk underull som er blant de varmeste ullfibrene i verden.",
+      "image": "images/2026-11-22/moskus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder sammen med sine."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på de andre."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter rolig på sin tur."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "narhval",
+      "name": "Narhval",
+      "shareName": "en narhval",
+      "emoji": null,
+      "description": "Du er unik, drømmende og litt mystisk. Du ser verden på din egen måte, og det er det folk elsker med deg.",
+      "funFact": "Narhvalens lange spyd er egentlig en tann som vokser ut gjennom overleppen.",
+      "image": "images/2026-11-22/narhval.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Helt ulik alle andre."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har hodet fullt av ideer."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner sin egen vei."
+        }
+      ]
+    },
+    {
+      "id": "hvithval",
+      "name": "Hvithval",
+      "shareName": "en hvithval",
+      "emoji": null,
+      "description": "Du er pratsom, blid og elsker å synge og le. Der du er, blir det aldri helt stille.",
+      "funFact": "Hvithvalen kalles «havets kanarifugl» fordi den lager så mange ulike lyder.",
+      "image": "images/2026-11-22/hvithval.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å si."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler med hele ansiktet."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Synger seg gjennom dagen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        }
+      ]
+    },
+    {
+      "id": "snougle",
+      "name": "Snøugle",
+      "shareName": "en snøugle",
+      "emoji": null,
+      "description": "Du er rolig, klok og legger merke til alt. Du sier ikke så mye, men når du sier noe, lytter alle.",
+      "funFact": "Snøugla jakter gjerne om dagen, fordi det er lyst døgnet rundt om sommeren i Arktis.",
+      "image": "images/2026-11-22/snougle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før den snakker."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser alt som skjer."
+        },
+        {
+          "title": "Stille",
+          "text": "Liker rolige stunder."
+        },
+        {
+          "title": "Elegant",
+          "text": "Beveger seg lett."
+        }
+      ]
+    },
+    {
+      "id": "lunde",
+      "name": "Lundefugl",
+      "shareName": "en lundefugl",
+      "emoji": null,
+      "description": "Du er energisk, morsom og alltid i gang med noe. Du sprer glede rundt deg og får alle til å smile.",
+      "funFact": "Lundefuglen kan bære over ti småfisker i nebbet samtidig.",
+      "image": "images/2026-11-22/lunde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid i full fart."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Travel",
+          "text": "Har mye på gang."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp hverdagen."
+        }
+      ]
+    },
+    {
+      "id": "sel",
+      "name": "Grønlandssel",
+      "shareName": "en grønlandssel",
+      "emoji": null,
+      "description": "Du er leken, myk og nysgjerrig på alt rundt deg. Du tar ting som de kommer og finner glede i små ting.",
+      "funFact": "Ungene til grønlandsselen fødes med hvit, myk pels og kalles kvitunger.",
+      "image": "images/2026-11-22/sel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Gjør alt til moro."
+        },
+        {
+          "title": "Myk",
+          "text": "God og varm."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se hva som skjer."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Glad for små ting."
+        }
+      ]
+    },
+    {
+      "id": "rype",
+      "name": "Svalbardrype",
+      "shareName": "en svalbardrype",
+      "emoji": null,
+      "description": "Du er beskjeden, praktisk og tåler mer enn folk tror. Du gjør det som må gjøres, uten å lage noe nummer av det.",
+      "funFact": "Svalbardrypa er den eneste fuglen som bor fast på Svalbard hele året.",
+      "image": "images/2026-11-22/rype.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hardfør",
+          "text": "Tåler alt slags vær."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Gjør det som trengs."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liker ikke mye oppmerksomhet."
+        },
+        {
+          "title": "Trofast",
+          "text": "Blir der den hører hjemme."
+        }
+      ]
+    },
+    {
+      "id": "lemen",
+      "name": "Lemen",
+      "shareName": "et lemen",
+      "emoji": null,
+      "description": "Du er livlig, rask og full av overraskelser. Du kaster deg ut i ting og har alltid en ny plan på lur.",
+      "funFact": "Lemenbestanden svinger kraftig, og i såkalte lemenår kan det plutselig være enormt mange av dem.",
+      "image": "images/2026-11-22/lemen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Kan ikke sitte stille."
+        },
+        {
+          "title": "Rask",
+          "text": "Kjapp i hodet og beina."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hiver seg rundt."
+        },
+        {
+          "title": "Modig",
+          "text": "Liten, men tøff."
+        }
+      ]
+    }
+  ]
+}
