@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-14",
+  "date": "2026-12-14",
+  "title": "Hvilket vann er du i dag?",
+  "intro": "Er du en kraftig foss, en rolig innsjø eller en liten regndråpe? Svar på sju spørsmål og finn ut hvilket vann du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor skulle hytta di ligget?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved sjøen",
+          "scores": {
+            "hav": 2,
+            "bolge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høyt til fjells",
+          "scores": {
+            "isbre": 2,
+            "foss": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I skogen ved et lite vann",
+          "scores": {
+            "innsjo": 1,
+            "dam": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Innerst i en fjord",
+          "scores": {
+            "fjord": 2,
+            "elv": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Helt for meg selv i villmarka",
+          "scores": {
+            "kilde": 2,
+            "dugg": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I et hyttefelt med mange folk",
+          "scores": {
+            "bekk": 1,
+            "regndrape": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilket kjøretøy ville du kjørt i én dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Traktor",
+          "scores": {
+            "dam": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Brannbil",
+          "scores": {
+            "foss": 2,
+            "bolge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Båt",
+          "scores": {
+            "hav": 2,
+            "fjord": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fly",
+          "scores": {
+            "kilde": 2,
+            "isbre": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tog",
+          "scores": {
+            "elv": 2,
+            "innsjo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snøscooter",
+          "scores": {
+            "regndrape": 2,
+            "dugg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan forbereder du deg til en prøve eller et viktig møte?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser litt hver dag i god tid",
+          "scores": {
+            "isbre": 1,
+            "elv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar alt kvelden før",
+          "scores": {
+            "foss": 2,
+            "bolge": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager fargerike notater",
+          "scores": {
+            "bekk": 2,
+            "regndrape": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Øver sammen med andre",
+          "scores": {
+            "dam": 2,
+            "hav": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går gjennom alt i hodet i ro og fred",
+          "scores": {
+            "innsjo": 1,
+            "dugg": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stoler på at jeg kan det",
+          "scores": {
+            "fjord": 1,
+            "kilde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket krydder bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Salt og pepper",
+          "scores": {
+            "kilde": 2,
+            "elv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kanel",
+          "scores": {
+            "dam": 2,
+            "dugg": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Chili",
+          "scores": {
+            "foss": 1,
+            "bolge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hvitløk",
+          "scores": {
+            "fjord": 2,
+            "hav": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Basilikum",
+          "scores": {
+            "bekk": 2,
+            "regndrape": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Dill",
+          "scores": {
+            "innsjo": 1,
+            "isbre": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har lyst på noe, men det er ganske dyrt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sparer litt hver måned",
+          "scores": {
+            "isbre": 2,
+            "elv": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøper det med en gang",
+          "scores": {
+            "foss": 1,
+            "bolge": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner noe brukt",
+          "scores": {
+            "kilde": 1,
+            "dam": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ønsker meg det til bursdag eller jul",
+          "scores": {
+            "dugg": 2,
+            "regndrape": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om noen vil spleise",
+          "scores": {
+            "hav": 1,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter og ser om jeg fortsatt vil ha det",
+          "scores": {
+            "innsjo": 2,
+            "fjord": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken del av Norge vil du helst reise til?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nord-Norge med nordlys",
+          "scores": {
+            "isbre": 2,
+            "fjord": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vestlandet med fjorder og fosser",
+          "scores": {
+            "foss": 2,
+            "kilde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sørlandet med skjærgård",
+          "scores": {
+            "hav": 1,
+            "bolge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Østlandet med skog og vann",
+          "scores": {
+            "innsjo": 2,
+            "dam": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Trøndelag",
+          "scores": {
+            "elv": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fjellet midt i landet",
+          "scores": {
+            "dugg": 2,
+            "regndrape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med julekort?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skriver mange for hånd",
+          "scores": {
+            "isbre": 1,
+            "dugg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sender digitale hilsener",
+          "scores": {
+            "bolge": 2,
+            "foss": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager dem selv",
+          "scores": {
+            "bekk": 2,
+            "kilde": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sender til de aller nærmeste",
+          "scores": {
+            "innsjo": 2,
+            "dam": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henger opp alle jeg får",
+          "scores": {
+            "fjord": 2,
+            "regndrape": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Glemmer det hvert år",
+          "scores": {
+            "hav": 2,
+            "elv": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "foss",
+      "name": "Foss",
+      "shareName": "en foss",
+      "emoji": null,
+      "description": "Du er energisk, kraftfull og umulig å overse. Når du setter i gang, skjer det mye på kort tid.",
+      "funFact": "Vettisfossen i Luster er en av Norges høyeste fosser med fritt fall.",
+      "image": "images/2026-12-14/foss.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Imponerende",
+          "text": "Får folk til å stoppe."
+        },
+        {
+          "title": "Modig",
+          "text": "Kaster seg utfor."
+        }
+      ]
+    },
+    {
+      "id": "bekk",
+      "name": "Bekk",
+      "shareName": "en bekk",
+      "emoji": null,
+      "description": "Du er leken, glad og prater gjerne litt hele tiden. Du sprer liv der du kommer.",
+      "funFact": "Mange bekker som renner sammen, kan til slutt bli en stor elv.",
+      "image": "images/2026-12-14/bekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper over steiner."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler hele tiden."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Bobler av ord."
+        },
+        {
+          "title": "Livlig",
+          "text": "Alltid i bevegelse."
+        }
+      ]
+    },
+    {
+      "id": "innsjo",
+      "name": "Innsjø",
+      "shareName": "en innsjø",
+      "emoji": null,
+      "description": "Du er rolig, dyp og trygg. Folk finner ro når de er sammen med deg.",
+      "funFact": "Mjøsa er Norges største innsjø.",
+      "image": "images/2026-12-14/innsjo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Helt blank."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer enn man ser."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være ved."
+        },
+        {
+          "title": "Speilende",
+          "text": "Ser andre klart."
+        }
+      ]
+    },
+    {
+      "id": "hav",
+      "name": "Hav",
+      "shareName": "et hav",
+      "emoji": null,
+      "description": "Du er stor, fri og elsker eventyr. Det er alltid mer å oppdage hos deg.",
+      "funFact": "Havet dekker omtrent 70 prosent av jordas overflate.",
+      "image": "images/2026-12-14/hav.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Ingen grenser."
+        },
+        {
+          "title": "Dyp",
+          "text": "Full av hemmeligheter."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Raus",
+          "text": "Plass til alle."
+        }
+      ]
+    },
+    {
+      "id": "fjord",
+      "name": "Fjord",
+      "shareName": "en fjord",
+      "emoji": null,
+      "description": "Du er stolt, dyp og litt dramatisk på en fin måte. Du gjør inntrykk på alle som møter deg.",
+      "funFact": "Sognefjorden er Norges lengste og dypeste fjord.",
+      "image": "images/2026-12-14/fjord.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Står for deg selv."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker grundig."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Gjør inntrykk."
+        },
+        {
+          "title": "Norsk",
+          "text": "Kjenner sine røtter."
+        }
+      ]
+    },
+    {
+      "id": "isbre",
+      "name": "Isbre",
+      "shareName": "en isbre",
+      "emoji": null,
+      "description": "Du er tålmodig, sterk og beveger deg i ditt eget tempo. Når du først bestemmer deg, flytter du fjell.",
+      "funFact": "Jostedalsbreen er den største isbreen på fastlandet i Europa.",
+      "image": "images/2026-12-14/isbre.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Sterk",
+          "text": "Flytter fjell."
+        },
+        {
+          "title": "Kjølig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        }
+      ]
+    },
+    {
+      "id": "regndrape",
+      "name": "Regndråpe",
+      "shareName": "en regndråpe",
+      "emoji": null,
+      "description": "Du er liten, frisk og leken. Du gjør store ting sammen med mange andre.",
+      "funFact": "Regndråper er egentlig ikke dråpeformet, men nesten runde som små kuler.",
+      "image": "images/2026-12-14/regndrape.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir nytt liv."
+        },
+        {
+          "title": "Leken",
+          "text": "Danser ned."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sterk sammen med andre."
+        }
+      ]
+    },
+    {
+      "id": "dugg",
+      "name": "Dugg",
+      "shareName": "dugg",
+      "emoji": null,
+      "description": "Du er myk, stille og glad i morgenstunden. Du legger merke til det fine som andre går forbi.",
+      "funFact": "Dugg dannes når lufta kjøles ned om natta, og vanndamp blir til små dråper.",
+      "image": "images/2026-12-14/dugg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stille",
+          "text": "Kommer uten lyd."
+        },
+        {
+          "title": "Myk",
+          "text": "Forsiktig og snill."
+        },
+        {
+          "title": "Morgenfugl",
+          "text": "Glad i morgenen."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser de små tingene."
+        }
+      ]
+    },
+    {
+      "id": "kilde",
+      "name": "Kilde",
+      "shareName": "en kilde",
+      "emoji": null,
+      "description": "Du er ekte, original og full av ideer. Andre henter inspirasjon fra deg.",
+      "funFact": "Kildevann har ofte blitt filtrert gjennom stein og jord i lang tid.",
+      "image": "images/2026-12-14/kilde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Original",
+          "text": "Kommer med ideene."
+        },
+        {
+          "title": "Ren",
+          "text": "Ærlig og åpen."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Gir andre energi."
+        }
+      ]
+    },
+    {
+      "id": "elv",
+      "name": "Elv",
+      "shareName": "en elv",
+      "emoji": null,
+      "description": "Du er målrettet og utholdende, og du er alltid på vei mot noe. Ingenting stopper deg lenge.",
+      "funFact": "Glomma er Norges lengste elv.",
+      "image": "images/2026-12-14/elv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Vet hvor du skal."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Fortsetter alltid."
+        },
+        {
+          "title": "Stødig",
+          "text": "Jevnt og trutt."
+        },
+        {
+          "title": "Fri",
+          "text": "Finner egen vei."
+        }
+      ]
+    },
+    {
+      "id": "dam",
+      "name": "Dam",
+      "shareName": "en dam",
+      "emoji": null,
+      "description": "Du er koselig, hjemmekjær og samler liv rundt deg. Hos deg trives alle.",
+      "funFact": "I en dam kan en frosk legge over tusen egg på én gang.",
+      "image": "images/2026-12-14/dam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Trives hjemme."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på livet rundt."
+        }
+      ]
+    },
+    {
+      "id": "bolge",
+      "name": "Bølge",
+      "shareName": "en bølge",
+      "emoji": null,
+      "description": "Du er sosial og energisk, og du kommer alltid tilbake. Med deg blir det aldri kjedelig.",
+      "funFact": "De fleste bølger på havet lages av vinden.",
+      "image": "images/2026-12-14/bolge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Tar med alle."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av fart."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer alltid tilbake."
+        }
+      ]
+    }
+  ]
+}

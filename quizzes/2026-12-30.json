@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-30",
+  "date": "2026-12-30",
+  "title": "Hvilken måned er du i dag?",
+  "intro": "Året er snart over, og et nytt står for døren. Er du en frisk januar, en festlig mai eller en koselig oktober? Svar på sju spørsmål og finn ut hvilken måned du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan vil du helst feire bursdagen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stor fest med mange folk",
+          "scores": {
+            "mai": 2,
+            "juni": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Middag med de nærmeste",
+          "scores": {
+            "desember": 2,
+            "oktober": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En tur eller utflukt",
+          "scores": {
+            "juli": 1,
+            "august": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe rolig hjemme",
+          "scores": {
+            "november": 2,
+            "februar": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe overraskende",
+          "scores": {
+            "april": 2,
+            "mars": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En aktivitet, som bowling eller klatring",
+          "scores": {
+            "januar": 1,
+            "september": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en ny kalender for neste år. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fyller inn alle bursdager med en gang",
+          "scores": {
+            "september": 2,
+            "desember": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager mål for hver måned",
+          "scores": {
+            "januar": 2,
+            "mars": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pynter den med klistremerker og farger",
+          "scores": {
+            "april": 2,
+            "mai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skriver inn ferier og turer",
+          "scores": {
+            "juli": 2,
+            "juni": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henger den opp og glemmer den",
+          "scores": {
+            "november": 2,
+            "august": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver bare inn det aller viktigste",
+          "scores": {
+            "februar": 1,
+            "oktober": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor ville du helst reist neste år?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Til en storby jeg aldri har sett",
+          "scores": {
+            "mai": 2,
+            "april": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til en varm strand",
+          "scores": {
+            "juli": 2,
+            "august": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På fjellet i Norge",
+          "scores": {
+            "februar": 2,
+            "januar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en lang togreise i Europa",
+          "scores": {
+            "september": 2,
+            "oktober": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til nordlyset i nord",
+          "scores": {
+            "desember": 2,
+            "november": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt ukjent, jeg lar tilfeldighetene bestemme",
+          "scores": {
+            "juni": 2,
+            "mars": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er kaldt og mørkt, men du har lovet deg selv å trene. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kommer meg ut uansett",
+          "scores": {
+            "januar": 2,
+            "februar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trener inne i stedet",
+          "scores": {
+            "november": 2,
+            "september": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar med en venn så det blir hyggeligere",
+          "scores": {
+            "mai": 1,
+            "juni": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på god musikk og kjører på",
+          "scores": {
+            "mars": 2,
+            "april": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Flytter det til i morgen",
+          "scores": {
+            "juli": 2,
+            "oktober": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går en rolig tur i stedet",
+          "scores": {
+            "august": 2,
+            "desember": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva vil du helst lære deg neste år?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et nytt språk",
+          "scores": {
+            "september": 2,
+            "januar": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et instrument",
+          "scores": {
+            "oktober": 2,
+            "november": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å lage mat fra et annet land",
+          "scores": {
+            "august": 2,
+            "desember": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En ny idrett",
+          "scores": {
+            "mars": 2,
+            "februar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å danse",
+          "scores": {
+            "mai": 1,
+            "april": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å seile eller padle",
+          "scores": {
+            "juli": 1,
+            "juni": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har ventet lenge på noe som endelig kommer. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper av glede",
+          "scores": {
+            "mai": 2,
+            "april": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nyter det i ro og fred",
+          "scores": {
+            "november": 1,
+            "oktober": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller det til alle",
+          "scores": {
+            "juni": 2,
+            "mars": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier at det var verdt å vente",
+          "scores": {
+            "februar": 2,
+            "september": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Planlegger allerede neste ting",
+          "scores": {
+            "januar": 2,
+            "august": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Deler det med de nærmeste",
+          "scores": {
+            "desember": 2,
+            "juli": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du helst de siste dagene i året?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenker tilbake på året som har gått",
+          "scores": {
+            "november": 2,
+            "desember": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder og gjør klart til det nye året",
+          "scores": {
+            "september": 2,
+            "januar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Koser meg med rester og spill",
+          "scores": {
+            "oktober": 2,
+            "februar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Er ute i snøen så mye som mulig",
+          "scores": {
+            "mars": 2,
+            "februar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Treffer venner jeg ikke har sett på lenge",
+          "scores": {
+            "mai": 2,
+            "juni": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør så lite som mulig",
+          "scores": {
+            "juli": 2,
+            "august": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "januar",
+      "name": "Januar",
+      "shareName": "januar",
+      "emoji": null,
+      "description": "Du er frisk, målrettet og elsker en ny start. Du ser både bakover og fremover.",
+      "funFact": "Januar er oppkalt etter den romerske guden Janus, som hadde to ansikter: ett som så bakover og ett som så fremover.",
+      "image": "images/2026-12-30/januar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Klar for nye mål."
+        },
+        {
+          "title": "Frisk",
+          "text": "Som kald luft."
+        },
+        {
+          "title": "Fersk",
+          "text": "Elsker blanke ark."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        }
+      ]
+    },
+    {
+      "id": "februar",
+      "name": "Februar",
+      "shareName": "februar",
+      "emoji": null,
+      "description": "Du er seig, vinterglad og koselig. Du er kanskje kort, men du gjør inntrykk.",
+      "funFact": "Februar har 29 dager i skuddår.",
+      "image": "images/2026-12-30/februar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Holder ut."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Elsker snø."
+        },
+        {
+          "title": "Koselig",
+          "text": "Varmer på kalde dager."
+        },
+        {
+          "title": "Intens",
+          "text": "Kort, men full."
+        }
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "shareName": "mars",
+      "emoji": null,
+      "description": "Du er energisk, optimistisk og full av nye krefter. Du merker våren før alle andre.",
+      "funFact": "Mars er oppkalt etter den romerske krigsguden Mars.",
+      "image": "images/2026-12-30/mars.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Våkner til liv."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Ser lyset."
+        },
+        {
+          "title": "Sterk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på våren."
+        }
+      ]
+    },
+    {
+      "id": "april",
+      "name": "April",
+      "shareName": "april",
+      "emoji": null,
+      "description": "Du er leken, uforutsigbar og morsom. Ingen vet helt hva du finner på.",
+      "funFact": "1. april feires som aprilsnarr med spøk og tull.",
+      "image": "images/2026-12-30/april.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker spøk."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Sol og snø."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Alltid noe nytt."
+        }
+      ]
+    },
+    {
+      "id": "mai",
+      "name": "Mai",
+      "shareName": "mai",
+      "emoji": null,
+      "description": "Du er festlig, stolt og fargerik. Du får alle ut i gatene.",
+      "funFact": "17. mai er Norges nasjonaldag.",
+      "image": "images/2026-12-30/mai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Full av blomster."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        }
+      ]
+    },
+    {
+      "id": "juni",
+      "name": "Juni",
+      "shareName": "juni",
+      "emoji": null,
+      "description": "Du er lys, glad og eventyrlysten. Med deg varer kveldene lenge.",
+      "funFact": "I juni er det midnattssol i Nord-Norge.",
+      "image": "images/2026-12-30/juni.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Skinner hele natta."
+        },
+        {
+          "title": "Glad",
+          "text": "Full av sommer."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir energi."
+        }
+      ]
+    },
+    {
+      "id": "juli",
+      "name": "Juli",
+      "shareName": "juli",
+      "emoji": null,
+      "description": "Du er avslappet, solfylt og fri. Du vet hvordan man nyter livet.",
+      "funFact": "Juli er oppkalt etter Julius Cæsar.",
+      "image": "images/2026-12-30/juli.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ferie i blodet."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Sprer varme."
+        },
+        {
+          "title": "Fri",
+          "text": "Ingen planer."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar livet med ro."
+        }
+      ]
+    },
+    {
+      "id": "august",
+      "name": "August",
+      "shareName": "august",
+      "emoji": null,
+      "description": "Du er moden, raus og varm. Du deler gjerne av det du har.",
+      "funFact": "August er oppkalt etter den romerske keiseren Augustus.",
+      "image": "images/2026-12-30/august.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler av alt."
+        },
+        {
+          "title": "Moden",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Varm",
+          "text": "Lune kvelder."
+        },
+        {
+          "title": "Takknemlig",
+          "text": "Ser det gode."
+        }
+      ]
+    },
+    {
+      "id": "september",
+      "name": "September",
+      "shareName": "september",
+      "emoji": null,
+      "description": "Du er ordentlig, rolig og glad i en ny start. Du liker når ting kommer på plass.",
+      "funFact": "Navnet september betyr «den sjuende måneden», fordi det romerske året en gang startet i mars.",
+      "image": "images/2026-12-30/september.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Fornyet",
+          "text": "Klar for høsten."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "oktober",
+      "name": "Oktober",
+      "shareName": "oktober",
+      "emoji": null,
+      "description": "Du er koselig, fargerik og stemningsfull. Du elsker levende lys og gode samtaler.",
+      "funFact": "Oktober kommer av det latinske ordet for åtte.",
+      "image": "images/2026-12-30/oktober.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Lys og pledd."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Gule og røde blader."
+        },
+        {
+          "title": "Stemningsfull",
+          "text": "Litt mystisk."
+        },
+        {
+          "title": "Varm",
+          "text": "Gode samtaler."
+        }
+      ]
+    },
+    {
+      "id": "november",
+      "name": "November",
+      "shareName": "november",
+      "emoji": null,
+      "description": "Du er rolig, ettertenksom og innadvendt. Du finner ro når andre stresser.",
+      "funFact": "November kommer av det latinske ordet for ni.",
+      "image": "images/2026-12-30/november.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Liker stillheten."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på lyset."
+        },
+        {
+          "title": "Innadvendt",
+          "text": "Trives inne."
+        }
+      ]
+    },
+    {
+      "id": "desember",
+      "name": "Desember",
+      "shareName": "desember",
+      "emoji": null,
+      "description": "Du er festlig, gavmild og glad i tradisjoner. Du lyser opp den mørkeste tiden.",
+      "funFact": "I desember kommer vintersolverv, årets korteste dag.",
+      "image": "images/2026-12-30/desember.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lyser opp mørket."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Gir til andre."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker gamle skikker."
+        },
+        {
+          "title": "Varm",
+          "text": "Samler familien."
+        }
+      ]
+    }
+  ]
+}

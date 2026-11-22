@@ -1,0 +1,584 @@
+{
+  "id": "2026-12-17",
+  "date": "2026-12-17",
+  "title": "Hvilken ukedag er du i dag?",
+  "intro": "Er du en målrettet mandag, en festlig fredag eller en rolig søndag? Svar på sju spørsmål og finn ut hvilken dag i uka du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken forestilling ville du helst sett?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En musikal",
+          "scores": {
+            "fredag": 2,
+            "torsdag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En komedie",
+          "scores": {
+            "lordag": 2,
+            "fredag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ballett",
+          "scores": {
+            "onsdag": 2,
+            "sondag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Opera",
+          "scores": {
+            "tirsdag": 2,
+            "onsdag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Revy",
+          "scores": {
+            "torsdag": 2,
+            "lordag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et spennende drama",
+          "scores": {
+            "mandag": 1,
+            "tirsdag": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har glemt bursdagen til en venn. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringer med en gang og sier unnskyld",
+          "scores": {
+            "mandag": 2,
+            "tirsdag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Planlegger en ekstra fin overraskelse",
+          "scores": {
+            "torsdag": 2,
+            "fredag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender en morsom melding",
+          "scores": {
+            "lordag": 2,
+            "fredag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier ærlig at jeg glemte det",
+          "scores": {
+            "onsdag": 2,
+            "mandag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Inviterer på middag",
+          "scores": {
+            "sondag": 1,
+            "torsdag": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager et kort selv",
+          "scores": {
+            "sondag": 2,
+            "onsdag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva er det beste med vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snø og skiturer",
+          "scores": {
+            "lordag": 2,
+            "mandag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Levende lys og kos",
+          "scores": {
+            "sondag": 2,
+            "onsdag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Julen",
+          "scores": {
+            "fredag": 2,
+            "torsdag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kalde, klare dager",
+          "scores": {
+            "tirsdag": 2,
+            "mandag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Varm kakao etter en tur ute",
+          "scores": {
+            "lordag": 2,
+            "sondag": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "At dagene blir lengre etter jul",
+          "scores": {
+            "onsdag": 2,
+            "tirsdag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er første dag på en ny skole eller jobb. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Møter opp i god tid og godt forberedt",
+          "scores": {
+            "mandag": 2,
+            "tirsdag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prater med alle",
+          "scores": {
+            "fredag": 2,
+            "torsdag": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder meg litt i bakgrunnen",
+          "scores": {
+            "sondag": 2,
+            "onsdag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spent og nysgjerrig",
+          "scores": {
+            "lordag": 2,
+            "torsdag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner én person å holde meg til",
+          "scores": {
+            "onsdag": 2,
+            "sondag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør jobben og følger med",
+          "scores": {
+            "tirsdag": 2,
+            "mandag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva er det beste tilbehøret til middag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ris",
+          "scores": {
+            "onsdag": 2,
+            "mandag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pasta",
+          "scores": {
+            "fredag": 2,
+            "lordag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Poteter",
+          "scores": {
+            "tirsdag": 2,
+            "sondag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Godt brød",
+          "scores": {
+            "torsdag": 2,
+            "sondag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stor salat",
+          "scores": {
+            "mandag": 1,
+            "tirsdag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pommes frites",
+          "scores": {
+            "fredag": 2,
+            "lordag": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du må stå opp ekstra tidlig. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står opp med en gang",
+          "scores": {
+            "mandag": 2,
+            "tirsdag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Slumrer mange ganger",
+          "scores": {
+            "sondag": 2,
+            "fredag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Legger meg tidlig kvelden før",
+          "scores": {
+            "tirsdag": 2,
+            "onsdag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Liker en tidlig start",
+          "scores": {
+            "mandag": 2,
+            "lordag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Trenger mye kaffe eller te",
+          "scores": {
+            "torsdag": 2,
+            "fredag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sover litt ekstra på bussen",
+          "scores": {
+            "sondag": 2,
+            "lordag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor langt har du kommet med julegavene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle er kjøpt og pakket",
+          "scores": {
+            "mandag": 2,
+            "tirsdag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg har fått kjøpt de fleste",
+          "scores": {
+            "onsdag": 2,
+            "torsdag": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg har ikke begynt",
+          "scores": {
+            "fredag": 2,
+            "lordag": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lager de fleste selv",
+          "scores": {
+            "sondag": 2,
+            "onsdag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg kjøper alt på én stor handletur",
+          "scores": {
+            "lordag": 2,
+            "torsdag": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg gir heller opplevelser",
+          "scores": {
+            "fredag": 2,
+            "sondag": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "mandag",
+      "name": "Mandag",
+      "shareName": "mandag",
+      "emoji": null,
+      "description": "Du er målrettet, full av planer og elsker en ny start. Du får ting i gang når andre fortsatt sover.",
+      "funFact": "Mandag er oppkalt etter månen.",
+      "image": "images/2026-12-17/mandag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Har en plan."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Fersk",
+          "text": "Elsker blanke ark."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Tar tak."
+        }
+      ]
+    },
+    {
+      "id": "tirsdag",
+      "name": "Tirsdag",
+      "shareName": "tirsdag",
+      "emoji": null,
+      "description": "Du er stødig, flittig og får mye gjort uten å lage noe nummer av det. Du er den alle kan regne med.",
+      "funFact": "Tirsdag er oppkalt etter guden Ty i norrøn mytologi.",
+      "image": "images/2026-12-17/tirsdag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Jevnt og trutt."
+        },
+        {
+          "title": "Flittig",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Ingen stor stas."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "onsdag",
+      "name": "Onsdag",
+      "shareName": "onsdag",
+      "emoji": null,
+      "description": "Du er klok, balansert og finner alltid midten. Du ser både fram og tilbake.",
+      "funFact": "Onsdag er oppkalt etter Odin.",
+      "image": "images/2026-12-17/onsdag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Balansert",
+          "text": "Finner midten."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen panikk."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Ser alle sider."
+        }
+      ]
+    },
+    {
+      "id": "torsdag",
+      "name": "Torsdag",
+      "shareName": "torsdag",
+      "emoji": null,
+      "description": "Du er sterk, forventningsfull og gleder deg til det som kommer. Du får energien til å stige rundt deg.",
+      "funFact": "Torsdag er oppkalt etter tordenguden Tor.",
+      "image": "images/2026-12-17/torsdag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Som tordenguden."
+        },
+        {
+          "title": "Forventningsfull",
+          "text": "Gleder seg."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        }
+      ]
+    },
+    {
+      "id": "fredag",
+      "name": "Fredag",
+      "shareName": "fredag",
+      "emoji": null,
+      "description": "Du er festlig, glad og elsker å samle venner. Med deg føles alt litt lettere.",
+      "funFact": "Fredag er trolig oppkalt etter gudinnen Frigg.",
+      "image": "images/2026-12-17/fredag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker venner."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        }
+      ]
+    },
+    {
+      "id": "lordag",
+      "name": "Lørdag",
+      "shareName": "lørdag",
+      "emoji": null,
+      "description": "Du er aktiv, eventyrlysten og fri. Du fyller dagene med opplevelser.",
+      "funFact": "Navnet lørdag kommer av et gammelt ord som betyr vaskedag.",
+      "image": "images/2026-12-17/lordag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil oppleve mye."
+        },
+        {
+          "title": "Fri",
+          "text": "Gjør det du vil."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        }
+      ]
+    },
+    {
+      "id": "sondag",
+      "name": "Søndag",
+      "shareName": "søndag",
+      "emoji": null,
+      "description": "Du er rolig, hjemmekjær og flink til å kose deg. Folk lader batteriene når de er med deg.",
+      "funFact": "Søndag er oppkalt etter sola.",
+      "image": "images/2026-12-17/sondag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det fint."
+        },
+        {
+          "title": "Varm",
+          "text": "Som en solstråle."
+        }
+      ]
+    }
+  ]
+}

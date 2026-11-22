@@ -1,0 +1,668 @@
+{
+  "id": "2026-12-08",
+  "date": "2026-12-08",
+  "title": "Hvilket smykke er du i dag?",
+  "intro": "Er du en trofast ring, et elegant perlekjede eller en glitrende tiara? Svar på sju spørsmål og finn ut hvilket smykke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken bil ville du helst hatt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En liten, rund bybil",
+          "scores": {
+            "oredobber": 2,
+            "armband": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor familiebil med plass til alle",
+          "scores": {
+            "ring": 2,
+            "halskjede": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En gammel veteranbil",
+          "scores": {
+            "brosje": 2,
+            "medaljong": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En elegant sportsbil",
+          "scores": {
+            "tiara": 2,
+            "mansjettknapp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stille elbil",
+          "scores": {
+            "perlekjede": 2,
+            "ring": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En bobil",
+          "scores": {
+            "ankelkjede": 1,
+            "oredobber": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du ser at en eldre person strever med tunge poser. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tilbyr meg å bære med en gang",
+          "scores": {
+            "armband": 2,
+            "ring": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør forsiktig om de vil ha hjelp",
+          "scores": {
+            "perlekjede": 2,
+            "medaljong": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder døra og smiler",
+          "scores": {
+            "mansjettknapp": 2,
+            "halskjede": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Henter noen som kan hjelpe",
+          "scores": {
+            "brosje": 2,
+            "mansjettknapp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bærer og prater hele veien",
+          "scores": {
+            "oredobber": 1,
+            "tiara": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjelper til og går videre",
+          "scores": {
+            "ankelkjede": 1,
+            "perlekjede": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken sjømat liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reker på brygga",
+          "scores": {
+            "ankelkjede": 2,
+            "armband": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Laks",
+          "scores": {
+            "ring": 1,
+            "perlekjede": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fiskekaker",
+          "scores": {
+            "brosje": 2,
+            "medaljong": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sushi",
+          "scores": {
+            "mansjettknapp": 2,
+            "oredobber": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kongekrabbe",
+          "scores": {
+            "tiara": 2,
+            "halskjede": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fiskepinner",
+          "scores": {
+            "oredobber": 1,
+            "ankelkjede": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har sagt noe dumt til en venn. Hvordan sier du unnskyld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier det rett ut med en gang",
+          "scores": {
+            "ring": 2,
+            "mansjettknapp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver en lang melding",
+          "scores": {
+            "medaljong": 2,
+            "halskjede": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper noe lite og fint",
+          "scores": {
+            "tiara": 2,
+            "brosje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir en god klem",
+          "scores": {
+            "armband": 2,
+            "oredobber": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter litt og tar det opp i ro",
+          "scores": {
+            "perlekjede": 2,
+            "medaljong": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Inviterer på noe hyggelig",
+          "scores": {
+            "ankelkjede": 1,
+            "tiara": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva har du på beina når du er inne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ullsokker",
+          "scores": {
+            "medaljong": 2,
+            "perlekjede": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tøfler",
+          "scores": {
+            "ring": 1,
+            "brosje": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting, jeg går barbeint",
+          "scores": {
+            "ankelkjede": 2,
+            "oredobber": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sokker med morsomt mønster",
+          "scores": {
+            "armband": 2,
+            "tiara": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Innesko",
+          "scores": {
+            "mansjettknapp": 2,
+            "ring": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Myke sokker med sklisikker såle",
+          "scores": {
+            "halskjede": 2,
+            "brosje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal skrive et kort til noen. Hva skriver du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et lite dikt",
+          "scores": {
+            "medaljong": 2,
+            "tiara": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe morsomt",
+          "scores": {
+            "oredobber": 2,
+            "armband": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kort og hjertelig hilsen",
+          "scores": {
+            "ring": 1,
+            "perlekjede": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tegner noe i stedet",
+          "scores": {
+            "ankelkjede": 2,
+            "brosje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mange fine minner vi har sammen",
+          "scores": {
+            "halskjede": 2,
+            "medaljong": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det samme fine som jeg alltid skriver",
+          "scores": {
+            "mansjettknapp": 2,
+            "ring": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan ser ønskelisten din ut i år?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang og detaljert",
+          "scores": {
+            "mansjettknapp": 2,
+            "tiara": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kort, jeg trenger ikke så mye",
+          "scores": {
+            "perlekjede": 2,
+            "ring": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare opplevelser",
+          "scores": {
+            "ankelkjede": 2,
+            "armband": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ønsker meg noe hjemmelaget",
+          "scores": {
+            "brosje": 2,
+            "medaljong": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg glemmer alltid å lage en",
+          "scores": {
+            "oredobber": 2,
+            "ankelkjede": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tenker mest på hva jeg skal gi",
+          "scores": {
+            "halskjede": 2,
+            "armband": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ring",
+      "name": "Ring",
+      "shareName": "en ring",
+      "emoji": null,
+      "description": "Du er trofast, lojal og holder det du lover. Folk vet at de kan regne med deg i lang tid.",
+      "funFact": "I Norge bærer mange gifteringen på høyre hånd, mens den i mange andre land bæres på venstre.",
+      "image": "images/2026-12-08/ring.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved sine."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Går aldri av moten."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "halskjede",
+      "name": "Halskjede",
+      "shareName": "et halskjede",
+      "emoji": null,
+      "description": "Du er varm, sjarmerende og har hjertet på rett sted. Du får folk til å føle seg sett.",
+      "funFact": "Mennesker har laget halskjeder av skjell i mer enn 100 000 år.",
+      "image": "images/2026-12-08/halskjede.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Nær hjertet."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid stilfull."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Ser andre."
+        }
+      ]
+    },
+    {
+      "id": "oredobber",
+      "name": "Øredobber",
+      "shareName": "øredobber",
+      "emoji": null,
+      "description": "Du er leken, livlig og en god lytter. Du har alltid litt glitter å by på.",
+      "funFact": "Hull i ørene er en av de eldste kjente måtene å pynte seg på.",
+      "image": "images/2026-12-08/oredobber.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører hva folk sier."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Lyser opp rommet."
+        }
+      ]
+    },
+    {
+      "id": "armband",
+      "name": "Vennskapsarmbånd",
+      "shareName": "et vennskapsarmbånd",
+      "emoji": null,
+      "description": "Du er sosial, omtenksom og setter venner høyest. Du binder folk sammen.",
+      "funFact": "Vennskapsarmbånd byttes gjerne mellom venner og knytes fast rundt håndleddet.",
+      "image": "images/2026-12-08/armband.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Venner betyr mest."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker alle."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "brosje",
+      "name": "Sølje",
+      "shareName": "en sølje",
+      "emoji": null,
+      "description": "Du er stolt av røttene dine, original og glad i tradisjoner. Du har alltid en historie å fortelle.",
+      "funFact": "Søljer er brosjer som brukes til bunad i Norge.",
+      "image": "images/2026-12-08/brosje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker gamle skikker."
+        },
+        {
+          "title": "Stolt",
+          "text": "Kjenner sine røtter."
+        },
+        {
+          "title": "Original",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har mange historier."
+        }
+      ]
+    },
+    {
+      "id": "ankelkjede",
+      "name": "Ankelkjede",
+      "shareName": "et ankelkjede",
+      "emoji": null,
+      "description": "Du er avslappet, fri og alltid klar for sommer. Du tar ting som de kommer.",
+      "funFact": "Ankelkjeder har vært brukt i India i flere tusen år, ofte med små bjeller.",
+      "image": "images/2026-12-08/ankelkjede.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Fri",
+          "text": "Går dit du vil."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Sprer sommerstemning."
+        }
+      ]
+    },
+    {
+      "id": "mansjettknapp",
+      "name": "Mansjettknapper",
+      "shareName": "mansjettknapper",
+      "emoji": null,
+      "description": "Du er ordentlig, presis og har sans for detaljer. Du gjør alltid ting skikkelig.",
+      "funFact": "Mansjettknapper ble populære på 1800-tallet.",
+      "image": "images/2026-12-08/mansjettknapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Har orden på alt."
+        },
+        {
+          "title": "Presis",
+          "text": "Alltid i tide."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Ser detaljene."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder hva du lover."
+        }
+      ]
+    },
+    {
+      "id": "medaljong",
+      "name": "Medaljong",
+      "shareName": "en medaljong",
+      "emoji": null,
+      "description": "Du er sentimental, omsorgsfull og tar vare på minner. Det er mer i deg enn det folk ser med en gang.",
+      "funFact": "En medaljong kan åpnes, og har ofte et lite bilde inni.",
+      "image": "images/2026-12-08/medaljong.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sentimental",
+          "text": "Tar vare på minner."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på dem du liker."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Har noe inni."
+        },
+        {
+          "title": "Trofast",
+          "text": "Glemmer aldri."
+        }
+      ]
+    },
+    {
+      "id": "tiara",
+      "name": "Tiara",
+      "shareName": "en tiara",
+      "emoji": null,
+      "description": "Du er festlig, selvsikker og gjør hver dag litt spesiell. Du vet hvordan man lager stemning.",
+      "funFact": "Tiaraer brukes tradisjonelt av kongelige og ved bryllup.",
+      "image": "images/2026-12-08/tiara.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Gjør dagen spesiell."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tenker stort."
+        },
+        {
+          "title": "Glamorøs",
+          "text": "Litt ekstra glans."
+        }
+      ]
+    },
+    {
+      "id": "perlekjede",
+      "name": "Perlekjede",
+      "shareName": "et perlekjede",
+      "emoji": null,
+      "description": "Du er klok, rolig og tålmodig. Du vet at de fineste tingene tar tid.",
+      "funFact": "Perler blir til når et skjell legger lag på lag med perlemor rundt et lite korn.",
+      "image": "images/2026-12-08/perlekjede.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingenting stresser deg."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Det fine tar tid."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Alltid elegant."
+        }
+      ]
+    }
+  ]
+}

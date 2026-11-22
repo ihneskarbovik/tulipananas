@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-10",
+  "date": "2026-12-10",
+  "title": "Hvilken form er du i dag?",
+  "intro": "Er du en trygg sirkel, en skarp trekant eller en kreativ spiral? Svar på sju spørsmål og finn ut hvilken form du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken stueplante ville du hatt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaktus",
+          "scores": {
+            "trekant": 2,
+            "kube": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor monstera",
+          "scores": {
+            "stjerne": 2,
+            "spiral": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Orkidé",
+          "scores": {
+            "hjerte": 1,
+            "femkant": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Urter i vinduskarmen",
+          "scores": {
+            "kvadrat": 2,
+            "sekskant": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hengeplante som vokser fritt",
+          "scores": {
+            "spiral": 2,
+            "halvmane": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En liten bonsai",
+          "scores": {
+            "oval": 1,
+            "femkant": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan holder du styr på avtalene dine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kalender på telefonen",
+          "scores": {
+            "kvadrat": 2,
+            "sekskant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Papirkalender med farger",
+          "scores": {
+            "femkant": 2,
+            "spiral": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gule lapper overalt",
+          "scores": {
+            "stjerne": 2,
+            "kube": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg husker alt i hodet",
+          "scores": {
+            "trekant": 2,
+            "kjegle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noen andre minner meg på det",
+          "scores": {
+            "hjerte": 2,
+            "halvmane": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar det litt som det kommer",
+          "scores": {
+            "oval": 2,
+            "sirkel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst i en park?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ligger i gresset og ser på skyene",
+          "scores": {
+            "halvmane": 2,
+            "oval": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spiller ball",
+          "scores": {
+            "kube": 2,
+            "trekant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går en lang runde",
+          "scores": {
+            "kjegle": 2,
+            "kvadrat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mater endene",
+          "scores": {
+            "hjerte": 1,
+            "sirkel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sitter på en benk og ser på folk",
+          "scores": {
+            "spiral": 2,
+            "femkant": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Møter en stor gjeng venner",
+          "scores": {
+            "stjerne": 1,
+            "sekskant": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen gir deg et råd du ikke har bedt om. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Takker og tenker over det",
+          "scores": {
+            "oval": 2,
+            "sirkel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier at jeg vil finne ut av det selv",
+          "scores": {
+            "trekant": 1,
+            "femkant": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør hvorfor de mener det",
+          "scores": {
+            "spiral": 2,
+            "sekskant": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hører på, men gjør som jeg vil",
+          "scores": {
+            "kjegle": 2,
+            "stjerne": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir glad for at noen bryr seg",
+          "scores": {
+            "hjerte": 2,
+            "halvmane": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Diskuterer det grundig",
+          "scores": {
+            "kvadrat": 1,
+            "kube": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva ville du helst bygget selv?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En trehytte",
+          "scores": {
+            "stjerne": 1,
+            "trekant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En fuglekasse",
+          "scores": {
+            "hjerte": 2,
+            "oval": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En bokhylle",
+          "scores": {
+            "kvadrat": 1,
+            "kube": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et lite drivhus",
+          "scores": {
+            "sekskant": 2,
+            "sirkel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En kano",
+          "scores": {
+            "kjegle": 2,
+            "halvmane": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et kunstverk av gamle ting",
+          "scores": {
+            "femkant": 2,
+            "spiral": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket sted i nabolaget liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Butikken på hjørnet",
+          "scores": {
+            "kvadrat": 2,
+            "sirkel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Biblioteket",
+          "scores": {
+            "halvmane": 2,
+            "femkant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Parken",
+          "scores": {
+            "oval": 2,
+            "hjerte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kafeen",
+          "scores": {
+            "stjerne": 2,
+            "spiral": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Idrettsbanen",
+          "scores": {
+            "trekant": 2,
+            "kjegle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bakeriet",
+          "scores": {
+            "kube": 2,
+            "sekskant": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan pynter du pepperkakene dine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med masse glasur og strøssel",
+          "scores": {
+            "stjerne": 1,
+            "kube": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med fine, nøyaktige mønstre",
+          "scores": {
+            "kvadrat": 1,
+            "sekskant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med ansikter og figurer",
+          "scores": {
+            "hjerte": 2,
+            "sirkel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Helt uten pynt",
+          "scores": {
+            "oval": 2,
+            "trekant": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med noe ingen andre har tenkt på",
+          "scores": {
+            "spiral": 2,
+            "femkant": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spiser dem før de blir pyntet",
+          "scores": {
+            "kjegle": 2,
+            "halvmane": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sirkel",
+      "name": "Sirkel",
+      "shareName": "en sirkel",
+      "emoji": null,
+      "description": "Du er harmonisk, inkluderende og sørger for at alle er med. Med deg finnes det ingen hjørner å gjemme seg i.",
+      "funFact": "Uansett hvor du måler tvers gjennom midten av en sirkel, blir avstanden den samme.",
+      "image": "images/2026-12-10/sirkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Harmonisk",
+          "text": "Alt henger sammen."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle får være med."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være rundt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen skarpe kanter."
+        }
+      ]
+    },
+    {
+      "id": "trekant",
+      "name": "Trekant",
+      "shareName": "en trekant",
+      "emoji": null,
+      "description": "Du er målrettet, sterk og vet hvor du vil. Du peker alltid fremover.",
+      "funFact": "Trekanten er en svært stabil form, og derfor brukes den mye i bruer og tak.",
+      "image": "images/2026-12-10/trekant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Peker fremover."
+        },
+        {
+          "title": "Sterk",
+          "text": "Holder stand."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt."
+        },
+        {
+          "title": "Skarp",
+          "text": "Rask i hodet."
+        }
+      ]
+    },
+    {
+      "id": "kvadrat",
+      "name": "Kvadrat",
+      "shareName": "et kvadrat",
+      "emoji": null,
+      "description": "Du er ordentlig, stødig og til å stole på. Du liker når ting er rettferdig fordelt.",
+      "funFact": "Et sjakkbrett består av 64 kvadrater.",
+      "image": "images/2026-12-10/kvadrat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Liker orden."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Like for alle."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting til."
+        }
+      ]
+    },
+    {
+      "id": "stjerne",
+      "name": "Stjerne",
+      "shareName": "en stjerne",
+      "emoji": null,
+      "description": "Du er strålende, energisk og elsker å skinne sammen med andre. Du har store drømmer.",
+      "funFact": "Sjøstjerner har ofte fem armer, men noen arter har over 20.",
+      "image": "images/2026-12-10/stjerne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Strålende",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av gnist."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tenker stort."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å legge merke til."
+        }
+      ]
+    },
+    {
+      "id": "hjerte",
+      "name": "Hjerte",
+      "shareName": "et hjerte",
+      "emoji": null,
+      "description": "Du er kjærlig, omsorgsfull og varm. Du har alltid plass til en til.",
+      "funFact": "Hjertesymbolet ligner ikke på et ekte hjerte, og ingen vet sikkert hvor formen kommer fra.",
+      "image": "images/2026-12-10/hjerte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser følelser."
+        }
+      ]
+    },
+    {
+      "id": "sekskant",
+      "name": "Sekskant",
+      "shareName": "en sekskant",
+      "emoji": null,
+      "description": "Du er smart, effektiv og flink til å samarbeide. Du får mye ut av lite.",
+      "funFact": "Bier bygger vokskakene sine i sekskanter fordi det bruker minst mulig voks.",
+      "image": "images/2026-12-10/sekskant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Finner lure løsninger."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Best i lag."
+        },
+        {
+          "title": "Flittig",
+          "text": "Alltid i arbeid."
+        }
+      ]
+    },
+    {
+      "id": "spiral",
+      "name": "Spiral",
+      "shareName": "en spiral",
+      "emoji": null,
+      "description": "Du er kreativ, nysgjerrig og litt uforutsigbar. Tankene dine går i runder, men ender alltid et spennende sted.",
+      "funFact": "Sneglehus og mange blomster vokser i et spiralmønster.",
+      "image": "images/2026-12-10/spiral.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil utforske alt."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Overrasker alltid."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker grundig."
+        }
+      ]
+    },
+    {
+      "id": "oval",
+      "name": "Oval",
+      "shareName": "en oval",
+      "emoji": null,
+      "description": "Du er rolig, myk og tålmodig. Du ruller ikke av gårde, men blir der du trengs.",
+      "funFact": "Egg er ovale, og derfor ruller de i en ring i stedet for å trille langt bort.",
+      "image": "images/2026-12-10/oval.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Myk",
+          "text": "Ingen skarpe kanter."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        }
+      ]
+    },
+    {
+      "id": "kube",
+      "name": "Kube",
+      "shareName": "en kube",
+      "emoji": null,
+      "description": "Du er solid, leken og liker en god utfordring. Du har alltid noe uventet på lur.",
+      "funFact": "På en vanlig terning blir summen av to motsatte sider alltid sju.",
+      "image": "images/2026-12-10/kube.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker spill."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Aldri helt likt."
+        }
+      ]
+    },
+    {
+      "id": "kjegle",
+      "name": "Kjegle",
+      "shareName": "en kjegle",
+      "emoji": null,
+      "description": "Du er fokusert, rask og vet hvilken retning du skal. Du er også alltid klar for en is.",
+      "funFact": "Mange vulkaner får form som en kjegle.",
+      "image": "images/2026-12-10/kjegle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Peker én vei."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort fram."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        }
+      ]
+    },
+    {
+      "id": "femkant",
+      "name": "Femkant",
+      "shareName": "en femkant",
+      "emoji": null,
+      "description": "Du er original, gjennomtenkt og liker å gjøre ting litt annerledes. Folk husker deg.",
+      "funFact": "Hovedkvarteret til det amerikanske forsvaret har form som en femkant og kalles Pentagon.",
+      "image": "images/2026-12-10/femkant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Original",
+          "text": "Litt annerledes."
+        },
+        {
+          "title": "Gjennomtenkt",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Unik",
+          "text": "Lett å huske."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Går egne veier."
+        }
+      ]
+    },
+    {
+      "id": "halvmane",
+      "name": "Halvmåne",
+      "shareName": "en halvmåne",
+      "emoji": null,
+      "description": "Du er drømmende, følsom og trives når det blir kveld. Du ser det vakre i det stille.",
+      "funFact": "Fra jorda ser vi en halvmåne når vi bare ser halvparten av månens opplyste side.",
+      "image": "images/2026-12-10/halvmane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Lever i tankene."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner stemningen."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner om kvelden."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        }
+      ]
+    }
+  ]
+}

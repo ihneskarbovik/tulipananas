@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-15",
+  "date": "2026-12-15",
+  "title": "Hvilken musikksjanger er du i dag?",
+  "intro": "Er du fengende pop, avslappet reggae eller tidløs klassisk musikk? Svar på sju spørsmål og finn ut hvilken musikksjanger du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Dusj eller badekar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rask dusj om morgenen",
+          "scores": {
+            "rock": 2,
+            "hiphop": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lang, varm dusj",
+          "scores": {
+            "pop": 1,
+            "reggae": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Badekar med mye skum",
+          "scores": {
+            "klassisk": 1,
+            "disco": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Badekar med musikk og levende lys",
+          "scores": {
+            "jazz": 2,
+            "blues": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kald dusj for å våkne",
+          "scores": {
+            "metal": 1,
+            "elektronisk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et bad i sjøen eller et vann",
+          "scores": {
+            "country": 2,
+            "folkemusikk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Dere skal se film sammen, men alle vil se noe ulikt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Foreslår en film alle kan like",
+          "scores": {
+            "pop": 2,
+            "country": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står på mitt valg",
+          "scores": {
+            "metal": 2,
+            "rock": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lar de andre bestemme",
+          "scores": {
+            "reggae": 1,
+            "blues": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår noe ingen har sett før",
+          "scores": {
+            "jazz": 2,
+            "elektronisk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager en avstemning",
+          "scores": {
+            "klassisk": 2,
+            "hiphop": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Foreslår at vi gjør noe helt annet",
+          "scores": {
+            "folkemusikk": 2,
+            "disco": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken grøt liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Risengrynsgrøt med sukker og kanel",
+          "scores": {
+            "folkemusikk": 2,
+            "country": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Havregrøt med bær",
+          "scores": {
+            "klassisk": 2,
+            "blues": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rømmegrøt",
+          "scores": {
+            "rock": 1,
+            "metal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Semulegrøt med rød saus",
+          "scores": {
+            "pop": 2,
+            "disco": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg liker ikke grøt",
+          "scores": {
+            "hiphop": 1,
+            "elektronisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Chiagrøt med frukt",
+          "scores": {
+            "jazz": 1,
+            "reggae": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan liker du det på soverommet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjølig, med vinduet åpent",
+          "scores": {
+            "metal": 2,
+            "rock": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Varmt og lunt",
+          "scores": {
+            "reggae": 2,
+            "country": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Helt mørkt og stille",
+          "scores": {
+            "klassisk": 2,
+            "blues": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med en liten lampe på",
+          "scores": {
+            "jazz": 2,
+            "folkemusikk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med litt musikk når jeg sovner",
+          "scores": {
+            "pop": 1,
+            "elektronisk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med masse puter og pledd",
+          "scores": {
+            "disco": 2,
+            "hiphop": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du når du kjeder deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter på musikk",
+          "scores": {
+            "pop": 1,
+            "disco": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner på noe kreativt",
+          "scores": {
+            "jazz": 1,
+            "elektronisk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ringer en venn",
+          "scores": {
+            "hiphop": 2,
+            "country": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går ut en tur",
+          "scores": {
+            "folkemusikk": 2,
+            "reggae": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder eller fikser noe",
+          "scores": {
+            "metal": 2,
+            "rock": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker og drømmer meg bort",
+          "scores": {
+            "blues": 2,
+            "klassisk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva har du helst på deg ute om vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang dunjakke",
+          "scores": {
+            "pop": 2,
+            "klassisk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skinnjakke, selv om det er kaldt",
+          "scores": {
+            "rock": 2,
+            "metal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ullkåpe",
+          "scores": {
+            "jazz": 1,
+            "blues": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Anorakk med ull under",
+          "scores": {
+            "folkemusikk": 2,
+            "country": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En fargerik jakke",
+          "scores": {
+            "disco": 2,
+            "reggae": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hettegenser og vest",
+          "scores": {
+            "hiphop": 2,
+            "elektronisk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på juleavslutningen på skolen eller jobben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger med på alle sangene",
+          "scores": {
+            "pop": 1,
+            "folkemusikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Holder en liten tale",
+          "scores": {
+            "klassisk": 2,
+            "country": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Står for musikken",
+          "scores": {
+            "elektronisk": 2,
+            "hiphop": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Danser mest av alle",
+          "scores": {
+            "disco": 2,
+            "reggae": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prater med folk i et hjørne",
+          "scores": {
+            "jazz": 1,
+            "blues": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjelper til med å rigge og rydde",
+          "scores": {
+            "rock": 2,
+            "metal": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "pop",
+      "name": "Pop",
+      "shareName": "pop",
+      "emoji": null,
+      "description": "Du er sosial, glad og har lett for å få venner. Du får alle til å synge med.",
+      "funFact": "«Pop» er en forkortelse for populærmusikk.",
+      "image": "images/2026-12-15/pop.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Fengende",
+          "text": "Lett å huske."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på ting."
+        }
+      ]
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "shareName": "rock",
+      "emoji": null,
+      "description": "Du er energisk, modig og står for det du mener. Du er en ekte venn når det gjelder.",
+      "funFact": "Den elektriske gitaren ble helt sentral i rocken på 1950-tallet.",
+      "image": "images/2026-12-15/rock.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å si fra."
+        },
+        {
+          "title": "Lojal",
+          "text": "Stiller opp."
+        },
+        {
+          "title": "Rå",
+          "text": "Helt ekte."
+        }
+      ]
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "shareName": "jazz",
+      "emoji": null,
+      "description": "Du er kreativ, spontan og har en avslappet eleganse. Du finner på ting mens du går.",
+      "funFact": "Jazz oppsto i New Orleans i USA tidlig på 1900-tallet.",
+      "image": "images/2026-12-15/jazz.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Finner på ting."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Nye ideer hele tiden."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Elegant",
+          "text": "Har stil."
+        }
+      ]
+    },
+    {
+      "id": "klassisk",
+      "name": "Klassisk",
+      "shareName": "klassisk musikk",
+      "emoji": null,
+      "description": "Du er gjennomtenkt, følsom og har sans for detaljer. Du er tidløs og alltid like fin.",
+      "funFact": "Mozart skrev sin første musikk da han var rundt fem år gammel.",
+      "image": "images/2026-12-15/klassisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjennomtenkt",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Presis",
+          "text": "Hver tone sitter."
+        },
+        {
+          "title": "Tidløs",
+          "text": "Aldri umoderne."
+        }
+      ]
+    },
+    {
+      "id": "country",
+      "name": "Country",
+      "shareName": "country",
+      "emoji": null,
+      "description": "Du er jordnær, ærlig og elsker en god historie. Folk føler seg hjemme med deg.",
+      "funFact": "Nashville i USA kalles «Music City» og er kjent som countrymusikkens hovedstad.",
+      "image": "images/2026-12-15/country.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har mange historier."
+        },
+        {
+          "title": "Varm",
+          "text": "Alle er velkomne."
+        }
+      ]
+    },
+    {
+      "id": "hiphop",
+      "name": "Hiphop",
+      "shareName": "hiphop",
+      "emoji": null,
+      "description": "Du er selvsikker, kul og flink med ord. Du sier det du mener på din egen måte.",
+      "funFact": "Hiphop oppsto i Bronx i New York på 1970-tallet.",
+      "image": "images/2026-12-15/hiphop.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Står for deg selv."
+        },
+        {
+          "title": "Ordrik",
+          "text": "Flink med ord."
+        },
+        {
+          "title": "Kul",
+          "text": "Har egen stil."
+        },
+        {
+          "title": "Direkte",
+          "text": "Rett på sak."
+        }
+      ]
+    },
+    {
+      "id": "reggae",
+      "name": "Reggae",
+      "shareName": "reggae",
+      "emoji": null,
+      "description": "Du er avslappet, positiv og fredelig. Rundt deg senker alle skuldrene.",
+      "funFact": "Reggae kommer fra Jamaica.",
+      "image": "images/2026-12-15/reggae.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser det gode."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Unngår krangel."
+        },
+        {
+          "title": "Varm",
+          "text": "Som sola."
+        }
+      ]
+    },
+    {
+      "id": "metal",
+      "name": "Metal",
+      "shareName": "metal",
+      "emoji": null,
+      "description": "Du er intens, sterk og lidenskapelig. Du er mykere innvendig enn folk tror, og en venn for livet.",
+      "funFact": "Norge er kjent over hele verden for sine metalband.",
+      "image": "images/2026-12-15/metal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Intens",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Lojal",
+          "text": "Venn for livet."
+        },
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for ting."
+        }
+      ]
+    },
+    {
+      "id": "folkemusikk",
+      "name": "Folkemusikk",
+      "shareName": "folkemusikk",
+      "emoji": null,
+      "description": "Du er ekte, tradisjonsrik og glad i naturen. Du tar vare på det gamle og deler det med andre.",
+      "funFact": "Hardingfela har understrenger som klinger med når man spiller.",
+      "image": "images/2026-12-15/folkemusikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives ute."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Kan mange historier."
+        }
+      ]
+    },
+    {
+      "id": "disco",
+      "name": "Disco",
+      "shareName": "disco",
+      "emoji": null,
+      "description": "Du er festlig, glitrende og alltid klar for dansegulvet. Du får alle til å bevege seg.",
+      "funFact": "Disco var på sitt mest populære på slutten av 1970-tallet.",
+      "image": "images/2026-12-15/disco.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Alltid stemning."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Dansende",
+          "text": "Kan ikke sitte stille."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker folk."
+        }
+      ]
+    },
+    {
+      "id": "blues",
+      "name": "Blues",
+      "shareName": "blues",
+      "emoji": null,
+      "description": "Du er dyp, ærlig og følsom. Du forstår folk og vet at også triste dager har noe fint i seg.",
+      "funFact": "Bluesen oppsto blant afroamerikanere i sørstatene i USA.",
+      "image": "images/2026-12-15/blues.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser følelser."
+        },
+        {
+          "title": "Forstående",
+          "text": "Lytter godt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting som de er."
+        }
+      ]
+    },
+    {
+      "id": "elektronisk",
+      "name": "Elektronisk",
+      "shareName": "elektronisk musikk",
+      "emoji": null,
+      "description": "Du er moderne, nysgjerrig og elsker å prøve nye ting. Du våkner gjerne til liv når det blir kveld.",
+      "funFact": "Synthesizeren gjorde det mulig å lage helt nye lyder med elektrisitet.",
+      "image": "images/2026-12-15/elektronisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Alltid i forkant."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Tester nye ting."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Våkner om kvelden."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager egne lyder."
+        }
+      ]
+    }
+  ]
+}

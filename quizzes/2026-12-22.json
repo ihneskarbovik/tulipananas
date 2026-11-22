@@ -1,0 +1,696 @@
+{
+  "id": "2026-12-22",
+  "date": "2026-12-22",
+  "title": "Hvilket bær er du i dag?",
+  "intro": "Er du et søtt jordbær, en sjelden multe eller et tøft tyttebær? Svar på sju spørsmål og finn ut hvilket bær du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket insekt synes du er finest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sommerfugl",
+          "scores": {
+            "jordbaer": 2,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Marihøne",
+          "scores": {
+            "rips": 2,
+            "tranebaer": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Humle",
+          "scores": {
+            "blabaer": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Øyenstikker",
+          "scores": {
+            "bjornebaer": 2,
+            "multe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sankthansorm",
+          "scores": {
+            "stikkelsbaer": 2,
+            "multe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Maur",
+          "scores": {
+            "tyttebaer": 2,
+            "krekling": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "En turist spør deg om veien. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forklarer nøye og tegner et kart",
+          "scores": {
+            "solbaer": 2,
+            "tyttebaer": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Følger dem dit",
+          "scores": {
+            "bringebaer": 2,
+            "jordbaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Viser på telefonen",
+          "scores": {
+            "tranebaer": 2,
+            "rips": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Anbefaler også noe fint å se",
+          "scores": {
+            "bjornebaer": 2,
+            "multe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier ærlig at jeg ikke vet",
+          "scores": {
+            "blabaer": 2,
+            "krekling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør noen andre om hjelp",
+          "scores": {
+            "stikkelsbaer": 2,
+            "rips": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor drar du helst en kald vinterdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Til skøytebanen",
+          "scores": {
+            "tranebaer": 2,
+            "rips": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Til et badeland",
+          "scores": {
+            "jordbaer": 2,
+            "bringebaer": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På kino",
+          "scores": {
+            "stikkelsbaer": 1,
+            "solbaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Til biblioteket",
+          "scores": {
+            "blabaer": 1,
+            "multe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ut i skibakken",
+          "scores": {
+            "krekling": 2,
+            "tyttebaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Til en kafé",
+          "scores": {
+            "bjornebaer": 1,
+            "jordbaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får en ny ting med lang bruksanvisning. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser alt nøye først",
+          "scores": {
+            "multe": 2,
+            "tyttebaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver meg fram",
+          "scores": {
+            "bjornebaer": 1,
+            "rips": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser en video på nettet",
+          "scores": {
+            "tranebaer": 2,
+            "jordbaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber noen andre vise meg",
+          "scores": {
+            "bringebaer": 2,
+            "blabaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Legger den bort til senere",
+          "scores": {
+            "krekling": 2,
+            "stikkelsbaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skumleser og setter i gang",
+          "scores": {
+            "solbaer": 2,
+            "bjornebaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken kjeks vil du helst ha til kakaoen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Havrekjeks",
+          "scores": {
+            "blabaer": 2,
+            "krekling": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjokoladekjeks",
+          "scores": {
+            "jordbaer": 1,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjeks med syltetøy",
+          "scores": {
+            "rips": 2,
+            "tranebaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pepperkaker",
+          "scores": {
+            "tyttebaer": 2,
+            "solbaer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjeks med vaniljekrem",
+          "scores": {
+            "multe": 2,
+            "stikkelsbaer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg vil heller ha en bolle",
+          "scores": {
+            "bjornebaer": 1,
+            "solbaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du venter på svar om noe viktig. Hvordan har du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker telefonen hele tiden",
+          "scores": {
+            "rips": 2,
+            "tranebaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Holder meg opptatt med andre ting",
+          "scores": {
+            "tyttebaer": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med en venn om det",
+          "scores": {
+            "jordbaer": 1,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "krekling": 2,
+            "blabaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager en plan for begge svarene",
+          "scores": {
+            "multe": 2,
+            "stikkelsbaer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går en lang tur",
+          "scores": {
+            "bjornebaer": 2,
+            "krekling": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du har fått mye julegodt. Hvordan spiser du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Litt hver dag",
+          "scores": {
+            "multe": 1,
+            "tyttebaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Alt på én kveld",
+          "scores": {
+            "jordbaer": 1,
+            "rips": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Deler med alle",
+          "scores": {
+            "bringebaer": 2,
+            "tranebaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjemmer det til en ekstra koselig kveld",
+          "scores": {
+            "stikkelsbaer": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiser bare favorittene",
+          "scores": {
+            "bjornebaer": 2,
+            "rips": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Glemmer det og finner det i februar",
+          "scores": {
+            "krekling": 2,
+            "blabaer": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "jordbaer",
+      "name": "Jordbær",
+      "shareName": "et jordbær",
+      "emoji": null,
+      "description": "Du er søt, populær og full av sommerstemning. Alle blir glade når du dukker opp.",
+      "funFact": "Jordbæret er egentlig ikke et bær, og de små frøene på utsiden er de egentlige fruktene.",
+      "image": "images/2026-12-22/jordbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Sprer sol."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Har stort hjerte."
+        }
+      ]
+    },
+    {
+      "id": "blabaer",
+      "name": "Blåbær",
+      "shareName": "et blåbær",
+      "emoji": null,
+      "description": "Du er beskjeden, naturglad og trofast. Du er god å ha i nærheten, særlig på tur.",
+      "funFact": "Ville blåbær er blå helt inn, mens hagebærene fra butikken ofte er lyse inni.",
+      "image": "images/2026-12-22/blabaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskjeden",
+          "text": "Liten, men god."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives i skogen."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        }
+      ]
+    },
+    {
+      "id": "bringebaer",
+      "name": "Bringebær",
+      "shareName": "et bringebær",
+      "emoji": null,
+      "description": "Du er myk, sjarmerende og raus. Du gjør alle dager litt søtere.",
+      "funFact": "Bringebær tilhører rosefamilien.",
+      "image": "images/2026-12-22/bringebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør det hyggelig."
+        }
+      ]
+    },
+    {
+      "id": "multe",
+      "name": "Multe",
+      "shareName": "en multe",
+      "emoji": null,
+      "description": "Du er sjelden, stolt og verdt å vente på. Folk blir ekstra glade når de finner deg.",
+      "funFact": "Multer vokser på myrer og kalles ofte «fjellets gull».",
+      "image": "images/2026-12-22/multe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjelden",
+          "text": "Vanskelig å finne."
+        },
+        {
+          "title": "Stolt",
+          "text": "Vet hva du er verdt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Modner i ro."
+        },
+        {
+          "title": "Eksklusiv",
+          "text": "Litt spesiell."
+        }
+      ]
+    },
+    {
+      "id": "tyttebaer",
+      "name": "Tyttebær",
+      "shareName": "et tyttebær",
+      "emoji": null,
+      "description": "Du er tøff, holdbar og har en syrlig humor. Du er en klassiker som aldri går av moten.",
+      "funFact": "Tyttebær inneholder naturlige konserveringsstoffer og holder seg derfor lenge.",
+      "image": "images/2026-12-22/tyttebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Holdbar",
+          "text": "Varer lenge."
+        },
+        {
+          "title": "Syrlig",
+          "text": "Kvikk humor."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "En ekte klassiker."
+        }
+      ]
+    },
+    {
+      "id": "rips",
+      "name": "Rips",
+      "shareName": "rips",
+      "emoji": null,
+      "description": "Du er frisk, livlig og ærlig. Du trives best sammen med en hel gjeng.",
+      "funFact": "Rips vokser i lange klaser på busker.",
+      "image": "images/2026-12-22/rips.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir energi."
+        },
+        {
+          "title": "Livlig",
+          "text": "Alltid i gang."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i klase."
+        }
+      ]
+    },
+    {
+      "id": "solbaer",
+      "name": "Solbær",
+      "shareName": "et solbær",
+      "emoji": null,
+      "description": "Du er sterk, særegen og omsorgsfull. Du passer på at de rundt deg har det bra.",
+      "funFact": "Både bærene og bladene på solbærbusken har en sterk og spesiell lukt.",
+      "image": "images/2026-12-22/solbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Særegen",
+          "text": "Helt egen smak."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "stikkelsbaer",
+      "name": "Stikkelsbær",
+      "shareName": "et stikkelsbær",
+      "emoji": null,
+      "description": "Du har litt pigger utenpå, men er søt inni. Folk som kjenner deg, vet hvor god du er.",
+      "funFact": "Stikkelsbærbusken har torner.",
+      "image": "images/2026-12-22/stikkelsbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskyttende",
+          "text": "Litt pigger utenpå."
+        },
+        {
+          "title": "Søt",
+          "text": "Myk innerst inne."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Bedre enn ventet."
+        }
+      ]
+    },
+    {
+      "id": "bjornebaer",
+      "name": "Bjørnebær",
+      "shareName": "et bjørnebær",
+      "emoji": null,
+      "description": "Du er vill, fri og eventyrlysten. Du blomstrer når andre tror sesongen er over.",
+      "funFact": "Bjørnebær vokser vilt i Sør-Norge og modner sent på sommeren.",
+      "image": "images/2026-12-22/bjornebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vill",
+          "text": "Ikke lett å temme."
+        },
+        {
+          "title": "Fri",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil oppleve mye."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "tranebaer",
+      "name": "Tranebær",
+      "shareName": "et tranebær",
+      "emoji": null,
+      "description": "Du er festlig, fleksibel og internasjonal. Du dukker opp på mange bord rundt om i verden.",
+      "funFact": "Tranebær høstes ofte ved at myra oversvømmes, slik at bærene flyter opp.",
+      "image": "images/2026-12-22/tranebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Passer til fest."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg."
+        },
+        {
+          "title": "Internasjonal",
+          "text": "Kjent i hele verden."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker store bord."
+        }
+      ]
+    },
+    {
+      "id": "krekling",
+      "name": "Krekling",
+      "shareName": "en krekling",
+      "emoji": null,
+      "description": "Du er hardfør, beskjeden og selvstendig. Du trives der andre synes det er for røft.",
+      "funFact": "Krekling vokser på fjellet og er viktig mat for mange fugler.",
+      "image": "images/2026-12-22/krekling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hardfør",
+          "text": "Tåler fjellet."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i stillhet."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-28",
+  "date": "2026-12-28",
+  "title": "Hvilken saus er du i dag?",
+  "intro": "Er du en folkelig ketchup, en elegant bearnaise eller en krydret salsa? Svar på sju spørsmål og finn ut hvilken saus du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Når på dagen liker du best å trene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidlig om morgenen",
+          "scores": {
+            "sennep": 2,
+            "tzatziki": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "I lunsjen",
+          "scores": {
+            "pesto": 2,
+            "majones": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Etter skole eller jobb",
+          "scores": {
+            "ketchup": 1,
+            "tomatsaus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sent på kvelden",
+          "scores": {
+            "soyasaus": 2,
+            "salsa": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "I helgene, når jeg har god tid",
+          "scores": {
+            "brunsaus": 2,
+            "bearnaise": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg trener helst ikke",
+          "scores": {
+            "aioli": 1,
+            "karri": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har lånt bort noe og ikke fått det tilbake. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør rett ut om å få det tilbake",
+          "scores": {
+            "sennep": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter litt og håper de husker det",
+          "scores": {
+            "majones": 2,
+            "tomatsaus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender en hyggelig påminnelse",
+          "scores": {
+            "aioli": 2,
+            "bearnaise": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar det være, det er ikke så viktig",
+          "scores": {
+            "brunsaus": 2,
+            "tzatziki": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henter det selv når jeg er på besøk",
+          "scores": {
+            "karri": 2,
+            "pesto": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spøker med det til de skjønner hintet",
+          "scores": {
+            "ketchup": 1,
+            "soyasaus": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket kjøkkenredskap kunne du ikke klart deg uten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En god kniv",
+          "scores": {
+            "sennep": 2,
+            "soyasaus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stekepanne",
+          "scores": {
+            "brunsaus": 1,
+            "ketchup": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stavmikser",
+          "scores": {
+            "pesto": 2,
+            "tzatziki": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor gryte",
+          "scores": {
+            "karri": 2,
+            "tomatsaus": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Visp",
+          "scores": {
+            "majones": 1,
+            "bearnaise": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vaffeljern",
+          "scores": {
+            "salsa": 2,
+            "aioli": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen er på besøk og blir veldig lenge. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koser meg, jo lenger jo bedre",
+          "scores": {
+            "majones": 2,
+            "karri": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Begynner å gjespe litt",
+          "scores": {
+            "tzatziki": 2,
+            "soyasaus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier vennlig at det er på tide å runde av",
+          "scores": {
+            "sennep": 1,
+            "bearnaise": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter på mer kaffe",
+          "scores": {
+            "brunsaus": 2,
+            "tomatsaus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår at vi finner på noe sammen",
+          "scores": {
+            "salsa": 2,
+            "pesto": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Begynner å rydde litt rundt dem",
+          "scores": {
+            "aioli": 2,
+            "ketchup": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva har du som bakgrunnsbilde på mobilen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et bilde av familie eller venner",
+          "scores": {
+            "tomatsaus": 2,
+            "brunsaus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et kjæledyr",
+          "scores": {
+            "ketchup": 2,
+            "majones": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Natur og fjell",
+          "scores": {
+            "pesto": 2,
+            "tzatziki": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe kunstnerisk",
+          "scores": {
+            "aioli": 2,
+            "bearnaise": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare en farge",
+          "scores": {
+            "sennep": 1,
+            "soyasaus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et minne fra en reise",
+          "scores": {
+            "karri": 2,
+            "salsa": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har sagt at du skal gjøre noe, men orker ikke. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gjør det likevel, et løfte er et løfte",
+          "scores": {
+            "brunsaus": 2,
+            "tomatsaus": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier ærlig fra og flytter det",
+          "scores": {
+            "sennep": 1,
+            "soyasaus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør en kort versjon",
+          "scores": {
+            "pesto": 2,
+            "ketchup": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber noen om å hjelpe meg",
+          "scores": {
+            "majones": 2,
+            "aioli": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Belønner meg selv etterpå",
+          "scores": {
+            "bearnaise": 2,
+            "karri": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter på musikk og kommer i gang",
+          "scores": {
+            "salsa": 2,
+            "tzatziki": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med alle gavene du fikk til jul?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bruker dem med en gang",
+          "scores": {
+            "ketchup": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder dem pent på plass",
+          "scores": {
+            "tzatziki": 2,
+            "soyasaus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender takkemeldinger til alle",
+          "scores": {
+            "bearnaise": 2,
+            "majones": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bytter det jeg ikke trenger",
+          "scores": {
+            "sennep": 1,
+            "pesto": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Viser dem fram til alle",
+          "scores": {
+            "aioli": 2,
+            "karri": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir noe videre til noen andre",
+          "scores": {
+            "brunsaus": 2,
+            "tomatsaus": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ketchup",
+      "name": "Ketchup",
+      "shareName": "ketchup",
+      "emoji": null,
+      "description": "Du er folkelig, glad og passer til nesten alt. Alle blir litt gladere når du er med.",
+      "funFact": "Ketchup ble i begynnelsen laget av blant annet fisk og sopp, ikke tomater.",
+      "image": "images/2026-12-28/ketchup.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Folkelig",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til alt."
+        },
+        {
+          "title": "Barnslig",
+          "text": "Ung til sinns."
+        }
+      ]
+    },
+    {
+      "id": "majones",
+      "name": "Majones",
+      "shareName": "majones",
+      "emoji": null,
+      "description": "Du er myk, sosial og flink til å få ting til å henge sammen. Du gjør alt litt bedre.",
+      "funFact": "Majones lages av eggeplomme og olje som piskes sammen.",
+      "image": "images/2026-12-28/majones.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og rund."
+        },
+        {
+          "title": "Sosial",
+          "text": "Binder folk sammen."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å ha."
+        }
+      ]
+    },
+    {
+      "id": "sennep",
+      "name": "Sennep",
+      "shareName": "sennep",
+      "emoji": null,
+      "description": "Du er skarp, ærlig og direkte. Folk vet alltid hva du mener.",
+      "funFact": "Sennep lages av frøene til sennepsplanten.",
+      "image": "images/2026-12-28/sennep.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Kvikk i hodet."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Sterk",
+          "text": "Litt kraft i deg."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Ingen tvil."
+        }
+      ]
+    },
+    {
+      "id": "bearnaise",
+      "name": "Bearnaise",
+      "shareName": "bearnaise",
+      "emoji": null,
+      "description": "Du er elegant, raus og elsker å gjøre hverdagen festlig. Du har sans for det gode i livet.",
+      "funFact": "Bearnaise er en fransk saus som smakes til med estragon.",
+      "image": "images/2026-12-28/bearnaise.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Litt fin på det."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør dagen spesiell."
+        },
+        {
+          "title": "Nytende",
+          "text": "Elsker god mat."
+        }
+      ]
+    },
+    {
+      "id": "pesto",
+      "name": "Pesto",
+      "shareName": "pesto",
+      "emoji": null,
+      "description": "Du er frisk, kreativ og full av sjarm. Du gir alt en grønn og frisk vri.",
+      "funFact": "Pesto kommer fra Genova i Italia og lages tradisjonelt av basilikum, pinjekjerner, ost og olivenolje.",
+      "image": "images/2026-12-28/pesto.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Nye ideer."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vinner alle over."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Grønn til fingerspissene."
+        }
+      ]
+    },
+    {
+      "id": "tomatsaus",
+      "name": "Tomatsaus",
+      "shareName": "tomatsaus",
+      "emoji": null,
+      "description": "Du er varm, trofast og hjemmekjær. Du er grunnlaget for mange gode stunder.",
+      "funFact": "Tomater kom til Europa fra Sør-Amerika på 1500-tallet.",
+      "image": "images/2026-12-28/tomatsaus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Grunnlaget for mye."
+        }
+      ]
+    },
+    {
+      "id": "brunsaus",
+      "name": "Brun saus",
+      "shareName": "brun saus",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, jordnær og koselig. Folk forbinder deg med de beste middagene.",
+      "funFact": "Brun saus er en klassiker til kjøttkaker i Norge.",
+      "image": "images/2026-12-28/brunsaus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "En ekte klassiker."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Koselig",
+          "text": "Som søndagsmiddag."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alle vet hva de får."
+        }
+      ]
+    },
+    {
+      "id": "aioli",
+      "name": "Aioli",
+      "shareName": "aioli",
+      "emoji": null,
+      "description": "Du er sosial, stilfull og har en sterk personlighet. Du hører hjemme i lange sommerkvelder.",
+      "funFact": "Navnet aioli betyr hvitløk og olje.",
+      "image": "images/2026-12-28/aioli.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Har sans for detaljer."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tydelig personlighet."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker lange kvelder."
+        }
+      ]
+    },
+    {
+      "id": "soyasaus",
+      "name": "Soyasaus",
+      "shareName": "soyasaus",
+      "emoji": null,
+      "description": "Du er dyp, rolig og har en tørr humor. Du gir mye smak med lite.",
+      "funFact": "Soyasaus lages av gjærede soyabønner og har blitt brukt i Kina i flere tusen år.",
+      "image": "images/2026-12-28/soyasaus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Mer enn man ser."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Klok",
+          "text": "Gammel visdom."
+        },
+        {
+          "title": "Tørrvittig",
+          "text": "Litt salt humor."
+        }
+      ]
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "shareName": "salsa",
+      "emoji": null,
+      "description": "Du er energisk, krydret og alltid klar for fest. Du får alle til å bevege seg.",
+      "funFact": "Salsa betyr rett og slett saus på spansk.",
+      "image": "images/2026-12-28/salsa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av fart."
+        },
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra av alt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Alltid stemning."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hiver seg med."
+        }
+      ]
+    },
+    {
+      "id": "tzatziki",
+      "name": "Tzatziki",
+      "shareName": "tzatziki",
+      "emoji": null,
+      "description": "Du er frisk, kjølig og rolig. Du demper stemningen når det blir for hett.",
+      "funFact": "Tzatziki er en gresk saus av yoghurt, agurk og hvitløk.",
+      "image": "images/2026-12-28/tzatziki.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en sommerdag."
+        },
+        {
+          "title": "Kjølig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Demper stemningen."
+        },
+        {
+          "title": "Balansert",
+          "text": "Akkurat passe."
+        }
+      ]
+    },
+    {
+      "id": "karri",
+      "name": "Karrisaus",
+      "shareName": "karrisaus",
+      "emoji": null,
+      "description": "Du er varm, fargerik og eventyrlysten. Du tar med deg smaker fra hele verden.",
+      "funFact": "Karri er en blanding av mange krydder, og gurkemeie gir den gule fargen.",
+      "image": "images/2026-12-28/karri.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Krydret",
+          "text": "Spennende å være med."
+        }
+      ]
+    }
+  ]
+}

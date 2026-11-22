@@ -1,0 +1,668 @@
+{
+  "id": "2026-12-26",
+  "date": "2026-12-26",
+  "title": "Hvilket kortspill er du i dag?",
+  "intro": "Romjula er tiden for kortspill rundt bordet. Er du et sosialt Vri åtter, en rolig kabal eller en lur pokerspiller? Svar på sju spørsmål og finn ut hvilket kortspill du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags sokker liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykke ullsokker",
+          "scores": {
+            "kabal": 2,
+            "bridge": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fargerike sokker med mønster",
+          "scores": {
+            "gris": 2,
+            "svarteper": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Helt vanlige svarte",
+          "scores": {
+            "poker": 1,
+            "casino": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sportssokker",
+          "scores": {
+            "krig": 2,
+            "vriatter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Julesokker",
+          "scores": {
+            "fisk": 2,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går helst barbeint",
+          "scores": {
+            "svarteper": 2,
+            "fisk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en lang meny på en restaurant. Hvordan velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar det samme som alltid",
+          "scores": {
+            "krig": 2,
+            "bridge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør kelneren hva som er best",
+          "scores": {
+            "fisk": 2,
+            "vriatter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser alt nøye før jeg bestemmer meg",
+          "scores": {
+            "casino": 1,
+            "kabal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Velger det første som frister",
+          "scores": {
+            "gris": 2,
+            "svarteper": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Velger noe jeg aldri har smakt",
+          "scores": {
+            "poker": 2,
+            "hjerter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bestiller det samme som de andre",
+          "scores": {
+            "vriatter": 1,
+            "fisk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best å se på når du går rundt i en by?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamle bygninger",
+          "scores": {
+            "bridge": 2,
+            "kabal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Folkeliv og gatemusikanter",
+          "scores": {
+            "vriatter": 2,
+            "fisk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Butikkvinduer",
+          "scores": {
+            "hjerter": 2,
+            "svarteper": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Statuer og kunst",
+          "scores": {
+            "casino": 2,
+            "poker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Parker og fontener",
+          "scores": {
+            "kabal": 1,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Steder der det skjer noe",
+          "scores": {
+            "gris": 1,
+            "krig": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har spist altfor mye julemat. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går en lang tur",
+          "scores": {
+            "krig": 2,
+            "bridge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Legger meg på sofaen",
+          "scores": {
+            "kabal": 2,
+            "poker": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser litt dessert likevel",
+          "scores": {
+            "gris": 2,
+            "svarteper": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lover meg selv å spise lett i morgen",
+          "scores": {
+            "casino": 2,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiller spill for å holde meg våken",
+          "scores": {
+            "vriatter": 2,
+            "fisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar en lur",
+          "scores": {
+            "svarteper": 2,
+            "kabal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva vil du helst lage av restene etter jul?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smørbrød",
+          "scores": {
+            "bridge": 2,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Grateng",
+          "scores": {
+            "kabal": 1,
+            "krig": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Suppe",
+          "scores": {
+            "fisk": 2,
+            "casino": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pizza",
+          "scores": {
+            "gris": 2,
+            "vriatter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Wraps",
+          "scores": {
+            "poker": 2,
+            "svarteper": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg fryser alt ned",
+          "scores": {
+            "casino": 2,
+            "bridge": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du vinner et spill mot familien. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jubler høyt",
+          "scores": {
+            "gris": 2,
+            "krig": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler stille for meg selv",
+          "scores": {
+            "poker": 2,
+            "kabal": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Foreslår en ny runde med en gang",
+          "scores": {
+            "vriatter": 1,
+            "fisk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier at det var flaks",
+          "scores": {
+            "hjerter": 2,
+            "svarteper": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forklarer hvordan jeg vant",
+          "scores": {
+            "bridge": 2,
+            "casino": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar de andre vinne neste gang",
+          "scores": {
+            "svarteper": 2,
+            "hjerter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan ser en perfekt romjulsdag ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lang frokost og spill hele dagen",
+          "scores": {
+            "vriatter": 2,
+            "bridge": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En tur i snøen",
+          "scores": {
+            "krig": 2,
+            "fisk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sofa, pledd og film",
+          "scores": {
+            "kabal": 2,
+            "svarteper": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Besøk hos familie og venner",
+          "scores": {
+            "hjerter": 2,
+            "vriatter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Shopping på salg",
+          "scores": {
+            "casino": 2,
+            "gris": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rolig dag helt for meg selv",
+          "scores": {
+            "poker": 2,
+            "kabal": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "vriatter",
+      "name": "Vri åtter",
+      "shareName": "Vri åtter",
+      "emoji": null,
+      "description": "Du er sosial, leken og elsker å samle folk rundt bordet. Du gjør selv en vanlig kveld morsom.",
+      "funFact": "I Vri åtter kan man bruke åtteren til å bestemme hvilken sort som skal legges.",
+      "image": "images/2026-12-26/vriatter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Taktisk",
+          "text": "Har en plan."
+        },
+        {
+          "title": "Familievennlig",
+          "text": "Alle kan være med."
+        }
+      ]
+    },
+    {
+      "id": "kabal",
+      "name": "Kabal",
+      "shareName": "kabal",
+      "emoji": null,
+      "description": "Du er tålmodig, fokusert og trives godt i ditt eget selskap. Du finner ro i det å få ting på plass.",
+      "funFact": "Kabal er et kortspill man ofte spiller alene, og det fulgte lenge med på mange datamaskiner.",
+      "image": "images/2026-12-26/kabal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Én bunke om gangen."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Glemmer tid og sted."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker ro."
+        }
+      ]
+    },
+    {
+      "id": "poker",
+      "name": "Poker",
+      "shareName": "poker",
+      "emoji": null,
+      "description": "Du er rolig utenpå, men tenker mye inni deg. Du tør å satse når det gjelder.",
+      "funFact": "I poker er «royal flush» den beste hånden man kan få.",
+      "image": "images/2026-12-26/poker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Viser lite."
+        },
+        {
+          "title": "Strategisk",
+          "text": "Tenker fram."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å satse."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Vanskelig å lese."
+        }
+      ]
+    },
+    {
+      "id": "hjerter",
+      "name": "Hjerter",
+      "shareName": "hjerter",
+      "emoji": null,
+      "description": "Du er lur og har et varmt hjerte. Du vet når du skal holde igjen og når du skal slå til.",
+      "funFact": "I Hjerter prøver man å unngå å få hjerterkort og spar dame.",
+      "image": "images/2026-12-26/hjerter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lur",
+          "text": "Ser fallgruvene."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Taktisk",
+          "text": "Tenker smart."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        }
+      ]
+    },
+    {
+      "id": "gris",
+      "name": "Gris",
+      "shareName": "gris",
+      "emoji": null,
+      "description": "Du er rask, morsom og høylytt på en god måte. Med deg blir det alltid latter.",
+      "funFact": "I Gris gjelder det å få fire like og være raskest til å ta seg på nesa.",
+      "image": "images/2026-12-26/gris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Lynrask reaksjon."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mye latter."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge",
+      "shareName": "bridge",
+      "emoji": null,
+      "description": "Du er klok, presis og glad i tradisjoner. Du er en ekte lagspiller som tenker langsiktig.",
+      "funFact": "Bridge spilles av fire personer fordelt på to lag.",
+      "image": "images/2026-12-26/bridge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker langt."
+        },
+        {
+          "title": "Presis",
+          "text": "Hver detalj teller."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Spiller med makker."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker klassikere."
+        }
+      ]
+    },
+    {
+      "id": "svarteper",
+      "name": "Svarteper",
+      "shareName": "Svarteper",
+      "emoji": null,
+      "description": "Du er leken, uskyldig og litt barnslig på en fin måte. Du får alle til å le, selv om du taper.",
+      "funFact": "I Svarteper vil ingen sitte igjen med svarteper-kortet til slutt.",
+      "image": "images/2026-12-26/svarteper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid moro."
+        },
+        {
+          "title": "Morsom",
+          "text": "Ler av seg selv."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser alt i ansiktet."
+        },
+        {
+          "title": "Barnslig",
+          "text": "Ung til sinns."
+        }
+      ]
+    },
+    {
+      "id": "fisk",
+      "name": "Fisk",
+      "shareName": "Fisk",
+      "emoji": null,
+      "description": "Du er nysgjerrig, sosial og spør gjerne om ting. Du blir fort kjent med folk.",
+      "funFact": "I Fisk spør man de andre om de har et bestemt kort, og hvis ikke sier de «fisk!».",
+      "image": "images/2026-12-26/fisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør om alt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Lettlært",
+          "text": "Enkelt å like."
+        }
+      ]
+    },
+    {
+      "id": "krig",
+      "name": "Krig",
+      "shareName": "Krig",
+      "emoji": null,
+      "description": "Du er utholdende, sta og elsker en god kamp. Du gir deg ikke før det er avgjort.",
+      "funFact": "Krig er et kortspill der det høyeste kortet vinner, og et parti kan vare veldig lenge.",
+      "image": "images/2026-12-26/krig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Holder ut lenge."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Konkurranse",
+          "text": "Elsker å vinne."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "casino",
+      "name": "Casino",
+      "shareName": "Casino",
+      "emoji": null,
+      "description": "Du er smart, observant og god med tall. Du legger merke til det som ligger på bordet.",
+      "funFact": "I Casino handler det om å fange kort fra bordet.",
+      "image": "images/2026-12-26/casino.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Regner raskt."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Lur",
+          "text": "Finner muligheter."
+        }
+      ]
+    }
+  ]
+}

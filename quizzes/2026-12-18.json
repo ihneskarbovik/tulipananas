@@ -1,0 +1,554 @@
+{
+  "id": "2026-12-18",
+  "date": "2026-12-18",
+  "title": "Hvilken sjakkbrikke er du i dag?",
+  "intro": "Er du en sterk dronning, en uforutsigbar springer eller en utholdende bonde? Svar på sju spørsmål og finn ut hvilken sjakkbrikke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken salat velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cæsarsalat",
+          "scores": {
+            "dronning": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gresk salat med feta",
+          "scores": {
+            "loper": 2,
+            "springer": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Potetsalat",
+          "scores": {
+            "bonde": 2,
+            "tarn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En enkel grønn salat",
+          "scores": {
+            "tarn": 2,
+            "loper": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fruktsalat",
+          "scores": {
+            "springer": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Pastasalat",
+          "scores": {
+            "konge": 2,
+            "bonde": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Dere er uenige om hva dere skal gjøre. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bestemmer for alle",
+          "scores": {
+            "dronning": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner et kompromiss",
+          "scores": {
+            "loper": 2,
+            "tarn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør det de andre vil",
+          "scores": {
+            "bonde": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår noe helt nytt",
+          "scores": {
+            "springer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Står fast på mitt",
+          "scores": {
+            "tarn": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter litt og ser hva som skjer",
+          "scores": {
+            "loper": 2,
+            "bonde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva er viktigst på et hotell?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor, god seng",
+          "scores": {
+            "konge": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Frokostbuffeten",
+          "scores": {
+            "dronning": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Utsikten",
+          "scores": {
+            "loper": 2,
+            "konge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bassenget",
+          "scores": {
+            "springer": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At det ligger midt i byen",
+          "scores": {
+            "tarn": 2,
+            "springer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "At det er stille og rolig",
+          "scores": {
+            "tarn": 1,
+            "loper": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser at noen blir holdt utenfor. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går bort og inviterer dem med",
+          "scores": {
+            "dronning": 1,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier fra til de andre",
+          "scores": {
+            "tarn": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med personen etterpå",
+          "scores": {
+            "loper": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner på noe alle kan være med på",
+          "scores": {
+            "springer": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier fra til en voksen eller leder",
+          "scores": {
+            "konge": 2,
+            "tarn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg ved siden av dem",
+          "scores": {
+            "bonde": 2,
+            "loper": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket utendørsspill liker du best om sommeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kubb",
+          "scores": {
+            "tarn": 1,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Badminton",
+          "scores": {
+            "dronning": 2,
+            "springer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Frisbee",
+          "scores": {
+            "springer": 2,
+            "loper": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fotball",
+          "scores": {
+            "bonde": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Boccia",
+          "scores": {
+            "konge": 1,
+            "loper": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Slåball",
+          "scores": {
+            "tarn": 1,
+            "konge": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du er med på en quiz og vet ikke svaret. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gjetter med stor selvtillit",
+          "scores": {
+            "dronning": 2,
+            "springer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier at jeg ikke vet",
+          "scores": {
+            "tarn": 2,
+            "bonde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver å resonnere meg fram",
+          "scores": {
+            "loper": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar laget bestemme",
+          "scores": {
+            "bonde": 1,
+            "tarn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer med et morsomt svar",
+          "scores": {
+            "springer": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker lenge og grundig",
+          "scores": {
+            "konge": 2,
+            "loper": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du siste dag før juleferien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rydder og gjør alt ferdig",
+          "scores": {
+            "tarn": 2,
+            "konge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ønsker alle god jul",
+          "scores": {
+            "bonde": 2,
+            "dronning": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Planlegger hele ferien",
+          "scores": {
+            "loper": 1,
+            "konge": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Er med på alt det sosiale",
+          "scores": {
+            "dronning": 2,
+            "springer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stikker tidlig og starter ferien",
+          "scores": {
+            "springer": 2,
+            "tarn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir små gaver til de andre",
+          "scores": {
+            "bonde": 2,
+            "loper": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "konge",
+      "name": "Konge",
+      "shareName": "en konge",
+      "emoji": null,
+      "description": "Du er rolig, verdig og tar ansvar for helheten. Alle samler seg rundt deg når det gjelder.",
+      "funFact": "Kongen er den viktigste brikken, for partiet er tapt hvis kongen blir satt sjakk matt.",
+      "image": "images/2026-12-18/konge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ansvarlig",
+          "text": "Tar vare på helheten."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Verdig",
+          "text": "Folk ser opp til deg."
+        },
+        {
+          "title": "Viktig",
+          "text": "Alt dreier seg om deg."
+        }
+      ]
+    },
+    {
+      "id": "dronning",
+      "name": "Dronning",
+      "shareName": "en dronning",
+      "emoji": null,
+      "description": "Du er sterk, allsidig og handlekraftig. Du får ting til å skje, i alle retninger.",
+      "funFact": "Dronningen er den sterkeste brikken, og kan gå så langt den vil i alle retninger.",
+      "image": "images/2026-12-18/dronning.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tar stor plass."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan det meste."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "tarn",
+      "name": "Tårn",
+      "shareName": "et tårn",
+      "emoji": null,
+      "description": "Du er stødig, rett fram og til å stole på. Du beskytter dem du er glad i.",
+      "funFact": "Tårnet kan være med på et spesielt trekk sammen med kongen som heter rokade.",
+      "image": "images/2026-12-18/tarn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid på plass."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        }
+      ]
+    },
+    {
+      "id": "loper",
+      "name": "Løper",
+      "shareName": "en løper",
+      "emoji": null,
+      "description": "Du er smart, strategisk og finner veier andre ikke ser. Du tenker gjerne et par trekk fram i tid.",
+      "funFact": "Hver spiller har to løpere, og hver av dem går bare på ruter med samme farge.",
+      "image": "images/2026-12-18/loper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Strategisk",
+          "text": "Tenker flere trekk fram."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner lure veier."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Går på skrå."
+        },
+        {
+          "title": "Rolig",
+          "text": "Venter på rett øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "springer",
+      "name": "Springer",
+      "shareName": "en springer",
+      "emoji": null,
+      "description": "Du er leken, uforutsigbar og original. Du overrasker alle med det du finner på.",
+      "funFact": "Springeren er den eneste brikken som kan hoppe over andre brikker.",
+      "image": "images/2026-12-18/springer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rundt."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Overrasker alltid."
+        },
+        {
+          "title": "Original",
+          "text": "Helt egen stil."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å hoppe."
+        }
+      ]
+    },
+    {
+      "id": "bonde",
+      "name": "Bonde",
+      "shareName": "en bonde",
+      "emoji": null,
+      "description": "Du er beskjeden, utholdende og en ekte lagspiller. Du har mer i deg enn mange tror.",
+      "funFact": "En bonde som kommer helt over til andre siden av brettet, kan bli forvandlet til en annen brikke.",
+      "image": "images/2026-12-18/bonde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Står sammen."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Ett steg om gangen."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        },
+        {
+          "title": "Potensial",
+          "text": "Kan bli hva som helst."
+        }
+      ]
+    }
+  ]
+}

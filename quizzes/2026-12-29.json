@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-29",
+  "date": "2026-12-29",
+  "title": "Hvilket landskap er du i dag?",
+  "intro": "Er du et stødig fjell, en frodig jungel eller en rolig øy? Svar på sju spørsmål og finn ut hvilket landskap du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva har du med i sekken på en lang tur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kart og kompass",
+          "scores": {
+            "fjell": 2,
+            "tundra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Termos med kakao",
+          "scores": {
+            "dal": 2,
+            "skog": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Masse snacks",
+          "scores": {
+            "jungel": 2,
+            "eng": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kamera",
+          "scores": {
+            "savanne": 2,
+            "kloft": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ekstra ullgenser",
+          "scores": {
+            "myr": 2,
+            "tundra": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så lite som mulig",
+          "scores": {
+            "orken": 1,
+            "oy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Telefonen er tom for strøm hele dagen. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt fint, det er deilig",
+          "scores": {
+            "oy": 2,
+            "skog": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir litt rastløs",
+          "scores": {
+            "vulkan": 2,
+            "jungel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg låner en lader med en gang",
+          "scores": {
+            "savanne": 2,
+            "eng": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg finner fram en bok",
+          "scores": {
+            "kloft": 2,
+            "myr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg prater mer med folk rundt meg",
+          "scores": {
+            "dal": 2,
+            "eng": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg merker det knapt",
+          "scores": {
+            "orken": 1,
+            "tundra": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst med venner en kveld?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bowling",
+          "scores": {
+            "savanne": 1,
+            "eng": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Quiz på en kafé",
+          "scores": {
+            "kloft": 2,
+            "skog": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Middag hjemme hos noen",
+          "scores": {
+            "dal": 1,
+            "myr": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Karaoke",
+          "scores": {
+            "vulkan": 2,
+            "jungel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser en film",
+          "scores": {
+            "oy": 1,
+            "orken": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går tur i mørket med lykter",
+          "scores": {
+            "fjell": 1,
+            "tundra": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har lovet å hjelpe noen å flytte. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bærer de tyngste tingene",
+          "scores": {
+            "fjell": 2,
+            "vulkan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pakker og merker eskene",
+          "scores": {
+            "kloft": 1,
+            "tundra": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder humøret oppe",
+          "scores": {
+            "eng": 1,
+            "jungel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager mat til alle",
+          "scores": {
+            "dal": 2,
+            "skog": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer litt sent, men står på",
+          "scores": {
+            "oy": 1,
+            "savanne": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ordner det praktiske i ro",
+          "scores": {
+            "orken": 1,
+            "myr": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva lager du helst på bålet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pølser",
+          "scores": {
+            "savanne": 1,
+            "dal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pinnebrød",
+          "scores": {
+            "skog": 2,
+            "myr": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grillede marshmallows",
+          "scores": {
+            "eng": 2,
+            "jungel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fisk jeg har fanget selv",
+          "scores": {
+            "fjell": 1,
+            "oy": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bålkaffe",
+          "scores": {
+            "tundra": 2,
+            "kloft": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe krydret i en gryte",
+          "scores": {
+            "vulkan": 2,
+            "orken": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen gir deg en oppgave du synes er kjedelig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gjør den ferdig med en gang",
+          "scores": {
+            "fjell": 2,
+            "tundra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gjør den til en lek",
+          "scores": {
+            "eng": 2,
+            "jungel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hører på musikk mens jeg gjør den",
+          "scores": {
+            "savanne": 1,
+            "oy": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjør den grundig, selv om den er kjedelig",
+          "scores": {
+            "kloft": 2,
+            "myr": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Utsetter den litt",
+          "scores": {
+            "orken": 2,
+            "dal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier fra at jeg heller vil gjøre noe annet",
+          "scores": {
+            "vulkan": 2,
+            "skog": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gleder du deg mest til neste år?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nye eventyr og reiser",
+          "scores": {
+            "savanne": 2,
+            "jungel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å nå et mål jeg har satt meg",
+          "scores": {
+            "fjell": 1,
+            "vulkan": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mer tid med dem jeg er glad i",
+          "scores": {
+            "dal": 2,
+            "eng": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rolige dager uten stress",
+          "scores": {
+            "oy": 2,
+            "myr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Å lære noe nytt",
+          "scores": {
+            "kloft": 2,
+            "skog": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar en dag om gangen",
+          "scores": {
+            "orken": 2,
+            "tundra": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "fjell",
+      "name": "Fjell",
+      "shareName": "et fjell",
+      "emoji": null,
+      "description": "Du er stødig, sterk og har høye mål. Folk ser opp til deg.",
+      "funFact": "Galdhøpiggen er Norges høyeste fjell, 2469 meter over havet.",
+      "image": "images/2026-12-29/fjell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Høye mål."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler alt vær."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ser alt ovenfra."
+        }
+      ]
+    },
+    {
+      "id": "skog",
+      "name": "Skog",
+      "shareName": "en skog",
+      "emoji": null,
+      "description": "Du er rolig, beskyttende og har mange hemmeligheter. Hos deg finner folk ro.",
+      "funFact": "Mer enn en tredjedel av Norge er dekket av skog.",
+      "image": "images/2026-12-29/skog.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Gir ro."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Skjermer andre."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Mange stier."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Full av liv."
+        }
+      ]
+    },
+    {
+      "id": "orken",
+      "name": "Ørken",
+      "shareName": "en ørken",
+      "emoji": null,
+      "description": "Du er tålmodig, tøff og trives i stillheten. Du tåler mer enn de fleste.",
+      "funFact": "Sahara er verdens største varme ørken.",
+      "image": "images/2026-12-29/orken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Stille",
+          "text": "Liker ro."
+        },
+        {
+          "title": "Varm",
+          "text": "Full av sol."
+        }
+      ]
+    },
+    {
+      "id": "jungel",
+      "name": "Jungel",
+      "shareName": "en jungel",
+      "emoji": null,
+      "description": "Du er livlig, frodig og full av overraskelser. Rundt deg skjer det alltid noe.",
+      "funFact": "Regnskogene er hjem for mer enn halvparten av alle dyre- og plantearter på jorda.",
+      "image": "images/2026-12-29/jungel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Alltid noe som skjer."
+        },
+        {
+          "title": "Frodig",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil utforske."
+        },
+        {
+          "title": "Mangfoldig",
+          "text": "Plass til alle."
+        }
+      ]
+    },
+    {
+      "id": "savanne",
+      "name": "Savanne",
+      "shareName": "en savanne",
+      "emoji": null,
+      "description": "Du er fri, åpen og eventyrlysten. Du trives der horisonten er langt unna.",
+      "funFact": "Savannen har en regntid og en tørketid hvert år.",
+      "image": "images/2026-12-29/savanne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Uendelig plass."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alle."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se langt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Lever i flokk."
+        }
+      ]
+    },
+    {
+      "id": "tundra",
+      "name": "Tundra",
+      "shareName": "en tundra",
+      "emoji": null,
+      "description": "Du er hardfør, nøktern og rolig. Du klarer deg fint med lite.",
+      "funFact": "På tundraen er bakken frossen store deler av året, og det vokser nesten ikke trær.",
+      "image": "images/2026-12-29/tundra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hardfør",
+          "text": "Tåler kulda."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stille og vid."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        }
+      ]
+    },
+    {
+      "id": "vulkan",
+      "name": "Vulkan",
+      "shareName": "en vulkan",
+      "emoji": null,
+      "description": "Du er lidenskapelig, kraftfull og full av energi. Når du først setter i gang, merker alle det.",
+      "funFact": "Island har mange aktive vulkaner.",
+      "image": "images/2026-12-29/vulkan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for ting."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Intens",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Uforutsigbar."
+        }
+      ]
+    },
+    {
+      "id": "oy",
+      "name": "Øy",
+      "shareName": "en øy",
+      "emoji": null,
+      "description": "Du er selvstendig, avslappet og har din egen lille verden. Folk drømmer om å besøke deg.",
+      "funFact": "Norge har over 200 000 øyer, holmer og skjær.",
+      "image": "images/2026-12-29/oy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Din egen verden."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Langt fra stresset."
+        },
+        {
+          "title": "Unik",
+          "text": "Ingen er lik deg."
+        }
+      ]
+    },
+    {
+      "id": "dal",
+      "name": "Dal",
+      "shareName": "en dal",
+      "emoji": null,
+      "description": "Du er trygg, varm og hjemmekjær. Hos deg føler folk seg skjermet.",
+      "funFact": "Gudbrandsdalen er en av Norges lengste daler.",
+      "image": "images/2026-12-29/dal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Skjermer andre."
+        },
+        {
+          "title": "Varm",
+          "text": "Lun og god."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        }
+      ]
+    },
+    {
+      "id": "eng",
+      "name": "Blomstereng",
+      "shareName": "en blomstereng",
+      "emoji": null,
+      "description": "Du er glad, fargerik og leken. Du gjør alle rundt deg i godt humør.",
+      "funFact": "En blomstereng kan ha mange titalls ulike planter og er viktig for bier og humler.",
+      "image": "images/2026-12-29/eng.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Full av sol."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Åpen",
+          "text": "Plass til alle."
+        }
+      ]
+    },
+    {
+      "id": "kloft",
+      "name": "Kløft",
+      "shareName": "en kløft",
+      "emoji": null,
+      "description": "Du er dyp, gåtefull og imponerende. Det tar tid å bli kjent med deg, men det er verdt det.",
+      "funFact": "Grand Canyon i USA er over 400 kilometer lang.",
+      "image": "images/2026-12-29/kloft.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Mange lag."
+        },
+        {
+          "title": "Gåtefull",
+          "text": "Vanskelig å lese."
+        },
+        {
+          "title": "Imponerende",
+          "text": "Får folk til å stoppe."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Formet over tid."
+        }
+      ]
+    },
+    {
+      "id": "myr",
+      "name": "Myr",
+      "shareName": "en myr",
+      "emoji": null,
+      "description": "Du er rolig, særegen og viktigere enn mange tror. Du har mye liv i deg.",
+      "funFact": "Myrer lagrer store mengder karbon.",
+      "image": "images/2026-12-29/myr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Særegen",
+          "text": "Helt egen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Undervurdert",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Viktig",
+          "text": "Gjør mye godt."
+        }
+      ]
+    }
+  ]
+}

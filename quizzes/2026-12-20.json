@@ -1,0 +1,668 @@
+{
+  "id": "2026-12-20",
+  "date": "2026-12-20",
+  "title": "Hvilket vinterredskap er du i dag?",
+  "intro": "Det er fjerde søndag i advent, og vinteren er her. Er du en praktisk spark, et lekent akebrett eller et par elegante skøyter? Svar på sju spørsmål og finn ut hvilket vinterredskap du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva er deiligst etter en kald dag ute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varm kakao",
+          "scores": {
+            "akebrett": 2,
+            "rattkjelke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et varmt bad",
+          "scores": {
+            "skoyter": 2,
+            "truger": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Badstue",
+          "scores": {
+            "langrennsski": 2,
+            "slalamski": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pizza og film",
+          "scores": {
+            "snowboard": 2,
+            "akebrett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Varm suppe",
+          "scores": {
+            "pulk": 2,
+            "snoskuffe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å sitte foran peisen",
+          "scores": {
+            "spark": 1,
+            "truger": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det er speilglatt ute. Hvordan kommer du deg fram?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar på brodder",
+          "scores": {
+            "snoskuffe": 2,
+            "truger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går forsiktig med små skritt",
+          "scores": {
+            "langrennsski": 2,
+            "pulk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sklir og har det gøy",
+          "scores": {
+            "akebrett": 2,
+            "skoyter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Holder meg fast i noen",
+          "scores": {
+            "spark": 2,
+            "rattkjelke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar bussen i stedet",
+          "scores": {
+            "pulk": 2,
+            "spark": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Løper og håper det går bra",
+          "scores": {
+            "slalamski": 2,
+            "snowboard": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor sitter du helst ved middagsbordet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved enden, så jeg ser alle",
+          "scores": {
+            "pulk": 2,
+            "slalamski": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midt i, der praten går",
+          "scores": {
+            "snowboard": 1,
+            "spark": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ved siden av den jeg liker best",
+          "scores": {
+            "skoyter": 2,
+            "akebrett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nærmest kjøkkenet, så jeg kan hjelpe til",
+          "scores": {
+            "snoskuffe": 2,
+            "pulk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I hjørnet med god utsikt",
+          "scores": {
+            "truger": 2,
+            "langrennsski": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hvor som helst",
+          "scores": {
+            "rattkjelke": 2,
+            "spark": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen har tatt plassen din. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier vennlig fra",
+          "scores": {
+            "spark": 2,
+            "langrennsski": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner en annen plass",
+          "scores": {
+            "truger": 2,
+            "akebrett": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler og setter meg ved siden av",
+          "scores": {
+            "snowboard": 2,
+            "rattkjelke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venter til de går",
+          "scores": {
+            "skoyter": 2,
+            "truger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier tydelig at det er min plass",
+          "scores": {
+            "slalamski": 2,
+            "snoskuffe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør om vi kan dele",
+          "scores": {
+            "pulk": 1,
+            "spark": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket dyr på bondegården liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hest",
+          "scores": {
+            "slalamski": 2,
+            "skoyter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ku",
+          "scores": {
+            "spark": 1,
+            "pulk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gris",
+          "scores": {
+            "akebrett": 1,
+            "snowboard": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Høne",
+          "scores": {
+            "rattkjelke": 2,
+            "snoskuffe": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sau",
+          "scores": {
+            "langrennsski": 2,
+            "truger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Geit",
+          "scores": {
+            "snowboard": 2,
+            "rattkjelke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får en skikkelig god nyhet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper og danser",
+          "scores": {
+            "akebrett": 2,
+            "snowboard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer noen med en gang",
+          "scores": {
+            "spark": 1,
+            "slalamski": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Smiler for meg selv",
+          "scores": {
+            "truger": 2,
+            "langrennsski": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Feirer med noe godt",
+          "scores": {
+            "rattkjelke": 2,
+            "skoyter": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker på hva som skal skje videre",
+          "scores": {
+            "pulk": 2,
+            "snoskuffe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller det til alle jeg møter",
+          "scores": {
+            "slalamski": 2,
+            "akebrett": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva lager du helst på juleverkstedet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Julekurver",
+          "scores": {
+            "spark": 1,
+            "pulk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pepperkakehus",
+          "scores": {
+            "snoskuffe": 2,
+            "langrennsski": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nisser av kongler",
+          "scores": {
+            "truger": 2,
+            "akebrett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Papirstjerner",
+          "scores": {
+            "skoyter": 2,
+            "slalamski": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Figurer av halm",
+          "scores": {
+            "langrennsski": 2,
+            "pulk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe helt eget som ingen har sett før",
+          "scores": {
+            "snowboard": 2,
+            "rattkjelke": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "spark",
+      "name": "Spark",
+      "shareName": "en spark",
+      "emoji": null,
+      "description": "Du er sosial, praktisk og alltid klar til å ta med deg noen. Du har en gammeldags sjarm som alle liker.",
+      "funFact": "Sparken har vært brukt i Norden siden 1800-tallet.",
+      "image": "images/2026-12-20/spark.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Plass til en til."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Kommer seg fram."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Tar med andre."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Litt gammeldags."
+        }
+      ]
+    },
+    {
+      "id": "rattkjelke",
+      "name": "Rattkjelke",
+      "shareName": "en rattkjelke",
+      "emoji": null,
+      "description": "Du er fartsglad, men liker å ha kontroll. Du styrer trygt gjennom alle svinger.",
+      "funFact": "Rattkjelken styres med et ratt som vrir på de fremste meiene.",
+      "image": "images/2026-12-20/rattkjelke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fartsglad",
+          "text": "Elsker bakker."
+        },
+        {
+          "title": "Kontrollert",
+          "text": "Styrer selv."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar svingene."
+        }
+      ]
+    },
+    {
+      "id": "akebrett",
+      "name": "Akebrett",
+      "shareName": "et akebrett",
+      "emoji": null,
+      "description": "Du er leken, spontan og alltid klar for moro. Du får selv voksne til å le som barn.",
+      "funFact": "Aking er en av de mest populære vinteraktivitetene for barn i Norge.",
+      "image": "images/2026-12-20/akebrett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Moro hele dagen."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja med en gang."
+        },
+        {
+          "title": "Glad",
+          "text": "Ler hele veien."
+        },
+        {
+          "title": "Ukomplisert",
+          "text": "Enkelt er best."
+        }
+      ]
+    },
+    {
+      "id": "langrennsski",
+      "name": "Langrennsski",
+      "shareName": "et par langrennsski",
+      "emoji": null,
+      "description": "Du er utholdende, naturglad og trives best ute i sporet. Du har god tid og kommer langt.",
+      "funFact": "En helleristning på Rødøy i Nordland viser en skiløper og er rundt 5000 år gammel.",
+      "image": "images/2026-12-20/langrennsski.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Går og går."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives ute."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker norske skikker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Jevnt og trutt."
+        }
+      ]
+    },
+    {
+      "id": "slalamski",
+      "name": "Slalåmski",
+      "shareName": "et par slalåmski",
+      "emoji": null,
+      "description": "Du er modig, fartsglad og har stil. Etter en dag i bakken er du også med på det sosiale.",
+      "funFact": "Ordet slalåm kommer fra norsk: «sla» betyr skrånende, og «låm» betyr spor.",
+      "image": "images/2026-12-20/slalamski.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Rett ned bakken."
+        },
+        {
+          "title": "Fartsglad",
+          "text": "Jo fortere jo bedre."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Ser bra ut."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker afterski."
+        }
+      ]
+    },
+    {
+      "id": "skoyter",
+      "name": "Skøyter",
+      "shareName": "et par skøyter",
+      "emoji": null,
+      "description": "Du er elegant, rytmisk og har god balanse. Du gjør vanskelige ting enkle å se på.",
+      "funFact": "De eldste skøytene var laget av dyrebein.",
+      "image": "images/2026-12-20/skoyter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Glir lett."
+        },
+        {
+          "title": "Balansert",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Har takten."
+        },
+        {
+          "title": "Grasiøs",
+          "text": "Vakker å se på."
+        }
+      ]
+    },
+    {
+      "id": "snoskuffe",
+      "name": "Snøskuffe",
+      "shareName": "en snøskuffe",
+      "emoji": null,
+      "description": "Du er hjelpsom, flittig og får jobben gjort. Uten deg hadde ingen kommet seg ut døra.",
+      "funFact": "En kubikkmeter våt snø kan veie flere hundre kilo.",
+      "image": "images/2026-12-20/snoskuffe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Rydder vei."
+        },
+        {
+          "title": "Flittig",
+          "text": "Står på."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser problemer."
+        }
+      ]
+    },
+    {
+      "id": "pulk",
+      "name": "Pulk",
+      "shareName": "en pulk",
+      "emoji": null,
+      "description": "Du er omsorgsfull og sterk, og du drar gjerne lasset for andre. Du planlegger godt for lange turer.",
+      "funFact": "Polfarere drar ofte utstyret sitt i pulk over isen.",
+      "image": "images/2026-12-20/pulk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar med alle."
+        },
+        {
+          "title": "Sterk",
+          "text": "Drar lasset."
+        },
+        {
+          "title": "Planlegger",
+          "text": "Forberedt på alt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Følger med hele veien."
+        }
+      ]
+    },
+    {
+      "id": "truger",
+      "name": "Truger",
+      "shareName": "et par truger",
+      "emoji": null,
+      "description": "Du er tålmodig, rolig og liker å finne nye stier. Du kommer fram der andre synker ned.",
+      "funFact": "Med truger fordeles vekten, slik at man ikke synker så langt ned i snøen.",
+      "image": "images/2026-12-20/truger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ett steg om gangen."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Finner nye stier."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Går egne veier."
+        }
+      ]
+    },
+    {
+      "id": "snowboard",
+      "name": "Snowboard",
+      "shareName": "et snowboard",
+      "emoji": null,
+      "description": "Du er kul, kreativ og avslappet. Du finner din egen vei ned bakken.",
+      "funFact": "Snowboard ble en olympisk gren i 1998, i Nagano i Japan.",
+      "image": "images/2026-12-20/snowboard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Har egen stil."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Gjør det annerledes."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å hoppe."
+        }
+      ]
+    }
+  ]
+}

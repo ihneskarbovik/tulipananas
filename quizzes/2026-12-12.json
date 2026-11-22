@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-12",
+  "date": "2026-12-12",
+  "title": "Hvilken nøtt er du i dag?",
+  "intro": "Desember er nøttenes måned. Er du en norsk hasselnøtt, en eksotisk kokosnøtt eller en tøff macadamia? Svar på sju spørsmål og finn ut hvilken nøtt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva har du med i matpakka på tur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brødskiver med brunost",
+          "scores": {
+            "hasselnott": 2,
+            "valnott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kvikklunsj og appelsin",
+          "scores": {
+            "peanott": 2,
+            "pistasj": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pølser til å grille",
+          "scores": {
+            "paranott": 2,
+            "kokosnott": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En termos med suppe",
+          "scores": {
+            "kastanje": 2,
+            "cashew": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rester fra middagen",
+          "scores": {
+            "macadamia": 2,
+            "eikenott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjemmebakte boller",
+          "scores": {
+            "pekan": 2,
+            "mandel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du møter en gammel venn tilfeldig i butikken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klemmer og prater i en evighet",
+          "scores": {
+            "peanott": 2,
+            "pekan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Foreslår at vi tar en kaffe",
+          "scores": {
+            "mandel": 2,
+            "cashew": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hilser hyggelig og avtaler å ses",
+          "scores": {
+            "valnott": 2,
+            "hasselnott": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir så glad at jeg glemmer handlelista",
+          "scores": {
+            "pistasj": 2,
+            "kokosnott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer på om de husker meg",
+          "scores": {
+            "eikenott": 2,
+            "kastanje": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gir et stort smil og et kort hei",
+          "scores": {
+            "macadamia": 2,
+            "paranott": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken chips-smak velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Salt",
+          "scores": {
+            "hasselnott": 2,
+            "eikenott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Paprika",
+          "scores": {
+            "peanott": 1,
+            "pistasj": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rømme og løk",
+          "scores": {
+            "cashew": 2,
+            "pekan": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Salt og pepper",
+          "scores": {
+            "valnott": 2,
+            "macadamia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sterk chili",
+          "scores": {
+            "kokosnott": 2,
+            "paranott": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar heller popcorn",
+          "scores": {
+            "mandel": 1,
+            "kastanje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket dyr ville du helst sett i hagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ekorn",
+          "scores": {
+            "eikenott": 2,
+            "hasselnott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pinnsvin",
+          "scores": {
+            "cashew": 2,
+            "kastanje": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rådyr",
+          "scores": {
+            "mandel": 2,
+            "valnott": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fugler på fuglebrettet",
+          "scores": {
+            "pistasj": 2,
+            "pekan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En rev",
+          "scores": {
+            "macadamia": 2,
+            "kokosnott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Katten til naboen",
+          "scores": {
+            "peanott": 1,
+            "paranott": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får sjansen til å prøve noe nytt og litt skummelt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaster meg ut i det",
+          "scores": {
+            "kokosnott": 2,
+            "peanott": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver hvis en venn blir med",
+          "scores": {
+            "pistasj": 2,
+            "cashew": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på noen andre først",
+          "scores": {
+            "valnott": 2,
+            "eikenott": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier nei takk, ikke i dag",
+          "scores": {
+            "kastanje": 2,
+            "hasselnott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forbereder meg godt først",
+          "scores": {
+            "macadamia": 2,
+            "mandel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør det for å ha noe å fortelle",
+          "scores": {
+            "paranott": 2,
+            "pekan": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva vil du helst ha på pannekakene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sukker",
+          "scores": {
+            "hasselnott": 2,
+            "eikenott": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Syltetøy",
+          "scores": {
+            "pekan": 2,
+            "cashew": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blåbær og is",
+          "scores": {
+            "pistasj": 2,
+            "mandel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bacon",
+          "scores": {
+            "paranott": 2,
+            "macadamia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjokoladesaus",
+          "scores": {
+            "peanott": 2,
+            "kokosnott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sirup og smør",
+          "scores": {
+            "kastanje": 2,
+            "valnott": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva setter du ut til nissen på julaften?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grøt med smør",
+          "scores": {
+            "hasselnott": 1,
+            "kastanje": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et glass melk og pepperkaker",
+          "scores": {
+            "cashew": 2,
+            "pekan": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En liten gave",
+          "scores": {
+            "mandel": 2,
+            "pistasj": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et brev",
+          "scores": {
+            "eikenott": 2,
+            "valnott": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, nissen klarer seg",
+          "scores": {
+            "macadamia": 2,
+            "paranott": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Masse godteri",
+          "scores": {
+            "peanott": 2,
+            "kokosnott": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "hasselnott",
+      "name": "Hasselnøtt",
+      "shareName": "en hasselnøtt",
+      "emoji": null,
+      "description": "Du er jordnær, koselig og sterkere enn du ser ut. Folk føler seg hjemme sammen med deg.",
+      "funFact": "Hassel vokser vilt i Norge, og nøttene modner om høsten.",
+      "image": "images/2026-12-12/hasselnott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det hyggelig."
+        },
+        {
+          "title": "Sterk",
+          "text": "Liten, men tøff."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer igjen hvert år."
+        }
+      ]
+    },
+    {
+      "id": "valnott",
+      "name": "Valnøtt",
+      "shareName": "en valnøtt",
+      "emoji": null,
+      "description": "Du er klok, grundig og tenker deg godt om. Andre kommer gjerne til deg for et godt råd.",
+      "funFact": "Valnøtten ligner litt på en liten hjerne.",
+      "image": "images/2026-12-12/valnott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker grundig."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Rådgiver",
+          "text": "Gir gode råd."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Ser dypt i ting."
+        }
+      ]
+    },
+    {
+      "id": "mandel",
+      "name": "Mandel",
+      "shareName": "en mandel",
+      "emoji": null,
+      "description": "Du er elegant, allsidig og passer inn overalt. Du gjør alt du er med på litt bedre.",
+      "funFact": "Mandelen er egentlig steinen i en frukt som er i slekt med fersken.",
+      "image": "images/2026-12-12/mandel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid stilfull."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Søt",
+          "text": "Snill mot alle."
+        }
+      ]
+    },
+    {
+      "id": "peanott",
+      "name": "Peanøtt",
+      "shareName": "en peanøtt",
+      "emoji": null,
+      "description": "Du er folkelig, morsom og full av overraskelser. Du er den alle vil ha med.",
+      "funFact": "Peanøtten er egentlig ikke en nøtt, men en belgfrukt i slekt med erter.",
+      "image": "images/2026-12-12/peanott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Folkelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Ikke helt som ventet."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        }
+      ]
+    },
+    {
+      "id": "cashew",
+      "name": "Cashewnøtt",
+      "shareName": "en cashewnøtt",
+      "emoji": null,
+      "description": "Du er myk, snill og avslappet. Du gjør stemningen roligere uansett hvor du er.",
+      "funFact": "Cashewnøtten vokser under en frukt som kalles cashew-eple.",
+      "image": "images/2026-12-12/cashew.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og rolig."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være rundt."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        }
+      ]
+    },
+    {
+      "id": "pistasj",
+      "name": "Pistasjnøtt",
+      "shareName": "en pistasjnøtt",
+      "emoji": null,
+      "description": "Du er åpen, nysgjerrig og sosial. Du deler gjerne det du har med alle rundt deg.",
+      "funFact": "Pistasjnøtter sprekker opp av seg selv når de er modne.",
+      "image": "images/2026-12-12/pistasj.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Deler alt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve nytt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i lag."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        }
+      ]
+    },
+    {
+      "id": "paranott",
+      "name": "Paranøtt",
+      "shareName": "en paranøtt",
+      "emoji": null,
+      "description": "Du er raus, sterk og passer godt på dem du er glad i. Du tar stor plass på en god måte.",
+      "funFact": "Paranøtter vokser mange sammen inni store, harde kapsler.",
+      "image": "images/2026-12-12/paranott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Stor og gavmild."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sammen."
+        }
+      ]
+    },
+    {
+      "id": "kokosnott",
+      "name": "Kokosnøtt",
+      "shareName": "en kokosnøtt",
+      "emoji": null,
+      "description": "Du er eventyrlysten og reiseglad, med et tøft ytre og en myk kjerne. Du trives overalt der det er sol og nye ting å oppdage.",
+      "funFact": "Kokosnøtter kan flyte over havet og spire på en helt ny strand.",
+      "image": "images/2026-12-12/kokosnott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Tøff",
+          "text": "Hard utenpå."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill innerst inne."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Elsker sommer."
+        }
+      ]
+    },
+    {
+      "id": "pekan",
+      "name": "Pekannøtt",
+      "shareName": "en pekannøtt",
+      "emoji": null,
+      "description": "Du er varm, gjestfri og elsker å samle folk rundt bordet. Du gjør hverdagen litt mer festlig.",
+      "funFact": "Pekannøtten kommer fra Nord-Amerika og brukes i pekanpai.",
+      "image": "images/2026-12-12/pekan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Søt",
+          "text": "Sprer glede."
+        }
+      ]
+    },
+    {
+      "id": "macadamia",
+      "name": "Macadamianøtt",
+      "shareName": "en macadamianøtt",
+      "emoji": null,
+      "description": "Du er tøff, utholdende og gir deg ikke så lett. Det tar tid å bli kjent med deg, men det er verdt det.",
+      "funFact": "Macadamianøtten har et av de hardeste skallene av alle nøtter.",
+      "image": "images/2026-12-12/macadamia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Holder ut lenge."
+        },
+        {
+          "title": "Eksklusiv",
+          "text": "Litt sjelden."
+        },
+        {
+          "title": "Lojal",
+          "text": "Gull verdt."
+        }
+      ]
+    },
+    {
+      "id": "kastanje",
+      "name": "Kastanje",
+      "shareName": "en kastanje",
+      "emoji": null,
+      "description": "Du er koselig, varm og litt gammeldags på en fin måte. Du gjør vinteren lysere for alle.",
+      "funFact": "Ristede kastanjer selges på gatene i mange europeiske byer om vinteren.",
+      "image": "images/2026-12-12/kastanje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varmer på kalde dager."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gamle tradisjoner."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å være rundt."
+        }
+      ]
+    },
+    {
+      "id": "eikenott",
+      "name": "Eikenøtt",
+      "shareName": "en eikenøtt",
+      "emoji": null,
+      "description": "Du er tålmodig og drømmende, og du har store planer. Du vet at små ting kan bli til noe stort.",
+      "funFact": "Ekorn og nøtteskriker gjemmer eikenøtter og glemmer noen av dem, slik at nye eiker kan vokse opp.",
+      "image": "images/2026-12-12/eikenott.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Vokser i sitt tempo."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Store planer."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten, men viktig."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives i skogen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2026-12-09",
+  "date": "2026-12-09",
+  "title": "Hvilken sky er du i dag?",
+  "intro": "Er du en glad haugsky, en høy fjærsky eller en magisk perlemorsky? Svar på sju spørsmål og finn ut hvilken sky du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken frisyre ville du helst prøvd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt kort",
+          "scores": {
+            "kondensstripe": 2,
+            "tordensky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Langt og bølgete",
+          "scores": {
+            "fjaersky": 2,
+            "perlemorsky": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Store krøller",
+          "scores": {
+            "haugsky": 1,
+            "makrellsky": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En enkel knute",
+          "scores": {
+            "lagsky": 1,
+            "linsesky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En sterk farge",
+          "scores": {
+            "perlemorsky": 2,
+            "tordensky": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Akkurat som nå",
+          "scores": {
+            "take": 2,
+            "lagsky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du er litt forkjølet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fortsetter som normalt",
+          "scores": {
+            "kondensstripe": 2,
+            "tordensky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Legger meg under dyna med te",
+          "scores": {
+            "take": 2,
+            "lagsky": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser filmer hele dagen",
+          "scores": {
+            "fjaersky": 2,
+            "nattlysende": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier fra til alle at jeg er syk",
+          "scores": {
+            "haugsky": 2,
+            "makrellsky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en rolig tur i frisk luft",
+          "scores": {
+            "linsesky": 2,
+            "perlemorsky": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager suppe og passer på meg selv",
+          "scores": {
+            "lagsky": 1,
+            "makrellsky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan vil du ha pølsa di?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I lompe med ketchup og sennep",
+          "scores": {
+            "haugsky": 2,
+            "lagsky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I brød med masse tilbehør",
+          "scores": {
+            "makrellsky": 2,
+            "tordensky": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grillet på bålet",
+          "scores": {
+            "kondensstripe": 2,
+            "fjaersky": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med potetmos",
+          "scores": {
+            "take": 2,
+            "lagsky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med sprøstekt løk og rekesalat",
+          "scores": {
+            "perlemorsky": 2,
+            "nattlysende": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spiser heller noe annet",
+          "scores": {
+            "linsesky": 2,
+            "nattlysende": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har gjort en feil som andre merker. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier unnskyld og fikser det",
+          "scores": {
+            "lagsky": 2,
+            "makrellsky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler litt av det",
+          "scores": {
+            "haugsky": 1,
+            "kondensstripe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir litt sur på meg selv",
+          "scores": {
+            "tordensky": 1,
+            "nattlysende": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker lenge på hvordan det skjedde",
+          "scores": {
+            "take": 2,
+            "linsesky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lærer av det og går videre",
+          "scores": {
+            "fjaersky": 2,
+            "perlemorsky": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forklarer hva som skjedde",
+          "scores": {
+            "makrellsky": 1,
+            "tordensky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan liker du egg best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bløtkokt",
+          "scores": {
+            "lagsky": 1,
+            "linsesky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Speilegg",
+          "scores": {
+            "haugsky": 1,
+            "kondensstripe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Eggerøre",
+          "scores": {
+            "take": 1,
+            "makrellsky": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Omelett med mye fyll",
+          "scores": {
+            "tordensky": 2,
+            "makrellsky": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Posjert",
+          "scores": {
+            "fjaersky": 2,
+            "perlemorsky": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker ikke egg",
+          "scores": {
+            "nattlysende": 2,
+            "linsesky": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du snubler foran mange folk. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler høyt og bukker",
+          "scores": {
+            "haugsky": 2,
+            "tordensky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Reiser meg fort og går videre",
+          "scores": {
+            "kondensstripe": 2,
+            "lagsky": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir rød og later som ingenting",
+          "scores": {
+            "take": 2,
+            "linsesky": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kommer med en morsom kommentar",
+          "scores": {
+            "makrellsky": 2,
+            "perlemorsky": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjekker om noen så det",
+          "scores": {
+            "nattlysende": 2,
+            "fjaersky": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "lagsky": 2,
+            "linsesky": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken risrett liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sushi",
+          "scores": {
+            "linsesky": 2,
+            "perlemorsky": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Risotto",
+          "scores": {
+            "fjaersky": 1,
+            "take": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Paella",
+          "scores": {
+            "haugsky": 1,
+            "makrellsky": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Risengrynsgrøt",
+          "scores": {
+            "lagsky": 1,
+            "take": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Stekt ris",
+          "scores": {
+            "kondensstripe": 2,
+            "tordensky": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En krydret karri med ris",
+          "scores": {
+            "tordensky": 2,
+            "nattlysende": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "haugsky",
+      "name": "Haugsky",
+      "shareName": "en haugsky",
+      "emoji": null,
+      "description": "Du er glad, lett og elsker gode dager med venner. Du får folk til å smile bare ved å dukke opp.",
+      "funFact": "Haugskyer er de klassiske «bomullsskyene», og de dannes ofte på fine sommerdager.",
+      "image": "images/2026-12-09/haugsky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting lett."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Sorgløs",
+          "text": "Bekymrer seg lite."
+        }
+      ]
+    },
+    {
+      "id": "fjaersky",
+      "name": "Fjærsky",
+      "shareName": "en fjærsky",
+      "emoji": null,
+      "description": "Du er drømmende, fri og har tankene høyt oppe. Du ser verden fra et litt annet perspektiv.",
+      "funFact": "Fjærskyer ligger så høyt at de består av iskrystaller.",
+      "image": "images/2026-12-09/fjaersky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Tankene høyt oppe."
+        },
+        {
+          "title": "Fri",
+          "text": "Går dit vinden blåser."
+        },
+        {
+          "title": "Elegant",
+          "text": "Lett og fin."
+        },
+        {
+          "title": "Rolig",
+          "text": "Svever gjennom dagen."
+        }
+      ]
+    },
+    {
+      "id": "lagsky",
+      "name": "Lagsky",
+      "shareName": "en lagsky",
+      "emoji": null,
+      "description": "Du er rolig, stødig og liker at ting er som de pleier. Du er en trygg havn for andre.",
+      "funFact": "Lagskyer ligger lavt og kan dekke hele himmelen som et grått teppe.",
+      "image": "images/2026-12-09/lagsky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingenting stresser deg."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite plass."
+        },
+        {
+          "title": "Trygg",
+          "text": "Som et varmt teppe."
+        }
+      ]
+    },
+    {
+      "id": "tordensky",
+      "name": "Tordensky",
+      "shareName": "en tordensky",
+      "emoji": null,
+      "description": "Du er energisk, intens og full av krefter. Når du bestemmer deg for noe, merker alle det.",
+      "funFact": "Tordenskyer kan bli over ti kilometer høye.",
+      "image": "images/2026-12-09/tordensky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Intens",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta plass."
+        },
+        {
+          "title": "Lidenskapelig",
+          "text": "Brenner for ting."
+        }
+      ]
+    },
+    {
+      "id": "makrellsky",
+      "name": "Makrellsky",
+      "shareName": "en makrellsky",
+      "emoji": null,
+      "description": "Du er sosial, systematisk og liker når ting henger sammen. Du er best når du er en del av en gjeng.",
+      "funFact": "Makrellskyer har fått navnet fordi de ser ut som mønsteret på en makrell.",
+      "image": "images/2026-12-09/makrellsky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Best i flokk."
+        },
+        {
+          "title": "Systematisk",
+          "text": "Liker mønstre."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser de små tingene."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Spiller på lag."
+        }
+      ]
+    },
+    {
+      "id": "linsesky",
+      "name": "Linsesky",
+      "shareName": "en linsesky",
+      "emoji": null,
+      "description": "Du er rolig, unik og litt mystisk. Folk stopper opp og lurer på hva du tenker.",
+      "funFact": "Linseformede skyer dannes ofte over fjell og kan ligne flygende tallerkener.",
+      "image": "images/2026-12-09/linsesky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Helt ulik andre."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Vanskelig å lese."
+        },
+        {
+          "title": "Rolig",
+          "text": "Står helt stille."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Lett å huske."
+        }
+      ]
+    },
+    {
+      "id": "perlemorsky",
+      "name": "Perlemorsky",
+      "shareName": "en perlemorsky",
+      "emoji": null,
+      "description": "Du er sjelden, fargerik og litt magisk. Når du dukker opp, blir dagen spesiell.",
+      "funFact": "Perlemorskyer kan sees i Norge om vinteren og skinner i regnbuens farger.",
+      "image": "images/2026-12-09/perlemorsky.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp alt."
+        },
+        {
+          "title": "Magisk",
+          "text": "Får folk til å stoppe."
+        },
+        {
+          "title": "Vinterglad",
+          "text": "Skinner i kulda."
+        }
+      ]
+    },
+    {
+      "id": "nattlysende",
+      "name": "Nattlysende sky",
+      "shareName": "en nattlysende sky",
+      "emoji": null,
+      "description": "Du er et nattmenneske med store tanker. Du lyser opp når andre har lagt seg.",
+      "funFact": "Nattlysende skyer er de høyeste skyene vi kjenner, over 80 kilometer oppe.",
+      "image": "images/2026-12-09/nattlysende.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nattmenneske",
+          "text": "Våken når andre sover."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Vanskelig å finne."
+        },
+        {
+          "title": "Lysende",
+          "text": "Skinner i mørket."
+        }
+      ]
+    },
+    {
+      "id": "take",
+      "name": "Tåke",
+      "shareName": "tåke",
+      "emoji": null,
+      "description": "Du er myk, mystisk og litt innadvendt. Du gjør verden roligere rundt deg.",
+      "funFact": "Tåke er egentlig en sky som ligger helt nede ved bakken.",
+      "image": "images/2026-12-09/take.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Legger seg rolig."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Innadvendt",
+          "text": "Trives i stillhet."
+        },
+        {
+          "title": "Rolig",
+          "text": "Demper all støy."
+        }
+      ]
+    },
+    {
+      "id": "kondensstripe",
+      "name": "Kondensstripe",
+      "shareName": "en kondensstripe",
+      "emoji": null,
+      "description": "Du er rask, målrettet og alltid på vei et sted. Du etterlater deg spor der du har vært.",
+      "funFact": "Kondensstriper dannes når vanndampen fra flymotorer fryser til iskrystaller.",
+      "image": "images/2026-12-09/kondensstripe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vet hvor du skal."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Setter spor."
+        }
+      ]
+    }
+  ]
+}

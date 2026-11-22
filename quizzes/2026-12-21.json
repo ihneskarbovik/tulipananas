@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-21",
+  "date": "2026-12-21",
+  "title": "Hvilken klokke er du i dag?",
+  "intro": "I dag er det vintersolverv, og fra nå av blir dagene lengre. Er du en presis vekkerklokke, et lekent gjøkur eller et rolig timeglass? Svar på sju spørsmål og finn ut hvilken klokke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken ost liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brunost",
+          "scores": {
+            "gulvur": 2,
+            "eggeklokke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vanlig gulost",
+          "scores": {
+            "veggur": 2,
+            "armbandsur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brie",
+          "scores": {
+            "lommeur": 2,
+            "gjokur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Parmesan",
+          "scores": {
+            "smartklokke": 2,
+            "stoppeklokke": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mozzarella på pizza",
+          "scores": {
+            "digitalur": 2,
+            "vekkerklokke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blåmuggost",
+          "scores": {
+            "timeglass": 2,
+            "solur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har avtalt å møte en venn, men vennen er sent ute. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter tålmodig",
+          "scores": {
+            "timeglass": 2,
+            "gulvur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer for å høre hvor de er",
+          "scores": {
+            "smartklokke": 2,
+            "armbandsur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir litt irritert",
+          "scores": {
+            "stoppeklokke": 2,
+            "vekkerklokke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjøper meg noe godt mens jeg venter",
+          "scores": {
+            "eggeklokke": 2,
+            "gjokur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser på folk og koser meg",
+          "scores": {
+            "solur": 2,
+            "lommeur": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg er som regel sent ute selv",
+          "scores": {
+            "veggur": 2,
+            "digitalur": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du å gjøre når alle andre har lagt seg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legger meg jeg også",
+          "scores": {
+            "vekkerklokke": 2,
+            "armbandsur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser en bok",
+          "scores": {
+            "lommeur": 2,
+            "timeglass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på stjernene",
+          "scores": {
+            "solur": 2,
+            "gulvur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spiller eller ser en serie",
+          "scores": {
+            "digitalur": 2,
+            "smartklokke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe kreativt",
+          "scores": {
+            "gjokur": 1,
+            "eggeklokke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder og gjør klart til i morgen",
+          "scores": {
+            "veggur": 2,
+            "stoppeklokke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du når du ser en trist film?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gråter masse",
+          "scores": {
+            "gjokur": 2,
+            "timeglass": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir stille lenge etterpå",
+          "scores": {
+            "solur": 2,
+            "gulvur": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Later som jeg har noe i øyet",
+          "scores": {
+            "armbandsur": 2,
+            "digitalur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vil prate om den etterpå",
+          "scores": {
+            "veggur": 2,
+            "eggeklokke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser heller noe morsomt",
+          "scores": {
+            "vekkerklokke": 1,
+            "stoppeklokke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Koser meg, triste filmer er fine",
+          "scores": {
+            "lommeur": 1,
+            "smartklokke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva liker du best å tegne med?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blyant",
+          "scores": {
+            "lommeur": 2,
+            "gulvur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fargestifter",
+          "scores": {
+            "gjokur": 1,
+            "eggeklokke": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tusj",
+          "scores": {
+            "digitalur": 2,
+            "stoppeklokke": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vannfarger",
+          "scores": {
+            "timeglass": 1,
+            "solur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På nettbrett",
+          "scores": {
+            "smartklokke": 2,
+            "vekkerklokke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kritt på asfalten",
+          "scores": {
+            "veggur": 2,
+            "armbandsur": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan sier du nei til noe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett ut og ærlig",
+          "scores": {
+            "digitalur": 2,
+            "stoppeklokke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høflig, med en god grunn",
+          "scores": {
+            "lommeur": 2,
+            "armbandsur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg sier nesten alltid ja",
+          "scores": {
+            "gjokur": 2,
+            "eggeklokke": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier at jeg skal tenke på det",
+          "scores": {
+            "timeglass": 2,
+            "gulvur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår noe annet i stedet",
+          "scores": {
+            "smartklokke": 2,
+            "veggur": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med et smil og en spøk",
+          "scores": {
+            "vekkerklokke": 2,
+            "solur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er årets mørkeste dag. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner masse lys",
+          "scores": {
+            "gulvur": 2,
+            "lommeur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går ut og nyter mørket",
+          "scores": {
+            "solur": 2,
+            "timeglass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Feirer at dagene blir lengre",
+          "scores": {
+            "gjokur": 2,
+            "vekkerklokke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Legger meg tidlig",
+          "scores": {
+            "eggeklokke": 2,
+            "veggur": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør det samme som alltid",
+          "scores": {
+            "armbandsur": 2,
+            "digitalur": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Trener ekstra for å få energi",
+          "scores": {
+            "stoppeklokke": 2,
+            "smartklokke": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "vekkerklokke",
+      "name": "Vekkerklokke",
+      "shareName": "en vekkerklokke",
+      "emoji": null,
+      "description": "Du er energisk, presis og alltid tidlig oppe. Du får andre i gang når de helst vil sove.",
+      "funFact": "Før vekkerklokker ble vanlige, fikk enkelte i Storbritannia betalt for å banke på vinduer og vekke folk.",
+      "image": "images/2026-12-21/vekkerklokke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morgenfugl",
+          "text": "Tidlig oppe."
+        },
+        {
+          "title": "Presis",
+          "text": "Alltid i tide."
+        },
+        {
+          "title": "Energisk",
+          "text": "Får alle i gang."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Glemmer aldri."
+        }
+      ]
+    },
+    {
+      "id": "armbandsur",
+      "name": "Armbåndsur",
+      "shareName": "et armbåndsur",
+      "emoji": null,
+      "description": "Du er praktisk, pålitelig og alltid i tide. Du har stil uten å gjøre noe nummer av det.",
+      "funFact": "Armbåndsur ble vanlige for menn under første verdenskrig.",
+      "image": "images/2026-12-21/armbandsur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid med deg."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder tiden."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Diskret pent."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "gulvur",
+      "name": "Gulvur",
+      "shareName": "et gulvur",
+      "emoji": null,
+      "description": "Du er stødig, klok og glad i tradisjoner. Du har sett mye, og du tar ting med ro.",
+      "funFact": "Et gulvur har en lang pendel som hjelper det å gå svært nøyaktig.",
+      "image": "images/2026-12-21/gulvur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker det gamle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tikk takk i ro."
+        }
+      ]
+    },
+    {
+      "id": "gjokur",
+      "name": "Gjøkur",
+      "shareName": "et gjøkur",
+      "emoji": null,
+      "description": "Du er leken, sjarmerende og full av overraskelser. Du får folk til å smile når de minst venter det.",
+      "funFact": "Gjøkuret er kjent fra Schwarzwald i Tyskland.",
+      "image": "images/2026-12-21/gjokur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp plutselig."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        }
+      ]
+    },
+    {
+      "id": "timeglass",
+      "name": "Timeglass",
+      "shareName": "et timeglass",
+      "emoji": null,
+      "description": "Du er tålmodig, ettertenksom og flink til å være til stede. Du vet at hvert øyeblikk teller.",
+      "funFact": "Timeglass ble brukt på skip for å holde styr på vaktene.",
+      "image": "images/2026-12-21/timeglass.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ett sandkorn om gangen."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Tilstede",
+          "text": "Lever nå."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "solur",
+      "name": "Solur",
+      "shareName": "et solur",
+      "emoji": null,
+      "description": "Du er solfylt, naturglad og har gammel visdom. Du trives best ute i lyset.",
+      "funFact": "Et solur viser tiden ved hjelp av skyggen fra sola.",
+      "image": "images/2026-12-21/solur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solfylt",
+          "text": "Elsker lyset."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives ute."
+        },
+        {
+          "title": "Klok",
+          "text": "Gammel visdom."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Følger sola."
+        }
+      ]
+    },
+    {
+      "id": "lommeur",
+      "name": "Lommeur",
+      "shareName": "et lommeur",
+      "emoji": null,
+      "description": "Du er elegant, ordentlig og litt hemmelighetsfull. Du har en sjarm fra en annen tid.",
+      "funFact": "Lommeur var vanlige før armbåndsuret og ble ofte festet med en kjede.",
+      "image": "images/2026-12-21/lommeur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Klassisk stil."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gamle ting."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Har noe i lomma."
+        }
+      ]
+    },
+    {
+      "id": "stoppeklokke",
+      "name": "Stoppeklokke",
+      "shareName": "en stoppeklokke",
+      "emoji": null,
+      "description": "Du er rask, presis og elsker en utfordring. Du liker å slå dine egne rekorder.",
+      "funFact": "I friidrett måles tidene med elektronisk tidtaking i hundredeler av sekunder.",
+      "image": "images/2026-12-21/stoppeklokke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Ingen tid å miste."
+        },
+        {
+          "title": "Presis",
+          "text": "Måler alt."
+        },
+        {
+          "title": "Konkurranse",
+          "text": "Elsker å vinne."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klar, ferdig, gå."
+        }
+      ]
+    },
+    {
+      "id": "smartklokke",
+      "name": "Smartklokke",
+      "shareName": "en smartklokke",
+      "emoji": null,
+      "description": "Du er moderne, aktiv og nysgjerrig. Du holder styr på mye på én gang.",
+      "funFact": "En smartklokke kan blant annet måle pulsen.",
+      "image": "images/2026-12-21/smartklokke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Alltid oppdatert."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Teller skrittene."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Mange ting samtidig."
+        }
+      ]
+    },
+    {
+      "id": "eggeklokke",
+      "name": "Eggeklokke",
+      "shareName": "en eggeklokke",
+      "emoji": null,
+      "description": "Du er hjemmekjær, praktisk og koselig. Du sørger for at alt blir akkurat passe.",
+      "funFact": "Et bløtkokt egg tar omtrent fem til seks minutter.",
+      "image": "images/2026-12-21/eggeklokke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives på kjøkkenet."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det hyggelig."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "veggur",
+      "name": "Veggur",
+      "shareName": "et veggur",
+      "emoji": null,
+      "description": "Du er stødig og hører til i fellesskapet. Alle kikker på deg for å vite hva som skjer.",
+      "funFact": "Viserne på klokka går «med klokka» fordi skyggen på et solur går den veien her i nord.",
+      "image": "images/2026-12-21/veggur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Henger trygt."
+        },
+        {
+          "title": "Synlig",
+          "text": "Alle ser deg."
+        },
+        {
+          "title": "Rutinert",
+          "text": "Liker faste vaner."
+        },
+        {
+          "title": "Samlende",
+          "text": "Holder alle i takt."
+        }
+      ]
+    },
+    {
+      "id": "digitalur",
+      "name": "Digitalur",
+      "shareName": "et digitalur",
+      "emoji": null,
+      "description": "Du er moderne, tydelig og rett fram. Du sier akkurat hvordan ting er.",
+      "funFact": "De første digitale armbåndsurene kom på 1970-tallet.",
+      "image": "images/2026-12-21/digitalur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Rett fram."
+        },
+        {
+          "title": "Moderne",
+          "text": "Følger med."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Ingen omveier."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser det som det er."
+        }
+      ]
+    }
+  ]
+}

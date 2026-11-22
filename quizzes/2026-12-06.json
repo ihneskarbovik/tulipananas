@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-06",
+  "date": "2026-12-06",
+  "title": "Hvilket stjernebilde er du i dag?",
+  "intro": "De lange desemberkveldene er perfekte for å se opp på himmelen. Er du den store jegeren Orion, den lille Lyren eller den kjente Store Bjørn? Svar på sju spørsmål og finn ut hvilket stjernebilde du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags marked liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Julemarked med lys og gløgg",
+          "scores": {
+            "storebjorn": 2,
+            "loven": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Loppemarked med gamle skatter",
+          "scores": {
+            "dragen": 2,
+            "andromeda": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bondens marked med lokal mat",
+          "scores": {
+            "svanen": 2,
+            "lillebjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fiskemarked ved kaia",
+          "scores": {
+            "orion": 2,
+            "skorpionen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et nattmarked i en storby",
+          "scores": {
+            "tvillingene": 2,
+            "pegasus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et kunstmarked med håndlagde ting",
+          "scores": {
+            "lyren": 2,
+            "kassiopeia": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen forteller en vits du ikke synes er morsom. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler likevel, for å være hyggelig",
+          "scores": {
+            "svanen": 2,
+            "storebjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smiler litt",
+          "scores": {
+            "lillebjorn": 2,
+            "andromeda": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier ærlig at jeg ikke skjønte den",
+          "scores": {
+            "skorpionen": 2,
+            "orion": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Forteller en bedre vits selv",
+          "scores": {
+            "tvillingene": 2,
+            "loven": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør hva den egentlig betyr",
+          "scores": {
+            "dragen": 2,
+            "lyren": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ler av at den var så dårlig",
+          "scores": {
+            "pegasus": 2,
+            "kassiopeia": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst på vannet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Padler kajakk",
+          "scores": {
+            "orion": 1,
+            "dragen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Seiler",
+          "scores": {
+            "pegasus": 2,
+            "kassiopeia": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Står på padlebrett",
+          "scores": {
+            "tvillingene": 2,
+            "lyren": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ror en liten robåt",
+          "scores": {
+            "lillebjorn": 1,
+            "svanen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fisker fra en båt",
+          "scores": {
+            "storebjorn": 2,
+            "skorpionen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ligger på en badering og flyter",
+          "scores": {
+            "andromeda": 2,
+            "loven": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken kategori velger du i en quiz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sport",
+          "scores": {
+            "orion": 2,
+            "loven": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Historie",
+          "scores": {
+            "dragen": 2,
+            "storebjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Musikk",
+          "scores": {
+            "lyren": 2,
+            "tvillingene": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Natur og dyr",
+          "scores": {
+            "svanen": 2,
+            "lillebjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Film og TV",
+          "scores": {
+            "kassiopeia": 2,
+            "pegasus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Verdensrommet",
+          "scores": {
+            "andromeda": 2,
+            "skorpionen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du blir invitert til noe du egentlig ikke har lyst til. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir med likevel og gjør det beste ut av det",
+          "scores": {
+            "storebjorn": 2,
+            "svanen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier pent nei takk",
+          "scores": {
+            "lillebjorn": 1,
+            "kassiopeia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Foreslår noe annet vi kan gjøre",
+          "scores": {
+            "tvillingene": 2,
+            "pegasus": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir med en liten stund",
+          "scores": {
+            "lyren": 2,
+            "andromeda": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier rett ut at det ikke er noe for meg",
+          "scores": {
+            "skorpionen": 2,
+            "orion": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker meg om en dag før jeg svarer",
+          "scores": {
+            "dragen": 2,
+            "loven": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken hjernetrim liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kryssord",
+          "scores": {
+            "lillebjorn": 2,
+            "storebjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sudoku",
+          "scores": {
+            "skorpionen": 2,
+            "kassiopeia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Quiz med venner",
+          "scores": {
+            "tvillingene": 1,
+            "loven": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gåter",
+          "scores": {
+            "andromeda": 2,
+            "dragen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Puslespill",
+          "scores": {
+            "svanen": 2,
+            "lyren": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Strategispill",
+          "scores": {
+            "orion": 2,
+            "pegasus": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Ekte eller kunstig juletre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ekte, og jeg velger det selv i skogen",
+          "scores": {
+            "orion": 1,
+            "storebjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ekte, kjøpt på et juletresalg",
+          "scores": {
+            "loven": 2,
+            "svanen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kunstig, det er så praktisk",
+          "scores": {
+            "lillebjorn": 2,
+            "skorpionen": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et lite tre i en potte",
+          "scores": {
+            "lyren": 2,
+            "andromeda": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et helt annet slags juletre jeg lager selv",
+          "scores": {
+            "pegasus": 2,
+            "dragen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det viktigste er pynten",
+          "scores": {
+            "kassiopeia": 2,
+            "tvillingene": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "orion",
+      "name": "Orion",
+      "shareName": "Orion",
+      "emoji": null,
+      "description": "Du er modig, tydelig og lett å legge merke til. Du går foran og viser vei når det trengs.",
+      "funFact": "Orion er lett å kjenne igjen på de tre stjernene som står på rad i beltet.",
+      "image": "images/2026-12-06/orion.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Går foran andre."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Lett å kjenne igjen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på jakt."
+        }
+      ]
+    },
+    {
+      "id": "storebjorn",
+      "name": "Store Bjørn",
+      "shareName": "Store Bjørn",
+      "emoji": null,
+      "description": "Du er trygg, varm og en fast støtte for alle rundt deg. Folk vet alltid hvor de har deg.",
+      "funFact": "Karlsvogna er en del av stjernebildet Store Bjørn.",
+      "image": "images/2026-12-06/storebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid på plass."
+        },
+        {
+          "title": "Varm",
+          "text": "Stor og raus."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Kjent",
+          "text": "Alle vet hvem du er."
+        }
+      ]
+    },
+    {
+      "id": "lillebjorn",
+      "name": "Lille Bjørn",
+      "shareName": "Lille Bjørn",
+      "emoji": null,
+      "description": "Du er pålitelig og viser vei for andre, selv om du ikke er den som roper høyest. Du er et fast punkt i hverdagen.",
+      "funFact": "Polarstjernen sitter ytterst i halen på Lille Bjørn.",
+      "image": "images/2026-12-06/lillebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Viser alltid vei."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Liten, men viktig."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står helt fast."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet hvor nord er."
+        }
+      ]
+    },
+    {
+      "id": "kassiopeia",
+      "name": "Kassiopeia",
+      "shareName": "Kassiopeia",
+      "emoji": null,
+      "description": "Du er elegant, selvsikker og har en egen stil. Du sitter gjerne litt på tronen, og det kler deg.",
+      "funFact": "Kassiopeia er formet som en stor W eller M på himmelen.",
+      "image": "images/2026-12-06/kassiopeia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid stilfull."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du er verdt."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å finne."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for deg selv."
+        }
+      ]
+    },
+    {
+      "id": "svanen",
+      "name": "Svanen",
+      "shareName": "Svanen",
+      "emoji": null,
+      "description": "Du er rolig, vakker og beveger deg lett gjennom livet. Du har en ro som smitter.",
+      "funFact": "Svanen kalles også Nordkorset, fordi stjernene danner et stort kors.",
+      "image": "images/2026-12-06/svanen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Glir lett gjennom dagen."
+        },
+        {
+          "title": "Vakker",
+          "text": "Ser det fine i alt."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder på sine."
+        },
+        {
+          "title": "Grasiøs",
+          "text": "Lett i bevegelsene."
+        }
+      ]
+    },
+    {
+      "id": "lyren",
+      "name": "Lyren",
+      "shareName": "Lyren",
+      "emoji": null,
+      "description": "Du er musikalsk, kreativ og liten, men full av lys. Du får det beste fram i andre.",
+      "funFact": "En av de klareste stjernene på himmelen, Vega, ligger i Lyren.",
+      "image": "images/2026-12-06/lyren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Hører rytme overalt."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Lys",
+          "text": "Skinner sterkt."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner stemningen."
+        }
+      ]
+    },
+    {
+      "id": "tvillingene",
+      "name": "Tvillingene",
+      "shareName": "Tvillingene",
+      "emoji": null,
+      "description": "Du er sosial, nysgjerrig og elsker å gjøre ting sammen med andre. Du har alltid noen ved din side.",
+      "funFact": "De to klareste stjernene i Tvillingene heter Castor og Pollux.",
+      "image": "images/2026-12-06/tvillingene.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Best sammen med andre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har mye å si."
+        },
+        {
+          "title": "Lojal",
+          "text": "Alltid en makker."
+        }
+      ]
+    },
+    {
+      "id": "loven",
+      "name": "Løven",
+      "shareName": "Løven",
+      "emoji": null,
+      "description": "Du er varm, stolt og elsker å samle folk. Du har et stort hjerte og en enda større latter.",
+      "funFact": "Den klareste stjernen i Løven heter Regulus.",
+      "image": "images/2026-12-06/loven.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Leder",
+          "text": "Tar gjerne ansvar."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        }
+      ]
+    },
+    {
+      "id": "skorpionen",
+      "name": "Skorpionen",
+      "shareName": "Skorpionen",
+      "emoji": null,
+      "description": "Du er intens, lojal og har mer på hjertet enn du viser. Folk som kjenner deg, vet at du er gull verdt.",
+      "funFact": "Den røde stjernen Antares kalles hjertet i Skorpionen.",
+      "image": "images/2026-12-06/skorpionen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Intens",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står last og brast."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt vanskelig å lese."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        }
+      ]
+    },
+    {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "shareName": "Pegasus",
+      "emoji": null,
+      "description": "Du er fri, drømmende og elsker å la fantasien fly. Du ser muligheter der andre ser vegger.",
+      "funFact": "Fire stjerner i Pegasus danner en stor firkant som kalles Pegasus-kvadratet.",
+      "image": "images/2026-12-06/pegasus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Vil fly dit du vil."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Full av fantasi."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Ser muligheter."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ting lett."
+        }
+      ]
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda",
+      "shareName": "Andromeda",
+      "emoji": null,
+      "description": "Du er drømmende, dyp og har tankene langt ute i verdensrommet. Du ser større sammenhenger enn de fleste.",
+      "funFact": "Andromedagalaksen, som ligger i dette stjernebildet, kan sees uten kikkert på mørke netter.",
+      "image": "images/2026-12-06/andromeda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Tenker store tanker."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Langt ute i rommet."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alt."
+        },
+        {
+          "title": "Stille",
+          "text": "Trives i ro."
+        }
+      ]
+    },
+    {
+      "id": "dragen",
+      "name": "Dragen",
+      "shareName": "Dragen",
+      "emoji": null,
+      "description": "Du er klok, utholdende og litt hemmelighetsfull. Du slynger deg gjennom livet på din egen måte.",
+      "funFact": "Dragen slynger seg mellom Store og Lille Bjørn på himmelen.",
+      "image": "images/2026-12-06/dragen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Har sine hemmeligheter."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Går egne veier."
+        }
+      ]
+    }
+  ]
+}

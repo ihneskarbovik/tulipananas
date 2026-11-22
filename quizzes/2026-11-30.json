@@ -1,0 +1,724 @@
+{
+  "id": "2026-11-30",
+  "date": "2026-11-30",
+  "title": "Hvilken varm drikke er du i dag?",
+  "intro": "Det er kaldt ute, og koppen er klar. Er du en kakao med krem, en rolig kamillete eller en sterk svart kaffe? Svar på sju spørsmål og finn ut hvilken varm drikke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan sover du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På magen",
+          "scores": {
+            "kaffe": 2,
+            "peppermynte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På ryggen",
+          "scores": {
+            "gronnte": 2,
+            "matcha": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "På siden med dyna godt rundt meg",
+          "scores": {
+            "melk": 2,
+            "kamille": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sammenkrøllet som en ball",
+          "scores": {
+            "kakao": 2,
+            "eplesaft": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med én fot utenfor dyna",
+          "scores": {
+            "chai": 2,
+            "latte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt utstrakt over hele senga",
+          "scores": {
+            "glogg": 2,
+            "solbaer": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du ser en edderkopp i stua. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bærer den forsiktig ut",
+          "scores": {
+            "kamille": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar den være i fred",
+          "scores": {
+            "gronnte": 2,
+            "eplesaft": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Roper på noen andre",
+          "scores": {
+            "kakao": 2,
+            "latte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar den med et glass og et ark",
+          "scores": {
+            "kaffe": 2,
+            "matcha": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Studerer den litt først",
+          "scores": {
+            "chai": 2,
+            "peppermynte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Later som jeg ikke så den",
+          "scores": {
+            "melk": 2,
+            "glogg": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket naturfenomen vil du helst oppleve?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nordlys en kald vinternatt",
+          "scores": {
+            "glogg": 2,
+            "kakao": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midnattssol på en fjelltopp",
+          "scores": {
+            "peppermynte": 2,
+            "kaffe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En natt med mange stjerneskudd",
+          "scores": {
+            "chai": 2,
+            "matcha": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et skikkelig tordenvær fra et trygt sted",
+          "scores": {
+            "kaffe": 1,
+            "solbaer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den første snøen som faller",
+          "scores": {
+            "melk": 2,
+            "kamille": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blomstring av epletrær om våren",
+          "scores": {
+            "eplesaft": 2,
+            "gronnte": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen avbryter deg mens du forteller noe. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter og fortsetter etterpå",
+          "scores": {
+            "kamille": 2,
+            "gronnte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier vennlig at jeg ikke var ferdig",
+          "scores": {
+            "kaffe": 1,
+            "matcha": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Snakker litt høyere",
+          "scores": {
+            "glogg": 2,
+            "peppermynte": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar dem prate, det var ikke så viktig",
+          "scores": {
+            "melk": 2,
+            "eplesaft": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler og tar det med humor",
+          "scores": {
+            "kakao": 1,
+            "latte": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bytter tema og finner noe nytt å prate om",
+          "scores": {
+            "chai": 2,
+            "solbaer": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken jobb ville du prøvd i én dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kokk på en restaurant",
+          "scores": {
+            "solbaer": 2,
+            "eplesaft": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pilot",
+          "scores": {
+            "kaffe": 1,
+            "peppermynte": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dyrepasser",
+          "scores": {
+            "kamille": 2,
+            "melk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Forfatter",
+          "scores": {
+            "gronnte": 2,
+            "chai": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Barista på en kafé",
+          "scores": {
+            "latte": 2,
+            "matcha": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Julenisse på et kjøpesenter",
+          "scores": {
+            "kakao": 1,
+            "glogg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du når du er sulten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir litt grinete",
+          "scores": {
+            "kaffe": 2,
+            "peppermynte": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snakker bare om mat",
+          "scores": {
+            "kakao": 1,
+            "glogg": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Merker det knapt",
+          "scores": {
+            "gronnte": 2,
+            "matcha": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager noe godt til alle",
+          "scores": {
+            "solbaer": 2,
+            "eplesaft": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiser litt av det som er i skapet",
+          "scores": {
+            "latte": 2,
+            "chai": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir stille og trøtt",
+          "scores": {
+            "melk": 2,
+            "kamille": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Når begynner du å høre på julemusikk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Allerede i oktober",
+          "scores": {
+            "kakao": 2,
+            "glogg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Første søndag i advent",
+          "scores": {
+            "eplesaft": 2,
+            "melk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Når det kommer snø",
+          "scores": {
+            "kamille": 2,
+            "solbaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Først rundt lillejulaften",
+          "scores": {
+            "kaffe": 1,
+            "gronnte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Når noen andre setter det på",
+          "scores": {
+            "latte": 2,
+            "chai": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare når jeg pynter",
+          "scores": {
+            "peppermynte": 2,
+            "matcha": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kakao",
+      "name": "Kakao",
+      "shareName": "en kakao",
+      "emoji": null,
+      "description": "Du er varm, søt og får folk til å føle seg trygge. Med deg blir selv den kaldeste dagen koselig.",
+      "funFact": "Aztekerne brukte kakaobønner som betalingsmiddel.",
+      "image": "images/2026-11-30/kakao.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet rundt seg."
+        },
+        {
+          "title": "Søt",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør dagen bedre."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid litt barnslig."
+        }
+      ]
+    },
+    {
+      "id": "kaffe",
+      "name": "Svart kaffe",
+      "shareName": "en svart kaffe",
+      "emoji": null,
+      "description": "Du er rett på sak, stødig og får ting gjort. Du trenger ikke pynt for å gjøre inntrykk.",
+      "funFact": "Nordmenn er blant dem i verden som drikker mest kaffe.",
+      "image": "images/2026-11-30/kaffe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen unødvendig pynt."
+        }
+      ]
+    },
+    {
+      "id": "latte",
+      "name": "Caffe latte",
+      "shareName": "en caffe latte",
+      "emoji": null,
+      "description": "Du er myk, sosial og elsker en lang prat. Du gjør hverdagen litt mer stilfull.",
+      "funFact": "«Latte» betyr rett og slett melk på italiensk.",
+      "image": "images/2026-11-30/latte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker en god prat."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Har sans for detaljer."
+        },
+        {
+          "title": "Balansert",
+          "text": "Litt av hvert."
+        }
+      ]
+    },
+    {
+      "id": "gronnte",
+      "name": "Grønn te",
+      "shareName": "en grønn te",
+      "emoji": null,
+      "description": "Du er rolig, klok og tar vare på deg selv. Du finner balansen selv når det er travelt rundt deg.",
+      "funFact": "Grønn te og svart te kommer fra samme plante, men behandles på ulike måter.",
+      "image": "images/2026-11-30/gronnte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene til alle."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du handler."
+        },
+        {
+          "title": "Balansert",
+          "text": "Finner midten."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        }
+      ]
+    },
+    {
+      "id": "kamille",
+      "name": "Kamillete",
+      "shareName": "en kamillete",
+      "emoji": null,
+      "description": "Du er snill, myk og god å være rundt. Du hjelper andre med å finne roen.",
+      "funFact": "Kamille er i slekt med prestekragen.",
+      "image": "images/2026-11-30/kamille.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Alltid omtenksom."
+        },
+        {
+          "title": "Rolig",
+          "text": "Skaper ro rundt seg."
+        },
+        {
+          "title": "Myk",
+          "text": "Varm og forsiktig."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å lene seg på."
+        }
+      ]
+    },
+    {
+      "id": "peppermynte",
+      "name": "Peppermyntete",
+      "shareName": "en peppermyntete",
+      "emoji": null,
+      "description": "Du er frisk, lys og full av gode ideer. Du gir rommet et lite friskt pust.",
+      "funFact": "Peppermynte er en krysning mellom vassmynte og grønnmynte.",
+      "image": "images/2026-11-30/peppermynte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en kald vind."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Rask i hodet."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Livlig",
+          "text": "Får folk til å våkne."
+        }
+      ]
+    },
+    {
+      "id": "chai",
+      "name": "Chai latte",
+      "shareName": "en chai latte",
+      "emoji": null,
+      "description": "Du er varm, krydret og litt eventyrlysten. Du blander det beste fra flere verdener.",
+      "funFact": "Ordet «chai» betyr rett og slett «te» på mange språk, blant annet hindi.",
+      "image": "images/2026-11-30/chai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra av alt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Varm",
+          "text": "Inkluderer alle."
+        },
+        {
+          "title": "Spennende",
+          "text": "Aldri kjedelig."
+        }
+      ]
+    },
+    {
+      "id": "glogg",
+      "name": "Gløgg",
+      "shareName": "en gløgg",
+      "emoji": null,
+      "description": "Du er festlig, varm og elsker tradisjoner. Du samler folk og får stemningen til å stige.",
+      "funFact": "Ordet gløgg kommer fra det svenske ordet «glödga», som betyr å varme opp.",
+      "image": "images/2026-11-30/glogg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Tradisjonsglad",
+          "text": "Elsker faste ritualer."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        }
+      ]
+    },
+    {
+      "id": "eplesaft",
+      "name": "Varm eplesaft",
+      "shareName": "en varm eplesaft",
+      "emoji": null,
+      "description": "Du er jordnær, ekte og glad i det enkle. Folk føler seg hjemme hos deg.",
+      "funFact": "I Hardanger har det blitt dyrket epler i mange hundre år.",
+      "image": "images/2026-11-30/eplesaft.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å bli kjent med."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "solbaer",
+      "name": "Solbærtoddy",
+      "shareName": "en solbærtoddy",
+      "emoji": null,
+      "description": "Du er omsorgsfull og passer på at alle har det bra. Du er alltid den første som stiller opp når noen trenger det.",
+      "funFact": "Solbær inneholder mer C-vitamin enn appelsiner.",
+      "image": "images/2026-11-30/solbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trøst."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        }
+      ]
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha latte",
+      "shareName": "en matcha latte",
+      "emoji": null,
+      "description": "Du er moderne, fokusert og liker å prøve nye ting. Du har din egen stil og følger den.",
+      "funFact": "Matcha lages av hele teblader som er malt til et fint pulver.",
+      "image": "images/2026-11-30/matcha.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Moderne",
+          "text": "Følger med i tiden."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder kursen."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve nytt."
+        },
+        {
+          "title": "Original",
+          "text": "Har sin egen stil."
+        }
+      ]
+    },
+    {
+      "id": "melk",
+      "name": "Varm melk med honning",
+      "shareName": "en varm melk med honning",
+      "emoji": null,
+      "description": "Du er trygg, rolig og god å komme hjem til. Du får alle til å slappe av.",
+      "funFact": "Det er funnet spiselig honning i gamle egyptiske graver.",
+      "image": "images/2026-11-30/melk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Som en god klem."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingenting stresser deg."
+        },
+        {
+          "title": "Søt",
+          "text": "Snill og varm."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives best hjemme."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-19",
+  "date": "2026-12-19",
+  "title": "Hvilket brød er du i dag?",
+  "intro": "Er du et solid grovbrød, en elegant baguette eller en myk lefse? Svar på sju spørsmål og finn ut hvilket brød du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst ha på vaffelen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brunost",
+          "scores": {
+            "lefse": 1,
+            "flatbrod": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rømme og syltetøy",
+          "scores": {
+            "grovbrod": 2,
+            "naan": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sukker og smør",
+          "scores": {
+            "loff": 1,
+            "lefse": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Is og bær",
+          "scores": {
+            "ciabatta": 2,
+            "tortilla": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjokoladepålegg",
+          "scores": {
+            "bagel": 2,
+            "pita": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, den er best naturell",
+          "scores": {
+            "surdeig": 2,
+            "baguette": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen har laget mat du ikke liker. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser litt og sier takk",
+          "scores": {
+            "lefse": 2,
+            "loff": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier ærlig at det ikke er min favoritt",
+          "scores": {
+            "baguette": 2,
+            "bagel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser mest tilbehøret",
+          "scores": {
+            "pita": 2,
+            "ciabatta": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver med et åpent sinn",
+          "scores": {
+            "naan": 2,
+            "tortilla": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiser opp alt for å være høflig",
+          "scores": {
+            "grovbrod": 1,
+            "flatbrod": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør om oppskriften likevel",
+          "scores": {
+            "focaccia": 2,
+            "surdeig": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva er viktigst i tacoen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøttdeigen",
+          "scores": {
+            "grovbrod": 2,
+            "flatbrod": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Masse grønnsaker",
+          "scores": {
+            "pita": 2,
+            "focaccia": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ost og rømme",
+          "scores": {
+            "loff": 2,
+            "lefse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sterk salsa",
+          "scores": {
+            "naan": 2,
+            "tortilla": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Guacamole",
+          "scores": {
+            "ciabatta": 2,
+            "bagel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mais og bønner",
+          "scores": {
+            "surdeig": 2,
+            "baguette": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "En venn ber deg passe katten i en uke. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjempebra, vi blir bestevenner",
+          "scores": {
+            "lefse": 2,
+            "naan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg lager en plan for mat og stell",
+          "scores": {
+            "grovbrod": 1,
+            "surdeig": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg leker med den hele dagen",
+          "scores": {
+            "tortilla": 2,
+            "ciabatta": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den får sove i senga mi",
+          "scores": {
+            "loff": 2,
+            "focaccia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sender bilder til eieren hver dag",
+          "scores": {
+            "pita": 2,
+            "bagel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den klarer seg fint med mat og vann",
+          "scores": {
+            "flatbrod": 2,
+            "baguette": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva har du på deg en lat søndag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joggebukse og stor genser",
+          "scores": {
+            "loff": 1,
+            "ciabatta": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pysjamas hele dagen",
+          "scores": {
+            "lefse": 1,
+            "naan": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeans og t-skjorte",
+          "scores": {
+            "bagel": 2,
+            "tortilla": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ullgenser og ullsokker",
+          "scores": {
+            "grovbrod": 1,
+            "flatbrod": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe pent, også hjemme",
+          "scores": {
+            "baguette": 2,
+            "surdeig": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Treningstøy, klar for tur",
+          "scores": {
+            "pita": 2,
+            "focaccia": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva tar du med til stranden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En god bok",
+          "scores": {
+            "surdeig": 2,
+            "baguette": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ball og frisbee",
+          "scores": {
+            "tortilla": 2,
+            "pita": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjølebag med mat",
+          "scores": {
+            "focaccia": 2,
+            "naan": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Badering",
+          "scores": {
+            "loff": 2,
+            "ciabatta": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Dykkermaske og snorkel",
+          "scores": {
+            "bagel": 2,
+            "grovbrod": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare et håndkle",
+          "scores": {
+            "flatbrod": 2,
+            "lefse": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du finner mandelen i riskremen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roper høyt med en gang",
+          "scores": {
+            "tortilla": 2,
+            "pita": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gjemmer den til alle har spist opp",
+          "scores": {
+            "surdeig": 1,
+            "baguette": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Deler premien med alle",
+          "scores": {
+            "focaccia": 2,
+            "naan": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt flau",
+          "scores": {
+            "lefse": 1,
+            "loff": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Viser den stolt fram",
+          "scores": {
+            "bagel": 2,
+            "ciabatta": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser den ved et uhell",
+          "scores": {
+            "grovbrod": 2,
+            "flatbrod": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "grovbrod",
+      "name": "Grovbrød",
+      "shareName": "et grovbrød",
+      "emoji": null,
+      "description": "Du er solid, jordnær og til å stole på. Folk vet at de kan regne med deg dag etter dag.",
+      "funFact": "Grovbrød inneholder mer av hele kornet, og derfor metter det lenge.",
+      "image": "images/2026-12-19/grovbrod.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Holder deg gående."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        }
+      ]
+    },
+    {
+      "id": "loff",
+      "name": "Loff",
+      "shareName": "en loff",
+      "emoji": null,
+      "description": "Du er myk, snill og lett å like. Du gjør hverdagen enkel og hyggelig.",
+      "funFact": "Loff lages av fint, hvitt hvetemel.",
+      "image": "images/2026-12-19/loff.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "God å være med."
+        }
+      ]
+    },
+    {
+      "id": "baguette",
+      "name": "Baguette",
+      "shareName": "en baguette",
+      "emoji": null,
+      "description": "Du er elegant, stilfull og litt sprø i kanten. Du har sans for kvalitet.",
+      "funFact": "I Frankrike finnes det regler for hva en tradisjonell baguette kan inneholde.",
+      "image": "images/2026-12-19/baguette.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Alltid stilfull."
+        },
+        {
+          "title": "Sprø",
+          "text": "Litt skarp i kanten."
+        },
+        {
+          "title": "Kvalitetsbevisst",
+          "text": "Velger det beste."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du er."
+        }
+      ]
+    },
+    {
+      "id": "surdeig",
+      "name": "Surdeigsbrød",
+      "shareName": "et surdeigsbrød",
+      "emoji": null,
+      "description": "Du er tålmodig, særegen og vet at de beste tingene tar tid. Du har mye smak og personlighet.",
+      "funFact": "Surdeig heves med villgjær og melkesyrebakterier i stedet for kjøpt gjær.",
+      "image": "images/2026-12-19/surdeig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Det gode tar tid."
+        },
+        {
+          "title": "Særegen",
+          "text": "Helt egen smak."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder liv i ting."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer enn man ser."
+        }
+      ]
+    },
+    {
+      "id": "ciabatta",
+      "name": "Ciabatta",
+      "shareName": "en ciabatta",
+      "emoji": null,
+      "description": "Du er avslappet, luftig og uformell. Du får alle til å senke skuldrene.",
+      "funFact": "Ciabatta betyr tøffel på italiensk.",
+      "image": "images/2026-12-19/ciabatta.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Luftig",
+          "text": "Lett til sinns."
+        },
+        {
+          "title": "Uformell",
+          "text": "Helt avslappet stil."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        }
+      ]
+    },
+    {
+      "id": "focaccia",
+      "name": "Focaccia",
+      "shareName": "en focaccia",
+      "emoji": null,
+      "description": "Du er raus, kreativ og elsker å dele med andre. Du setter alltid noe godt på bordet.",
+      "funFact": "Focaccia får ofte små groper av fingrene før det stekes.",
+      "image": "images/2026-12-19/focaccia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Litt ekstra på toppen."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør det hyggelig."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        }
+      ]
+    },
+    {
+      "id": "lefse",
+      "name": "Lefse",
+      "shareName": "en lefse",
+      "emoji": null,
+      "description": "Du er koselig, søt og glad i tradisjoner. Du gjør alle hjemme hos deg glade.",
+      "funFact": "Lefser lages ofte av poteter og stekes på en stor takke.",
+      "image": "images/2026-12-19/lefse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som en klem."
+        },
+        {
+          "title": "Søt",
+          "text": "Snill og blid."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        }
+      ]
+    },
+    {
+      "id": "flatbrod",
+      "name": "Flatbrød",
+      "shareName": "et flatbrød",
+      "emoji": null,
+      "description": "Du er nøktern, tøff og praktisk. Du klarer deg i alle situasjoner.",
+      "funFact": "Flatbrød er tynt og tørt, og kunne lagres lenge på gårdene i gamle dager.",
+      "image": "images/2026-12-19/flatbrod.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøktern",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Holdbar",
+          "text": "Varer lenge."
+        }
+      ]
+    },
+    {
+      "id": "pita",
+      "name": "Pitabrød",
+      "shareName": "et pitabrød",
+      "emoji": null,
+      "description": "Du er åpen, fleksibel og har plass til mye. Du passer inn i alle slags selskap.",
+      "funFact": "Pitabrød får en lomme inni fordi dampen blåser det opp i den varme ovnen.",
+      "image": "images/2026-12-19/pita.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Plass til alt."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker folk."
+        },
+        {
+          "title": "Rommelig",
+          "text": "Tar imot alle."
+        }
+      ]
+    },
+    {
+      "id": "naan",
+      "name": "Naan",
+      "shareName": "et naanbrød",
+      "emoji": null,
+      "description": "Du er varm, myk og inkluderende, med litt krydder. Du gjør hvert måltid bedre.",
+      "funFact": "Naan stekes ofte på innsiden av en varm leirovn som heter tandoor.",
+      "image": "images/2026-12-19/naan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra spennende."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle får være med."
+        }
+      ]
+    },
+    {
+      "id": "bagel",
+      "name": "Bagel",
+      "shareName": "en bagel",
+      "emoji": null,
+      "description": "Du er travel, urban og seig når det gjelder. Du gir deg ikke så lett.",
+      "funFact": "Bageler kokes i vann før de stekes, og det gir den seige skorpen.",
+      "image": "images/2026-12-19/bagel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Urban",
+          "text": "Trives i byen."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Kul",
+          "text": "Har stil."
+        }
+      ]
+    },
+    {
+      "id": "tortilla",
+      "name": "Tortilla",
+      "shareName": "en tortilla",
+      "emoji": null,
+      "description": "Du er fleksibel, leken og eventyrlysten. Du kan brukes til nesten hva som helst.",
+      "funFact": "Maistortilla har blitt laget i Mexico i flere tusen år.",
+      "image": "images/2026-12-19/tortilla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Passer til alt."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil prøve nytt."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan det meste."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "id": "2026-12-27",
+  "date": "2026-12-27",
+  "title": "Hvilken dyreunge er du i dag?",
+  "intro": "Er du en leken kattunge, en nysgjerrig valp eller en rolig pingvinunge? Svar på sju spørsmål og finn ut hvilken dyreunge du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor går du helst en søndagstur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I skogen",
+          "scores": {
+            "bjorneunge": 2,
+            "kaninunge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Langs sjøen",
+          "scores": {
+            "pingvinunge": 2,
+            "kylling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Opp på en topp",
+          "scores": {
+            "kje": 2,
+            "foll": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rundt i nabolaget",
+          "scores": {
+            "valp": 2,
+            "grisunge": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Over jorder og enger",
+          "scores": {
+            "lam": 2,
+            "kalv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg blir heller inne",
+          "scores": {
+            "kattunge": 1,
+            "bjorneunge": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det kommer en baby på besøk. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vil holde den med en gang",
+          "scores": {
+            "valp": 2,
+            "lam": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager morsomme grimaser",
+          "scores": {
+            "kje": 2,
+            "grisunge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder meg litt på avstand",
+          "scores": {
+            "kattunge": 2,
+            "kaninunge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør om jeg kan hjelpe til",
+          "scores": {
+            "kalv": 2,
+            "pingvinunge": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prater og synger for den",
+          "scores": {
+            "kylling": 2,
+            "foll": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar foreldrene få hvile litt",
+          "scores": {
+            "bjorneunge": 1,
+            "lam": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken kake vil du ha på bursdagen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjokoladekake",
+          "scores": {
+            "bjorneunge": 2,
+            "grisunge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bløtkake med jordbær",
+          "scores": {
+            "lam": 2,
+            "kaninunge": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gulrotkake",
+          "scores": {
+            "kalv": 2,
+            "kje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kransekake",
+          "scores": {
+            "pingvinunge": 2,
+            "foll": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Is-kake",
+          "scores": {
+            "valp": 1,
+            "kylling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ostekake",
+          "scores": {
+            "kattunge": 1,
+            "kalv": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har mistet noe du er glad i. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leter overalt til jeg finner det",
+          "scores": {
+            "valp": 2,
+            "kje": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går systematisk tilbake samme vei",
+          "scores": {
+            "pingvinunge": 2,
+            "kalv": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør alle om de har sett det",
+          "scores": {
+            "kylling": 2,
+            "grisunge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir lei meg og trenger en klem",
+          "scores": {
+            "kaninunge": 2,
+            "lam": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker at det dukker opp",
+          "scores": {
+            "kattunge": 2,
+            "bjorneunge": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en lapp og henger den opp",
+          "scores": {
+            "foll": 2,
+            "pingvinunge": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva har du mest av hjemme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bøker",
+          "scores": {
+            "kattunge": 1,
+            "pingvinunge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klær",
+          "scores": {
+            "foll": 2,
+            "kylling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Puter og pledd",
+          "scores": {
+            "bjorneunge": 2,
+            "lam": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spill",
+          "scores": {
+            "valp": 1,
+            "grisunge": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Planter",
+          "scores": {
+            "kaninunge": 2,
+            "kalv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sportsutstyr",
+          "scores": {
+            "kje": 2,
+            "foll": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får bestemme alt i én dag. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover lenge og spiser frokost på senga",
+          "scores": {
+            "bjorneunge": 2,
+            "kattunge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Drar på en stor utflukt",
+          "scores": {
+            "foll": 2,
+            "kje": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Inviterer alle vennene mine",
+          "scores": {
+            "valp": 1,
+            "grisunge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjør ingenting, bare koser meg",
+          "scores": {
+            "lam": 2,
+            "kaninunge": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager favorittmaten min",
+          "scores": {
+            "kalv": 2,
+            "kylling": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger en perfekt dag for familien",
+          "scores": {
+            "pingvinunge": 2,
+            "kalv": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med juletreet etter jul?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar det ned første dag etter nyttår",
+          "scores": {
+            "pingvinunge": 2,
+            "kalv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar det stå så lenge som mulig",
+          "scores": {
+            "lam": 2,
+            "bjorneunge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar det ned så fort julen er over",
+          "scores": {
+            "kje": 2,
+            "kylling": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjelper til med å bære det ut",
+          "scores": {
+            "valp": 1,
+            "foll": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Har ikke juletre",
+          "scores": {
+            "kattunge": 2,
+            "kje": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar de andre ta det ned",
+          "scores": {
+            "grisunge": 2,
+            "kaninunge": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kattunge",
+      "name": "Kattunge",
+      "shareName": "en kattunge",
+      "emoji": null,
+      "description": "Du er leken, nysgjerrig og litt egen. Du elsker kos, men på dine premisser.",
+      "funFact": "Kattunger åpner øynene når de er rundt én til to uker gamle.",
+      "image": "images/2026-12-27/kattunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Jager alt som beveger seg."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Må undersøke alt."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Gjør som du vil."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker fanget."
+        }
+      ]
+    },
+    {
+      "id": "valp",
+      "name": "Valp",
+      "shareName": "en valp",
+      "emoji": null,
+      "description": "Du er glad, lojal og full av energi. Du blir venn med alle du møter.",
+      "funFact": "Valper blir født uten å kunne se eller høre.",
+      "image": "images/2026-12-27/valp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Logrer hele dagen."
+        },
+        {
+          "title": "Lojal",
+          "text": "Venn for livet."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klar for lek."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker alle."
+        }
+      ]
+    },
+    {
+      "id": "kylling",
+      "name": "Kylling",
+      "shareName": "en kylling",
+      "emoji": null,
+      "description": "Du er liten, travel og pratsom. Du sprer god stemning der du kommer.",
+      "funFact": "En kylling hakker seg ut av egget med en liten «eggtann» på nebbet.",
+      "image": "images/2026-12-27/kylling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Travel",
+          "text": "Alltid i gang."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Kvitrer hele tiden."
+        },
+        {
+          "title": "Blid",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Modig",
+          "text": "Liten, men tøff."
+        }
+      ]
+    },
+    {
+      "id": "lam",
+      "name": "Lam",
+      "shareName": "et lam",
+      "emoji": null,
+      "description": "Du er myk, snill og liker å være sammen med flokken. Folk blir rolige når de er med deg.",
+      "funFact": "Lam kan stå på beina kort tid etter at de er født.",
+      "image": "images/2026-12-27/lam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Flokkdyr",
+          "text": "Best sammen."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være nær."
+        }
+      ]
+    },
+    {
+      "id": "foll",
+      "name": "Føll",
+      "shareName": "et føll",
+      "emoji": null,
+      "description": "Du er fri, rask og elsker å løpe. Du har store drømmer og lange bein.",
+      "funFact": "Et føll kan stå og gå bare noen timer etter at det er født.",
+      "image": "images/2026-12-27/foll.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Løper dit du vil."
+        },
+        {
+          "title": "Rask",
+          "text": "Full fart."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Store drømmer."
+        },
+        {
+          "title": "Elegant",
+          "text": "Lett på foten."
+        }
+      ]
+    },
+    {
+      "id": "kalv",
+      "name": "Kalv",
+      "shareName": "en kalv",
+      "emoji": null,
+      "description": "Du er rolig, jordnær og alltid sulten på livet. Du trives best med faste rutiner.",
+      "funFact": "En kalv drikker mange liter melk hver dag.",
+      "image": "images/2026-12-27/kalv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder seg nær."
+        },
+        {
+          "title": "Sulten",
+          "text": "Elsker mat."
+        }
+      ]
+    },
+    {
+      "id": "grisunge",
+      "name": "Grisunge",
+      "shareName": "en grisunge",
+      "emoji": null,
+      "description": "Du er glad, sosial og elsker å kose deg. Du lar deg ikke stresse av litt søle.",
+      "funFact": "Grisunger lærer raskt å kjenne igjen lydene fra moren sin.",
+      "image": "images/2026-12-27/grisunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glad",
+          "text": "Alltid fornøyd."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker å ligge tett."
+        },
+        {
+          "title": "Smart",
+          "text": "Lærer fort."
+        }
+      ]
+    },
+    {
+      "id": "kje",
+      "name": "Kje",
+      "shareName": "et kje",
+      "emoji": null,
+      "description": "Du er leken, modig og klatrer gjerne litt høyere enn de andre. Du er alltid klar for et nytt eventyr.",
+      "funFact": "En geitunge kalles et kje.",
+      "image": "images/2026-12-27/kje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rundt."
+        },
+        {
+          "title": "Modig",
+          "text": "Klatrer høyt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Smaker på alt."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "kaninunge",
+      "name": "Kaninunge",
+      "shareName": "en kaninunge",
+      "emoji": null,
+      "description": "Du er myk, forsiktig og veldig søt. Når du føler deg trygg, blir du helt leken.",
+      "funFact": "Kaninunger blir født uten pels og med lukkede øyne.",
+      "image": "images/2026-12-27/kaninunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og varm."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Tar ting rolig."
+        },
+        {
+          "title": "Søt",
+          "text": "Alle smelter."
+        },
+        {
+          "title": "Leken",
+          "text": "Når du er trygg."
+        }
+      ]
+    },
+    {
+      "id": "bjorneunge",
+      "name": "Bjørneunge",
+      "shareName": "en bjørneunge",
+      "emoji": null,
+      "description": "Du er klønete, varm og nysgjerrig. Du elsker å utforske, men også å sove lenge.",
+      "funFact": "Bjørneunger blir født mens moren ligger i hi om vinteren.",
+      "image": "images/2026-12-27/bjorneunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker alt."
+        },
+        {
+          "title": "Varm",
+          "text": "God å klemme."
+        },
+        {
+          "title": "Søvnig",
+          "text": "Elsker lange netter."
+        },
+        {
+          "title": "Sterk",
+          "text": "Blir stor og sterk."
+        }
+      ]
+    },
+    {
+      "id": "pingvinunge",
+      "name": "Pingvinunge",
+      "shareName": "en pingvinunge",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og tåler mye. Du står tett sammen med de andre når det blåser.",
+      "funFact": "Hos keiserpingvinene er det hannen som passer egget gjennom vinteren.",
+      "image": "images/2026-12-27/pingvinunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter rolig."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler kulda."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står tett sammen."
+        },
+        {
+          "title": "Søt",
+          "text": "Litt klønete."
+        }
+      ]
+    }
+  ]
+}

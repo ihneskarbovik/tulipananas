@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-25",
+  "date": "2026-12-25",
+  "title": "Hvilket eventyr er du i dag?",
+  "intro": "God jul! Første juledag er perfekt for eventyr. Er du Askeladden, De tre bukkene Bruse eller Prinsessen på erten? Svar på sju spørsmål og finn ut hvilket eventyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken ting fra barndommen har du tatt vare på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En kosebamse",
+          "scores": {
+            "snohvit": 2,
+            "kvitebjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gamle tegninger",
+          "scores": {
+            "havfrue": 2,
+            "tornerose": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En eske med brev og kort",
+          "scores": {
+            "rodhette": 2,
+            "erten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En favorittbok",
+          "scores": {
+            "askeladden": 1,
+            "andunge": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et gammelt spill",
+          "scores": {
+            "bukkene": 2,
+            "hansgrete": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, jeg ser fremover",
+          "scores": {
+            "gullhar": 2,
+            "keiseren": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen overrasker deg. Hvordan reagerer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hyler og ler",
+          "scores": {
+            "gullhar": 2,
+            "keiseren": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir helt stille først",
+          "scores": {
+            "tornerose": 2,
+            "andunge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klemmer alle",
+          "scores": {
+            "snohvit": 2,
+            "rodhette": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vil vite hvordan de fikk det til",
+          "scores": {
+            "askeladden": 2,
+            "hansgrete": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir litt rørt",
+          "scores": {
+            "havfrue": 2,
+            "erten": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Later som jeg visste det",
+          "scores": {
+            "bukkene": 1,
+            "kvitebjorn": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva ser du helst på TV i jula?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamle julefilmer",
+          "scores": {
+            "snohvit": 2,
+            "tornerose": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skiløp og skiskyting",
+          "scores": {
+            "bukkene": 2,
+            "kvitebjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tegnefilmer",
+          "scores": {
+            "askeladden": 1,
+            "gullhar": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En julekonsert",
+          "scores": {
+            "havfrue": 2,
+            "erten": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Komedier",
+          "scores": {
+            "keiseren": 2,
+            "hansgrete": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser helst ikke på TV",
+          "scores": {
+            "rodhette": 1,
+            "andunge": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har lovet å lage noe, men det mislykkes. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver igjen til det blir bra",
+          "scores": {
+            "andunge": 2,
+            "kvitebjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler av det og viser det fram likevel",
+          "scores": {
+            "keiseren": 2,
+            "gullhar": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ber noen om hjelp",
+          "scores": {
+            "hansgrete": 2,
+            "snohvit": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en lur løsning",
+          "scores": {
+            "bukkene": 2,
+            "askeladden": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir lei meg en stund",
+          "scores": {
+            "havfrue": 2,
+            "erten": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager noe helt annet i stedet",
+          "scores": {
+            "rodhette": 1,
+            "tornerose": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du helst på første juledag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sover lenge",
+          "scores": {
+            "tornerose": 2,
+            "kvitebjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går en tur i snøen",
+          "scores": {
+            "askeladden": 1,
+            "bukkene": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leker med de nye gavene",
+          "scores": {
+            "gullhar": 2,
+            "hansgrete": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Besøker familie",
+          "scores": {
+            "snohvit": 1,
+            "rodhette": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser en ny bok",
+          "scores": {
+            "havfrue": 1,
+            "andunge": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prøver de nye klærne",
+          "scores": {
+            "keiseren": 1,
+            "erten": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får en gave du allerede har. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier takk og bytter den senere",
+          "scores": {
+            "askeladden": 2,
+            "bukkene": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier ærlig at jeg har den fra før",
+          "scores": {
+            "keiseren": 2,
+            "gullhar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir den videre til noen andre",
+          "scores": {
+            "rodhette": 2,
+            "snohvit": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Beholder den, to er bedre enn én",
+          "scores": {
+            "hansgrete": 2,
+            "kvitebjorn": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir rørt over at de tenkte på meg",
+          "scores": {
+            "havfrue": 2,
+            "andunge": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Legger merke til at den er litt annerledes",
+          "scores": {
+            "erten": 2,
+            "tornerose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det beste med julemiddagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hovedretten",
+          "scores": {
+            "bukkene": 1,
+            "kvitebjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Desserten",
+          "scores": {
+            "hansgrete": 2,
+            "gullhar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At alle er samlet",
+          "scores": {
+            "snohvit": 1,
+            "rodhette": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den fine pynten på bordet",
+          "scores": {
+            "erten": 2,
+            "keiseren": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Praten rundt bordet",
+          "scores": {
+            "askeladden": 2,
+            "andunge": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den rolige stunden etterpå",
+          "scores": {
+            "tornerose": 2,
+            "havfrue": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "askeladden",
+      "name": "Askeladden",
+      "shareName": "Askeladden",
+      "emoji": null,
+      "description": "Du er optimistisk, oppfinnsom og ser muligheter i alt. Folk undervurderer deg, men du klarer det til slutt.",
+      "funFact": "Eventyrene om Askeladden ble samlet av Asbjørnsen og Moe på 1800-tallet.",
+      "image": "images/2026-12-25/askeladden.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Optimistisk",
+          "text": "Tror alt går bra."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner lure løsninger."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Plukker opp alt."
+        }
+      ]
+    },
+    {
+      "id": "bukkene",
+      "name": "De tre bukkene Bruse",
+      "shareName": "De tre bukkene Bruse",
+      "emoji": null,
+      "description": "Du er modig, smart og best sammen med dem du er glad i. Sammen klarer dere alt.",
+      "funFact": "De tre bukkene Bruse er et av de mest kjente norske eventyrene og er oversatt til mange språk.",
+      "image": "images/2026-12-25/bukkene.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Går over brua."
+        },
+        {
+          "title": "Smart",
+          "text": "Har en plan."
+        },
+        {
+          "title": "Samarbeidsvillig",
+          "text": "Sterkest sammen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        }
+      ]
+    },
+    {
+      "id": "rodhette",
+      "name": "Rødhette",
+      "shareName": "Rødhette",
+      "emoji": null,
+      "description": "Du er snill, nysgjerrig og vil alle det beste. Du tar gjerne en omvei for å se på blomstene.",
+      "funFact": "Rødhette finnes i mange versjoner, blant annet hos Charles Perrault og brødrene Grimm.",
+      "image": "images/2026-12-25/rodhette.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Tar gjerne en omvei."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Besøker de som trenger det."
+        },
+        {
+          "title": "Tillitsfull",
+          "text": "Tror godt om folk."
+        }
+      ]
+    },
+    {
+      "id": "hansgrete",
+      "name": "Hans og Grete",
+      "shareName": "Hans og Grete",
+      "emoji": null,
+      "description": "Du er oppfinnsom og står sammen med de nærmeste. Når det blir vanskelig, finner du en vei ut.",
+      "funFact": "Hans og Grete ble skrevet ned av brødrene Grimm i Tyskland.",
+      "image": "images/2026-12-25/hansgrete.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner veien hjem."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står sammen."
+        },
+        {
+          "title": "Modig",
+          "text": "Gir ikke opp."
+        },
+        {
+          "title": "Søtsugen",
+          "text": "Elsker kaker."
+        }
+      ]
+    },
+    {
+      "id": "snohvit",
+      "name": "Snøhvit",
+      "shareName": "Snøhvit",
+      "emoji": null,
+      "description": "Du er snill, omsorgsfull og får venner overalt. Du gjør ethvert hjem til et koselig sted.",
+      "funFact": "I brødrene Grimms eventyr om Snøhvit bor det sju dverger i skogen.",
+      "image": "images/2026-12-25/snohvit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Vennlig mot alle."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Gjør det koselig."
+        },
+        {
+          "title": "Venneglad",
+          "text": "Mange gode venner."
+        }
+      ]
+    },
+    {
+      "id": "tornerose",
+      "name": "Tornerose",
+      "shareName": "Tornerose",
+      "emoji": null,
+      "description": "Du er drømmende, rolig og tålmodig. Du vet at gode ting kommer til dem som venter.",
+      "funFact": "I eventyret sover Tornerose i hundre år før hun våkner.",
+      "image": "images/2026-12-25/tornerose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Lever i drømmene."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Tror på det gode."
+        }
+      ]
+    },
+    {
+      "id": "gullhar",
+      "name": "Gullhår og de tre bjørnene",
+      "shareName": "Gullhår",
+      "emoji": null,
+      "description": "Du er nysgjerrig, spontan og vet hva du liker. Ting skal være akkurat passe.",
+      "funFact": "Gullhår og de tre bjørnene ble skrevet ned i England på 1800-tallet.",
+      "image": "images/2026-12-25/gullhar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Må prøve alt."
+        },
+        {
+          "title": "Spontan",
+          "text": "Går rett inn."
+        },
+        {
+          "title": "Kresen",
+          "text": "Akkurat passe."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Finner nye steder."
+        }
+      ]
+    },
+    {
+      "id": "havfrue",
+      "name": "Den lille havfrue",
+      "shareName": "Den lille havfrue",
+      "emoji": null,
+      "description": "Du er drømmende, følsom og lengter etter nye verdener. Du gir alt for det du tror på.",
+      "funFact": "Den lille havfrue ble skrevet av danske H.C. Andersen, og en kjent statue av henne står i København.",
+      "image": "images/2026-12-25/havfrue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Lengter etter mer."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Hengiven",
+          "text": "Gir alt."
+        }
+      ]
+    },
+    {
+      "id": "andunge",
+      "name": "Den stygge andungen",
+      "shareName": "Den stygge andungen",
+      "emoji": null,
+      "description": "Du er utholdende og vakker inni. Du blomstrer når du finner stedet der du hører hjemme.",
+      "funFact": "Den stygge andungen ble skrevet av H.C. Andersen i 1843.",
+      "image": "images/2026-12-25/andunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Krever lite."
+        },
+        {
+          "title": "Vakker",
+          "text": "Skinner innenfra."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt deg selv."
+        }
+      ]
+    },
+    {
+      "id": "erten",
+      "name": "Prinsessen på erten",
+      "shareName": "Prinsessen på erten",
+      "emoji": null,
+      "description": "Du er følsom og legger merke til de minste detaljene. Det du kjenner, er ekte.",
+      "funFact": "Prinsessen på erten er også skrevet av H.C. Andersen.",
+      "image": "images/2026-12-25/erten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Merker alt."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser det lille."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt ærlig."
+        },
+        {
+          "title": "Elegant",
+          "text": "Litt kongelig."
+        }
+      ]
+    },
+    {
+      "id": "keiseren",
+      "name": "Keiserens nye klær",
+      "shareName": "Keiseren i Keiserens nye klær",
+      "emoji": null,
+      "description": "Du er selvsikker, stilbevisst og har god humor. Du tåler å le av deg selv.",
+      "funFact": "I Keiserens nye klær er det et barn som til slutt sier det alle ser: at keiseren ikke har noe på seg.",
+      "image": "images/2026-12-25/keiseren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Går med hevet hode."
+        },
+        {
+          "title": "Stilbevisst",
+          "text": "Elsker klær."
+        },
+        {
+          "title": "Humoristisk",
+          "text": "Ler av seg selv."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å vise seg."
+        }
+      ]
+    },
+    {
+      "id": "kvitebjorn",
+      "name": "Kvitebjørn kong Valemon",
+      "shareName": "Kvitebjørn kong Valemon",
+      "emoji": null,
+      "description": "Du er trofast, varm og litt mystisk. Bak det rolige ytre skjuler det seg et stort hjerte.",
+      "funFact": "Kvitebjørn kong Valemon er et norsk eventyr om en prins som er forhekset til en hvit bjørn.",
+      "image": "images/2026-12-25/kvitebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Mer enn man ser."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        }
+      ]
+    }
+  ]
+}

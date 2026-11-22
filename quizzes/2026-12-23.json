@@ -1,0 +1,724 @@
+{
+  "id": "2026-12-23",
+  "date": "2026-12-23",
+  "title": "Hvilken julepakke er du i dag?",
+  "intro": "Det er lillejulaften, og pakkene ligger klare under treet. Er du en myk pakke, en glitrende pakke eller en som rasler? Svar på sju spørsmål og finn ut hvilken julepakke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan ser drømmekjøkkenet ditt ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stort, med plass til mange",
+          "scores": {
+            "stor": 2,
+            "glitter": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lite og koselig",
+          "scores": {
+            "myk": 2,
+            "liten": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Moderne og blankt",
+          "scores": {
+            "sloyfe": 2,
+            "gavepose": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gammeldags med vedovn",
+          "scores": {
+            "avispapir": 2,
+            "konvolutt": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fullt av planter og farger",
+          "scores": {
+            "lang": 2,
+            "rund": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med en stor kjøkkenøy der alle samles",
+          "scores": {
+            "stor": 1,
+            "rasler": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du åpner en gave mens alle ser på. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "River opp papiret med en gang",
+          "scores": {
+            "rasler": 2,
+            "stor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Åpner forsiktig så papiret kan brukes igjen",
+          "scores": {
+            "avispapir": 2,
+            "gavepose": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rister og gjetter først",
+          "scores": {
+            "hard": 2,
+            "lang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt sjenert",
+          "scores": {
+            "liten": 2,
+            "konvolutt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier takk og klemmer giveren",
+          "scores": {
+            "myk": 1,
+            "rund": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør et stort nummer av det",
+          "scores": {
+            "glitter": 2,
+            "sloyfe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken seng ville du helst sovet i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Himmelseng",
+          "scores": {
+            "sloyfe": 2,
+            "glitter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Øverst i en køyeseng",
+          "scores": {
+            "rasler": 2,
+            "rund": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hengekøye",
+          "scores": {
+            "lang": 2,
+            "avispapir": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor seng med mange puter",
+          "scores": {
+            "myk": 1,
+            "stor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En smal seng under skråtaket",
+          "scores": {
+            "liten": 2,
+            "konvolutt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En luftmadrass i et telt",
+          "scores": {
+            "gavepose": 2,
+            "hard": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du på dansegulvet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Danser hele kvelden",
+          "scores": {
+            "glitter": 2,
+            "rund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står i kanten og nikker i takt",
+          "scores": {
+            "liten": 2,
+            "konvolutt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner på egne trinn",
+          "scores": {
+            "lang": 2,
+            "rasler": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Danser bare til favorittsangen",
+          "scores": {
+            "sloyfe": 2,
+            "hard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Drar med meg andre ut",
+          "scores": {
+            "stor": 2,
+            "myk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Holder meg unna",
+          "scores": {
+            "gavepose": 2,
+            "avispapir": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva ser du helst på i et akvarium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fargerike småfisker",
+          "scores": {
+            "glitter": 2,
+            "rund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blekkspruten",
+          "scores": {
+            "lang": 2,
+            "rasler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skilpadden",
+          "scores": {
+            "myk": 1,
+            "liten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Haien",
+          "scores": {
+            "hard": 2,
+            "stor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Manetene",
+          "scores": {
+            "konvolutt": 2,
+            "sloyfe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Krabbene",
+          "scores": {
+            "avispapir": 2,
+            "gavepose": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan sier du hadet på en fest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rundt og klemmer alle",
+          "scores": {
+            "myk": 2,
+            "stor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sniker meg ut uten å si noe",
+          "scores": {
+            "liten": 1,
+            "gavepose": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier hadet til verten og går",
+          "scores": {
+            "konvolutt": 2,
+            "sloyfe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg blir til det aller siste",
+          "scores": {
+            "glitter": 2,
+            "rund": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier hadet tre ganger før jeg går",
+          "scores": {
+            "rasler": 2,
+            "lang": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Takker for meg og hjelper med å rydde",
+          "scores": {
+            "avispapir": 2,
+            "hard": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på lillejulaften?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pynter juletreet",
+          "scores": {
+            "sloyfe": 2,
+            "glitter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pakker inn de siste gavene",
+          "scores": {
+            "gavepose": 2,
+            "avispapir": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser på julefilm",
+          "scores": {
+            "myk": 2,
+            "liten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager mat til julaften",
+          "scores": {
+            "stor": 2,
+            "hard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går ut og ser på julelys",
+          "scores": {
+            "lang": 2,
+            "konvolutt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rister på pakkene under treet",
+          "scores": {
+            "rasler": 2,
+            "rund": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "myk",
+      "name": "Myk pakke",
+      "shareName": "en myk pakke",
+      "emoji": null,
+      "description": "Du er koselig, omtenksom og varm. Du gir folk akkurat det de trenger, selv om det ikke er det mest spennende.",
+      "funFact": "Moderne gavepapir ble populært i USA rundt 1917.",
+      "image": "images/2026-12-23/myk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm som ullsokker."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir trygghet."
+        }
+      ]
+    },
+    {
+      "id": "hard",
+      "name": "Hard pakke",
+      "shareName": "en hard pakke",
+      "emoji": null,
+      "description": "Du er solid, spennende og litt mystisk. Folk lurer alltid på hva du har inni.",
+      "funFact": "I Norge åpnes julegavene vanligvis på julaften, mens mange andre land venter til første juledag.",
+      "image": "images/2026-12-23/hard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Spennende",
+          "text": "Alle lurer på deg."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelig."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler en støyt."
+        }
+      ]
+    },
+    {
+      "id": "liten",
+      "name": "Liten eske",
+      "shareName": "en liten eske",
+      "emoji": null,
+      "description": "Du er beskjeden, men full av overraskelser. Det beste ved deg ser man ikke med en gang.",
+      "funFact": "Det finnes et gammelt ordtak som sier at de beste tingene kommer i små pakker.",
+      "image": "images/2026-12-23/liten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskjeden",
+          "text": "Tar lite plass."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn ventet."
+        },
+        {
+          "title": "Verdifull",
+          "text": "Gull verdt."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Holder på noe."
+        }
+      ]
+    },
+    {
+      "id": "stor",
+      "name": "Stor eske",
+      "shareName": "en stor eske",
+      "emoji": null,
+      "description": "Du er raus, entusiastisk og umulig å overse. Du gjør alt med stor glede.",
+      "funFact": "Mange familier har tradisjon for at én person deler ut gavene under treet.",
+      "image": "images/2026-12-23/stor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Gir mye."
+        },
+        {
+          "title": "Entusiastisk",
+          "text": "Full av glede."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å se."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        }
+      ]
+    },
+    {
+      "id": "rund",
+      "name": "Rund pakke",
+      "shareName": "en rund pakke",
+      "emoji": null,
+      "description": "Du er leken, munter og sporty. Du får stemningen til å rulle.",
+      "funFact": "Runde ting pakkes ofte inn ved å samle papiret i en dott på toppen.",
+      "image": "images/2026-12-23/rund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Ruller videre."
+        },
+        {
+          "title": "Munter",
+          "text": "Alltid blid."
+        },
+        {
+          "title": "Sporty",
+          "text": "Glad i aktivitet."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av fart."
+        }
+      ]
+    },
+    {
+      "id": "konvolutt",
+      "name": "Konvolutt",
+      "shareName": "en konvolutt",
+      "emoji": null,
+      "description": "Du er gjennomtenkt og flink med ord. Du gir ofte noe som betyr mer enn det ser ut.",
+      "funFact": "Konvolutter ble mye vanligere da frimerket kom i 1840.",
+      "image": "images/2026-12-23/konvolutt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjennomtenkt",
+          "text": "Velger med omhu."
+        },
+        {
+          "title": "Ordrik",
+          "text": "Skriver fint."
+        },
+        {
+          "title": "Enkel",
+          "text": "Lite, men mye."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn du tror."
+        }
+      ]
+    },
+    {
+      "id": "gavepose",
+      "name": "Gavepose",
+      "shareName": "en gavepose",
+      "emoji": null,
+      "description": "Du er avslappet, praktisk og effektiv. Du vet at det viktigste er det som er inni.",
+      "funFact": "Gaveposer kan brukes om igjen år etter år.",
+      "image": "images/2026-12-23/gavepose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Rask og enkel."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Miljøvennlig",
+          "text": "Bruker om igjen."
+        }
+      ]
+    },
+    {
+      "id": "sloyfe",
+      "name": "Pakke med stor sløyfe",
+      "shareName": "en pakke med stor sløyfe",
+      "emoji": null,
+      "description": "Du er stilfull, festlig og har sans for detaljer. Alt du gjør, gjør du ordentlig.",
+      "funFact": "Gavebånd kan krølles ved at man drar det forsiktig over kanten av en saks.",
+      "image": "images/2026-12-23/sloyfe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "Pent til fingerspissene."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør det spesielt."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser alt."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt sitter."
+        }
+      ]
+    },
+    {
+      "id": "avispapir",
+      "name": "Pakke i avispapir",
+      "shareName": "en pakke i avispapir",
+      "emoji": null,
+      "description": "Du er kreativ, nøktern og original. Du gjør mye ut av lite.",
+      "funFact": "Teip ble oppfunnet i 1930 av amerikaneren Richard Drew.",
+      "image": "images/2026-12-23/avispapir.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Bruker det som finnes."
+        },
+        {
+          "title": "Nøktern",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Original",
+          "text": "Helt egen stil."
+        },
+        {
+          "title": "Miljøbevisst",
+          "text": "Gjenbruker alt."
+        }
+      ]
+    },
+    {
+      "id": "glitter",
+      "name": "Glitterpakke",
+      "shareName": "en glitterpakke",
+      "emoji": null,
+      "description": "Du er sprudlende, festlig og smittende glad. Der du har vært, ligger det litt glitter igjen.",
+      "funFact": "Glitter består av bittesmå, tynne biter som reflekterer lyset.",
+      "image": "images/2026-12-23/glitter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Full av glede."
+        },
+        {
+          "title": "Festlig",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Glamorøs",
+          "text": "Litt ekstra glans."
+        },
+        {
+          "title": "Smittende",
+          "text": "Andre blir glade."
+        }
+      ]
+    },
+    {
+      "id": "lang",
+      "name": "Lang og smal pakke",
+      "shareName": "en lang og smal pakke",
+      "emoji": null,
+      "description": "Du er uforutsigbar, kreativ og eventyrlysten. Ingen gjetter hva du finner på.",
+      "funFact": "Mange rister på pakkene sine før jul for å gjette hva som er inni.",
+      "image": "images/2026-12-23/lang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uforutsigbar",
+          "text": "Umulig å gjette."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Tenker utenfor boksen."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil prøve nytt."
+        },
+        {
+          "title": "Spennende",
+          "text": "Aldri kjedelig."
+        }
+      ]
+    },
+    {
+      "id": "rasler",
+      "name": "Pakke som rasler",
+      "shareName": "en pakke som rasler",
+      "emoji": null,
+      "description": "Du er nysgjerrig, leken og litt utålmodig. Du får alle rundt deg til å glede seg.",
+      "funFact": "Lyden fra en pakke er et av de vanligste hintene folk bruker når de gjetter hva de har fått.",
+      "image": "images/2026-12-23/rasler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Utålmodig",
+          "text": "Vil åpne nå."
+        },
+        {
+          "title": "Morsom",
+          "text": "Lager lyd."
+        }
+      ]
+    }
+  ]
+}
