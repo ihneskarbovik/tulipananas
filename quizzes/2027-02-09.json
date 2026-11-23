@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-09",
+  "date": "2027-02-09",
+  "title": "Hvilken pannekake er du i dag?",
+  "intro": "I dag er det feitetirsdag, dagen før fasten begynner. Mange steder feires dagen med pannekaker, og i Storbritannia kalles den Pancake Day. Svar på sju spørsmål og finn ut hvilken pannekake du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken smak liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Søtt",
+          "scores": {
+            "japansk": 2,
+            "amerikansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Salt",
+          "scores": {
+            "potetpannekake": 2,
+            "fleskepannekake": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Syrlig",
+          "scores": {
+            "blinis": 2,
+            "crepe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sterkt",
+          "scores": {
+            "okonomiyaki": 2,
+            "potetpannekake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Søtt og salt på en gang",
+          "scores": {
+            "svele": 2,
+            "dutchbaby": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det jeg vokste opp med",
+          "scores": {
+            "norsk": 1,
+            "fleskepannekake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken stemning liker du best på en restaurant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Livlig og høylytt",
+          "scores": {
+            "amerikansk": 2,
+            "okonomiyaki": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rolig med levende lys",
+          "scores": {
+            "crepe": 2,
+            "blinis": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Enkel og rask",
+          "scores": {
+            "potetpannekake": 2,
+            "svele": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Utsikt over vannet",
+          "scores": {
+            "svele": 2,
+            "crepe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et lite, hemmelig sted",
+          "scores": {
+            "japansk": 2,
+            "dutchbaby": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et langbord med mange",
+          "scores": {
+            "fleskepannekake": 2,
+            "norsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du mens du pusser tennene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rundt i huset",
+          "scores": {
+            "okonomiyaki": 2,
+            "amerikansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser meg i speilet",
+          "scores": {
+            "crepe": 2,
+            "blinis": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Teller sekunder",
+          "scores": {
+            "norsk": 2,
+            "potetpannekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nynner på noe",
+          "scores": {
+            "dutchbaby": 2,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker på i morgen",
+          "scores": {
+            "japansk": 2,
+            "blinis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Står helt i ro",
+          "scores": {
+            "fleskepannekake": 2,
+            "svele": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan bærer du handleposene hjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alt på én gang",
+          "scores": {
+            "fleskepannekake": 2,
+            "amerikansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går to ganger",
+          "scores": {
+            "norsk": 1,
+            "japansk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med sekk på ryggen",
+          "scores": {
+            "potetpannekake": 1,
+            "svele": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Likt fordelt i hver hånd",
+          "scores": {
+            "crepe": 2,
+            "blinis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Får hjelp av noen",
+          "scores": {
+            "svele": 1,
+            "dutchbaby": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Henger dem på sykkelen",
+          "scores": {
+            "okonomiyaki": 1,
+            "dutchbaby": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har bestilt mat, men får feil rett. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser den, kanskje den er god",
+          "scores": {
+            "okonomiyaki": 2,
+            "dutchbaby": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier høflig fra",
+          "scores": {
+            "crepe": 2,
+            "norsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ber om å bytte med en gang",
+          "scores": {
+            "potetpannekake": 2,
+            "fleskepannekake": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Deler med de andre ved bordet",
+          "scores": {
+            "amerikansk": 2,
+            "svele": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smaker først, så bestemmer jeg meg",
+          "scores": {
+            "blinis": 2,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ler og tar et bilde",
+          "scores": {
+            "dutchbaby": 2,
+            "amerikansk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn vil lære deg noe du ikke kan. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaster meg ut i det",
+          "scores": {
+            "okonomiyaki": 2,
+            "amerikansk": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Følger nøye med",
+          "scores": {
+            "blinis": 2,
+            "crepe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om alt",
+          "scores": {
+            "japansk": 2,
+            "norsk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Øver til det sitter",
+          "scores": {
+            "potetpannekake": 2,
+            "fleskepannekake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler mye underveis",
+          "scores": {
+            "svele": 2,
+            "dutchbaby": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør det på min egen måte",
+          "scores": {
+            "dutchbaby": 2,
+            "okonomiyaki": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er viktigst når du lager mat til andre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At alle blir mette",
+          "scores": {
+            "fleskepannekake": 2,
+            "amerikansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "At det ser pent ut",
+          "scores": {
+            "blinis": 2,
+            "crepe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At det smaker som før",
+          "scores": {
+            "norsk": 2,
+            "svele": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "At det går fort",
+          "scores": {
+            "potetpannekake": 1,
+            "norsk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At det er noe nytt",
+          "scores": {
+            "okonomiyaki": 2,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "At det blir en overraskelse",
+          "scores": {
+            "dutchbaby": 2,
+            "japansk": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "norsk",
+      "name": "Tynne norske pannekaker med syltetøy",
+      "shareName": "tynne pannekaker med syltetøy",
+      "emoji": null,
+      "description": "Du er trygg, koselig og akkurat sånn folk håper. Med deg føles alt litt som hjemme.",
+      "funFact": "Allerede i oldtiden lagde grekerne pannekaker.",
+      "image": "images/2027-02-09/norsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Koselig",
+          "text": "Varm stemning."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gode."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        }
+      ]
+    },
+    {
+      "id": "amerikansk",
+      "name": "Amerikanske pannekaker",
+      "shareName": "amerikanske pannekaker",
+      "emoji": null,
+      "description": "Du er raus, glad og full av energi. Du gjør enhver morgen til en liten fest.",
+      "funFact": "Amerikanske pannekaker blir tykke og luftige fordi røra har bakepulver.",
+      "image": "images/2027-02-09/amerikansk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Gir gjerne litt ekstra."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Energisk",
+          "text": "Klar for dagen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker store bord."
+        }
+      ]
+    },
+    {
+      "id": "crepe",
+      "name": "Crêpe",
+      "shareName": "en crêpe",
+      "emoji": null,
+      "description": "Du er elegant, lett og passer inn nesten overalt. Du kan være både søt og salt.",
+      "funFact": "Crêpes kommer opprinnelig fra Bretagne i Frankrike.",
+      "image": "images/2027-02-09/crepe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stil uten stress."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar ikke så mye plass."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Passer til alt."
+        },
+        {
+          "title": "Fin",
+          "text": "Sans for detaljer."
+        }
+      ]
+    },
+    {
+      "id": "svele",
+      "name": "Svele",
+      "shareName": "en svele",
+      "emoji": null,
+      "description": "Du er jordnær, hyggelig og god å ha med på tur. Du får folk til å slappe av.",
+      "funFact": "Svele er en tykk pannekake som er kjent fra Vestlandet, og den selges ofte på ferjer.",
+      "image": "images/2027-02-09/svele.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen dikkedarer."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Trives på farten."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar livet med ro."
+        }
+      ]
+    },
+    {
+      "id": "blinis",
+      "name": "Blinis",
+      "shareName": "blinis",
+      "emoji": null,
+      "description": "Du er liten, men flott, og elsker en god anledning. Du gjør hverdagen litt finere.",
+      "funFact": "Blinis er små pannekaker fra Øst-Europa, og de kan lages med bokhvetemel.",
+      "image": "images/2027-02-09/blinis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Liker anledninger."
+        },
+        {
+          "title": "Fin",
+          "text": "Pent og pyntet."
+        },
+        {
+          "title": "Selskapelig",
+          "text": "Trives blant folk."
+        },
+        {
+          "title": "Liten",
+          "text": "Men full av smak."
+        }
+      ]
+    },
+    {
+      "id": "potetpannekake",
+      "name": "Potetpannekake",
+      "shareName": "en potetpannekake",
+      "emoji": null,
+      "description": "Du er ærlig, praktisk og tøffere enn mange tror. Du er sprø på utsiden og god innerst inne.",
+      "funFact": "I Sverige kalles potetpannekaker av revet rå potet for raggmunk.",
+      "image": "images/2027-02-09/potetpannekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Tøff",
+          "text": "Sprø på utsiden."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        }
+      ]
+    },
+    {
+      "id": "fleskepannekake",
+      "name": "Fleskepannekake",
+      "shareName": "en fleskepannekake",
+      "emoji": null,
+      "description": "Du er solid, raus og hjemmekjær. Når du er med, blir alle mette og fornøyde.",
+      "funFact": "Fleskepannekake stekes ofte i ovnen og blir høy og gyllen.",
+      "image": "images/2027-02-09/fleskepannekake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Holder lenge."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best hjemme."
+        },
+        {
+          "title": "Mettende",
+          "text": "Gir krefter."
+        }
+      ]
+    },
+    {
+      "id": "japansk",
+      "name": "Japanske fluffy pannekaker",
+      "shareName": "en japansk fluffy pannekake",
+      "emoji": null,
+      "description": "Du er myk, søt og litt drømmende. Du er god å være sammen med.",
+      "funFact": "Japanske fluffy pannekaker blir høye fordi eggehvitene piskes til stivt skum.",
+      "image": "images/2027-02-09/japansk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Søt",
+          "text": "Lett å bli glad i."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene svever."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Tar ting rolig."
+        }
+      ]
+    },
+    {
+      "id": "okonomiyaki",
+      "name": "Okonomiyaki",
+      "shareName": "okonomiyaki",
+      "emoji": null,
+      "description": "Du er eventyrlysten, kreativ og liker å blande ting. Ingen dager med deg er like.",
+      "funFact": "Navnet okonomiyaki betyr omtrent «stek det du liker» på japansk.",
+      "image": "images/2027-02-09/okonomiyaki.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Prøver det nye."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Blander fritt."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Alt kan fungere."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Alltid en overraskelse."
+        }
+      ]
+    },
+    {
+      "id": "dutchbaby",
+      "name": "Dutch baby",
+      "shareName": "en Dutch baby",
+      "emoji": null,
+      "description": "Du er overraskende, leken og elsker en stor entré. Du vokser når det gjelder.",
+      "funFact": "En Dutch baby stekes i en varm form i ovnen og reiser seg høyt i kantene.",
+      "image": "images/2027-02-09/dutchbaby.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Vokser når det gjelder."
+        },
+        {
+          "title": "Leken",
+          "text": "Full av moro."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Elsker en stor entré."
+        },
+        {
+          "title": "Varm",
+          "text": "Rett fra ovnen."
+        }
+      ]
+    }
+  ]
+}

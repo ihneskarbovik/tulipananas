@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-06",
+  "date": "2027-02-06",
+  "title": "Hva fra Sápmi er du i dag?",
+  "intro": "6. februar er samefolkets dag, til minne om det første samiske landsmøtet i Trondheim i 1917. Svar på sju spørsmål og finn ut hva fra Sápmi du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva har du helst i termosen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varm kakao",
+          "scores": {
+            "lavvo": 2,
+            "midnattssol": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Svart kaffe",
+          "scores": {
+            "lasso": 2,
+            "reinsdyr": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Te med honning",
+          "scores": {
+            "vidda": 1,
+            "joik": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Varm solbærtoddy",
+          "scores": {
+            "kofte": 2,
+            "flagget": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Varm suppe",
+          "scores": {
+            "duodji": 2,
+            "reinsdyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe nytt jeg har funnet på",
+          "scores": {
+            "nordlys": 2,
+            "duodji": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags historier liker du best å høre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gamle sagn",
+          "scores": {
+            "joik": 2,
+            "kofte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Morsomme ting som har skjedd",
+          "scores": {
+            "lavvo": 2,
+            "midnattssol": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spennende mysterier",
+          "scores": {
+            "nordlys": 2,
+            "lasso": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Om dyr og natur",
+          "scores": {
+            "reinsdyr": 2,
+            "vidda": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Om hvordan ting blir laget",
+          "scores": {
+            "duodji": 2,
+            "lasso": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Om folk som sto opp for noe",
+          "scores": {
+            "flagget": 2,
+            "kofte": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du mens du snakker i telefonen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tegner små figurer på et ark",
+          "scores": {
+            "duodji": 2,
+            "vidda": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser ut av vinduet",
+          "scores": {
+            "vidda": 2,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler høyt og prater i vei",
+          "scores": {
+            "lavvo": 2,
+            "joik": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nynner mens den andre snakker",
+          "scores": {
+            "joik": 1,
+            "midnattssol": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ligger på sofaen med øynene igjen",
+          "scores": {
+            "nordlys": 2,
+            "reinsdyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går rett på sak",
+          "scores": {
+            "lasso": 2,
+            "flagget": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen synger bursdagssang for deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger med selv",
+          "scores": {
+            "joik": 2,
+            "midnattssol": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir rød, men smiler",
+          "scores": {
+            "vidda": 2,
+            "duodji": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dirigerer alle sammen",
+          "scores": {
+            "flagget": 2,
+            "lasso": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nyter hvert sekund",
+          "scores": {
+            "kofte": 2,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Deler ut kake med en gang",
+          "scores": {
+            "lavvo": 1,
+            "reinsdyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klemmer alle etterpå",
+          "scores": {
+            "reinsdyr": 1,
+            "flagget": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan tar du oppvasken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med en gang etter maten",
+          "scores": {
+            "lasso": 2,
+            "flagget": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med musikk på",
+          "scores": {
+            "midnattssol": 2,
+            "joik": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lar den stå til i morgen",
+          "scores": {
+            "vidda": 2,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sammen med noen",
+          "scores": {
+            "lavvo": 2,
+            "reinsdyr": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Grundig, en ting om gangen",
+          "scores": {
+            "duodji": 2,
+            "kofte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så raskt jeg kan",
+          "scores": {
+            "midnattssol": 2,
+            "lasso": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du ser en regnbue. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står stille og ser",
+          "scores": {
+            "vidda": 2,
+            "nordlys": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Roper på alle rundt meg",
+          "scores": {
+            "flagget": 2,
+            "lavvo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar et bilde",
+          "scores": {
+            "kofte": 2,
+            "duodji": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver å se hvor den slutter",
+          "scores": {
+            "reinsdyr": 1,
+            "lasso": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ønsker meg noe",
+          "scores": {
+            "nordlys": 2,
+            "joik": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smiler og går videre",
+          "scores": {
+            "midnattssol": 2,
+            "reinsdyr": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan feirer du helst en festdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I mine fineste klær",
+          "scores": {
+            "kofte": 2,
+            "flagget": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med sang og musikk",
+          "scores": {
+            "joik": 1,
+            "kofte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ute i naturen",
+          "scores": {
+            "vidda": 2,
+            "reinsdyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med mange gjester",
+          "scores": {
+            "lavvo": 1,
+            "flagget": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med noe jeg har laget selv",
+          "scores": {
+            "duodji": 2,
+            "lavvo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Oppe til langt på natt",
+          "scores": {
+            "midnattssol": 2,
+            "lasso": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "reinsdyr",
+      "name": "Reinsdyr",
+      "shareName": "et reinsdyr",
+      "emoji": null,
+      "description": "Du er seig, sosial og klarer deg i all slags vær. Du trives best sammen med flokken din.",
+      "funFact": "Hos reinsdyr har både hannen og hunnen gevir.",
+      "image": "images/2027-02-06/reinsdyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Seig",
+          "text": "Tåler både kulde og vind."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går langt uten å klage."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Finner alltid en vei."
+        }
+      ]
+    },
+    {
+      "id": "lavvo",
+      "name": "Lavvo",
+      "shareName": "en lavvo",
+      "emoji": null,
+      "description": "Du er gjestfri, varm og samler folk rundt deg. Hos deg er det alltid plass til én til.",
+      "funFact": "En lavvo er et lett telt som kan settes opp og tas ned raskt.",
+      "image": "images/2027-02-06/lavvo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Alltid plass til flere."
+        },
+        {
+          "title": "Koselig",
+          "text": "Varm stemning."
+        },
+        {
+          "title": "Samlende",
+          "text": "Folk samles rundt deg."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger ikke så mye."
+        }
+      ]
+    },
+    {
+      "id": "joik",
+      "name": "Joik",
+      "shareName": "en joik",
+      "emoji": null,
+      "description": "Du er uttrykksfull, varm og viser følelsene dine. Du får andre til å kjenne seg sett.",
+      "funFact": "Man sier at man joiker en person eller et sted, ikke om dem.",
+      "image": "images/2027-02-06/joik.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser hva du føler."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Alltid en melodi."
+        },
+        {
+          "title": "Personlig",
+          "text": "Ser hver enkelt."
+        }
+      ]
+    },
+    {
+      "id": "nordlys",
+      "name": "Nordlys",
+      "shareName": "nordlyset",
+      "emoji": null,
+      "description": "Du er magisk, drømmende og dukker opp når folk minst venter det. Du får andre til å stoppe opp og se.",
+      "funFact": "Nordlys oppstår når partikler fra sola treffer atmosfæren.",
+      "image": "images/2027-02-06/nordlys.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Magisk",
+          "text": "Litt eventyr over deg."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene danser."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp plutselig."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp mørket."
+        }
+      ]
+    },
+    {
+      "id": "kofte",
+      "name": "Kofte (gákti)",
+      "shareName": "en kofte",
+      "emoji": null,
+      "description": "Du er stolt, festlig og har sans for detaljer. Du vet hvor du kommer fra, og bærer det med glede.",
+      "funFact": "Farger og mønstre på en kofte kan vise hvor den som har den på seg kommer fra.",
+      "image": "images/2027-02-06/kofte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Kjenner røttene dine."
+        },
+        {
+          "title": "Festlig",
+          "text": "Pynter opp dagen."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Sans for detaljer."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Tar vare på det gamle."
+        }
+      ]
+    },
+    {
+      "id": "duodji",
+      "name": "Duodji (samisk håndverk)",
+      "shareName": "duodji",
+      "emoji": null,
+      "description": "Du er kreativ, tålmodig og flink med hendene. Du lager ting som både er vakre og nyttige.",
+      "funFact": "Duodji er det samiske ordet for håndverk og husflid.",
+      "image": "images/2027-02-06/duodji.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Øye for detaljer."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Vakkert og nyttig."
+        }
+      ]
+    },
+    {
+      "id": "vidda",
+      "name": "Vidda",
+      "shareName": "vidda",
+      "emoji": null,
+      "description": "Du er rolig, åpen og elsker frihet. Du trenger plass til å tenke og puste.",
+      "funFact": "Både Kautokeino og Karasjok ligger på Finnmarksvidda.",
+      "image": "images/2027-02-06/vidda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Fri",
+          "text": "Trenger god plass."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Åpen",
+          "text": "Rom for alle tanker."
+        }
+      ]
+    },
+    {
+      "id": "flagget",
+      "name": "Det samiske flagget",
+      "shareName": "det samiske flagget",
+      "emoji": null,
+      "description": "Du er tydelig, stolt og står for det du mener. Du samler folk om noe felles.",
+      "funFact": "Det samiske flagget ble tatt i bruk i 1986.",
+      "image": "images/2027-02-06/flagget.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier det du mener."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står rakrygget."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får folk sammen."
+        },
+        {
+          "title": "Modig",
+          "text": "Står for noe."
+        }
+      ]
+    },
+    {
+      "id": "midnattssol",
+      "name": "Midnattssol",
+      "shareName": "midnattssola",
+      "emoji": null,
+      "description": "Du er energisk, glad og har nesten ikke lyst til å legge deg. Du sprer lys rundt deg.",
+      "funFact": "Nord for polarsirkelen går ikke sola ned midt på sommeren.",
+      "image": "images/2027-02-06/midnattssol.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Lys",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Utrettelig",
+          "text": "Holder på lenge."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        }
+      ]
+    },
+    {
+      "id": "lasso",
+      "name": "Lasso",
+      "shareName": "en lasso",
+      "emoji": null,
+      "description": "Du er rask, presis og treffer det du sikter på. Når noe må gjøres, gjør du det.",
+      "funFact": "Lasso brukes til å fange enkeltdyr i en reinflokk.",
+      "image": "images/2027-02-06/lasso.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Treffer blink."
+        },
+        {
+          "title": "Rask",
+          "text": "Handler kjapt."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Holder blikket fast."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Får ting gjort."
+        }
+      ]
+    }
+  ]
+}

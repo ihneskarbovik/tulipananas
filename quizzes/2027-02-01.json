@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-01",
+  "date": "2027-02-01",
+  "title": "Hvilket skolefag er du i dag?",
+  "intro": "Februar er midt i skoleåret, og timeplanen er full av fag. Er du logiske matte, kreative kunst og håndverk eller sporty kroppsøving? Svar på sju spørsmål og finn ut hvilket skolefag du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket apparat på lekeplassen liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Huska, så høyt som mulig",
+          "scores": {
+            "gym": 2,
+            "musikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den lange sklia",
+          "scores": {
+            "engelsk": 2,
+            "geografi": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klatrestativet",
+          "scores": {
+            "gym": 1,
+            "naturfag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sandkassa, der jeg kan bygge",
+          "scores": {
+            "kunst": 2,
+            "matte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Karusellen med mange venner",
+          "scores": {
+            "mathelse": 2,
+            "engelsk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Benken, der jeg kan se på",
+          "scores": {
+            "historie": 2,
+            "norsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilke nøtter liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peanøtter, gjerne mange",
+          "scores": {
+            "gym": 2,
+            "mathelse": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hasselnøtter",
+          "scores": {
+            "historie": 2,
+            "norsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mandler",
+          "scores": {
+            "mathelse": 2,
+            "kunst": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Valnøtter",
+          "scores": {
+            "naturfag": 2,
+            "matte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Cashewnøtter",
+          "scores": {
+            "geografi": 2,
+            "engelsk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg tar heller rosiner",
+          "scores": {
+            "musikk": 2,
+            "kunst": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva vil du helst suse rundt på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sparkesykkel",
+          "scores": {
+            "engelsk": 2,
+            "musikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rulleskøyter",
+          "scores": {
+            "musikk": 1,
+            "mathelse": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skateboard",
+          "scores": {
+            "kunst": 1,
+            "gym": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sykkel med mange gir",
+          "scores": {
+            "matte": 1,
+            "geografi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Egne bein, jeg løper",
+          "scores": {
+            "gym": 1,
+            "naturfag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går helst i rolig tempo",
+          "scores": {
+            "norsk": 2,
+            "historie": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen spør hvordan det går. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bare bra, med et stort smil",
+          "scores": {
+            "musikk": 2,
+            "gym": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Forteller hele historien",
+          "scores": {
+            "norsk": 2,
+            "historie": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Svarer kort og spør tilbake",
+          "scores": {
+            "engelsk": 2,
+            "matte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Forteller om noe jeg har laget",
+          "scores": {
+            "kunst": 2,
+            "mathelse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker meg om før jeg svarer",
+          "scores": {
+            "historie": 2,
+            "naturfag": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller hvor jeg skal i helgen",
+          "scores": {
+            "geografi": 2,
+            "gym": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Dere spiller minigolf. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teller poengene nøye",
+          "scores": {
+            "matte": 1,
+            "historie": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tøyser og ler hele tiden",
+          "scores": {
+            "musikk": 2,
+            "engelsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Heier på alle de andre",
+          "scores": {
+            "mathelse": 2,
+            "norsk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sikter lenge før jeg slår",
+          "scores": {
+            "naturfag": 2,
+            "matte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver vanskelige triksslag",
+          "scores": {
+            "gym": 1,
+            "kunst": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Forteller om forrige gang vi spilte",
+          "scores": {
+            "norsk": 2,
+            "geografi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal bygge et høyt tårn av klosser. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en plan først",
+          "scores": {
+            "matte": 2,
+            "historie": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bygger fort og ser hva som skjer",
+          "scores": {
+            "naturfag": 2,
+            "gym": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en bred og solid bunn",
+          "scores": {
+            "naturfag": 1,
+            "matte": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjør det fint med mange farger",
+          "scores": {
+            "kunst": 2,
+            "musikk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bygger sammen med andre",
+          "scores": {
+            "mathelse": 2,
+            "engelsk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en hel by i stedet",
+          "scores": {
+            "geografi": 2,
+            "norsk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du helst i friminuttet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiller ball med de andre",
+          "scores": {
+            "gym": 2,
+            "geografi": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser en bok i et hjørne",
+          "scores": {
+            "historie": 2,
+            "norsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tegner eller lager noe",
+          "scores": {
+            "kunst": 2,
+            "musikk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prater med alle",
+          "scores": {
+            "engelsk": 1,
+            "mathelse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Utforsker hele skolegården",
+          "scores": {
+            "geografi": 2,
+            "naturfag": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Løser gåter eller spiller sjakk",
+          "scores": {
+            "matte": 2,
+            "kunst": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "matte",
+      "name": "Matte",
+      "shareName": "matte",
+      "emoji": null,
+      "description": "Du er logisk, nøyaktig og elsker å løse gåter. Du finner alltid et system.",
+      "funFact": "Null som eget tall ble tatt i bruk i India for mer enn tusen år siden.",
+      "image": "images/2027-02-01/matte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Logisk",
+          "text": "Tenker steg for steg."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Ser alle detaljer."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir ikke opp."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner lure løsninger."
+        }
+      ]
+    },
+    {
+      "id": "norsk",
+      "name": "Norsk",
+      "shareName": "norsk",
+      "emoji": null,
+      "description": "Du er ordrik, ettertenksom og glad i gode historier. Du vet akkurat hva du vil si.",
+      "funFact": "Norsk har to offisielle skriftformer: bokmål og nynorsk.",
+      "image": "images/2027-02-01/norsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordrik",
+          "text": "Mange fine ord."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Elsker historier."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker over ting."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Sier det godt."
+        }
+      ]
+    },
+    {
+      "id": "engelsk",
+      "name": "Engelsk",
+      "shareName": "engelsk",
+      "emoji": null,
+      "description": "Du er åpen, nysgjerrig og liker å bli kjent med hele verden. Du prater lett med alle.",
+      "funFact": "Svært mange engelske ord kommer opprinnelig fra fransk og latin.",
+      "image": "images/2027-02-01/engelsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Liker nye mennesker."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Snakker med alle."
+        },
+        {
+          "title": "Internasjonal",
+          "text": "Venner overalt."
+        }
+      ]
+    },
+    {
+      "id": "naturfag",
+      "name": "Naturfag",
+      "shareName": "naturfag",
+      "emoji": null,
+      "description": "Du er nysgjerrig, undersøkende og vil vite hvordan alt henger sammen. Du stiller de beste spørsmålene.",
+      "funFact": "Vann utvider seg når det fryser til is. Derfor flyter isen.",
+      "image": "images/2027-02-01/naturfag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Undersøkende",
+          "text": "Tester og prøver."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør alltid hvorfor."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker ting nøye."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker planter og dyr."
+        }
+      ]
+    },
+    {
+      "id": "gym",
+      "name": "Kroppsøving",
+      "shareName": "kroppsøving",
+      "emoji": null,
+      "description": "Du er energisk, sporty og elsker å være i bevegelse. Du får alle med på laget.",
+      "funFact": "De første moderne olympiske lekene ble holdt i Athen i 1896.",
+      "image": "images/2027-02-01/gym.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker bevegelse."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Heier på alle."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        }
+      ]
+    },
+    {
+      "id": "musikk",
+      "name": "Musikk",
+      "shareName": "musikk",
+      "emoji": null,
+      "description": "Du er rytmisk, glad og har alltid en melodi i hodet. Du sprer god stemning rundt deg.",
+      "funFact": "Et vanlig piano har 88 tangenter.",
+      "image": "images/2027-02-01/musikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rytmisk",
+          "text": "Takt i kroppen."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører alle detaljer."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Lager egne melodier."
+        }
+      ]
+    },
+    {
+      "id": "kunst",
+      "name": "Kunst og håndverk",
+      "shareName": "kunst og håndverk",
+      "emoji": null,
+      "description": "Du er kreativ, fingernem og ser muligheter i alt. Du lager noe fint av nesten ingenting.",
+      "funFact": "Blander du blått og gult, får du grønt.",
+      "image": "images/2027-02-01/kunst.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Mange ideer."
+        },
+        {
+          "title": "Fingernem",
+          "text": "Flinke hender."
+        },
+        {
+          "title": "Fargeglad",
+          "text": "Elsker farger."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Lager noe av alt."
+        }
+      ]
+    },
+    {
+      "id": "historie",
+      "name": "Historie",
+      "shareName": "historie",
+      "emoji": null,
+      "description": "Du er klok, ettertenksom og elsker gamle fortellinger. Du forstår nåtiden bedre ved å se bakover.",
+      "funFact": "Pyramidene i Giza ble bygget for mer enn 4000 år siden.",
+      "image": "images/2027-02-01/historie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Lærer av fortiden."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Gode gamle historier."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite hva skjedde."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Liker lange fortellinger."
+        }
+      ]
+    },
+    {
+      "id": "geografi",
+      "name": "Geografi",
+      "shareName": "geografi",
+      "emoji": null,
+      "description": "Du er eventyrlysten, nysgjerrig og drømmer om fjerne steder. Du finner alltid fram.",
+      "funFact": "Stillehavet er det største havet på jorda.",
+      "image": "images/2027-02-01/geografi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Orientert",
+          "text": "Finner alltid fram."
+        },
+        {
+          "title": "Utforskende",
+          "text": "Elsker kart."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Drømmer om steder."
+        }
+      ]
+    },
+    {
+      "id": "mathelse",
+      "name": "Mat og helse",
+      "shareName": "mat og helse",
+      "emoji": null,
+      "description": "Du er omsorgsfull, praktisk og glad i god mat. Du samler folk rundt bordet.",
+      "funFact": "Faget mat og helse het tidligere heimkunnskap.",
+      "image": "images/2027-02-01/mathelse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Lager mat til andre."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Sunn",
+          "text": "Liker god mat."
+        }
+      ]
+    }
+  ]
+}

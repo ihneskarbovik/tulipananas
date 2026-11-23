@@ -1,0 +1,724 @@
+{
+  "id": "2027-02-05",
+  "date": "2027-02-05",
+  "title": "Hvilket kinesisk stjernetegn er du i dag?",
+  "intro": "I morgen, 6. februar 2027, begynner det kinesiske nyttåret, og det er geitas år. Er du en kvikk rotte, en modig tiger eller en raus gris? Svar på sju spørsmål og finn ut hvilket kinesisk stjernetegn du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst ha på lefsa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smør og sukker",
+          "scores": {
+            "gris": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smør, sukker og kanel",
+          "scores": {
+            "geit": 2,
+            "ape": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brunost",
+          "scores": {
+            "okse": 2,
+            "hund": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spekemat",
+          "scores": {
+            "tiger": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rømme og syltetøy",
+          "scores": {
+            "drage": 2,
+            "gris": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare smør, helt enkelt",
+          "scores": {
+            "rotte": 1,
+            "hane": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får fortauskritt. Hva lager du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En lang hinkerute",
+          "scores": {
+            "ape": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et stort, fargerikt kunstverk",
+          "scores": {
+            "geit": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En labyrint",
+          "scores": {
+            "rotte": 2,
+            "slange": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hyggelige beskjeder til naboene",
+          "scores": {
+            "hund": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et rutenett med regnestykker",
+          "scores": {
+            "hane": 2,
+            "okse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Piler til et kappløp",
+          "scores": {
+            "tiger": 1,
+            "hest": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du har plukket en hel bøtte epler. Hva gjør du med dem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baker eplekake til alle",
+          "scores": {
+            "gris": 2,
+            "hund": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Deler ut til naboene",
+          "scores": {
+            "hund": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager eplemost",
+          "scores": {
+            "okse": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjonglerer litt først",
+          "scores": {
+            "ape": 2,
+            "tiger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sorterer dem etter størrelse",
+          "scores": {
+            "hane": 2,
+            "rotte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser ett i ro og fred",
+          "scores": {
+            "slange": 2,
+            "hare": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva bestiller du på en kinesisk restaurant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vårruller",
+          "scores": {
+            "hest": 2,
+            "ape": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nudler med grønnsaker",
+          "scores": {
+            "geit": 2,
+            "hare": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dumplinger til deling",
+          "scores": {
+            "gris": 2,
+            "drage": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stekt ris",
+          "scores": {
+            "okse": 2,
+            "hund": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe sterkt jeg ikke har smakt",
+          "scores": {
+            "tiger": 2,
+            "rotte": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det samme som sist",
+          "scores": {
+            "hane": 2,
+            "slange": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Dere skal sette opp et telt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser bruksanvisningen nøye",
+          "scores": {
+            "slange": 2,
+            "hane": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver meg fram",
+          "scores": {
+            "rotte": 1,
+            "ape": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner den fineste plassen først",
+          "scores": {
+            "geit": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar ansvar og fordeler oppgaver",
+          "scores": {
+            "drage": 2,
+            "tiger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Henter vann og ved",
+          "scores": {
+            "hest": 2,
+            "okse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager mat til dem som jobber",
+          "scores": {
+            "gris": 2,
+            "hund": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal lage et vennskapsarmbånd. Hvordan blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med alle regnbuens farger",
+          "scores": {
+            "ape": 2,
+            "geit": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Enkelt og pent",
+          "scores": {
+            "hare": 2,
+            "slange": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en liten hemmelig kode",
+          "scores": {
+            "rotte": 1,
+            "slange": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med gull og glitter",
+          "scores": {
+            "drage": 2,
+            "gris": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sterkt, så det varer lenge",
+          "scores": {
+            "hund": 2,
+            "okse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ferdig på fem minutter",
+          "scores": {
+            "hest": 2,
+            "tiger": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du skal lage en hinderløype. Hva må den ha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høye hopp",
+          "scores": {
+            "tiger": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kryping under tepper",
+          "scores": {
+            "hare": 2,
+            "slange": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Balansering på en planke",
+          "scores": {
+            "hane": 2,
+            "okse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gåter underveis",
+          "scores": {
+            "rotte": 2,
+            "ape": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Premie til alle i mål",
+          "scores": {
+            "gris": 2,
+            "hund": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Flagg og pynt langs løypa",
+          "scores": {
+            "geit": 2,
+            "drage": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "rotte",
+      "name": "Rotta",
+      "shareName": "rotta",
+      "emoji": null,
+      "description": "Du er kvikk, smart og finner alltid en løsning. Du ser muligheter før alle andre.",
+      "funFact": "Rotta er det første av de tolv dyrene. Rottas år var sist i 2020.",
+      "image": "images/2027-02-05/rotte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvikk",
+          "text": "Rask i hodet."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Sparsom",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "okse",
+      "name": "Oksen",
+      "shareName": "oksen",
+      "emoji": null,
+      "description": "Du er arbeidsom, stødig og helt til å stole på. Når du har bestemt deg, fullfører du.",
+      "funFact": "Oksens år var sist i 2021, og neste gang er i 2033.",
+      "image": "images/2027-02-05/okse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står på."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig og sterk."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "tiger",
+      "name": "Tigeren",
+      "shareName": "tigeren",
+      "emoji": null,
+      "description": "Du er modig, selvsikker og full av energi. Du går foran når noe må gjøres.",
+      "funFact": "Tigerens år var sist i 2022, og neste gang er i 2034.",
+      "image": "images/2027-02-05/tiger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Tror på deg selv."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        }
+      ]
+    },
+    {
+      "id": "hare",
+      "name": "Haren",
+      "shareName": "haren",
+      "emoji": null,
+      "description": "Du er snill, myk og gir ro til alle rundt deg. Du har en stille og fin stil.",
+      "funFact": "Harens år var sist i 2023, og neste gang er i 2035.",
+      "image": "images/2027-02-05/hare.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "God mot alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gir ro."
+        },
+        {
+          "title": "Elegant",
+          "text": "Fin stil."
+        },
+        {
+          "title": "Diplomatisk",
+          "text": "Unngår krangel."
+        }
+      ]
+    },
+    {
+      "id": "drage",
+      "name": "Dragen",
+      "shareName": "dragen",
+      "emoji": null,
+      "description": "Du er kraftfull, karismatisk og drømmer stort. Når du kommer inn i rommet, merker alle det.",
+      "funFact": "Dragen er det eneste fabeldyret blant de tolv. Dragens år var sist i 2024.",
+      "image": "images/2027-02-05/drage.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Karismatisk",
+          "text": "Alle legger merke til deg."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Drømmer stort."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler med alle."
+        }
+      ]
+    },
+    {
+      "id": "slange",
+      "name": "Slangen",
+      "shareName": "slangen",
+      "emoji": null,
+      "description": "Du er klok, rolig og tenker grundig før du handler. Du forstår mer enn du sier.",
+      "funFact": "Slangens år var sist i 2025, og neste gang er i 2037.",
+      "image": "images/2027-02-05/slange.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen panikk."
+        },
+        {
+          "title": "Intuitiv",
+          "text": "Kjenner ting på deg."
+        },
+        {
+          "title": "Elegant",
+          "text": "Myk og stilfull."
+        }
+      ]
+    },
+    {
+      "id": "hest",
+      "name": "Hesten",
+      "shareName": "hesten",
+      "emoji": null,
+      "description": "Du er fri, energisk og elsker å være på farten. Du trives best med vind i håret.",
+      "funFact": "Hestens år begynte i februar 2026 og varer til 5. februar 2027.",
+      "image": "images/2027-02-05/hest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frihetselskende",
+          "text": "Elsker å være fri."
+        },
+        {
+          "title": "Energisk",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Sosial",
+          "text": "Mange venner."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        }
+      ]
+    },
+    {
+      "id": "geit",
+      "name": "Geita",
+      "shareName": "geita",
+      "emoji": null,
+      "description": "Du er kreativ, mild og omsorgsfull. Du gjør verden litt finere der du er.",
+      "funFact": "Geitas år begynner 6. februar 2027. Tegnet kalles også sauens år.",
+      "image": "images/2027-02-05/geit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Kunstner i sjelen."
+        },
+        {
+          "title": "Mild",
+          "text": "Snill og myk."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Fantasi i hodet."
+        }
+      ]
+    },
+    {
+      "id": "ape",
+      "name": "Apen",
+      "shareName": "apen",
+      "emoji": null,
+      "description": "Du er leken, smart og full av ideer. Du får alle til å le og løser problemer på løpende bånd.",
+      "funFact": "Apens neste år er 2028. Forrige gang var i 2016.",
+      "image": "images/2027-02-05/ape.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Full av moro."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Mange ideer."
+        },
+        {
+          "title": "Smart",
+          "text": "Løser alt."
+        },
+        {
+          "title": "Morsom",
+          "text": "Alle ler."
+        }
+      ]
+    },
+    {
+      "id": "hane",
+      "name": "Hanen",
+      "shareName": "hanen",
+      "emoji": null,
+      "description": "Du er ærlig, punktlig og legger merke til detaljer. Du er våken og klar før de fleste.",
+      "funFact": "Hanens neste år er 2029. Forrige gang var i 2017.",
+      "image": "images/2027-02-05/hane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Punktlig",
+          "text": "Alltid i tide."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier sannheten."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser detaljer."
+        },
+        {
+          "title": "Morgenfrisk",
+          "text": "Våken tidlig."
+        }
+      ]
+    },
+    {
+      "id": "hund",
+      "name": "Hunden",
+      "shareName": "hunden",
+      "emoji": null,
+      "description": "Du er lojal, rettferdig og en venn man kan stole på. Du stiller alltid opp for dine.",
+      "funFact": "Hundens neste år er 2030. Forrige gang var i 2018.",
+      "image": "images/2027-02-05/hund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Lik for alle."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        }
+      ]
+    },
+    {
+      "id": "gris",
+      "name": "Grisen",
+      "shareName": "grisen",
+      "emoji": null,
+      "description": "Du er raus, hjertelig og glad i livets gode ting. Du deler gjerne det du har.",
+      "funFact": "Grisen er det siste av de tolv dyrene. Grisens neste år er 2031.",
+      "image": "images/2027-02-05/gris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler alt."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Varm og god."
+        },
+        {
+          "title": "Nytende",
+          "text": "Elsker god mat."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Ser det beste."
+        }
+      ]
+    }
+  ]
+}

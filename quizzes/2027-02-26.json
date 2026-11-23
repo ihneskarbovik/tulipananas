@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-26",
+  "date": "2027-02-26",
+  "title": "Hvilken snacks er du i dag?",
+  "intro": "Det er fredag, og snacksskåla er klar. Er du sprø, søt eller sunn? Svar på sju spørsmål og finn ut hvilken snacks du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst ha i yoghurten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frisk frukt i mange farger",
+          "scores": {
+            "fruktspyd": 2,
+            "gulrotstaver": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sprø müsli",
+          "scores": {
+            "saltstenger": 2,
+            "kjeks": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rosiner og havre",
+          "scores": {
+            "rosiner": 2,
+            "kjeks": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt syltetøy",
+          "scores": {
+            "smagodt": 2,
+            "fruktspyd": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, naturell er best",
+          "scores": {
+            "gulrotstaver": 1,
+            "saltstenger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Strøssel og noe søtt",
+          "scores": {
+            "ostepop": 1,
+            "smagodt": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har ti minutter til å lage noe å spise. Hva blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor salat",
+          "scores": {
+            "gulrotstaver": 2,
+            "fruktspyd": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nachos i ovnen",
+          "scores": {
+            "tortillachips": 2,
+            "potetchips": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Knekkebrød med pålegg",
+          "scores": {
+            "saltstenger": 2,
+            "kjeks": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Havregrøt med rosiner",
+          "scores": {
+            "rosiner": 2,
+            "gulrotstaver": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Toast med ost",
+          "scores": {
+            "ostepop": 1,
+            "potetchips": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Litt av alt som finnes i skapet",
+          "scores": {
+            "smagodt": 2,
+            "popcorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken konkurranse ville du helst vært med i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En quiz med venner",
+          "scores": {
+            "popcorn": 2,
+            "tortillachips": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En bakekonkurranse",
+          "scores": {
+            "kjeks": 2,
+            "rosiner": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et løp i skogen",
+          "scores": {
+            "gulrotstaver": 2,
+            "saltstenger": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En tegnekonkurranse",
+          "scores": {
+            "fruktspyd": 2,
+            "smagodt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe tullete, som sekkeløp",
+          "scores": {
+            "ostepop": 2,
+            "popcorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe helt vanlig, som kortspill",
+          "scores": {
+            "potetchips": 2,
+            "saltstenger": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Tar du deg en liten lur på dagtid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aldri, da går jeg glipp av noe",
+          "scores": {
+            "tortillachips": 2,
+            "popcorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ja, i en god stol med et pledd",
+          "scores": {
+            "kjeks": 2,
+            "rosiner": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare hvis jeg sovner foran en serie",
+          "scores": {
+            "ostepop": 2,
+            "smagodt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nøyaktig tjue minutter, med alarm",
+          "scores": {
+            "saltstenger": 2,
+            "potetchips": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nei, jeg går heller en tur",
+          "scores": {
+            "gulrotstaver": 1,
+            "popcorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ja, og jeg drømmer de rareste ting",
+          "scores": {
+            "fruktspyd": 2,
+            "ostepop": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du får en melding med bare «ok». Hva tenker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt greit, kort og bra",
+          "scores": {
+            "saltstenger": 2,
+            "potetchips": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lurer på om de er sure",
+          "scores": {
+            "rosiner": 2,
+            "fruktspyd": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender et morsomt svar",
+          "scores": {
+            "popcorn": 1,
+            "ostepop": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer for å høre",
+          "scores": {
+            "tortillachips": 2,
+            "kjeks": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Svarer «ok» tilbake",
+          "scores": {
+            "gulrotstaver": 1,
+            "saltstenger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sender mange spørsmål tilbake",
+          "scores": {
+            "smagodt": 2,
+            "popcorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal passe et barn i noen timer. Hva gjør dere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bygger en hytte av puter",
+          "scores": {
+            "popcorn": 2,
+            "ostepop": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Baker noe sammen",
+          "scores": {
+            "kjeks": 2,
+            "tortillachips": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går ut og leker",
+          "scores": {
+            "gulrotstaver": 1,
+            "popcorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser bøker og slapper av",
+          "scores": {
+            "rosiner": 2,
+            "kjeks": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager en fin tegning sammen",
+          "scores": {
+            "fruktspyd": 2,
+            "smagodt": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser en film",
+          "scores": {
+            "potetchips": 2,
+            "tortillachips": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det står en skål med snacks på bordet hos noen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar en håndfull med en gang",
+          "scores": {
+            "potetchips": 2,
+            "popcorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter til noen byr meg",
+          "scores": {
+            "rosiner": 2,
+            "saltstenger": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sender skåla rundt til alle",
+          "scores": {
+            "tortillachips": 2,
+            "kjeks": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Plukker ut favorittene mine",
+          "scores": {
+            "smagodt": 2,
+            "ostepop": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør om det finnes noe sunnere",
+          "scores": {
+            "gulrotstaver": 2,
+            "fruktspyd": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter meg rett ved siden av den",
+          "scores": {
+            "ostepop": 2,
+            "potetchips": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "popcorn",
+      "name": "Popcorn",
+      "shareName": "popcorn",
+      "emoji": null,
+      "description": "Du er sprudlende, sosial og elsker en koselig kveld. Du popper opp der det skjer noe.",
+      "funFact": "Popcorn popper fordi vannet inni maiskornet blir til damp og sprenger skallet.",
+      "image": "images/2027-02-26/popcorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker fellesskap."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid moro."
+        },
+        {
+          "title": "Lett",
+          "text": "Lett til sinns."
+        }
+      ]
+    },
+    {
+      "id": "potetchips",
+      "name": "Potetchips",
+      "shareName": "potetchips",
+      "emoji": null,
+      "description": "Du er klassisk, populær og alltid med når det er kos. Du er lett å bli glad i.",
+      "funFact": "Potetchips lages av tynne potetskiver som stekes sprø.",
+      "image": "images/2027-02-26/potetchips.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Alltid populær."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hvem du er."
+        }
+      ]
+    },
+    {
+      "id": "ostepop",
+      "name": "Ostepop",
+      "shareName": "ostepop",
+      "emoji": null,
+      "description": "Du er fargerik, leken og helt deg selv. Du setter spor etter deg, akkurat som oransje fingre.",
+      "funFact": "Ostepop lages av mais.",
+      "image": "images/2027-02-26/ostepop.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid moro."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Uhøytidelig",
+          "text": "Tar det lett."
+        },
+        {
+          "title": "Ung",
+          "text": "Barn i sjelen."
+        }
+      ]
+    },
+    {
+      "id": "gulrotstaver",
+      "name": "Gulrotstaver",
+      "shareName": "gulrotstaver",
+      "emoji": null,
+      "description": "Du er frisk, energisk og tar godt vare på deg selv. Du er sprø på en sunn måte.",
+      "funFact": "Gulrøtter var opprinnelig lilla eller gule, før de oransje ble vanlige.",
+      "image": "images/2027-02-26/gulrotstaver.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på deg."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt i orden."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett fram."
+        }
+      ]
+    },
+    {
+      "id": "saltstenger",
+      "name": "Saltstenger",
+      "shareName": "saltstenger",
+      "emoji": null,
+      "description": "Du er rett fram, pålitelig og har en litt salt humor. Du er enkel på den beste måten.",
+      "funFact": "Saltstenger er tynne, sprø stenger med grovt salt på.",
+      "image": "images/2027-02-26/saltstenger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Direkte",
+          "text": "Rett fram."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid lik."
+        },
+        {
+          "title": "Tørrvittig",
+          "text": "Salt humor."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "tortillachips",
+      "name": "Tortillachips med dip",
+      "shareName": "tortillachips med dip",
+      "emoji": null,
+      "description": "Du er sosial, varm og elsker å dele. Du blir best sammen med andre.",
+      "funFact": "Tortillachips lages av mais, og tortilla er vanlig mat i Mexico.",
+      "image": "images/2027-02-26/tortillachips.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Best sammen."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra."
+        },
+        {
+          "title": "Varm",
+          "text": "Hjertevarm."
+        }
+      ]
+    },
+    {
+      "id": "kjeks",
+      "name": "Kjeks",
+      "shareName": "kjeks",
+      "emoji": null,
+      "description": "Du er hyggelig, trygg og passer inn overalt. Med deg blir alle pauser bedre.",
+      "funFact": "Ordet kjeks kommer fra det engelske ordet «cakes».",
+      "image": "images/2027-02-26/kjeks.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Koselig",
+          "text": "Pauser blir bedre."
+        }
+      ]
+    },
+    {
+      "id": "rosiner",
+      "name": "Rosiner",
+      "shareName": "rosiner",
+      "emoji": null,
+      "description": "Du er liten, men sterk, og full av sødme. Du har mer energi enn folk tror.",
+      "funFact": "Rosiner er tørkede druer.",
+      "image": "images/2027-02-26/rosiner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søt",
+          "text": "Litt sødme."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir ikke opp."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Stor inni."
+        },
+        {
+          "title": "Nøysom",
+          "text": "Lite gjør mye."
+        }
+      ]
+    },
+    {
+      "id": "smagodt",
+      "name": "Smågodt",
+      "shareName": "smågodt",
+      "emoji": null,
+      "description": "Du er fargerik, variert og full av overraskelser. Du klarer aldri å velge bare én ting.",
+      "funFact": "Lørdagsgodt er en vanlig tradisjon i mange norske hjem.",
+      "image": "images/2027-02-26/smagodt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Mange farger."
+        },
+        {
+          "title": "Variert",
+          "text": "Litt av alt."
+        },
+        {
+          "title": "Søt",
+          "text": "Full av sødme."
+        },
+        {
+          "title": "Glad",
+          "text": "Hver dag er fest."
+        }
+      ]
+    },
+    {
+      "id": "fruktspyd",
+      "name": "Fruktspyd",
+      "shareName": "et fruktspyd",
+      "emoji": null,
+      "description": "Du er kreativ, frisk og liker at ting ser fint ut. Du gjør noe enkelt til noe spesielt.",
+      "funFact": "Jordbær er ikke et ekte bær, botanisk sett.",
+      "image": "images/2027-02-26/fruktspyd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Fine ideer."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av farger."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Lager til andre."
+        },
+        {
+          "title": "Stilig",
+          "text": "Ser bra ut."
+        }
+      ]
+    }
+  ]
+}

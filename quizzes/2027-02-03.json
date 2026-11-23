@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-03",
+  "date": "2027-02-03",
+  "title": "Hvilken suppe er du i dag?",
+  "intro": "Februar er en god måned for en varm tallerken suppe. Er du klassisk tomatsuppe, lun kyllingsuppe eller iskald gazpacho? Svar på sju spørsmål og finn ut hvilken suppe du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken del av middagen spiser du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Det beste først",
+          "scores": {
+            "gulasjsuppe": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det beste til slutt",
+          "scores": {
+            "loksuppe": 2,
+            "ertesuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grønnsakene først",
+          "scores": {
+            "blomkalsuppe": 1,
+            "minestrone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt av alt i hver munnfull",
+          "scores": {
+            "minestrone": 2,
+            "kyllingsuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En ting om gangen, i ro",
+          "scores": {
+            "fiskesuppe": 2,
+            "blomkalsuppe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det som er varmest",
+          "scores": {
+            "tomatsuppe": 2,
+            "kyllingsuppe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags kosedyr liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En gammel, slitt bamse",
+          "scores": {
+            "tomatsuppe": 2,
+            "kyllingsuppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En myk kanin",
+          "scores": {
+            "blomkalsuppe": 2,
+            "kyllingsuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kul dinosaur",
+          "scores": {
+            "ramen": 2,
+            "gulasjsuppe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor sel",
+          "scores": {
+            "fiskesuppe": 2,
+            "ertesuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En fargerik papegøye",
+          "scores": {
+            "gazpacho": 2,
+            "minestrone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En elegant katt",
+          "scores": {
+            "loksuppe": 2,
+            "gazpacho": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor sykler du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Langs sjøen",
+          "scores": {
+            "fiskesuppe": 2,
+            "gazpacho": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På kjente veier hjemme",
+          "scores": {
+            "ertesuppe": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ned bratte bakker",
+          "scores": {
+            "gulasjsuppe": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjennom gamle gater i en by",
+          "scores": {
+            "loksuppe": 2,
+            "minestrone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til nye steder jeg ikke har vært",
+          "scores": {
+            "ramen": 2,
+            "gazpacho": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rolig gjennom en park",
+          "scores": {
+            "blomkalsuppe": 2,
+            "fiskesuppe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan spiser du suppe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blåser på hver skje",
+          "scores": {
+            "blomkalsuppe": 2,
+            "kyllingsuppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dypper brød i den",
+          "scores": {
+            "tomatsuppe": 2,
+            "loksuppe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Slurper litt, det hører med",
+          "scores": {
+            "ramen": 2,
+            "gulasjsuppe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drikker den fra en kopp",
+          "scores": {
+            "ertesuppe": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Strør på masse topping",
+          "scores": {
+            "minestrone": 1,
+            "gazpacho": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter til den er passe lunken",
+          "scores": {
+            "fiskesuppe": 1,
+            "blomkalsuppe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Det blir vannkrig i hagen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Angriper først med vannpistol",
+          "scores": {
+            "gulasjsuppe": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fyller ballonger til alle",
+          "scores": {
+            "kyllingsuppe": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager regler så det blir rettferdig",
+          "scores": {
+            "ertesuppe": 2,
+            "loksuppe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på fra et tørt sted",
+          "scores": {
+            "blomkalsuppe": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hjelper de minste med å treffe",
+          "scores": {
+            "kyllingsuppe": 2,
+            "minestrone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hopper rett i vannslangen",
+          "scores": {
+            "gazpacho": 2,
+            "gulasjsuppe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får en boks med såpebobler. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver å lage den største boblen",
+          "scores": {
+            "ramen": 2,
+            "gulasjsuppe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blåser masse små bobler",
+          "scores": {
+            "minestrone": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blåser bobler til et lite barn",
+          "scores": {
+            "kyllingsuppe": 2,
+            "blomkalsuppe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser rolig på at de flyr",
+          "scores": {
+            "fiskesuppe": 1,
+            "loksuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver å fange dem på fingeren",
+          "scores": {
+            "gazpacho": 2,
+            "ertesuppe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager min egen såpeblanding",
+          "scores": {
+            "ertesuppe": 2,
+            "ramen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det ligger en stor haug med løv. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper rett oppi",
+          "scores": {
+            "gulasjsuppe": 2,
+            "gazpacho": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Raker den pen og ryddig",
+          "scores": {
+            "ertesuppe": 1,
+            "fiskesuppe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kaster løv på vennene mine",
+          "scores": {
+            "ramen": 2,
+            "gulasjsuppe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Plukker de fineste bladene",
+          "scores": {
+            "loksuppe": 2,
+            "blomkalsuppe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager en myk seng å ligge i",
+          "scores": {
+            "kyllingsuppe": 2,
+            "tomatsuppe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser etter smådyr i haugen",
+          "scores": {
+            "minestrone": 2,
+            "fiskesuppe": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "tomatsuppe",
+      "name": "Tomatsuppe",
+      "shareName": "tomatsuppe",
+      "emoji": null,
+      "description": "Du er klassisk, varm og likt av nesten alle. Du er den folk alltid kan regne med.",
+      "funFact": "Tomaten kom til Europa fra Amerika.",
+      "image": "images/2027-02-03/tomatsuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Alltid en favoritt."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir god følelse."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Folkekjær",
+          "text": "Alle liker deg."
+        }
+      ]
+    },
+    {
+      "id": "fiskesuppe",
+      "name": "Fiskesuppe",
+      "shareName": "fiskesuppe",
+      "emoji": null,
+      "description": "Du er rolig, kremet og glad i havet. Du har en lun ro som smitter over på andre.",
+      "funFact": "Bergensk fiskesuppe lages med fisk, grønnsaker og fløte.",
+      "image": "images/2027-02-03/fiskesuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ro i sjelen."
+        },
+        {
+          "title": "Kystglad",
+          "text": "Elsker havet."
+        },
+        {
+          "title": "Myk",
+          "text": "God og lun."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gamle oppskrifter."
+        }
+      ]
+    },
+    {
+      "id": "ertesuppe",
+      "name": "Ertesuppe",
+      "shareName": "ertesuppe",
+      "emoji": null,
+      "description": "Du er stødig, mettende og glad i gode vaner. Du er den man trenger på en kald dag.",
+      "funFact": "Ertesuppe er tradisjonell torsdagsmat i Sverige og Finland.",
+      "image": "images/2027-02-03/ertesuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Gode vaner."
+        },
+        {
+          "title": "Mettende",
+          "text": "Gir krefter."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid den samme."
+        }
+      ]
+    },
+    {
+      "id": "kyllingsuppe",
+      "name": "Kyllingsuppe",
+      "shareName": "kyllingsuppe",
+      "emoji": null,
+      "description": "Du er omsorgsfull, trøstende og alltid der når noen trenger deg. Du gjør dårlige dager bedre.",
+      "funFact": "Nesten alle kjøkken i verden har sin egen variant av kyllingsuppe.",
+      "image": "images/2027-02-03/kyllingsuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Trøstende",
+          "text": "Gjør dagen bedre."
+        },
+        {
+          "title": "Mild",
+          "text": "Snill og god."
+        },
+        {
+          "title": "Hjemmekoselig",
+          "text": "Smaker som hjemme."
+        }
+      ]
+    },
+    {
+      "id": "loksuppe",
+      "name": "Løksuppe",
+      "shareName": "løksuppe",
+      "emoji": null,
+      "description": "Du er elegant, dyp og har mange lag. Jo bedre folk kjenner deg, jo mer liker de deg.",
+      "funFact": "Fransk løksuppe serveres ofte med brød og smeltet ost på toppen.",
+      "image": "images/2027-02-03/loksuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Fransk stil."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mange lag."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Raffinert",
+          "text": "Sans for detaljer."
+        }
+      ]
+    },
+    {
+      "id": "gulasjsuppe",
+      "name": "Gulasjsuppe",
+      "shareName": "gulasjsuppe",
+      "emoji": null,
+      "description": "Du er livlig, varm og full av krefter. Du gir litt ekstra krydder til alt du er med på.",
+      "funFact": "Gulasj kommer fra Ungarn og smakes gjerne til med paprika.",
+      "image": "images/2027-02-03/gulasjsuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Full av fart."
+        },
+        {
+          "title": "Kraftig",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det sterke."
+        },
+        {
+          "title": "Varm",
+          "text": "Sterk og god."
+        }
+      ]
+    },
+    {
+      "id": "blomkalsuppe",
+      "name": "Blomkålsuppe",
+      "shareName": "blomkålsuppe",
+      "emoji": null,
+      "description": "Du er mild, snill og beskjeden. Du gjør folk rolige bare ved å være der.",
+      "funFact": "Blomkål hører til samme plantefamilie som brokkoli og kål.",
+      "image": "images/2027-02-03/blomkalsuppe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Snill og myk."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter aldri."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gir ro."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Akkurat som du er."
+        }
+      ]
+    },
+    {
+      "id": "minestrone",
+      "name": "Minestrone",
+      "shareName": "minestrone",
+      "emoji": null,
+      "description": "Du er allsidig, sosial og glad i litt av alt. Du får mange ulike ting til å passe sammen.",
+      "funFact": "Minestrone er en italiensk grønnsakssuppe, ofte med pasta eller bønner.",
+      "image": "images/2027-02-03/minestrone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Litt av alt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Mange smaker."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Alt passer inn."
+        }
+      ]
+    },
+    {
+      "id": "ramen",
+      "name": "Ramen",
+      "shareName": "ramen",
+      "emoji": null,
+      "description": "Du er eventyrlysten, moderne og elsker å prøve nye ting. Du har alltid noe spennende på gang.",
+      "funFact": "Ramen er en nudelsuppe som er svært populær i Japan.",
+      "image": "images/2027-02-03/ramen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Prøver alt nytt."
+        },
+        {
+          "title": "Moderne",
+          "text": "Følger med."
+        },
+        {
+          "title": "Intens",
+          "text": "Mye smak."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil utforske."
+        }
+      ]
+    },
+    {
+      "id": "gazpacho",
+      "name": "Gazpacho",
+      "shareName": "gazpacho",
+      "emoji": null,
+      "description": "Du er kul, frisk og gjør ting på din egen måte. Du er solskinn en grå dag.",
+      "funFact": "Gazpacho er en kald tomatsuppe fra Spania.",
+      "image": "images/2027-02-03/gazpacho.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Original",
+          "text": "Din egen vei."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Sprer sommer."
+        }
+      ]
+    }
+  ]
+}

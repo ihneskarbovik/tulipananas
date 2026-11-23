@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-22",
+  "date": "2027-02-22",
+  "title": "Hvilken veske er du i dag?",
+  "intro": "En god veske bærer alt du trenger gjennom dagen. Er du en praktisk ryggsekk, en elegant håndveske eller en sporty rumpetaske? Svar på sju spørsmål og finn ut hvilken veske du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags belte bruker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bredt skinnbelte",
+          "scores": {
+            "handveske": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tynt og elegant",
+          "scores": {
+            "festveske": 2,
+            "handveske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med stor, glinsende spenne",
+          "scores": {
+            "festveske": 2,
+            "rumpetaske": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Flettet stoffbelte",
+          "scores": {
+            "strandveske": 2,
+            "skulderveske": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et praktisk belte med mange hull",
+          "scores": {
+            "ryggsekk": 1,
+            "pcveske": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bruker aldri belte",
+          "scores": {
+            "gympose": 2,
+            "sportsbag": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan vil du ha toasten din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med ost og skinke",
+          "scores": {
+            "handlenett": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med bare ost",
+          "scores": {
+            "gympose": 2,
+            "rumpetaske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med tomat og pesto",
+          "scores": {
+            "festveske": 2,
+            "skulderveske": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med ananas",
+          "scores": {
+            "strandveske": 2,
+            "festveske": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Godt brent",
+          "scores": {
+            "sportsbag": 2,
+            "rumpetaske": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lett gyllen og pent skåret",
+          "scores": {
+            "handveske": 2,
+            "pcveske": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags hodetelefoner bruker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store som går over ørene",
+          "scores": {
+            "pcveske": 2,
+            "handveske": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Små trådløse i øret",
+          "scores": {
+            "rumpetaske": 2,
+            "sportsbag": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med ledning, som før",
+          "scores": {
+            "handlenett": 1,
+            "gympose": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med støydemping",
+          "scores": {
+            "pcveske": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fargerike og stilige",
+          "scores": {
+            "festveske": 1,
+            "strandveske": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg liker lydene rundt meg",
+          "scores": {
+            "skulderveske": 2,
+            "strandveske": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal i bursdag rett etter skolen eller jobben. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bytter klær i en fart",
+          "scores": {
+            "festveske": 2,
+            "handveske": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Drar rett som jeg er",
+          "scores": {
+            "gympose": 2,
+            "sportsbag": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Har alt med meg fra morgenen",
+          "scores": {
+            "ryggsekk": 2,
+            "pcveske": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stikker innom butikken for en gave",
+          "scores": {
+            "handlenett": 2,
+            "skulderveske": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer litt sent, men fin",
+          "scores": {
+            "festveske": 2,
+            "strandveske": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fikser håret og drar",
+          "scores": {
+            "skulderveske": 1,
+            "rumpetaske": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har kjøpt noe som ikke passer. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bytter det med en gang",
+          "scores": {
+            "handveske": 2,
+            "pcveske": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Beholder det likevel",
+          "scores": {
+            "strandveske": 2,
+            "skulderveske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir det bort til noen",
+          "scores": {
+            "handlenett": 1,
+            "gympose": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Selger det videre",
+          "scores": {
+            "pcveske": 1,
+            "sportsbag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Syr det om selv",
+          "scores": {
+            "ryggsekk": 1,
+            "handlenett": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Glemmer det bakerst i skapet",
+          "scores": {
+            "rumpetaske": 2,
+            "sportsbag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva slags matboks har du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En gammel, klassisk matboks",
+          "scores": {
+            "handlenett": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Glassboks med lokk",
+          "scores": {
+            "handveske": 2,
+            "pcveske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bare matpapir",
+          "scores": {
+            "gympose": 2,
+            "rumpetaske": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En med mange små rom",
+          "scores": {
+            "pcveske": 2,
+            "festveske": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg kjøper heller lunsj",
+          "scores": {
+            "skulderveske": 2,
+            "festveske": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor boks med plass til mye",
+          "scores": {
+            "ryggsekk": 2,
+            "sportsbag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan er du på en gåtur med en venn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prater hele veien",
+          "scores": {
+            "skulderveske": 2,
+            "festveske": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går fort foran",
+          "scores": {
+            "sportsbag": 2,
+            "rumpetaske": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stopper og ser på alt",
+          "scores": {
+            "strandveske": 2,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Har med kaffe og noe å spise",
+          "scores": {
+            "handlenett": 1,
+            "ryggsekk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holder styr på tid og rute",
+          "scores": {
+            "pcveske": 2,
+            "handveske": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går rolig og nyter stillheten",
+          "scores": {
+            "handlenett": 2,
+            "gympose": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ryggsekk",
+      "name": "Ryggsekken",
+      "shareName": "ryggsekken",
+      "emoji": null,
+      "description": "Du er praktisk, eventyrlysten og klar for alt. Du bærer mye uten å klage.",
+      "funFact": "En ryggsekk fordeler vekten på begge skuldrene, og det er skånsomt for ryggen.",
+      "image": "images/2027-02-22/ryggsekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på tur."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bærer mye."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Med deg overalt."
+        }
+      ]
+    },
+    {
+      "id": "handlenett",
+      "name": "Handlenettet",
+      "shareName": "handlenettet",
+      "emoji": null,
+      "description": "Du er miljøbevisst, jordnær og alltid forberedt. Du gjør små valg som betyr mye.",
+      "funFact": "I Norge har det lenge kostet penger å kjøpe bærepose i butikken.",
+      "image": "images/2027-02-22/handlenett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Miljøbevisst",
+          "text": "Tenker på jorda."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Alltid med."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        },
+        {
+          "title": "Nøysom",
+          "text": "Bruker om igjen."
+        }
+      ]
+    },
+    {
+      "id": "handveske",
+      "name": "Håndvesken",
+      "shareName": "håndvesken",
+      "emoji": null,
+      "description": "Du er elegant, ordentlig og har alltid det du trenger. Du har stil uten å anstrenge deg.",
+      "funFact": "Før vesker ble vanlige, bar mange med seg små pengepunger festet i beltet.",
+      "image": "images/2027-02-22/handveske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Naturlig stil."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri umoderne."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Har alt du trenger."
+        }
+      ]
+    },
+    {
+      "id": "rumpetaske",
+      "name": "Rumpetasken",
+      "shareName": "rumpetasken",
+      "emoji": null,
+      "description": "Du er sporty, rask og liker å ha hendene fri. Du er alltid klar for neste aktivitet.",
+      "funFact": "Rumpetasker var svært populære på 1980- og 1990-tallet og har kommet tilbake i moten.",
+      "image": "images/2027-02-22/rumpetaske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Fri",
+          "text": "Hendene ledige."
+        },
+        {
+          "title": "Leken",
+          "text": "Litt retro."
+        },
+        {
+          "title": "Rask",
+          "text": "Klar på sekundet."
+        }
+      ]
+    },
+    {
+      "id": "skulderveske",
+      "name": "Skulderveska",
+      "shareName": "skulderveska",
+      "emoji": null,
+      "description": "Du er avslappet, tilpasningsdyktig og passer inn overalt. Du er like fin i byen som på kafé.",
+      "funFact": "En veske med lang reim kan bæres på kryss over kroppen, slik at den sitter tryggere.",
+      "image": "images/2027-02-22/skulderveske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker kafeer."
+        },
+        {
+          "title": "Enkel",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "sportsbag",
+      "name": "Sportsbagen",
+      "shareName": "sportsbagen",
+      "emoji": null,
+      "description": "Du er energisk, lagspiller og elsker bevegelse. Du er alltid på vei til trening eller kamp.",
+      "funFact": "Mange sportsbager har en egen lomme til skoene, slik at resten holder seg rent.",
+      "image": "images/2027-02-22/sportsbag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Best sammen."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vil vinne."
+        }
+      ]
+    },
+    {
+      "id": "pcveske",
+      "name": "Datavesken",
+      "shareName": "datavesken",
+      "emoji": null,
+      "description": "Du er fokusert, smart og godt organisert. Du har kontroll på både planer og ladere.",
+      "funFact": "En av de første bærbare datamaskinene kom i 1981 og veide over ti kilo.",
+      "image": "images/2027-02-22/pcveske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fokusert",
+          "text": "Holder konsentrasjonen."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker klart."
+        },
+        {
+          "title": "Organisert",
+          "text": "Alt i system."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Høye mål."
+        }
+      ]
+    },
+    {
+      "id": "gympose",
+      "name": "Gymposen",
+      "shareName": "gymposen",
+      "emoji": null,
+      "description": "Du er enkel, leken og lett på foten. Du trenger ikke mye for å ha det gøy.",
+      "funFact": "En gympose lukkes ofte med snorer som også brukes som bærestropper.",
+      "image": "images/2027-02-22/gympose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Lett",
+          "text": "Lett på foten."
+        },
+        {
+          "title": "Ung",
+          "text": "Ungdommelig sjel."
+        }
+      ]
+    },
+    {
+      "id": "strandveske",
+      "name": "Strandvesken",
+      "shareName": "strandvesken",
+      "emoji": null,
+      "description": "Du er solrik, avslappet og drømmer deg gjerne bort. Med deg føles det alltid litt som ferie.",
+      "funFact": "Mange strandvesker er laget av flettet strå eller bast.",
+      "image": "images/2027-02-22/strandveske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solrik",
+          "text": "Varmt humør."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tankene på tur."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ferie i sjela."
+        },
+        {
+          "title": "Romslig",
+          "text": "Plass til mye."
+        }
+      ]
+    },
+    {
+      "id": "festveske",
+      "name": "Festvesken",
+      "shareName": "festvesken",
+      "emoji": null,
+      "description": "Du er glitrende, stilig og liker å pynte deg. Du er liten, men gjør stort inntrykk.",
+      "funFact": "Små festvesker uten hank kalles ofte clutch, fordi man holder dem i hånden.",
+      "image": "images/2027-02-22/festveske.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Glitrende",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Stilig",
+          "text": "Pent antrukket."
+        },
+        {
+          "title": "Selskapelig",
+          "text": "Elsker å feire."
+        },
+        {
+          "title": "Liten",
+          "text": "Men stort inntrykk."
+        }
+      ]
+    }
+  ]
+}

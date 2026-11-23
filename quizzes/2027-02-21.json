@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-21",
+  "date": "2027-02-21",
+  "title": "Hvilken norsk dialekt er du i dag?",
+  "intro": "21. februar er den internasjonale morsmålsdagen. I Norge snakker vi mange ulike dialekter, og alle er like fine. Svar på sju spørsmål og finn ut hvilken norsk dialekt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken gate liker du best å gå i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brosteinsgate med gamle hus",
+          "scores": {
+            "bergensk": 2,
+            "gudbrandsdal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bred gate med trær",
+          "scores": {
+            "ostlandsk": 2,
+            "stavangersk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Smale smug",
+          "scores": {
+            "bergensk": 1,
+            "telemal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gågate med butikker",
+          "scores": {
+            "stavangersk": 2,
+            "sunnmorsk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sti langs sjøen",
+          "scores": {
+            "sorlandsk": 2,
+            "nordnorsk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grusvei på landet",
+          "scores": {
+            "valdres": 2,
+            "trondersk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva liker du best i en wrap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kylling og salat",
+          "scores": {
+            "ostlandsk": 2,
+            "stavangersk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Laks og rømme",
+          "scores": {
+            "nordnorsk": 2,
+            "sunnmorsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Falafel og hummus",
+          "scores": {
+            "telemal": 2,
+            "sorlandsk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skinke og ost",
+          "scores": {
+            "trondersk": 2,
+            "valdres": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Reker og majones",
+          "scores": {
+            "bergensk": 1,
+            "sorlandsk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rester fra gårsdagens middag",
+          "scores": {
+            "gudbrandsdal": 2,
+            "trondersk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan er du med kvitteringer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaster dem med en gang",
+          "scores": {
+            "sorlandsk": 2,
+            "bergensk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar vare på alle",
+          "scores": {
+            "gudbrandsdal": 2,
+            "sunnmorsk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier nei takk i kassa",
+          "scores": {
+            "trondersk": 2,
+            "ostlandsk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar bilde av dem",
+          "scores": {
+            "sunnmorsk": 2,
+            "stavangersk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner dem igjen uker senere",
+          "scores": {
+            "nordnorsk": 2,
+            "telemal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bruker baksiden som notatlapp",
+          "scores": {
+            "valdres": 2,
+            "telemal": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan reagerer du når noen ikke forstår hva du sier?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier det samme litt saktere",
+          "scores": {
+            "ostlandsk": 2,
+            "valdres": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Forklarer på en ny måte",
+          "scores": {
+            "sunnmorsk": 2,
+            "gudbrandsdal": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler og prøver igjen",
+          "scores": {
+            "nordnorsk": 2,
+            "sorlandsk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bruker hendene mye",
+          "scores": {
+            "stavangersk": 2,
+            "telemal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier det enda tydeligere",
+          "scores": {
+            "bergensk": 2,
+            "trondersk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver det ned",
+          "scores": {
+            "ostlandsk": 1,
+            "valdres": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Det lukter nybakte boller fra et bakeri. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rett inn",
+          "scores": {
+            "bergensk": 1,
+            "nordnorsk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går videre, men tenker på det hele dagen",
+          "scores": {
+            "valdres": 2,
+            "ostlandsk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper til alle hjemme",
+          "scores": {
+            "stavangersk": 2,
+            "gudbrandsdal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare snuser og smiler",
+          "scores": {
+            "sorlandsk": 1,
+            "telemal": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går hjem og baker selv",
+          "scores": {
+            "gudbrandsdal": 2,
+            "sunnmorsk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør hva som er ferskest",
+          "scores": {
+            "trondersk": 1,
+            "stavangersk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du vil invitere noen hjem. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sender en kort melding",
+          "scores": {
+            "trondersk": 2,
+            "ostlandsk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer og spør direkte",
+          "scores": {
+            "bergensk": 2,
+            "nordnorsk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager et skikkelig kort",
+          "scores": {
+            "telemal": 2,
+            "gudbrandsdal": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hele gjengen på en gang",
+          "scores": {
+            "stavangersk": 2,
+            "nordnorsk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spontant samme dag",
+          "scores": {
+            "sorlandsk": 2,
+            "bergensk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger flere uker i forveien",
+          "scores": {
+            "sunnmorsk": 2,
+            "gudbrandsdal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan sier du at noe er bra?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjempebra!",
+          "scores": {
+            "nordnorsk": 2,
+            "stavangersk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt topp",
+          "scores": {
+            "bergensk": 1,
+            "sunnmorsk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ikke så verst",
+          "scores": {
+            "trondersk": 2,
+            "valdres": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fantastisk, rett og slett",
+          "scores": {
+            "telemal": 2,
+            "gudbrandsdal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med et stort smil",
+          "scores": {
+            "sorlandsk": 2,
+            "telemal": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med en tommel opp",
+          "scores": {
+            "ostlandsk": 2,
+            "valdres": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "bergensk",
+      "name": "Bergensk",
+      "shareName": "bergensk",
+      "emoji": null,
+      "description": "Du er stolt, direkte og full av liv. Du sier det du mener med et stort smil.",
+      "funFact": "Bergensk har bare to grammatiske kjønn, hankjønn og intetkjønn.",
+      "image": "images/2027-02-21/bergensk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stolt",
+          "text": "Glad i hjemstedet."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Står for deg selv."
+        }
+      ]
+    },
+    {
+      "id": "trondersk",
+      "name": "Trøndersk",
+      "shareName": "trøndersk",
+      "emoji": null,
+      "description": "Du er jordnær, varm og liker å holde det enkelt. Du får mye sagt med få ord.",
+      "funFact": "Trøndersk har apokope, som betyr at endelser faller bort, som i «å kast» for «å kaste».",
+      "image": "images/2027-02-21/trondersk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge bena på jorda."
+        },
+        {
+          "title": "Kortfattet",
+          "text": "Få ord."
+        },
+        {
+          "title": "Varm",
+          "text": "Lun humor."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen jåleri."
+        }
+      ]
+    },
+    {
+      "id": "nordnorsk",
+      "name": "Nordnorsk",
+      "shareName": "nordnorsk",
+      "emoji": null,
+      "description": "Du er åpen, hjertelig og har humor i bøtter og spann. Folk føler seg velkommen hos deg.",
+      "funFact": "Mange nordnorske dialekter bruker «æ» i stedet for «jeg».",
+      "image": "images/2027-02-21/nordnorsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjertelig",
+          "text": "Alle er velkommen."
+        },
+        {
+          "title": "Humoristisk",
+          "text": "Mye latter."
+        },
+        {
+          "title": "Åpen",
+          "text": "Sier hva du føler."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Levende språk."
+        }
+      ]
+    },
+    {
+      "id": "stavangersk",
+      "name": "Stavangersk",
+      "shareName": "stavangersk",
+      "emoji": null,
+      "description": "Du er hyggelig, arbeidsom og har et lunt glimt i øyet. Du er alltid klar for en prat.",
+      "funFact": "Mange i Stavanger sier «me» i stedet for «vi».",
+      "image": "images/2027-02-21/stavangersk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hyggelig",
+          "text": "Lett å prate med."
+        },
+        {
+          "title": "Arbeidsom",
+          "text": "Står på."
+        },
+        {
+          "title": "Lun",
+          "text": "Glimt i øyet."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker en prat."
+        }
+      ]
+    },
+    {
+      "id": "sorlandsk",
+      "name": "Sørlandsk",
+      "shareName": "sørlandsk",
+      "emoji": null,
+      "description": "Du er blid, avslappet og myk i kantene. Du tar livet med sommerro.",
+      "funFact": "Mange sørlandske dialekter har myke konsonanter, som når «gate» blir «gade».",
+      "image": "images/2027-02-21/sorlandsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det rolig."
+        },
+        {
+          "title": "Myk",
+          "text": "Vennlig tone."
+        },
+        {
+          "title": "Solrik",
+          "text": "Alltid sommer."
+        }
+      ]
+    },
+    {
+      "id": "ostlandsk",
+      "name": "Østlandsk",
+      "shareName": "østlandsk",
+      "emoji": null,
+      "description": "Du er rolig, tydelig og lett å forstå. Du passer inn nesten overalt.",
+      "funFact": "Mange østlandske dialekter har tjukk l, en egen l-lyd som lages med tunga bøyd bakover.",
+      "image": "images/2027-02-21/ostlandsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Lett å forstå."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite dramatikk."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Balansert",
+          "text": "Midt i mellom."
+        }
+      ]
+    },
+    {
+      "id": "sunnmorsk",
+      "name": "Sunnmørsk",
+      "shareName": "sunnmørsk",
+      "emoji": null,
+      "description": "Du er driftig, løsningsorientert og full av pågangsmot. Du får ting gjort.",
+      "funFact": "Mange på Sunnmøre sier «eg» i stedet for «jeg», som i flere vestlandsdialekter.",
+      "image": "images/2027-02-21/sunnmorsk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Driftig",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Løsningsorientert",
+          "text": "Finner en vei."
+        },
+        {
+          "title": "Modig",
+          "text": "Pågangsmot."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Ingen tid å miste."
+        }
+      ]
+    },
+    {
+      "id": "valdres",
+      "name": "Valdresmål",
+      "shareName": "valdresmål",
+      "emoji": null,
+      "description": "Du er rolig, ekte og glad i fjellet. Du har ro i deg og tar deg god tid.",
+      "funFact": "Valdresmål regnes som et midlandsmål, en gruppe dialekter i fjellbygdene på Østlandet.",
+      "image": "images/2027-02-21/valdres.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "God tid."
+        },
+        {
+          "title": "Ekte",
+          "text": "Rett fram."
+        },
+        {
+          "title": "Fjellglad",
+          "text": "Elsker vidda."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står trygt."
+        }
+      ]
+    },
+    {
+      "id": "gudbrandsdal",
+      "name": "Gudbrandsdalsmål",
+      "shareName": "gudbrandsdalsmål",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, solid og full av gode historier. Du kjenner røttene dine.",
+      "funFact": "Mange av sagnene om Peer Gynt hører hjemme i Gudbrandsdalen.",
+      "image": "images/2027-02-21/gudbrandsdal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "Kjenner røttene."
+        },
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Gode historier."
+        },
+        {
+          "title": "Lojal",
+          "text": "Trofast venn."
+        }
+      ]
+    },
+    {
+      "id": "telemal",
+      "name": "Telemål",
+      "shareName": "telemål",
+      "emoji": null,
+      "description": "Du er kreativ, musikalsk og har sans for det gamle og vakre. Du bærer på mange fortellinger.",
+      "funFact": "Mange gamle norske folkeviser er samlet inn i Telemark.",
+      "image": "images/2027-02-21/telemal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Egne ideer."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Sang i blodet."
+        },
+        {
+          "title": "Poetisk",
+          "text": "Vakre ord."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Glad i det gamle."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-27",
+  "date": "2027-02-27",
+  "title": "Hvilken bjørn er du i dag?",
+  "intro": "I dag er det isbjørnens dag. Verden har åtte bjørnearter, fra den lille solbjørnen til den store isbjørnen. Svar på sju spørsmål og finn ut hvilken bjørn du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket kosedyr hadde du som liten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En helt klassisk bamse",
+          "scores": {
+            "brunbjorn": 1,
+            "kodiakbjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et hvitt og mykt kosedyr",
+          "scores": {
+            "kjempepanda": 1,
+            "isbjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lite, slitt et jeg tok med overalt",
+          "scores": {
+            "solbjorn": 2,
+            "brillebjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mange, jeg klarte ikke å velge",
+          "scores": {
+            "leppebjorn": 2,
+            "svartbjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et rart dyr ingen andre hadde",
+          "scores": {
+            "brillebjorn": 2,
+            "kragebjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et som var større enn meg",
+          "scores": {
+            "kodiakbjorn": 2,
+            "grizzly": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvem går du helst tur med?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hele familien",
+          "scores": {
+            "brunbjorn": 2,
+            "kodiakbjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helst alene",
+          "scores": {
+            "isbjorn": 1,
+            "brillebjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Én god venn",
+          "scores": {
+            "kjempepanda": 2,
+            "kragebjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor gjeng",
+          "scores": {
+            "leppebjorn": 2,
+            "grizzly": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hunden",
+          "scores": {
+            "svartbjorn": 1,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Alle som har lyst, jeg spør alle",
+          "scores": {
+            "solbjorn": 2,
+            "leppebjorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du helst i badstua?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitter øverst der det er varmest",
+          "scores": {
+            "grizzly": 2,
+            "solbjorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hopper i kaldt vann etterpå",
+          "scores": {
+            "isbjorn": 1,
+            "grizzly": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prater med alle som er der",
+          "scores": {
+            "leppebjorn": 2,
+            "kodiakbjorn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lukker øynene og slapper av",
+          "scores": {
+            "kjempepanda": 2,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går ut før det blir for varmt",
+          "scores": {
+            "brillebjorn": 1,
+            "svartbjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Heller vann på steinene",
+          "scores": {
+            "kragebjorn": 2,
+            "solbjorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "I butikken ser du noen som ikke når opp til øverste hylle. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strekker meg og tar det for dem",
+          "scores": {
+            "isbjorn": 2,
+            "grizzly": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klatrer litt opp på nederste hylle",
+          "scores": {
+            "svartbjorn": 2,
+            "kragebjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henter en ansatt",
+          "scores": {
+            "brillebjorn": 2,
+            "kragebjorn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør om de trenger hjelp",
+          "scores": {
+            "brunbjorn": 2,
+            "kjempepanda": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hjelper, og vi ler litt av det",
+          "scores": {
+            "leppebjorn": 2,
+            "solbjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg når ikke opp selv heller",
+          "scores": {
+            "solbjorn": 1,
+            "kjempepanda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du oppdager at du har hatt genseren på vrangen hele dagen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler høyt av det",
+          "scores": {
+            "leppebjorn": 1,
+            "grizzly": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snur den raskt og sier ingenting",
+          "scores": {
+            "isbjorn": 1,
+            "brillebjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Later som det er en ny stil",
+          "scores": {
+            "kragebjorn": 1,
+            "solbjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar den være, det gjør ingenting",
+          "scores": {
+            "kjempepanda": 1,
+            "kodiakbjorn": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller det til alle",
+          "scores": {
+            "grizzly": 1,
+            "leppebjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lurer på hvorfor ingen sa noe",
+          "scores": {
+            "svartbjorn": 2,
+            "brunbjorn": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan spiser du helst honning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett fra skjeen",
+          "scores": {
+            "brunbjorn": 2,
+            "leppebjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en tykk brødskive",
+          "scores": {
+            "kodiakbjorn": 2,
+            "grizzly": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "I en kopp varm te",
+          "scores": {
+            "brillebjorn": 2,
+            "kjempepanda": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Over frukt og yoghurt",
+          "scores": {
+            "solbjorn": 1,
+            "isbjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I hjemmebakte kaker",
+          "scores": {
+            "svartbjorn": 2,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg liker egentlig ikke honning",
+          "scores": {
+            "isbjorn": 1,
+            "kragebjorn": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du med klær du ikke bruker lenger?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir dem til noen som trenger dem",
+          "scores": {
+            "kodiakbjorn": 2,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Selger dem på nett",
+          "scores": {
+            "kragebjorn": 2,
+            "svartbjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Syr om til noe nytt",
+          "scores": {
+            "svartbjorn": 2,
+            "brillebjorn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar vare på dem, for sikkerhets skyld",
+          "scores": {
+            "kjempepanda": 2,
+            "brillebjorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leverer dem til gjenbruk med en gang",
+          "scores": {
+            "isbjorn": 2,
+            "grizzly": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager kostymer av dem",
+          "scores": {
+            "leppebjorn": 1,
+            "solbjorn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "brunbjorn",
+      "name": "Brunbjørn",
+      "shareName": "en brunbjørn",
+      "emoji": null,
+      "description": "Du er sterk, trygg og elsker skog og natur. Du tar godt vare på dine egne.",
+      "funFact": "Brunbjørnen lever vilt i Norge, særlig nær grensen mot Sverige og Finland.",
+      "image": "images/2027-02-27/brunbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Trygg å være med."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker skogen."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på dine."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "isbjorn",
+      "name": "Isbjørn",
+      "shareName": "en isbjørn",
+      "emoji": null,
+      "description": "Du er tøff, rolig og trives der andre fryser. Du svømmer gjennom livet med stø kurs.",
+      "funFact": "Isbjørnens hud er svart, og pelshårene er egentlig gjennomsiktige.",
+      "image": "images/2027-02-27/isbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler kulde."
+        },
+        {
+          "title": "Rolig",
+          "text": "Kjølig hode."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Svømmer langt."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        }
+      ]
+    },
+    {
+      "id": "kjempepanda",
+      "name": "Kjempepanda",
+      "shareName": "en kjempepanda",
+      "emoji": null,
+      "description": "Du er rolig, koselig og elsker å ta det med ro. Alle blir glade når de ser deg.",
+      "funFact": "Kjempepandaen spiser nesten bare bambus.",
+      "image": "images/2027-02-27/kjempepanda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Kresen",
+          "text": "Vet hva du liker."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Søt og blid."
+        }
+      ]
+    },
+    {
+      "id": "svartbjorn",
+      "name": "Amerikansk svartbjørn",
+      "shareName": "en amerikansk svartbjørn",
+      "emoji": null,
+      "description": "Du er nysgjerrig, smart og kommer deg overalt. Du finner alltid en løsning.",
+      "funFact": "Amerikanske svartbjørner er flinke til å klatre i trær.",
+      "image": "images/2027-02-27/svartbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker alt."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Smidig",
+          "text": "Klatrer høyt."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Trives overalt."
+        }
+      ]
+    },
+    {
+      "id": "solbjorn",
+      "name": "Solbjørn",
+      "shareName": "en solbjørn",
+      "emoji": null,
+      "description": "Du er liten, men full av energi og varme. Du lyser opp der du kommer.",
+      "funFact": "Solbjørnen er den minste bjørnen i verden.",
+      "image": "images/2027-02-27/solbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Varm",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Smidig",
+          "text": "Rask og lett."
+        },
+        {
+          "title": "Modig",
+          "text": "Liten, men tøff."
+        }
+      ]
+    },
+    {
+      "id": "brillebjorn",
+      "name": "Brillebjørn",
+      "shareName": "en brillebjørn",
+      "emoji": null,
+      "description": "Du er klok, litt sjenert og helt unik. Du ser verden på din egen måte.",
+      "funFact": "Brillebjørnen er den eneste bjørnearten som lever vilt i Sør-Amerika.",
+      "image": "images/2027-02-27/brillebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Ser klart."
+        },
+        {
+          "title": "Unik",
+          "text": "Helt egen."
+        },
+        {
+          "title": "Sjenert",
+          "text": "Litt forsiktig."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stille styrke."
+        }
+      ]
+    },
+    {
+      "id": "leppebjorn",
+      "name": "Leppebjørn",
+      "shareName": "en leppebjørn",
+      "emoji": null,
+      "description": "Du er morsom, uredd og sier gjerne det du tenker. Du er litt rufsete og helt sjarmerende.",
+      "funFact": "Leppebjørnen lever blant annet i India og spiser mye maur og termitter.",
+      "image": "images/2027-02-27/leppebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Uredd",
+          "text": "Tør mye."
+        },
+        {
+          "title": "Rufsete",
+          "text": "Sjarmerende sveis."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Sier det du tenker."
+        }
+      ]
+    },
+    {
+      "id": "kragebjorn",
+      "name": "Kragebjørn",
+      "shareName": "en kragebjørn",
+      "emoji": null,
+      "description": "Du er stilig, smart og har alltid en fin detalj. Du er rolig, men vet hva du vil.",
+      "funFact": "Kragebjørnen kalles også asiatisk svartbjørn og har en lys, V-formet flekk på brystet.",
+      "image": "images/2027-02-27/kragebjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilig",
+          "text": "Fin detalj."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker raskt."
+        },
+        {
+          "title": "Målbevisst",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Smidig",
+          "text": "God klatrer."
+        }
+      ]
+    },
+    {
+      "id": "grizzly",
+      "name": "Grizzly",
+      "shareName": "en grizzly",
+      "emoji": null,
+      "description": "Du er modig, sterk og sier fra når noe er viktig. Du har et stort hjerte under det tøffe ytre.",
+      "funFact": "Grizzly er en underart av brunbjørn som lever i Nord-Amerika.",
+      "image": "images/2027-02-27/grizzly.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å stå fram."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mye kraft."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier fra."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        }
+      ]
+    },
+    {
+      "id": "kodiakbjorn",
+      "name": "Kodiakbjørn",
+      "shareName": "en kodiakbjørn",
+      "emoji": null,
+      "description": "Du er stor, raus og har ro i sjelen. Du trenger ikke vise deg fram, alle vet at du er solid.",
+      "funFact": "Kodiakbjørnen lever på Kodiak-øyene i Alaska og er en av verdens største bjørner.",
+      "image": "images/2027-02-27/kodiakbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Solid",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ro i sjelen."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker god mat."
+        }
+      ]
+    }
+  ]
+}

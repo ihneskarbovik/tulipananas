@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-28",
+  "date": "2027-02-28",
+  "title": "Hvilken hageting er du i dag?",
+  "intro": "Våren nærmer seg, og snart er det tid for hagearbeid og lange kvelder ute. Svar på sju spørsmål og finn ut hvilken hageting du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan spiser du helst jordbær?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett fra åkeren",
+          "scores": {
+            "spade": 2,
+            "trillebor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med fløte og sukker",
+          "scores": {
+            "hagebenk": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På bløtkake til gjestene",
+          "scores": {
+            "grill": 1,
+            "fuglekasse": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Plukket fra min egen hage",
+          "scores": {
+            "drivhus": 2,
+            "vannkanne": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Én om gangen, helt sakte",
+          "scores": {
+            "hengekoye": 2,
+            "vannkanne": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I en smoothie i farta",
+          "scores": {
+            "gressklipper": 1,
+            "vannspreder": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Sola skinner. Hvor vil du helst sitte?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en benk med utsikt",
+          "scores": {
+            "hagebenk": 2,
+            "fuglekasse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midt i sola på plenen",
+          "scores": {
+            "vannspreder": 2,
+            "grill": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I skyggen under et tre",
+          "scores": {
+            "hengekoye": 2,
+            "fuglekasse": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På terrassen med venner",
+          "scores": {
+            "grill": 2,
+            "hagebenk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sitter ikke, jeg har ting å gjøre",
+          "scores": {
+            "trillebor": 1,
+            "gressklipper": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Inne bak et vindu, lunt og varmt",
+          "scores": {
+            "drivhus": 2,
+            "vannkanne": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags paraply har du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stor og solid, med plass til to",
+          "scores": {
+            "trillebor": 2,
+            "hagebenk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Liten og sammenleggbar",
+          "scores": {
+            "gressklipper": 2,
+            "spade": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med blomster eller sterke farger",
+          "scores": {
+            "drivhus": 2,
+            "vannspreder": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjennomsiktig, så jeg ser himmelen",
+          "scores": {
+            "fuglekasse": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, litt regn er deilig",
+          "scores": {
+            "vannkanne": 1,
+            "vannspreder": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den ligger hjemme, som vanlig",
+          "scores": {
+            "hengekoye": 1,
+            "grill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser en sliten humle på bakken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gir den litt sukkervann",
+          "scores": {
+            "vannkanne": 2,
+            "drivhus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Flytter den forsiktig til en blomst",
+          "scores": {
+            "fuglekasse": 2,
+            "vannkanne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter meg ned og ser på den",
+          "scores": {
+            "hagebenk": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Passer på at ingen tråkker på den",
+          "scores": {
+            "trillebor": 2,
+            "spade": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Søker opp hva man bør gjøre",
+          "scores": {
+            "gressklipper": 2,
+            "drivhus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Roper på de andre så de kan se",
+          "scores": {
+            "vannspreder": 1,
+            "grill": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "De nye skoene dine gnager. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biter tennene sammen og går videre",
+          "scores": {
+            "trillebor": 1,
+            "spade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Setter på plaster og fortsetter",
+          "scores": {
+            "gressklipper": 1,
+            "spade": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar dem av og går barbeint",
+          "scores": {
+            "vannspreder": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går dem inn litt hver dag",
+          "scores": {
+            "drivhus": 2,
+            "vannkanne": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter meg ned og hviler",
+          "scores": {
+            "hagebenk": 2,
+            "hengekoye": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klager litt, men ler av det",
+          "scores": {
+            "grill": 2,
+            "fuglekasse": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Et frø du har sådd, begynner å spire. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar bilde og viser alle",
+          "scores": {
+            "grill": 2,
+            "fuglekasse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vanner det forsiktig",
+          "scores": {
+            "vannkanne": 2,
+            "spade": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sår tjue til med en gang",
+          "scores": {
+            "gressklipper": 2,
+            "trillebor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venter tålmodig på at det vokser",
+          "scores": {
+            "drivhus": 2,
+            "hagebenk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager et lite skilt ved siden av",
+          "scores": {
+            "vannspreder": 2,
+            "trillebor": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir glad, men glemmer det litt",
+          "scores": {
+            "hengekoye": 2,
+            "hagebenk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er vårdugnad i nabolaget. Hvilken jobb tar du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjører bort kvister og løv",
+          "scores": {
+            "trillebor": 1,
+            "spade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Planter blomster",
+          "scores": {
+            "vannkanne": 2,
+            "drivhus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Griller pølser til alle",
+          "scores": {
+            "grill": 2,
+            "vannspreder": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snekrer noe nytt til hagen",
+          "scores": {
+            "fuglekasse": 2,
+            "spade": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klipper hekker og plener",
+          "scores": {
+            "gressklipper": 2,
+            "trillebor": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager kaffe og prater med alle",
+          "scores": {
+            "hagebenk": 2,
+            "hengekoye": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "trillebor",
+      "name": "Trillebør",
+      "shareName": "en trillebør",
+      "emoji": null,
+      "description": "Du er arbeidsom, sterk og alltid klar til å hjelpe. Du bærer gjerne litt ekstra for andre.",
+      "funFact": "Trillebøra ble brukt i Kina for mer enn tusen år siden.",
+      "image": "images/2027-02-28/trillebor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står på."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bærer mye."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "vannkanne",
+      "name": "Vannkanne",
+      "shareName": "en vannkanne",
+      "emoji": null,
+      "description": "Du er omsorgsfull, tålmodig og får ting til å vokse. Du gir litt hver dag, og det merkes.",
+      "funFact": "Planter tar opp vann gjennom røttene.",
+      "image": "images/2027-02-28/vannkanne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Får ting til å vokse."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Litt hver dag."
+        },
+        {
+          "title": "Snill",
+          "text": "Gir av deg selv."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "spade",
+      "name": "Spade",
+      "shareName": "en spade",
+      "emoji": null,
+      "description": "Du er jordnær, praktisk og går rett på sak. Du graver gjerne litt dypere enn andre.",
+      "funFact": "Meitemark lager ganger i jorda som gjør den luftig og god for planter.",
+      "image": "images/2027-02-28/spade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Beina på jorda."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Direkte",
+          "text": "Rett på sak."
+        },
+        {
+          "title": "Grundig",
+          "text": "Graver dypt."
+        }
+      ]
+    },
+    {
+      "id": "hengekoye",
+      "name": "Hengekøye",
+      "shareName": "en hengekøye",
+      "emoji": null,
+      "description": "Du er avslappet, drømmende og vet hvordan man nyter livet. Du minner alle på å ta en pause.",
+      "funFact": "Hengekøya stammer fra urfolk i Mellom- og Sør-Amerika.",
+      "image": "images/2027-02-28/hengekoye.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det rolig."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser på skyene."
+        },
+        {
+          "title": "Fri",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Nytende",
+          "text": "Elsker pauser."
+        }
+      ]
+    },
+    {
+      "id": "grill",
+      "name": "Grill",
+      "shareName": "en grill",
+      "emoji": null,
+      "description": "Du er sosial, varm og samler folk rundt deg. Med deg blir det alltid god stemning.",
+      "funFact": "Å lage mat over åpen varme er en av de eldste måtene å lage mat på.",
+      "image": "images/2027-02-28/grill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Varm",
+          "text": "God stemning."
+        },
+        {
+          "title": "Raus",
+          "text": "Mat til alle."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker lange kvelder."
+        }
+      ]
+    },
+    {
+      "id": "fuglekasse",
+      "name": "Fuglekasse",
+      "shareName": "en fuglekasse",
+      "emoji": null,
+      "description": "Du er gjestfri, omtenksom og liker at alle har et sted å høre til. Hos deg føler alle seg velkommen.",
+      "funFact": "Kjøttmeisen er en av fuglene som oftest flytter inn i fuglekasser i Norge.",
+      "image": "images/2027-02-28/fuglekasse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker fuglesang."
+        }
+      ]
+    },
+    {
+      "id": "gressklipper",
+      "name": "Gressklipper",
+      "shareName": "en gressklipper",
+      "emoji": null,
+      "description": "Du er effektiv, ordentlig og liker at ting blir gjort skikkelig. Du skaper orden der du går.",
+      "funFact": "Den første gressklipperen ble oppfunnet i England på 1800-tallet.",
+      "image": "images/2027-02-28/gressklipper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt i system."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Gjør jobben."
+        }
+      ]
+    },
+    {
+      "id": "vannspreder",
+      "name": "Vannspreder",
+      "shareName": "en vannspreder",
+      "emoji": null,
+      "description": "Du er leken, sprudlende og sprer glede overalt. Du får alle til å le på en varm dag.",
+      "funFact": "Når små vanndråper treffes av sollys, kan det dannes en regnbue.",
+      "image": "images/2027-02-28/vannspreder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid moro."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Raus",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Spontan",
+          "text": "Plutselig skjer det."
+        }
+      ]
+    },
+    {
+      "id": "drivhus",
+      "name": "Drivhus",
+      "shareName": "et drivhus",
+      "emoji": null,
+      "description": "Du er varm, tålmodig og skaper et trygt sted der ting kan vokse. Du liker å følge med på små framskritt.",
+      "funFact": "I et drivhus slipper sollyset inn, og varmen holdes på innsiden.",
+      "image": "images/2027-02-28/drivhus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Trygt og lunt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Ting tar tid."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Følger med."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på."
+        }
+      ]
+    },
+    {
+      "id": "hagebenk",
+      "name": "Hagebenk",
+      "shareName": "en hagebenk",
+      "emoji": null,
+      "description": "Du er rolig, inviterende og en god lytter. Hos deg er det alltid plass til én til.",
+      "funFact": "Teak er et populært treslag til hagemøbler fordi det tåler regn og vær godt.",
+      "image": "images/2027-02-28/hagebenk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ro i sjelen."
+        },
+        {
+          "title": "Lyttende",
+          "text": "God til å lytte."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til flere."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        }
+      ]
+    }
+  ]
+}

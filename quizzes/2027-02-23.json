@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-23",
+  "date": "2027-02-23",
+  "title": "Hvilken pizza er du i dag?",
+  "intro": "Margherita, pepperoni eller kanskje en calzone? Alle har en favorittpizza, men hvilken er du? Svar på sju spørsmål og finn ut hvilken pizza du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan liker du bananen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Litt grønn og fast",
+          "scores": {
+            "margherita": 2,
+            "pizzabianca": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Helt gul og perfekt",
+          "scores": {
+            "skinkeogsopp": 2,
+            "quattroformaggi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med brune prikker, søt og myk",
+          "scores": {
+            "calzone": 1,
+            "kebabpizza": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en fargerik smoothie",
+          "scores": {
+            "vegetar": 2,
+            "hawaii": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rett fra fruktskålen på vei ut",
+          "scores": {
+            "pepperoni": 2,
+            "frossenpizza": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stekt på grillen",
+          "scores": {
+            "hawaii": 1,
+            "calzone": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva henger på nøkkelknippet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bare nøklene, ingenting mer",
+          "scores": {
+            "margherita": 2,
+            "pizzabianca": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En liten lommelykt",
+          "scores": {
+            "frossenpizza": 2,
+            "skinkeogsopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En fargerik figur",
+          "scores": {
+            "hawaii": 2,
+            "vegetar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Masse rart jeg har samlet",
+          "scores": {
+            "kebabpizza": 2,
+            "calzone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En flaskeåpner",
+          "scores": {
+            "pepperoni": 1,
+            "kebabpizza": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En fin nøkkelring i skinn",
+          "scores": {
+            "quattroformaggi": 2,
+            "pizzabianca": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags deksel har du på mobilen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et solid deksel som tåler alt",
+          "scores": {
+            "frossenpizza": 1,
+            "skinkeogsopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med glitter eller sterke farger",
+          "scores": {
+            "hawaii": 2,
+            "pepperoni": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lommebokdeksel med plass til kort",
+          "scores": {
+            "skinkeogsopp": 1,
+            "calzone": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med blomster eller natur",
+          "scores": {
+            "vegetar": 2,
+            "margherita": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et stilig deksel i én farge",
+          "scores": {
+            "pizzabianca": 2,
+            "quattroformaggi": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det som var billigst",
+          "scores": {
+            "kebabpizza": 2,
+            "frossenpizza": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Maten er mye sterkere enn du trodde. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser videre, jeg tåler det",
+          "scores": {
+            "pepperoni": 2,
+            "kebabpizza": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Drikker et stort glass melk",
+          "scores": {
+            "skinkeogsopp": 2,
+            "margherita": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler og vifter meg i ansiktet",
+          "scores": {
+            "hawaii": 1,
+            "calzone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar litt rømme ved siden av",
+          "scores": {
+            "quattroformaggi": 2,
+            "vegetar": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Later som ingenting",
+          "scores": {
+            "pizzabianca": 2,
+            "calzone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser noe annet i stedet",
+          "scores": {
+            "frossenpizza": 1,
+            "margherita": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du blir bedt om å være dommer i en kakekonkurranse. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Streng og nøye på smaken",
+          "scores": {
+            "quattroformaggi": 2,
+            "margherita": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir alle full pott",
+          "scores": {
+            "kebabpizza": 1,
+            "skinkeogsopp": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser mest på hvor fin kaka er",
+          "scores": {
+            "pizzabianca": 2,
+            "vegetar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Heier mest på den rareste kaka",
+          "scores": {
+            "hawaii": 2,
+            "pepperoni": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smaker litt ekstra på alle",
+          "scores": {
+            "kebabpizza": 2,
+            "frossenpizza": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver en hyggelig lapp til hver",
+          "scores": {
+            "calzone": 2,
+            "vegetar": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En butikkansatt spør om du trenger hjelp. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nei takk, jeg bare kikker",
+          "scores": {
+            "pizzabianca": 2,
+            "calzone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ja! Og så prater vi litt",
+          "scores": {
+            "kebabpizza": 2,
+            "hawaii": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om de har noe enda bedre",
+          "scores": {
+            "quattroformaggi": 2,
+            "pepperoni": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hva de selv anbefaler",
+          "scores": {
+            "skinkeogsopp": 2,
+            "vegetar": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vet nøyaktig hva jeg skal ha",
+          "scores": {
+            "margherita": 1,
+            "frossenpizza": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ber om det raskeste alternativet",
+          "scores": {
+            "frossenpizza": 2,
+            "pepperoni": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan spiser du en pizzabit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bretter den på midten",
+          "scores": {
+            "pepperoni": 2,
+            "kebabpizza": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med kniv og gaffel",
+          "scores": {
+            "pizzabianca": 2,
+            "quattroformaggi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fra spissen og innover",
+          "scores": {
+            "margherita": 2,
+            "skinkeogsopp": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kanten først, det beste til slutt",
+          "scores": {
+            "calzone": 2,
+            "quattroformaggi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rett fra esken",
+          "scores": {
+            "frossenpizza": 2,
+            "hawaii": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Plukker av litt pålegg først",
+          "scores": {
+            "vegetar": 2,
+            "hawaii": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "margherita",
+      "name": "Margherita",
+      "shareName": "en margherita",
+      "emoji": null,
+      "description": "Du er enkel, klassisk og ekte. Du vet at det beste ofte er det enkleste.",
+      "funFact": "Pizza margherita er etter sigende oppkalt etter dronning Margherita av Italia.",
+      "image": "images/2027-02-23/margherita.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Tidløs stil."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det ekte."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trygg og stødig."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        }
+      ]
+    },
+    {
+      "id": "pepperoni",
+      "name": "Pepperoni",
+      "shareName": "en pepperonipizza",
+      "emoji": null,
+      "description": "Du er energisk, populær og litt krydret. Du setter fart på enhver kveld.",
+      "funFact": "Pepperoni er en krydret pølse som er spesielt populær på pizza i USA.",
+      "image": "images/2027-02-23/pepperoni.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle vil ha deg."
+        },
+        {
+          "title": "Krydret",
+          "text": "Litt ekstra futt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å satse."
+        }
+      ]
+    },
+    {
+      "id": "hawaii",
+      "name": "Hawaii",
+      "shareName": "en hawaiipizza",
+      "emoji": null,
+      "description": "Du er solfylt, uredd og tør å være annerledes. Du får folk til å smile.",
+      "funFact": "Hawaiipizza ble funnet opp i Canada, ikke på Hawaii.",
+      "image": "images/2027-02-23/hawaii.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solfylt",
+          "text": "Sommer hele året."
+        },
+        {
+          "title": "Uredd",
+          "text": "Tør å skille deg ut."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Alltid noe nytt."
+        }
+      ]
+    },
+    {
+      "id": "kebabpizza",
+      "name": "Kebabpizza",
+      "shareName": "en kebabpizza",
+      "emoji": null,
+      "description": "Du er sulten på livet og elsker store opplevelser. Du er raus og liker å dele.",
+      "funFact": "Kebabpizza er spesielt populær i Sverige.",
+      "image": "images/2027-02-23/kebabpizza.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Sulten",
+          "text": "Vil oppleve mye."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Mye av alt."
+        }
+      ]
+    },
+    {
+      "id": "quattroformaggi",
+      "name": "Quattro formaggi",
+      "shareName": "en quattro formaggi",
+      "emoji": null,
+      "description": "Du er rik på detaljer og elsker god kvalitet. Du blir bare bedre jo mer man kjenner deg.",
+      "funFact": "Quattro formaggi betyr «fire oster» på italiensk.",
+      "image": "images/2027-02-23/quattroformaggi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kresen",
+          "text": "Liker god kvalitet."
+        },
+        {
+          "title": "Varm",
+          "text": "Smelter hjerter."
+        },
+        {
+          "title": "Rik",
+          "text": "Mange lag."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder sammen."
+        }
+      ]
+    },
+    {
+      "id": "vegetar",
+      "name": "Vegetarpizza",
+      "shareName": "en vegetarpizza",
+      "emoji": null,
+      "description": "Du er fargerik, frisk og omtenksom. Du har plass til litt av alt.",
+      "funFact": "Tomat er egentlig en frukt, botanisk sett.",
+      "image": "images/2027-02-23/vegetar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Mange farger."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Prøver nye ting."
+        }
+      ]
+    },
+    {
+      "id": "skinkeogsopp",
+      "name": "Skinke og sopp",
+      "shareName": "skinke og sopp",
+      "emoji": null,
+      "description": "Du er trofast, hyggelig og lett å like. Du er favoritten folk alltid kommer tilbake til.",
+      "funFact": "Sjampinjong er en av de vanligste soppene som dyrkes til mat.",
+      "image": "images/2027-02-23/skinkeogsopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Trygg",
+          "text": "Du skuffer aldri."
+        }
+      ]
+    },
+    {
+      "id": "pizzabianca",
+      "name": "Pizza bianca",
+      "shareName": "en pizza bianca",
+      "emoji": null,
+      "description": "Du er stilren, rolig og litt annerledes. Du trenger ikke rød saus for å skinne.",
+      "funFact": "Pizza bianca betyr «hvit pizza», fordi den lages uten tomatsaus.",
+      "image": "images/2027-02-23/pizzabianca.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilren",
+          "text": "Enkel eleganse."
+        },
+        {
+          "title": "Rolig",
+          "text": "Indre ro."
+        },
+        {
+          "title": "Original",
+          "text": "Din egen vei."
+        },
+        {
+          "title": "Mild",
+          "text": "Varm og myk."
+        }
+      ]
+    },
+    {
+      "id": "calzone",
+      "name": "Calzone",
+      "shareName": "en calzone",
+      "emoji": null,
+      "description": "Du er full av overraskelser og har mye på innsiden. De som kjenner deg, vet at du er varm og god.",
+      "funFact": "Calzone er en pizza som er brettet sammen som en halvmåne.",
+      "image": "images/2027-02-23/calzone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Mye på innsiden."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være med."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        }
+      ]
+    },
+    {
+      "id": "frossenpizza",
+      "name": "Frossenpizza",
+      "shareName": "en frossenpizza",
+      "emoji": null,
+      "description": "Du er praktisk, avslappet og alltid klar. Du redder kvelden når ingen andre har en plan.",
+      "funFact": "Nordmenn er kjent for å spise mye frossenpizza.",
+      "image": "images/2027-02-23/frossenpizza.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid en løsning."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Klar",
+          "text": "Alltid forberedt."
+        },
+        {
+          "title": "Lun",
+          "text": "Enkel kos."
+        }
+      ]
+    }
+  ]
+}

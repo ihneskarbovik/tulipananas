@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-25",
+  "date": "2027-02-25",
+  "title": "Hvilken filmsjanger er du i dag?",
+  "intro": "Skal det være latter, spenning eller en god dokumentar i kveld? Svar på sju spørsmål og finn ut hvilken filmsjanger du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags humor liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klovnete og fysisk humor",
+          "scores": {
+            "komedie": 2,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smarte ordspill",
+          "scores": {
+            "krim": 2,
+            "dokumentar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Søt og sjarmerende humor",
+          "scores": {
+            "romantiskkomedie": 1,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rare og absurde ting",
+          "scores": {
+            "sciencefiction": 2,
+            "komedie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt mørk humor",
+          "scores": {
+            "skrekk": 2,
+            "krim": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tørrvittig, med alvorlig ansikt",
+          "scores": {
+            "western": 2,
+            "action": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva drømmer du oftest om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At jeg flyr",
+          "scores": {
+            "sciencefiction": 2,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "At noe jager meg",
+          "scores": {
+            "action": 2,
+            "skrekk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et mysterium jeg må løse",
+          "scores": {
+            "krim": 2,
+            "sciencefiction": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe romantisk",
+          "scores": {
+            "romantiskkomedie": 2,
+            "musikal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe helt tullete",
+          "scores": {
+            "komedie": 1,
+            "animasjon": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt vanlige ting fra hverdagen",
+          "scores": {
+            "dokumentar": 2,
+            "western": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan er latteren din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høy og smittende",
+          "scores": {
+            "komedie": 2,
+            "musikal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stille fnising",
+          "scores": {
+            "romantiskkomedie": 2,
+            "krim": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kort og tørr",
+          "scores": {
+            "western": 2,
+            "dokumentar": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den kommer når jeg blir skremt",
+          "scores": {
+            "skrekk": 2,
+            "action": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Helt spesiell, ingen ler som meg",
+          "scores": {
+            "sciencefiction": 1,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med hele kroppen",
+          "scores": {
+            "animasjon": 2,
+            "action": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du når du konsentrerer deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stikker tunga ut",
+          "scores": {
+            "animasjon": 2,
+            "komedie": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trommer med fingrene",
+          "scores": {
+            "action": 2,
+            "musikal": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir helt stille og stirrer",
+          "scores": {
+            "krim": 2,
+            "skrekk": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Snakker høyt med meg selv",
+          "scores": {
+            "sciencefiction": 2,
+            "komedie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar på hodetelefoner",
+          "scores": {
+            "dokumentar": 2,
+            "sciencefiction": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager meg en kopp te først",
+          "scores": {
+            "romantiskkomedie": 1,
+            "western": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du kommer på noe morsomt i et helt stille rom. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begynner å fnise og klarer ikke stoppe",
+          "scores": {
+            "komedie": 2,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Biter meg i leppa",
+          "scores": {
+            "krim": 2,
+            "western": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skriver det ned til senere",
+          "scores": {
+            "dokumentar": 2,
+            "sciencefiction": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på en venn og deler et blikk",
+          "scores": {
+            "romantiskkomedie": 1,
+            "musikal": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Later som jeg hoster",
+          "scores": {
+            "action": 1,
+            "skrekk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nynner litt for meg selv",
+          "scores": {
+            "musikal": 2,
+            "western": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken tid i historien ville du helst besøkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vikingtiden",
+          "scores": {
+            "action": 2,
+            "western": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Middelalderen med riddere og slott",
+          "scores": {
+            "romantiskkomedie": 2,
+            "musikal": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Dinosaurenes tid",
+          "scores": {
+            "animasjon": 1,
+            "sciencefiction": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gamle Egypt med pyramidene",
+          "scores": {
+            "dokumentar": 2,
+            "krim": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "1920-tallet med jazz og dans",
+          "scores": {
+            "musikal": 2,
+            "komedie": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En tåkete høstkveld for hundre år siden",
+          "scores": {
+            "skrekk": 2,
+            "krim": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Rulleteksten begynner. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venter i tilfelle det kommer en ekstra scene",
+          "scores": {
+            "sciencefiction": 1,
+            "action": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Diskuterer slutten med en gang",
+          "scores": {
+            "krim": 1,
+            "dokumentar": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leser hvem som var med",
+          "scores": {
+            "dokumentar": 2,
+            "western": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Danser til sluttlåten",
+          "scores": {
+            "musikal": 2,
+            "animasjon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tørker en liten tåre",
+          "scores": {
+            "romantiskkomedie": 2,
+            "western": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter på en til",
+          "scores": {
+            "skrekk": 2,
+            "komedie": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "komedie",
+      "name": "Komedie",
+      "shareName": "en komedie",
+      "emoji": null,
+      "description": "Du er morsom, varm og får alle til å le. Du ser det lyse i det meste.",
+      "funFact": "De første filmene hadde ikke lyd, og mange av dem var komedier.",
+      "image": "images/2027-02-25/komedie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får alle til å le."
+        },
+        {
+          "title": "Varm",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser det lyse."
+        },
+        {
+          "title": "Spontan",
+          "text": "Full av påfunn."
+        }
+      ]
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "shareName": "en actionfilm",
+      "emoji": null,
+      "description": "Du er rask, modig og elsker spenning. Du handler raskt, og det går som regel bra.",
+      "funFact": "Mange actionscener filmes med stuntfolk som er trent for farlige scener.",
+      "image": "images/2027-02-25/action.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Sterk",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "romantiskkomedie",
+      "name": "Romantisk komedie",
+      "shareName": "en romantisk komedie",
+      "emoji": null,
+      "description": "Du er varm, romantisk og tror på gode slutter. Du ser det fine i folk.",
+      "funFact": "Romantiske komedier kalles ofte «romkom» på kortform.",
+      "image": "images/2027-02-25/romantiskkomedie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Tror på gode slutter."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        }
+      ]
+    },
+    {
+      "id": "skrekk",
+      "name": "Skrekk",
+      "shareName": "en grøsser",
+      "emoji": null,
+      "description": "Du er modig, spennende og litt mystisk. Du liker å kjenne at hjertet banker litt fortere.",
+      "funFact": "Når vi blir skremt, skiller kroppen ut adrenalin.",
+      "image": "images/2027-02-25/skrekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Spennende",
+          "text": "Aldri kjedelig."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Liker mørke kvelder."
+        }
+      ]
+    },
+    {
+      "id": "sciencefiction",
+      "name": "Science fiction",
+      "shareName": "en science fiction-film",
+      "emoji": null,
+      "description": "Du er nysgjerrig, smart og tenker store tanker. Du lurer alltid på «hva om?».",
+      "funFact": "Science fiction kalles ofte «sci-fi» på kortform.",
+      "image": "images/2027-02-25/sciencefiction.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Lurer på alt."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker stort."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser nye verdener."
+        },
+        {
+          "title": "Original",
+          "text": "Egen stil."
+        }
+      ]
+    },
+    {
+      "id": "animasjon",
+      "name": "Animasjon",
+      "shareName": "en animasjonsfilm",
+      "emoji": null,
+      "description": "Du er fargerik, leken og full av fantasi. Du er like glad i det barnslige som det voksne.",
+      "funFact": "I animasjonsfilm lages bevegelse ved å vise mange bilder raskt etter hverandre.",
+      "image": "images/2027-02-25/animasjon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Barn i sjelen."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Full av farger."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Alt er mulig."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Varm og snill."
+        }
+      ]
+    },
+    {
+      "id": "dokumentar",
+      "name": "Dokumentar",
+      "shareName": "en dokumentar",
+      "emoji": null,
+      "description": "Du er nysgjerrig, klok og elsker ekte historier. Du lærer noe nytt hver dag.",
+      "funFact": "En dokumentar handler om virkelige mennesker, dyr eller hendelser.",
+      "image": "images/2027-02-25/dokumentar.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet mye."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære mer."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Liker det ekte."
+        },
+        {
+          "title": "Grundig",
+          "text": "Tenker nøye."
+        }
+      ]
+    },
+    {
+      "id": "musikal",
+      "name": "Musikal",
+      "shareName": "en musikal",
+      "emoji": null,
+      "description": "Du er glad, uttrykksfull og synger gjerne når du er i godt humør. Du gjør hverdagen til en forestilling.",
+      "funFact": "I en musikal forteller sangene en del av historien.",
+      "image": "images/2027-02-25/musikal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser følelser."
+        },
+        {
+          "title": "Glad",
+          "text": "Synger ofte."
+        },
+        {
+          "title": "Sosial",
+          "text": "Alle skal med."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Store øyeblikk."
+        }
+      ]
+    },
+    {
+      "id": "western",
+      "name": "Western",
+      "shareName": "en western",
+      "emoji": null,
+      "description": "Du er rolig, modig og står for det du mener. Du elsker frihet og åpne landskap.",
+      "funFact": "Westernfilmer handler ofte om det ville vesten i USA på 1800-tallet.",
+      "image": "images/2027-02-25/western.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Modig",
+          "text": "Står for ting."
+        },
+        {
+          "title": "Fri",
+          "text": "Åpne vidder."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Gjør det rette."
+        }
+      ]
+    },
+    {
+      "id": "krim",
+      "name": "Krim",
+      "shareName": "en krimfilm",
+      "emoji": null,
+      "description": "Du er skarp, observant og elsker et godt mysterium. Du legger merke til det andre overser.",
+      "funFact": "Påskekrim er en egen norsk tradisjon.",
+      "image": "images/2027-02-25/krim.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Ser alt."
+        },
+        {
+          "title": "Observant",
+          "text": "Legger merke til detaljer."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på svaret."
+        },
+        {
+          "title": "Logisk",
+          "text": "Tenker klart."
+        }
+      ]
+    }
+  ]
+}

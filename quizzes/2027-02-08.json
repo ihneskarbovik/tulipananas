@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-08",
+  "date": "2027-02-08",
+  "title": "Hvilken kunstform er du i dag?",
+  "intro": "Kunst kan lages av nesten hva som helst, fra maling og leire til papirbiter og lys. Svar på sju spørsmål og finn ut hvilken kunstform du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan ser håndskriften din ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pen og jevn",
+          "scores": {
+            "mosaikk": 2,
+            "blyanttegning": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rask og skrå",
+          "scores": {
+            "graffiti": 1,
+            "akvarell": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Store, runde bokstaver",
+          "scores": {
+            "keramikk": 2,
+            "tegneserie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Små og tette",
+          "scores": {
+            "blyanttegning": 2,
+            "oljemaleri": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Full av små tegninger i margen",
+          "scores": {
+            "tegneserie": 2,
+            "collage": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kraftig, jeg trykker hardt",
+          "scores": {
+            "skulptur": 2,
+            "graffiti": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan liker du å sitte når du leser?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I sofaen med beina oppunder meg",
+          "scores": {
+            "akvarell": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved et bord med god lampe",
+          "scores": {
+            "blyanttegning": 2,
+            "mosaikk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På gulvet med ting rundt meg",
+          "scores": {
+            "collage": 2,
+            "tegneserie": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ute på trappa i sola",
+          "scores": {
+            "fotografi": 2,
+            "graffiti": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "I en dyp lenestol",
+          "scores": {
+            "oljemaleri": 2,
+            "skulptur": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "I senga under dyna",
+          "scores": {
+            "blyanttegning": 2,
+            "oljemaleri": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva gjør du med gamle bilder på telefonen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sorterer dem i album",
+          "scores": {
+            "mosaikk": 2,
+            "blyanttegning": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sletter de fleste",
+          "scores": {
+            "graffiti": 2,
+            "skulptur": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lar alt ligge",
+          "scores": {
+            "keramikk": 2,
+            "akvarell": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skriver ut favorittene",
+          "scores": {
+            "fotografi": 2,
+            "oljemaleri": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter dem sammen til noe nytt",
+          "scores": {
+            "collage": 1,
+            "tegneserie": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser på dem igjen og igjen",
+          "scores": {
+            "fotografi": 1,
+            "akvarell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan ser kjøkkenbenken din ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt ryddig",
+          "scores": {
+            "blyanttegning": 2,
+            "mosaikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Full av ting jeg bruker",
+          "scores": {
+            "collage": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Krydderglass i fine rekker",
+          "scores": {
+            "mosaikk": 2,
+            "oljemaleri": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En plante og en radio",
+          "scores": {
+            "akvarell": 2,
+            "fotografi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt søl her og der",
+          "scores": {
+            "graffiti": 2,
+            "tegneserie": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det står alltid en deig og hever",
+          "scores": {
+            "keramikk": 1,
+            "skulptur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du skal dekke bordet til gjester. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tente lys og blomster",
+          "scores": {
+            "oljemaleri": 2,
+            "akvarell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fargerike servietter",
+          "scores": {
+            "collage": 2,
+            "tegneserie": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Alt helt likt på hver plass",
+          "scores": {
+            "mosaikk": 2,
+            "blyanttegning": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kongler og kvister fra skogen",
+          "scores": {
+            "keramikk": 2,
+            "fotografi": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg bruker det jeg har",
+          "scores": {
+            "graffiti": 2,
+            "collage": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Store fat midt på bordet",
+          "scores": {
+            "skulptur": 2,
+            "keramikk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen kikker på det du holder på med. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Viser det gjerne fram",
+          "scores": {
+            "graffiti": 2,
+            "tegneserie": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dekker det til",
+          "scores": {
+            "blyanttegning": 2,
+            "oljemaleri": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forklarer hva jeg gjør",
+          "scores": {
+            "mosaikk": 2,
+            "skulptur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber dem prøve selv",
+          "scores": {
+            "keramikk": 2,
+            "collage": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir litt stille",
+          "scores": {
+            "akvarell": 2,
+            "fotografi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar ikke notis av det",
+          "scores": {
+            "skulptur": 2,
+            "fotografi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor ville du helst hatt et lite verksted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På et loft med takvindu",
+          "scores": {
+            "oljemaleri": 2,
+            "akvarell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I en kjeller med god plass",
+          "scores": {
+            "skulptur": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I en bod i hagen",
+          "scores": {
+            "mosaikk": 2,
+            "collage": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ved sjøen",
+          "scores": {
+            "akvarell": 1,
+            "fotografi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I en travel bygate",
+          "scores": {
+            "graffiti": 2,
+            "fotografi": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "På kjøkkenbordet hjemme",
+          "scores": {
+            "tegneserie": 2,
+            "collage": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "akvarell",
+      "name": "Akvarell",
+      "shareName": "akvarell",
+      "emoji": null,
+      "description": "Du er lett, myk og går med strømmen. Du lar ting skje, og ofte blir det helt nydelig.",
+      "funFact": "Akvarellmaling løses opp i vann, og det hvite papiret skinner gjennom fargene.",
+      "image": "images/2027-02-08/akvarell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lett",
+          "text": "Flyter med strømmen."
+        },
+        {
+          "title": "Myk",
+          "text": "Milde farger."
+        },
+        {
+          "title": "Spontan",
+          "text": "Prøver med en gang."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Fine tanker."
+        }
+      ]
+    },
+    {
+      "id": "oljemaleri",
+      "name": "Oljemaleri",
+      "shareName": "et oljemaleri",
+      "emoji": null,
+      "description": "Du er dyp, tålmodig og har mange lag. Jo bedre folk kjenner deg, jo mer oppdager de.",
+      "funFact": "Oljemaling tørker sakte, ofte over flere dager.",
+      "image": "images/2027-02-08/oljemaleri.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyp",
+          "text": "Mange lag."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs stil."
+        },
+        {
+          "title": "Rik",
+          "text": "Fulle farger."
+        }
+      ]
+    },
+    {
+      "id": "blyanttegning",
+      "name": "Blyanttegning",
+      "shareName": "en blyanttegning",
+      "emoji": null,
+      "description": "Du er presis, rolig og liker det enkle. Du ser detaljer som andre går glipp av.",
+      "funFact": "Blyanter inneholder ikke bly, men grafitt.",
+      "image": "images/2027-02-08/blyanttegning.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Presis",
+          "text": "Hver strek sitter."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker tempoet."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser detaljene."
+        }
+      ]
+    },
+    {
+      "id": "keramikk",
+      "name": "Keramikk",
+      "shareName": "keramikk",
+      "emoji": null,
+      "description": "Du er jordnær, varm og praktisk. Du lager ting folk faktisk bruker hver dag.",
+      "funFact": "Leire må brennes i en ovn for å bli hard og holdbar.",
+      "image": "images/2027-02-08/keramikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være med."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Nyttig og fin."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gode hender."
+        }
+      ]
+    },
+    {
+      "id": "collage",
+      "name": "Collage",
+      "shareName": "en collage",
+      "emoji": null,
+      "description": "Du er kreativ, leken og ser muligheter i alt. Du setter sammen ting ingen andre hadde tenkt på.",
+      "funFact": "Ordet collage kommer fra det franske ordet for å lime.",
+      "image": "images/2027-02-08/collage.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ideer overalt."
+        },
+        {
+          "title": "Leken",
+          "text": "Prøver alt."
+        },
+        {
+          "title": "Sammensatt",
+          "text": "Mange sider."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Bruker det du har."
+        }
+      ]
+    },
+    {
+      "id": "fotografi",
+      "name": "Fotografi",
+      "shareName": "et fotografi",
+      "emoji": null,
+      "description": "Du er nysgjerrig, våken og fanger øyeblikkene. Du ser det fine i det helt vanlige.",
+      "funFact": "Ordet fotografi betyr «å tegne med lys» på gresk.",
+      "image": "images/2027-02-08/fotografi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se mer."
+        },
+        {
+          "title": "Våken",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Viser det som er."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Fanger det som skjer."
+        }
+      ]
+    },
+    {
+      "id": "skulptur",
+      "name": "Skulptur",
+      "shareName": "en skulptur",
+      "emoji": null,
+      "description": "Du er sterk, stødig og står støtt uansett vær. Folk vet at de kan stole på deg.",
+      "funFact": "Gustav Vigeland laget over 200 skulpturer til Vigelandsparken i Oslo.",
+      "image": "images/2027-02-08/skulptur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Solid",
+          "text": "Bygger for framtiden."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        }
+      ]
+    },
+    {
+      "id": "mosaikk",
+      "name": "Mosaikk",
+      "shareName": "en mosaikk",
+      "emoji": null,
+      "description": "Du er ordentlig, tålmodig og ser helheten. Du får mange små biter til å bli noe stort.",
+      "funFact": "Mosaikk lages av små biter av stein, glass eller keramikk.",
+      "image": "images/2027-02-08/mosaikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Bit for bit."
+        },
+        {
+          "title": "Helhetlig",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får alt til å passe."
+        }
+      ]
+    },
+    {
+      "id": "graffiti",
+      "name": "Graffiti",
+      "shareName": "graffiti",
+      "emoji": null,
+      "description": "Du er modig, uttrykksfull og elsker farger. Du sier det du mener, og det med stil.",
+      "funFact": "Mange byer har egne vegger der det er lov å lage graffiti.",
+      "image": "images/2027-02-08/graffiti.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å synes."
+        },
+        {
+          "title": "Uttrykksfull",
+          "text": "Sier det høyt."
+        },
+        {
+          "title": "Rask",
+          "text": "Full fart."
+        },
+        {
+          "title": "Fargesterk",
+          "text": "Lyser opp gata."
+        }
+      ]
+    },
+    {
+      "id": "tegneserie",
+      "name": "Tegneserie",
+      "shareName": "en tegneserie",
+      "emoji": null,
+      "description": "Du er morsom, fantasifull og elsker en god historie. Du får folk til å le.",
+      "funFact": "Tegneserier forteller historier i ruter, ofte med snakkebobler.",
+      "image": "images/2027-02-08/tegneserie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Lever i historier."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Alltid noe å si."
+        },
+        {
+          "title": "Leken",
+          "text": "Ung til sinns."
+        }
+      ]
+    }
+  ]
+}

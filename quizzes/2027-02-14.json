@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-14",
+  "date": "2027-02-14",
+  "title": "Hvilken dyremamma er du i dag?",
+  "intro": "I dag er det morsdag, som i Norge feires andre søndag i februar. I dyreriket finnes det mange fantastiske mammaer. Svar på sju spørsmål og finn ut hvilken dyremamma du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å ha på deg når det regner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gul regnjakke og støvler",
+          "scores": {
+            "and": 2,
+            "hone": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor jakke med mange lommer",
+          "scores": {
+            "kenguru": 2,
+            "blekksprut": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ingenting spesielt, litt regn er greit",
+          "scores": {
+            "sel": 1,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En lang, elegant kåpe",
+          "scores": {
+            "svane": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En varm og tykk dunjakke",
+          "scores": {
+            "isbjorn": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det jeg finner først",
+          "scores": {
+            "orangutang": 1,
+            "sel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags klem gir du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En lang og god klem",
+          "scores": {
+            "isbjorn": 2,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En rask klem i farta",
+          "scores": {
+            "kenguru": 1,
+            "and": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En gruppeklem med alle",
+          "scores": {
+            "ulv": 2,
+            "hone": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En myk og rolig klem",
+          "scores": {
+            "svane": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En klem med begge armene og litt til",
+          "scores": {
+            "blekksprut": 1,
+            "sel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vinker heller",
+          "scores": {
+            "sel": 2,
+            "kenguru": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags hjem liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort hus med plass til mange",
+          "scores": {
+            "elefant": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et gårdshus på landet",
+          "scores": {
+            "hone": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et hus ved sjøen",
+          "scores": {
+            "sel": 2,
+            "svane": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et trehus høyt oppe",
+          "scores": {
+            "orangutang": 2,
+            "kenguru": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En hytte langt mot nord",
+          "scores": {
+            "isbjorn": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En leilighet full av rare ting",
+          "scores": {
+            "blekksprut": 2,
+            "kenguru": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er din tur til å lese høyt. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med forskjellige stemmer",
+          "scores": {
+            "blekksprut": 2,
+            "hone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rolig og tydelig",
+          "scores": {
+            "svane": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med mye innlevelse",
+          "scores": {
+            "elefant": 2,
+            "isbjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Raskt, så vi kommer til det spennende",
+          "scores": {
+            "kenguru": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg stopper og forklarer underveis",
+          "scores": {
+            "orangutang": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg lar alle lese hver sin bit",
+          "scores": {
+            "ulv": 2,
+            "and": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Et lite barn spør deg hvorfor himmelen er blå. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forklarer det så godt jeg kan",
+          "scores": {
+            "orangutang": 1,
+            "elefant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner svaret sammen med barnet",
+          "scores": {
+            "blekksprut": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier at det er et kjempegodt spørsmål",
+          "scores": {
+            "svane": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner på en morsom forklaring",
+          "scores": {
+            "sel": 2,
+            "kenguru": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør hva barnet selv tror",
+          "scores": {
+            "hone": 2,
+            "ulv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar barnet med ut for å se",
+          "scores": {
+            "isbjorn": 2,
+            "ulv": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det er vinter og fuglene trenger mat. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Henger opp meisboller",
+          "scores": {
+            "hone": 2,
+            "and": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snekrer et fuglebrett",
+          "scores": {
+            "blekksprut": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Setter ut mat til alle slags dyr",
+          "scores": {
+            "elefant": 2,
+            "ulv": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på fuglene fra vinduet",
+          "scores": {
+            "svane": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Strør smuler på vei forbi",
+          "scores": {
+            "kenguru": 2,
+            "sel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager et lunt fuglehus",
+          "scores": {
+            "isbjorn": 2,
+            "svane": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva vil du helst gjøre for en du er glad i på morsdagen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lage frokost",
+          "scores": {
+            "hone": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dra på tur sammen",
+          "scores": {
+            "ulv": 2,
+            "kenguru": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Plukke blomster",
+          "scores": {
+            "svane": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lage et kort med mange detaljer",
+          "scores": {
+            "blekksprut": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Samle hele familien",
+          "scores": {
+            "elefant": 2,
+            "hone": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kose oss på sofaen sammen",
+          "scores": {
+            "sel": 2,
+            "isbjorn": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "elefant",
+      "name": "Elefantmammaen",
+      "shareName": "en elefantmamma",
+      "emoji": null,
+      "description": "Du er klok, trygg og passer på hele flokken din. Du glemmer aldri dem du er glad i.",
+      "funFact": "En elefant er drektig i nesten to år før ungen blir født.",
+      "image": "images/2027-02-14/elefant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Vet hva som trengs."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alle føler seg trygge."
+        },
+        {
+          "title": "Samlende",
+          "text": "Holder flokken sammen."
+        },
+        {
+          "title": "Trofast",
+          "text": "Glemmer ingen."
+        }
+      ]
+    },
+    {
+      "id": "kenguru",
+      "name": "Kengurumammaen",
+      "shareName": "en kengurumamma",
+      "emoji": null,
+      "description": "Du er sprek, praktisk og har alltid med deg det du trenger. Du hopper rett inn i nye utfordringer.",
+      "funFact": "En nyfødt kengurunge er bare et par centimeter lang.",
+      "image": "images/2027-02-14/kenguru.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Har alt med seg."
+        },
+        {
+          "title": "Rask",
+          "text": "Hopper i gang."
+        },
+        {
+          "title": "Beredt",
+          "text": "Klar for alt."
+        }
+      ]
+    },
+    {
+      "id": "orangutang",
+      "name": "Orangutangmammaen",
+      "shareName": "en orangutangmamma",
+      "emoji": null,
+      "description": "Du er tålmodig, rolig og flink til å lære bort. Du tar deg god tid med dem du er glad i.",
+      "funFact": "Orangutangungen blir hos mora si i flere år og lærer alt fra henne.",
+      "image": "images/2027-02-14/orangutang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Lærerik",
+          "text": "Flink til å vise."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet mye."
+        }
+      ]
+    },
+    {
+      "id": "isbjorn",
+      "name": "Isbjørnmammaen",
+      "shareName": "en isbjørnmamma",
+      "emoji": null,
+      "description": "Du er sterk, tøff og varm inni. Du står opp for dem du er glad i, uansett vær.",
+      "funFact": "Isbjørnmammaen føder ungene sine i et hi i snøen midt på vinteren.",
+      "image": "images/2027-02-14/isbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer godt på."
+        },
+        {
+          "title": "Tøff",
+          "text": "Uansett vær."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk inni."
+        }
+      ]
+    },
+    {
+      "id": "blekksprut",
+      "name": "Blekksprutmammaen",
+      "shareName": "en blekksprutmamma",
+      "emoji": null,
+      "description": "Du er smart, oppfinnsom og får til mange ting på en gang. Du gir aldri opp det du har bestemt deg for.",
+      "funFact": "Noen blekksprutmødre vokter eggene sine i mange måneder uten å spise.",
+      "image": "images/2027-02-14/blekksprut.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Løser alt."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Mange ideer."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Mange ting samtidig."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "and",
+      "name": "Andemammaen",
+      "shareName": "en andemamma",
+      "emoji": null,
+      "description": "Du er ordentlig, blid og flink til å gå foran. Med deg vet alle hvor de skal.",
+      "funFact": "Nyklekte andunger lærer seg raskt å følge etter mora si.",
+      "image": "images/2027-02-14/and.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ordentlig",
+          "text": "Alt på rekke."
+        },
+        {
+          "title": "Blid",
+          "text": "Godt humør."
+        },
+        {
+          "title": "Ledende",
+          "text": "Går foran."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alle følger deg."
+        }
+      ]
+    },
+    {
+      "id": "hone",
+      "name": "Hønemammaen",
+      "shareName": "en hønemamma",
+      "emoji": null,
+      "description": "Du er omsorgsfull, pratsom og har full kontroll hjemme. Du samler alle under vingene dine.",
+      "funFact": "Høna snur eggene mange ganger om dagen når hun ruger.",
+      "image": "images/2027-02-14/hone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Alltid noe å si."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives hjemme."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid i gang."
+        }
+      ]
+    },
+    {
+      "id": "sel",
+      "name": "Selmammaen",
+      "shareName": "en selmamma",
+      "emoji": null,
+      "description": "Du er avslappet, leken og trives godt i vannet. Du gir gjerne det beste du har.",
+      "funFact": "Selmammaen lager svært fet melk, så ungen vokser fort.",
+      "image": "images/2027-02-14/sel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Leken",
+          "text": "Liker å tulle."
+        },
+        {
+          "title": "Vannglad",
+          "text": "Elsker å bade."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir det beste."
+        }
+      ]
+    },
+    {
+      "id": "ulv",
+      "name": "Ulvemammaen",
+      "shareName": "en ulvemamma",
+      "emoji": null,
+      "description": "Du er lojal, modig og vet at sammen er man sterkest. Du får hele flokken til å jobbe sammen.",
+      "funFact": "Hos ulvene hjelper hele flokken til med å passe på valpene.",
+      "image": "images/2027-02-14/ulv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Står last og brast."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sammen er best."
+        },
+        {
+          "title": "Våken",
+          "text": "Følger med."
+        }
+      ]
+    },
+    {
+      "id": "svane",
+      "name": "Svanemammaen",
+      "shareName": "en svanemamma",
+      "emoji": null,
+      "description": "Du er elegant, rolig og trofast mot dem du er glad i. Du bærer de små trygt gjennom livet.",
+      "funFact": "Svaneunger rir gjerne på ryggen til foreldrene sine.",
+      "image": "images/2027-02-14/svane.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Vakre bevegelser."
+        },
+        {
+          "title": "Rolig",
+          "text": "Glir gjennom dagen."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder sammen."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Bærer de små."
+        }
+      ]
+    }
+  ]
+}

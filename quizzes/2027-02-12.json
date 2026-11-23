@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-12",
+  "date": "2027-02-12",
+  "title": "Hvilket dyr fra Galápagos er du i dag?",
+  "intro": "Den 12. februar 1809 ble Charles Darwin født. På Galápagosøyene fikk han mange av ideene sine. Svar på sju spørsmål og finn ut hvilket dyr fra Galápagos du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags strandhåndkle har du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort og stripete",
+          "scores": {
+            "flamingo": 2,
+            "sjolove": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et lite som tørker fort",
+          "scores": {
+            "pingvin": 2,
+            "darwinfinke": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et gammelt og mykt",
+          "scores": {
+            "kjempeskilpadde": 1,
+            "landleguan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen, jeg ligger rett på sanda",
+          "scores": {
+            "havleguan": 2,
+            "landleguan": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et knallsterkt i rødt",
+          "scores": {
+            "fregattfugl": 2,
+            "krabbe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et med morsomme figurer",
+          "scores": {
+            "blafotsule": 2,
+            "darwinfinke": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags vannflaske har du med deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor som holder hele dagen",
+          "scores": {
+            "kjempeskilpadde": 2,
+            "pingvin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En fargerik med klistremerker",
+          "scores": {
+            "blafotsule": 2,
+            "krabbe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En jeg har hatt i mange år",
+          "scores": {
+            "kjempeskilpadde": 2,
+            "landleguan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen, jeg drikker når jeg kommer fram",
+          "scores": {
+            "havleguan": 1,
+            "fregattfugl": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stilig og blank",
+          "scores": {
+            "flamingo": 2,
+            "fregattfugl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg deler med den jeg er sammen med",
+          "scores": {
+            "sjolove": 2,
+            "darwinfinke": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best å se på når du er ved sjøen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bølgene som slår mot land",
+          "scores": {
+            "havleguan": 2,
+            "krabbe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fugler som stuper i vannet",
+          "scores": {
+            "blafotsule": 2,
+            "fregattfugl": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Solnedgangen",
+          "scores": {
+            "flamingo": 2,
+            "landleguan": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Små dyr mellom steinene",
+          "scores": {
+            "darwinfinke": 2,
+            "krabbe": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Folk som bader og leker",
+          "scores": {
+            "sjolove": 1,
+            "pingvin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Horisonten langt der ute",
+          "scores": {
+            "kjempeskilpadde": 1,
+            "fregattfugl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket smykke eller tilbehør bruker du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store, fargerike øredobber",
+          "scores": {
+            "fregattfugl": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En klokke jeg har hatt lenge",
+          "scores": {
+            "kjempeskilpadde": 1,
+            "pingvin": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et armbånd jeg har laget selv",
+          "scores": {
+            "darwinfinke": 2,
+            "blafotsule": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Solbriller",
+          "scores": {
+            "landleguan": 2,
+            "sjolove": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et kjede med en stein fra stranden",
+          "scores": {
+            "havleguan": 1,
+            "pingvin": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Morsomme, fargerike sko",
+          "scores": {
+            "krabbe": 2,
+            "blafotsule": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Det er sol og varmt, men du må være inne. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter meg ved vinduet i sola",
+          "scores": {
+            "landleguan": 2,
+            "kjempeskilpadde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar alle pausene ute",
+          "scores": {
+            "sjolove": 2,
+            "krabbe": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør meg fort ferdig",
+          "scores": {
+            "krabbe": 2,
+            "pingvin": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner en måte å være ute på likevel",
+          "scores": {
+            "darwinfinke": 1,
+            "havleguan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier til alle at vi må ut",
+          "scores": {
+            "fregattfugl": 1,
+            "blafotsule": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager god stemning inne i stedet",
+          "scores": {
+            "flamingo": 2,
+            "sjolove": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du finner ikke det du leter etter i butikken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør en ansatt med en gang",
+          "scores": {
+            "sjolove": 2,
+            "flamingo": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leter rolig hylle for hylle",
+          "scores": {
+            "kjempeskilpadde": 2,
+            "landleguan": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner noe annet som funker like bra",
+          "scores": {
+            "darwinfinke": 1,
+            "pingvin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Løper rundt til jeg finner det",
+          "scores": {
+            "krabbe": 2,
+            "pingvin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prøver en helt annen butikk",
+          "scores": {
+            "havleguan": 2,
+            "fregattfugl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør høyt om noen har sett det",
+          "scores": {
+            "fregattfugl": 2,
+            "blafotsule": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du kommer til Galápagosøyene. Hva vil du gjøre først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snorkle i det klare vannet",
+          "scores": {
+            "havleguan": 1,
+            "pingvin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gå tur i lavalandskapet",
+          "scores": {
+            "landleguan": 2,
+            "kjempeskilpadde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Se etter sjeldne fugler",
+          "scores": {
+            "darwinfinke": 2,
+            "fregattfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ligge på stranden i sola",
+          "scores": {
+            "sjolove": 2,
+            "landleguan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Danse barbeint på stranden",
+          "scores": {
+            "blafotsule": 1,
+            "flamingo": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klatre på de svarte klippene",
+          "scores": {
+            "krabbe": 2,
+            "havleguan": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kjempeskilpadde",
+      "name": "Kjempeskilpadden",
+      "shareName": "kjempeskilpadden",
+      "emoji": null,
+      "description": "Du er rolig, klok og tar deg god tid. Du vet at de beste tingene ikke haster.",
+      "funFact": "Galápagos-kjempeskilpadder kan bli over 100 år gamle.",
+      "image": "images/2027-02-12/kjempeskilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Ingenting haster."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "blafotsule",
+      "name": "Blåfotsula",
+      "shareName": "blåfotsula",
+      "emoji": null,
+      "description": "Du er leken, morsom og ikke redd for å vise deg fram. Du får alle rundt deg til å smile.",
+      "funFact": "Blåfotsulehannen viser fram de blå føttene sine når han danser for hunnen.",
+      "image": "images/2027-02-12/blafotsule.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Full av moro."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får andre til å le."
+        },
+        {
+          "title": "Dansende",
+          "text": "Elsker å bevege seg."
+        },
+        {
+          "title": "Modig",
+          "text": "Viser seg fram."
+        }
+      ]
+    },
+    {
+      "id": "havleguan",
+      "name": "Havleguanen",
+      "shareName": "havleguanen",
+      "emoji": null,
+      "description": "Du er modig og gjør ting på din egen måte. Du kaster deg gjerne ut i noe nytt.",
+      "funFact": "Havleguanen er den eneste øglen i verden som søker føde i havet.",
+      "image": "images/2027-02-12/havleguan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Unik",
+          "text": "Helt din egen stil."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Hopper rett uti."
+        },
+        {
+          "title": "Solglad",
+          "text": "Elsker varme steiner."
+        }
+      ]
+    },
+    {
+      "id": "sjolove",
+      "name": "Galápagossjøløven",
+      "shareName": "galápagossjøløven",
+      "emoji": null,
+      "description": "Du er sosial, avslappet og trives best sammen med andre. Du klarer å slappe av hvor som helst.",
+      "funFact": "Galápagossjøløven er den minste av alle sjøløvene.",
+      "image": "images/2027-02-12/sjolove.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Slapper av overalt."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker å boltre seg."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        }
+      ]
+    },
+    {
+      "id": "darwinfinke",
+      "name": "Darwinfinken",
+      "shareName": "darwinfinken",
+      "emoji": null,
+      "description": "Du er nysgjerrig, smart og finner alltid en løsning. Du tilpasser deg lett nye situasjoner.",
+      "funFact": "Darwinfinkene har ulike nebbformer som passer til maten de spiser.",
+      "image": "images/2027-02-12/darwinfinke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite alt."
+        },
+        {
+          "title": "Smart",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Trives overalt."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Mange gode ideer."
+        }
+      ]
+    },
+    {
+      "id": "pingvin",
+      "name": "Galápagospingvinen",
+      "shareName": "galápagospingvinen",
+      "emoji": null,
+      "description": "Du er liten, men tøff, og dukker opp der ingen venter det. Du er trofast mot dem du er glad i.",
+      "funFact": "Galápagospingvinen lever nærmest ekvator av alle pingviner.",
+      "image": "images/2027-02-12/pingvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Liten, men sterk."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Dukker opp uventet."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder på vennene."
+        },
+        {
+          "title": "Rask",
+          "text": "Lynrask i vannet."
+        }
+      ]
+    },
+    {
+      "id": "fregattfugl",
+      "name": "Fregattfuglen",
+      "shareName": "fregattfuglen",
+      "emoji": null,
+      "description": "Du er selvsikker, fargerik og liker å bli lagt merke til. Du elsker frihet og store høyder.",
+      "funFact": "Fregattfuglhannen blåser opp en stor, rød strupesekk for å imponere hunnene.",
+      "image": "images/2027-02-12/fregattfugl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Synes godt."
+        },
+        {
+          "title": "Fri",
+          "text": "Elsker store høyder."
+        },
+        {
+          "title": "Imponerende",
+          "text": "Stor og stolt."
+        }
+      ]
+    },
+    {
+      "id": "landleguan",
+      "name": "Landleguanen",
+      "shareName": "landleguanen",
+      "emoji": null,
+      "description": "Du er solglad, rolig og tøff på utsiden. Inni er du varm og snill.",
+      "funFact": "Landleguanen på Galápagos spiser blant annet kaktusblader og kaktusblomster.",
+      "image": "images/2027-02-12/landleguan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solglad",
+          "text": "Elsker varme dager."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk inni."
+        }
+      ]
+    },
+    {
+      "id": "krabbe",
+      "name": "Den røde klippekrabben",
+      "shareName": "den røde klippekrabben",
+      "emoji": null,
+      "description": "Du er rask, kvikk og full av farger. Du er alltid på farten.",
+      "funFact": "Den røde klippekrabben er mørk som ung og får de sterke fargene når den blir voksen.",
+      "image": "images/2027-02-12/krabbe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Reagerer lynraskt."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Energisk",
+          "text": "Står aldri stille."
+        }
+      ]
+    },
+    {
+      "id": "flamingo",
+      "name": "Flamingoen",
+      "shareName": "flamingoen",
+      "emoji": null,
+      "description": "Du er elegant, stilig og har god balanse i livet. Du skinner aller mest sammen med vennene dine.",
+      "funFact": "Flamingoer får den rosa fargen fra maten de spiser.",
+      "image": "images/2027-02-12/flamingo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stil i alt."
+        },
+        {
+          "title": "Balansert",
+          "text": "God balanse."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker flokken."
+        },
+        {
+          "title": "Stilig",
+          "text": "Rosa og flott."
+        }
+      ]
+    }
+  ]
+}

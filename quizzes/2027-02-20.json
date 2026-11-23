@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-20",
+  "date": "2027-02-20",
+  "title": "Hvilken hytteting er du i dag?",
+  "intro": "For mange starter vinterferien denne helgen, og mange drar på hytta. Er du hytteboka, ulltøflene eller en gammel radio? Svar på sju spørsmål og finn ut hvilken hytteting du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilke dyrespor vil du helst finne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elgspor",
+          "scores": {
+            "utedo": 2,
+            "vedkurv": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Revespor",
+          "scores": {
+            "puslespill": 2,
+            "hyttebok": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Harespor",
+          "scores": {
+            "ulltofler": 1,
+            "vaffeljern": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ekornspor",
+          "scores": {
+            "radio": 2,
+            "vaffeljern": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rådyrspor",
+          "scores": {
+            "parafinlampe": 2,
+            "ullpledd": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Små fuglespor",
+          "scores": {
+            "kikkert": 2,
+            "puslespill": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvor ofte sjekker du værmeldingen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hver morgen",
+          "scores": {
+            "vedkurv": 2,
+            "puslespill": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Flere ganger om dagen",
+          "scores": {
+            "kikkert": 2,
+            "vedkurv": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Aldri, jeg ser ut av vinduet",
+          "scores": {
+            "utedo": 2,
+            "ullpledd": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bare før jeg skal på tur",
+          "scores": {
+            "kikkert": 2,
+            "hyttebok": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Når noen andre nevner det",
+          "scores": {
+            "ulltofler": 2,
+            "vaffeljern": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Når den kommer etter nyhetene",
+          "scores": {
+            "radio": 2,
+            "parafinlampe": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva ser du helst på når du bare slapper av?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flammene i et bål",
+          "scores": {
+            "parafinlampe": 2,
+            "vaffeljern": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skyer som driver forbi",
+          "scores": {
+            "ullpledd": 2,
+            "ulltofler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Folk som går forbi",
+          "scores": {
+            "radio": 2,
+            "hyttebok": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fugler på fuglebrettet",
+          "scores": {
+            "kikkert": 1,
+            "puslespill": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Regn på vinduet",
+          "scores": {
+            "ulltofler": 1,
+            "parafinlampe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Utsikten fra en fjelltopp",
+          "scores": {
+            "kikkert": 2,
+            "utedo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du med reklame i postkassen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser alt nøye",
+          "scores": {
+            "puslespill": 2,
+            "hyttebok": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kaster den rett i papiret",
+          "scores": {
+            "utedo": 1,
+            "vedkurv": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bruker den til å tenne opp i ovnen",
+          "scores": {
+            "vedkurv": 1,
+            "parafinlampe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser bare på bildene",
+          "scores": {
+            "ulltofler": 2,
+            "kikkert": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Klipper ut gode tilbud",
+          "scores": {
+            "vaffeljern": 2,
+            "puslespill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har en lapp om at jeg ikke vil ha det",
+          "scores": {
+            "radio": 1,
+            "ullpledd": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du er hos frisøren. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prater hele tiden",
+          "scores": {
+            "radio": 2,
+            "vaffeljern": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lukker øynene og slapper av",
+          "scores": {
+            "ullpledd": 2,
+            "ulltofler": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Følger nøye med i speilet",
+          "scores": {
+            "puslespill": 2,
+            "parafinlampe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på mobilen",
+          "scores": {
+            "utedo": 1,
+            "radio": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bestemmer meg der og da",
+          "scores": {
+            "kikkert": 1,
+            "utedo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har med bilde av hvordan jeg vil ha det",
+          "scores": {
+            "vedkurv": 2,
+            "hyttebok": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan finner du fram til et nytt sted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Følger kartet på mobilen",
+          "scores": {
+            "vedkurv": 2,
+            "radio": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør noen på veien",
+          "scores": {
+            "vaffeljern": 2,
+            "ullpledd": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går etter følelsen",
+          "scores": {
+            "utedo": 1,
+            "kikkert": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Har sett på kartet på forhånd",
+          "scores": {
+            "puslespill": 2,
+            "hyttebok": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Følger etter noen som vet veien",
+          "scores": {
+            "ulltofler": 2,
+            "parafinlampe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser etter kjente landemerker",
+          "scores": {
+            "hyttebok": 2,
+            "kikkert": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan merker andre at du er trøtt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg blir veldig stille",
+          "scores": {
+            "parafinlampe": 2,
+            "puslespill": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg begynner å tulle og le",
+          "scores": {
+            "vaffeljern": 2,
+            "utedo": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg gjesper hele tiden",
+          "scores": {
+            "ulltofler": 2,
+            "radio": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg finner meg en god krok",
+          "scores": {
+            "ullpledd": 2,
+            "hyttebok": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg sier det rett ut",
+          "scores": {
+            "utedo": 1,
+            "vedkurv": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen merker det, jeg holder ut",
+          "scores": {
+            "vedkurv": 2,
+            "ullpledd": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "hyttebok",
+      "name": "Hytteboka",
+      "shareName": "hytteboka",
+      "emoji": null,
+      "description": "Du er minnerik, nysgjerrig og tar vare på historiene. Hos deg blir gode øyeblikk husket.",
+      "funFact": "På mange turisthytter skriver gjestene seg inn i en egen hyttebok eller protokoll.",
+      "image": "images/2027-02-20/hyttebok.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Minnerik",
+          "text": "Husker alt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite mer."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Mange historier."
+        },
+        {
+          "title": "Trofast",
+          "text": "Tar vare på ting."
+        }
+      ]
+    },
+    {
+      "id": "utedo",
+      "name": "Utedoen",
+      "shareName": "utedoen",
+      "emoji": null,
+      "description": "Du er jordnær, tøff og trenger ingen luksus. Du minner folk på at det enkle ofte er best.",
+      "funFact": "Mange utedoer har et lite hjerte skåret ut i døra.",
+      "image": "images/2027-02-20/utedo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler litt kulde."
+        },
+        {
+          "title": "Humoristisk",
+          "text": "Ler av mye."
+        },
+        {
+          "title": "Nøysom",
+          "text": "Trenger lite."
+        }
+      ]
+    },
+    {
+      "id": "ulltofler",
+      "name": "Ulltøflene",
+      "shareName": "ulltøflene",
+      "emoji": null,
+      "description": "Du er lun, myk og får alle til å slappe av. Med deg føles hytta som hjemme.",
+      "funFact": "Ull kan holde på varmen selv om den blir litt fuktig.",
+      "image": "images/2027-02-20/ulltofler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Varm om føttene."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Senker tempoet."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives inne."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill mot alle."
+        }
+      ]
+    },
+    {
+      "id": "ullpledd",
+      "name": "Ullpleddet",
+      "shareName": "ullpleddet",
+      "emoji": null,
+      "description": "Du er varm, omsorgsfull og alltid klar til en kosestund. Folk kryper gjerne inntil deg.",
+      "funFact": "Ull er et fornybart materiale, fordi sauene får ny ull etter klipping.",
+      "image": "images/2027-02-20/ullpledd.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker kosestunder."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å ha."
+        }
+      ]
+    },
+    {
+      "id": "parafinlampe",
+      "name": "Parafinlampen",
+      "shareName": "parafinlampen",
+      "emoji": null,
+      "description": "Du er rolig, varm og gir et mykt lys i mørket. Du skaper stemning der du er.",
+      "funFact": "Parafinlamper var vanlige i Norge før elektrisk lys kom til alle hjem.",
+      "image": "images/2027-02-20/parafinlampe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Mykt lys."
+        },
+        {
+          "title": "Stemningsfull",
+          "text": "Skaper ro."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Glad i gamle dager."
+        },
+        {
+          "title": "Varm",
+          "text": "Lun glød."
+        }
+      ]
+    },
+    {
+      "id": "vedkurv",
+      "name": "Vedkurven",
+      "shareName": "vedkurven",
+      "emoji": null,
+      "description": "Du er forberedt, stødig og sørger for at alle har det de trenger. Du tenker alltid litt fram i tid.",
+      "funFact": "Bjørkeved er populær i Norge fordi den brenner godt og gir mye varme.",
+      "image": "images/2027-02-20/vedkurv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forberedt",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser ting."
+        },
+        {
+          "title": "Framsynt",
+          "text": "Tenker fremover."
+        }
+      ]
+    },
+    {
+      "id": "radio",
+      "name": "Den gamle radioen",
+      "shareName": "den gamle radioen",
+      "emoji": null,
+      "description": "Du er nostalgisk, trofast og elsker gode historier. Du skaper lyd og liv i hytta.",
+      "funFact": "Norge var det første landet i verden som begynte å slukke FM-nettet for de store radiokanalene.",
+      "image": "images/2027-02-20/radio.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Alltid noe å si."
+        },
+        {
+          "title": "Trofast",
+          "text": "Har vært med lenge."
+        },
+        {
+          "title": "Underholdende",
+          "text": "Gir liv."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Gamle gode dager."
+        }
+      ]
+    },
+    {
+      "id": "puslespill",
+      "name": "Puslespillet",
+      "shareName": "puslespillet",
+      "emoji": null,
+      "description": "Du er tålmodig, nøyaktig og elsker et godt prosjekt. Du får folk til å samarbeide.",
+      "funFact": "De første puslespillene ble laget på 1700-tallet som kart for å lære barn geografi.",
+      "image": "images/2027-02-20/puslespill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Bit for bit."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Øye for detaljer."
+        },
+        {
+          "title": "Samarbeidende",
+          "text": "Best sammen."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir ikke opp."
+        }
+      ]
+    },
+    {
+      "id": "kikkert",
+      "name": "Kikkerten",
+      "shareName": "kikkerten",
+      "emoji": null,
+      "description": "Du er nysgjerrig, observant og ser ting andre går glipp av. Du elsker utsikten og naturen.",
+      "funFact": "Med kikkert kan du se dyr og fugler på lang avstand uten å forstyrre dem.",
+      "image": "images/2027-02-20/kikkert.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Observant",
+          "text": "Ser alt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil utforske."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Ut i naturen."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Skarpt blikk."
+        }
+      ]
+    },
+    {
+      "id": "vaffeljern",
+      "name": "Vaffeljernet",
+      "shareName": "vaffeljernet",
+      "emoji": null,
+      "description": "Du er sosial, varm og får alle til å komme løpende. Du sprer god lukt og godt humør.",
+      "funFact": "Norske vafler er som regel formet som hjerter.",
+      "image": "images/2027-02-20/vaffeljern.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Varm",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Deler ut godt."
+        },
+        {
+          "title": "Munter",
+          "text": "Godt humør."
+        }
+      ]
+    }
+  ]
+}

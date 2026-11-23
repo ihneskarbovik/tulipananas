@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-04",
+  "date": "2027-02-04",
+  "title": "Hvilken boksjanger er du i dag?",
+  "intro": "Mørke februarkvelder passer perfekt til en god bok. Er du en spennende krim, en magisk fantasybok eller en lun kokebok? Svar på sju spørsmål og finn ut hvilken boksjanger du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken slutt liker du best på en historie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En lykkelig slutt",
+          "scores": {
+            "romantikk": 2,
+            "eventyr": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor overraskelse",
+          "scores": {
+            "krim": 2,
+            "grosser": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En åpen slutt jeg kan tenke på",
+          "scores": {
+            "scifi": 2,
+            "fantasy": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En morsom slutt",
+          "scores": {
+            "humor": 1,
+            "eventyr": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En slutt som er helt sann",
+          "scores": {
+            "biografi": 2,
+            "faktabok": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En slutt der alle samles rundt bordet",
+          "scores": {
+            "kokebok": 1,
+            "romantikk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva liker du best å gjøre i en hengekøye?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sove en lang lur",
+          "scores": {
+            "eventyr": 2,
+            "romantikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gynge så høyt jeg tør",
+          "scores": {
+            "grosser": 2,
+            "humor": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Se på skyene og dagdrømme",
+          "scores": {
+            "fantasy": 2,
+            "scifi": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prate med noen ved siden av",
+          "scores": {
+            "biografi": 2,
+            "humor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spise noe godt",
+          "scores": {
+            "kokebok": 2,
+            "romantikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lese noe jeg kan lære av",
+          "scores": {
+            "faktabok": 2,
+            "krim": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags gardiner liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tunge og mørke",
+          "scores": {
+            "grosser": 2,
+            "krim": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lette og hvite",
+          "scores": {
+            "romantikk": 2,
+            "biografi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fargerike og glade",
+          "scores": {
+            "fantasy": 1,
+            "humor": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Persienner som kan stilles",
+          "scores": {
+            "scifi": 2,
+            "faktabok": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rutete, som på landet",
+          "scores": {
+            "kokebok": 2,
+            "eventyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen gardiner i det hele tatt",
+          "scores": {
+            "biografi": 2,
+            "scifi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva vil du ha i kurven på sykkelen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blomster",
+          "scores": {
+            "romantikk": 2,
+            "eventyr": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En piknik med mye godt",
+          "scores": {
+            "kokebok": 1,
+            "eventyr": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et kart og en kikkert",
+          "scores": {
+            "krim": 1,
+            "faktabok": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En høyttaler med musikk",
+          "scores": {
+            "scifi": 2,
+            "humor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En liten hund",
+          "scores": {
+            "biografi": 2,
+            "humor": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En lommelykt til kvelden",
+          "scores": {
+            "grosser": 1,
+            "fantasy": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du skal lage en skattejakt for noen. Hvordan blir den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Med vanskelige gåter",
+          "scores": {
+            "krim": 1,
+            "faktabok": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med et tegnet skattekart",
+          "scores": {
+            "fantasy": 1,
+            "eventyr": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en skummel post i mørket",
+          "scores": {
+            "grosser": 1,
+            "fantasy": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med morsomme oppdrag",
+          "scores": {
+            "humor": 2,
+            "grosser": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med noe godt å spise til slutt",
+          "scores": {
+            "kokebok": 2,
+            "romantikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med teknologi og koder",
+          "scores": {
+            "scifi": 2,
+            "krim": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal hente noen på flyplassen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager et stort velkomstskilt",
+          "scores": {
+            "humor": 2,
+            "romantikk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar med blomster",
+          "scores": {
+            "romantikk": 1,
+            "biografi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sjekker flytidene mange ganger",
+          "scores": {
+            "faktabok": 2,
+            "scifi": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjetter hvem som er hvem i mengden",
+          "scores": {
+            "krim": 2,
+            "biografi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Har med noe godt å spise",
+          "scores": {
+            "kokebok": 2,
+            "eventyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer i siste liten",
+          "scores": {
+            "fantasy": 2,
+            "grosser": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Noen på turen blir slitne. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forteller en spennende historie",
+          "scores": {
+            "fantasy": 1,
+            "grosser": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner fram matpakka",
+          "scores": {
+            "eventyr": 2,
+            "kokebok": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tøyser så alle ler",
+          "scores": {
+            "humor": 2,
+            "fantasy": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hvordan de har det",
+          "scores": {
+            "biografi": 1,
+            "kokebok": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller hvor langt det er igjen",
+          "scores": {
+            "faktabok": 2,
+            "scifi": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en konkurranse",
+          "scores": {
+            "krim": 2,
+            "grosser": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "krim",
+      "name": "Krim",
+      "shareName": "en krimbok",
+      "emoji": null,
+      "description": "Du er skarp, nysgjerrig og legger merke til alt. Du gir deg ikke før gåten er løst.",
+      "funFact": "Påskekrim er en egen norsk tradisjon, med krimbøker og krimserier i påsken.",
+      "image": "images/2027-02-04/krim.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Ser alle spor."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Må vite svaret."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Spennende",
+          "text": "Holder folk fast."
+        }
+      ]
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "shareName": "en fantasybok",
+      "emoji": null,
+      "description": "Du er fantasifull, modig og drømmer om store eventyr. Du ser magi der andre ser hverdag.",
+      "funFact": "Mange fantasybøker har et kart over den oppdiktede verdenen foran i boka.",
+      "image": "images/2027-02-04/fantasy.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fantasifull",
+          "text": "Hele verdener i hodet."
+        },
+        {
+          "title": "Modig",
+          "text": "Klar for eventyr."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser magi overalt."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står sammen med vennene."
+        }
+      ]
+    },
+    {
+      "id": "scifi",
+      "name": "Science fiction",
+      "shareName": "en science fiction-bok",
+      "emoji": null,
+      "description": "Du er framtidsrettet, smart og elsker store ideer. Du tenker allerede på hva som kommer.",
+      "funFact": "Mary Shelleys «Frankenstein» fra 1818 regnes ofte som en av de første science fiction-romanene.",
+      "image": "images/2027-02-04/scifi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Framtidsrettet",
+          "text": "Tenker langt fram."
+        },
+        {
+          "title": "Smart",
+          "text": "Store ideer."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør hva om."
+        },
+        {
+          "title": "Teknisk",
+          "text": "Elsker nye ting."
+        }
+      ]
+    },
+    {
+      "id": "romantikk",
+      "name": "Kjærlighetsroman",
+      "shareName": "en kjærlighetsroman",
+      "emoji": null,
+      "description": "Du er varm, romantisk og har et stort hjerte. Du tror på lykkelige slutter.",
+      "funFact": "Jane Austens «Stolthet og fordom» kom ut i 1813 og leses fortsatt av mange.",
+      "image": "images/2027-02-04/romantikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Varm",
+          "text": "Bryr deg om andre."
+        },
+        {
+          "title": "Håpefull",
+          "text": "Tror på det gode."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        }
+      ]
+    },
+    {
+      "id": "eventyr",
+      "name": "Eventyrbok",
+      "shareName": "en eventyrbok",
+      "emoji": null,
+      "description": "Du er leken, klok og glad i gamle fortellinger. Hos deg vinner den snille til slutt.",
+      "funFact": "Asbjørnsen og Moe samlet norske folkeeventyr på 1800-tallet.",
+      "image": "images/2027-02-04/eventyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Full av fantasi."
+        },
+        {
+          "title": "Klok",
+          "text": "Lærer av historier."
+        },
+        {
+          "title": "Snill",
+          "text": "Den gode vinner."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Gamle fortellinger."
+        }
+      ]
+    },
+    {
+      "id": "biografi",
+      "name": "Biografi",
+      "shareName": "en biografi",
+      "emoji": null,
+      "description": "Du er interessert i mennesker og lytter godt. Du vet at alle har en historie verdt å høre.",
+      "funFact": "En selvbiografi er en biografi som personen skriver om sitt eget liv.",
+      "image": "images/2027-02-04/biografi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lyttende",
+          "text": "Hører på andre."
+        },
+        {
+          "title": "Interessert",
+          "text": "Bryr deg om folk."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Forteller det som det er."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Lærer av andre."
+        }
+      ]
+    },
+    {
+      "id": "grosser",
+      "name": "Grøsser",
+      "shareName": "en grøsser",
+      "emoji": null,
+      "description": "Du er modig, spennende og elsker litt kribling i magen. Du tør det andre ikke tør.",
+      "funFact": "Bram Stokers grøsser «Dracula» kom ut i 1897.",
+      "image": "images/2027-02-04/grosser.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Spennende",
+          "text": "Litt kribling."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Gode hemmeligheter."
+        },
+        {
+          "title": "Uredd",
+          "text": "Ser i mørket."
+        }
+      ]
+    },
+    {
+      "id": "humor",
+      "name": "Humorbok",
+      "shareName": "en humorbok",
+      "emoji": null,
+      "description": "Du er morsom, leken og får alle til å le. Med deg blir selv en grå dag lysere.",
+      "funFact": "Folk ler mye oftere sammen med andre enn når de er alene.",
+      "image": "images/2027-02-04/humor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Alle ler."
+        },
+        {
+          "title": "Leken",
+          "text": "Tøyser gjerne."
+        },
+        {
+          "title": "Lun",
+          "text": "God stemning."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser det lyse."
+        }
+      ]
+    },
+    {
+      "id": "kokebok",
+      "name": "Kokebok",
+      "shareName": "en kokebok",
+      "emoji": null,
+      "description": "Du er omsorgsfull, praktisk og glad i å dele. Du vet at god mat samler folk.",
+      "funFact": "Kokebøker med oppskrifter har eksistert i flere hundre år.",
+      "image": "images/2027-02-04/kokebok.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Lager mat til andre."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Steg for steg."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Sanselig",
+          "text": "Elsker smak og lukt."
+        }
+      ]
+    },
+    {
+      "id": "faktabok",
+      "name": "Faktabok",
+      "shareName": "en faktabok",
+      "emoji": null,
+      "description": "Du er kunnskapsrik, grundig og vil vite hvordan ting egentlig er. Du har alltid noe spennende å fortelle.",
+      "funFact": "Faktabøker hører til sakprosa, tekster som handler om virkeligheten.",
+      "image": "images/2027-02-04/faktabok.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kunnskapsrik",
+          "text": "Vet mye."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker fakta."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Lærer hele tiden."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Alt i system."
+        }
+      ]
+    }
+  ]
+}

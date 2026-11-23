@@ -6,11 +6,11 @@
   "questions": [
     {
       "id": "q1",
-      "text": "Hvor er du som regel på en fest?",
+      "text": "Hvordan spiser du en bolle med krem?",
       "options": [
         {
           "id": "a",
-          "text": "Midt på dansegulvet",
+          "text": "Biter rett i, krem på nesa er bare gøy",
           "scores": {
             "fastelavnsbolle": 2,
             "berlinerbolle": 1
@@ -18,7 +18,7 @@
         },
         {
           "id": "b",
-          "text": "På kjøkkenet og prater med noen få",
+          "text": "Tar av lokket og bruker det som skje",
           "scores": {
             "kanelbolle": 2,
             "kardemommebolle": 1
@@ -26,7 +26,7 @@
         },
         {
           "id": "c",
-          "text": "Ved bordet med snacks og godterier",
+          "text": "Sakte, i sofaen, med noe varmt å drikke",
           "scores": {
             "sjokoladebolle": 2,
             "kjottbolle": 1
@@ -34,7 +34,7 @@
         },
         {
           "id": "d",
-          "text": "Jeg går rundt og hilser på alle",
+          "text": "Pent, med kniv og gaffel",
           "scores": {
             "skillingsbolle": 2,
             "semla": 1
@@ -42,7 +42,7 @@
         },
         {
           "id": "e",
-          "text": "I sofaen med en god venn",
+          "text": "Jeg tar heller en uten krem",
           "scores": {
             "hvetebolle": 2,
             "rosinbolle": 1
@@ -50,7 +50,7 @@
         },
         {
           "id": "f",
-          "text": "Jeg er den som setter i gang leker",
+          "text": "Deler den med noen",
           "scores": {
             "skolebolle": 2,
             "fiskebolle": 1
@@ -220,18 +220,18 @@
     },
     {
       "id": "q5",
-      "text": "Telefonen ringer fra et nummer du ikke kjenner. Hva gjør du?",
+      "text": "Du skal til tannlegen. Hvordan er du?",
       "options": [
         {
           "id": "a",
-          "text": "Svarer med en gang, det kan være noe spennende",
+          "text": "Prater i vei, selv med munnen full av utstyr",
           "scores": {
             "berlinerbolle": 2
           }
         },
         {
           "id": "b",
-          "text": "Lar det ringe og søker opp nummeret etterpå",
+          "text": "Har pusset ekstra grundig i en uke",
           "scores": {
             "semla": 2,
             "kardemommebolle": 1
@@ -239,7 +239,7 @@
         },
         {
           "id": "c",
-          "text": "Svarer høflig og rolig",
+          "text": "Helt rolig, det er bare en vanlig sjekk",
           "scores": {
             "hvetebolle": 2,
             "kardemommebolle": 1
@@ -247,7 +247,7 @@
         },
         {
           "id": "d",
-          "text": "Lar noen andre i familien ta den",
+          "text": "Gruer meg litt, men belønner meg etterpå",
           "scores": {
             "sjokoladebolle": 2,
             "kjottbolle": 1
@@ -255,7 +255,7 @@
         },
         {
           "id": "e",
-          "text": "Venter og ser om de legger igjen en beskjed",
+          "text": "Spør om alle de rare instrumentene",
           "scores": {
             "rosinbolle": 2,
             "hvetebolle": 1
@@ -263,7 +263,7 @@
         },
         {
           "id": "f",
-          "text": "Svarer med et ekstra blidt «hallo»",
+          "text": "Lager vitser for å roe nervene",
           "scores": {
             "fiskebolle": 2,
             "sjokoladebolle": 1

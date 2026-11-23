@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-11",
+  "date": "2027-02-11",
+  "title": "Hvilken sikkerhetsting er du i dag?",
+  "intro": "11.2 er 112-dagen, og 112 er felles europeisk nødnummer. Dagen er en fin påminnelse om å sjekke førstehjelpsskrinet og røykvarsleren. Svar på sju spørsmål og finn ut hvilken sikkerhetsting du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken jakke bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En varm dunjakke",
+          "scores": {
+            "redningsfolie": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En lett regnjakke",
+          "scores": {
+            "royvarsler": 2,
+            "lommelykt": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En treningsjakke i sterke farger",
+          "scores": {
+            "refleksvest": 1,
+            "brannslukker": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den med flest lommer",
+          "scores": {
+            "forstehjelpsskrin": 2,
+            "lommelykt": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En pen ullkåpe",
+          "scores": {
+            "varseltrekant": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som henger nærmest døra",
+          "scores": {
+            "plaster": 1,
+            "ispose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan kommer du deg helst til skolen eller jobben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg går",
+          "scores": {
+            "royvarsler": 2,
+            "lommelykt": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sykler",
+          "scores": {
+            "refleksvest": 2,
+            "brannslukker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med buss eller tog",
+          "scores": {
+            "ispose": 1,
+            "forstehjelpsskrin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg får skyss",
+          "scores": {
+            "bandasje": 2,
+            "plaster": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg løper",
+          "scores": {
+            "brannslukker": 2,
+            "varseltrekant": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med sparkesykkel",
+          "scores": {
+            "plaster": 1,
+            "refleksvest": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva får deg til å le mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dumme ordspill",
+          "scores": {
+            "plaster": 2,
+            "varseltrekant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Dyrevideoer",
+          "scores": {
+            "bandasje": 2,
+            "redningsfolie": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Når noe går litt galt",
+          "scores": {
+            "ispose": 1,
+            "refleksvest": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Venner som tuller",
+          "scores": {
+            "refleksvest": 2,
+            "plaster": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Morsomme filmer",
+          "scores": {
+            "redningsfolie": 2,
+            "forstehjelpsskrin": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Små ting andre ikke legger merke til",
+          "scores": {
+            "royvarsler": 2,
+            "lommelykt": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal passe noen yngre en ettermiddag. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg lager en plan for dagen",
+          "scores": {
+            "forstehjelpsskrin": 2,
+            "varseltrekant": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg leker med på alt",
+          "scores": {
+            "refleksvest": 2,
+            "plaster": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg passer ekstra godt på",
+          "scores": {
+            "royvarsler": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lar dem bestemme",
+          "scores": {
+            "ispose": 2,
+            "redningsfolie": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lager noe godt å spise",
+          "scores": {
+            "redningsfolie": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vi finner på noe spennende ute",
+          "scores": {
+            "lommelykt": 2,
+            "brannslukker": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan er du når noen rundt deg er stresset?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg holder meg helt rolig",
+          "scores": {
+            "ispose": 1,
+            "forstehjelpsskrin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg lager en plan",
+          "scores": {
+            "forstehjelpsskrin": 2,
+            "varseltrekant": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg får dem til å le",
+          "scores": {
+            "plaster": 2,
+            "refleksvest": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg tar over litt",
+          "scores": {
+            "brannslukker": 2,
+            "varseltrekant": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lytter",
+          "scores": {
+            "bandasje": 2,
+            "redningsfolie": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg merker det før de sier noe",
+          "scores": {
+            "royvarsler": 2,
+            "ispose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du hører en rar lyd hjemme om natta. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Står opp og sjekker",
+          "scores": {
+            "brannslukker": 2,
+            "lommelykt": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ligger stille og lytter",
+          "scores": {
+            "royvarsler": 2,
+            "ispose": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vekker noen andre",
+          "scores": {
+            "varseltrekant": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drar dyna over hodet",
+          "scores": {
+            "redningsfolie": 2,
+            "plaster": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker at det bare er huset",
+          "scores": {
+            "ispose": 2,
+            "refleksvest": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar med mobilen og ser etter",
+          "scores": {
+            "forstehjelpsskrin": 2,
+            "lommelykt": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Noen slår seg litt i nærheten av deg. Hva gjør du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør om det gikk bra",
+          "scores": {
+            "plaster": 2,
+            "royvarsler": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hjelper dem opp",
+          "scores": {
+            "brannslukker": 2,
+            "bandasje": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henter noen som kan mer",
+          "scores": {
+            "varseltrekant": 2,
+            "forstehjelpsskrin": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Holder dem med selskap",
+          "scores": {
+            "redningsfolie": 2,
+            "royvarsler": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holder hodet kaldt",
+          "scores": {
+            "ispose": 2,
+            "brannslukker": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Får dem til å smile",
+          "scores": {
+            "refleksvest": 2,
+            "lommelykt": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "plaster",
+      "name": "Plaster",
+      "shareName": "et plaster",
+      "emoji": null,
+      "description": "Du er liten, men viktig, og alltid klar til å trøste. Du gjør vondt litt bedre på et øyeblikk.",
+      "funFact": "Et lite kutt bør skylles rent med vann før du setter på plaster.",
+      "image": "images/2027-02-11/plaster.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trøstende",
+          "text": "Gjør vondt bedre."
+        },
+        {
+          "title": "Rask",
+          "text": "Hjelper med en gang."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk og god."
+        },
+        {
+          "title": "Viktig",
+          "text": "Liten, men uunnværlig."
+        }
+      ]
+    },
+    {
+      "id": "bandasje",
+      "name": "Bandasje",
+      "shareName": "en bandasje",
+      "emoji": null,
+      "description": "Du er støttende, omsorgsfull og holder ting sammen. Folk føler seg trygge når du er der.",
+      "funFact": "En trykkbandasje kan brukes for å stoppe en blødning.",
+      "image": "images/2027-02-11/bandasje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Støttende",
+          "text": "Holder folk oppe."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Bryr deg mye."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden som trengs."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å lene seg på."
+        }
+      ]
+    },
+    {
+      "id": "ispose",
+      "name": "Ispose",
+      "shareName": "en ispose",
+      "emoji": null,
+      "description": "Du er kul, rolig og holder hodet kaldt når det trengs. Du får andre til å roe seg ned.",
+      "funFact": "Kulde kan dempe hevelse og smerte etter en forstuing.",
+      "image": "images/2027-02-11/ispose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen panikk."
+        },
+        {
+          "title": "Beroligende",
+          "text": "Senker tempoet."
+        },
+        {
+          "title": "Frisk",
+          "text": "Ny energi."
+        }
+      ]
+    },
+    {
+      "id": "redningsfolie",
+      "name": "Redningsfolie",
+      "shareName": "en redningsfolie",
+      "emoji": null,
+      "description": "Du er varm, beskyttende og tar liten plass. Du er der når noen trenger litt ekstra varme.",
+      "funFact": "Redningsfolie er tynn og lett, men hjelper kroppen å holde på varmen.",
+      "image": "images/2027-02-11/redningsfolie.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Gir varme til andre."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på."
+        },
+        {
+          "title": "Lett",
+          "text": "Tar lite plass."
+        },
+        {
+          "title": "Glitrende",
+          "text": "Lyser litt opp."
+        }
+      ]
+    },
+    {
+      "id": "forstehjelpsskrin",
+      "name": "Førstehjelpsskrin",
+      "shareName": "et førstehjelpsskrin",
+      "emoji": null,
+      "description": "Du er forberedt, ordentlig og har alltid det som trengs. Folk vet hvem de skal spørre.",
+      "funFact": "Det er lurt å sjekke førstehjelpsskrinet jevnlig, så ingenting er gått ut på dato.",
+      "image": "images/2027-02-11/forstehjelpsskrin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forberedt",
+          "text": "Har alltid noe klart."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Litt av alt."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Tar vare på andre."
+        }
+      ]
+    },
+    {
+      "id": "refleksvest",
+      "name": "Refleksvest",
+      "shareName": "en refleksvest",
+      "emoji": null,
+      "description": "Du er synlig, glad og lyser opp der du kommer. Ingen overser deg.",
+      "funFact": "Med refleks blir du sett mye tidligere av bilister i mørket.",
+      "image": "images/2027-02-11/refleksvest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Synlig",
+          "text": "Lett å få øye på."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer godt humør."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives blant folk."
+        },
+        {
+          "title": "Lys",
+          "text": "Lyser opp mørket."
+        }
+      ]
+    },
+    {
+      "id": "lommelykt",
+      "name": "Lommelykt",
+      "shareName": "en lommelykt",
+      "emoji": null,
+      "description": "Du er nysgjerrig, modig og viser vei når andre står fast. Du finner fram, selv i mørket.",
+      "funFact": "Det er lurt å ha en lommelykt lett tilgjengelig hjemme i tilfelle strømmen går.",
+      "image": "images/2027-02-11/lommelykt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se hva som finnes."
+        },
+        {
+          "title": "Modig",
+          "text": "Ikke redd for mørket."
+        },
+        {
+          "title": "Veiviser",
+          "text": "Viser andre vei."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner alltid en løsning."
+        }
+      ]
+    },
+    {
+      "id": "varseltrekant",
+      "name": "Varseltrekant",
+      "shareName": "en varseltrekant",
+      "emoji": null,
+      "description": "Du er tydelig, ansvarlig og sier fra i tide. Du passer på at alle får med seg det viktige.",
+      "funFact": "Alle biler i Norge skal ha med varseltrekant.",
+      "image": "images/2027-02-11/varseltrekant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tydelig",
+          "text": "Sier klart fra."
+        },
+        {
+          "title": "Ansvarlig",
+          "text": "Tar styring."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står der du står."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Regler gjelder alle."
+        }
+      ]
+    },
+    {
+      "id": "brannslukker",
+      "name": "Brannslukker",
+      "shareName": "en brannslukker",
+      "emoji": null,
+      "description": "Du er handlekraftig, modig og rask når det gjelder. Du slukker problemer før de vokser.",
+      "funFact": "Alle boliger i Norge skal ha slokkeutstyr, for eksempel brannslukker eller brannslange.",
+      "image": "images/2027-02-11/brannslukker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Handlekraftig",
+          "text": "Gjør noe med det."
+        },
+        {
+          "title": "Modig",
+          "text": "Går rett på."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler press."
+        },
+        {
+          "title": "Rask",
+          "text": "Ingen nøling."
+        }
+      ]
+    },
+    {
+      "id": "royvarsler",
+      "name": "Røykvarsler",
+      "shareName": "en røykvarsler",
+      "emoji": null,
+      "description": "Du er årvåken, oppmerksom og merker ting før andre. Du sier ifra når noe ikke stemmer.",
+      "funFact": "Røykvarslere har vært påbudt i norske boliger siden 1991, og bør testes jevnlig.",
+      "image": "images/2027-02-11/royvarsler.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Årvåken",
+          "text": "Alltid på vakt."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Merker alt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier ifra."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Der døgnet rundt."
+        }
+      ]
+    }
+  ]
+}

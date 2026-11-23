@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-19",
+  "date": "2027-02-19",
+  "title": "Hvilken tacoingrediens er du i dag?",
+  "intro": "Det er fredag, og i mange norske hjem betyr det taco. Er du sprø nachos, kremet rømme eller en sterk salsa? Svar på sju spørsmål og finn ut hvilken tacoingrediens du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Når spiser du helst middag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tidlig, rett etter skolen eller jobben",
+          "scores": {
+            "kjottdeig": 2,
+            "tortilla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klokka fem, som vanlig",
+          "scores": {
+            "ost": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sent, når alle er hjemme",
+          "scores": {
+            "romme": 1,
+            "guacamole": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Når jeg blir sulten",
+          "scores": {
+            "nachos": 2,
+            "salsa": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt forskjellig hver dag",
+          "scores": {
+            "paprika": 2,
+            "mais": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Når andre kan spise sammen med meg",
+          "scores": {
+            "tortilla": 1,
+            "nachos": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Når lader du mobilen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hver natt, som en fast rutine",
+          "scores": {
+            "kjottdeig": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Når den er nesten tom",
+          "scores": {
+            "salsa": 2,
+            "nachos": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hele tiden, den står nesten alltid i laderen",
+          "scores": {
+            "guacamole": 2,
+            "ost": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har alltid med en ekstra lader",
+          "scores": {
+            "agurk": 2,
+            "tortilla": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg glemmer det ofte",
+          "scores": {
+            "mais": 2,
+            "paprika": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Når noen minner meg på det",
+          "scores": {
+            "romme": 1,
+            "mais": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva spiser du helst som mellommåltid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En frukt",
+          "scores": {
+            "mais": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knekkebrød med pålegg",
+          "scores": {
+            "ost": 2,
+            "kjottdeig": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Yoghurt",
+          "scores": {
+            "romme": 2,
+            "guacamole": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Grønnsaker og dipp",
+          "scores": {
+            "paprika": 2,
+            "guacamole": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe sprøtt",
+          "scores": {
+            "nachos": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En skive brød",
+          "scores": {
+            "tortilla": 1,
+            "kjottdeig": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du ser noe morsomt på nettet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sender det til en venn med en gang",
+          "scores": {
+            "nachos": 2,
+            "tortilla": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler høyt alene",
+          "scores": {
+            "salsa": 2,
+            "mais": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Viser det til alle i rommet",
+          "scores": {
+            "ost": 2,
+            "nachos": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lagrer det til senere",
+          "scores": {
+            "agurk": 2,
+            "kjottdeig": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smiler og blar videre",
+          "scores": {
+            "romme": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager min egen versjon",
+          "scores": {
+            "paprika": 2,
+            "guacamole": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du husker ikke passordet ditt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver alle jeg kan komme på",
+          "scores": {
+            "salsa": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager et nytt med en gang",
+          "scores": {
+            "agurk": 2,
+            "kjottdeig": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Har alt skrevet ned et trygt sted",
+          "scores": {
+            "kjottdeig": 1,
+            "romme": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør noen hjemme",
+          "scores": {
+            "tortilla": 2,
+            "romme": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gir opp og gjør noe annet",
+          "scores": {
+            "nachos": 2,
+            "mais": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager et morsomt passord jeg husker",
+          "scores": {
+            "guacamole": 2,
+            "ost": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du dagen før en reise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Har alt klart for lenge siden",
+          "scores": {
+            "kjottdeig": 1,
+            "agurk": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ordner alt i siste liten",
+          "scores": {
+            "salsa": 2,
+            "nachos": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gleder meg som et barn",
+          "scores": {
+            "mais": 2,
+            "paprika": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjekker været mange ganger",
+          "scores": {
+            "guacamole": 2,
+            "paprika": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sørger for at alle andre er klare",
+          "scores": {
+            "tortilla": 2,
+            "romme": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "romme": 2,
+            "ost": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva gjør du på en ferjetur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rett til kafeteriaen",
+          "scores": {
+            "ost": 2,
+            "nachos": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Står ute på dekk",
+          "scores": {
+            "paprika": 2,
+            "salsa": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir sittende i bilen",
+          "scores": {
+            "kjottdeig": 2,
+            "agurk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser etter fugler og båter",
+          "scores": {
+            "mais": 2,
+            "guacamole": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner en rolig stol inne",
+          "scores": {
+            "romme": 2,
+            "agurk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Prater med folk",
+          "scores": {
+            "tortilla": 2,
+            "ost": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "tortilla",
+      "name": "Tortillalefse",
+      "shareName": "en tortillalefse",
+      "emoji": null,
+      "description": "Du er åpen, fleksibel og holder alt sammen. Uten deg faller festen fra hverandre.",
+      "funFact": "Tortilla er et spansk ord som betyr «liten kake».",
+      "image": "images/2027-02-19/tortilla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Samlende",
+          "text": "Holder alt sammen."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alt."
+        },
+        {
+          "title": "Viktig",
+          "text": "Uten deg, ingen taco."
+        }
+      ]
+    },
+    {
+      "id": "kjottdeig",
+      "name": "Kjøttdeig",
+      "shareName": "kjøttdeig",
+      "emoji": null,
+      "description": "Du er solid, trygg og selve kjernen i fredagskosen. Folk vet hva de får med deg.",
+      "funFact": "Tacokrydder inneholder ofte spisskummen, paprika og chili.",
+      "image": "images/2027-02-19/kjottdeig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Trygg",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Kjernen",
+          "text": "Midt i alt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Folk stoler på deg."
+        }
+      ]
+    },
+    {
+      "id": "mais",
+      "name": "Mais",
+      "shareName": "mais",
+      "emoji": null,
+      "description": "Du er solrik, glad og gir alt litt farge. Du er liten, men gjør stor forskjell.",
+      "funFact": "Mais ble dyrket i Mexico for flere tusen år siden.",
+      "image": "images/2027-02-19/mais.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Solrik",
+          "text": "Gult humør."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Liten",
+          "text": "Men betyr mye."
+        },
+        {
+          "title": "Søt",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "romme",
+      "name": "Rømme",
+      "shareName": "rømme",
+      "emoji": null,
+      "description": "Du er mild, rolig og kjøler ned når det blir hett. Du gjør alle rundt deg mer avslappet.",
+      "funFact": "Rømme lages av fløte som er syrnet med melkesyrebakterier.",
+      "image": "images/2027-02-19/romme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Snill og myk."
+        },
+        {
+          "title": "Rolig",
+          "text": "Kjøler ned."
+        },
+        {
+          "title": "Balansert",
+          "text": "Gir harmoni."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        }
+      ]
+    },
+    {
+      "id": "salsa",
+      "name": "Salsa",
+      "shareName": "salsa",
+      "emoji": null,
+      "description": "Du er sprudlende, modig og litt sterk. Du gir krydder til enhver fredag.",
+      "funFact": "Salsa betyr rett og slett «saus» på spansk.",
+      "image": "images/2027-02-19/salsa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør å være sterk."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av fart."
+        },
+        {
+          "title": "Spontan",
+          "text": "Ingen plan."
+        },
+        {
+          "title": "Krydret",
+          "text": "Gir smak."
+        }
+      ]
+    },
+    {
+      "id": "guacamole",
+      "name": "Guacamole",
+      "shareName": "guacamole",
+      "emoji": null,
+      "description": "Du er frisk, myk og litt trendy. Folk blir alltid glade når du dukker opp.",
+      "funFact": "Guacamole har røtter helt tilbake til aztekerne i Mexico.",
+      "image": "images/2027-02-19/guacamole.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Ny energi."
+        },
+        {
+          "title": "Trendy",
+          "text": "Følger med."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Egne ideer."
+        },
+        {
+          "title": "Myk",
+          "text": "God å være med."
+        }
+      ]
+    },
+    {
+      "id": "ost",
+      "name": "Revet ost",
+      "shareName": "revet ost",
+      "emoji": null,
+      "description": "Du er populær, varm og smelter hjerter. Det er vanskelig å si nei til deg.",
+      "funFact": "Det trengs omtrent ti liter melk for å lage ett kilo hvitost.",
+      "image": "images/2027-02-19/ost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Populær",
+          "text": "Alle vil ha mer."
+        },
+        {
+          "title": "Varm",
+          "text": "Smelter hjerter."
+        },
+        {
+          "title": "Sosial",
+          "text": "Passer med alle."
+        },
+        {
+          "title": "Raus",
+          "text": "Strør om deg."
+        }
+      ]
+    },
+    {
+      "id": "agurk",
+      "name": "Agurk",
+      "shareName": "agurk",
+      "emoji": null,
+      "description": "Du er frisk, kul og rolig. Du gir balanse når alt annet er sterkt.",
+      "funFact": "Agurk består av omtrent 95 prosent vann.",
+      "image": "images/2027-02-19/agurk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kul",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite stress."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Orden i sakene."
+        },
+        {
+          "title": "Frisk",
+          "text": "Ny luft."
+        }
+      ]
+    },
+    {
+      "id": "paprika",
+      "name": "Paprika",
+      "shareName": "paprika",
+      "emoji": null,
+      "description": "Du er fargerik, sprø og full av energi. Du lyser opp hele bordet.",
+      "funFact": "Grønn paprika er som regel paprika som er plukket før den er helt moden.",
+      "image": "images/2027-02-19/paprika.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av futt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil prøve alt."
+        },
+        {
+          "title": "Munter",
+          "text": "Godt humør."
+        }
+      ]
+    },
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "shareName": "nachos",
+      "emoji": null,
+      "description": "Du er sprø, sosial og elsker å dele. Med deg blir det alltid fest i bollen.",
+      "funFact": "Nachos skal ha blitt laget første gang i Mexico på 1940-tallet av en mann med kallenavnet Nacho.",
+      "image": "images/2027-02-19/nachos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker å dele."
+        },
+        {
+          "title": "Leken",
+          "text": "Moro hele tiden."
+        },
+        {
+          "title": "Spontan",
+          "text": "Klar på kort varsel."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle får være med."
+        }
+      ]
+    }
+  ]
+}

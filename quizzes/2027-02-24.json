@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-24",
+  "date": "2027-02-24",
+  "title": "Hvilken skiløper er du i dag?",
+  "intro": "Snart starter ski-VM i Falun, og i løypene er det folk av alle slag. Er du den raske, den koselige eller den med appelsin i lomma? Svar på sju spørsmål og finn ut hvilken skiløper du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket klistremerke ville du satt på drikkeflaska?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et fjell",
+          "scores": {
+            "toppturentusiasten": 2,
+            "sondagsturisten": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En sol",
+          "scores": {
+            "solveggsitteren": 2,
+            "appelsinpauseren": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En pote",
+          "scores": {
+            "hundeloperen": 2,
+            "pulkforelderen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et lyn",
+          "scores": {
+            "slalamkjoreren": 2,
+            "konkurranseloperen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et lite verktøy",
+          "scores": {
+            "smoreeksperten": 2,
+            "konkurranseloperen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et smilefjes",
+          "scores": {
+            "nybegynneren": 2,
+            "sondagsturisten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva tar du med når du er invitert på middag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hjemmebakt kake",
+          "scores": {
+            "pulkforelderen": 2,
+            "appelsinpauseren": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blomster",
+          "scores": {
+            "solveggsitteren": 2,
+            "sondagsturisten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe spennende fra en spesialbutikk",
+          "scores": {
+            "smoreeksperten": 2,
+            "toppturentusiasten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En kurv med frukt",
+          "scores": {
+            "appelsinpauseren": 2,
+            "nybegynneren": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et spill vi kan spille etterpå",
+          "scores": {
+            "slalamkjoreren": 1,
+            "nybegynneren": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hunden min, hvis den er velkommen",
+          "scores": {
+            "hundeloperen": 2,
+            "pulkforelderen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags pledd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykt og varmt i ull",
+          "scores": {
+            "toppturentusiasten": 2,
+            "smoreeksperten": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mykt og stort, med plass til flere",
+          "scores": {
+            "pulkforelderen": 2,
+            "sondagsturisten": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lett, så jeg kan ta det med ut",
+          "scores": {
+            "solveggsitteren": 1,
+            "hundeloperen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med sterke farger",
+          "scores": {
+            "slalamkjoreren": 1,
+            "nybegynneren": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Strikket av noen jeg kjenner",
+          "scores": {
+            "appelsinpauseren": 2,
+            "pulkforelderen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Trenger ikke, jeg er alltid varm",
+          "scores": {
+            "toppturentusiasten": 1,
+            "hundeloperen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har forsovet deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaster på meg klærne og løper",
+          "scores": {
+            "slalamkjoreren": 2,
+            "konkurranseloperen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Har heldigvis alt klart fra kvelden før",
+          "scores": {
+            "pulkforelderen": 2,
+            "smoreeksperten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar det med ro, det ordner seg",
+          "scores": {
+            "sondagsturisten": 2,
+            "solveggsitteren": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sender melding og sier fra",
+          "scores": {
+            "smoreeksperten": 1,
+            "appelsinpauseren": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ler av meg selv og skynder meg",
+          "scores": {
+            "nybegynneren": 2,
+            "hundeloperen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sykler ekstra fort for å ta det igjen",
+          "scores": {
+            "konkurranseloperen": 1,
+            "toppturentusiasten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du ser at en fremmed har løse skolisser. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier fra med en gang",
+          "scores": {
+            "konkurranseloperen": 1,
+            "smoreeksperten": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier fra og viser en lur knute",
+          "scores": {
+            "smoreeksperten": 1,
+            "toppturentusiasten": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Smiler og sier det vennlig",
+          "scores": {
+            "solveggsitteren": 2,
+            "sondagsturisten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Passer på at de ikke snubler",
+          "scores": {
+            "pulkforelderen": 1,
+            "hundeloperen": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vil si det, men tør ikke helt",
+          "scores": {
+            "nybegynneren": 2,
+            "appelsinpauseren": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sjekker mine egne lisser",
+          "scores": {
+            "slalamkjoreren": 2,
+            "nybegynneren": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En sang har satt seg fast i hodet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synger den høyt",
+          "scores": {
+            "hundeloperen": 2,
+            "slalamkjoreren": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hører den igjen til jeg blir lei",
+          "scores": {
+            "konkurranseloperen": 2,
+            "nybegynneren": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lærer meg hele teksten",
+          "scores": {
+            "smoreeksperten": 1,
+            "konkurranseloperen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar den surre, det er koselig",
+          "scores": {
+            "appelsinpauseren": 2,
+            "sondagsturisten": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en tur for å bli kvitt den",
+          "scores": {
+            "toppturentusiasten": 2,
+            "pulkforelderen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smitter alle rundt meg med den",
+          "scores": {
+            "solveggsitteren": 2,
+            "slalamkjoreren": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva er det beste med en skitur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pausen med noe godt å spise",
+          "scores": {
+            "appelsinpauseren": 2,
+            "pulkforelderen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Å komme først i mål",
+          "scores": {
+            "konkurranseloperen": 2,
+            "slalamkjoreren": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Utsikten fra toppen",
+          "scores": {
+            "toppturentusiasten": 2,
+            "solveggsitteren": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Farten nedover bakkene",
+          "scores": {
+            "slalamkjoreren": 2,
+            "hundeloperen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "At skiene glir perfekt",
+          "scores": {
+            "smoreeksperten": 2,
+            "konkurranseloperen": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å klare litt mer enn sist",
+          "scores": {
+            "nybegynneren": 2,
+            "sondagsturisten": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sondagsturisten",
+      "name": "Søndagsturisten",
+      "shareName": "søndagsturisten",
+      "emoji": null,
+      "description": "Du er avslappet, sosial og elsker en god tur uten stress. Du nyter utsikten mer enn tiden.",
+      "funFact": "Norge har tusenvis av kilometer med preparerte skiløyper.",
+      "image": "images/2027-02-24/sondagsturisten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Sosial",
+          "text": "Tur med venner."
+        },
+        {
+          "title": "Kosete",
+          "text": "Nyter øyeblikket."
+        },
+        {
+          "title": "Stødig",
+          "text": "Går i eget tempo."
+        }
+      ]
+    },
+    {
+      "id": "konkurranseloperen",
+      "name": "Konkurranseløperen",
+      "shareName": "konkurranseløperen",
+      "emoji": null,
+      "description": "Du er målrettet, sterk og elsker å gi alt. Du tar utfordringer med et smil.",
+      "funFact": "Ski-VM i nordiske grener arrangeres annethvert år.",
+      "image": "images/2027-02-24/konkurranseloperen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Sterk",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Disiplinert",
+          "text": "Trener jevnt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar utfordringer."
+        }
+      ]
+    },
+    {
+      "id": "pulkforelderen",
+      "name": "Pulkforelderen",
+      "shareName": "pulkforelderen",
+      "emoji": null,
+      "description": "Du er omsorgsfull, sterk og tar alle med på tur. Du sørger for at alle har det bra.",
+      "funFact": "En pulk er en liten slede man drar etter seg på ski.",
+      "image": "images/2027-02-24/pulkforelderen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på alle."
+        },
+        {
+          "title": "Sterk",
+          "text": "Drar tungt lass."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på alle."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Har med alt."
+        }
+      ]
+    },
+    {
+      "id": "appelsinpauseren",
+      "name": "Appelsinpauseren",
+      "shareName": "appelsinpauseren",
+      "emoji": null,
+      "description": "Du er en kosekspert og vet at pausen er turens høydepunkt. Du deler gjerne det du har med deg.",
+      "funFact": "Appelsin er en populær turfrukt i Norge, særlig i påsken.",
+      "image": "images/2027-02-24/appelsinpauseren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Pausen er best."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Glad",
+          "text": "Smiler i sola."
+        }
+      ]
+    },
+    {
+      "id": "smoreeksperten",
+      "name": "Smøreeksperten",
+      "shareName": "smøreeksperten",
+      "emoji": null,
+      "description": "Du er nøye, kunnskapsrik og elsker detaljer. Andre spør deg om råd før de drar.",
+      "funFact": "Festevoks gir skiene feste, mens glider får dem til å gli bedre.",
+      "image": "images/2027-02-24/smoreeksperten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøye",
+          "text": "Detaljene teller."
+        },
+        {
+          "title": "Kunnskapsrik",
+          "text": "Vet mye."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Gir gode råd."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gjør ting skikkelig."
+        }
+      ]
+    },
+    {
+      "id": "hundeloperen",
+      "name": "Hundeløperen",
+      "shareName": "hundeløperen",
+      "emoji": null,
+      "description": "Du er energisk, dyrekjær og elsker fart i godt selskap. Du og vennene dine er et sterkt lag.",
+      "funFact": "Skijøring er når en skiløper blir trukket av en hund eller en hest.",
+      "image": "images/2027-02-24/hundeloperen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyrekjær",
+          "text": "Firbeint bestevenn."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sterke sammen."
+        },
+        {
+          "title": "Lojal",
+          "text": "Alltid trofast."
+        }
+      ]
+    },
+    {
+      "id": "toppturentusiasten",
+      "name": "Topptur-entusiasten",
+      "shareName": "topptur-entusiasten",
+      "emoji": null,
+      "description": "Du er eventyrlysten, sterk og elsker utsikten fra toppen. Du går gjerne den lange veien opp.",
+      "funFact": "På topptur bruker mange feller under skiene for å gå oppover uten å skli bakover.",
+      "image": "images/2027-02-24/toppturentusiasten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Høyt og langt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir deg ikke."
+        },
+        {
+          "title": "Fri",
+          "text": "Utenfor løypa."
+        },
+        {
+          "title": "Rolig",
+          "text": "Nyter stillheten."
+        }
+      ]
+    },
+    {
+      "id": "slalamkjoreren",
+      "name": "Slalåmkjøreren",
+      "shareName": "slalåmkjøreren",
+      "emoji": null,
+      "description": "Du er rask, modig og elsker fart og spenning. Du har stil i hver eneste sving.",
+      "funFact": "Ordet slalåm kommer fra norsk og betyr omtrent «skrånende spor».",
+      "image": "images/2027-02-24/slalamkjoreren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Elsker fart."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å kjøre."
+        },
+        {
+          "title": "Stilig",
+          "text": "Stil i svingene."
+        },
+        {
+          "title": "Sosial",
+          "text": "Heis med venner."
+        }
+      ]
+    },
+    {
+      "id": "nybegynneren",
+      "name": "Nybegynneren",
+      "shareName": "nybegynneren",
+      "emoji": null,
+      "description": "Du er nysgjerrig, modig og ler når du faller. Du lærer noe nytt hver eneste dag.",
+      "funFact": "Ski er kjent fra helleristninger i Norge, som Rødøy-mannen, som er flere tusen år gammel.",
+      "image": "images/2027-02-24/nybegynneren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Lærer hele tiden."
+        },
+        {
+          "title": "Modig",
+          "text": "Prøver igjen."
+        },
+        {
+          "title": "Blid",
+          "text": "Ler av deg selv."
+        },
+        {
+          "title": "Åpen",
+          "text": "Klar for alt."
+        }
+      ]
+    },
+    {
+      "id": "solveggsitteren",
+      "name": "Solveggsitteren",
+      "shareName": "solveggsitteren",
+      "emoji": null,
+      "description": "Du er rolig, varm og elsker de små gledene. Du vet at sol og en god prat er det beste som finnes.",
+      "funFact": "Snø reflekterer mye av sollyset, så man kan bli solbrent på fjellet om våren.",
+      "image": "images/2027-02-24/solveggsitteren.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Solglad",
+          "text": "Elsker varme."
+        },
+        {
+          "title": "Pratsom",
+          "text": "God til å prate."
+        },
+        {
+          "title": "Nytende",
+          "text": "Små gleder."
+        }
+      ]
+    }
+  ]
+}

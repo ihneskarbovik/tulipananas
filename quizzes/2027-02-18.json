@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-18",
+  "date": "2027-02-18",
+  "title": "Hvilken potetrett er du i dag?",
+  "intro": "Poteten kom til Norge på 1700-tallet og er blitt en av våre viktigste matvarer. Er du sprø pommes frites, myk potetmos eller en lun potetgrateng? Svar på sju spørsmål og finn ut hvilken potetrett du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan liker du maten på tallerkenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alt hver for seg",
+          "scores": {
+            "koktepoteter": 2,
+            "baktpotet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Alt blandet sammen",
+          "scores": {
+            "potetmos": 2,
+            "lompe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med saus over alt",
+          "scores": {
+            "raspeball": 2,
+            "potetmos": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pent anrettet",
+          "scores": {
+            "rosti": 2,
+            "grateng": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt av alt",
+          "scores": {
+            "potetsalat": 2,
+            "pommesfrites": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mest av det jeg liker best",
+          "scores": {
+            "potetgull": 2,
+            "raspeball": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags gulv liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varmt tregulv",
+          "scores": {
+            "koktepoteter": 2,
+            "grateng": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mykt teppe",
+          "scores": {
+            "potetmos": 2,
+            "baktpotet": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fliser med gulvvarme",
+          "scores": {
+            "rosti": 2,
+            "potetsalat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gamle, knirkende planker",
+          "scores": {
+            "raspeball": 2,
+            "lompe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blankt og glatt",
+          "scores": {
+            "pommesfrites": 1,
+            "potetgull": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Steingulv",
+          "scores": {
+            "baktpotet": 2,
+            "rosti": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor høyt har du lyden på TV-en?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt, så det føles som kino",
+          "scores": {
+            "pommesfrites": 2,
+            "potetgull": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lavt, så jeg kan prate samtidig",
+          "scores": {
+            "potetsalat": 2,
+            "lompe": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nesten av, med teksting",
+          "scores": {
+            "rosti": 2,
+            "koktepoteter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Alltid på samme nivå",
+          "scores": {
+            "grateng": 2,
+            "koktepoteter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det får de andre bestemme",
+          "scores": {
+            "lompe": 2,
+            "potetmos": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg skrur opp når det blir spennende",
+          "scores": {
+            "raspeball": 2,
+            "potetgull": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det har åpnet en ny butikk i nabolaget. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går inn første dag",
+          "scores": {
+            "pommesfrites": 2,
+            "potetgull": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter til andre har prøvd",
+          "scores": {
+            "koktepoteter": 2,
+            "raspeball": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar med en venn",
+          "scores": {
+            "potetsalat": 2,
+            "lompe": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kikker i vinduet i noen uker",
+          "scores": {
+            "potetmos": 2,
+            "baktpotet": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjekker hva folk skriver på nett",
+          "scores": {
+            "rosti": 2,
+            "grateng": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hilser på eieren",
+          "scores": {
+            "raspeball": 2,
+            "potetsalat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen sier at du har noe mellom tennene. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler og fjerner det",
+          "scores": {
+            "pommesfrites": 1,
+            "potetsalat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Takker masse",
+          "scores": {
+            "lompe": 2,
+            "koktepoteter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir litt flau",
+          "scores": {
+            "potetmos": 1,
+            "baktpotet": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hvor lenge det har vært der",
+          "scores": {
+            "rosti": 1,
+            "grateng": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sjekker speilet resten av dagen",
+          "scores": {
+            "grateng": 2,
+            "potetmos": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier at jeg sparer det til senere",
+          "scores": {
+            "potetgull": 2,
+            "raspeball": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn ber om tips til noe å se på. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sender en hel liste",
+          "scores": {
+            "grateng": 2,
+            "rosti": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Foreslår en gammel klassiker",
+          "scores": {
+            "koktepoteter": 2,
+            "raspeball": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør først hva de liker",
+          "scores": {
+            "baktpotet": 2,
+            "potetmos": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår at vi ser noe sammen",
+          "scores": {
+            "potetsalat": 1,
+            "lompe": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Anbefaler noe helt nytt",
+          "scores": {
+            "potetgull": 2,
+            "rosti": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nevner det alle snakker om",
+          "scores": {
+            "pommesfrites": 2,
+            "potetsalat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva vil du helst ha i en wok?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kylling og cashewnøtter",
+          "scores": {
+            "pommesfrites": 2,
+            "potetsalat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Masse grønnsaker",
+          "scores": {
+            "lompe": 2,
+            "baktpotet": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Reker",
+          "scores": {
+            "grateng": 2,
+            "pommesfrites": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Biff og paprika",
+          "scores": {
+            "koktepoteter": 2,
+            "raspeball": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tofu",
+          "scores": {
+            "rosti": 2,
+            "baktpotet": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare nudler og saus",
+          "scores": {
+            "potetmos": 2,
+            "potetgull": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "pommesfrites",
+      "name": "Pommes frites",
+      "shareName": "pommes frites",
+      "emoji": null,
+      "description": "Du er sprø, sosial og populær i alle aldre. Du passer inn nesten overalt.",
+      "funFact": "Både Belgia og Frankrike mener at det var de som fant opp pommes frites.",
+      "image": "images/2027-02-18/pommesfrites.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Sosial",
+          "text": "Best i lag."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "potetmos",
+      "name": "Potetmos",
+      "shareName": "potetmos",
+      "emoji": null,
+      "description": "Du er myk, trøstende og god å komme hjem til. Folk slapper av når du er der.",
+      "funFact": "Pølser med potetmos er en klassisk middag i mange norske hjem.",
+      "image": "images/2027-02-18/potetmos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "Mild og snill."
+        },
+        {
+          "title": "Trøstende",
+          "text": "God på dårlige dager."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Best hjemme."
+        }
+      ]
+    },
+    {
+      "id": "baktpotet",
+      "name": "Bakt potet",
+      "shareName": "en bakt potet",
+      "emoji": null,
+      "description": "Du er varm innvendig og har mye å by på. Du blir bare bedre med litt fyll.",
+      "funFact": "Mange baker poteter i folie rett i glørne på bålet.",
+      "image": "images/2027-02-18/baktpotet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Varm innvendig."
+        },
+        {
+          "title": "Rommelig",
+          "text": "Plass til mye."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Naturlig",
+          "text": "Enkel og ekte."
+        }
+      ]
+    },
+    {
+      "id": "potetgull",
+      "name": "Potetgull",
+      "shareName": "potetgull",
+      "emoji": null,
+      "description": "Du er sprø, morsom og perfekt til kos. Du får fram feststemningen.",
+      "funFact": "Potetgull er laget av tynne potetskiver som stekes i olje til de blir sprø.",
+      "image": "images/2027-02-18/potetgull.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Mye latter."
+        },
+        {
+          "title": "Spontan",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Leken",
+          "text": "Kos og moro."
+        },
+        {
+          "title": "Sprø",
+          "text": "Liten crunch."
+        }
+      ]
+    },
+    {
+      "id": "rosti",
+      "name": "Rösti",
+      "shareName": "rösti",
+      "emoji": null,
+      "description": "Du er gyllen, solid og litt eksotisk. Du ser enkel ut, men har mye smak.",
+      "funFact": "Rösti kommer fra Sveits og ble opprinnelig spist til frokost av bønder.",
+      "image": "images/2027-02-18/rosti.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gyllen",
+          "text": "Varm utstråling."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Liker det nye."
+        },
+        {
+          "title": "Solid",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Smakfull",
+          "text": "Mer enn du tror."
+        }
+      ]
+    },
+    {
+      "id": "potetsalat",
+      "name": "Potetsalat",
+      "shareName": "potetsalat",
+      "emoji": null,
+      "description": "Du er frisk, sosial og alltid med når det er sommer og grill. Du får alle til å samles rundt bordet.",
+      "funFact": "I Tyskland finnes det mange slags potetsalat, noen med eddik og noen med majones.",
+      "image": "images/2027-02-18/potetsalat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Som en sommerdag."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker selskap."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter over."
+        }
+      ]
+    },
+    {
+      "id": "grateng",
+      "name": "Potetgrateng",
+      "shareName": "potetgrateng",
+      "emoji": null,
+      "description": "Du er lun, raus og har lag på lag av godhet. Du gjør hverdagsmat til festmat.",
+      "funFact": "Ordet grateng kommer fra det franske ordet gratin.",
+      "image": "images/2027-02-18/grateng.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Lag på lag."
+        },
+        {
+          "title": "Lun",
+          "text": "Varm og god."
+        },
+        {
+          "title": "Gjennomtenkt",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Festlig",
+          "text": "Gjør dagen spesiell."
+        }
+      ]
+    },
+    {
+      "id": "koktepoteter",
+      "name": "Kokte poteter",
+      "shareName": "kokte poteter",
+      "emoji": null,
+      "description": "Du er ekte, stødig og passer til nesten alt. Du er grunnmuren alle kan stole på.",
+      "funFact": "Prester reiste rundt og lærte folk å dyrke poteter, og de ble kalt potetprester.",
+      "image": "images/2027-02-18/koktepoteter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen jåleri."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til alt."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter ikke."
+        }
+      ]
+    },
+    {
+      "id": "lompe",
+      "name": "Lompe",
+      "shareName": "en lompe",
+      "emoji": null,
+      "description": "Du er fleksibel, myk og kan pakke inn nesten hva som helst. Du gjør alt litt bedre.",
+      "funFact": "Lompe er en tynn potetkake som ofte brukes rundt pølser.",
+      "image": "images/2027-02-18/lompe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Omfavnende",
+          "text": "Holder rundt andre."
+        },
+        {
+          "title": "Enkel",
+          "text": "Lite mas."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "raspeball",
+      "name": "Raspeball",
+      "shareName": "raspeball",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, mettende og full av historie. Folk blir glade når du dukker opp.",
+      "funFact": "Raspeball har mange navn i Norge, blant annet komle, klubb og kumle.",
+      "image": "images/2027-02-18/raspeball.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonsrik",
+          "text": "Elsker gamle skikker."
+        },
+        {
+          "title": "Mettende",
+          "text": "Gir mye."
+        },
+        {
+          "title": "Lojal",
+          "text": "Holder på sitt."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Varm velkomst."
+        }
+      ]
+    }
+  ]
+}

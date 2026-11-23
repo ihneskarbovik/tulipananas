@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-02",
+  "date": "2027-02-02",
+  "title": "Hvilket dyr i vinterdvale er du i dag?",
+  "intro": "2. februar er kyndelsmesse, og i USA er det murmeldyrdagen (Groundhog Day). Der sier tradisjonen at et murmeldyr kan spå om våren kommer tidlig. Svar på sju spørsmål og finn ut hvilket dyr i vinterdvale du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken dipp liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hjemmelaget guacamole",
+          "scores": {
+            "frosk": 2,
+            "flaggermus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rømmedressing",
+          "scores": {
+            "brunbjorn": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hummus",
+          "scores": {
+            "skilpadde": 1,
+            "hasselmus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sterk salsa",
+          "scores": {
+            "flaggermus": 2,
+            "humle": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ketchup, helt enkelt",
+          "scores": {
+            "marihone": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen dipp, takk",
+          "scores": {
+            "piggsvin": 1,
+            "skilpadde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva gjør du helst på en trampoline?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper så høyt jeg kan",
+          "scores": {
+            "frosk": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver nye triks",
+          "scores": {
+            "flaggermus": 2,
+            "frosk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hopper sammen med mange",
+          "scores": {
+            "marihone": 2,
+            "humle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ligger og ser på skyene",
+          "scores": {
+            "hasselmus": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sitter på kanten og prater",
+          "scores": {
+            "skilpadde": 2,
+            "brunbjorn": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Passer på at ingen faller",
+          "scores": {
+            "grevling": 2,
+            "piggsvin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du får en klump leire. Hva lager du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En liten skål",
+          "scores": {
+            "grevling": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En søt liten figur",
+          "scores": {
+            "hasselmus": 2,
+            "piggsvin": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kopp til meg selv",
+          "scores": {
+            "brunbjorn": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe rart ingen har sett før",
+          "scores": {
+            "flaggermus": 2,
+            "frosk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mange små kuler i alle farger",
+          "scores": {
+            "marihone": 2,
+            "humle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et lite hus",
+          "scores": {
+            "murmeldyr": 2,
+            "grevling": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva ville du hamstret til vinteren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nøtter og tørket frukt",
+          "scores": {
+            "hasselmus": 2,
+            "piggsvin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Honning",
+          "scores": {
+            "humle": 2,
+            "brunbjorn": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hermetikk, mange bokser",
+          "scores": {
+            "grevling": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gode bøker",
+          "scores": {
+            "skilpadde": 2,
+            "flaggermus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ull og varme klær",
+          "scores": {
+            "piggsvin": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snacks til alle vennene",
+          "scores": {
+            "marihone": 2,
+            "frosk": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du skal lage en hule av puter og tepper. Hvordan blir den?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bitte liten og supermyk",
+          "scores": {
+            "hasselmus": 2,
+            "piggsvin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stor nok til hele familien",
+          "scores": {
+            "brunbjorn": 2,
+            "marihone": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med lommelykt og bøker",
+          "scores": {
+            "murmeldyr": 2,
+            "flaggermus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Solid, så den ikke raser",
+          "scores": {
+            "grevling": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med flere ganger og rom",
+          "scores": {
+            "murmeldyr": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med snacks til mange dager",
+          "scores": {
+            "humle": 2,
+            "hasselmus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du står på en bro over en elv. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaster en pinne og ser hvor den driver",
+          "scores": {
+            "frosk": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser etter fisk i vannet",
+          "scores": {
+            "brunbjorn": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Står lenge og bare ser",
+          "scores": {
+            "skilpadde": 2,
+            "hasselmus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Roper for å høre ekkoet",
+          "scores": {
+            "flaggermus": 2,
+            "murmeldyr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holder godt i rekkverket",
+          "scores": {
+            "piggsvin": 2,
+            "humle": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skynder meg videre, jeg har planer",
+          "scores": {
+            "humle": 2,
+            "frosk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du har ti minutter før du må gå. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sjekker at alt er klart",
+          "scores": {
+            "humle": 2,
+            "grevling": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar meg en liten blund",
+          "scores": {
+            "hasselmus": 1,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spiser litt ekstra",
+          "scores": {
+            "piggsvin": 2,
+            "brunbjorn": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Begynner på noe nytt",
+          "scores": {
+            "frosk": 2,
+            "marihone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går i god tid",
+          "scores": {
+            "skilpadde": 2,
+            "grevling": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sender meldinger til venner",
+          "scores": {
+            "marihone": 2,
+            "flaggermus": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "murmeldyr",
+      "name": "Murmeldyret",
+      "shareName": "murmeldyret",
+      "emoji": null,
+      "description": "Du er koselig, forutseende og glad i et godt hjem. Du vet når det er lurt å ta det med ro.",
+      "funFact": "Murmeldyr graver ganger og hi under bakken, der de sover vinterdvale.",
+      "image": "images/2027-02-02/murmeldyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Forutseende",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Koselig",
+          "text": "Elsker hjemmet."
+        },
+        {
+          "title": "Kjent",
+          "text": "Alle vet hvem du er."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        }
+      ]
+    },
+    {
+      "id": "piggsvin",
+      "name": "Piggsvinet",
+      "shareName": "piggsvinet",
+      "emoji": null,
+      "description": "Du er søt, litt sky og godt beskyttet. Når folk blir kjent med deg, er du full av varme.",
+      "funFact": "Piggsvin sover vinterdvale, ofte i et reir av løv.",
+      "image": "images/2027-02-02/piggsvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sky",
+          "text": "Trenger litt tid."
+        },
+        {
+          "title": "Søt",
+          "text": "Alle blir glade."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på seg selv."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk inni."
+        }
+      ]
+    },
+    {
+      "id": "flaggermus",
+      "name": "Flaggermusa",
+      "shareName": "flaggermusa",
+      "emoji": null,
+      "description": "Du er smart, fri og ser verden fra en helt egen vinkel. Du våkner til liv når andre legger seg.",
+      "funFact": "Flaggermus er de eneste pattedyrene som kan fly skikkelig.",
+      "image": "images/2027-02-02/flaggermus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kvikk",
+          "text": "Smart og rask."
+        },
+        {
+          "title": "Nattmenneske",
+          "text": "Lever om kvelden."
+        },
+        {
+          "title": "Original",
+          "text": "Egen vinkel."
+        },
+        {
+          "title": "Fri",
+          "text": "Flyr dit du vil."
+        }
+      ]
+    },
+    {
+      "id": "hasselmus",
+      "name": "Hasselmusa",
+      "shareName": "hasselmusa",
+      "emoji": null,
+      "description": "Du er liten, søt og elsker å kose deg. Du vet at god søvn gjør alt bedre.",
+      "funFact": "Hasselmusa ruller seg sammen til en liten ball når den sover vinterdvale.",
+      "image": "images/2027-02-02/hasselmus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Søvnig",
+          "text": "Elsker lange netter."
+        },
+        {
+          "title": "Søt",
+          "text": "Liten og blid."
+        },
+        {
+          "title": "Koselig",
+          "text": "Myk og lun."
+        },
+        {
+          "title": "Nøysom",
+          "text": "Trenger ikke mye."
+        }
+      ]
+    },
+    {
+      "id": "frosk",
+      "name": "Frosken",
+      "shareName": "frosken",
+      "emoji": null,
+      "description": "Du er rolig, tilpasningsdyktig og tåler både varmt og kaldt. Du hopper glad inn i nye ting.",
+      "funFact": "Mange frosker overvintrer på bunnen av dammer eller gravd ned i jorda.",
+      "image": "images/2027-02-02/frosk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Kald i hodet."
+        },
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Trives overalt."
+        },
+        {
+          "title": "Spretten",
+          "text": "Hopper i det."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på våren."
+        }
+      ]
+    },
+    {
+      "id": "skilpadde",
+      "name": "Skilpadden",
+      "shareName": "skilpadden",
+      "emoji": null,
+      "description": "Du er tålmodig, klok og helt stødig. Du kommer alltid fram, bare i ditt eget tempo.",
+      "funFact": "Noen skilpadder overvintrer i dvale nede i gjørma på bunnen av vann.",
+      "image": "images/2027-02-02/skilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "God tid."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du gjør."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig hele veien."
+        },
+        {
+          "title": "Trygg",
+          "text": "Har alltid hjemmet med."
+        }
+      ]
+    },
+    {
+      "id": "grevling",
+      "name": "Grevlingen",
+      "shareName": "grevlingen",
+      "emoji": null,
+      "description": "Du er arbeidsom, ordentlig og glad i hjemmet ditt. Du bygger noe som varer.",
+      "funFact": "Grevlingen har vinterhvile, ikke ekte vinterdvale. På milde dager kan den gå ut.",
+      "image": "images/2027-02-02/grevling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Graver og bygger."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Holder det fint."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker hiet sitt."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder på vanene."
+        }
+      ]
+    },
+    {
+      "id": "humle",
+      "name": "Humledronningen",
+      "shareName": "humledronningen",
+      "emoji": null,
+      "description": "Du er flittig, varm og full av planer. Når våren kommer, er du klar til å sette i gang.",
+      "funFact": "Bare humledronningen overlever vinteren. Om våren starter hun et nytt bol.",
+      "image": "images/2027-02-02/humle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Alltid i gang."
+        },
+        {
+          "title": "Leder",
+          "text": "Tar ansvar."
+        },
+        {
+          "title": "Varm",
+          "text": "Lunt hjerte."
+        },
+        {
+          "title": "Planleggende",
+          "text": "Klar for våren."
+        }
+      ]
+    },
+    {
+      "id": "marihone",
+      "name": "Marihøna",
+      "shareName": "marihøna",
+      "emoji": null,
+      "description": "Du er blid, sosial og sprer glede uansett hvor du er. Du trives best sammen med mange.",
+      "funFact": "Marihøner overvintrer ofte mange sammen, for eksempel under bark eller løv.",
+      "image": "images/2027-02-02/marihone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Sprer glede."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Heldig",
+          "text": "Bringer lykke."
+        }
+      ]
+    },
+    {
+      "id": "brunbjorn",
+      "name": "Brunbjørnen",
+      "shareName": "brunbjørnen",
+      "emoji": null,
+      "description": "Du er sterk, rolig og glad i god mat og lange hvilestunder. Du passer godt på dem du er glad i.",
+      "funFact": "Brunbjørnen har vinterhvile i hiet. Binna føder ungene sine der midt på vinteren.",
+      "image": "images/2027-02-02/brunbjorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker god mat."
+        }
+      ]
+    }
+  ]
+}

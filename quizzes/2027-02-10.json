@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-10",
+  "date": "2027-02-10",
+  "title": "Hvilken stueplante er du i dag?",
+  "intro": "Februar kan være grå, men stueplantene holder det grønt inne. Svar på sju spørsmål og finn ut hvilken stueplante du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor setter du deg på en kafé?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved vinduet",
+          "scores": {
+            "fiolinfiken": 2,
+            "orkide": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "I et hjørne",
+          "scores": {
+            "bonsai": 2,
+            "svigermorstunge": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Midt i rommet",
+          "scores": {
+            "monstera": 1,
+            "orkide": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ute på fortauet",
+          "scores": {
+            "kaktus": 2,
+            "monstera": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved disken, så jeg kan prate",
+          "scores": {
+            "aloevera": 2,
+            "gullranke": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I en myk lenestol",
+          "scores": {
+            "fredslilje": 1,
+            "sukkulent": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken temperatur liker du best inne?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Varmt og tropisk",
+          "scores": {
+            "monstera": 1,
+            "orkide": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjølig og friskt",
+          "scores": {
+            "svigermorstunge": 2,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lunt, med et pledd",
+          "scores": {
+            "fredslilje": 2,
+            "aloevera": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skikkelig varmt ved ovnen",
+          "scores": {
+            "kaktus": 2,
+            "sukkulent": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Åpent vindu uansett",
+          "scores": {
+            "gullranke": 2,
+            "kaktus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt jevnt, uten trekk",
+          "scores": {
+            "fiolinfiken": 2,
+            "bonsai": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Det er onsdag kveld. Hva gjør du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trener litt",
+          "scores": {
+            "svigermorstunge": 2,
+            "kaktus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ser en serie",
+          "scores": {
+            "gullranke": 2,
+            "sukkulent": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager god middag",
+          "scores": {
+            "aloevera": 2,
+            "monstera": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Møter en venn",
+          "scores": {
+            "monstera": 2,
+            "gullranke": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser i senga",
+          "scores": {
+            "fredslilje": 2,
+            "orkide": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Gjør ferdig noe jeg har utsatt",
+          "scores": {
+            "bonsai": 2,
+            "fiolinfiken": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du med å vanne planter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fast dag hver uke",
+          "scores": {
+            "bonsai": 2,
+            "fiolinfiken": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Når jeg kommer på det",
+          "scores": {
+            "kaktus": 1,
+            "svigermorstunge": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Når de henger med bladene",
+          "scores": {
+            "fredslilje": 2,
+            "gullranke": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prater med dem mens jeg vanner",
+          "scores": {
+            "orkide": 2,
+            "aloevera": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Har en påminnelse på mobilen",
+          "scores": {
+            "sukkulent": 2,
+            "bonsai": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar noen andre gjøre det",
+          "scores": {
+            "monstera": 1,
+            "kaktus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen flytter rundt på møblene dine mens du er borte. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elsker forandringen",
+          "scores": {
+            "monstera": 2,
+            "gullranke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Setter alt tilbake",
+          "scores": {
+            "fiolinfiken": 2,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Flytter litt mer selv",
+          "scores": {
+            "aloevera": 2,
+            "monstera": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt sur, men venner meg til det",
+          "scores": {
+            "orkide": 2,
+            "fiolinfiken": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Merker det knapt",
+          "scores": {
+            "kaktus": 1,
+            "sukkulent": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør hvorfor, og så finner vi en løsning",
+          "scores": {
+            "fredslilje": 2,
+            "svigermorstunge": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn trenger å bo hos deg en uke. Hvordan blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg gjør alt fint og klart",
+          "scores": {
+            "orkide": 2,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg lager en plan for uka",
+          "scores": {
+            "svigermorstunge": 2,
+            "fiolinfiken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg gleder meg til selskap",
+          "scores": {
+            "gullranke": 2,
+            "fredslilje": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg lager mat til oss hver dag",
+          "scores": {
+            "aloevera": 2,
+            "fredslilje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg trenger litt alenetid innimellom",
+          "scores": {
+            "kaktus": 2,
+            "sukkulent": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tar det helt som det kommer",
+          "scores": {
+            "gullranke": 2,
+            "sukkulent": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Når du begynner med noe nytt, hvor lenge holder du på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg gir aldri opp",
+          "scores": {
+            "kaktus": 1,
+            "svigermorstunge": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noen uker, så noe annet",
+          "scores": {
+            "gullranke": 1,
+            "monstera": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I mange år",
+          "scores": {
+            "bonsai": 2,
+            "svigermorstunge": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg prøver litt av alt",
+          "scores": {
+            "sukkulent": 2,
+            "aloevera": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Til jeg blir god",
+          "scores": {
+            "fiolinfiken": 2,
+            "orkide": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så lenge det er gøy",
+          "scores": {
+            "aloevera": 2,
+            "fredslilje": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "monstera",
+      "name": "Monstera",
+      "shareName": "en monstera",
+      "emoji": null,
+      "description": "Du er stor, varm og tar plass på en god måte. Du gjør ethvert rom mer levende.",
+      "funFact": "Monstera kommer opprinnelig fra regnskoger i Mellom-Amerika.",
+      "image": "images/2027-02-10/monstera.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Fyller rommet."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil alltid videre."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker selskap."
+        },
+        {
+          "title": "Levende",
+          "text": "Full av liv."
+        }
+      ]
+    },
+    {
+      "id": "kaktus",
+      "name": "Kaktus",
+      "shareName": "en kaktus",
+      "emoji": null,
+      "description": "Du er tøff, selvstendig og klarer deg nesten hvor som helst. Under overflaten er du snillere enn folk tror.",
+      "funFact": "Kaktuser lagrer vann i stammen, så de klarer seg lenge uten vanning.",
+      "image": "images/2027-02-10/kaktus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Varmekjær",
+          "text": "Elsker sol."
+        },
+        {
+          "title": "Snill",
+          "text": "Myk innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "sukkulent",
+      "name": "Sukkulent",
+      "shareName": "en sukkulent",
+      "emoji": null,
+      "description": "Du er rolig, nøysom og liten, men sterk. Du trenger ikke mye for å ha det fint.",
+      "funFact": "Sukkulenter lagrer vann i tykke, saftige blader.",
+      "image": "images/2027-02-10/sukkulent.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nøysom",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Sterk",
+          "text": "Liten, men tøff."
+        },
+        {
+          "title": "Søt",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "orkide",
+      "name": "Orkidé",
+      "shareName": "en orkidé",
+      "emoji": null,
+      "description": "Du er elegant, følsom og vet hva du liker. Når du blomstrer, ser alle det.",
+      "funFact": "Orkidéfamilien er en av de største plantefamiliene i verden.",
+      "image": "images/2027-02-10/orkide.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Stil i alt."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Vakker",
+          "text": "Blomstrer stort."
+        }
+      ]
+    },
+    {
+      "id": "gullranke",
+      "name": "Gullranke",
+      "shareName": "en gullranke",
+      "emoji": null,
+      "description": "Du er fleksibel, avslappet og trives nesten overalt. Du vokser og sprer deg der du får plass.",
+      "funFact": "Gullranke klarer seg fint med lite lys og kan få lange ranker.",
+      "image": "images/2027-02-10/gullranke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det som det kommer."
+        },
+        {
+          "title": "Sosial",
+          "text": "Når ut til mange."
+        },
+        {
+          "title": "Voksende",
+          "text": "Alltid litt lenger."
+        }
+      ]
+    },
+    {
+      "id": "fredslilje",
+      "name": "Fredslilje",
+      "shareName": "en fredslilje",
+      "emoji": null,
+      "description": "Du er fredelig, omsorgsfull og ærlig om hvordan du har det. Du skaper ro rundt deg.",
+      "funFact": "Fredslilje henger med bladene når den er tørst, og retter seg opp igjen etter vanning.",
+      "image": "images/2027-02-10/fredslilje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fredelig",
+          "text": "Skaper ro."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier hvordan du har det."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Bryr deg om andre."
+        },
+        {
+          "title": "Harmonisk",
+          "text": "God balanse."
+        }
+      ]
+    },
+    {
+      "id": "svigermorstunge",
+      "name": "Svigermors tunge",
+      "shareName": "en svigermors tunge",
+      "emoji": null,
+      "description": "Du er robust, rak i ryggen og til å stole på. Du står støtt selv når andre glemmer deg litt.",
+      "funFact": "Svigermors tunge klarer seg med lite vann og lite lys.",
+      "image": "images/2027-02-10/svigermorstunge.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler det meste."
+        },
+        {
+          "title": "Rak",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Lavmælt",
+          "text": "Stille og rolig."
+        }
+      ]
+    },
+    {
+      "id": "bonsai",
+      "name": "Bonsai",
+      "shareName": "en bonsai",
+      "emoji": null,
+      "description": "Du er tålmodig, gjennomtenkt og liker å gjøre ting skikkelig. Du vet at det fineste tar tid.",
+      "funFact": "Ordet bonsai er japansk og betyr omtrent «tre i potte».",
+      "image": "images/2027-02-10/bonsai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Det fineste tar tid."
+        },
+        {
+          "title": "Gjennomtenkt",
+          "text": "Planlegger godt."
+        },
+        {
+          "title": "Presis",
+          "text": "Hvert snitt teller."
+        },
+        {
+          "title": "Rolig",
+          "text": "Indre ro."
+        }
+      ]
+    },
+    {
+      "id": "aloevera",
+      "name": "Aloe vera",
+      "shareName": "en aloe vera",
+      "emoji": null,
+      "description": "Du er hjelpsom, praktisk og god å ha i nærheten. Du vet alltid hvordan du kan gjøre noe bedre.",
+      "funFact": "Gelen inni bladene på aloe vera brukes i mange hudkremer.",
+      "image": "images/2027-02-10/aloevera.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller opp."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Lindrer og trøster."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "fiolinfiken",
+      "name": "Fiolinfiken",
+      "shareName": "en fiolinfiken",
+      "emoji": null,
+      "description": "Du er stilfull, ambisiøs og vet nøyaktig hvor du vil stå. Når du har funnet plassen din, vokser du høyt.",
+      "funFact": "Fiolinfiken har fått navnet sitt fordi bladene ligner en fiolin.",
+      "image": "images/2027-02-10/fiolinfiken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "Ser alltid bra ut."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Vokser høyt."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hvor du vil."
+        },
+        {
+          "title": "Trofast",
+          "text": "Liker det kjente."
+        }
+      ]
+    }
+  ]
+}

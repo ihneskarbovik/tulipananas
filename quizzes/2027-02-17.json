@@ -1,0 +1,668 @@
+{
+  "id": "2027-02-17",
+  "date": "2027-02-17",
+  "title": "Hvilken vennlig handling er du i dag?",
+  "intro": "17. februar er Random Acts of Kindness Day, en dag for små, vennlige handlinger. Holder du døra, gir du et kompliment eller baker du til naboen? Svar på sju spørsmål og finn ut hvilken vennlig handling du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags bokmerke bruker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et fint bokmerke jeg har fått",
+          "scores": {
+            "takkelapp": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et tilfeldig papir",
+          "scores": {
+            "foran": 2,
+            "poser": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bretter hjørnet på siden",
+          "scores": {
+            "dora": 1,
+            "poser": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Husker bare sidetallet",
+          "scores": {
+            "melding": 2,
+            "soppel": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Legger boka opp ned",
+          "scores": {
+            "nabokake": 2,
+            "paraply": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Leser ut på én gang",
+          "scores": {
+            "kompliment": 1,
+            "soppel": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken ringetone har du på mobilen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alltid lydløs",
+          "scores": {
+            "foran": 2,
+            "soppel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Standardlyden",
+          "scores": {
+            "dora": 2,
+            "poser": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En glad sang",
+          "scores": {
+            "kompliment": 2,
+            "klem": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fuglekvitter",
+          "scores": {
+            "soppel": 2,
+            "paraply": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare vibrering",
+          "scores": {
+            "takkelapp": 2,
+            "nabokake": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Høy, så jeg ikke går glipp av noe",
+          "scores": {
+            "melding": 1,
+            "kompliment": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva slags genser liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stor og myk strikkegenser",
+          "scores": {
+            "klem": 2,
+            "nabokake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hettegenser med store lommer",
+          "scores": {
+            "poser": 2,
+            "paraply": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En pen genser med krage",
+          "scores": {
+            "dora": 1,
+            "takkelapp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En i en sterk, glad farge",
+          "scores": {
+            "kompliment": 1,
+            "melding": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En gammel ullgenser til tur",
+          "scores": {
+            "soppel": 1,
+            "poser": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som ligger øverst i skapet",
+          "scores": {
+            "foran": 1,
+            "soppel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du med pantflasker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Panter dem med en gang",
+          "scores": {
+            "dora": 2,
+            "poser": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Samler til en stor pose",
+          "scores": {
+            "foran": 2,
+            "paraply": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gir panten til et godt formål",
+          "scores": {
+            "takkelapp": 2,
+            "kompliment": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter dem ved søppelkassen til andre",
+          "scores": {
+            "foran": 2,
+            "nabokake": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Plukker opp flasker andre har kastet",
+          "scores": {
+            "soppel": 2,
+            "paraply": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar noen andre få panten",
+          "scores": {
+            "klem": 2,
+            "melding": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen viser deg bilder av kjæledyret sitt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier hvor søtt det er",
+          "scores": {
+            "kompliment": 1,
+            "klem": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Viser mine egne bilder tilbake",
+          "scores": {
+            "melding": 2,
+            "kompliment": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør hva det heter",
+          "scores": {
+            "takkelapp": 2,
+            "dora": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på alle sammen i ro og mak",
+          "scores": {
+            "foran": 2,
+            "takkelapp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vil møte dyret med en gang",
+          "scores": {
+            "klem": 2,
+            "paraply": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør om de trenger dyrepasser",
+          "scores": {
+            "poser": 2,
+            "nabokake": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan ler du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Høyt og smittende",
+          "scores": {
+            "kompliment": 2,
+            "nabokake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med hele kroppen",
+          "scores": {
+            "klem": 2,
+            "paraply": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stille, nesten uten lyd",
+          "scores": {
+            "foran": 1,
+            "soppel": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg fniser lenge",
+          "scores": {
+            "melding": 2,
+            "takkelapp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kort og hjertelig",
+          "scores": {
+            "poser": 2,
+            "dora": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Mest når andre ler",
+          "scores": {
+            "klem": 2,
+            "melding": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvem vil du helst glede i dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En nabo",
+          "scores": {
+            "poser": 2,
+            "nabokake": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En gammel venn",
+          "scores": {
+            "melding": 1,
+            "takkelapp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noen i familien",
+          "scores": {
+            "klem": 2,
+            "nabokake": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En helt fremmed",
+          "scores": {
+            "dora": 2,
+            "foran": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Naturen og dyrene",
+          "scores": {
+            "soppel": 2,
+            "paraply": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Alle jeg møter",
+          "scores": {
+            "kompliment": 2,
+            "dora": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "dora",
+      "name": "Holde døra",
+      "shareName": "den som holder døra",
+      "emoji": null,
+      "description": "Du er oppmerksom og legger merke til folk rundt deg. Små gester fra deg gjør dagen lettere for andre.",
+      "funFact": "Dører i rømningsveier skal som regel åpnes i den retningen folk skal rømme.",
+      "image": "images/2027-02-17/dora.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppmerksom",
+          "text": "Ser folk rundt deg."
+        },
+        {
+          "title": "Høflig",
+          "text": "Gode manerer."
+        },
+        {
+          "title": "Rask",
+          "text": "Reagerer med en gang."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Gjør det lett."
+        }
+      ]
+    },
+    {
+      "id": "kompliment",
+      "name": "Et kompliment",
+      "shareName": "et kompliment",
+      "emoji": null,
+      "description": "Du ser det beste i andre og sier det høyt. Ordene dine kan varme lenge.",
+      "funFact": "World Compliment Day, en egen dag for komplimenter, markeres 1. mars.",
+      "image": "images/2027-02-17/kompliment.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Positiv",
+          "text": "Ser det beste."
+        },
+        {
+          "title": "Åpen",
+          "text": "Sier det høyt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Prater med alle."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Mener det du sier."
+        }
+      ]
+    },
+    {
+      "id": "nabokake",
+      "name": "Kake til naboen",
+      "shareName": "kake til naboen",
+      "emoji": null,
+      "description": "Du er raus og glad i å dele. Du vet at mat smaker best når den deles.",
+      "funFact": "Bakepulver ble utviklet på 1800-tallet og gjorde det mye enklere å bake luftige kaker.",
+      "image": "images/2027-02-17/nabokake.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Koselig",
+          "text": "Varmt hjem."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Glad i å lage."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Døra står åpen."
+        }
+      ]
+    },
+    {
+      "id": "melding",
+      "name": "En hyggelig melding",
+      "shareName": "en hyggelig melding",
+      "emoji": null,
+      "description": "Du er omtenksom og husker på folk, også når de er langt borte. En liten melding fra deg kan redde en hel dag.",
+      "funFact": "Den første SMS-en ble sendt i 1992, og den ønsket god jul.",
+      "image": "images/2027-02-17/melding.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Husker på folk."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder kontakten."
+        },
+        {
+          "title": "Varm",
+          "text": "Gode ord."
+        },
+        {
+          "title": "Nær",
+          "text": "Også på avstand."
+        }
+      ]
+    },
+    {
+      "id": "poser",
+      "name": "Hjelp med posene",
+      "shareName": "hjelp med posene",
+      "emoji": null,
+      "description": "Du er sterk, hjelpsom og ser når noen strever. Du tar i et tak uten å bli spurt.",
+      "funFact": "En liter vann veier omtrent ett kilo.",
+      "image": "images/2027-02-17/poser.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tar i et tak."
+        },
+        {
+          "title": "Handlekraftig",
+          "text": "Gjør, ikke snakker."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser det enkelt."
+        },
+        {
+          "title": "Våken",
+          "text": "Ser hvem som strever."
+        }
+      ]
+    },
+    {
+      "id": "paraply",
+      "name": "En delt paraply",
+      "shareName": "en delt paraply",
+      "emoji": null,
+      "description": "Du er raus og deler gjerne det du har. Med deg blir regnværet litt mindre vått.",
+      "funFact": "Paraplyer ble brukt som vern mot sola lenge før de ble vanlige mot regn.",
+      "image": "images/2027-02-17/paraply.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Delende",
+          "text": "Det er nok plass."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hjelper på stedet."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Lun",
+          "text": "God å gå ved."
+        }
+      ]
+    },
+    {
+      "id": "soppel",
+      "name": "Plukke søppel",
+      "shareName": "den som plukker søppel",
+      "emoji": null,
+      "description": "Du bryr deg om naturen og nærmiljøet. Du gjør verden litt finere, én bit av gangen.",
+      "funFact": "Norge har pant på flasker og bokser, og det aller meste blir levert inn igjen.",
+      "image": "images/2027-02-17/soppel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ansvarlig",
+          "text": "Tar vare på ting."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker å være ute."
+        },
+        {
+          "title": "Stille",
+          "text": "Trenger ikke ros."
+        },
+        {
+          "title": "Grundig",
+          "text": "Én bit av gangen."
+        }
+      ]
+    },
+    {
+      "id": "foran",
+      "name": "Slippe noen foran",
+      "shareName": "den som slipper noen foran",
+      "emoji": null,
+      "description": "Du er tålmodig og tenker på andre før deg selv. Du vet at noen minutter ekstra sjelden gjør noe.",
+      "funFact": "Mange butikker bruker kølapper for å holde orden på hvem som står for tur.",
+      "image": "images/2027-02-17/foran.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Ydmyk",
+          "text": "Andre først."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite stress."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir bort plassen."
+        }
+      ]
+    },
+    {
+      "id": "takkelapp",
+      "name": "En takkelapp",
+      "shareName": "en takkelapp",
+      "emoji": null,
+      "description": "Du er takknemlig og legger merke til det andre gjør. Du sørger for at folk føler seg sett.",
+      "funFact": "Gule klistrelapper ble oppfunnet etter at en forsker laget et lim som ikke festet så godt.",
+      "image": "images/2027-02-17/takkelapp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Takknemlig",
+          "text": "Ser det andre gjør."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker det lille."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Fine ord på papir."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Følger opp."
+        }
+      ]
+    },
+    {
+      "id": "klem",
+      "name": "En god klem",
+      "shareName": "en god klem",
+      "emoji": null,
+      "description": "Du er varm, nær og trygg å være rundt. En klem fra deg sier mer enn mange ord.",
+      "funFact": "Når vi klemmer noen vi er glad i, skiller kroppen ut hormonet oksytocin.",
+      "image": "images/2027-02-17/klem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Trygg",
+          "text": "God å være nær."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner på ting."
+        },
+        {
+          "title": "Nær",
+          "text": "Alltid til stede."
+        }
+      ]
+    }
+  ]
+}
