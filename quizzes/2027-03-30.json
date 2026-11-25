@@ -1,0 +1,668 @@
+{
+  "id": "2027-03-30",
+  "date": "2027-03-30",
+  "title": "Hvilket dyrehjem er du i dag?",
+  "intro": "Om våren har mange dyr travelt med å bygge og fikse hjemmene sine. Svar på sju spørsmål og finn ut hvilket dyrehjem du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du blir invitert på middag hos noen du ikke kjenner så godt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Takker ja og tar med noe hjemmelaget",
+          "scores": {
+            "beverhytte": 1,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Takker høflig nei, jeg liker å være hjemme",
+          "scores": {
+            "sneglehus": 2,
+            "revehi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gleder meg og blir lenge",
+          "scores": {
+            "kaninhule": 2,
+            "korallrev": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sender en fin takkemelding etterpå",
+          "scores": {
+            "nett": 2,
+            "reir": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter litt med å svare",
+          "scores": {
+            "revehi": 1,
+            "sneglehus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kommer med godt humør og masse prat",
+          "scores": {
+            "bikube": 2,
+            "kaninhule": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken naturdokumentar ville du sett?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Om livet i havet",
+          "scores": {
+            "korallrev": 2,
+            "sneglehus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Om insekter og småkryp",
+          "scores": {
+            "nett": 2,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Om fugler som trekker",
+          "scores": {
+            "reir": 2,
+            "spetthull": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Om dyr i skogen om natta",
+          "scores": {
+            "revehi": 2,
+            "nett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Om dyr som bygger",
+          "scores": {
+            "beverhytte": 2,
+            "bikube": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Om de søteste dyreungene",
+          "scores": {
+            "kaninhule": 2,
+            "reir": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva vil du helst prøve på et aktivitetssenter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klatrevegg",
+          "scores": {
+            "spetthull": 2,
+            "beverhytte": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bowling med venner",
+          "scores": {
+            "maurtue": 2,
+            "bikube": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Escape room",
+          "scores": {
+            "beverhytte": 2,
+            "nett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Trampolinepark",
+          "scores": {
+            "kaninhule": 2,
+            "spetthull": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Keramikkurs",
+          "scores": {
+            "nett": 2,
+            "reir": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kafeen ved inngangen",
+          "scores": {
+            "sneglehus": 2,
+            "reir": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har mye å bære opp mange trapper. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bærer alt i én tur",
+          "scores": {
+            "spetthull": 1,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går mange turer i rolig tempo",
+          "scores": {
+            "sneglehus": 2,
+            "revehi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ber noen i huset om hjelp",
+          "scores": {
+            "bikube": 2,
+            "kaninhule": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner på en smart løsning",
+          "scores": {
+            "beverhytte": 1,
+            "nett": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjør det til en konkurranse",
+          "scores": {
+            "kaninhule": 1,
+            "spetthull": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar noe stå til i morgen",
+          "scores": {
+            "revehi": 1,
+            "korallrev": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket motiv vil du ha på et puslespill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et hav fullt av fisker",
+          "scores": {
+            "korallrev": 2,
+            "bikube": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En skog om høsten",
+          "scores": {
+            "revehi": 2,
+            "beverhytte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et kart over verden",
+          "scores": {
+            "maurtue": 2,
+            "nett": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En blomstereng",
+          "scores": {
+            "bikube": 2,
+            "reir": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et mønster som er vanskelig",
+          "scores": {
+            "nett": 1,
+            "spetthull": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et koselig hus i snøen",
+          "scores": {
+            "reir": 1,
+            "sneglehus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har lånt hytta til en venn. Hvordan ser den ut når du drar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Renere enn da jeg kom",
+          "scores": {
+            "maurtue": 1,
+            "bikube": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Akkurat som da jeg kom",
+          "scores": {
+            "revehi": 2,
+            "sneglehus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med en takkelapp og noe godt i skapet",
+          "scores": {
+            "reir": 2,
+            "korallrev": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg har fikset noe som var ødelagt",
+          "scores": {
+            "beverhytte": 2,
+            "spetthull": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt rotete, men jeg ryddet det meste",
+          "scores": {
+            "kaninhule": 2,
+            "spetthull": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Med en tegning til gjesteboka",
+          "scores": {
+            "nett": 2,
+            "reir": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan liker du vannet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rett fra springen",
+          "scores": {
+            "sneglehus": 2,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Med is og sitron",
+          "scores": {
+            "korallrev": 2,
+            "bikube": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med kullsyre",
+          "scores": {
+            "spetthull": 2,
+            "kaninhule": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en stor flaske jeg har med overalt",
+          "scores": {
+            "maurtue": 2,
+            "beverhytte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med litt saft",
+          "scores": {
+            "kaninhule": 2,
+            "reir": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fra en bekk på tur",
+          "scores": {
+            "revehi": 2,
+            "spetthull": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "reir",
+      "name": "Fuglereir",
+      "shareName": "et fuglereir",
+      "emoji": null,
+      "description": "Du er omsorgsfull, flittig og flink til å gjøre det koselig. Du bygger trygge steder for de du er glad i.",
+      "funFact": "Noen fugler, som skjæra, bygger reir med tak over.",
+      "image": "images/2027-03-30/reir.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Flittig",
+          "text": "Bygger strå for strå."
+        },
+        {
+          "title": "Koselig",
+          "text": "Myk og lun."
+        },
+        {
+          "title": "Trygg",
+          "text": "Et godt sted å være."
+        }
+      ]
+    },
+    {
+      "id": "maurtue",
+      "name": "Maurtue",
+      "shareName": "en maurtue",
+      "emoji": null,
+      "description": "Du er samarbeidsvillig, sterk og full av energi. Sammen med andre klarer du utrolig mye.",
+      "funFact": "En stor maurtue kan ha hundretusener av maur og flere dronninger.",
+      "image": "images/2027-03-30/maurtue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lagspiller",
+          "text": "Sterkere sammen."
+        },
+        {
+          "title": "Flittig",
+          "text": "Alltid i arbeid."
+        },
+        {
+          "title": "Organisert",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Sterk",
+          "text": "Bærer mye."
+        }
+      ]
+    },
+    {
+      "id": "beverhytte",
+      "name": "Beverhytte",
+      "shareName": "en beverhytte",
+      "emoji": null,
+      "description": "Du er praktisk, smart og flink til å bygge. Du løser problemer med hendene og godt hode.",
+      "funFact": "Beveren har inngangen til hytta under vann, slik at rovdyr ikke kommer inn.",
+      "image": "images/2027-03-30/beverhytte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Fikser alt."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker lurt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Jobber natt og dag."
+        },
+        {
+          "title": "Trygg",
+          "text": "Holder fienden ute."
+        }
+      ]
+    },
+    {
+      "id": "bikube",
+      "name": "Bikube",
+      "shareName": "en bikube",
+      "emoji": null,
+      "description": "Du er travel, sosial og flink til å lage noe godt av lite. Det summer rundt deg hele tiden.",
+      "funFact": "Bier bygger vokskakene sine i sekskanter, fordi det gir mest plass for minst voks.",
+      "image": "images/2027-03-30/bikube.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Travel",
+          "text": "Alltid i sving."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Deler det søte."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Perfekte mønstre."
+        }
+      ]
+    },
+    {
+      "id": "revehi",
+      "name": "Revehi",
+      "shareName": "et revehi",
+      "emoji": null,
+      "description": "Du er klok, privat og flink til å passe på deg selv. Du trenger ditt eget sted å trekke deg tilbake til.",
+      "funFact": "Rever bruker ofte hiet mest når de har unger, og sover ellers gjerne ute.",
+      "image": "images/2027-03-30/revehi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du gjør."
+        },
+        {
+          "title": "Privat",
+          "text": "Trenger egen tid."
+        },
+        {
+          "title": "Lur",
+          "text": "Finner smarte veier."
+        },
+        {
+          "title": "Uavhengig",
+          "text": "Klarer deg selv."
+        }
+      ]
+    },
+    {
+      "id": "sneglehus",
+      "name": "Sneglehus",
+      "shareName": "et sneglehus",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og tar med deg hjemmet overalt. Du har det bra uansett hvor du er.",
+      "funFact": "Sneglen bygger huset sitt selv, og det vokser sammen med den.",
+      "image": "images/2027-03-30/sneglehus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen hast her."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Kommer fram til slutt."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Hjemme overalt."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        }
+      ]
+    },
+    {
+      "id": "nett",
+      "name": "Edderkoppnett",
+      "shareName": "et edderkoppnett",
+      "emoji": null,
+      "description": "Du er kreativ, nøyaktig og tålmodig. Du lager vakre ting som andre stopper opp og ser på.",
+      "funFact": "Edderkoppsilke er sterkere enn stål med samme tykkelse.",
+      "image": "images/2027-03-30/nett.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager kunst."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Hver tråd sitter."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på rett øyeblikk."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mer enn man tror."
+        }
+      ]
+    },
+    {
+      "id": "korallrev",
+      "name": "Korallrev",
+      "shareName": "et korallrev",
+      "emoji": null,
+      "description": "Du er fargerik, gjestfri og full av liv. Rundt deg samles folk av alle slag.",
+      "funFact": "Korallrev er bygget av bittesmå dyr som kalles korallpolypper.",
+      "image": "images/2027-03-30/korallrev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye som skjer."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir mye."
+        }
+      ]
+    },
+    {
+      "id": "spetthull",
+      "name": "Hakkespetthull",
+      "shareName": "et hakkespetthull",
+      "emoji": null,
+      "description": "Du er bestemt, energisk og gir deg ikke. Når du først har bestemt deg, er det ingen som stopper deg.",
+      "funFact": "En hakkespett kan hakke rundt 20 ganger i sekundet.",
+      "image": "images/2027-03-30/spetthull.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Gir seg ikke."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Hakk for hakk."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å bygge høyt."
+        }
+      ]
+    },
+    {
+      "id": "kaninhule",
+      "name": "Kaninhule",
+      "shareName": "en kaninhule",
+      "emoji": null,
+      "description": "Du er leken, sosial og glad i å ha mange rundt deg. Hos deg er det alltid liv og røre.",
+      "funFact": "Ville kaniner graver lange ganger under jorda med mange innganger.",
+      "image": "images/2027-03-30/kaninhule.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Hopper rundt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Stor familie."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Varm",
+          "text": "Lunt og godt."
+        }
+      ]
+    }
+  ]
+}

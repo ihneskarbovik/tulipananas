@@ -1,0 +1,644 @@
+{
+  "id": "2027-03-28",
+  "date": "2027-03-28",
+  "title": "Hvilken påsketradisjon er du i dag?",
+  "intro": "God påske! Det er første påskedag, og mange har sine egne små tradisjoner. Svar på sju spørsmål og finn ut hvilken påsketradisjon du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Klokka ble stilt en time fram i natt. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt fint, jeg er opplagt",
+          "scores": {
+            "skitur": 2,
+            "appelsin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg sover bare litt lenger",
+          "scores": {
+            "solvegg": 2,
+            "krim": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg merker det ikke en gang",
+          "scores": {
+            "lilje": 2,
+            "eggjakt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg stiller alle klokkene i huset",
+          "scores": {
+            "pakeris": 2,
+            "eggmaling": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Litt trøtt, men frokosten hjelper",
+          "scores": {
+            "frokost": 2,
+            "lam": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken utflukt liker du best med familien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En tur i skog og mark",
+          "scores": {
+            "appelsin": 2,
+            "skitur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En dag på et museum",
+          "scores": {
+            "krim": 2,
+            "eggmaling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En lang lunsj på en kafé",
+          "scores": {
+            "frokost": 2,
+            "lam": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En dag i en fornøyelsespark",
+          "scores": {
+            "eggjakt": 2,
+            "appelsin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Besøk hos besteforeldre",
+          "scores": {
+            "lam": 2,
+            "pakeris": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rusletur i en blomsterpark",
+          "scores": {
+            "lilje": 2,
+            "solvegg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du har handlet og glemt én ting. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper tilbake med en gang",
+          "scores": {
+            "eggjakt": 1,
+            "skitur": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klarer meg uten",
+          "scores": {
+            "solvegg": 1,
+            "lilje": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe annet i stedet",
+          "scores": {
+            "eggmaling": 2,
+            "lam": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør naboen om å låne",
+          "scores": {
+            "frokost": 2,
+            "pakeris": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skriver den på lista til neste gang",
+          "scores": {
+            "krim": 1,
+            "pakeris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du helst når hele familien er samlet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager god mat",
+          "scores": {
+            "lam": 2,
+            "frokost": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Foreslår en tur ut",
+          "scores": {
+            "skitur": 2,
+            "krim": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner fram noe kreativt",
+          "scores": {
+            "eggmaling": 2,
+            "pakeris": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pynter hjemmet",
+          "scores": {
+            "pakeris": 2,
+            "lilje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter i gang en lek",
+          "scores": {
+            "eggjakt": 1,
+            "frokost": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner en solrik plass og slapper av",
+          "scores": {
+            "solvegg": 2,
+            "krim": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har nettopp lært noe spennende. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forteller det til alle",
+          "scores": {
+            "eggjakt": 2,
+            "frokost": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser mer om det",
+          "scores": {
+            "krim": 1,
+            "eggmaling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver det ut med en gang",
+          "scores": {
+            "appelsin": 2,
+            "skitur": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tenker på det i ro og fred",
+          "scores": {
+            "solvegg": 1,
+            "lilje": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lærer det bort til noen",
+          "scores": {
+            "lam": 2,
+            "pakeris": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva har du nesten alltid i lomma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En liten sjokolade",
+          "scores": {
+            "skitur": 2,
+            "appelsin": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En penn",
+          "scores": {
+            "krim": 2,
+            "eggmaling": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nøkler og ingenting annet",
+          "scores": {
+            "solvegg": 2,
+            "lam": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kvitteringer og småting",
+          "scores": {
+            "pakeris": 2,
+            "frokost": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et hårstrikk eller en klype",
+          "scores": {
+            "lilje": 2,
+            "eggmaling": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et kart eller en kompass-app",
+          "scores": {
+            "eggjakt": 2,
+            "skitur": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "En venn ber deg velge mellom to gensere i butikken. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøp begge!",
+          "scores": {
+            "lam": 2,
+            "frokost": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som er mest praktisk",
+          "scores": {
+            "skitur": 2,
+            "eggjakt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg tenker meg om og sammenligner nøye",
+          "scores": {
+            "krim": 2,
+            "pakeris": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den du føler deg best i",
+          "scores": {
+            "solvegg": 2,
+            "appelsin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den med finest farge",
+          "scores": {
+            "lilje": 2,
+            "frokost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den med det morsomste mønsteret",
+          "scores": {
+            "eggmaling": 2,
+            "eggjakt": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "appelsin",
+      "name": "Appelsin på tur",
+      "shareName": "en appelsin på tur",
+      "emoji": null,
+      "description": "Du er frisk, sporty og alltid klar for en tur. Du har energi til å dele med alle.",
+      "funFact": "Appelsinen er en krysning mellom pomelo og mandarin.",
+      "image": "images/2027-03-28/appelsin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Full av saft."
+        },
+        {
+          "title": "Sporty",
+          "text": "Klar for tur."
+        },
+        {
+          "title": "Delevillig",
+          "text": "Deler gjerne båter."
+        },
+        {
+          "title": "Blid",
+          "text": "Solskinn i sekken."
+        }
+      ]
+    },
+    {
+      "id": "krim",
+      "name": "Påskekrim",
+      "shareName": "påskekrim",
+      "emoji": null,
+      "description": "Du er nysgjerrig, smart og glad i en god gåte. Du gir deg ikke før du har funnet svaret.",
+      "funFact": "I Norge har det vært påskekrim-gåter på melkekartonger.",
+      "image": "images/2027-03-28/krim.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Løser gåter."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite mer."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Leser til siste side."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker en stille stund."
+        }
+      ]
+    },
+    {
+      "id": "solvegg",
+      "name": "Solveggen",
+      "shareName": "solveggen",
+      "emoji": null,
+      "description": "Du er rolig, varm og flink til å nyte øyeblikket. Du vet at de beste stundene ofte er de enkle.",
+      "funFact": "En solvegg kan bli flere grader varmere enn lufta rundt fordi veggen holder på varmen.",
+      "image": "images/2027-03-28/solvegg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar livet med ro."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir varme tilbake."
+        },
+        {
+          "title": "Nytende",
+          "text": "Lever i nuet."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress her."
+        }
+      ]
+    },
+    {
+      "id": "eggjakt",
+      "name": "Eggjakt",
+      "shareName": "en eggjakt",
+      "emoji": null,
+      "description": "Du er leken, rask og konkurranseglad. Du gjør alt til et eventyr.",
+      "funFact": "Eggjakt i påsken stammer fra Tyskland, der påskeharen gjemte egg til barna.",
+      "image": "images/2027-03-28/eggjakt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alt er en lek."
+        },
+        {
+          "title": "Rask",
+          "text": "Først i mål."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Full av iver."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Alltid på jakt."
+        }
+      ]
+    },
+    {
+      "id": "eggmaling",
+      "name": "Eggmaling",
+      "shareName": "et malt påskeegg",
+      "emoji": null,
+      "description": "Du er kreativ, fargerik og flink med hendene. Du gjør hjemmet fint uten å bruke mye penger.",
+      "funFact": "Egg kan farges med løkskall, som gir en varm brun eller rødlig farge.",
+      "image": "images/2027-03-28/eggmaling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Elsker farger."
+        },
+        {
+          "title": "Flink",
+          "text": "Gode hender."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Maler hver prikk."
+        }
+      ]
+    },
+    {
+      "id": "pakeris",
+      "name": "Påskeris",
+      "shareName": "påskeris",
+      "emoji": null,
+      "description": "Du er pyntelig, varm og glad i å gjøre det koselig. Du merker først av alle at det er vår.",
+      "funFact": "Påskeris med fargerike fjær er en tradisjon som kommer fra Sverige.",
+      "image": "images/2027-03-28/pakeris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pyntelig",
+          "text": "Gjør det fint."
+        },
+        {
+          "title": "Vårglad",
+          "text": "Merker våren først."
+        },
+        {
+          "title": "Koselig",
+          "text": "Skaper stemning."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på detaljer."
+        }
+      ]
+    },
+    {
+      "id": "skitur",
+      "name": "Påskeskitur",
+      "shareName": "en påskeskitur",
+      "emoji": null,
+      "description": "Du er sterk, utholdende og glad i frisk luft. Du trives best når du har kommet deg opp og ut.",
+      "funFact": "Ski er funnet i myrer i Norden, og de eldste er flere tusen år gamle.",
+      "image": "images/2027-03-28/skitur.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Holder hele dagen."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        },
+        {
+          "title": "Frisk",
+          "text": "Elsker frisk luft."
+        },
+        {
+          "title": "Modig",
+          "text": "Tar de bratte bakkene."
+        }
+      ]
+    },
+    {
+      "id": "lam",
+      "name": "Påskelammet",
+      "shareName": "påskelammet",
+      "emoji": null,
+      "description": "Du er gjestfri, tradisjonsrik og glad i å samle familien. Hos deg er det alltid plass ved bordet.",
+      "funFact": "Lam er en tradisjonell påskemiddag i mange land.",
+      "image": "images/2027-03-28/lam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Holder på skikkene."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler det beste."
+        },
+        {
+          "title": "Samlende",
+          "text": "Lager fellesskap."
+        }
+      ]
+    },
+    {
+      "id": "lilje",
+      "name": "Påskelilje",
+      "shareName": "en påskelilje",
+      "emoji": null,
+      "description": "Du er lys, positiv og full av håp. Du får alle rundt deg til å se fram til noe.",
+      "funFact": "Påskeliljen er en narsiss og en av de første hageblomstene som blomstrer om våren.",
+      "image": "images/2027-03-28/lilje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på det."
+        },
+        {
+          "title": "Håpefull",
+          "text": "Tror på det gode."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        }
+      ]
+    },
+    {
+      "id": "frokost",
+      "name": "Påskefrokost",
+      "shareName": "en påskefrokost",
+      "emoji": null,
+      "description": "Du er sosial, koselig og glad i lange måltider. Du får alle til å sette seg ned og prate.",
+      "funFact": "Egget er et symbol på nytt liv i påsken i mange kulturer.",
+      "image": "images/2027-03-28/frokost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt bord."
+        },
+        {
+          "title": "Koselig",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Varm",
+          "text": "Skaper trygghet."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Alltid en god samtale."
+        }
+      ]
+    }
+  ]
+}

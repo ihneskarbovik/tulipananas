@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-14",
+  "date": "2027-03-14",
+  "title": "Hvilken pai er du i dag?",
+  "intro": "I dag er det pi-dagen, fordi datoen 3/14 ligner tallet pi, 3,14. Det feirer vi med pai! Svar på sju spørsmål og finn ut hvilken pai du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du havner i en lang samtale som du synes er kjedelig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lytter høflig til det er ferdig",
+          "scores": {
+            "eplepai": 1,
+            "gresskarpai": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør om noe så samtalen blir mer spennende",
+          "scores": {
+            "quiche": 2,
+            "banoffee": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier at jeg må gå og hente noe",
+          "scores": {
+            "sitronpai": 2,
+            "kjottpai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Drar inn flere folk i samtalen",
+          "scores": {
+            "pekanpai": 2,
+            "kjottpai": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner noe å le av",
+          "scores": {
+            "banoffee": 2,
+            "sjokoladepai": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker på noe annet og nikker",
+          "scores": {
+            "blabaerpai": 1,
+            "spinatpai": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilket fyrverkeri liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store, gyldne regnbuer av lys",
+          "scores": {
+            "sjokoladepai": 2,
+            "pekanpai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Mange smell på rad",
+          "scores": {
+            "kjottpai": 2,
+            "sitronpai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Raketter i mange farger",
+          "scores": {
+            "banoffee": 2,
+            "quiche": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stille stjerneskudd i hånden",
+          "scores": {
+            "gresskarpai": 2,
+            "eplepai": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det er finest å se på fra langt unna",
+          "scores": {
+            "blabaerpai": 1,
+            "spinatpai": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, det bråker for mye",
+          "scores": {
+            "rabarbrapai": 2,
+            "kyllingpai": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du har sagt ja til å bake til et kakesalg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager mammas gamle oppskrift",
+          "scores": {
+            "eplepai": 1,
+            "gresskarpai": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver noe helt nytt",
+          "scores": {
+            "banoffee": 2,
+            "quiche": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe sunt med grønnsaker",
+          "scores": {
+            "spinatpai": 2,
+            "rabarbrapai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager dobbelt så mye som nødvendig",
+          "scores": {
+            "pekanpai": 1,
+            "sjokoladepai": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe salt som en motvekt til alt det søte",
+          "scores": {
+            "kyllingpai": 2,
+            "kjottpai": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bruker bær jeg plukket i fjor",
+          "scores": {
+            "blabaerpai": 2,
+            "sitronpai": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags vekkerklokke bruker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mobilen med fuglesang",
+          "scores": {
+            "blabaerpai": 2,
+            "rabarbrapai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En gammeldags ringeklokke",
+          "scores": {
+            "eplepai": 2,
+            "kjottpai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Radioen",
+          "scores": {
+            "pekanpai": 2,
+            "sjokoladepai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et lys som blir sterkere og sterkere",
+          "scores": {
+            "quiche": 1,
+            "spinatpai": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg våkner av meg selv",
+          "scores": {
+            "sitronpai": 2,
+            "banoffee": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noen i familien vekker meg",
+          "scores": {
+            "kyllingpai": 2,
+            "gresskarpai": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket dyr ville du hatt som maskot for laget ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En bjørn",
+          "scores": {
+            "kjottpai": 2,
+            "kyllingpai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En rev",
+          "scores": {
+            "sitronpai": 1,
+            "quiche": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En ugle",
+          "scores": {
+            "spinatpai": 2,
+            "gresskarpai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En hest",
+          "scores": {
+            "eplepai": 2,
+            "blabaerpai": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En pingvin",
+          "scores": {
+            "banoffee": 1,
+            "sjokoladepai": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En humle",
+          "scores": {
+            "rabarbrapai": 2,
+            "pekanpai": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har satt av hele dagen til noe, men blir ferdig før lunsj. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Begynner på noe nytt med en gang",
+          "scores": {
+            "sitronpai": 2,
+            "banoffee": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer en venn og finner på noe",
+          "scores": {
+            "kjottpai": 2,
+            "pekanpai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar en lang pause med noe godt",
+          "scores": {
+            "sjokoladepai": 2,
+            "gresskarpai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går en tur ute",
+          "scores": {
+            "blabaerpai": 2,
+            "rabarbrapai": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder og forbereder neste uke",
+          "scores": {
+            "quiche": 2,
+            "spinatpai": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Baker noe til familien",
+          "scores": {
+            "eplepai": 1,
+            "kyllingpai": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er pi-dagen. Hvilket fag likte du best på skolen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Matte",
+          "scores": {
+            "quiche": 2,
+            "spinatpai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gym",
+          "scores": {
+            "kjottpai": 2,
+            "sitronpai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mat og helse",
+          "scores": {
+            "kyllingpai": 2,
+            "sjokoladepai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kunst og håndverk",
+          "scores": {
+            "banoffee": 2,
+            "gresskarpai": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Naturfag",
+          "scores": {
+            "blabaerpai": 1,
+            "rabarbrapai": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Musikk",
+          "scores": {
+            "pekanpai": 2,
+            "eplepai": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "eplepai",
+      "name": "Eplepai",
+      "shareName": "en eplepai",
+      "emoji": null,
+      "description": "Du er klassisk, varm og elsket av alle. Du er den trygge favoritten folk alltid kommer tilbake til.",
+      "funFact": "Eplepai er forbundet med USA, men oppskrifter på eplepai fantes i England lenge før.",
+      "image": "images/2027-03-14/eplepai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Alltid en favoritt."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir god stemning."
+        },
+        {
+          "title": "Trygg",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker kos hjemme."
+        }
+      ]
+    },
+    {
+      "id": "rabarbrapai",
+      "name": "Rabarbrapai",
+      "shareName": "en rabarbrapai",
+      "emoji": null,
+      "description": "Du er frisk og litt syrlig med en søt kjerne. Du er glad i hagen og de første tegnene på sommer.",
+      "funFact": "Rabarbra er egentlig en grønnsak, men brukes nesten alltid som frukt i kaker og paier.",
+      "image": "images/2027-03-14/rabarbrapai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir ny energi."
+        },
+        {
+          "title": "Syrlig",
+          "text": "Har litt kant."
+        },
+        {
+          "title": "Hageglad",
+          "text": "Elsker det som gror."
+        },
+        {
+          "title": "Søt",
+          "text": "Myk innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "blabaerpai",
+      "name": "Blåbærpai",
+      "shareName": "en blåbærpai",
+      "emoji": null,
+      "description": "Du er jordnær og glad i naturen og lange turer. Du er enkel og ekte og gjør folk glade.",
+      "funFact": "Blåbær er en av svært få matvarer som er naturlig blå.",
+      "image": "images/2027-03-14/blabaerpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Turglad",
+          "text": "Elsker skogen."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen fasade."
+        },
+        {
+          "title": "Blid",
+          "text": "Gjør folk glade."
+        }
+      ]
+    },
+    {
+      "id": "sitronpai",
+      "name": "Sitronpai",
+      "shareName": "en sitronpai",
+      "emoji": null,
+      "description": "Du er frisk, skarp og full av energi. Du sier det som det er, men alltid med et smil.",
+      "funFact": "Marengsen på sitronpai lages av eggehviter og sukker som piskes til stivt skum.",
+      "image": "images/2027-03-14/sitronpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Rask i hodet."
+        },
+        {
+          "title": "Frisk",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Lyser opp rommet."
+        }
+      ]
+    },
+    {
+      "id": "kyllingpai",
+      "name": "Kyllingpai",
+      "shareName": "en kyllingpai",
+      "emoji": null,
+      "description": "Du er mettende, trygg og omsorgsfull. Du stiller opp med god mat og varme når noen trenger det.",
+      "funFact": "Før i tiden var deigen på kjøttpaier ofte bare en beholder for fyllet og ikke ment å spises.",
+      "image": "images/2027-03-14/kyllingpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ro."
+        },
+        {
+          "title": "Mettende",
+          "text": "Gir mye av seg selv."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Løser ting."
+        }
+      ]
+    },
+    {
+      "id": "quiche",
+      "name": "Quiche",
+      "shareName": "en quiche",
+      "emoji": null,
+      "description": "Du er elegant og allsidig og passer like godt til hverdag som fest. Du har god smak og liker fine detaljer.",
+      "funFact": "Quiche lorraine har navnet sitt fra Lorraine-regionen øst i Frankrike.",
+      "image": "images/2027-03-14/quiche.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har god stil."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer overalt."
+        },
+        {
+          "title": "Kresen",
+          "text": "Har god smak."
+        },
+        {
+          "title": "Sofistikert",
+          "text": "Liker det fine."
+        }
+      ]
+    },
+    {
+      "id": "pekanpai",
+      "name": "Pekanpai",
+      "shareName": "en pekanpai",
+      "emoji": null,
+      "description": "Du er søt og sjenerøs og elsker store måltider med mange folk. Du er den som tar med dessert til alle.",
+      "funFact": "Pekannøtter vokser naturlig i det sørlige USA og Mexico, og pekanpai er en klassiker til Thanksgiving.",
+      "image": "images/2027-03-14/pekanpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjenerøs",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Søt",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Festglad",
+          "text": "Elsker store selskaper."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir god stemning."
+        }
+      ]
+    },
+    {
+      "id": "gresskarpai",
+      "name": "Gresskarpai",
+      "shareName": "en gresskarpai",
+      "emoji": null,
+      "description": "Du er koselig og glad i høst, tepper og krydder. Du gjør selv en grå dag lun og god.",
+      "funFact": "Gresskar er botanisk sett et bær.",
+      "image": "images/2027-03-14/gresskarpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Skaper kos."
+        },
+        {
+          "title": "Høstglad",
+          "text": "Elsker årstidene."
+        },
+        {
+          "title": "Lun",
+          "text": "Varm og myk."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i høytider."
+        }
+      ]
+    },
+    {
+      "id": "sjokoladepai",
+      "name": "Sjokoladepai",
+      "shareName": "en sjokoladepai",
+      "emoji": null,
+      "description": "Du er raus, glad i å kose deg og elsker det som er litt ekstra. Du får alle til å si «bare en bit til».",
+      "funFact": "Kakaobønner vokser i store frukter som henger rett på stammen av kakaotreet.",
+      "image": "images/2027-03-14/sjokoladepai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Unner seg og andre."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Fristende",
+          "text": "Vanskelig å si nei til."
+        },
+        {
+          "title": "Hjertelig",
+          "text": "Har stort hjerte."
+        }
+      ]
+    },
+    {
+      "id": "banoffee",
+      "name": "Banoffeepai",
+      "shareName": "en banoffeepai",
+      "emoji": null,
+      "description": "Du er leken og kreativ og liker å kombinere ting på nye måter. Du er litt uventet, men alltid populær.",
+      "funFact": "Banoffeepai ble funnet på i en restaurant i England på begynnelsen av 1970-tallet.",
+      "image": "images/2027-03-14/banoffee.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Kombinerer det uventede."
+        },
+        {
+          "title": "Leken",
+          "text": "Har det gøy."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Moderne",
+          "text": "Prøver nye ting."
+        }
+      ]
+    },
+    {
+      "id": "spinatpai",
+      "name": "Spinatpai",
+      "shareName": "en spinatpai",
+      "emoji": null,
+      "description": "Du er sunn og jordnær og liker å ta vare på deg selv og andre. Du er ofte smartere enn folk tror.",
+      "funFact": "Spinat stammer opprinnelig fra området rundt dagens Iran.",
+      "image": "images/2027-03-14/spinatpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        },
+        {
+          "title": "Klok",
+          "text": "Smartere enn man tror."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Står stødig."
+        },
+        {
+          "title": "Grønn",
+          "text": "Glad i naturen."
+        }
+      ]
+    },
+    {
+      "id": "kjottpai",
+      "name": "Kjøttpai",
+      "shareName": "en kjøttpai",
+      "emoji": null,
+      "description": "Du er sporty, sosial og liker en god kamp. Du er enkel, sterk og passer best sammen med en gjeng.",
+      "funFact": "I Australia er en liten kjøttpai en av de mest populære tingene å spise på fotballkamp.",
+      "image": "images/2027-03-14/kjottpai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Elsker kamper."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i gjeng."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler litt."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    }
+  ]
+}

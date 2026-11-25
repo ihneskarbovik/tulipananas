@@ -1,0 +1,722 @@
+{
+  "id": "2027-03-07",
+  "date": "2027-03-07",
+  "title": "Hvilket bondegårdsdyr er du i dag?",
+  "intro": "Det er søndag, og kanskje en fin dag for en tur på landet. Svar på sju spørsmål og finn ut hvilket bondegårdsdyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva har du helst på beina om sommeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ingenting, jeg går barbeint",
+          "scores": {
+            "sau": 1,
+            "kanin": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gummistøvler",
+          "scores": {
+            "gris": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gode joggesko",
+          "scores": {
+            "hest": 2,
+            "geit": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sandaler",
+          "scores": {
+            "alpakka": 1,
+            "katt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tøffe boots",
+          "scores": {
+            "esel": 2,
+            "gas": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tresko",
+          "scores": {
+            "ku": 2,
+            "hone": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du skal passe på nøklene til naboen mens de er bortreist. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Henger dem på et fast sted med en gang",
+          "scores": {
+            "esel": 2,
+            "ku": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker at de er der flere ganger om dagen",
+          "scores": {
+            "gas": 2,
+            "hone": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vanner plantene deres i tillegg",
+          "scores": {
+            "sau": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Glemmer dem nesten, men finner dem til slutt",
+          "scores": {
+            "gris": 2,
+            "and": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjemmer dem et lurt sted",
+          "scores": {
+            "katt": 2,
+            "geit": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager en lapp så jeg ikke glemmer det",
+          "scores": {
+            "alpakka": 2,
+            "hest": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket arbeid ute liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stable ved",
+          "scores": {
+            "esel": 1,
+            "ku": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Plukke epler",
+          "scores": {
+            "kanin": 2,
+            "gris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kappe busker og trær",
+          "scores": {
+            "geit": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rake løv",
+          "scores": {
+            "sau": 1,
+            "and": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Male gjerdet",
+          "scores": {
+            "alpakka": 2,
+            "katt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stelle blomsterbedet",
+          "scores": {
+            "hone": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Det er mye bråk rundt deg. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Merker det nesten ikke",
+          "scores": {
+            "and": 2,
+            "ku": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager like mye lyd selv",
+          "scores": {
+            "gas": 2,
+            "hone": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner et stille hjørne",
+          "scores": {
+            "katt": 2,
+            "kanin": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar på hodetelefoner",
+          "scores": {
+            "alpakka": 2,
+            "hest": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir med på moroa",
+          "scores": {
+            "gris": 1,
+            "geit": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Holder ut, men blir sliten",
+          "scores": {
+            "sau": 1,
+            "esel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken matrett lager du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pannekaker",
+          "scores": {
+            "hone": 2,
+            "and": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gryterett som står lenge",
+          "scores": {
+            "ku": 1,
+            "esel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Salat med mye grønt",
+          "scores": {
+            "kanin": 2,
+            "alpakka": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Grillmat",
+          "scores": {
+            "gris": 1,
+            "gas": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fiskesuppe",
+          "scores": {
+            "katt": 2,
+            "sau": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe nytt fra en oppskrift på nett",
+          "scores": {
+            "geit": 1,
+            "hest": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvordan er du med penger?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sparer det meste",
+          "scores": {
+            "esel": 2,
+            "ku": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker dem på god mat",
+          "scores": {
+            "gris": 1,
+            "and": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper fine ting til hjemmet",
+          "scores": {
+            "alpakka": 2,
+            "katt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spanderer på venner",
+          "scores": {
+            "sau": 1,
+            "hone": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sparer til en stor opplevelse",
+          "scores": {
+            "hest": 2,
+            "geit": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Har kontroll på hver krone",
+          "scores": {
+            "gas": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du får være bonde for en dag. Hvilken jobb tar du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kjøre traktor",
+          "scores": {
+            "geit": 2,
+            "esel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høste grønnsaker",
+          "scores": {
+            "kanin": 2,
+            "gris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Selge varer i gårdsbutikken",
+          "scores": {
+            "hone": 1,
+            "gas": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Passe på at alle har det bra",
+          "scores": {
+            "sau": 2,
+            "ku": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gå rundt og se over gjerdene",
+          "scores": {
+            "hest": 2,
+            "katt": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Slappe av ved dammen",
+          "scores": {
+            "and": 2,
+            "alpakka": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ku",
+      "name": "Ku",
+      "shareName": "en ku",
+      "emoji": null,
+      "description": "Du er rolig, raus og til å stole på. Du tar livet i ditt eget tempo og gir mye til de rundt deg.",
+      "funFact": "Kuer har en mage med fire ulike kamre.",
+      "image": "images/2027-03-07/ku.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir mye."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne."
+        }
+      ]
+    },
+    {
+      "id": "gris",
+      "name": "Gris",
+      "shareName": "en gris",
+      "emoji": null,
+      "description": "Du er smart, leken og en ekte livsnyter. Du bryr deg ikke om litt søl så lenge du har det gøy.",
+      "funFact": "Griser er svært intelligente og kan lære å kjenne igjen navnet sitt.",
+      "image": "images/2027-03-07/gris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Lærer fort."
+        },
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Livsnyter",
+          "text": "Nyter maten."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tåler litt søl."
+        }
+      ]
+    },
+    {
+      "id": "sau",
+      "name": "Sau",
+      "shareName": "en sau",
+      "emoji": null,
+      "description": "Du er snill, myk og trives best sammen med vennene dine. Du er kanskje litt sjenert, men alltid lojal.",
+      "funFact": "Sauer kan kjenne igjen ansiktene til minst 50 andre sauer.",
+      "image": "images/2027-03-07/sau.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Vil alle vel."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        },
+        {
+          "title": "Myk",
+          "text": "Varm og god."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved sine."
+        }
+      ]
+    },
+    {
+      "id": "geit",
+      "name": "Geit",
+      "shareName": "en geit",
+      "emoji": null,
+      "description": "Du er nysgjerrig, sta og litt rampete. Du klatrer gjerne høyere enn andre tør.",
+      "funFact": "Geiter har avlange, rektangulære pupiller.",
+      "image": "images/2027-03-07/geit.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Sta",
+          "text": "Gjør det på din måte."
+        },
+        {
+          "title": "Rampete",
+          "text": "Litt tull."
+        },
+        {
+          "title": "Modig",
+          "text": "Klatrer høyt."
+        }
+      ]
+    },
+    {
+      "id": "hone",
+      "name": "Høne",
+      "shareName": "en høne",
+      "emoji": null,
+      "description": "Du er travel, pratsom og passer godt på de rundt deg. Du er tidlig oppe og har oversikt over alt som skjer.",
+      "funFact": "En god verpehøne kan legge rundt 300 egg i året.",
+      "image": "images/2027-03-07/hone.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Travel",
+          "text": "Alltid i gang."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har mye å si."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Morgenfugl",
+          "text": "Tidlig oppe."
+        }
+      ]
+    },
+    {
+      "id": "hest",
+      "name": "Hest",
+      "shareName": "en hest",
+      "emoji": null,
+      "description": "Du er fri, sporty og følsom. Du har mye kraft, men også et mykt hjerte.",
+      "funFact": "Hester kan sove stående.",
+      "image": "images/2027-03-07/hest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Elsker å løpe."
+        },
+        {
+          "title": "Sporty",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Følsom",
+          "text": "Merker stemninger."
+        },
+        {
+          "title": "Elegant",
+          "text": "Beveger deg vakkert."
+        }
+      ]
+    },
+    {
+      "id": "esel",
+      "name": "Esel",
+      "shareName": "et esel",
+      "emoji": null,
+      "description": "Du er klok, tålmodig og veldig lojal. Du kan være sta, men det er fordi du vet hva som er riktig.",
+      "funFact": "Eselets lange ører hjelper det å holde seg kjølig og å høre lyder langt unna.",
+      "image": "images/2027-03-07/esel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker deg om."
+        },
+        {
+          "title": "Lojal",
+          "text": "Trofast venn."
+        },
+        {
+          "title": "Sta",
+          "text": "Står på ditt."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Bærer mye."
+        }
+      ]
+    },
+    {
+      "id": "and",
+      "name": "And",
+      "shareName": "en and",
+      "emoji": null,
+      "description": "Du er avslappet, sosial og lar ting prelle av. Du trives best når du kan ta det med ro sammen med andre.",
+      "funFact": "Ender smører fjærene med olje fra en kjertel ved halen, slik at de holder seg vanntette.",
+      "image": "images/2027-03-07/and.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Lar ting prelle av."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i lag."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Glad",
+          "text": "Alltid i godt humør."
+        }
+      ]
+    },
+    {
+      "id": "gas",
+      "name": "Gås",
+      "shareName": "en gås",
+      "emoji": null,
+      "description": "Du er våken, modig og sier tydelig ifra. Du passer på dine egne og lar ingen ta seg til rette.",
+      "funFact": "Gjess har lenge blitt brukt som vaktdyr fordi de lager mye lyd når fremmede kommer.",
+      "image": "images/2027-03-07/gas.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Våken",
+          "text": "Følger med."
+        },
+        {
+          "title": "Modig",
+          "text": "Sier ifra."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Tydelig",
+          "text": "Høres godt."
+        }
+      ]
+    },
+    {
+      "id": "kanin",
+      "name": "Kanin",
+      "shareName": "en kanin",
+      "emoji": null,
+      "description": "Du er myk, rask og litt sjenert. Når du føler deg trygg, er du den mest kosete vennen man kan ha.",
+      "funFact": "Tennene til kaniner slutter aldri å vokse.",
+      "image": "images/2027-03-07/kanin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kosete",
+          "text": "Myk og varm."
+        },
+        {
+          "title": "Rask",
+          "text": "Kvikk i bevegelsene."
+        },
+        {
+          "title": "Sjenert",
+          "text": "Trenger trygghet."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Snuser på alt."
+        }
+      ]
+    },
+    {
+      "id": "alpakka",
+      "name": "Alpakka",
+      "shareName": "en alpakka",
+      "emoji": null,
+      "description": "Du er rolig, stilig og litt fin på det. Du har sans for det myke og vakre i livet.",
+      "funFact": "Alpakkaer kommer opprinnelig fra Andesfjellene i Sør-Amerika.",
+      "image": "images/2027-03-07/alpakka.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Holder roen."
+        },
+        {
+          "title": "Stilig",
+          "text": "Alltid fin."
+        },
+        {
+          "title": "Myk",
+          "text": "Liker det behagelige."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Snill mot alle."
+        }
+      ]
+    },
+    {
+      "id": "katt",
+      "name": "Gårdskatt",
+      "shareName": "en gårdskatt",
+      "emoji": null,
+      "description": "Du er selvstendig, nysgjerrig og gjør det du selv vil. Du har full kontroll på hva som skjer rundt deg.",
+      "funFact": "Katter bruker værhårene til å kjenne om de får plass i trange åpninger.",
+      "image": "images/2027-03-07/katt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Følger med på alt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Avslappet og stø."
+        },
+        {
+          "title": "Smart",
+          "text": "Har oversikten."
+        }
+      ]
+    }
+  ]
+}

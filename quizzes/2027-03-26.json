@@ -1,0 +1,660 @@
+{
+  "id": "2027-03-26",
+  "date": "2027-03-26",
+  "title": "Hvem er du i påskekrimmen i dag?",
+  "intro": "Det er langfredag, og mange koser seg med en god påskekrim. Svar på sju spørsmål og finn ut hvilken rolle du har i mysteriet i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva står på hylla di ved siden av bøkene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En globus",
+          "scores": {
+            "detektiv": 1,
+            "gjest": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En kokebok med flekker",
+          "scores": {
+            "kokk": 2,
+            "tante": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En potteplante",
+          "scores": {
+            "gartner": 2,
+            "sjafor": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pent sølvtøy",
+          "scores": {
+            "hovmester": 2,
+            "betjent": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En bunke notatbøker",
+          "scores": {
+            "journalist": 2,
+            "sporhund": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En slitt ball",
+          "scores": {
+            "sporhund": 2,
+            "gartner": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du hører to venner hviske. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør rett ut hva det gjelder",
+          "scores": {
+            "journalist": 2,
+            "tante": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Later som ingenting, men lytter",
+          "scores": {
+            "detektiv": 2,
+            "gjest": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lar dem snakke i fred",
+          "scores": {
+            "hovmester": 1,
+            "sjafor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går bort og blir med",
+          "scores": {
+            "sporhund": 2,
+            "kokk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Regner med at det er en overraskelse",
+          "scores": {
+            "gartner": 1,
+            "betjent": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket sted vil du helst utforske?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et gammelt fyrtårn",
+          "scores": {
+            "detektiv": 1,
+            "sjafor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En hemmelig hage bak en mur",
+          "scores": {
+            "gartner": 1,
+            "gjest": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En grotte ved havet",
+          "scores": {
+            "sporhund": 2,
+            "betjent": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et stort gammelt hotell",
+          "scores": {
+            "hovmester": 1,
+            "tante": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et yrende marked i en storby",
+          "scores": {
+            "kokk": 2,
+            "journalist": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et forlatt slott",
+          "scores": {
+            "gjest": 1,
+            "detektiv": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen har spist opp det du sparte i kjøleskapet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finner ut hvem det var",
+          "scores": {
+            "detektiv": 1,
+            "betjent": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager noe nytt og enda bedre",
+          "scores": {
+            "kokk": 2,
+            "gartner": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør høyt ved middagsbordet",
+          "scores": {
+            "journalist": 2,
+            "tante": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skriver en lapp til neste gang",
+          "scores": {
+            "hovmester": 2,
+            "betjent": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Trekker på skuldrene",
+          "scores": {
+            "sjafor": 2,
+            "gjest": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Snuser meg fram til synderen",
+          "scores": {
+            "sporhund": 2,
+            "detektiv": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva liker du best å spise på en lang biltur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grove skiver med ost",
+          "scores": {
+            "gartner": 2,
+            "betjent": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe spennende fra en kiosk",
+          "scores": {
+            "gjest": 2,
+            "kokk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pølse i brød på en bensinstasjon",
+          "scores": {
+            "sporhund": 2,
+            "sjafor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjemmelaget matpakke med alt",
+          "scores": {
+            "kokk": 1,
+            "detektiv": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Boller og kaffe fra termosen",
+          "scores": {
+            "tante": 2,
+            "hovmester": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bare en eplebåt i farta",
+          "scores": {
+            "sjafor": 2,
+            "journalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får en pakke på døra som ikke er til deg. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leverer den til riktig nabo med en gang",
+          "scores": {
+            "betjent": 1,
+            "hovmester": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver å finne ut hvem den er til",
+          "scores": {
+            "detektiv": 1,
+            "journalist": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Legger den pent til side og venter",
+          "scores": {
+            "hovmester": 2,
+            "gartner": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kjører den bort selv",
+          "scores": {
+            "sjafor": 2,
+            "betjent": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rister litt på den først",
+          "scores": {
+            "sporhund": 2,
+            "tante": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer avsenderen",
+          "scores": {
+            "journalist": 2,
+            "gjest": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du er på en stor, gammel herregård. Hvilket rom sitter du i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biblioteket med alle bøkene",
+          "scores": {
+            "detektiv": 2,
+            "gjest": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøkkenet der det koker",
+          "scores": {
+            "kokk": 2,
+            "sporhund": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Drivhuset i hagen",
+          "scores": {
+            "gartner": 2,
+            "sjafor": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Salongen med peis og gjester",
+          "scores": {
+            "tante": 2,
+            "journalist": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spisesalen med sølvbestikk",
+          "scores": {
+            "hovmester": 1,
+            "gjest": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Garasjen med de gamle bilene",
+          "scores": {
+            "sjafor": 2,
+            "betjent": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "detektiv",
+      "name": "Detektiven",
+      "shareName": "detektiven",
+      "emoji": null,
+      "description": "Du er skarp, nysgjerrig og legger merke til alt. Ingen detalj er for liten for deg.",
+      "funFact": "Ordet detektiv kommer fra latin «detegere», som betyr å avdekke.",
+      "image": "images/2027-03-26/detektiv.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skarp",
+          "text": "Ser det andre overser."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Må vite hvorfor."
+        },
+        {
+          "title": "Logisk",
+          "text": "Tenker steg for steg."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "hovmester",
+      "name": "Hovmesteren",
+      "shareName": "hovmesteren",
+      "emoji": null,
+      "description": "Du er høflig, ordentlig og helt til å stole på. Du holder orden på alt, og ingen merker hvor mye du gjør.",
+      "funFact": "Uttrykket «det var hovmesteren» ble kjent etter en amerikansk krimroman fra 1930.",
+      "image": "images/2027-03-26/hovmester.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Høflig",
+          "text": "Alltid gode manerer."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Alt på sin plass."
+        },
+        {
+          "title": "Diskret",
+          "text": "Holder tett."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står last og brast."
+        }
+      ]
+    },
+    {
+      "id": "gartner",
+      "name": "Gartneren",
+      "shareName": "gartneren",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og jordnær. Du ser mer enn folk tror, mens du steller i bedene.",
+      "funFact": "Ved å telle årringene i en stubbe kan man se hvor gammelt et tre ble.",
+      "image": "images/2027-03-26/gartner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Lar ting vokse."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser alt fra bedet."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Glad i det ekte."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "kokk",
+      "name": "Kokken",
+      "shareName": "kokken",
+      "emoji": null,
+      "description": "Du er kreativ, raus og full av liv. Du samler folk rundt god mat og har alltid noe i ovnen.",
+      "funFact": "Den høye kokkeluen kalles toque, og ifølge tradisjonen viser foldene hvor mange retter kokken kan lage.",
+      "image": "images/2027-03-26/kokk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Finner på nye retter."
+        },
+        {
+          "title": "Raus",
+          "text": "Mater hele huset."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid i sving."
+        },
+        {
+          "title": "Varm",
+          "text": "Hjertet på kjøkkenet."
+        }
+      ]
+    },
+    {
+      "id": "journalist",
+      "name": "Journalisten",
+      "shareName": "journalisten",
+      "emoji": null,
+      "description": "Du er modig, pratsom og stiller alltid de gode spørsmålene. Du vil vite hva som egentlig skjedde.",
+      "funFact": "Påskekrimmen startet i 1923, da en bokreklame på forsiden av Aftenposten ble trodd å være en ekte nyhet.",
+      "image": "images/2027-03-26/journalist.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Spør det andre tenker."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Snakker med alle."
+        },
+        {
+          "title": "Rask",
+          "text": "Først på saken."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Brenner for sannheten."
+        }
+      ]
+    },
+    {
+      "id": "betjent",
+      "name": "Politibetjenten",
+      "shareName": "politibetjenten",
+      "emoji": null,
+      "description": "Du er pålitelig, rettferdig og trygg å ha i nærheten. Når du er der, roer alle seg ned.",
+      "funFact": "Nødnummeret til politiet i Norge er 112.",
+      "image": "images/2027-03-26/betjent.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Lik for alle."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ro rundt seg."
+        },
+        {
+          "title": "Modig",
+          "text": "Stiller opp først."
+        }
+      ]
+    },
+    {
+      "id": "gjest",
+      "name": "Den mystiske gjesten",
+      "shareName": "den mystiske gjesten",
+      "emoji": null,
+      "description": "Du er gåtefull, sjarmerende og litt uforutsigbar. Ingen vet helt hva du tenker, og det gjør deg spennende.",
+      "funFact": "Agatha Christie er en av verdens mestselgende forfattere gjennom tidene.",
+      "image": "images/2027-03-26/gjest.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gåtefull",
+          "text": "Holder kortene tett."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å bli fascinert."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Alltid elegant."
+        },
+        {
+          "title": "Uforutsigbar",
+          "text": "Overrasker gang på gang."
+        }
+      ]
+    },
+    {
+      "id": "tante",
+      "name": "Den rike tanten",
+      "shareName": "den rike tanten",
+      "emoji": null,
+      "description": "Du er fargerik, bestemt og morsom. Du har sterke meninger og et enda større hjerte.",
+      "funFact": "Et «lukket rom»-mysterium er en gåte der det ser ut som ingen kunne ha kommet inn eller ut.",
+      "image": "images/2027-03-26/tante.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp rommet."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva hun vil."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne godt."
+        },
+        {
+          "title": "Vittig",
+          "text": "Alltid en replikk."
+        }
+      ]
+    },
+    {
+      "id": "sjafor",
+      "name": "Sjåføren",
+      "shareName": "sjåføren",
+      "emoji": null,
+      "description": "Du er punktlig, stødig og en god lytter. Du hører mye i baksetet, men sladrer aldri.",
+      "funFact": "Ordet sjåfør kommer fra fransk «chauffeur», som betyr en som fyrer opp.",
+      "image": "images/2027-03-26/sjafor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Punktlig",
+          "text": "Alltid i tide."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rolig i svingene."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører mer enn sier."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fikser det meste."
+        }
+      ]
+    },
+    {
+      "id": "sporhund",
+      "name": "Sporhunden",
+      "shareName": "sporhunden",
+      "emoji": null,
+      "description": "Du er ivrig, lojal og full av energi. Du følger sporet helt til målet, med halen i været.",
+      "funFact": "En hund har mange millioner flere luktesanseceller i nesen enn et menneske.",
+      "image": "images/2027-03-26/sporhund.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ivrig",
+          "text": "Klar på et blunk."
+        },
+        {
+          "title": "Lojal",
+          "text": "Bestevenn for alltid."
+        },
+        {
+          "title": "Energisk",
+          "text": "Løper og løper."
+        },
+        {
+          "title": "Glad",
+          "text": "Logrer hele dagen."
+        }
+      ]
+    }
+  ]
+}

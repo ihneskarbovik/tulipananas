@@ -1,0 +1,723 @@
+{
+  "id": "2027-03-03",
+  "date": "2027-03-03",
+  "title": "Hvilket truet dyr er du i dag?",
+  "intro": "I dag er det verdens dyrelivsdag, og mange truede dyr får hjelp til å klare seg bedre. Svar på sju spørsmål og finn ut hvilket av dem du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva tar du helst bilder av?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fjell og fin utsikt",
+          "scores": {
+            "snoleopard": 1,
+            "fjellrev": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Familie og venner",
+          "scores": {
+            "fjellgorilla": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Maten jeg spiser",
+          "scores": {
+            "kjempepanda": 2,
+            "neshorn": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Havet og bølgene",
+          "scores": {
+            "blahval": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Morsomme ting i hverdagen",
+          "scores": {
+            "axolotl": 2,
+            "rodpanda": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Små detaljer i naturen",
+          "scores": {
+            "skjelldyr": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du er den eneste som vet svaret på noe. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier det høyt og tydelig",
+          "scores": {
+            "tiger": 2,
+            "neshorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hvisker det til den som trenger det",
+          "scores": {
+            "skjelldyr": 2,
+            "snoleopard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forklarer det rolig og grundig",
+          "scores": {
+            "orangutang": 2,
+            "blahval": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar de andre prøve selv først",
+          "scores": {
+            "havskilpadde": 2,
+            "fjellrev": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier det med et smil og en vits",
+          "scores": {
+            "axolotl": 1,
+            "rodpanda": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjelper hele gruppen å skjønne det",
+          "scores": {
+            "fjellgorilla": 1,
+            "kjempepanda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken suvenir kjøper du helst på ferie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et lite smykke",
+          "scores": {
+            "tiger": 1,
+            "snoleopard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et kosedyr",
+          "scores": {
+            "kjempepanda": 1,
+            "rodpanda": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et skjell eller en stein fra stranden",
+          "scores": {
+            "havskilpadde": 2,
+            "skjelldyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mat og krydder fra stedet",
+          "scores": {
+            "orangutang": 1,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Postkort til familien",
+          "scores": {
+            "fjellgorilla": 2,
+            "blahval": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe rart og morsomt",
+          "scores": {
+            "axolotl": 1,
+            "fjellrev": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Noen du er glad i, blir urettferdig behandlet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rett inn og sier ifra",
+          "scores": {
+            "tiger": 2,
+            "neshorn": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stiller meg ved siden av dem",
+          "scores": {
+            "fjellgorilla": 2,
+            "kjempepanda": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tenker ut en lur løsning",
+          "scores": {
+            "orangutang": 2,
+            "fjellrev": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Trøster dem etterpå",
+          "scores": {
+            "blahval": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Får dem til å smile igjen",
+          "scores": {
+            "axolotl": 1,
+            "rodpanda": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjelper til i det stille",
+          "scores": {
+            "skjelldyr": 2,
+            "snoleopard": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags selskap trives du best i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor fest med mange folk",
+          "scores": {
+            "rodpanda": 2,
+            "axolotl": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Middag med familien",
+          "scores": {
+            "fjellgorilla": 2,
+            "kjempepanda": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kveld med én god venn",
+          "scores": {
+            "snoleopard": 2,
+            "skjelldyr": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En tur med en liten gjeng",
+          "scores": {
+            "fjellrev": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En spillkveld med konkurranse",
+          "scores": {
+            "tiger": 1,
+            "neshorn": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rolig kveld med gode samtaler",
+          "scores": {
+            "orangutang": 1,
+            "blahval": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen avbryter deg mens du snakker. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snakker videre, bare litt høyere",
+          "scores": {
+            "tiger": 2,
+            "neshorn": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter tålmodig til de er ferdige",
+          "scores": {
+            "havskilpadde": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ler og sier at det var min tur",
+          "scores": {
+            "axolotl": 2,
+            "rodpanda": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar det være og sier det senere",
+          "scores": {
+            "skjelldyr": 2,
+            "snoleopard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier rolig at jeg ikke var ferdig",
+          "scores": {
+            "fjellgorilla": 1,
+            "blahval": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lytter heller på dem",
+          "scores": {
+            "kjempepanda": 2,
+            "fjellrev": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er verdens dyrelivsdag. Hva vil du helst gjøre for naturen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plukke søppel på en tur",
+          "scores": {
+            "fjellrev": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Henge opp fuglekasser",
+          "scores": {
+            "rodpanda": 2,
+            "orangutang": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sykle i stedet for å ta bilen",
+          "scores": {
+            "snoleopard": 2,
+            "tiger": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spise mer grønnsaker",
+          "scores": {
+            "kjempepanda": 2,
+            "neshorn": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lære andre om dyr",
+          "scores": {
+            "fjellgorilla": 1,
+            "blahval": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lage et insekthotell",
+          "scores": {
+            "axolotl": 2,
+            "skjelldyr": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "snoleopard",
+      "name": "Snøleopard",
+      "shareName": "en snøleopard",
+      "emoji": null,
+      "description": "Du er stillferdig, elegant og trives i ditt eget selskap. Du viser deg ikke for alle, men de som kjenner deg, vet hvor fin du er.",
+      "funFact": "Snøleoparden kan ikke brøle slik løver og tigre kan.",
+      "image": "images/2027-03-03/snoleopard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Beveger deg lett."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer deg selv."
+        },
+        {
+          "title": "Stille",
+          "text": "Sier mye med lite."
+        },
+        {
+          "title": "Sjelden",
+          "text": "Ikke for alle."
+        }
+      ]
+    },
+    {
+      "id": "orangutang",
+      "name": "Orangutang",
+      "shareName": "en orangutang",
+      "emoji": null,
+      "description": "Du er klok, rolig og flink til å finne løsninger. Du tenker deg om før du handler, og andre spør deg gjerne om hjelp.",
+      "funFact": "Navnet orangutang betyr «skogens menneske» på malayisk.",
+      "image": "images/2027-03-03/orangutang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker gjennom ting."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        }
+      ]
+    },
+    {
+      "id": "rodpanda",
+      "name": "Rødpanda",
+      "shareName": "en rødpanda",
+      "emoji": null,
+      "description": "Du er leken, søt og litt rampete. Du gjør hverdagen morsommere for alle rundt deg.",
+      "funFact": "Rødpandaen ble beskrevet av forskere nesten 50 år før kjempepandaen.",
+      "image": "images/2027-03-03/rodpanda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på tull."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Vanskelig å motstå."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Rask og smidig."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        }
+      ]
+    },
+    {
+      "id": "kjempepanda",
+      "name": "Kjempepanda",
+      "shareName": "en kjempepanda",
+      "emoji": null,
+      "description": "Du er avslappet, rund i kantene og glad i god mat. Du skaper ro rundt deg, og folk liker å være i nærheten av deg.",
+      "funFact": "I 2016 ble kjempepandaen flyttet fra «truet» til «sårbar» på den internasjonale rødlista fordi bestanden har økt.",
+      "image": "images/2027-03-03/kjempepanda.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker et godt måltid."
+        },
+        {
+          "title": "Kosete",
+          "text": "Myk og varm."
+        },
+        {
+          "title": "Fredelig",
+          "text": "Unngår krangel."
+        }
+      ]
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "shareName": "en tiger",
+      "emoji": null,
+      "description": "Du er modig, sterk og full av selvtillit. Du går dine egne veier og står opp for det du tror på.",
+      "funFact": "Antallet ville tigre har økt de siste årene, og flest av dem lever i India.",
+      "image": "images/2027-03-03/tiger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Fri",
+          "text": "Går egne veier."
+        }
+      ]
+    },
+    {
+      "id": "havskilpadde",
+      "name": "Havskilpadde",
+      "shareName": "en havskilpadde",
+      "emoji": null,
+      "description": "Du er tålmodig, reiseglad og trofast mot stedene du er glad i. Du tar livet i ditt eget tempo og kommer alltid fram.",
+      "funFact": "Havskilpadder legger ofte eggene sine på den samme stranden der de selv ble klekket.",
+      "image": "images/2027-03-03/havskilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Tar det rolig."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Elsker lange turer."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer alltid tilbake."
+        },
+        {
+          "title": "Seig",
+          "text": "Holder ut lenge."
+        }
+      ]
+    },
+    {
+      "id": "axolotl",
+      "name": "Axolotl",
+      "shareName": "en axolotl",
+      "emoji": null,
+      "description": "Du er en optimist som alltid kommer deg på beina igjen. Du er litt annerledes, og det er akkurat derfor folk liker deg.",
+      "funFact": "Axolotlen kan gro ut igjen bein og til og med deler av hjertet.",
+      "image": "images/2027-03-03/axolotl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på ting."
+        },
+        {
+          "title": "Seig",
+          "text": "Kommer deg alltid."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Litt annerledes."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        }
+      ]
+    },
+    {
+      "id": "fjellgorilla",
+      "name": "Fjellgorilla",
+      "shareName": "en fjellgorilla",
+      "emoji": null,
+      "description": "Du er en rolig leder som tar vare på familien og vennene dine. Du er sterk, men aller mest varm og omsorgsfull.",
+      "funFact": "Fjellgorillaen ble i 2018 flyttet fra «kritisk truet» til «truet» fordi bestanden har vokst.",
+      "image": "images/2027-03-03/fjellgorilla.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på flokken."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Sterk",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Familiekjær",
+          "text": "Elsker samvær."
+        }
+      ]
+    },
+    {
+      "id": "neshorn",
+      "name": "Neshorn",
+      "shareName": "et neshorn",
+      "emoji": null,
+      "description": "Du er bestemt, tøff utenpå og myk innvendig. Når du har bestemt deg, er det vanskelig å stoppe deg.",
+      "funFact": "Neshornets horn er laget av keratin, det samme stoffet som hår og negler.",
+      "image": "images/2027-03-03/neshorn.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Tøff",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Myk",
+          "text": "Innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "blahval",
+      "name": "Blåhval",
+      "shareName": "en blåhval",
+      "emoji": null,
+      "description": "Du er rolig, dyp og har et stort hjerte. Du tenker mye og bryr deg om alle rundt deg.",
+      "funFact": "Blåhvalen er det største dyret som noen gang har levd på jorda.",
+      "image": "images/2027-03-03/blahval.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Rolig",
+          "text": "Glir gjennom livet."
+        },
+        {
+          "title": "Dyp",
+          "text": "Tenker mye."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Elsker en god sang."
+        }
+      ]
+    },
+    {
+      "id": "skjelldyr",
+      "name": "Skjelldyr",
+      "shareName": "et skjelldyr",
+      "emoji": null,
+      "description": "Du er sjenert, men helt unik. Du trenger litt tid før du åpner deg, men da finnes det ingen bedre venn.",
+      "funFact": "Skjelldyret ruller seg sammen til en hard ball når det blir redd.",
+      "image": "images/2027-03-03/skjelldyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjenert",
+          "text": "Trenger litt tid."
+        },
+        {
+          "title": "Unik",
+          "text": "Helt din egen."
+        },
+        {
+          "title": "Forsiktig",
+          "text": "Tenker før du handler."
+        },
+        {
+          "title": "Trofast",
+          "text": "God venn innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "fjellrev",
+      "name": "Fjellrev",
+      "shareName": "en fjellrev",
+      "emoji": null,
+      "description": "Du er liten, men tøff og flink til å tilpasse deg. Du finner alltid en lur løsning, uansett hvor kaldt det blåser.",
+      "funFact": "Fjellreven i Norge har fått hjelp av et avlsprogram, og bestanden har økt mye siden 2000-tallet.",
+      "image": "images/2027-03-03/fjellrev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tilpasningsdyktig",
+          "text": "Klarer alle forhold."
+        },
+        {
+          "title": "Lur",
+          "text": "Finner smarte løsninger."
+        },
+        {
+          "title": "Tøff",
+          "text": "Liten, men sterk."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Liker å utforske."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "id": "2027-03-01",
+  "date": "2027-03-01",
+  "title": "Hvilket kompliment er du i dag?",
+  "intro": "I dag er det verdens komplimentdag. Svar på sju spørsmål og finn ut hvilket kompliment som passer best til deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags lampe liker du best hjemme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stearinlys på bordet",
+          "scores": {
+            "trygg": 1,
+            "snill": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lyslenke i vinduet",
+          "scores": {
+            "smil": 2,
+            "energi": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leselampe ved lenestolen",
+          "scores": {
+            "lytter": 1,
+            "ideer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En fin designlampe",
+          "scores": {
+            "stil": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hodelykt på kveldstur",
+          "scores": {
+            "modig": 1,
+            "aldriopp": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lampe som skifter farge",
+          "scores": {
+            "morsom": 2,
+            "kreativ": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du vil overraske noen du er glad i. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en morsom video til dem",
+          "scores": {
+            "morsom": 2,
+            "energi": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager en koselig middag",
+          "scores": {
+            "snill": 2,
+            "trygg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Planlegger en hel dag nøye",
+          "scores": {
+            "stole": 2,
+            "ideer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar dem med på noe de aldri har prøvd",
+          "scores": {
+            "modig": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe hjemmelaget, som et bilde",
+          "scores": {
+            "kreativ": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Skriver et kort om hva jeg liker med dem",
+          "scores": {
+            "smil": 2,
+            "lytter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken farge ville du malt ytterdøra di?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solgul",
+          "scores": {
+            "smil": 1,
+            "energi": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Klassisk svart",
+          "scores": {
+            "stil": 2,
+            "stole": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Varm rød",
+          "scores": {
+            "trygg": 2,
+            "snill": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Turkis med et lite mønster",
+          "scores": {
+            "kreativ": 2,
+            "morsom": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mørk grønn",
+          "scores": {
+            "modig": 2,
+            "aldriopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lakkert tre",
+          "scores": {
+            "lytter": 1,
+            "stole": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du er med på et gruppearbeid. Hvilken rolle tar du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den som kommer med ideene",
+          "scores": {
+            "ideer": 2,
+            "kreativ": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den som passer på at alle blir hørt",
+          "scores": {
+            "lytter": 2,
+            "snill": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som holder fristene",
+          "scores": {
+            "stole": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som tar ordet og leder",
+          "scores": {
+            "modig": 1,
+            "energi": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som gjør det hele gøy",
+          "scores": {
+            "morsom": 1,
+            "smil": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som fullfører når andre gir seg",
+          "scores": {
+            "aldriopp": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket blad blar du helst i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et blad om historie og vitenskap",
+          "scores": {
+            "ideer": 2,
+            "lytter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et tegneserieblad",
+          "scores": {
+            "morsom": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et blad om reiser og eventyr",
+          "scores": {
+            "modig": 2,
+            "aldriopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Et blad om mote og interiør",
+          "scores": {
+            "stil": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et blad om hus og hage",
+          "scores": {
+            "trygg": 2,
+            "snill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et blad om hobby og håndarbeid",
+          "scores": {
+            "kreativ": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn er nervøs før noe viktig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lytter til det vennen gruer seg for",
+          "scores": {
+            "lytter": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Får vennen til å le litt",
+          "scores": {
+            "morsom": 1,
+            "smil": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier at jeg vet det kommer til å gå bra",
+          "scores": {
+            "trygg": 2,
+            "stole": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hjelper vennen å øve",
+          "scores": {
+            "aldriopp": 2,
+            "ideer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier at det er modig å prøve",
+          "scores": {
+            "modig": 1,
+            "snill": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir med, så vennen ikke er alene",
+          "scores": {
+            "energi": 2,
+            "stole": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva liker du best å få skryt for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At jeg er en god venn",
+          "scores": {
+            "snill": 2,
+            "stole": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "At jeg får folk til å le",
+          "scores": {
+            "morsom": 1,
+            "smil": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "At klærne mine er fine",
+          "scores": {
+            "stil": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "At jeg har laget noe selv",
+          "scores": {
+            "kreativ": 2,
+            "ideer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "At jeg har stått på lenge",
+          "scores": {
+            "aldriopp": 2,
+            "modig": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "At folk trives rundt meg",
+          "scores": {
+            "trygg": 2,
+            "energi": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "smil",
+      "name": "Du har et fint smil",
+      "shareName": "komplimentet «Du har et fint smil»",
+      "emoji": null,
+      "description": "Du er den som lyser opp et rom bare ved å komme inn. Smilet ditt smitter, og folk blir glade av å være rundt deg.",
+      "funFact": "Babyer begynner vanligvis å smile til andre når de er rundt seks til åtte uker gamle.",
+      "image": "images/2027-03-01/smil.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smiler lett og ofte."
+        },
+        {
+          "title": "Varm",
+          "text": "Gjør folk glade."
+        },
+        {
+          "title": "Åpen",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Lys",
+          "text": "Sprer godt humør."
+        }
+      ]
+    },
+    {
+      "id": "lytter",
+      "name": "Du er god til å lytte",
+      "shareName": "komplimentet «Du er god til å lytte»",
+      "emoji": null,
+      "description": "Du er den folk ringer når de trenger å bli hørt. Du stiller gode spørsmål og husker det andre forteller deg.",
+      "funFact": "Folk snakker vanligvis rundt 120 til 150 ord i minuttet, men kan lytte og forstå mye raskere.",
+      "image": "images/2027-03-01/lytter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Stiller gode spørsmål."
+        },
+        {
+          "title": "Klok",
+          "text": "Husker det viktige."
+        },
+        {
+          "title": "Tilstede",
+          "text": "Legger bort mobilen."
+        }
+      ]
+    },
+    {
+      "id": "morsom",
+      "name": "Du er så morsom",
+      "shareName": "komplimentet «Du er så morsom»",
+      "emoji": null,
+      "description": "Du er den som får hele bordet til å le. Du ser det komiske i hverdagen og deler det gjerne med andre.",
+      "funFact": "Forskning viser at vi ler mye oftere når vi er sammen med andre enn når vi er alene.",
+      "image": "images/2027-03-01/morsom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på tull."
+        },
+        {
+          "title": "Kvikk",
+          "text": "Rask i replikken."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i lag."
+        },
+        {
+          "title": "Lun",
+          "text": "Ler av seg selv."
+        }
+      ]
+    },
+    {
+      "id": "ideer",
+      "name": "Du har så gode ideer",
+      "shareName": "komplimentet «Du har så gode ideer»",
+      "emoji": null,
+      "description": "Du er den som alltid har en plan når andre står fast. Hodet ditt er fullt av løsninger og nye tanker.",
+      "funFact": "Nordmannen Johan Vaaler fikk patent på en binders i 1899, men det var en annen modell som ble den vi bruker i dag.",
+      "image": "images/2027-03-01/ideer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Smart",
+          "text": "Ser nye løsninger."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Lurer på alt."
+        },
+        {
+          "title": "Rask",
+          "text": "Tenker fort."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Deler gjerne tanker."
+        }
+      ]
+    },
+    {
+      "id": "snill",
+      "name": "Du er så snill",
+      "shareName": "komplimentet «Du er så snill»",
+      "emoji": null,
+      "description": "Du er den som legger merke til når noen trenger litt ekstra omtanke. Du gjør små, gode ting uten å vente noe tilbake.",
+      "funFact": "Verdens komplimentdag ble startet i Nederland og feires hvert år 1. mars.",
+      "image": "images/2027-03-01/snill.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omtenksom",
+          "text": "Ser hvem som trenger."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Mild",
+          "text": "Snakker pent."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        }
+      ]
+    },
+    {
+      "id": "modig",
+      "name": "Du er så modig",
+      "shareName": "komplimentet «Du er så modig»",
+      "emoji": null,
+      "description": "Du er den som tør å si ifra og prøve noe nytt. Du står for det du mener, selv når det kjennes litt skummelt.",
+      "funFact": "Ordet «mot» kommer fra norrønt, der det betydde sinn eller sinnelag.",
+      "image": "images/2027-03-01/modig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tør å prøve."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier hva du mener."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står i det."
+        },
+        {
+          "title": "Fri",
+          "text": "Følger egen vei."
+        }
+      ]
+    },
+    {
+      "id": "stil",
+      "name": "Du har så god stil",
+      "shareName": "komplimentet «Du har så god stil»",
+      "emoji": null,
+      "description": "Du er den som får vanlige ting til å se fine ut. Du har øye for farger, former og detaljer.",
+      "funFact": "Lilla farge var lenge svært dyr, fordi fargestoffet ble laget av små sjøsnegler.",
+      "image": "images/2027-03-01/stil.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilsikker",
+          "text": "Vet hva som passer."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser de små tingene."
+        },
+        {
+          "title": "Elegant",
+          "text": "Alltid litt pyntet."
+        },
+        {
+          "title": "Personlig",
+          "text": "Har din egen stil."
+        }
+      ]
+    },
+    {
+      "id": "trygg",
+      "name": "Du er så god å være sammen med",
+      "shareName": "komplimentet «Du er så god å være sammen med»",
+      "emoji": null,
+      "description": "Du er den folk slapper av rundt. Med deg kan man være helt seg selv, og stillheten blir aldri pinlig.",
+      "funFact": "En god klem får kroppen til å lage hormonet oksytocin, som gjør oss rolige.",
+      "image": "images/2027-03-01/trygg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Gir ro rundt deg."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar imot alle."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Koselig",
+          "text": "Lager god stemning."
+        }
+      ]
+    },
+    {
+      "id": "kreativ",
+      "name": "Du er så kreativ",
+      "shareName": "komplimentet «Du er så kreativ»",
+      "emoji": null,
+      "description": "Du er den som lager noe fint av nesten ingenting. Du tegner, bygger, skriver eller pynter, og hverdagen blir litt finere av det.",
+      "funFact": "De eldste kjente hulemaleriene i verden er mer enn 40 000 år gamle.",
+      "image": "images/2027-03-01/kreativ.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Skapende",
+          "text": "Lager gjerne selv."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser muligheter overalt."
+        },
+        {
+          "title": "Fri",
+          "text": "Følger innfallene."
+        },
+        {
+          "title": "Uredd",
+          "text": "Prøver nye ting."
+        }
+      ]
+    },
+    {
+      "id": "aldriopp",
+      "name": "Du gir aldri opp",
+      "shareName": "komplimentet «Du gir aldri opp»",
+      "emoji": null,
+      "description": "Du er den som fortsetter når andre har gitt seg. Du lærer av feil og prøver igjen, litt klokere for hver gang.",
+      "funFact": "Thomas Edison og medarbeiderne hans testet tusenvis av materialer før de fant en glødetråd som varte lenge.",
+      "image": "images/2027-03-01/aldriopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Utholdende",
+          "text": "Står på lenge."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar én ting om gangen."
+        },
+        {
+          "title": "Sta",
+          "text": "På en god måte."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Prøver igjen."
+        }
+      ]
+    },
+    {
+      "id": "energi",
+      "name": "Du sprer så god energi",
+      "shareName": "komplimentet «Du sprer så god energi»",
+      "emoji": null,
+      "description": "Du er den som får festen i gang og humøret opp. Folk blir piggere av å være rundt deg.",
+      "funFact": "Sola sender på ett sekund ut mer energi enn menneskene har brukt gjennom hele historien.",
+      "image": "images/2027-03-01/energi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pigg",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter med humør."
+        },
+        {
+          "title": "Spontan",
+          "text": "Sier ja til mye."
+        }
+      ]
+    },
+    {
+      "id": "stole",
+      "name": "Du er til å stole på",
+      "shareName": "komplimentet «Du er til å stole på»",
+      "emoji": null,
+      "description": "Du er den som alltid gjør det du har lovet. Folk vet at de kan regne med deg, både i store og små ting.",
+      "funFact": "Et anker holder ikke båten bare med tyngden, men ved at det graver seg fast i bunnen.",
+      "image": "images/2027-03-01/stole.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid på plass."
+        },
+        {
+          "title": "Lojal",
+          "text": "En ekte venn."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Har kontroll."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "id": "2027-03-18",
+  "date": "2027-03-18",
+  "title": "Hvilket treningsapparat er du i dag?",
+  "intro": "Noen løper, noen ror og noen ruller rundt på en stor ball. Svar på sju spørsmål og finn ut hvilket treningsapparat du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken utfordring vil du helst klare en gang?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sykle et langt ritt",
+          "scores": {
+            "spinningsykkel": 2,
+            "kettlebell": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gå et maraton",
+          "scores": {
+            "tredemolle": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Padle over et stort vann",
+          "scores": {
+            "romaskin": 2,
+            "hoppetau": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lære meg å stå på hendene",
+          "scores": {
+            "hoppetau": 2,
+            "yogamatte": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Arrangere en stor fest for noen",
+          "scores": {
+            "ribbevegg": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Løfte min egen kroppsvekt",
+          "scores": {
+            "manualer": 2,
+            "kettlebell": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du blir med i et nytt lag eller kor. Hvordan er du første gang?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hjelper til med å bære og rigge",
+          "scores": {
+            "kettlebell": 2,
+            "manualer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prater med alle med en gang",
+          "scores": {
+            "spinningsykkel": 2,
+            "treningsball": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ser an stemningen først",
+          "scores": {
+            "tredemolle": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sørger for at alle føler seg velkomne",
+          "scores": {
+            "romaskin": 2,
+            "ribbevegg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tuller og får folk til å le",
+          "scores": {
+            "hoppetau": 2,
+            "treningsball": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Følger med og lærer i mitt eget tempo",
+          "scores": {
+            "yogamatte": 2,
+            "treningsstrikk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken sykkel ville du helst hatt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Racersykkel",
+          "scores": {
+            "spinningsykkel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Terrengsykkel",
+          "scores": {
+            "kettlebell": 2,
+            "hoppetau": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bysykkel med kurv",
+          "scores": {
+            "yogamatte": 2,
+            "ribbevegg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lastesykkel med plass til mye",
+          "scores": {
+            "romaskin": 2,
+            "manualer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sammenleggbar sykkel",
+          "scores": {
+            "treningsstrikk": 2,
+            "treningsball": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tandemsykkel for to",
+          "scores": {
+            "treningsball": 2,
+            "romaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvordan er du når du har bursdag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planlegger alt selv i god tid",
+          "scores": {
+            "manualer": 2,
+            "tredemolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Vil ha stor fest med dans",
+          "scores": {
+            "hoppetau": 2,
+            "spinningsykkel": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ønsker meg en rolig dag med de nærmeste",
+          "scores": {
+            "yogamatte": 2,
+            "ribbevegg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lar andre overraske meg",
+          "scores": {
+            "treningsball": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Feirer med en aktiv tur",
+          "scores": {
+            "kettlebell": 2,
+            "romaskin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva kjøper du helst på bakeriet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort rundstykke med alt på",
+          "scores": {
+            "kettlebell": 2,
+            "manualer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skolebolle",
+          "scores": {
+            "ribbevegg": 2,
+            "tredemolle": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grovbrød med mye frø",
+          "scores": {
+            "yogamatte": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Smultring med strøssel",
+          "scores": {
+            "treningsball": 2,
+            "hoppetau": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kanelsnurr",
+          "scores": {
+            "romaskin": 1,
+            "ribbevegg": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det som er på tilbud",
+          "scores": {
+            "treningsstrikk": 2,
+            "spinningsykkel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du rekker ikke bussen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper etter den",
+          "scores": {
+            "hoppetau": 2,
+            "spinningsykkel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går i stedet, det er jo fint vær",
+          "scores": {
+            "treningsstrikk": 2,
+            "yogamatte": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sjekker rutetabellen og legger en ny plan",
+          "scores": {
+            "manualer": 2,
+            "ribbevegg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer noen og spør om skyss",
+          "scores": {
+            "treningsball": 2,
+            "romaskin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter rolig på neste",
+          "scores": {
+            "tredemolle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er sølete ute etter snøsmeltingen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper i alle sølepyttene",
+          "scores": {
+            "hoppetau": 2,
+            "treningsball": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går tur som vanlig med gode støvler",
+          "scores": {
+            "tredemolle": 1,
+            "ribbevegg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vasker sykkelen og gjør den klar",
+          "scores": {
+            "spinningsykkel": 2,
+            "manualer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Måker bort de siste snøhaugene",
+          "scores": {
+            "kettlebell": 2,
+            "manualer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rydder i boden mens det tørker opp",
+          "scores": {
+            "ribbevegg": 2,
+            "treningsstrikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar en rolig tur i parken",
+          "scores": {
+            "treningsstrikk": 2,
+            "yogamatte": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "tredemolle",
+      "name": "Tredemølle",
+      "shareName": "en tredemølle",
+      "emoji": null,
+      "description": "Du er stødig og holder tempoet ditt uansett vær. Du liker gode rutiner og kommer alltid fram til slutt.",
+      "funFact": "De første tredemøllene ble bygget for engelske fengsler på 1800-tallet.",
+      "image": "images/2027-03-18/tredemolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder jevnt tempo."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Går og går."
+        },
+        {
+          "title": "Rutinert",
+          "text": "Liker faste vaner."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid på plass."
+        }
+      ]
+    },
+    {
+      "id": "romaskin",
+      "name": "Romaskin",
+      "shareName": "en romaskin",
+      "emoji": null,
+      "description": "Du er en lagspiller med god rytme som trives når alle drar i samme retning. Du er sterkere enn du ser ut.",
+      "funFact": "På en romaskin jobber både bein, rygg og armer i hvert eneste tak.",
+      "image": "images/2027-03-18/romaskin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Samarbeid",
+          "text": "Drar sammen med andre."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Finner takten."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mer kraft enn man tror."
+        },
+        {
+          "title": "Rolig",
+          "text": "Jevn og trygg."
+        }
+      ]
+    },
+    {
+      "id": "spinningsykkel",
+      "name": "Spinningsykkel",
+      "shareName": "en spinningsykkel",
+      "emoji": null,
+      "description": "Du er energisk, glad i musikk og trives når det er fart og god stemning. Du får med deg hele gjengen.",
+      "funFact": "Spinning ble utviklet av sykkelrytteren Johnny Goldberg på slutten av 1980-tallet.",
+      "image": "images/2027-03-18/spinningsykkel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Alltid høyt tempo."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker en gjeng."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Trår i takt."
+        },
+        {
+          "title": "Ivrig",
+          "text": "Gir alt."
+        }
+      ]
+    },
+    {
+      "id": "manualer",
+      "name": "Manualer",
+      "shareName": "en manual",
+      "emoji": null,
+      "description": "Du er målrettet og systematisk, og du liker å se at ting går framover. Du gjør jobben, steg for steg.",
+      "funFact": "Det engelske ordet dumbbell kommer av at de første lignet kirkeklokker uten kolv, som ikke lagde lyd.",
+      "image": "images/2027-03-18/manualer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Målrettet",
+          "text": "Vet hva den vil."
+        },
+        {
+          "title": "Systematisk",
+          "text": "Ett steg av gangen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Planlagt",
+          "text": "Har alltid en plan."
+        }
+      ]
+    },
+    {
+      "id": "yogamatte",
+      "name": "Yogamatte",
+      "shareName": "en yogamatte",
+      "emoji": null,
+      "description": "Du er rolig, balansert og god til å puste med magen. Du skaper ro rundt deg uansett hvor du er.",
+      "funFact": "De første klebrige yogamattene ble laget av tepperunderlag på 1980-tallet.",
+      "image": "images/2027-03-18/yogamatte.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Balansert",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Bøyer seg lett."
+        },
+        {
+          "title": "Nærværende",
+          "text": "Lever i nuet."
+        }
+      ]
+    },
+    {
+      "id": "treningsball",
+      "name": "Treningsball",
+      "shareName": "en treningsball",
+      "emoji": null,
+      "description": "Du er leken og blid, og du finner balansen selv når det vingler litt. Du får folk til å smile.",
+      "funFact": "Treningsballen kalles ofte sveitserball fordi sveitsiske fysioterapeuter gjorde den kjent.",
+      "image": "images/2027-03-18/treningsball.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Balansert",
+          "text": "Finner fotfeste."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill og god."
+        }
+      ]
+    },
+    {
+      "id": "hoppetau",
+      "name": "Hoppetau",
+      "shareName": "et hoppetau",
+      "emoji": null,
+      "description": "Du er rask, leken og har mye av barnet i deg. Du er med på alt som er gøy, helst med en gang.",
+      "funFact": "Hoppetau med to tau kalles Double Dutch og er en egen konkurranseidrett.",
+      "image": "images/2027-03-18/hoppetau.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Kjappe bein."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hopper i det."
+        },
+        {
+          "title": "Lett",
+          "text": "Lite som tynger."
+        }
+      ]
+    },
+    {
+      "id": "kettlebell",
+      "name": "Kettlebell",
+      "shareName": "en kettlebell",
+      "emoji": null,
+      "description": "Du er tøff, effektiv og liker å få gjort mye på kort tid. Du tar gjerne de tunge løftene for andre.",
+      "funFact": "Kettlebells ble brukt som vekter på markeder i Russland før de ble treningsutstyr.",
+      "image": "images/2027-03-18/kettlebell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Full av styrke."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Bærer for andre."
+        }
+      ]
+    },
+    {
+      "id": "ribbevegg",
+      "name": "Ribbevegg",
+      "shareName": "en ribbevegg",
+      "emoji": null,
+      "description": "Du er klassisk, trygg og alltid der når noen trenger noe å holde seg i. Du minner folk om gode, gamle dager.",
+      "funFact": "Ribbeveggen kommer fra den svenske gymnastikken som Pehr Henrik Ling utviklet tidlig på 1800-tallet.",
+      "image": "images/2027-03-18/ribbevegg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trygg",
+          "text": "Noe å holde i."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri ute av moten."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Støtter andre."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Koselig og varm."
+        }
+      ]
+    },
+    {
+      "id": "treningsstrikk",
+      "name": "Treningsstrikk",
+      "shareName": "en treningsstrikk",
+      "emoji": null,
+      "description": "Du er fleksibel og enkel å ha med på alt. Du tilpasser deg lett, men kan også være overraskende sterk.",
+      "funFact": "En treningsstrikk gir mer motstand jo lenger du strekker den.",
+      "image": "images/2027-03-18/treningsstrikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fleksibel",
+          "text": "Strekker seg langt."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Alltid med."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir ikke opp."
+        }
+      ]
+    }
+  ]
+}

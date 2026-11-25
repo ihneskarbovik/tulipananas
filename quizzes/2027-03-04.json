@@ -1,0 +1,689 @@
+{
+  "id": "2027-03-04",
+  "date": "2027-03-04",
+  "title": "Hvilken frisyre er du i dag?",
+  "intro": "Håret sier ofte litt om hvordan vi har det. Svar på sju spørsmål og finn ut hvilken frisyre som passer deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken stol sitter du helst i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontorstol som kan snurre",
+          "scores": {
+            "topknute": 2,
+            "piggsveis": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gammel gyngestol",
+          "scores": {
+            "fletter": 2,
+            "langtlost": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stor saccosekk",
+          "scores": {
+            "kroller": 2,
+            "afro": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Elegant designstol",
+          "scores": {
+            "pageklipp": 1,
+            "sidesveis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Barkrakk ved kjøkkenbenken",
+          "scores": {
+            "snauklipp": 2,
+            "hestehale": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Vinduskarm med puter",
+          "scores": {
+            "pannelugg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan er du når du skal lære et nytt spill?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hopper i det og lærer underveis",
+          "scores": {
+            "hestehale": 1,
+            "topknute": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser reglene nøye først",
+          "scores": {
+            "fletter": 1,
+            "pageklipp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner på egne regler",
+          "scores": {
+            "kroller": 1,
+            "piggsveis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vil bare ha det forklart kort",
+          "scores": {
+            "snauklipp": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser på én runde før jeg blir med",
+          "scores": {
+            "pannelugg": 2,
+            "langtlost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Får med alle og holder stemningen oppe",
+          "scores": {
+            "afro": 1,
+            "sidesveis": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken fargeblyant tar du først?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sort",
+          "scores": {
+            "pageklipp": 2,
+            "snauklipp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Knallrosa",
+          "scores": {
+            "piggsveis": 2,
+            "kroller": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skogsgrønn",
+          "scores": {
+            "langtlost": 2,
+            "fletter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gull",
+          "scores": {
+            "afro": 1,
+            "sidesveis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Himmelblå",
+          "scores": {
+            "hestehale": 2,
+            "pannelugg": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Oransje",
+          "scores": {
+            "topknute": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvor lang tid bruker du på håret om morgenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under ett minutt",
+          "scores": {
+            "snauklipp": 2,
+            "hestehale": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fem minutter, så er jeg klar",
+          "scores": {
+            "topknute": 2,
+            "pannelugg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Litt tid, det skal se ordentlig ut",
+          "scores": {
+            "pageklipp": 1,
+            "sidesveis": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lang tid, jeg liker å fikse det",
+          "scores": {
+            "fletter": 1,
+            "piggsveis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lar det bare være som det er",
+          "scores": {
+            "langtlost": 1,
+            "kroller": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det kommer an på dagen",
+          "scores": {
+            "afro": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvordan pynter du deg til en fest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store smykker og mye farge",
+          "scores": {
+            "afro": 2,
+            "piggsveis": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe enkelt jeg føler meg fin i",
+          "scores": {
+            "snauklipp": 1,
+            "hestehale": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et pent og klassisk antrekk",
+          "scores": {
+            "pageklipp": 2,
+            "sidesveis": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe gammelt fra bruktbutikken",
+          "scores": {
+            "pannelugg": 2,
+            "fletter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe luftig og romantisk",
+          "scores": {
+            "langtlost": 1,
+            "kroller": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bestemmer meg i siste liten",
+          "scores": {
+            "topknute": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilket kurs ville du helst gått på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dans",
+          "scores": {
+            "afro": 2,
+            "piggsveis": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Strikking eller søm",
+          "scores": {
+            "fletter": 1,
+            "pannelugg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klatring",
+          "scores": {
+            "hestehale": 1,
+            "snauklipp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fotografering",
+          "scores": {
+            "pageklipp": 1,
+            "topknute": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Matlaging",
+          "scores": {
+            "sidesveis": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Keramikk",
+          "scores": {
+            "langtlost": 2,
+            "kroller": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken konsert ville du helst gått på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akustisk konsert i en liten kirke",
+          "scores": {
+            "langtlost": 2,
+            "pannelugg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rockekonsert i en stor hall",
+          "scores": {
+            "piggsveis": 2,
+            "snauklipp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Allsang på en utescene",
+          "scores": {
+            "afro": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Popkonsert med dansere",
+          "scores": {
+            "hestehale": 2,
+            "kroller": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jazz på en liten klubb",
+          "scores": {
+            "pageklipp": 2,
+            "sidesveis": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Klassisk konsert med orkester",
+          "scores": {
+            "fletter": 2,
+            "topknute": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "hestehale",
+      "name": "Hestehale",
+      "shareName": "en hestehale",
+      "emoji": null,
+      "description": "Du er sporty, effektiv og alltid klar for neste aktivitet. Du liker at ting går unna og at håret ikke er i veien.",
+      "funFact": "Hår vokser i gjennomsnitt omtrent én centimeter i måneden.",
+      "image": "images/2027-03-04/hestehale.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Klar",
+          "text": "Rask ut døra."
+        },
+        {
+          "title": "Positiv",
+          "text": "Sier ja til mye."
+        }
+      ]
+    },
+    {
+      "id": "fletter",
+      "name": "Fletter",
+      "shareName": "fletter",
+      "emoji": null,
+      "description": "Du er tålmodig, ryddig og flink med hendene. Du setter pris på tradisjoner og gjør ting ordentlig.",
+      "funFact": "Folk har flettet hår i tusenvis av år, og fletter er funnet på svært gamle figurer og mumier.",
+      "image": "images/2027-03-04/fletter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Tar den tiden det tar."
+        },
+        {
+          "title": "Nøye",
+          "text": "Gjør det ordentlig."
+        },
+        {
+          "title": "Flink",
+          "text": "Gode hender."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker det gamle."
+        }
+      ]
+    },
+    {
+      "id": "kroller",
+      "name": "Krøller",
+      "shareName": "krøller",
+      "emoji": null,
+      "description": "Du er spontan, leken og helt umulig å temme. Du gjør som du vil, og det er fint å være rundt deg.",
+      "funFact": "Om håret blir krøllete eller rett, avhenger blant annet av formen på hårsekken.",
+      "image": "images/2027-03-04/kroller.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Hiver deg med."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på ting."
+        },
+        {
+          "title": "Fri",
+          "text": "Lar deg ikke temme."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye energi."
+        }
+      ]
+    },
+    {
+      "id": "pageklipp",
+      "name": "Pageklipp",
+      "shareName": "en pageklipp",
+      "emoji": null,
+      "description": "Du er stilsikker, presis og vet akkurat hva du vil. Du har sans for det klassiske og ser alltid ordentlig ut.",
+      "funFact": "Pageklippen ble svært populær på 1920-tallet, da mange kvinner klippet håret kort for første gang.",
+      "image": "images/2027-03-04/pageklipp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilsikker",
+          "text": "Vet hva som passer."
+        },
+        {
+          "title": "Presis",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker klart."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Tidløs smak."
+        }
+      ]
+    },
+    {
+      "id": "snauklipp",
+      "name": "Snauklipp",
+      "shareName": "en snauklipp",
+      "emoji": null,
+      "description": "Du er enkel, praktisk og rett på sak. Du kaster ikke bort tid på unødvendige ting.",
+      "funFact": "Et menneske har i gjennomsnitt rundt 100 000 hårstrå på hodet.",
+      "image": "images/2027-03-04/snauklipp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Enkelt er best."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Rask",
+          "text": "Ferdig på et blunk."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lite dilldall."
+        }
+      ]
+    },
+    {
+      "id": "topknute",
+      "name": "Topknute",
+      "shareName": "en topknute",
+      "emoji": null,
+      "description": "Du er kreativ, travel og har alltid mange baller i lufta. Du ser avslappet ut, men får utrolig mye gjort.",
+      "funFact": "Sumobrytere i Japan har en tradisjonell hårknute som kalles chonmage.",
+      "image": "images/2027-03-04/topknute.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Travel",
+          "text": "Mye på gang."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Ser lett ut."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan litt av alt."
+        }
+      ]
+    },
+    {
+      "id": "pannelugg",
+      "name": "Pannelugg",
+      "shareName": "en pannelugg",
+      "emoji": null,
+      "description": "Du er drømmende, kunstnerisk og litt sjenert. Du legger merke til detaljer andre ikke ser.",
+      "funFact": "Ordet «lugg» brukes også om å dra noen i håret, altså å lugge.",
+      "image": "images/2027-03-04/pannelugg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Har tankene langt unna."
+        },
+        {
+          "title": "Kunstnerisk",
+          "text": "Øye for det fine."
+        },
+        {
+          "title": "Sjenert",
+          "text": "Trenger litt tid."
+        },
+        {
+          "title": "Observant",
+          "text": "Ser detaljene."
+        }
+      ]
+    },
+    {
+      "id": "afro",
+      "name": "Afro",
+      "shareName": "en afro",
+      "emoji": null,
+      "description": "Du er selvsikker, varm og lett å legge merke til. Du er stolt av hvem du er og får andre til å føle seg velkomne.",
+      "funFact": "Afroen ble et kjent symbol på stolthet og selvtillit på 1960- og 70-tallet.",
+      "image": "images/2027-03-04/afro.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Stolt av deg selv."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar imot alle."
+        },
+        {
+          "title": "Synlig",
+          "text": "Lett å finne."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer god stemning."
+        }
+      ]
+    },
+    {
+      "id": "langtlost",
+      "name": "Langt, løst hår",
+      "shareName": "langt, løst hår",
+      "emoji": null,
+      "description": "Du er fri, romantisk og glad i naturen. Du lar ting skje i sitt eget tempo.",
+      "funFact": "Det lengste håret som er målt på en levende person, var over fem meter langt.",
+      "image": "images/2027-03-04/langtlost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Lar ting flyte."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Elsker det vakre."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives ute."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        }
+      ]
+    },
+    {
+      "id": "sidesveis",
+      "name": "Sidesveis",
+      "shareName": "en sidesveis",
+      "emoji": null,
+      "description": "Du er sjarmerende, høflig og alltid pent antrukket. Du får folk til å føle seg sett.",
+      "funFact": "Det er helt normalt å miste mellom 50 og 100 hårstrå hver dag.",
+      "image": "images/2027-03-04/sidesveis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Høflig",
+          "text": "God oppførsel."
+        },
+        {
+          "title": "Pen",
+          "text": "Alltid stelt."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives med folk."
+        }
+      ]
+    },
+    {
+      "id": "piggsveis",
+      "name": "Piggsveis",
+      "shareName": "en piggsveis",
+      "emoji": null,
+      "description": "Du er energisk, tøff og full av humor. Du står ikke stille, og du er ikke redd for å skille deg ut.",
+      "funFact": "Hår består for det meste av proteinet keratin.",
+      "image": "images/2027-03-04/piggsveis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Tøff",
+          "text": "Skiller deg ut."
+        },
+        {
+          "title": "Morsom",
+          "text": "Mye tull."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        }
+      ]
+    }
+  ]
+}

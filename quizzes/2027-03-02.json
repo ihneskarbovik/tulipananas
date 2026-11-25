@@ -1,0 +1,690 @@
+{
+  "id": "2027-03-02",
+  "date": "2027-03-02",
+  "title": "Hvilket dyr fra Australia er du i dag?",
+  "intro": "Australia er fullt av dyr som ikke finnes noe annet sted i verden. Svar på sju spørsmål og finn ut hvilket av dem du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvor er du helst når det er skikkelig varmt ute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Under et stort tre i skyggen",
+          "scores": {
+            "koala": 1,
+            "quokka": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ute i bølgene",
+          "scores": {
+            "kenguru": 2,
+            "emu": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en uteservering med venner",
+          "scores": {
+            "kakadue": 2,
+            "latterfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Inne i kjelleren der det er kjølig",
+          "scores": {
+            "vombat": 1,
+            "maurpiggsvin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På kveldstur når sola går ned",
+          "scores": {
+            "dingo": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved en iskiosk",
+          "scores": {
+            "djevel": 2,
+            "nebbdyr": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvordan er du den første dagen av en ferie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ute og utforsker med en gang",
+          "scores": {
+            "emu": 2,
+            "dingo": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover lenge og tar det rolig",
+          "scores": {
+            "koala": 2,
+            "vombat": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner nye venner ved bassenget",
+          "scores": {
+            "quokka": 2,
+            "kakadue": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pakker ut og ordner alt først",
+          "scores": {
+            "maurpiggsvin": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "I gang med aktiviteter fra morgenen",
+          "scores": {
+            "kenguru": 1,
+            "latterfugl": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner på noe ingen andre har tenkt på",
+          "scores": {
+            "nebbdyr": 2,
+            "djevel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva legger du helst på grillen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pølser",
+          "scores": {
+            "latterfugl": 2,
+            "kenguru": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En stor burger med alt",
+          "scores": {
+            "djevel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grønnsaksspyd",
+          "scores": {
+            "koala": 1,
+            "quokka": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Maiskolbe med smør",
+          "scores": {
+            "vombat": 2,
+            "maurpiggsvin": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Laks",
+          "scores": {
+            "dingo": 2,
+            "emu": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ananas",
+          "scores": {
+            "nebbdyr": 1,
+            "kakadue": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Dere er på tur, og alle går i ulikt tempo. Hvor er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Først, langt foran",
+          "scores": {
+            "emu": 2,
+            "kenguru": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midt i gjengen og prater",
+          "scores": {
+            "kakadue": 2,
+            "quokka": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bakerst, i mitt eget tempo",
+          "scores": {
+            "koala": 1,
+            "vombat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Litt utenfor stien og utforsker",
+          "scores": {
+            "dingo": 2,
+            "nebbdyr": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ved siden av den som sliter",
+          "scores": {
+            "maurpiggsvin": 2,
+            "quokka": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tuller og synger hele veien",
+          "scores": {
+            "latterfugl": 2,
+            "djevel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags lue bruker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tykk strikkelue",
+          "scores": {
+            "koala": 2,
+            "vombat": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Caps",
+          "scores": {
+            "kenguru": 1,
+            "djevel": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stor solhatt",
+          "scores": {
+            "quokka": 2,
+            "emu": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fargerik lue med dusk",
+          "scores": {
+            "kakadue": 1,
+            "latterfugl": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Morsom lue med ører",
+          "scores": {
+            "nebbdyr": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helst bare hetta på jakka",
+          "scores": {
+            "maurpiggsvin": 2,
+            "dingo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen tar den siste kakebiten du hadde lyst på. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier tydelig ifra",
+          "scores": {
+            "djevel": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler det bort",
+          "scores": {
+            "latterfugl": 2,
+            "quokka": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner noe annet godt",
+          "scores": {
+            "kenguru": 2,
+            "emu": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier ingenting, men husker det",
+          "scores": {
+            "maurpiggsvin": 2,
+            "dingo": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar det være, det går fint",
+          "scores": {
+            "koala": 1,
+            "vombat": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Foreslår at vi deler",
+          "scores": {
+            "kakadue": 2,
+            "nebbdyr": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken opplevelse i Australia frister mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dykke ved korallrevet",
+          "scores": {
+            "nebbdyr": 2,
+            "quokka": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøre gjennom ørkenen",
+          "scores": {
+            "dingo": 2,
+            "emu": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Surfe på store bølger",
+          "scores": {
+            "kenguru": 1,
+            "latterfugl": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Se operahuset i Sydney",
+          "scores": {
+            "kakadue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Overnatte i regnskogen",
+          "scores": {
+            "koala": 2,
+            "maurpiggsvin": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bo på en gård langt ute på landet",
+          "scores": {
+            "vombat": 2,
+            "djevel": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kenguru",
+      "name": "Kenguru",
+      "shareName": "en kenguru",
+      "emoji": null,
+      "description": "Du er full av energi og alltid klar for neste hopp. Du tar vare på de rundt deg og får mye gjort på kort tid.",
+      "funFact": "Røde kenguruer kan hoppe rundt åtte meter langt i ett eneste hopp.",
+      "image": "images/2027-03-02/kenguru.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprek",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Rask",
+          "text": "Kommer fort fram."
+        },
+        {
+          "title": "Glad",
+          "text": "Full av energi."
+        }
+      ]
+    },
+    {
+      "id": "koala",
+      "name": "Koala",
+      "shareName": "en koala",
+      "emoji": null,
+      "description": "Du er rolig, kosete og vet verdien av en god pause. Du trenger ikke mye for å ha det fint.",
+      "funFact": "Koalaer kan sove opptil 20 timer i døgnet.",
+      "image": "images/2027-03-02/koala.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Kosete",
+          "text": "Elsker myke ting."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder seg til favoritter."
+        }
+      ]
+    },
+    {
+      "id": "vombat",
+      "name": "Vombat",
+      "shareName": "en vombat",
+      "emoji": null,
+      "description": "Du er jordnær, sta og glad i hjemmet ditt. Du er sterkere enn folk tror, og du gir deg ikke så lett.",
+      "funFact": "Vombater er kjent for at bæsjen deres har form som små terninger.",
+      "image": "images/2027-03-02/vombat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge bena på jorda."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker sin egen hule."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        }
+      ]
+    },
+    {
+      "id": "nebbdyr",
+      "name": "Nebbdyr",
+      "shareName": "et nebbdyr",
+      "emoji": null,
+      "description": "Du er helt unik og passer ikke inn i noen boks. Du overrasker folk hele tiden, og det er noe av det beste med deg.",
+      "funFact": "Nebbdyret er et pattedyr som legger egg.",
+      "image": "images/2027-03-02/nebbdyr.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Helt din egen."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Alltid noe nytt."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Kan mye rart."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Utforsker alt."
+        }
+      ]
+    },
+    {
+      "id": "emu",
+      "name": "Emu",
+      "shareName": "en emu",
+      "emoji": null,
+      "description": "Du er rask, nysgjerrig og elsker å være på farten. Du ser deg gjerne rundt etter neste eventyr.",
+      "funFact": "Emuen kan ikke fly, men den kan løpe i omtrent 50 kilometer i timen.",
+      "image": "images/2027-03-02/emu.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se mer."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Følger med på alt."
+        },
+        {
+          "title": "Modig",
+          "text": "Går egne veier."
+        }
+      ]
+    },
+    {
+      "id": "kakadue",
+      "name": "Kakadue",
+      "shareName": "en kakadue",
+      "emoji": null,
+      "description": "Du er sosial, pratsom og elsker å være der det skjer. Du sprer farge og liv rundt deg.",
+      "funFact": "Noen kakaduer kan bli over 60 år gamle.",
+      "image": "images/2027-03-02/kakadue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har mye å si."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på ting."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Synes godt."
+        }
+      ]
+    },
+    {
+      "id": "latterfugl",
+      "name": "Latterfugl",
+      "shareName": "en latterfugl",
+      "emoji": null,
+      "description": "Du er morsom, morgenfrisk og vanskelig å overse. Latteren din smitter, og folk merker når du er i rommet.",
+      "funFact": "Latterfuglen er en stor slektning av isfuglen, og lyden den lager høres ut som latter.",
+      "image": "images/2027-03-02/latterfugl.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morsom",
+          "text": "Ler høyt og ofte."
+        },
+        {
+          "title": "Morgenfugl",
+          "text": "Våken tidlig."
+        },
+        {
+          "title": "Hørbar",
+          "text": "Vanskelig å overse."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter med humør."
+        }
+      ]
+    },
+    {
+      "id": "dingo",
+      "name": "Dingo",
+      "shareName": "en dingo",
+      "emoji": null,
+      "description": "Du er fri, selvstendig og lojal mot dine nærmeste. Du trives best når du kan streife fritt.",
+      "funFact": "Dingoer bjeffer sjelden; i stedet uler de.",
+      "image": "images/2027-03-02/dingo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står ved flokken."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Våken",
+          "text": "Følger med."
+        }
+      ]
+    },
+    {
+      "id": "djevel",
+      "name": "Tasmansk djevel",
+      "shareName": "en tasmansk djevel",
+      "emoji": null,
+      "description": "Du er full av temperament og sier ifra når noe er galt. Du er ærlig, sterk og glad i god mat.",
+      "funFact": "Den tasmanske djevelen har et av de kraftigste bittene i forhold til kroppsstørrelsen blant pattedyrene.",
+      "image": "images/2027-03-02/djevel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker et godt måltid."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye fart i deg."
+        }
+      ]
+    },
+    {
+      "id": "quokka",
+      "name": "Quokka",
+      "shareName": "en quokka",
+      "emoji": null,
+      "description": "Du er blid, vennlig og hilser på alle. Folk blir i godt humør bare av å være i nærheten av deg.",
+      "funFact": "Quokkaen blir ofte kalt verdens lykkeligste dyr fordi den ser ut som den smiler.",
+      "image": "images/2027-03-02/quokka.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smiler hele tiden."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot nye."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil hilse på."
+        }
+      ]
+    },
+    {
+      "id": "maurpiggsvin",
+      "name": "Maurpiggsvin",
+      "shareName": "et maurpiggsvin",
+      "emoji": null,
+      "description": "Du er litt sky, men både klok og tålmodig. Du trenger tid før du åpner deg, men da er du en god venn.",
+      "funFact": "Maurpiggsvinet er, sammen med nebbdyret, et av de få pattedyrene som legger egg.",
+      "image": "images/2027-03-02/maurpiggsvin.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sky",
+          "text": "Trenger litt tid."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på rett øyeblikk."
+        },
+        {
+          "title": "Klok",
+          "text": "Tenker før du handler."
+        },
+        {
+          "title": "Trofast",
+          "text": "God venn innerst inne."
+        }
+      ]
+    }
+  ]
+}

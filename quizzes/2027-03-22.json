@@ -1,0 +1,716 @@
+{
+  "id": "2027-03-22",
+  "date": "2027-03-22",
+  "title": "Hvilken matrett fra verden er du i dag?",
+  "intro": "Verden er full av god mat, og i dag skal du finne din. Svar på sju spørsmål og finn ut hvilken matrett fra verden du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvis du skulle åpnet en liten kafé, hvor skulle den ligget?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I en stille bakgate",
+          "scores": {
+            "pho": 2,
+            "moussaka": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På et torg med mange folk",
+          "scores": {
+            "paella": 2,
+            "padthai": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I nabolaget mitt",
+          "scores": {
+            "lasagne": 2,
+            "dumplings": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nede ved havna",
+          "scores": {
+            "fishandchips": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en travel togstasjon",
+          "scores": {
+            "falafel": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I et land langt borte",
+          "scores": {
+            "curry": 2,
+            "tagine": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken kokebok ville du kjøpt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rask hverdagsmat",
+          "scores": {
+            "falafel": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gamle klassikere",
+          "scores": {
+            "moussaka": 2,
+            "lasagne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mat fra fjerne land",
+          "scores": {
+            "tagine": 2,
+            "bibimbap": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fargerik grønn mat",
+          "scores": {
+            "bibimbap": 2,
+            "falafel": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mat til store selskaper",
+          "scores": {
+            "paella": 2,
+            "curry": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg lager mat etter følelsen",
+          "scores": {
+            "padthai": 2,
+            "fishandchips": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor sitter du helst og ser på folk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en travel kafé",
+          "scores": {
+            "padthai": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en benk ved havna",
+          "scores": {
+            "fishandchips": 2,
+            "pho": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en markedsplass",
+          "scores": {
+            "tagine": 2,
+            "paella": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en trapp i sola",
+          "scores": {
+            "hamburger": 2,
+            "bibimbap": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg ser heller på folk jeg kjenner",
+          "scores": {
+            "dumplings": 2,
+            "lasagne": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fra vinduet hjemme",
+          "scores": {
+            "pho": 2,
+            "moussaka": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du lager middag til venner, og én tåler ikke alt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en egen rett bare til dem",
+          "scores": {
+            "curry": 2,
+            "dumplings": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager noe alle kan spise",
+          "scores": {
+            "bibimbap": 2,
+            "lasagne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør nøye om hva de tåler",
+          "scores": {
+            "moussaka": 2,
+            "pho": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lager en stor buffet så alle finner noe",
+          "scores": {
+            "paella": 2,
+            "tagine": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ber dem ta med noe selv",
+          "scores": {
+            "hamburger": 2,
+            "fishandchips": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Gjestene kommer, men maten er ikke ferdig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter fram snacks og underholder",
+          "scores": {
+            "padthai": 2,
+            "paella": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager resten sammen med gjestene",
+          "scores": {
+            "dumplings": 2,
+            "bibimbap": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Holder roen, det blir ferdig når det blir ferdig",
+          "scores": {
+            "tagine": 2,
+            "moussaka": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Bestiller litt ekstra mat",
+          "scores": {
+            "fishandchips": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det skjer ikke, jeg forberedte alt i går",
+          "scores": {
+            "lasagne": 2,
+            "moussaka": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tryller fram noe raskt fra skapet",
+          "scores": {
+            "falafel": 2,
+            "dumplings": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn vil at du skal prøve hobbyen deres. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir med med en gang",
+          "scores": {
+            "curry": 2,
+            "padthai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør om alt først",
+          "scores": {
+            "moussaka": 2,
+            "tagine": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir med hvis vi spiser noe godt etterpå",
+          "scores": {
+            "fishandchips": 2,
+            "lasagne": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver og lager min egen vri",
+          "scores": {
+            "bibimbap": 2,
+            "tagine": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir med fordi det betyr mye for dem",
+          "scores": {
+            "dumplings": 2,
+            "pho": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjører på for fullt og vil bli best",
+          "scores": {
+            "curry": 2,
+            "falafel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor vil du helst våkne opp en morgen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I en båt i en havn",
+          "scores": {
+            "fishandchips": 2,
+            "paella": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På et lite hotell i ørkenen",
+          "scores": {
+            "tagine": 2,
+            "curry": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I en storby med lyder fra gata",
+          "scores": {
+            "pho": 2,
+            "padthai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "I en hytte på fjellet",
+          "scores": {
+            "lasagne": 2,
+            "moussaka": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "I et telt ved en strand",
+          "scores": {
+            "falafel": 2,
+            "hamburger": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I min egen seng",
+          "scores": {
+            "dumplings": 2,
+            "hamburger": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "pho",
+      "name": "Pho",
+      "shareName": "pho",
+      "emoji": null,
+      "description": "Du er varm, enkel og trøstende, og du får folk til å føle seg bedre. Du er like god morgen som kveld.",
+      "funFact": "Pho regnes som Vietnams nasjonalrett, og mange spiser den til frokost.",
+      "image": "images/2027-03-22/pho.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trøstende",
+          "text": "Varmer helt inn."
+        },
+        {
+          "title": "Enkel",
+          "text": "Lite stress."
+        },
+        {
+          "title": "Morgenfrisk",
+          "text": "God start på dagen."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt seg selv."
+        }
+      ]
+    },
+    {
+      "id": "bibimbap",
+      "name": "Bibimbap",
+      "shareName": "bibimbap",
+      "emoji": null,
+      "description": "Du er fargerik, balansert og liker å blande ting på nye måter. Du finner plass til alle sammen i samme bolle.",
+      "funFact": "Bibimbap betyr omtrent «blandet ris» på koreansk.",
+      "image": "images/2027-03-22/bibimbap.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Balansert",
+          "text": "Litt av alt."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Blander nytt."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Plass til alle."
+        }
+      ]
+    },
+    {
+      "id": "padthai",
+      "name": "Pad thai",
+      "shareName": "pad thai",
+      "emoji": null,
+      "description": "Du er sosial, energisk og passer perfekt inn i et yrende gateliv. Du er søt og frisk på samme tid.",
+      "funFact": "Pad thai ble gjort kjent som en nasjonalrett i Thailand på 1930- og 40-tallet.",
+      "image": "images/2027-03-22/padthai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Elsker folk."
+        },
+        {
+          "title": "Energisk",
+          "text": "Høyt tempo."
+        },
+        {
+          "title": "Frisk",
+          "text": "Litt syrlig."
+        },
+        {
+          "title": "Spontan",
+          "text": "Klar på kort varsel."
+        }
+      ]
+    },
+    {
+      "id": "curry",
+      "name": "Curry",
+      "shareName": "curry",
+      "emoji": null,
+      "description": "Du er varm, raus og full av liv, og du setter spor der du går. Når du engasjerer deg, gjør du det helhjertet.",
+      "funFact": "Ordet curry kommer trolig fra det tamilske ordet «kari», som betyr saus.",
+      "image": "images/2027-03-22/curry.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Mye hjerte."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Engasjert",
+          "text": "Gir alt."
+        },
+        {
+          "title": "Krydret",
+          "text": "Aldri kjedelig."
+        }
+      ]
+    },
+    {
+      "id": "paella",
+      "name": "Paella",
+      "shareName": "paella",
+      "emoji": null,
+      "description": "Du er festlig og gjestfri, og du elsker å samle mange rundt samme bord. Med deg blir et måltid til en fest.",
+      "funFact": "Paella har fått navnet sitt fra den store, flate pannen den lages i.",
+      "image": "images/2027-03-22/paella.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Lager stemning."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker store lag."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        }
+      ]
+    },
+    {
+      "id": "lasagne",
+      "name": "Lasagne",
+      "shareName": "lasagne",
+      "emoji": null,
+      "description": "Du er koselig og trofast, og du blir bare bedre jo bedre man kjenner deg. Du er den alle gleder seg til å se igjen.",
+      "funFact": "I Bologna lages lasagne tradisjonelt med grønne plater, farget med spinat.",
+      "image": "images/2027-03-22/lasagne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Som en klem."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid god."
+        },
+        {
+          "title": "Lagdelt",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Familiær",
+          "text": "Samler alle."
+        }
+      ]
+    },
+    {
+      "id": "hamburger",
+      "name": "Hamburger",
+      "shareName": "en hamburger",
+      "emoji": null,
+      "description": "Du er uformell, avslappet og lett å like. Du trenger ikke mye stas for å ha det fint.",
+      "funFact": "Hamburgeren har trolig fått navnet sitt fra den tyske byen Hamburg.",
+      "image": "images/2027-03-22/hamburger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Likandes",
+          "text": "Venn med alle."
+        },
+        {
+          "title": "Uformell",
+          "text": "Ingen stas."
+        },
+        {
+          "title": "Glad",
+          "text": "Alltid god stemning."
+        }
+      ]
+    },
+    {
+      "id": "falafel",
+      "name": "Falafel",
+      "shareName": "falafel",
+      "emoji": null,
+      "description": "Du er praktisk og alltid klar for neste ting. Du er litt tøff i kantene, men myk og god inni.",
+      "funFact": "Falafel lages av moste kikerter eller favabønner som formes til små boller og friteres.",
+      "image": "images/2027-03-22/falafel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Klar på farten."
+        },
+        {
+          "title": "Rask",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Myk",
+          "text": "God inni."
+        },
+        {
+          "title": "Grønn",
+          "text": "Glad i det sunne."
+        }
+      ]
+    },
+    {
+      "id": "dumplings",
+      "name": "Dumplings",
+      "shareName": "dumplings",
+      "emoji": null,
+      "description": "Du er omsorgsfull og full av gode overraskelser. Du bryr deg om tradisjoner og om menneskene rundt deg.",
+      "funFact": "Kinesiske dumplings, jiaozi, er tradisjonsmat på kinesisk nyttår.",
+      "image": "images/2027-03-22/dumplings.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mye inni."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Liker gamle skikker."
+        },
+        {
+          "title": "Nær",
+          "text": "Viktig med familie."
+        }
+      ]
+    },
+    {
+      "id": "moussaka",
+      "name": "Moussaka",
+      "shareName": "moussaka",
+      "emoji": null,
+      "description": "Du er klassisk, tålmodig og grundig, og du tar deg tid til å gjøre ting skikkelig. Det er verdt å vente på deg.",
+      "funFact": "Den greske moussakaen fikk sitt kjente toppen av hvit saus på 1920-tallet, takket være kokken Nikolaos Tselementes.",
+      "image": "images/2027-03-22/moussaka.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Grundig",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Alltid i stil."
+        },
+        {
+          "title": "Solid",
+          "text": "Til å stole på."
+        }
+      ]
+    },
+    {
+      "id": "fishandchips",
+      "name": "Fish and chips",
+      "shareName": "fish and chips",
+      "emoji": null,
+      "description": "Du er ukomplisert og glad i livet ved havet. Du har godt humør, og du gjør det enkle til noe hyggelig.",
+      "funFact": "Fish and chips var en av få matretter som ikke ble rasjonert i Storbritannia under andre verdenskrig.",
+      "image": "images/2027-03-22/fishandchips.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ukomplisert",
+          "text": "Enkel og god."
+        },
+        {
+          "title": "Humør",
+          "text": "Mye latter."
+        },
+        {
+          "title": "Havkjær",
+          "text": "Elsker sjøluft."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Liker det gamle."
+        }
+      ]
+    },
+    {
+      "id": "tagine",
+      "name": "Tagine",
+      "shareName": "tagine",
+      "emoji": null,
+      "description": "Du er rolig, eventyrlysten og litt mystisk, og du vet at det beste ofte tar tid. Du gir folk nye smaker og ideer.",
+      "funFact": "Tagine er både navnet på retten og på den kjegleformede leirgryta den lages i.",
+      "image": "images/2027-03-22/tagine.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar tiden til hjelp."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil utforske."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelig."
+        },
+        {
+          "title": "Varm",
+          "text": "God og lun."
+        }
+      ]
+    }
+  ]
+}

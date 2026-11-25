@@ -1,0 +1,668 @@
+{
+  "id": "2027-03-31",
+  "date": "2027-03-31",
+  "title": "Hva fra Japan er du i dag?",
+  "intro": "Japan er et land fullt av vakre tradisjoner, god mat og moderne oppfinnelser. Svar på sju spørsmål og finn ut hva fra Japan du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken hage liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stille hage med stein og mose",
+          "scores": {
+            "matcha": 2,
+            "bonsai": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "En hage full av blomstrende trær",
+          "scores": {
+            "sakura": 2,
+            "koi": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En grønnsakshage med mye å høste",
+          "scores": {
+            "ramen": 2,
+            "bento": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En hage med dam og fisker",
+          "scores": {
+            "koi": 2,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En takhage midt i byen",
+          "scores": {
+            "lyntog": 2,
+            "karaoke": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor plen til lek",
+          "scores": {
+            "vinkekatt": 1,
+            "karaoke": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du må sitte stille lenge på et langt foredrag. Hvordan går det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helt fint, jeg følger nøye med",
+          "scores": {
+            "matcha": 2,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg skriver notater",
+          "scores": {
+            "bento": 2,
+            "lyntog": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg begynner å tegne i margen",
+          "scores": {
+            "sakura": 2,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg vrir meg på stolen",
+          "scores": {
+            "karaoke": 2,
+            "lyntog": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg smiler til de rundt meg",
+          "scores": {
+            "vinkekatt": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg slapper av og lar tankene vandre",
+          "scores": {
+            "koi": 2,
+            "fuji": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva kjøper du helst fra en matvogn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dumplings",
+          "scores": {
+            "bento": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nudler i boks",
+          "scores": {
+            "ramen": 2,
+            "lyntog": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vafler",
+          "scores": {
+            "vinkekatt": 2,
+            "sakura": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Taco",
+          "scores": {
+            "karaoke": 2,
+            "vinkekatt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Grillede grønnsaker",
+          "scores": {
+            "bonsai": 2,
+            "matcha": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En kopp varm te",
+          "scores": {
+            "matcha": 2,
+            "fuji": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får en gave pakket utrolig fint inn. Hva gjør du med papiret?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Åpner forsiktig og bretter det pent",
+          "scores": {
+            "bento": 2,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "River det opp med en gang",
+          "scores": {
+            "karaoke": 2,
+            "lyntog": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tar bilde av pakken først",
+          "scores": {
+            "sakura": 2,
+            "vinkekatt": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sparer det til neste gave",
+          "scores": {
+            "bonsai": 2,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kaster det rett i papirsøpla",
+          "scores": {
+            "lyntog": 1,
+            "matcha": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager noe morsomt av det",
+          "scores": {
+            "vinkekatt": 2,
+            "koi": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva samler du på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Små figurer",
+          "scores": {
+            "vinkekatt": 2,
+            "sakura": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fine skåler og kopper",
+          "scores": {
+            "ramen": 2,
+            "koi": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Klistremerker",
+          "scores": {
+            "karaoke": 1,
+            "bento": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pressede blomster",
+          "scores": {
+            "sakura": 1,
+            "fuji": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fine steiner",
+          "scores": {
+            "fuji": 2,
+            "koi": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Billetter fra turer",
+          "scores": {
+            "lyntog": 1,
+            "bonsai": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det er trangt og fullt på toget. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rolig, jeg hører på musikk",
+          "scores": {
+            "matcha": 2,
+            "koi": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg gir bort plassen min",
+          "scores": {
+            "ramen": 2,
+            "vinkekatt": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg står helt stille og venter",
+          "scores": {
+            "fuji": 2,
+            "matcha": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg går av og går resten",
+          "scores": {
+            "lyntog": 2,
+            "bento": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg prater med den ved siden av",
+          "scores": {
+            "karaoke": 2,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg ser ut av vinduet og drømmer",
+          "scores": {
+            "koi": 2,
+            "sakura": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er siste dag i mars. Hva gleder du deg mest til i april?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De første blomstene",
+          "scores": {
+            "sakura": 1,
+            "bonsai": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lyse kvelder ute med venner",
+          "scores": {
+            "karaoke": 1,
+            "ramen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Å komme i gang med nye planer",
+          "scores": {
+            "lyntog": 2,
+            "bento": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Å sitte ute med en kopp te",
+          "scores": {
+            "matcha": 2,
+            "koi": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lange turer i vårsola",
+          "scores": {
+            "fuji": 2,
+            "vinkekatt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Å rydde og gjøre klart til sommeren",
+          "scores": {
+            "bento": 1,
+            "bonsai": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sakura",
+      "name": "Kirsebærblomst",
+      "shareName": "en kirsebærblomst",
+      "emoji": null,
+      "description": "Du er vakker, vennlig og flink til å nyte øyeblikket. Du minner andre på at de fine stundene er verdt å stoppe opp for.",
+      "funFact": "I Japan feirer folk kirsebærblomstringen med piknik under trærne, og det kalles hanami.",
+      "image": "images/2027-03-31/sakura.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vennlig",
+          "text": "Varm mot alle."
+        },
+        {
+          "title": "Nytende",
+          "text": "Lever i nuet."
+        },
+        {
+          "title": "Vakker",
+          "text": "Innvendig og utvendig."
+        },
+        {
+          "title": "Sart",
+          "text": "Mykt hjerte."
+        }
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "Fuji",
+      "shareName": "Fuji",
+      "emoji": null,
+      "description": "Du er rolig, stødig og imponerende. Folk ser opp til deg uten at du prøver.",
+      "funFact": "Fuji er Japans høyeste fjell, 3776 meter, og er en vulkan.",
+      "image": "images/2027-03-31/fuji.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stille styrke."
+        },
+        {
+          "title": "Klok",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Inspirerende",
+          "text": "Andre ser opp til deg."
+        }
+      ]
+    },
+    {
+      "id": "lyntog",
+      "name": "Lyntog",
+      "shareName": "et lyntog",
+      "emoji": null,
+      "description": "Du er rask, presis og effektiv. Når du har bestemt deg, går det unna.",
+      "funFact": "Det første japanske lyntoget, shinkansen, begynte å kjøre i 1964.",
+      "image": "images/2027-03-31/lyntog.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Full fart framover."
+        },
+        {
+          "title": "Presis",
+          "text": "Alltid i tide."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Moderne",
+          "text": "Liker det nye."
+        }
+      ]
+    },
+    {
+      "id": "bonsai",
+      "name": "Bonsaitre",
+      "shareName": "et bonsaitre",
+      "emoji": null,
+      "description": "Du er tålmodig, omtenksom og flink med detaljer. Du vet at gode ting tar tid.",
+      "funFact": "Et bonsaitre er et vanlig tre som holdes lite med forsiktig beskjæring.",
+      "image": "images/2027-03-31/bonsai.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Gode ting tar tid."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Øye for detaljer."
+        },
+        {
+          "title": "Rolig",
+          "text": "Finner ro i stell."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tar vare på det lille."
+        }
+      ]
+    },
+    {
+      "id": "ramen",
+      "name": "Ramen",
+      "shareName": "en bolle ramen",
+      "emoji": null,
+      "description": "Du er varm, sosial og god å ha rundt seg. Du er den folk kommer til når de trenger trøst.",
+      "funFact": "Instantnudler ble oppfunnet i Japan i 1958.",
+      "image": "images/2027-03-31/ramen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Varmer innenfra."
+        },
+        {
+          "title": "Sosial",
+          "text": "Glad i folk."
+        },
+        {
+          "title": "Trøstende",
+          "text": "God når det er tøft."
+        },
+        {
+          "title": "Raus",
+          "text": "Alltid nok til flere."
+        }
+      ]
+    },
+    {
+      "id": "vinkekatt",
+      "name": "Vinkekatt",
+      "shareName": "en vinkekatt",
+      "emoji": null,
+      "description": "Du er blid, imøtekommende og bringer lykke med deg. Folk blir i godt humør når du er i nærheten.",
+      "funFact": "Vinkekatten, maneki-neko, skal ifølge tradisjonen bringe lykke og kunder til butikker.",
+      "image": "images/2027-03-31/vinkekatt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Vinker til alle."
+        },
+        {
+          "title": "Heldig",
+          "text": "Bringer lykke."
+        },
+        {
+          "title": "Imøtekommende",
+          "text": "Alltid velkommen."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser lyst på det."
+        }
+      ]
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha",
+      "shareName": "en kopp matcha",
+      "emoji": null,
+      "description": "Du er rolig, bevisst og litt stilfull. Du setter pris på små ritualer i hverdagen.",
+      "funFact": "Matcha er grønn te malt til fint pulver, så man drikker hele bladet.",
+      "image": "images/2027-03-31/matcha.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Bevisst",
+          "text": "Tenker over valgene."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ro i sjela."
+        },
+        {
+          "title": "Stilfull",
+          "text": "Smak for det fine."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Til stede her og nå."
+        }
+      ]
+    },
+    {
+      "id": "koi",
+      "name": "Koi",
+      "shareName": "en koi",
+      "emoji": null,
+      "description": "Du er fargerik, rolig og trofast. Du glir gjennom livet med ro og stil.",
+      "funFact": "Koikarper kan bli flere tiår gamle.",
+      "image": "images/2027-03-31/koi.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Mange fine sider."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder ut lenge."
+        },
+        {
+          "title": "Rolig",
+          "text": "Glir gjennom livet."
+        },
+        {
+          "title": "Heldig",
+          "text": "Et godt tegn."
+        }
+      ]
+    },
+    {
+      "id": "bento",
+      "name": "Bentoboks",
+      "shareName": "en bentoboks",
+      "emoji": null,
+      "description": "Du er organisert, kreativ og omtenksom. Du liker at alt har sin plass, og at det ser fint ut.",
+      "funFact": "En bentoboks er en matpakke med mange små rom, og maten legges ofte pent i mønstre.",
+      "image": "images/2027-03-31/bento.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Organisert",
+          "text": "Alt har sin plass."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Gjør det fint."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Lager med kjærlighet."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Klar til å ta med."
+        }
+      ]
+    },
+    {
+      "id": "karaoke",
+      "name": "Karaoke",
+      "shareName": "karaoke",
+      "emoji": null,
+      "description": "Du er modig, morsom og elsker å underholde. Du får alle til å synge med.",
+      "funFact": "Ordet karaoke betyr «tomt orkester» på japansk.",
+      "image": "images/2027-03-31/karaoke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tar mikrofonen."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et publikum."
+        },
+        {
+          "title": "Uredd",
+          "text": "Synger falskt med stolthet."
+        }
+      ]
+    }
+  ]
+}

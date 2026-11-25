@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-12",
+  "date": "2027-03-12",
+  "title": "Hvilket rom i huset er du i dag?",
+  "intro": "Hvert rom i et hus har sin egen stemning. Svar på sju spørsmål og finn ut hvilket rom som ligner mest på deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket spisebord liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et rundt bord der alle ser hverandre",
+          "scores": {
+            "spisestue": 2,
+            "stue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et langbord med benker",
+          "scores": {
+            "kjokken": 1,
+            "lekerom": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et lite kafébord ved vinduet",
+          "scores": {
+            "vinterhage": 2,
+            "soverom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En kjøkkenøy med barkrakker",
+          "scores": {
+            "gang": 2,
+            "kontor": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et gammelt trebord med mange merker",
+          "scores": {
+            "loft": 2,
+            "garasje": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg spiser helst i sofaen",
+          "scores": {
+            "stue": 2,
+            "soverom": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du har sølt på noe du har lånt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vasker det med en gang",
+          "scores": {
+            "bad": 2,
+            "kjeller": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sier fra og kjøper nytt om det trengs",
+          "scores": {
+            "kontor": 2,
+            "spisestue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Prøver å fikse det selv",
+          "scores": {
+            "garasje": 2,
+            "loft": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ler litt og forklarer hva som skjedde",
+          "scores": {
+            "lekerom": 2,
+            "stue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir lei meg og tenker mye på det",
+          "scores": {
+            "soverom": 2,
+            "vinterhage": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ber om tips til hvordan jeg fjerner flekken",
+          "scores": {
+            "kjokken": 2,
+            "gang": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken dag i uka liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandag, da starter alt på nytt",
+          "scores": {
+            "kontor": 2,
+            "gang": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Onsdag, midt i uka",
+          "scores": {
+            "kjeller": 2,
+            "bad": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fredag",
+          "scores": {
+            "stue": 2,
+            "lekerom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lørdag",
+          "scores": {
+            "kjokken": 1,
+            "garasje": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Søndag",
+          "scores": {
+            "soverom": 2,
+            "spisestue": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Torsdag, fordi helgen nærmer seg",
+          "scores": {
+            "vinterhage": 2,
+            "loft": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du glemmer hva du skulle si midt i en setning. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler og sier at det kommer tilbake",
+          "scores": {
+            "lekerom": 2,
+            "stue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Prøver å huske hva vi snakket om",
+          "scores": {
+            "kontor": 2,
+            "bad": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier at det ikke var så viktig",
+          "scores": {
+            "gang": 1,
+            "kjeller": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Begynner å snakke om noe helt annet",
+          "scores": {
+            "loft": 2,
+            "kjokken": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter stille til jeg kommer på det",
+          "scores": {
+            "soverom": 1,
+            "vinterhage": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør de andre om de husker det",
+          "scores": {
+            "spisestue": 2,
+            "garasje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilken gryterett liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lapskaus",
+          "scores": {
+            "spisestue": 2,
+            "kjeller": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Chili con carne",
+          "scores": {
+            "garasje": 2,
+            "lekerom": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kyllinggryte med karri",
+          "scores": {
+            "kjokken": 2,
+            "vinterhage": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fårikål",
+          "scores": {
+            "stue": 1,
+            "loft": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Grønnsaksgryte",
+          "scores": {
+            "vinterhage": 2,
+            "bad": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Stroganoff",
+          "scores": {
+            "kontor": 2,
+            "gang": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du må vente på at noen blir ferdig på badet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banker på og spør hvor lenge det er igjen",
+          "scores": {
+            "gang": 2,
+            "kontor": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker tiden til å rydde litt",
+          "scores": {
+            "bad": 2,
+            "kjeller": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager frokost så lenge",
+          "scores": {
+            "kjokken": 1,
+            "spisestue": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Legger meg ned igjen en liten stund",
+          "scores": {
+            "soverom": 2,
+            "stue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Finner på noe morsomt i mellomtiden",
+          "scores": {
+            "lekerom": 2,
+            "loft": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fikser noe som har vært ødelagt lenge",
+          "scores": {
+            "garasje": 2,
+            "vinterhage": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor er lufta best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved havet",
+          "scores": {
+            "gang": 2,
+            "bad": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På fjellet",
+          "scores": {
+            "kjeller": 2,
+            "kontor": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I skogen rett etter regn",
+          "scores": {
+            "vinterhage": 2,
+            "garasje": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Inne med vinduet på gløtt",
+          "scores": {
+            "soverom": 1,
+            "loft": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Utenfor et bakeri",
+          "scores": {
+            "kjokken": 1,
+            "spisestue": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "På en lekeplass om våren",
+          "scores": {
+            "lekerom": 2,
+            "stue": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stue",
+      "name": "Stue",
+      "shareName": "stua",
+      "emoji": null,
+      "description": "Du er sosial og avslappet og samler folk rundt deg. Hos deg er det alltid plass i sofaen.",
+      "funFact": "Ordet «stue» kommer fra norrønt «stofa», som var det oppvarmede rommet i huset.",
+      "image": "images/2027-03-12/stue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det hjemlig."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle får plass."
+        }
+      ]
+    },
+    {
+      "id": "kjokken",
+      "name": "Kjøkken",
+      "shareName": "kjøkkenet",
+      "emoji": null,
+      "description": "Du er varm, travel og glad i mat. Det er ofte hos deg det skjer mest, og alle vil være i nærheten.",
+      "funFact": "Elektriske kjøleskap for vanlige hjem kom på markedet i USA på 1910-tallet.",
+      "image": "images/2027-03-12/kjokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Varm",
+          "text": "Hjertet i huset."
+        },
+        {
+          "title": "Matglad",
+          "text": "Elsker å lage mat."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid noe på gang."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Byr på det du har."
+        }
+      ]
+    },
+    {
+      "id": "soverom",
+      "name": "Soverom",
+      "shareName": "soverommet",
+      "emoji": null,
+      "description": "Du er rolig og drømmende og trenger din egen lille verden. Du lader opp best med en god bok og en myk dyne.",
+      "funFact": "Vi mennesker sover omtrent en tredjedel av livet.",
+      "image": "images/2027-03-12/soverom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Trenger stillhet."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har mange tanker."
+        },
+        {
+          "title": "Privat",
+          "text": "Liker eget rom."
+        },
+        {
+          "title": "Myk",
+          "text": "Har et mildt sinn."
+        }
+      ]
+    },
+    {
+      "id": "bad",
+      "name": "Bad",
+      "shareName": "badet",
+      "emoji": null,
+      "description": "Du er frisk og ryddig og liker at ting er rent og ordentlig. Du vet hvor viktig det er å ta seg tid til seg selv.",
+      "funFact": "Romerne bygde store offentlige bad der folk møttes for å bade og prate.",
+      "image": "images/2027-03-12/bad.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Liker orden."
+        },
+        {
+          "title": "Frisk",
+          "text": "Starter dagen godt."
+        },
+        {
+          "title": "Selvomsorg",
+          "text": "Tar vare på seg selv."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        }
+      ]
+    },
+    {
+      "id": "gang",
+      "name": "Gang",
+      "shareName": "gangen",
+      "emoji": null,
+      "description": "Du er alltid på vei et sted og hilser alle velkommen. Du holder styr på hvem som kommer og går.",
+      "funFact": "I Japan tar man av seg skoene i en egen del av gangen som kalles genkan.",
+      "image": "images/2027-03-12/gang.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Imøtekommende",
+          "text": "Hilser alle velkommen."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Alltid på vei."
+        },
+        {
+          "title": "Oversikt",
+          "text": "Vet hvem som kommer."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg lett."
+        }
+      ]
+    },
+    {
+      "id": "loft",
+      "name": "Loft",
+      "shareName": "loftet",
+      "emoji": null,
+      "description": "Du er nostalgisk og fantasifull og tar vare på minner. Du finner skatter der andre bare ser gamle esker.",
+      "funFact": "Varm luft stiger opp, og derfor er det ofte varmest på loftet.",
+      "image": "images/2027-03-12/loft.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nostalgisk",
+          "text": "Tar vare på minner."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser skatter overalt."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Har mange ideer."
+        },
+        {
+          "title": "Hemmelighetsfull",
+          "text": "Har litt mystikk."
+        }
+      ]
+    },
+    {
+      "id": "kjeller",
+      "name": "Kjeller",
+      "shareName": "kjelleren",
+      "emoji": null,
+      "description": "Du er stødig og praktisk og har alltid en reserve på lur. Du er rolig selv når det stormer.",
+      "funFact": "Noen meter nede i bakken holder temperaturen seg nesten lik hele året.",
+      "image": "images/2027-03-12/kjeller.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Forberedt",
+          "text": "Har alltid reserve."
+        },
+        {
+          "title": "Rolig",
+          "text": "Lar seg ikke stresse."
+        },
+        {
+          "title": "Lojal",
+          "text": "Alltid der."
+        }
+      ]
+    },
+    {
+      "id": "kontor",
+      "name": "Kontor",
+      "shareName": "kontoret",
+      "emoji": null,
+      "description": "Du er strukturert og flittig og liker å ha kontroll på oppgavene. Du får mye gjort og har alltid en plan.",
+      "funFact": "Ordet «kontor» kommer opprinnelig fra det franske ordet «comptoir», som betyr disk.",
+      "image": "images/2027-03-12/kontor.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Strukturert",
+          "text": "Har orden i sakene."
+        },
+        {
+          "title": "Flittig",
+          "text": "Får mye gjort."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker alt to ganger."
+        }
+      ]
+    },
+    {
+      "id": "lekerom",
+      "name": "Lekerom",
+      "shareName": "lekerommet",
+      "emoji": null,
+      "description": "Du er leken, energisk og full av fantasi. Med deg kan en vanlig dag bli et stort eventyr.",
+      "funFact": "Legoklosser som ble laget i 1958, passer fortsatt sammen med klossene som lages i dag.",
+      "image": "images/2027-03-12/lekerom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på moro."
+        },
+        {
+          "title": "Energisk",
+          "text": "Sitter aldri stille."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Lager eventyr."
+        },
+        {
+          "title": "Ung",
+          "text": "Alltid ung til sinns."
+        }
+      ]
+    },
+    {
+      "id": "spisestue",
+      "name": "Spisestue",
+      "shareName": "spisestua",
+      "emoji": null,
+      "description": "Du er gjestfri og glad i tradisjoner og gode samtaler. Du dekker gjerne på til mange og blir sittende lenge.",
+      "funFact": "I middelalderen spiste mange med kniv og fingre, og gaffelen ble først vanlig i Nord-Europa flere hundre år senere.",
+      "image": "images/2027-03-12/spisestue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Dekker på til mange."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i det gamle."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Elsker lange samtaler."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får alle rundt bordet."
+        }
+      ]
+    },
+    {
+      "id": "vinterhage",
+      "name": "Vinterhage",
+      "shareName": "vinterhagen",
+      "emoji": null,
+      "description": "Du er lys og rolig og elsker alt som gror. Du finner sommer selv midt på vinteren.",
+      "funFact": "Den botaniske hagen i Padova i Italia ble anlagt i 1545 og er en av verdens eldste.",
+      "image": "images/2027-03-12/vinterhage.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lys",
+          "text": "Søker sola."
+        },
+        {
+          "title": "Grønn",
+          "text": "Elsker planter."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir ting tid."
+        },
+        {
+          "title": "Optimistisk",
+          "text": "Ser lyst på ting."
+        }
+      ]
+    },
+    {
+      "id": "garasje",
+      "name": "Garasje",
+      "shareName": "garasjen",
+      "emoji": null,
+      "description": "Du er praktisk og flink med hendene og elsker å fikse ting. Hos deg finnes det verktøy for alt.",
+      "funFact": "Ordet «garasje» kommer fra det franske ordet «garer», som betyr å sette i ly.",
+      "image": "images/2027-03-12/garasje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Kan fikse alt."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Rolig",
+          "text": "Jobber i fred."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Låner gjerne bort."
+        }
+      ]
+    }
+  ]
+}

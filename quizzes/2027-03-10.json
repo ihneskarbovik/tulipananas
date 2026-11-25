@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-10",
+  "date": "2027-03-10",
+  "title": "Hvilket mønster er du i dag?",
+  "intro": "Prikker, striper eller blomster? Svar på sju spørsmål og finn ut hvilket mønster som passer deg best i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags badetøy liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et klassisk, ensfarget",
+          "scores": {
+            "striper": 1,
+            "kamuflasje": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe med masse farger",
+          "scores": {
+            "prikker": 2,
+            "sikksakk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et med blomster på",
+          "scores": {
+            "blomster": 1,
+            "hjerter": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Noe som får alle til å snu seg",
+          "scores": {
+            "leopard": 1,
+            "stjerner": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Det samme gamle som alltid sitter godt",
+          "scores": {
+            "ruter": 2,
+            "selburose": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Våtdrakt, så jeg kan være lenge i vannet",
+          "scores": {
+            "bolger": 2,
+            "kamuflasje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en fridag midt i uka. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baker noe og inviterer en venn",
+          "scores": {
+            "hjerter": 2,
+            "selburose": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ringer rundt og finner på noe med noen",
+          "scores": {
+            "prikker": 2,
+            "sikksakk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Shopper litt og kler meg opp",
+          "scores": {
+            "leopard": 1,
+            "paisley": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går en lang tur i skogen",
+          "scores": {
+            "kamuflasje": 2,
+            "bolger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Drar på museum eller utstilling",
+          "scores": {
+            "stjerner": 2,
+            "paisley": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rydder og ordner alt jeg ikke har fått gjort",
+          "scores": {
+            "striper": 2,
+            "ruter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket tapet ville du valgt til soverommet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Store, myke blomster",
+          "scores": {
+            "blomster": 2,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Smale striper i rolige farger",
+          "scores": {
+            "striper": 2,
+            "ruter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Små prikker",
+          "scores": {
+            "prikker": 1,
+            "selburose": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Mørkt med små stjerner",
+          "scores": {
+            "stjerner": 2,
+            "kamuflasje": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bølgete linjer i blått",
+          "scores": {
+            "bolger": 2,
+            "paisley": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe vilt og fargesterkt",
+          "scores": {
+            "leopard": 2,
+            "sikksakk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du sender en melding til feil person. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ler høyt og forklarer",
+          "scores": {
+            "prikker": 1,
+            "sikksakk": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver en rask unnskyldning",
+          "scores": {
+            "striper": 1,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Later som ingenting",
+          "scores": {
+            "kamuflasje": 2,
+            "leopard": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gjør det til en morsom samtale",
+          "scores": {
+            "leopard": 1,
+            "stjerner": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir litt flau, men glemmer det fort",
+          "scores": {
+            "bolger": 2,
+            "blomster": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer og forklarer hele historien",
+          "scores": {
+            "ruter": 2,
+            "paisley": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva spiser du helst til frokost i helgene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Egg og bacon",
+          "scores": {
+            "ruter": 2,
+            "leopard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nystekte rundstykker",
+          "scores": {
+            "selburose": 2,
+            "striper": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Amerikanske pannekaker",
+          "scores": {
+            "prikker": 1,
+            "hjerter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Yoghurt med bær og granola",
+          "scores": {
+            "blomster": 2,
+            "bolger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Croissant på en kafé",
+          "scores": {
+            "paisley": 2,
+            "stjerner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rask brødskive på vei ut",
+          "scores": {
+            "sikksakk": 2,
+            "kamuflasje": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken saft eller brus liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solbærsaft",
+          "scores": {
+            "selburose": 2,
+            "ruter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sitronbrus",
+          "scores": {
+            "prikker": 1,
+            "sikksakk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Iste med fersken",
+          "scores": {
+            "blomster": 1,
+            "paisley": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vann med kullsyre",
+          "scores": {
+            "striper": 1,
+            "bolger": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bringebærsaft",
+          "scores": {
+            "hjerter": 2,
+            "prikker": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Cola",
+          "scores": {
+            "leopard": 2,
+            "stjerner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan bestemmer du hva du skal ha på deg om morgenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Legger fram klærne kvelden før",
+          "scores": {
+            "striper": 1,
+            "ruter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar det som ligger øverst",
+          "scores": {
+            "kamuflasje": 2,
+            "sikksakk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Velger etter humøret",
+          "scores": {
+            "blomster": 2,
+            "stjerner": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar det mest fargerike jeg har",
+          "scores": {
+            "prikker": 1,
+            "paisley": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe som får meg til å føle meg flott",
+          "scores": {
+            "leopard": 2,
+            "hjerter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den samme gode genseren som alltid",
+          "scores": {
+            "selburose": 2,
+            "bolger": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "prikker",
+      "name": "Prikker",
+      "shareName": "prikkete",
+      "emoji": null,
+      "description": "Du er leken, blid og sosial. Du får folk til å smile bare ved å komme inn døra.",
+      "funFact": "Prikkete mønster heter «polka dots» på engelsk, etter dansen polka som var veldig populær på 1800-tallet.",
+      "image": "images/2027-03-10/prikker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på moro."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives med folk."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "striper",
+      "name": "Striper",
+      "shareName": "stripete",
+      "emoji": null,
+      "description": "Du er ryddig, stødig og klassisk. Du liker orden, og andre vet hva de får med deg.",
+      "funFact": "Blå og hvite striper ble en del av uniformen til den franske marinen i 1858.",
+      "image": "images/2027-03-10/striper.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Har god orden."
+        },
+        {
+          "title": "Stødig",
+          "text": "Alltid til å stole på."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Går aldri av moten."
+        },
+        {
+          "title": "Enkel",
+          "text": "Liker det rene."
+        }
+      ]
+    },
+    {
+      "id": "ruter",
+      "name": "Ruter",
+      "shareName": "rutete",
+      "emoji": null,
+      "description": "Du er koselig og varm og liker det trygge og hjemlige. Du er den alle vil sitte ved siden av rundt bålet.",
+      "funFact": "Skotske rutemønstre kalles tartan, og mange skotske familier har sitt eget.",
+      "image": "images/2027-03-10/ruter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Gjør det hjemlig."
+        },
+        {
+          "title": "Varm",
+          "text": "Har god plass."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder det du lover."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Står med beina på jorda."
+        }
+      ]
+    },
+    {
+      "id": "blomster",
+      "name": "Blomster",
+      "shareName": "blomstrete",
+      "emoji": null,
+      "description": "Du er myk, kreativ og glad i naturen. Du ser det vakre i små ting og deler det gjerne med andre.",
+      "funFact": "Kunstneren William Morris laget berømte blomstermønstre til tapeter og stoffer i England på 1800-tallet.",
+      "image": "images/2027-03-10/blomster.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Myk",
+          "text": "Har et mildt sinn."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker det som gror."
+        },
+        {
+          "title": "Romantisk",
+          "text": "Drømmer litt."
+        }
+      ]
+    },
+    {
+      "id": "sikksakk",
+      "name": "Sikksakk",
+      "shareName": "sikksakkmønstret",
+      "emoji": null,
+      "description": "Du er energisk og litt uforutsigbar. Du tar sjelden den rette veien, men du kommer alltid fram.",
+      "funFact": "Sikksakkmønstre finnes på mye eldgammel keramikk og er blant de eldste mønstrene vi kjenner.",
+      "image": "images/2027-03-10/sikksakk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Har fart i seg."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Spontan",
+          "text": "Bytter retning fort."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        }
+      ]
+    },
+    {
+      "id": "leopard",
+      "name": "Leopardmønster",
+      "shareName": "leopardmønstret",
+      "emoji": null,
+      "description": "Du er selvsikker og modig og tør å synes. Du kommer inn i et rom som om det var laget for deg.",
+      "funFact": "Ingen leoparder har helt like flekker.",
+      "image": "images/2027-03-10/leopard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Står for den du er."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å synes."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har egen stil."
+        },
+        {
+          "title": "Sterk",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "stjerner",
+      "name": "Stjerner",
+      "shareName": "stjernemønstret",
+      "emoji": null,
+      "description": "Du er en drømmer med store planer. Du er nysgjerrig på alt og ser alltid etter det neste eventyret.",
+      "funFact": "Det amerikanske flagget har 50 stjerner, én for hver delstat.",
+      "image": "images/2027-03-10/stjerner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Ser store muligheter."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter høyt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite mer."
+        },
+        {
+          "title": "Lysende",
+          "text": "Sprer glede."
+        }
+      ]
+    },
+    {
+      "id": "bolger",
+      "name": "Bølger",
+      "shareName": "bølgemønstret",
+      "emoji": null,
+      "description": "Du er rolig og fleksibel og flyter lett med i det som skjer. Du trives best med litt sjøluft og god tid.",
+      "funFact": "Seigaiha er et gammelt japansk mønster av halve sirkler som skal ligne havbølger.",
+      "image": "images/2027-03-10/bolger.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Lar ting gå sin gang."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg lett."
+        },
+        {
+          "title": "Sjøglad",
+          "text": "Elsker havet."
+        },
+        {
+          "title": "Harmonisk",
+          "text": "Skaper ro."
+        }
+      ]
+    },
+    {
+      "id": "selburose",
+      "name": "Selburose",
+      "shareName": "en selburose",
+      "emoji": null,
+      "description": "Du er tålmodig og glad i tradisjoner og godt håndverk. Du gjør ting skikkelig og gir gjerne bort noe du har laget selv.",
+      "funFact": "Selburosa er oppkalt etter Selbu i Trøndelag, som er kjent for strikkede votter.",
+      "image": "images/2027-03-10/selburose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Gjør ting skikkelig."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Flittig",
+          "text": "Har flinke hender."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir av seg selv."
+        }
+      ]
+    },
+    {
+      "id": "paisley",
+      "name": "Paisley",
+      "shareName": "paisleymønstret",
+      "emoji": null,
+      "description": "Du er kunstnerisk og har masse fantasi. Du legger merke til detaljer og liker ting med litt historie.",
+      "funFact": "Paisleymønsteret har navn etter byen Paisley i Skottland, der det ble vevd mange sjal med dette mønsteret.",
+      "image": "images/2027-03-10/paisley.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kunstnerisk",
+          "text": "Har egen stil."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser mer enn andre."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Legger merke til alt."
+        },
+        {
+          "title": "Særegen",
+          "text": "Ligner ingen andre."
+        }
+      ]
+    },
+    {
+      "id": "hjerter",
+      "name": "Hjerter",
+      "shareName": "hjertemønstret",
+      "emoji": null,
+      "description": "Du er kjærlig og omtenksom og bryr deg mye om folkene rundt deg. Du husker bursdager og sier fine ting til andre.",
+      "funFact": "Hjertesymbolet har vært brukt som tegn på kjærlighet i flere hundre år, selv om det ikke ligner et ekte hjerte.",
+      "image": "images/2027-03-10/hjerter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Viser omsorg."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker de små tingene."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Hyggelig",
+          "text": "Alltid vennlig."
+        }
+      ]
+    },
+    {
+      "id": "kamuflasje",
+      "name": "Kamuflasje",
+      "shareName": "kamuflasjemønstret",
+      "emoji": null,
+      "description": "Du er praktisk og rolig og trives godt ute i naturen. Du trenger ikke stå i sentrum, men er alltid der når det trengs.",
+      "funFact": "De første kamuflasjemønstrene ble laget av kunstnere under første verdenskrig, inspirert av hvordan dyr gjemmer seg.",
+      "image": "images/2027-03-10/kamuflasje.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Løser det meste."
+        },
+        {
+          "title": "Diskré",
+          "text": "Trenger ikke rampelys."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Hjemme i skogen."
+        },
+        {
+          "title": "Stødig",
+          "text": "Holder hodet kaldt."
+        }
+      ]
+    }
+  ]
+}

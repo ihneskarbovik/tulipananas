@@ -1,0 +1,723 @@
+{
+  "id": "2027-03-13",
+  "date": "2027-03-13",
+  "title": "Hvilket syltetøy er du i dag?",
+  "intro": "Søtt, syrlig eller litt uventet? Svar på sju spørsmål og finn ut hvilket syltetøy du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Noen sier noe feil om noe du kan mye om. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retter det med en gang",
+          "scores": {
+            "solbaer": 2,
+            "marmelade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Forklarer det vennlig og grundig",
+          "scores": {
+            "tyttebaer": 1,
+            "plomme": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lar det passere, det er ikke så viktig",
+          "scores": {
+            "aprikos": 2,
+            "blabaer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør med et smil om de er sikre",
+          "scores": {
+            "bringebaer": 2,
+            "rabarbra": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Forteller noe spennende jeg vet om temaet",
+          "scores": {
+            "fiken": 2,
+            "multe": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Blir litt stille og tenker mitt",
+          "scores": {
+            "kirsebaer": 2,
+            "jordbaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva ville du kalt et nytt kjæledyr?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et vanlig navn, som Ola eller Kari",
+          "scores": {
+            "tyttebaer": 1,
+            "plomme": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe søtt, som Prikken",
+          "scores": {
+            "jordbaer": 1,
+            "kirsebaer": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe stort og staselig, som Keiser",
+          "scores": {
+            "marmelade": 2,
+            "multe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Etter en matrett, som Muffins",
+          "scores": {
+            "bringebaer": 2,
+            "aprikos": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Etter noe i naturen, som Mose",
+          "scores": {
+            "blabaer": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe ingen andre har hørt før",
+          "scores": {
+            "rabarbra": 2,
+            "fiken": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "En venn låner tingene dine uten å spørre. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier rett ut at jeg vil bli spurt først",
+          "scores": {
+            "solbaer": 2,
+            "rabarbra": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det går fint, vi deler",
+          "scores": {
+            "jordbaer": 2,
+            "aprikos": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager en avtale om hvordan vi gjør det",
+          "scores": {
+            "marmelade": 2,
+            "tyttebaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt lei meg, men sier ingenting",
+          "scores": {
+            "kirsebaer": 2,
+            "plomme": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Låner noe tilbake neste gang",
+          "scores": {
+            "bringebaer": 2,
+            "fiken": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Venter med å si noe til jeg vet hvorfor",
+          "scores": {
+            "multe": 2,
+            "blabaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket brett ville du helst prøvd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Surfebrett",
+          "scores": {
+            "bringebaer": 1,
+            "fiken": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snowboard",
+          "scores": {
+            "solbaer": 2,
+            "rabarbra": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Padlebrett på et stille vann",
+          "scores": {
+            "aprikos": 2,
+            "blabaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Skateboard",
+          "scores": {
+            "rabarbra": 2,
+            "jordbaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Langrennsski",
+          "scores": {
+            "tyttebaer": 1,
+            "multe": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg holder meg trygt på land",
+          "scores": {
+            "plomme": 2,
+            "marmelade": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du kan bare ta med én matvare til en øde øy. Hva blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brød",
+          "scores": {
+            "tyttebaer": 2,
+            "marmelade": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjokolade",
+          "scores": {
+            "jordbaer": 1,
+            "kirsebaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bananer",
+          "scores": {
+            "aprikos": 2,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Havregryn",
+          "scores": {
+            "plomme": 2,
+            "blabaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe skikkelig godt jeg kan spare på",
+          "scores": {
+            "multe": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Krydder, så jeg kan lage noe av det jeg finner",
+          "scores": {
+            "fiken": 2,
+            "rabarbra": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du finner en ting du hadde glemt at du hadde. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir glad og takknemlig for at den dukket opp",
+          "scores": {
+            "kirsebaer": 2,
+            "jordbaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bytter den bort på et byttemarked",
+          "scores": {
+            "marmelade": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner en ny bruk for den",
+          "scores": {
+            "rabarbra": 2,
+            "fiken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir den til en som trenger den",
+          "scores": {
+            "aprikos": 2,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Legger den tilbake der den var",
+          "scores": {
+            "tyttebaer": 2,
+            "plomme": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar den i bruk igjen med en gang",
+          "scores": {
+            "multe": 2,
+            "blabaer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva spiser du helst syltetøy på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vafler",
+          "scores": {
+            "jordbaer": 2,
+            "bringebaer": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ristet brød",
+          "scores": {
+            "marmelade": 2,
+            "solbaer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Grøt",
+          "scores": {
+            "blabaer": 2,
+            "plomme": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ost og kjeks",
+          "scores": {
+            "fiken": 2,
+            "aprikos": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Rett fra glasset med skje",
+          "scores": {
+            "rabarbra": 1,
+            "kirsebaer": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøttkaker",
+          "scores": {
+            "tyttebaer": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "jordbaer",
+      "name": "Jordbærsyltetøy",
+      "shareName": "jordbærsyltetøy",
+      "emoji": null,
+      "description": "Du er søt, blid og elsket av de fleste. Du minner folk om sommer og gode dager.",
+      "funFact": "Et jordbær har frøene på utsiden, ofte rundt 200 på hvert bær.",
+      "image": "images/2027-03-13/jordbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Sommerlig",
+          "text": "Sprer god stemning."
+        },
+        {
+          "title": "Søt",
+          "text": "Har et mildt vesen."
+        }
+      ]
+    },
+    {
+      "id": "bringebaer",
+      "name": "Bringebærsyltetøy",
+      "shareName": "bringebærsyltetøy",
+      "emoji": null,
+      "description": "Du er livlig, leken og litt sprudlende. Du sier hva du mener med et smil.",
+      "funFact": "Bringebær hører til samme plantefamilie som rosene.",
+      "image": "images/2027-03-13/bringebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på moro."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det du mener."
+        },
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "blabaer",
+      "name": "Blåbærsyltetøy",
+      "shareName": "blåbærsyltetøy",
+      "emoji": null,
+      "description": "Du er jordnær og glad i naturen og turer i skogen. Du er enkel på en god måte.",
+      "funFact": "Skogsblåbær er blå helt inn, mens dyrkede blåbær ofte er lyse inni.",
+      "image": "images/2027-03-13/blabaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Turglad",
+          "text": "Elsker skogen."
+        },
+        {
+          "title": "Ekte",
+          "text": "Er den du er."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser ikke."
+        }
+      ]
+    },
+    {
+      "id": "tyttebaer",
+      "name": "Tyttebærsyltetøy",
+      "shareName": "tyttebærsyltetøy",
+      "emoji": null,
+      "description": "Du er stødig og tradisjonell og passer sammen med det meste. Du holder lenge, både som venn og i motgang.",
+      "funFact": "Tyttebær holder seg lenge fordi de naturlig inneholder benzosyre, som hindrer mugg.",
+      "image": "images/2027-03-13/tyttebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Holder lenge."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i det norske."
+        },
+        {
+          "title": "Trofast",
+          "text": "En venn for livet."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Passer til mye."
+        }
+      ]
+    },
+    {
+      "id": "multe",
+      "name": "Multesyltetøy",
+      "shareName": "multesyltetøy",
+      "emoji": null,
+      "description": "Du er sjelden og spesiell, og folk blir glade når de finner deg. Du er tålmodig og verdt å vente på.",
+      "funFact": "Multeplanter har enten hannblomster eller hunnblomster, aldri begge deler.",
+      "image": "images/2027-03-13/multe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spesiell",
+          "text": "Ganske sjelden."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Verdt å vente på."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler det gode."
+        },
+        {
+          "title": "Nordlig",
+          "text": "Tåler kulde."
+        }
+      ]
+    },
+    {
+      "id": "solbaer",
+      "name": "Solbærsyltetøy",
+      "shareName": "solbærsyltetøy",
+      "emoji": null,
+      "description": "Du er frisk og rett på sak og gir folk et lite energikick. Du er sunn i både kropp og sinn.",
+      "funFact": "Solbær inneholder mye mer C-vitamin enn appelsiner.",
+      "image": "images/2027-03-13/solbaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Gir energi."
+        },
+        {
+          "title": "Direkte",
+          "text": "Rett på sak."
+        },
+        {
+          "title": "Sunn",
+          "text": "Tar vare på seg selv."
+        },
+        {
+          "title": "Kraftig",
+          "text": "Har mye smak."
+        }
+      ]
+    },
+    {
+      "id": "rabarbra",
+      "name": "Rabarbrasyltetøy",
+      "shareName": "rabarbrasyltetøy",
+      "emoji": null,
+      "description": "Du er litt syrlig og overraskende og tør å være annerledes. Folk som blir kjent med deg, blir aldri lei.",
+      "funFact": "Man spiser bare stilkene på rabarbra, for bladene er ikke spiselige.",
+      "image": "images/2027-03-13/rabarbra.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Litt uventet."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å skille seg ut."
+        },
+        {
+          "title": "Humoristisk",
+          "text": "Har syrlig humor."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen fasade."
+        }
+      ]
+    },
+    {
+      "id": "aprikos",
+      "name": "Aprikossyltetøy",
+      "shareName": "aprikossyltetøy",
+      "emoji": null,
+      "description": "Du er mild og solfylt og sprer varme rundt deg. Du gjør hverdagen litt mer som en ferie.",
+      "funFact": "Tyrkia er det landet i verden som dyrker mest aprikos.",
+      "image": "images/2027-03-13/aprikos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mild",
+          "text": "Snill og varm."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Gir lys."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Lun",
+          "text": "Myk humor."
+        }
+      ]
+    },
+    {
+      "id": "marmelade",
+      "name": "Appelsinmarmelade",
+      "shareName": "appelsinmarmelade",
+      "emoji": null,
+      "description": "Du er klassisk og elegant med en liten bitter-søt kant. Du liker gode rutiner og en fin frokost.",
+      "funFact": "Ordet «marmelade» kommer fra portugisisk «marmelo», som betyr kvede.",
+      "image": "images/2027-03-13/marmelade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har god stil."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Går aldri av moten."
+        },
+        {
+          "title": "Rutinert",
+          "text": "Liker faste vaner."
+        },
+        {
+          "title": "Skarp",
+          "text": "Har litt kant."
+        }
+      ]
+    },
+    {
+      "id": "plomme",
+      "name": "Plommesyltetøy",
+      "shareName": "plommesyltetøy",
+      "emoji": null,
+      "description": "Du er rolig og ettertenksom og glad i høst og gode tradisjoner. Du blir bedre jo bedre man kjenner deg.",
+      "funFact": "Plommer som tørkes, kalles svisker.",
+      "image": "images/2027-03-13/plomme.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Skaper ro."
+        },
+        {
+          "title": "Høstglad",
+          "text": "Elsker innhøsting."
+        },
+        {
+          "title": "Dyp",
+          "text": "Mer enn man tror."
+        }
+      ]
+    },
+    {
+      "id": "fiken",
+      "name": "Fikensyltetøy",
+      "shareName": "fikensyltetøy",
+      "emoji": null,
+      "description": "Du er eksotisk og nysgjerrig og liker det som er litt annerledes. Du er den som foreslår nye ting å prøve.",
+      "funFact": "En fiken er egentlig en lukket blomsterstand der blomstene sitter på innsiden.",
+      "image": "images/2027-03-13/fiken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eksotisk",
+          "text": "Litt annerledes."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Prøver nye ting."
+        },
+        {
+          "title": "Særegen",
+          "text": "Har egen stil."
+        },
+        {
+          "title": "Raffinert",
+          "text": "Liker det fine."
+        }
+      ]
+    },
+    {
+      "id": "kirsebaer",
+      "name": "Kirsebærsyltetøy",
+      "shareName": "kirsebærsyltetøy",
+      "emoji": null,
+      "description": "Du er romantisk og drømmende og ser det vakre i alt. Du blir lett rørt og har stort hjerte.",
+      "funFact": "I Japan feirer man kirsebærblomstringen hver vår med en tradisjon som heter hanami.",
+      "image": "images/2027-03-13/kirsebaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har mange drømmer."
+        },
+        {
+          "title": "Følsom",
+          "text": "Blir lett rørt."
+        },
+        {
+          "title": "Kjærlig",
+          "text": "Har stort hjerte."
+        }
+      ]
+    }
+  ]
+}

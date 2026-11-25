@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-11",
+  "date": "2027-03-11",
+  "title": "Hvilken gresk gud er du i dag?",
+  "intro": "På Olympen bodde gudene i de gamle greske fortellingene, og hver av dem hadde sin egen personlighet. Svar på sju spørsmål og finn ut hvem du ligner mest i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du skal planlegge en tur for hele gjengen. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bestemmer hvor vi skal og fordeler oppgaver",
+          "scores": {
+            "zevs": 2,
+            "hera": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager en grundig plan med kart",
+          "scores": {
+            "athene": 2,
+            "hefaistos": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner et sted langt ute i naturen",
+          "scores": {
+            "artemis": 2,
+            "poseidon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sørger for at det blir masse god mat",
+          "scores": {
+            "demeter": 2,
+            "dionysos": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sender ut en morsom invitasjon til alle",
+          "scores": {
+            "hermes": 2,
+            "afrodite": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Foreslår en koselig hytte med peis",
+          "scores": {
+            "hestia": 2,
+            "apollon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken sang ville du sunget på karaoke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor ballade",
+          "scores": {
+            "afrodite": 2,
+            "hera": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En partylåt alle kan",
+          "scores": {
+            "dionysos": 2,
+            "hermes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En sang jeg har øvd lenge på",
+          "scores": {
+            "apollon": 2,
+            "athene": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En gammel slager med hele familien",
+          "scores": {
+            "hestia": 2,
+            "demeter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg synger ikke, men heier på de andre",
+          "scores": {
+            "hefaistos": 2,
+            "artemis": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rocka sang med mye trøkk",
+          "scores": {
+            "poseidon": 2,
+            "zevs": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvordan er du i en diskusjon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jeg har de beste argumentene",
+          "scores": {
+            "athene": 1,
+            "zevs": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jeg blir lett engasjert og høylytt",
+          "scores": {
+            "poseidon": 1,
+            "dionysos": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Jeg prøver å finne en løsning alle liker",
+          "scores": {
+            "hestia": 2,
+            "demeter": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Jeg sier min mening og står for den",
+          "scores": {
+            "hera": 2,
+            "artemis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg lytter mest og sier lite",
+          "scores": {
+            "hefaistos": 2,
+            "apollon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg får alle til å le, så blir det lettere",
+          "scores": {
+            "hermes": 2,
+            "afrodite": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket gammelt yrke ville du prøvd i én dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smed",
+          "scores": {
+            "hefaistos": 2,
+            "zevs": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gjeter på fjellet",
+          "scores": {
+            "artemis": 2,
+            "demeter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fyrvokter",
+          "scores": {
+            "poseidon": 2,
+            "hestia": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Postbud til hest",
+          "scores": {
+            "hermes": 2,
+            "artemis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gjøgler på et marked",
+          "scores": {
+            "dionysos": 2,
+            "apollon": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bonde med egen åker",
+          "scores": {
+            "demeter": 1,
+            "hestia": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket byggverk i verden vil du helst se?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akropolis i Athen",
+          "scores": {
+            "athene": 2,
+            "zevs": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et fyrtårn ytterst ved havet",
+          "scores": {
+            "poseidon": 2,
+            "hermes": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et gammelt slott",
+          "scores": {
+            "hera": 2,
+            "afrodite": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stor gammel bro",
+          "scores": {
+            "hefaistos": 2,
+            "artemis": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et operahus",
+          "scores": {
+            "apollon": 2,
+            "dionysos": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En gammel gård med tømmerhus",
+          "scores": {
+            "hestia": 2,
+            "demeter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "En venn ber deg holde på en hemmelighet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Holder den for meg selv, uansett",
+          "scores": {
+            "hera": 2,
+            "hefaistos": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør om vennen trenger hjelp med noe",
+          "scores": {
+            "athene": 2,
+            "demeter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Glemmer den ganske fort, hvis jeg skal være ærlig",
+          "scores": {
+            "dionysos": 2,
+            "poseidon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det er vanskelig, jeg elsker å fortelle ting",
+          "scores": {
+            "hermes": 1,
+            "afrodite": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lover å passe på den og gjør det",
+          "scores": {
+            "zevs": 2,
+            "hestia": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lytter rolig og stiller ingen spørsmål",
+          "scores": {
+            "artemis": 2,
+            "apollon": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva spiser du helst til kveldsmat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brødskive med brunost",
+          "scores": {
+            "hestia": 1,
+            "hefaistos": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Yoghurt med frukt",
+          "scores": {
+            "apollon": 2,
+            "artemis": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rester fra middagen",
+          "scores": {
+            "demeter": 2,
+            "zevs": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Toast med ost og skinke",
+          "scores": {
+            "hermes": 2,
+            "hera": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kjeks og ost med noe godt å drikke",
+          "scores": {
+            "dionysos": 2,
+            "afrodite": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Grøt",
+          "scores": {
+            "athene": 2,
+            "poseidon": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "zevs",
+      "name": "Zevs",
+      "shareName": "Zevs",
+      "emoji": null,
+      "description": "Du er en naturlig leder som tar ansvar og liker å ha oversikt. Når du snakker, lytter folk.",
+      "funFact": "De olympiske lekene i oldtiden ble holdt til ære for Zevs i Olympia.",
+      "image": "images/2027-03-11/zevs.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leder",
+          "text": "Tar ansvar."
+        },
+        {
+          "title": "Mektig",
+          "text": "Fyller rommet."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Vet hva du vil."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på flokken."
+        }
+      ]
+    },
+    {
+      "id": "hera",
+      "name": "Hera",
+      "shareName": "Hera",
+      "emoji": null,
+      "description": "Du er lojal og stolt og setter familie og venner høyest. Du holder orden og sørger for at ingen blir glemt.",
+      "funFact": "Påfuglen var Heras hellige fugl i de greske fortellingene.",
+      "image": "images/2027-03-11/hera.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lojal",
+          "text": "Står ved sine."
+        },
+        {
+          "title": "Stolt",
+          "text": "Har høy rygg."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Holder alt i gang."
+        },
+        {
+          "title": "Familiekjær",
+          "text": "Samler alle."
+        }
+      ]
+    },
+    {
+      "id": "poseidon",
+      "name": "Poseidon",
+      "shareName": "Poseidon",
+      "emoji": null,
+      "description": "Du er sterk og full av følelser, akkurat som havet. Du trives best ved vannet og har stort temperament og stort hjerte.",
+      "funFact": "Planeten Neptun har fått navnet sitt etter den romerske utgaven av Poseidon.",
+      "image": "images/2027-03-11/poseidon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjøglad",
+          "text": "Hjemme ved havet."
+        },
+        {
+          "title": "Kraftfull",
+          "text": "Har mye energi."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt sterkt."
+        },
+        {
+          "title": "Frihetselsker",
+          "text": "Trenger god plass."
+        }
+      ]
+    },
+    {
+      "id": "demeter",
+      "name": "Demeter",
+      "shareName": "Demeter",
+      "emoji": null,
+      "description": "Du er jordnær og omsorgsfull og glad i god mat og årstidene. Du sørger for at alle får nok.",
+      "funFact": "Ifølge myten skjer vinteren hvert år fordi Demeter savner datteren Persefone.",
+      "image": "images/2027-03-11/demeter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Mater alle."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter på innhøstingen."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler det du har."
+        }
+      ]
+    },
+    {
+      "id": "athene",
+      "name": "Athene",
+      "shareName": "Athene",
+      "emoji": null,
+      "description": "Du er klok og rolig og tenker før du handler. Du liker å lære og finner alltid en smart løsning.",
+      "funFact": "Byen Athen er oppkalt etter Athene, og Parthenon-tempelet ble bygget til ære for henne.",
+      "image": "images/2027-03-11/athene.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker seg om."
+        },
+        {
+          "title": "Strategisk",
+          "text": "Har alltid en plan."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Behandler alle likt."
+        },
+        {
+          "title": "Lærevillig",
+          "text": "Vil vite mer."
+        }
+      ]
+    },
+    {
+      "id": "apollon",
+      "name": "Apollon",
+      "shareName": "Apollon",
+      "emoji": null,
+      "description": "Du er solfylt og kreativ og elsker musikk og kunst. Du sprer lys rundt deg uansett hvor du er.",
+      "funFact": "Apollo-programmet, som sendte de første menneskene til månen, er oppkalt etter Apollon.",
+      "image": "images/2027-03-11/apollon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Elsker musikk og kunst."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Sprer lys."
+        },
+        {
+          "title": "Talentfull",
+          "text": "Flink på mye."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser det beste."
+        }
+      ]
+    },
+    {
+      "id": "artemis",
+      "name": "Artemis",
+      "shareName": "Artemis",
+      "emoji": null,
+      "description": "Du er selvstendig og elsker naturen og friheten. Du trives ute i skogen og passer godt på dyrene.",
+      "funFact": "NASAs nye program for å sende mennesker til månen heter Artemis, etter Apollons tvillingsøster.",
+      "image": "images/2027-03-11/artemis.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Hjemme i skogen."
+        },
+        {
+          "title": "Modig",
+          "text": "Er ikke redd."
+        },
+        {
+          "title": "Dyrevenn",
+          "text": "Passer på dyrene."
+        }
+      ]
+    },
+    {
+      "id": "afrodite",
+      "name": "Afrodite",
+      "shareName": "Afrodite",
+      "emoji": null,
+      "description": "Du er varm og sjarmerende og ser det vakre i alt. Du liker kjærlighet, fine ting og gode stunder med folk du er glad i.",
+      "funFact": "Ifølge myten ble Afrodite født av skummet på havet.",
+      "image": "images/2027-03-11/afrodite.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjarmerende",
+          "text": "Lett å like."
+        },
+        {
+          "title": "Kjærlig",
+          "text": "Viser følelser."
+        },
+        {
+          "title": "Estetisk",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Varm",
+          "text": "Alle føler seg velkomne."
+        }
+      ]
+    },
+    {
+      "id": "hefaistos",
+      "name": "Hefaistos",
+      "shareName": "Hefaistos",
+      "emoji": null,
+      "description": "Du er flittig og flink med hendene og liker å skape noe som varer. Du jobber gjerne i fred, men resultatet blir alltid imponerende.",
+      "funFact": "Hefaistos var smedenes gud og skal ha laget tronene til de andre gudene på Olympen.",
+      "image": "images/2027-03-11/hefaistos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Flittig",
+          "text": "Jobber hardt."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Kan fikse alt."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Lar arbeidet snakke."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Finner nye løsninger."
+        }
+      ]
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "shareName": "Hermes",
+      "emoji": null,
+      "description": "Du er kjapp, morsom og alltid på farten. Du kjenner alle og vet alltid det siste nye.",
+      "funFact": "Hermes var gudenes budbringer og hadde vinger på sandalene.",
+      "image": "images/2027-03-11/hermes.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjapp",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har mange triks."
+        },
+        {
+          "title": "Sosial",
+          "text": "Kjenner alle."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Har alltid noe å fortelle."
+        }
+      ]
+    },
+    {
+      "id": "dionysos",
+      "name": "Dionysos",
+      "shareName": "Dionysos",
+      "emoji": null,
+      "description": "Du er festlig og leken og elsker teater, musikk og gode måltider. Med deg blir hverdagen litt mer som en feiring.",
+      "funFact": "De store teaterfestivalene i oldtidens Athen ble holdt til ære for Dionysos.",
+      "image": "images/2027-03-11/dionysos.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Elsker en feiring."
+        },
+        {
+          "title": "Leken",
+          "text": "Finner på moro."
+        },
+        {
+          "title": "Dramatisk",
+          "text": "Liker teater."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        }
+      ]
+    },
+    {
+      "id": "hestia",
+      "name": "Hestia",
+      "shareName": "Hestia",
+      "emoji": null,
+      "description": "Du er rolig og trofast og elsker å ha det koselig hjemme. Hos deg er døra alltid åpen og varmen alltid på.",
+      "funFact": "Hestia var gudinne for ildstedet og fikk ofte den første delen av offergavene.",
+      "image": "images/2027-03-11/hestia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekjær",
+          "text": "Trives best hjemme."
+        },
+        {
+          "title": "Rolig",
+          "text": "Skaper trygghet."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Har alltid plass."
+        }
+      ]
+    }
+  ]
+}

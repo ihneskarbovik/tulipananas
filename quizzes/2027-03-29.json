@@ -1,0 +1,668 @@
+{
+  "id": "2027-03-29",
+  "date": "2027-03-29",
+  "title": "Hvilken norsk fjelltopp er du i dag?",
+  "intro": "Det er andre påskedag, og mange er fortsatt på fjellet. Svar på sju spørsmål og finn ut hvilken norsk fjelltopp du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å gå på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Myk skogsti",
+          "scores": {
+            "harteigen": 2,
+            "tromsdalstinden": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bart fjell og steiner",
+          "scores": {
+            "storen": 2,
+            "stetind": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brede veier med mange folk",
+          "scores": {
+            "ulriken": 2,
+            "gausta": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nypreparerte skiløyper",
+          "scores": {
+            "glittertind": 2,
+            "galdhopiggen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Gress og blomster",
+          "scores": {
+            "snohetta": 1,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sand langs havet",
+          "scores": {
+            "reinebringen": 1,
+            "ulriken": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du kommer til et veiskille uten skilt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Velger den bratteste veien",
+          "scores": {
+            "storen": 2,
+            "galdhopiggen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker kartet nøye",
+          "scores": {
+            "gausta": 2,
+            "harteigen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør noen som går forbi",
+          "scores": {
+            "ulriken": 2,
+            "gausta": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Følger magefølelsen",
+          "scores": {
+            "snohetta": 1,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter meg og tenker litt",
+          "scores": {
+            "tromsdalstinden": 2,
+            "glittertind": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går den veien jeg alltid går",
+          "scores": {
+            "harteigen": 2,
+            "stetind": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor vil du helst se ut over en by?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fra et fjell rett ved byen",
+          "scores": {
+            "ulriken": 1,
+            "galdhopiggen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fra en takterrasse",
+          "scores": {
+            "gausta": 1,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fra et høyt tårn",
+          "scores": {
+            "galdhopiggen": 2,
+            "storen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Fra en bro over havna",
+          "scores": {
+            "reinebringen": 1,
+            "snohetta": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Fra en rolig benk i en park",
+          "scores": {
+            "harteigen": 1,
+            "tromsdalstinden": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil helst være ute av byen",
+          "scores": {
+            "snohetta": 2,
+            "stetind": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har satt deg et mål. Hvordan når du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lager en plan og følger den",
+          "scores": {
+            "galdhopiggen": 1,
+            "gausta": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar små steg hver dag",
+          "scores": {
+            "harteigen": 2,
+            "glittertind": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Gjør det sammen med andre",
+          "scores": {
+            "ulriken": 2,
+            "gausta": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går rett på og gir alt",
+          "scores": {
+            "storen": 2,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På min egen måte",
+          "scores": {
+            "stetind": 2,
+            "snohetta": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lar det ta den tiden det tar",
+          "scores": {
+            "tromsdalstinden": 2,
+            "glittertind": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags postkort ville du sendt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et bilde av en fjord",
+          "scores": {
+            "harteigen": 2,
+            "gausta": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Høye, spisse fjell",
+          "scores": {
+            "galdhopiggen": 1,
+            "stetind": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Nordlys over en snødekt by",
+          "scores": {
+            "tromsdalstinden": 2,
+            "glittertind": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En travel bygate",
+          "scores": {
+            "ulriken": 1,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Holmer og svaberg om sommeren",
+          "scores": {
+            "reinebringen": 1,
+            "snohetta": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stille vidde med reinsdyr",
+          "scores": {
+            "snohetta": 1,
+            "storen": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du står foran en lang, bratt bakke. Hva tenker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endelig!",
+          "scores": {
+            "storen": 2,
+            "galdhopiggen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Én fot foran den andre",
+          "scores": {
+            "harteigen": 2,
+            "glittertind": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hvor er heisen?",
+          "scores": {
+            "gausta": 2,
+            "ulriken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Utsikten blir verdt det",
+          "scores": {
+            "reinebringen": 2,
+            "tromsdalstinden": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg tar den i mitt eget tempo",
+          "scores": {
+            "glittertind": 2,
+            "snohetta": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg går heller rundt",
+          "scores": {
+            "stetind": 2,
+            "snohetta": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Påsken er over. Hva gjør du på vei hjem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planlegger neste tur",
+          "scores": {
+            "galdhopiggen": 2,
+            "storen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sover i baksetet",
+          "scores": {
+            "tromsdalstinden": 2,
+            "harteigen": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Synger med på radioen",
+          "scores": {
+            "ulriken": 2,
+            "reinebringen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Stopper på en kafé",
+          "scores": {
+            "gausta": 2,
+            "glittertind": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ser ut av vinduet på fjellene",
+          "scores": {
+            "snohetta": 2,
+            "stetind": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser gjennom bildene fra turen",
+          "scores": {
+            "reinebringen": 2,
+            "galdhopiggen": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "galdhopiggen",
+      "name": "Galdhøpiggen",
+      "shareName": "Galdhøpiggen",
+      "emoji": null,
+      "description": "Du er ambisiøs, sterk og liker å nå høyt. Du setter deg store mål og når dem.",
+      "funFact": "Galdhøpiggen er 2469 meter høy og er det høyeste fjellet i Nord-Europa.",
+      "image": "images/2027-03-29/galdhopiggen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ambisiøs",
+          "text": "Sikter mot toppen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Stolt",
+          "text": "Med god grunn."
+        },
+        {
+          "title": "Målrettet",
+          "text": "Vet hvor du skal."
+        }
+      ]
+    },
+    {
+      "id": "glittertind",
+      "name": "Glittertind",
+      "shareName": "Glittertind",
+      "emoji": null,
+      "description": "Du er vakker, rolig og har en stille styrke. Du lyser opp uten å gjøre et nummer av det.",
+      "funFact": "Glittertind er 2452 meter høy og har en kappe av snø og is på toppen.",
+      "image": "images/2027-03-29/glittertind.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Stille styrke."
+        },
+        {
+          "title": "Lys",
+          "text": "Glitrer i sola."
+        },
+        {
+          "title": "Ydmyk",
+          "text": "Ingen store ord."
+        },
+        {
+          "title": "Vakker",
+          "text": "På innsiden også."
+        }
+      ]
+    },
+    {
+      "id": "snohetta",
+      "name": "Snøhetta",
+      "shareName": "Snøhetta",
+      "emoji": null,
+      "description": "Du er vill, fri og glad i store vidder. Du trives der det er god plass og frisk luft.",
+      "funFact": "På Dovrefjell rundt Snøhetta lever det moskus.",
+      "image": "images/2027-03-29/snohetta.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Trenger mye plass."
+        },
+        {
+          "title": "Vill",
+          "text": "Litt utemmet."
+        },
+        {
+          "title": "Stødig",
+          "text": "Står i all slags vær."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Hjemme på vidda."
+        }
+      ]
+    },
+    {
+      "id": "gausta",
+      "name": "Gaustatoppen",
+      "shareName": "Gaustatoppen",
+      "emoji": null,
+      "description": "Du er sosial, praktisk og har god oversikt. Du ser det store bildet og får med deg alle.",
+      "funFact": "Inne i Gaustatoppen går det en bane som fører folk opp gjennom fjellet.",
+      "image": "images/2027-03-29/gausta.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oversikt",
+          "text": "Ser det store bildet."
+        },
+        {
+          "title": "Sosial",
+          "text": "Får med alle."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Finner smarte løsninger."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Plass til alle."
+        }
+      ]
+    },
+    {
+      "id": "stetind",
+      "name": "Stetind",
+      "shareName": "Stetind",
+      "emoji": null,
+      "description": "Du er unik, stolt og helt deg selv. Folk legger merke til deg med en gang.",
+      "funFact": "Stetind i Nordland ble kåret til Norges nasjonalfjell i 2002.",
+      "image": "images/2027-03-29/stetind.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Unik",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Stolt",
+          "text": "Rak i ryggen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Ingen omveier."
+        }
+      ]
+    },
+    {
+      "id": "storen",
+      "name": "Store Skagastølstind",
+      "shareName": "Store Skagastølstind",
+      "emoji": null,
+      "description": "Du er modig, bestemt og elsker en utfordring. Det som virker umulig for andre, frister deg.",
+      "funFact": "Store Skagastølstind ble besteget for første gang i 1876 av William Cecil Slingsby, som klatret siste del alene.",
+      "image": "images/2027-03-29/storen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør det andre ikke tør."
+        },
+        {
+          "title": "Bestemt",
+          "text": "Gir seg ikke."
+        },
+        {
+          "title": "Spenstig",
+          "text": "Klatrer gjerne."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Øynene på målet."
+        }
+      ]
+    },
+    {
+      "id": "ulriken",
+      "name": "Ulriken",
+      "shareName": "Ulriken",
+      "emoji": null,
+      "description": "Du er sosial, glad og alltid i nærheten av folk. Du gjør det lett for andre å bli med.",
+      "funFact": "Ulriken er det høyeste av de sju fjellene rundt Bergen.",
+      "image": "images/2027-03-29/ulriken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Mange venner."
+        },
+        {
+          "title": "Tilgjengelig",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler i regnet."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        }
+      ]
+    },
+    {
+      "id": "reinebringen",
+      "name": "Reinebringen",
+      "shareName": "Reinebringen",
+      "emoji": null,
+      "description": "Du er liten, men full av overraskelser. Du gir mye mer enn folk tror.",
+      "funFact": "Opp til Reinebringen i Lofoten går det en steintrapp bygget av sherpaer fra Nepal.",
+      "image": "images/2027-03-29/reinebringen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Spenstig",
+          "text": "Kort, men bratt."
+        },
+        {
+          "title": "Vakker",
+          "text": "Fantastisk utsikt."
+        },
+        {
+          "title": "Glad",
+          "text": "Smil ved havet."
+        }
+      ]
+    },
+    {
+      "id": "tromsdalstinden",
+      "name": "Tromsdalstinden",
+      "shareName": "Tromsdalstinden",
+      "emoji": null,
+      "description": "Du er rolig, klok og litt magisk. Du har en ro som andre søker seg til.",
+      "funFact": "Tromsdalstinden er 1238 meter høy og heter Sálašoaivi på samisk.",
+      "image": "images/2027-03-29/tromsdalstinden.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker før du snakker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Gir ro til andre."
+        },
+        {
+          "title": "Magisk",
+          "text": "Litt nordlys i deg."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid på samme sted."
+        }
+      ]
+    },
+    {
+      "id": "harteigen",
+      "name": "Hårteigen",
+      "shareName": "Hårteigen",
+      "emoji": null,
+      "description": "Du er stødig, trygg og lett å finne fram til. Folk vet at de kan regne med deg.",
+      "funFact": "Hårteigen har en helt egen form og kan sees fra store deler av Hardangervidda.",
+      "image": "images/2027-03-29/harteigen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Fast som fjell."
+        },
+        {
+          "title": "Trygg",
+          "text": "Et fast holdepunkt."
+        },
+        {
+          "title": "Original",
+          "text": "Egen form."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Alltid der."
+        }
+      ]
+    }
+  ]
+}

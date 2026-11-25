@@ -1,0 +1,660 @@
+{
+  "id": "2027-03-27",
+  "date": "2027-03-27",
+  "title": "Hvilket påskegodt er du i dag?",
+  "intro": "Det er påskeaften, og påskeeggene står klare. Svar på sju spørsmål og finn ut hvilket påskegodt du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Du skal male et påskeegg. Hvordan blir det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gult med små blomster",
+          "scores": {
+            "skumkylling": 2,
+            "kokosbolle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stripete i alle regnbuens farger",
+          "scores": {
+            "gelebonner": 1,
+            "pappegg": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brunt med fine gullmønstre",
+          "scores": {
+            "marsipan": 1,
+            "karamell": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Svart med hvite prikker",
+          "scores": {
+            "lakris": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med et morsomt fjes",
+          "scores": {
+            "hare": 1,
+            "gelebonner": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Helt hvitt og enkelt",
+          "scores": {
+            "notter": 1,
+            "sjokoladeegg": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en flekk på genseren rett før noe viktig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar på en jakke over",
+          "scores": {
+            "marsipan": 1,
+            "lakris": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ler og sier det som det er",
+          "scores": {
+            "gelebonner": 2,
+            "hare": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vasker den raskt av",
+          "scores": {
+            "notter": 2,
+            "sjokoladeegg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Låner en genser av noen",
+          "scores": {
+            "pappegg": 2,
+            "skumkylling": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bryr meg ikke noe særlig",
+          "scores": {
+            "lakris": 1,
+            "karamell": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager et morsomt mønster rundt",
+          "scores": {
+            "kokosbolle": 2,
+            "hare": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du har sagt ja til to ting samtidig. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prøver å rekke begge",
+          "scores": {
+            "gelebonner": 1,
+            "hare": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Velger den jeg lovte først",
+          "scores": {
+            "sjokoladeegg": 2,
+            "lakris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Slår dem sammen til én ting",
+          "scores": {
+            "pappegg": 2,
+            "kokosbolle": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer og forklarer med en gang",
+          "scores": {
+            "lakris": 1,
+            "notter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tenker lenge før jeg bestemmer meg",
+          "scores": {
+            "marsipan": 1,
+            "karamell": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket tivoliapparat liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Berg-og-dal-banen",
+          "scores": {
+            "hare": 2,
+            "gelebonner": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pariserhjulet",
+          "scores": {
+            "marsipan": 1,
+            "kokosbolle": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Radiobilene",
+          "scores": {
+            "gelebonner": 2,
+            "pappegg": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Karusellen med hester",
+          "scores": {
+            "skumkylling": 2,
+            "karamell": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lykkehjulet",
+          "scores": {
+            "pappegg": 2,
+            "sjokoladeegg": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil helst se på",
+          "scores": {
+            "lakris": 1,
+            "notter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen byr på noe godt. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar ett og sier takk",
+          "scores": {
+            "marsipan": 2,
+            "sjokoladeegg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Tar en neve",
+          "scores": {
+            "hare": 2,
+            "gelebonner": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør hva det er først",
+          "scores": {
+            "lakris": 1,
+            "skumkylling": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sender det videre til de andre",
+          "scores": {
+            "sjokoladeegg": 1,
+            "karamell": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sparer det til senere",
+          "scores": {
+            "notter": 2,
+            "marsipan": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smaker litt av alt",
+          "scores": {
+            "pappegg": 1,
+            "kokosbolle": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva slags sekk bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En stor tursekk",
+          "scores": {
+            "notter": 2,
+            "lakris": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En fargerik sekk med mange merker",
+          "scores": {
+            "gelebonner": 1,
+            "skumkylling": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "En liten og pen sekk",
+          "scores": {
+            "marsipan": 1,
+            "karamell": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En sekk med plass til alt",
+          "scores": {
+            "pappegg": 1,
+            "sjokoladeegg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En gammel og slitt favoritt",
+          "scores": {
+            "lakris": 2,
+            "karamell": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen sekk, alt i lommene",
+          "scores": {
+            "hare": 1,
+            "notter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Du ser at noen mister en vott uten å merke det. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Løper etter og gir den tilbake",
+          "scores": {
+            "hare": 2,
+            "sjokoladeegg": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Roper høyt så de hører",
+          "scores": {
+            "gelebonner": 2,
+            "lakris": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Henger den opp der den er lett å se",
+          "scores": {
+            "karamell": 2,
+            "marsipan": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber de nærmeste om å hjelpe",
+          "scores": {
+            "sjokoladeegg": 1,
+            "pappegg": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leverer den til et hittegodskontor",
+          "scores": {
+            "marsipan": 2,
+            "notter": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Følger etter i rolig tempo",
+          "scores": {
+            "kokosbolle": 2,
+            "skumkylling": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "sjokoladeegg",
+      "name": "Sjokoladeegg",
+      "shareName": "et sjokoladeegg",
+      "emoji": null,
+      "description": "Du er klassisk, varm og elsket av mange. Du er den alle blir glade av å se.",
+      "funFact": "De første sjokoladeeggene ble laget i Europa på 1800-tallet.",
+      "image": "images/2027-03-27/sjokoladeegg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klassisk",
+          "text": "Alltid et godt valg."
+        },
+        {
+          "title": "Varm",
+          "text": "Smelter hjerter."
+        },
+        {
+          "title": "Populær",
+          "text": "Alle liker deg."
+        },
+        {
+          "title": "Trygg",
+          "text": "Svikter aldri."
+        }
+      ]
+    },
+    {
+      "id": "marsipan",
+      "name": "Marsipanegg",
+      "shareName": "et marsipanegg",
+      "emoji": null,
+      "description": "Du er tradisjonsrik, rolig og litt gammeldags på den fine måten. Du setter pris på det som er laget med omtanke.",
+      "funFact": "Marsipan lages hovedsakelig av mandler og sukker.",
+      "image": "images/2027-03-27/marsipan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i gamle skikker."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting med ro."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Tenker på andre."
+        },
+        {
+          "title": "Elegant",
+          "text": "Fin i formen."
+        }
+      ]
+    },
+    {
+      "id": "pappegg",
+      "name": "Påskeegg med smågodt",
+      "shareName": "et påskeegg med smågodt",
+      "emoji": null,
+      "description": "Du er full av overraskelser og elsker variasjon. Med deg blir det aldri kjedelig.",
+      "funFact": "Påskeegg av papp fylt med godteri er en tradisjon som er spesielt populær i Norge og Sverige.",
+      "image": "images/2027-03-27/pappegg.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Overraskende",
+          "text": "Alltid noe nytt."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Litt av alt."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprudler av liv."
+        },
+        {
+          "title": "Raus",
+          "text": "Nok til alle."
+        }
+      ]
+    },
+    {
+      "id": "lakris",
+      "name": "Lakris",
+      "shareName": "lakris",
+      "emoji": null,
+      "description": "Du er ærlig, egen og helt deg selv. Ikke alle forstår deg med en gang, men de som gjør det, blir venner for livet.",
+      "funFact": "Lakris får smaken sin fra roten av lakrisplanten.",
+      "image": "images/2027-03-27/lakris.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Egen",
+          "text": "Helt deg selv."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Rett på sak."
+        },
+        {
+          "title": "Trofast",
+          "text": "Venn for livet."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        }
+      ]
+    },
+    {
+      "id": "gelebonner",
+      "name": "Gelébønner",
+      "shareName": "en gelébønne",
+      "emoji": null,
+      "description": "Du er fargerik, sosial og leken. Du trives best i en stor gjeng der det skjer mye.",
+      "funFact": "Gelébønner ble knyttet til påsken i USA fordi de ligner små egg.",
+      "image": "images/2027-03-27/gelebonner.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Mange sider."
+        },
+        {
+          "title": "Sosial",
+          "text": "Trives i flokk."
+        },
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Sprudlende",
+          "text": "Full av energi."
+        }
+      ]
+    },
+    {
+      "id": "karamell",
+      "name": "Karamell",
+      "shareName": "en karamell",
+      "emoji": null,
+      "description": "Du er myk, tålmodig og koselig. Du tar deg god tid og gjør dagen litt søtere for alle rundt deg.",
+      "funFact": "Sukker begynner å bli til karamell når det varmes opp til rundt 170 grader.",
+      "image": "images/2027-03-27/karamell.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Ingen hast her."
+        },
+        {
+          "title": "Myk",
+          "text": "Snill og lun."
+        },
+        {
+          "title": "Koselig",
+          "text": "God å være med."
+        },
+        {
+          "title": "Seig",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "hare",
+      "name": "Sjokoladehare",
+      "shareName": "en sjokoladehare",
+      "emoji": null,
+      "description": "Du er rask, morsom og litt rampete. Du dukker opp der man minst venter det.",
+      "funFact": "Påskeharen kommer fra tysk tradisjon, der haren kom med egg til barna.",
+      "image": "images/2027-03-27/hare.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        },
+        {
+          "title": "Rampete",
+          "text": "Litt tull er bra."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hopper rett i det."
+        }
+      ]
+    },
+    {
+      "id": "notter",
+      "name": "Nøttesjokolade",
+      "shareName": "en nøttesjokolade",
+      "emoji": null,
+      "description": "Du er sporty, stødig og glad i turer. Du har alltid noe godt i sekken til den som trenger det.",
+      "funFact": "Hasselnøtter vokser vilt i Norge, særlig langs kysten.",
+      "image": "images/2027-03-27/notter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sporty",
+          "text": "Klar for tur."
+        },
+        {
+          "title": "Stødig",
+          "text": "Holder hele dagen."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Deler fra sekken."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Enkel og ekte."
+        }
+      ]
+    },
+    {
+      "id": "kokosbolle",
+      "name": "Kokosbolle",
+      "shareName": "en kokosbolle",
+      "emoji": null,
+      "description": "Du er myk på innsiden og litt sprø på utsiden. Du er snill, drømmende og full av gode ideer.",
+      "funFact": "Kokosboller har et luftig skum av eggehvite og sukker inni.",
+      "image": "images/2027-03-27/kokosbolle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Snill",
+          "text": "Myk på innsiden."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Hodet i skyene."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Søt",
+          "text": "Gjør dagen bedre."
+        }
+      ]
+    },
+    {
+      "id": "skumkylling",
+      "name": "Skumkylling",
+      "shareName": "en skumkylling",
+      "emoji": null,
+      "description": "Du er blid, nysgjerrig og full av vårstemning. Du ser alltid lyst på ting.",
+      "funFact": "En kylling kan begynne å pipe inne i egget før den klekkes.",
+      "image": "images/2027-03-27/skumkylling.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Liten",
+          "text": "Men full av mot."
+        },
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på det."
+        }
+      ]
+    }
+  ]
+}

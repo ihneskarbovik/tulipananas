@@ -1,0 +1,716 @@
+{
+  "id": "2027-03-09",
+  "date": "2027-03-09",
+  "title": "Hvilken superkraft har du i dag?",
+  "intro": "Alle har en liten superkraft gjemt et sted. Svar på sju spørsmål og finn ut hvilken som passer best for deg i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken grønnsak liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brokkoli",
+          "scores": {
+            "styrke": 2,
+            "helbrede": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gulrot",
+          "scores": {
+            "dyreprat": 2,
+            "fart": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mais",
+          "scores": {
+            "fly": 1,
+            "teleport": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Søtpotet",
+          "scores": {
+            "stopptid": 2,
+            "planter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sukkerert rett fra belgen",
+          "scores": {
+            "planter": 2,
+            "usynlig": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Paprika i alle farger",
+          "scores": {
+            "vaer": 2,
+            "tidsreise": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det kommer uventet besøk. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter på kaffe og finner fram noe godt",
+          "scores": {
+            "helbrede": 2,
+            "styrke": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder lynraskt før de kommer inn",
+          "scores": {
+            "fart": 2,
+            "teleport": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blir glad og foreslår at vi gjør noe",
+          "scores": {
+            "fly": 1,
+            "vaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lurer på hvorfor de kom, og spør",
+          "scores": {
+            "tanker": 2,
+            "tidsreise": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lar de andre snakke og lytter",
+          "scores": {
+            "usynlig": 2,
+            "stopptid": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken lyd liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regn på taket",
+          "scores": {
+            "stopptid": 2,
+            "usynlig": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fuglesang om morgenen",
+          "scores": {
+            "dyreprat": 2,
+            "planter": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bølger mot stranda",
+          "scores": {
+            "fly": 1,
+            "helbrede": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tordenbrak langt unna",
+          "scores": {
+            "vaer": 2,
+            "styrke": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Latter fra venner",
+          "scores": {
+            "tanker": 1,
+            "fart": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lyden av en gammel klokke",
+          "scores": {
+            "tidsreise": 2,
+            "teleport": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "En venn spør deg om råd. Hvordan svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør først hvordan vennen har det",
+          "scores": {
+            "tanker": 2,
+            "helbrede": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gir et kort og tydelig svar",
+          "scores": {
+            "teleport": 2,
+            "styrke": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller om noe lignende som skjedde før",
+          "scores": {
+            "tidsreise": 2,
+            "usynlig": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ber vennen sove på det",
+          "scores": {
+            "stopptid": 2,
+            "planter": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår å gå en tur og prate",
+          "scores": {
+            "dyreprat": 2,
+            "fart": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sier at vennen skal følge hjertet",
+          "scores": {
+            "vaer": 2,
+            "fly": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva slags podkast hører du helst på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Historie",
+          "scores": {
+            "tidsreise": 1,
+            "stopptid": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Natur og dyr",
+          "scores": {
+            "dyreprat": 1,
+            "planter": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Humor",
+          "scores": {
+            "fart": 2,
+            "vaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Samtaler om følelser og livet",
+          "scores": {
+            "tanker": 1,
+            "helbrede": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Reise og eventyr",
+          "scores": {
+            "fly": 1,
+            "teleport": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Krim og mysterier",
+          "scores": {
+            "usynlig": 1,
+            "tanker": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det blir strømbrudd en kveld. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tenner stearinlys og koser meg",
+          "scores": {
+            "stopptid": 2,
+            "helbrede": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner lommelykta og sjekker sikringene",
+          "scores": {
+            "styrke": 2,
+            "teleport": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller spøkelseshistorier",
+          "scores": {
+            "tidsreise": 2,
+            "vaer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Går ut og ser på stjernene",
+          "scores": {
+            "fly": 2,
+            "usynlig": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spiller kort med de andre",
+          "scores": {
+            "tanker": 1,
+            "fart": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Steller plantene i lyset fra vinduet",
+          "scores": {
+            "planter": 2,
+            "dyreprat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket kostyme ville du valgt på et kostymeselskap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Astronaut",
+          "scores": {
+            "fly": 2,
+            "teleport": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ridder",
+          "scores": {
+            "styrke": 2,
+            "tidsreise": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et dyr med ører og hale",
+          "scores": {
+            "dyreprat": 2,
+            "fart": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Trollmann",
+          "scores": {
+            "vaer": 2,
+            "tanker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spion med solbriller",
+          "scores": {
+            "usynlig": 2,
+            "teleport": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En blomst eller et tre",
+          "scores": {
+            "planter": 2,
+            "helbrede": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "fly",
+      "name": "Flyge",
+      "shareName": "flyvekraft",
+      "emoji": null,
+      "description": "Du er fri, eventyrlysten og liker å se ting fra oven. Du drømmer stort og tar gjerne andre med deg opp.",
+      "funFact": "Vandrefalken kan dykke i over 300 kilometer i timen og er verdens raskeste dyr.",
+      "image": "images/2027-03-09/fly.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fri",
+          "text": "Liker god plass."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å ta sats."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Ser store muligheter."
+        },
+        {
+          "title": "Utsyn",
+          "text": "Ser helheten."
+        }
+      ]
+    },
+    {
+      "id": "usynlig",
+      "name": "Usynlighet",
+      "shareName": "usynlig",
+      "emoji": null,
+      "description": "Du er rolig og observant og merker ting andre går glipp av. Du trenger ikke rampelyset for å gjøre en forskjell.",
+      "funFact": "Glassfrosker har så gjennomsiktig hud på magen at man kan se hjertet slå.",
+      "image": "images/2027-03-09/usynlig.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Observant",
+          "text": "Ser alle detaljene."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder seg i bakgrunnen."
+        },
+        {
+          "title": "Lun",
+          "text": "Overrasker med humor."
+        },
+        {
+          "title": "Diskré",
+          "text": "Kan holde på hemmeligheter."
+        }
+      ]
+    },
+    {
+      "id": "tanker",
+      "name": "Tankelesing",
+      "shareName": "tankeleser",
+      "emoji": null,
+      "description": "Du er empatisk og skjønner hvordan andre har det før de sier noe. Folk føler seg sett når de er sammen med deg.",
+      "funFact": "Hunder kan skille glade ansikter fra sinte ansikter hos mennesker.",
+      "image": "images/2027-03-09/tanker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Empatisk",
+          "text": "Kjenner hvordan andre har det."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå folk."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører det usagte."
+        },
+        {
+          "title": "Klok",
+          "text": "Gir gode råd."
+        }
+      ]
+    },
+    {
+      "id": "teleport",
+      "name": "Teleportering",
+      "shareName": "teleportør",
+      "emoji": null,
+      "description": "Du er spontan og liker å komme raskt i gang. Du hater å kaste bort tid og vil helst være mange steder samtidig.",
+      "funFact": "Forskere har klart å teleportere informasjon mellom små partikler, men ikke ting.",
+      "image": "images/2027-03-09/teleport.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Bestemmer seg raskt."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Kaster ikke bort tid."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Utålmodig",
+          "text": "Liker ikke å vente."
+        }
+      ]
+    },
+    {
+      "id": "tidsreise",
+      "name": "Tidsreiser",
+      "shareName": "tidsreisende",
+      "emoji": null,
+      "description": "Du er nysgjerrig på hvordan ting var før og hvordan de blir senere. Du elsker gode historier og store spørsmål.",
+      "funFact": "Klokkene på GPS-satellitter går litt fortere enn klokker på jorda og må justeres hele tiden.",
+      "image": "images/2027-03-09/tidsreise.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Lurer på alt."
+        },
+        {
+          "title": "Fantasifull",
+          "text": "Ser andre tider for seg."
+        },
+        {
+          "title": "Grundig",
+          "text": "Leser seg opp."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har alltid en historie."
+        }
+      ]
+    },
+    {
+      "id": "styrke",
+      "name": "Superstyrke",
+      "shareName": "supersterk",
+      "emoji": null,
+      "description": "Du er trygg og hjelpsom og stiller opp når noe er tungt. Andre vet at de kan lene seg på deg.",
+      "funFact": "Maur kan bære flere ganger sin egen kroppsvekt.",
+      "image": "images/2027-03-09/styrke.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Hjelpsom",
+          "text": "Stiller alltid opp."
+        },
+        {
+          "title": "Trygg",
+          "text": "Folk lener seg på deg."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Står opp for andre."
+        }
+      ]
+    },
+    {
+      "id": "dyreprat",
+      "name": "Snakke med dyr",
+      "shareName": "dyrehvisker",
+      "emoji": null,
+      "description": "Du er tålmodig og varm og har et spesielt bånd til dyr. Du liker å være ute og legger merke til små liv rundt deg.",
+      "funFact": "Delfiner har egne plystrelyder som fungerer omtrent som navn.",
+      "image": "images/2027-03-09/dyreprat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Dyrevenn",
+          "text": "Alle dyr liker deg."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter rolig."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives best ute."
+        },
+        {
+          "title": "Varm",
+          "text": "Har stort hjerte."
+        }
+      ]
+    },
+    {
+      "id": "helbrede",
+      "name": "Helbredelse",
+      "shareName": "helbreder",
+      "emoji": null,
+      "description": "Du er omsorgsfull og vil at alle rundt deg skal ha det bra. Du har plaster, te og gode ord klare når noen trenger det.",
+      "funFact": "Aksolotlen kan gro ut igjen et helt bein hvis den mister det.",
+      "image": "images/2027-03-09/helbrede.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Skaper ro rundt seg."
+        },
+        {
+          "title": "Gavmild",
+          "text": "Deler det du har."
+        },
+        {
+          "title": "Trofast",
+          "text": "Er der for andre."
+        }
+      ]
+    },
+    {
+      "id": "stopptid",
+      "name": "Stoppe tiden",
+      "shareName": "tidsstopper",
+      "emoji": null,
+      "description": "Du liker å nyte øyeblikket og ta ting i ditt eget tempo. Du er god til å planlegge og ser verdien i en rolig stund.",
+      "funFact": "Bjørnedyr kan tørke helt ut og ligge i dvale i mange år før de våkner igjen.",
+      "image": "images/2027-03-09/stopptid.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tilstede",
+          "text": "Nyter øyeblikket."
+        },
+        {
+          "title": "Planlagt",
+          "text": "Har god oversikt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser sjelden."
+        },
+        {
+          "title": "Ettertenksom",
+          "text": "Tenker før du handler."
+        }
+      ]
+    },
+    {
+      "id": "planter",
+      "name": "Plantekraft",
+      "shareName": "plantemager",
+      "emoji": null,
+      "description": "Du er jordnær og tålmodig og elsker å se ting vokse. Du får det grønne til å trives, både i hagen og i folk.",
+      "funFact": "Noen bambusarter kan vokse nesten en meter på ett døgn.",
+      "image": "images/2027-03-09/planter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Står stødig."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir ting tid."
+        },
+        {
+          "title": "Grønn",
+          "text": "Elsker alt som gror."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i stillhet."
+        }
+      ]
+    },
+    {
+      "id": "vaer",
+      "name": "Styre været",
+      "shareName": "værmager",
+      "emoji": null,
+      "description": "Du er full av energi og følelser og merkes når du kommer inn i et rom. Du er kreativ og liker litt dramatikk.",
+      "funFact": "Et lyn kan være rundt fem ganger varmere enn overflaten på sola.",
+      "image": "images/2027-03-09/vaer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full av krefter."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Får ting til å skje."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner alt sterkt."
+        },
+        {
+          "title": "Synlig",
+          "text": "Merkes godt."
+        }
+      ]
+    },
+    {
+      "id": "fart",
+      "name": "Superfart",
+      "shareName": "superrask",
+      "emoji": null,
+      "description": "Du er rask, sporty og alltid i bevegelse. Du blir aldri ferdig med å finne på noe nytt.",
+      "funFact": "Geparden kan løpe i rundt 100 kilometer i timen i korte rykk.",
+      "image": "images/2027-03-09/fart.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Alltid først."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker bevegelse."
+        },
+        {
+          "title": "Rastløs",
+          "text": "Sitter aldri stille."
+        },
+        {
+          "title": "Leken",
+          "text": "Liker å konkurrere."
+        }
+      ]
+    }
+  ]
+}

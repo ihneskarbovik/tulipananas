@@ -1,0 +1,696 @@
+{
+  "id": "2027-03-24",
+  "date": "2027-03-24",
+  "title": "Hvilket sted på skolen er du i dag?",
+  "intro": "Alle har et sted på skolen de husker ekstra godt. Svar på sju spørsmål og finn ut hvilket sted på skolen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilket ordtak passer best for deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Borte bra, men hjemme best",
+          "scores": {
+            "skolekjokken": 2,
+            "laererrom": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Det finnes ikke dårlig vær, bare dårlige klær",
+          "scores": {
+            "garderobe": 2,
+            "skolegard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Øvelse gjør mester",
+          "scores": {
+            "sloydsal": 2,
+            "gymsal": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den som intet våger, intet vinner",
+          "scores": {
+            "naturfagrom": 2,
+            "gymsal": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kunnskap er makt",
+          "scores": {
+            "bibliotek": 2,
+            "klasserom": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Smil til verden, så smiler verden til deg",
+          "scores": {
+            "musikkrom": 2,
+            "kantine": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva ville du skrevet en bok om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort eventyr",
+          "scores": {
+            "bibliotek": 2,
+            "skolegard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Oppskrifter fra familien",
+          "scores": {
+            "skolekjokken": 2,
+            "kantine": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Hvordan man bygger ting",
+          "scores": {
+            "sloydsal": 2,
+            "naturfagrom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Historier om folk jeg har møtt",
+          "scores": {
+            "laererrom": 2,
+            "garderobe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Universets mysterier",
+          "scores": {
+            "naturfagrom": 2,
+            "bibliotek": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Livet på turné",
+          "scores": {
+            "musikkrom": 2,
+            "skolegard": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best å prate om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kamper og resultater",
+          "scores": {
+            "gymsal": 2,
+            "skolegard": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bøker og serier",
+          "scores": {
+            "bibliotek": 2,
+            "klasserom": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Mat og oppskrifter",
+          "scores": {
+            "skolekjokken": 2,
+            "kantine": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hva som skjer med alle",
+          "scores": {
+            "garderobe": 2,
+            "laererrom": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ting jeg har laget",
+          "scores": {
+            "sloydsal": 2,
+            "musikkrom": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Rare fakta",
+          "scores": {
+            "naturfagrom": 2,
+            "klasserom": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du får male et stort bilde på en vegg. Hva maler du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et fargerikt mønster",
+          "scores": {
+            "musikkrom": 2,
+            "sloydsal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En skog full av dyr",
+          "scores": {
+            "naturfagrom": 2,
+            "skolegard": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et kart over verden",
+          "scores": {
+            "klasserom": 2,
+            "bibliotek": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Alle vennene mine",
+          "scores": {
+            "kantine": 2,
+            "garderobe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et stort fotballmål",
+          "scores": {
+            "skolegard": 2,
+            "gymsal": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En rolig solnedgang",
+          "scores": {
+            "laererrom": 2,
+            "bibliotek": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Dere skal velge lag i en lek. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vil gjerne være kaptein",
+          "scores": {
+            "gymsal": 2,
+            "klasserom": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Passer på at ingen blir valgt sist",
+          "scores": {
+            "laererrom": 2,
+            "skolekjokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vil være på lag med vennene mine",
+          "scores": {
+            "kantine": 2,
+            "garderobe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Foreslår en rettferdig måte å dele på",
+          "scores": {
+            "naturfagrom": 2,
+            "klasserom": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Blir med uansett hvilket lag",
+          "scores": {
+            "skolegard": 2,
+            "musikkrom": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ser heller på fra sidelinja",
+          "scores": {
+            "bibliotek": 1,
+            "sloydsal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du får en ny lærer eller sjef. Hvordan er du den første uka?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ser an og lytter",
+          "scores": {
+            "laererrom": 2,
+            "bibliotek": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Viser fram hva jeg kan",
+          "scores": {
+            "gymsal": 2,
+            "musikkrom": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om alt mulig",
+          "scores": {
+            "garderobe": 2,
+            "naturfagrom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Prøver å gjøre et godt inntrykk",
+          "scores": {
+            "klasserom": 2,
+            "laererrom": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Prater med de andre om hva vi synes",
+          "scores": {
+            "garderobe": 2,
+            "kantine": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tilbyr meg å hjelpe til",
+          "scores": {
+            "skolekjokken": 2,
+            "sloydsal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Noen i klassen eller på jobben har bursdag. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar med noe hjemmelaget",
+          "scores": {
+            "skolekjokken": 2,
+            "sloydsal": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Får alle til å synge",
+          "scores": {
+            "musikkrom": 2,
+            "kantine": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager et kort som alle skriver på",
+          "scores": {
+            "sloydsal": 2,
+            "klasserom": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pynter i all hemmelighet",
+          "scores": {
+            "garderobe": 2,
+            "skolegard": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sier gratulerer og gir en god klem",
+          "scores": {
+            "kantine": 2,
+            "laererrom": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Organiserer en lek ute",
+          "scores": {
+            "skolegard": 2,
+            "gymsal": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "klasserom",
+      "name": "Klasserommet",
+      "shareName": "klasserommet",
+      "emoji": null,
+      "description": "Du er lærevillig og ryddig, og du liker at ting har en plan. Du får med deg det viktigste og hjelper andre å henge med.",
+      "funFact": "Med Reform 97 ble grunnskolen i Norge tiårig, og seksåringene begynte på skolen.",
+      "image": "images/2027-03-24/klasserom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lærevillig",
+          "text": "Vil lære mer."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Har orden."
+        },
+        {
+          "title": "Pliktoppfyllende",
+          "text": "Gjør det som skal gjøres."
+        },
+        {
+          "title": "Rettferdig",
+          "text": "Like regler for alle."
+        }
+      ]
+    },
+    {
+      "id": "gymsal",
+      "name": "Gymsalen",
+      "shareName": "gymsalen",
+      "emoji": null,
+      "description": "Du er energisk og elsker å være i bevegelse. Du heier på laget og gir alt når det gjelder.",
+      "funFact": "Ordet gymnastikk kommer fra det greske ordet «gymnos», som betyr naken, fordi grekerne trente uten klær.",
+      "image": "images/2027-03-24/gymsal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Heier på alle."
+        },
+        {
+          "title": "Konkurranseglad",
+          "text": "Liker å vinne."
+        },
+        {
+          "title": "Modig",
+          "text": "Kaster seg ut i det."
+        }
+      ]
+    },
+    {
+      "id": "bibliotek",
+      "name": "Biblioteket",
+      "shareName": "biblioteket",
+      "emoji": null,
+      "description": "Du er rolig, klok og har alltid en god historie på lur. Du trives med tid til å tenke.",
+      "funFact": "Deichman i Oslo er Norges eldste offentlige bibliotek og ble grunnlagt i 1785.",
+      "image": "images/2027-03-24/bibliotek.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Liker stillhet."
+        },
+        {
+          "title": "Klok",
+          "text": "Vet mye."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Lever i historier."
+        },
+        {
+          "title": "Lyttende",
+          "text": "Hører godt etter."
+        }
+      ]
+    },
+    {
+      "id": "kantine",
+      "name": "Kantina",
+      "shareName": "kantina",
+      "emoji": null,
+      "description": "Du er sosial og pratsom, og du vet alltid hvem som sitter hvor. Rundt deg er det alltid liv og latter.",
+      "funFact": "I Finland har alle skoleelever fått gratis varm lunsj hver dag siden 1940-tallet.",
+      "image": "images/2027-03-24/kantine.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Venn med alle."
+        },
+        {
+          "title": "Pratsom",
+          "text": "Alltid noe å si."
+        },
+        {
+          "title": "Matglad",
+          "text": "Glad i god mat."
+        },
+        {
+          "title": "Livlig",
+          "text": "Mye latter."
+        }
+      ]
+    },
+    {
+      "id": "skolegard",
+      "name": "Skolegården",
+      "shareName": "skolegården",
+      "emoji": null,
+      "description": "Du er leken og fri, og du trives best ute i frisk luft. Du har alltid en ny lek eller idé på lur.",
+      "funFact": "Ordet friminutt kommer av at elevene fikk fri i noen minutter mellom timene.",
+      "image": "images/2027-03-24/skolegard.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid klar."
+        },
+        {
+          "title": "Fri",
+          "text": "Liker å være ute."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Holder seg i gang."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle kan være med."
+        }
+      ]
+    },
+    {
+      "id": "musikkrom",
+      "name": "Musikkrommet",
+      "shareName": "musikkrommet",
+      "emoji": null,
+      "description": "Du er kreativ og uttrykksfull, og du setter farge på hverdagen. Du får folk til å synge med.",
+      "funFact": "Blokkfløyta var et populært instrument allerede for mer enn 500 år siden.",
+      "image": "images/2027-03-24/musikkrom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager noe nytt."
+        },
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser følelser."
+        },
+        {
+          "title": "Rytmisk",
+          "text": "Har takten."
+        },
+        {
+          "title": "Samlende",
+          "text": "Får med alle."
+        }
+      ]
+    },
+    {
+      "id": "sloydsal",
+      "name": "Sløydsalen",
+      "shareName": "sløydsalen",
+      "emoji": null,
+      "description": "Du er praktisk, tålmodig og elsker å lage ting med hendene. Du ser løsninger der andre ser problemer.",
+      "funFact": "Ordet sløyd kommer fra det svenske ordet «slöjd», som betyr håndverk.",
+      "image": "images/2027-03-24/sloydsal.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Får det til."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tar seg tid."
+        },
+        {
+          "title": "Skapende",
+          "text": "Lager mye fint."
+        },
+        {
+          "title": "Løsningsorientert",
+          "text": "Fikser det meste."
+        }
+      ]
+    },
+    {
+      "id": "skolekjokken",
+      "name": "Skolekjøkkenet",
+      "shareName": "skolekjøkkenet",
+      "emoji": null,
+      "description": "Du er omsorgsfull og glad i å dele det du har laget. Hos deg føler alle seg velkomne og mette.",
+      "funFact": "Faget mat og helse het tidligere heimkunnskap.",
+      "image": "images/2027-03-24/skolekjokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Omsorgsfull",
+          "text": "Tar vare på andre."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Koselig og varm."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får det gjort."
+        }
+      ]
+    },
+    {
+      "id": "naturfagrom",
+      "name": "Naturfagrommet",
+      "shareName": "naturfagrommet",
+      "emoji": null,
+      "description": "Du er nysgjerrig og liker å finne ut hvorfor ting er som de er. Du prøver gjerne selv for å se hva som skjer.",
+      "funFact": "Bunsenbrenneren er oppkalt etter den tyske kjemikeren Robert Bunsen.",
+      "image": "images/2027-03-24/naturfagrom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Spør hvorfor."
+        },
+        {
+          "title": "Logisk",
+          "text": "Tenker klart."
+        },
+        {
+          "title": "Eksperimenterende",
+          "text": "Prøver selv."
+        },
+        {
+          "title": "Grundig",
+          "text": "Sjekker to ganger."
+        }
+      ]
+    },
+    {
+      "id": "laererrom",
+      "name": "Lærerværelset",
+      "shareName": "lærerværelset",
+      "emoji": null,
+      "description": "Du er ansvarsfull og omtenksom, og du har oversikt over hvordan alle har det. Folk kommer til deg for gode råd.",
+      "funFact": "Det første lærerseminaret i Norge ble opprettet på Trondenes i 1826.",
+      "image": "images/2027-03-24/laererrom.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ansvarsfull",
+          "text": "Tar ansvar."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Ser alle."
+        },
+        {
+          "title": "Klok",
+          "text": "Gir gode råd."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        }
+      ]
+    },
+    {
+      "id": "garderobe",
+      "name": "Garderoben",
+      "shareName": "garderoben",
+      "emoji": null,
+      "description": "Du er hverdagsglad og vet alltid hva som skjer, for alle går forbi deg. Du er med i nesten alle de beste samtalene.",
+      "funFact": "Ordet garderobe kommer fra fransk og betyr omtrent «å passe på klær».",
+      "image": "images/2027-03-24/garderobe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Oppdatert",
+          "text": "Får med seg alt."
+        },
+        {
+          "title": "Hverdagsglad",
+          "text": "Liker det vanlige."
+        },
+        {
+          "title": "Sosial",
+          "text": "Møter alle."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        }
+      ]
+    }
+  ]
+}

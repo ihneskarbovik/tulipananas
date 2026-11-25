@@ -1,0 +1,690 @@
+{
+  "id": "2027-03-23",
+  "date": "2027-03-23",
+  "title": "Hvilket museum er du i dag?",
+  "intro": "Gamle skatter, store skjeletter og knapper du kan trykke på. Svar på sju spørsmål og finn ut hvilket museum du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva gjør du først når du kommer inn på et museum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går rett til den største attraksjonen",
+          "scores": {
+            "vikingmuseum": 2,
+            "romfartsmuseum": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser alle skiltene nøye",
+          "scores": {
+            "naturhistorisk": 1,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Finner noe jeg kan ta på og prøve",
+          "scores": {
+            "vitensenter": 2,
+            "tekniskmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Tar en runde i museumsbutikken",
+          "scores": {
+            "leketoymuseum": 2,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter meg foran én ting lenge",
+          "scores": {
+            "kunstmuseum": 2,
+            "musikkmuseum": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Følger guiden og hører på historiene",
+          "scores": {
+            "folkemuseum": 2,
+            "vikingmuseum": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva henger på kjøleskapsdøra di?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tegninger fra barn",
+          "scores": {
+            "leketoymuseum": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bilder fra ferier",
+          "scores": {
+            "sjofartsmuseum": 2,
+            "vikingmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En stor kalender med alt",
+          "scores": {
+            "naturhistorisk": 2,
+            "tekniskmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Konsertbilletter og små lapper",
+          "scores": {
+            "musikkmuseum": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, den skal være helt ren",
+          "scores": {
+            "designmuseum": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Drømmelister for framtiden",
+          "scores": {
+            "romfartsmuseum": 2,
+            "vitensenter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket hus vil du helst se innsiden av?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et gammelt slott",
+          "scores": {
+            "vikingmuseum": 2,
+            "leketoymuseum": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Et fyrtårn",
+          "scores": {
+            "sjofartsmuseum": 2,
+            "romfartsmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et moderne glasshus",
+          "scores": {
+            "designmuseum": 2,
+            "kunstmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En gammel tømmerhytte",
+          "scores": {
+            "folkemuseum": 2,
+            "naturhistorisk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Et hus fullt av oppfinnelser",
+          "scores": {
+            "tekniskmuseum": 2,
+            "vitensenter": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hjemmet til en kjent kunstner",
+          "scores": {
+            "musikkmuseum": 2,
+            "kunstmuseum": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva slags morsomme fakta liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Om dyr og natur",
+          "scores": {
+            "naturhistorisk": 2,
+            "vitensenter": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Om ting som er veldig langt borte",
+          "scores": {
+            "romfartsmuseum": 2,
+            "sjofartsmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Om hvordan ting fungerer",
+          "scores": {
+            "vitensenter": 2,
+            "tekniskmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Om hvordan folk levde før",
+          "scores": {
+            "vikingmuseum": 2,
+            "folkemuseum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Om kjente personer",
+          "scores": {
+            "musikkmuseum": 2,
+            "kunstmuseum": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Om rare rekorder",
+          "scores": {
+            "leketoymuseum": 2,
+            "vitensenter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du har en halvtime til overs i byen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setter meg på en benk og dagdrømmer",
+          "scores": {
+            "kunstmuseum": 2,
+            "romfartsmuseum": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Går inn i en bruktbutikk",
+          "scores": {
+            "folkemuseum": 2,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går ned til havna",
+          "scores": {
+            "sjofartsmuseum": 2,
+            "vikingmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hører på en gatemusikant",
+          "scores": {
+            "musikkmuseum": 2,
+            "leketoymuseum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kikker i en elektronikkbutikk",
+          "scores": {
+            "tekniskmuseum": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Finner noe å klatre i",
+          "scores": {
+            "vitensenter": 1,
+            "vikingmuseum": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hva gjør du helst på en gåtur alene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går opp en bakke for utsikten",
+          "scores": {
+            "romfartsmuseum": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stopper og hilser på folk",
+          "scores": {
+            "folkemuseum": 1,
+            "sjofartsmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Går dit det er liv og musikk",
+          "scores": {
+            "musikkmuseum": 2,
+            "romfartsmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ser på husene og arkitekturen",
+          "scores": {
+            "designmuseum": 2,
+            "kunstmuseum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leser på skilt og minnetavler",
+          "scores": {
+            "vikingmuseum": 2,
+            "naturhistorisk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar en snarvei jeg aldri har gått",
+          "scores": {
+            "vitensenter": 2,
+            "leketoymuseum": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan tar du vare på ting du er glad i?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Har dem i en egen eske",
+          "scores": {
+            "leketoymuseum": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Reparerer dem når de går i stykker",
+          "scores": {
+            "tekniskmuseum": 2,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bruker dem hver dag",
+          "scores": {
+            "sjofartsmuseum": 2,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Setter dem fram så de synes",
+          "scores": {
+            "kunstmuseum": 2,
+            "designmuseum": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Skriver ned historien bak dem",
+          "scores": {
+            "naturhistorisk": 2,
+            "folkemuseum": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Drømmer heller om nye ting",
+          "scores": {
+            "romfartsmuseum": 2,
+            "vitensenter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kunstmuseum",
+      "name": "Kunstmuseum",
+      "shareName": "et kunstmuseum",
+      "emoji": null,
+      "description": "Du er reflektert og har sans for det vakre. Du kan bli stående lenge foran noe som rører deg.",
+      "funFact": "Nasjonalmuseet i Oslo, som åpnet i 2022, er det største kunstmuseet i Norden.",
+      "image": "images/2027-03-23/kunstmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Reflektert",
+          "text": "Tenker dypt."
+        },
+        {
+          "title": "Estetisk",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Følsom",
+          "text": "Lar seg berøre."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg tid."
+        }
+      ]
+    },
+    {
+      "id": "naturhistorisk",
+      "name": "Naturhistorisk museum",
+      "shareName": "et naturhistorisk museum",
+      "emoji": null,
+      "description": "Du er nysgjerrig og elsker å lære om hvordan verden henger sammen. Du kan mye rart, og deler gjerne.",
+      "funFact": "Naturhistorisk museum i Oslo eier fossilet «Ida», en primat som er rundt 47 millioner år gammel.",
+      "image": "images/2027-03-23/naturhistorisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil vite mer."
+        },
+        {
+          "title": "Kunnskapsrik",
+          "text": "Kan mye rart."
+        },
+        {
+          "title": "Grundig",
+          "text": "Leser alt."
+        },
+        {
+          "title": "Undrende",
+          "text": "Stiller store spørsmål."
+        }
+      ]
+    },
+    {
+      "id": "folkemuseum",
+      "name": "Folkemuseum",
+      "shareName": "et folkemuseum",
+      "emoji": null,
+      "description": "Du er koselig og glad i tradisjoner, gamle historier og gode samtaler. Hos deg føler alle seg hjemme.",
+      "funFact": "Norsk Folkemuseum på Bygdøy har en stavkirke fra Gol som er bygget i middelalderen.",
+      "image": "images/2027-03-23/folkemuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Varm og trygg."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Elsker gamle dager."
+        },
+        {
+          "title": "Fortellende",
+          "text": "Har mange historier."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle er velkomne."
+        }
+      ]
+    },
+    {
+      "id": "tekniskmuseum",
+      "name": "Teknisk museum",
+      "shareName": "et teknisk museum",
+      "emoji": null,
+      "description": "Du er praktisk og oppfinnsom, og du vil vite hvordan ting virker. Du finner nesten alltid en løsning.",
+      "funFact": "Norsk Teknisk Museum i Oslo ble grunnlagt i 1914.",
+      "image": "images/2027-03-23/tekniskmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Får det til."
+        },
+        {
+          "title": "Oppfinnsom",
+          "text": "Tenker nytt."
+        },
+        {
+          "title": "Logisk",
+          "text": "Ser sammenhenger."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Skrur fra hverandre."
+        }
+      ]
+    },
+    {
+      "id": "sjofartsmuseum",
+      "name": "Sjøfartsmuseum",
+      "shareName": "et sjøfartsmuseum",
+      "emoji": null,
+      "description": "Du er eventyrlysten og modig, og du trives best med havet i sikte. Du er glad i å dra ut og komme hjem igjen.",
+      "funFact": "Polarskuta Fram, som står i Frammuseet i Oslo, har seilt både lenger nord og lenger sør enn noe annet treskip.",
+      "image": "images/2027-03-23/sjofartsmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil ut og se."
+        },
+        {
+          "title": "Modig",
+          "text": "Tåler storm."
+        },
+        {
+          "title": "Havkjær",
+          "text": "Elsker sjøluft."
+        },
+        {
+          "title": "Trofast",
+          "text": "Kommer alltid hjem."
+        }
+      ]
+    },
+    {
+      "id": "vitensenter",
+      "name": "Vitensenter",
+      "shareName": "et vitensenter",
+      "emoji": null,
+      "description": "Du er leken og aktiv, og du lærer best ved å prøve selv. Med deg blir alt til et eksperiment.",
+      "funFact": "På et vitensenter er det meningen at du skal ta på utstillingene og prøve dem selv.",
+      "image": "images/2027-03-23/vitensenter.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Prøver alt."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid i gang."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Hva skjer hvis?"
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av liv."
+        }
+      ]
+    },
+    {
+      "id": "leketoymuseum",
+      "name": "Leketøymuseum",
+      "shareName": "et leketøymuseum",
+      "emoji": null,
+      "description": "Du er glad, varm og har tatt vare på barnet i deg. Du får folk til å smile og huske gode ting.",
+      "funFact": "Jojoen er en av verdens eldste leker, og det finnes jojoer fra antikkens Hellas.",
+      "image": "images/2027-03-23/leketoymuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Elsker moro."
+        },
+        {
+          "title": "Glad",
+          "text": "Sprer smil."
+        },
+        {
+          "title": "Nostalgisk",
+          "text": "Husker barndommen."
+        },
+        {
+          "title": "Varm",
+          "text": "God å være med."
+        }
+      ]
+    },
+    {
+      "id": "musikkmuseum",
+      "name": "Musikkmuseum",
+      "shareName": "et musikkmuseum",
+      "emoji": null,
+      "description": "Du er følsom og sosial, og du har en egen rytme i alt du gjør. Du vet hvordan man skaper god stemning.",
+      "funFact": "Ringve musikkmuseum i Trondheim er Norges nasjonale museum for musikk og instrumenter.",
+      "image": "images/2027-03-23/musikkmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Musikalsk",
+          "text": "Har rytmen."
+        },
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Stemningsfull",
+          "text": "Skaper god stemning."
+        }
+      ]
+    },
+    {
+      "id": "vikingmuseum",
+      "name": "Vikingmuseum",
+      "shareName": "et vikingmuseum",
+      "emoji": null,
+      "description": "Du er tøff, modig og glad i gode historier fra gamle dager. Du står fram og tar sjansen.",
+      "funFact": "Osebergskipet ble gravd ut i 1904 og er over 1100 år gammelt.",
+      "image": "images/2027-03-23/vikingmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tar sjansen."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Historieglad",
+          "text": "Elsker gamle sagn."
+        },
+        {
+          "title": "Lojal",
+          "text": "Står med sine."
+        }
+      ]
+    },
+    {
+      "id": "designmuseum",
+      "name": "Designmuseum",
+      "shareName": "et designmuseum",
+      "emoji": null,
+      "description": "Du har god stil og sans for detaljer, og du liker ting som er både fine og praktiske. Du ser fort hva som kan gjøres bedre.",
+      "funFact": "Ostehøvelen ble patentert av nordmannen Thor Bjørklund i 1925.",
+      "image": "images/2027-03-23/designmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "God smak."
+        },
+        {
+          "title": "Detaljert",
+          "text": "Ser det lille."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Fint og nyttig."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Liker orden."
+        }
+      ]
+    },
+    {
+      "id": "romfartsmuseum",
+      "name": "Romfartsmuseum",
+      "shareName": "et romfartsmuseum",
+      "emoji": null,
+      "description": "Du er en drømmer med store planer og blikket rettet framover. Du tror at nesten alt er mulig.",
+      "funFact": "Fra Andøya har det blitt sendt opp forskningsraketter siden 1962.",
+      "image": "images/2027-03-23/romfartsmuseum.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Drømmende",
+          "text": "Ser langt."
+        },
+        {
+          "title": "Ambisiøs",
+          "text": "Store planer."
+        },
+        {
+          "title": "Framtidsrettet",
+          "text": "Tenker nytt."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        }
+      ]
+    }
+  ]
+}

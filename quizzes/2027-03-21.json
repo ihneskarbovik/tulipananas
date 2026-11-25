@@ -1,0 +1,687 @@
+{
+  "id": "2027-03-21",
+  "date": "2027-03-21",
+  "title": "Hva i skogen er du i dag?",
+  "intro": "I dag er det den internasjonale skogdagen. Svar på sju spørsmål og finn ut hva i skogen du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva tar du med deg inn i skogen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kart og kompass",
+          "scores": {
+            "sti": 2,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Termos og sitteunderlag",
+          "scores": {
+            "stubbe": 2,
+            "mose": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kikkert",
+          "scores": {
+            "spindelvev": 2,
+            "bregne": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Pølser og fyrstikker",
+          "scores": {
+            "gapahuk": 2,
+            "kampestein": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingenting, jeg vil bare gå",
+          "scores": {
+            "sti": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Så mange venner som mulig",
+          "scores": {
+            "lysning": 2,
+            "gapahuk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hvilken suppe liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fiskesuppe",
+          "scores": {
+            "kampestein": 2,
+            "stubbe": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blomkålsuppe",
+          "scores": {
+            "mose": 1,
+            "bregne": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Tomatsuppe med makaroni",
+          "scores": {
+            "kongle": 1,
+            "kampestein": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ertesuppe med alt mulig i",
+          "scores": {
+            "maurtue": 2,
+            "kampestein": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Grønn suppe med urter",
+          "scores": {
+            "bregne": 2,
+            "lysning": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Nudelsuppe",
+          "scores": {
+            "spindelvev": 2,
+            "mose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken rolle vil du ha i et band?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vokalist",
+          "scores": {
+            "bekk": 2,
+            "lysning": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Trommeslager",
+          "scores": {
+            "kampestein": 2,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Låtskriver",
+          "scores": {
+            "spindelvev": 2,
+            "bregne": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Manager som holder styr på alt",
+          "scores": {
+            "sti": 1,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den som fikser lyden",
+          "scores": {
+            "stubbe": 2,
+            "kongle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som har med snacks til alle",
+          "scores": {
+            "gapahuk": 2,
+            "mose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilket dyr ville du vært for en dag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ørn",
+          "scores": {
+            "sti": 2,
+            "bregne": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ekorn",
+          "scores": {
+            "kongle": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Bjørn som sover lenge",
+          "scores": {
+            "mose": 2,
+            "stubbe": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ugle",
+          "scores": {
+            "bregne": 2,
+            "stubbe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Delfin",
+          "scores": {
+            "bekk": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Hund i en stor familie",
+          "scores": {
+            "lysning": 2,
+            "gapahuk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Noen inviterer deg på noe i siste liten. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, jeg er klar på fem minutter",
+          "scores": {
+            "bekk": 2,
+            "kongle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker først hva jeg egentlig skulle gjort",
+          "scores": {
+            "kampestein": 2,
+            "maurtue": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Spør om jeg kan ta med en venn",
+          "scores": {
+            "gapahuk": 2,
+            "lysning": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Takker nei, jeg har det fint hjemme",
+          "scores": {
+            "mose": 2,
+            "stubbe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kommer, men litt senere",
+          "scores": {
+            "bregne": 2,
+            "spindelvev": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har fått noe nytt du har ønsket deg lenge. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leser alt om den og tar godt vare på den",
+          "scores": {
+            "maurtue": 2,
+            "sti": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Bruker den med en gang, hver dag",
+          "scores": {
+            "kongle": 2,
+            "kampestein": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Viser den fram til alle",
+          "scores": {
+            "lysning": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Finner ut av alt den kan brukes til",
+          "scores": {
+            "sti": 2,
+            "stubbe": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Pynter den og gjør den til min egen",
+          "scores": {
+            "spindelvev": 2,
+            "bregne": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter den på en fin plass og koser meg",
+          "scores": {
+            "gapahuk": 2,
+            "mose": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "En venn viser deg noe de har laget. Hva sier du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roser det med en gang",
+          "scores": {
+            "lysning": 2,
+            "mose": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spør hvordan de fikk det til",
+          "scores": {
+            "kongle": 2,
+            "spindelvev": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kommer med et lite tips",
+          "scores": {
+            "maurtue": 2,
+            "sti": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sier ærlig hva jeg synes",
+          "scores": {
+            "stubbe": 2,
+            "kampestein": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår at vi lager noe sammen neste gang",
+          "scores": {
+            "gapahuk": 2,
+            "bekk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Legger merke til de små detaljene",
+          "scores": {
+            "spindelvev": 2,
+            "bregne": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kongle",
+      "name": "Kongle",
+      "shareName": "en kongle",
+      "emoji": null,
+      "description": "Du er praktisk, leken og full av ideer som bare venter på å spire. Du passer inn både i en lek og i en lomme.",
+      "funFact": "Grankongler henger ned fra greinene, mens konglene på edelgran står rett opp.",
+      "image": "images/2027-03-21/kongle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Alltid nyttig."
+        },
+        {
+          "title": "Leken",
+          "text": "Klar for moro."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Robust",
+          "text": "Tåler en støyt."
+        }
+      ]
+    },
+    {
+      "id": "mose",
+      "name": "Mose",
+      "shareName": "mose",
+      "emoji": null,
+      "description": "Du er myk, rolig og trøstende, og folk slapper av bare de sitter ved siden av deg. Du har uendelig med tålmodighet.",
+      "funFact": "Torvmose kan suge opp mange ganger sin egen vekt i vann.",
+      "image": "images/2027-03-21/mose.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Myk",
+          "text": "God å lene seg mot."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker tempoet."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Trøstende",
+          "text": "Gir ro."
+        }
+      ]
+    },
+    {
+      "id": "maurtue",
+      "name": "Maurtue",
+      "shareName": "en maurtue",
+      "emoji": null,
+      "description": "Du er arbeidsom og organisert, og du får ting til å skje sammen med andre. Uten deg ville ingenting blitt ferdig.",
+      "funFact": "En stor maurtue kan være hjem for flere hundre tusen maur.",
+      "image": "images/2027-03-21/maurtue.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Arbeidsom",
+          "text": "Står på."
+        },
+        {
+          "title": "Organisert",
+          "text": "Har system."
+        },
+        {
+          "title": "Lagspiller",
+          "text": "Sterk i gjengen."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Gjør jobben."
+        }
+      ]
+    },
+    {
+      "id": "stubbe",
+      "name": "Stubbe",
+      "shareName": "en stubbe",
+      "emoji": null,
+      "description": "Du er klok og erfaren, og du er alltid et godt sted å ta en pause. Mange kommer til deg for å slå av en prat.",
+      "funFact": "Ved å telle årringene på en stubbe kan du finne ut hvor gammelt treet var.",
+      "image": "images/2027-03-21/stubbe.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Har sett mye."
+        },
+        {
+          "title": "Rolig",
+          "text": "Står stille."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Plass til en pause."
+        },
+        {
+          "title": "Erfaren",
+          "text": "Mange årringer."
+        }
+      ]
+    },
+    {
+      "id": "bekk",
+      "name": "Bekk",
+      "shareName": "en bekk",
+      "emoji": null,
+      "description": "Du er pratsom, glad og alltid på vei et sted. Du har en energi som smitter over på alle rundt deg.",
+      "funFact": "Når en bekk renner over steiner, får vannet mer oksygen, og det liker både småkryp og fisk.",
+      "image": "images/2027-03-21/bekk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Pratsom",
+          "text": "Klukker hele dagen."
+        },
+        {
+          "title": "Energisk",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Frisk",
+          "text": "Gir nytt liv."
+        },
+        {
+          "title": "Glad",
+          "text": "Smitter med humør."
+        }
+      ]
+    },
+    {
+      "id": "kampestein",
+      "name": "Kampestein",
+      "shareName": "en kampestein",
+      "emoji": null,
+      "description": "Du er stødig, trofast og ikke så lett å flytte på. Folk vet alltid hvor de har deg.",
+      "funFact": "Mange store steiner i norsk skog ble fraktet dit av isbreer under siste istid.",
+      "image": "images/2027-03-21/kampestein.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stødig",
+          "text": "Rokker seg ikke."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tåler alt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det rett ut."
+        }
+      ]
+    },
+    {
+      "id": "lysning",
+      "name": "Lysning",
+      "shareName": "en lysning",
+      "emoji": null,
+      "description": "Du er åpen, lys og gjestfri, og alle føler seg velkomne hos deg. Du får fram det beste i folk.",
+      "funFact": "I en lysning kommer sola helt ned til bakken, og der vokser det ofte flere blomster og bær enn inne i tett skog.",
+      "image": "images/2027-03-21/lysning.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Åpen",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Lys",
+          "text": "Positiv og varm."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Ønsker velkommen."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "sti",
+      "name": "Sti",
+      "shareName": "en sti",
+      "emoji": null,
+      "description": "Du er eventyrlysten og hjelpsom, og du viser gjerne andre veien. Med deg kommer man alltid fram.",
+      "funFact": "Allemannsretten gir alle rett til å gå fritt i utmark i Norge, også utenfor merkede stier.",
+      "image": "images/2027-03-21/sti.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjelpsom",
+          "text": "Viser vei."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se mer."
+        },
+        {
+          "title": "Stødig",
+          "text": "Holder retningen."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Alle kan gå."
+        }
+      ]
+    },
+    {
+      "id": "bregne",
+      "name": "Bregne",
+      "shareName": "en bregne",
+      "emoji": null,
+      "description": "Du er elegant og litt mystisk, med en rolig, gammel sjel. Det er alltid mer med deg enn man ser med en gang.",
+      "funFact": "Bregner har ingen blomster og formerer seg med sporer.",
+      "image": "images/2027-03-21/bregne.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har en egen stil."
+        },
+        {
+          "title": "Mystisk",
+          "text": "Litt hemmelighetsfull."
+        },
+        {
+          "title": "Klok",
+          "text": "Gammel sjel."
+        },
+        {
+          "title": "Rolig",
+          "text": "Trives i skyggen."
+        }
+      ]
+    },
+    {
+      "id": "gapahuk",
+      "name": "Gapahuk",
+      "shareName": "en gapahuk",
+      "emoji": null,
+      "description": "Du er sosial og gjestfri, og du elsker å samle folk rundt bålet. Hos deg er det alltid plass til en til.",
+      "funFact": "En gapahuk er åpen på den ene siden, slik at du kan ha bålet rett utenfor.",
+      "image": "images/2027-03-21/gapahuk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Samler folk."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alltid plass."
+        },
+        {
+          "title": "Koselig",
+          "text": "Bålstemning."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ly."
+        }
+      ]
+    },
+    {
+      "id": "spindelvev",
+      "name": "Spindelvev",
+      "shareName": "et spindelvev",
+      "emoji": null,
+      "description": "Du er kreativ, tålmodig og legger merke til de små detaljene. Det du lager, får folk til å stoppe opp.",
+      "funFact": "Edderkoppsilke er utrolig sterk sammenlignet med hvor tynn den er.",
+      "image": "images/2027-03-21/spindelvev.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager noe vakkert."
+        },
+        {
+          "title": "Nøyaktig",
+          "text": "Ser detaljene."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Tråd for tråd."
+        },
+        {
+          "title": "Sterk",
+          "text": "Tøffere enn den ser ut."
+        }
+      ]
+    }
+  ]
+}

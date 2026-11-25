@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-15",
+  "date": "2027-03-15",
+  "title": "Hvilket land i Sør-Amerika er du i dag?",
+  "intro": "Sør-Amerika har regnskog, ørken, høye fjell og mye musikk. Svar på sju spørsmål og finn ut hvilket av de tolv landene som passer deg best i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva vil du helst se gjennom en kikkert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stjernehimmelen",
+          "scores": {
+            "chile": 1,
+            "ecuador": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fugler i trærne",
+          "scores": {
+            "colombia": 1,
+            "guyana": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fjelltopper langt borte",
+          "scores": {
+            "peru": 2,
+            "bolivia": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En fotballkamp fra øverste rad",
+          "scores": {
+            "brasil": 1,
+            "uruguay": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Båter ute på havet",
+          "scores": {
+            "surinam": 2,
+            "argentina": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En foss i villmarka",
+          "scores": {
+            "venezuela": 2,
+            "guyana": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Det regner hver dag i hele ferien. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går ut likevel, regnet er en del av opplevelsen",
+          "scores": {
+            "guyana": 2,
+            "venezuela": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner et museum",
+          "scores": {
+            "peru": 2,
+            "surinam": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Danser og spiller musikk inne",
+          "scores": {
+            "colombia": 2,
+            "brasil": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Leser og slapper helt av",
+          "scores": {
+            "uruguay": 2,
+            "bolivia": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager store middager med alle",
+          "scores": {
+            "argentina": 1,
+            "paraguay": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lærer meg noe nytt om stedet",
+          "scores": {
+            "ecuador": 2,
+            "chile": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilket dyr ville du helst ridd på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En hest over store sletter",
+          "scores": {
+            "argentina": 1,
+            "uruguay": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En lama i fjellet",
+          "scores": {
+            "bolivia": 2,
+            "peru": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En kamel i ørkenen",
+          "scores": {
+            "chile": 1,
+            "paraguay": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "En elefant",
+          "scores": {
+            "brasil": 1,
+            "surinam": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stor skilpadde",
+          "scores": {
+            "ecuador": 2,
+            "uruguay": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil heller gå selv",
+          "scores": {
+            "venezuela": 2,
+            "guyana": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Dere skal finne et sted å spise som alle liker. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Foreslår mitt faste favorittsted",
+          "scores": {
+            "uruguay": 2,
+            "paraguay": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leser anmeldelser og velger det beste",
+          "scores": {
+            "chile": 1,
+            "ecuador": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Foreslår et sted med levende musikk",
+          "scores": {
+            "colombia": 2,
+            "brasil": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vil prøve noe nytt ingen har vært på",
+          "scores": {
+            "guyana": 2,
+            "surinam": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Foreslår en grillrestaurant",
+          "scores": {
+            "argentina": 1,
+            "brasil": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Bryr meg mest om at alle er fornøyde",
+          "scores": {
+            "paraguay": 2,
+            "bolivia": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva ville du helst gjort på en reise i Sør-Amerika?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vært med på karnevalet i Rio",
+          "scores": {
+            "brasil": 1,
+            "colombia": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Gått opp til Machu Picchu",
+          "scores": {
+            "peru": 2,
+            "bolivia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sett pingviner helt i sør",
+          "scores": {
+            "chile": 2,
+            "argentina": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Padlet i Amazonas",
+          "scores": {
+            "guyana": 2,
+            "venezuela": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Sett kjempeskilpadder på Galápagos",
+          "scores": {
+            "ecuador": 2,
+            "surinam": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lært å danse tango",
+          "scores": {
+            "argentina": 1,
+            "uruguay": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du skal kjøpe en ny sofa. Hvordan velger du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Den mest komfortable, selv om den er stygg",
+          "scores": {
+            "uruguay": 2,
+            "paraguay": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den med finest farge",
+          "scores": {
+            "colombia": 2,
+            "argentina": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som er mest praktisk",
+          "scores": {
+            "chile": 1,
+            "ecuador": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En brukt sofa med historie",
+          "scores": {
+            "peru": 1,
+            "surinam": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "En stor sofa med plass til mange",
+          "scores": {
+            "brasil": 1,
+            "paraguay": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En enkel sofa som varer lenge",
+          "scores": {
+            "bolivia": 2,
+            "venezuela": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilken smak vil du ha på tyggegummien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peppermynte",
+          "scores": {
+            "chile": 2,
+            "uruguay": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Jordbær",
+          "scores": {
+            "brasil": 2,
+            "colombia": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lakris",
+          "scores": {
+            "bolivia": 2,
+            "paraguay": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Vannmelon",
+          "scores": {
+            "surinam": 2,
+            "ecuador": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Kanel",
+          "scores": {
+            "argentina": 2,
+            "peru": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tygger ikke tyggegummi",
+          "scores": {
+            "venezuela": 2,
+            "guyana": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "brasil",
+      "name": "Brasil",
+      "shareName": "Brasil",
+      "emoji": null,
+      "description": "Du er festglad, sporty og full av energi. Der du er, blir det fart, musikk og god stemning.",
+      "funFact": "Brasil har vunnet fotball-VM for menn fem ganger, flere enn noe annet land.",
+      "image": "images/2027-03-15/brasil.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festglad",
+          "text": "Elsker en feiring."
+        },
+        {
+          "title": "Sporty",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir mye av seg selv."
+        }
+      ]
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "shareName": "Argentina",
+      "emoji": null,
+      "description": "Du er lidenskapelig og stolt og har store følelser. Du elsker gode samtaler, god mat og litt dramatikk.",
+      "funFact": "Tango oppsto i Buenos Aires og Montevideo på slutten av 1800-tallet.",
+      "image": "images/2027-03-15/argentina.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lidenskapelig",
+          "text": "Føler alt sterkt."
+        },
+        {
+          "title": "Stolt",
+          "text": "Står for det du er."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker lange middager."
+        },
+        {
+          "title": "Stilig",
+          "text": "Har god stil."
+        }
+      ]
+    },
+    {
+      "id": "chile",
+      "name": "Chile",
+      "shareName": "Chile",
+      "emoji": null,
+      "description": "Du er allsidig og rolig og liker å se langt. Du kan trives både ved havet, i ørkenen og på fjellet.",
+      "funFact": "Atacamaørkenen i Chile er et av de tørreste stedene på jorda, og der står flere av verdens største teleskoper.",
+      "image": "images/2027-03-15/chile.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Trives overalt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Holder hodet kaldt."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Ser mot stjernene."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir seg aldri."
+        }
+      ]
+    },
+    {
+      "id": "peru",
+      "name": "Peru",
+      "shareName": "Peru",
+      "emoji": null,
+      "description": "Du er klok og glad i historie og gode tradisjoner. Du liker å utforske gamle steder og smake på ny mat.",
+      "funFact": "Ruinbyen Machu Picchu ligger høyt oppe i Andesfjellene i Peru.",
+      "image": "images/2027-03-15/peru.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Klok",
+          "text": "Tenker langt."
+        },
+        {
+          "title": "Historisk",
+          "text": "Elsker gamle steder."
+        },
+        {
+          "title": "Matglad",
+          "text": "Smaker på alt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Tåler bratte bakker."
+        }
+      ]
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "shareName": "Colombia",
+      "emoji": null,
+      "description": "Du er fargerik, blid og musikalsk. Du er gjestfri og får alle til å føle seg velkomne.",
+      "funFact": "Colombia er et av landene i verden med aller flest fuglearter.",
+      "image": "images/2027-03-15/colombia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Fargerik",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Musikalsk",
+          "text": "Har rytmen i blodet."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Alle er velkomne."
+        }
+      ]
+    },
+    {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "shareName": "Venezuela",
+      "emoji": null,
+      "description": "Du er modig og eventyrlysten og elsker store naturopplevelser. Du tar gjerne den lengste veien hvis utsikten er bra.",
+      "funFact": "Englefossen i Venezuela er verdens høyeste foss, med et fritt fall på rundt 800 meter.",
+      "image": "images/2027-03-15/venezuela.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Modig",
+          "text": "Tør mye."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil oppleve alt."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker villmark."
+        },
+        {
+          "title": "Storslått",
+          "text": "Gjør inntrykk."
+        }
+      ]
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "shareName": "Ecuador",
+      "emoji": null,
+      "description": "Du er balansert og nysgjerrig og liker å forstå hvordan verden henger sammen. Du er en ekte naturforsker.",
+      "funFact": "Ecuador har fått navnet sitt etter ekvator, som går rett gjennom landet.",
+      "image": "images/2027-03-15/ecuador.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Balansert",
+          "text": "Finner midten."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil forstå alt."
+        },
+        {
+          "title": "Naturforsker",
+          "text": "Studerer dyr og planter."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot det nye."
+        }
+      ]
+    },
+    {
+      "id": "bolivia",
+      "name": "Bolivia",
+      "shareName": "Bolivia",
+      "emoji": null,
+      "description": "Du er rolig og jordnær og har høye tanker. Du er glad i tradisjoner og trenger ikke mye for å være fornøyd.",
+      "funFact": "Salar de Uyuni i Bolivia er verdens største saltslette.",
+      "image": "images/2027-03-15/bolivia.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Skaper ro."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Høytflyvende",
+          "text": "Har store tanker."
+        }
+      ]
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "shareName": "Paraguay",
+      "emoji": null,
+      "description": "Du er lun og varm og ofte litt undervurdert. Du er god til å forstå mange slags folk.",
+      "funFact": "I Paraguay snakker de fleste både spansk og urfolksspråket guaraní.",
+      "image": "images/2027-03-15/paraguay.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Lun",
+          "text": "Har god humor."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar godt imot."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Skryter ikke."
+        },
+        {
+          "title": "Tospråklig",
+          "text": "Forstår mange."
+        }
+      ]
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "shareName": "Uruguay",
+      "emoji": null,
+      "description": "Du er avslappet og rolig, men overraskende sterk. Du trenger ikke være størst for å gjøre det bra.",
+      "funFact": "Uruguay vant det aller første fotball-VM i 1930.",
+      "image": "images/2027-03-15/uruguay.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Sterk",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder sammen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Stresser ikke."
+        }
+      ]
+    },
+    {
+      "id": "guyana",
+      "name": "Guyana",
+      "shareName": "Guyana",
+      "emoji": null,
+      "description": "Du er eventyrlysten og glad i villmark og skjulte perler. Du oppdager ting andre ikke har hørt om.",
+      "funFact": "Guyana er det eneste landet i Sør-Amerika der engelsk er offisielt språk.",
+      "image": "images/2027-03-15/guyana.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Utforsker nye steder."
+        },
+        {
+          "title": "Uavhengig",
+          "text": "Går egne veier."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Hjemme i regnskogen."
+        },
+        {
+          "title": "Overraskende",
+          "text": "En skjult perle."
+        }
+      ]
+    },
+    {
+      "id": "surinam",
+      "name": "Surinam",
+      "shareName": "Surinam",
+      "emoji": null,
+      "description": "Du er liten, men full av overraskelser og mange slags interesser. Du er nysgjerrig på folk fra hele verden.",
+      "funFact": "Surinam er det minste landet i Sør-Amerika, og nederlandsk er offisielt språk.",
+      "image": "images/2027-03-15/surinam.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Mangfoldig",
+          "text": "Har mange sider."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Lærer av alle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Åpen",
+          "text": "Tar imot alle."
+        }
+      ]
+    }
+  ]
+}

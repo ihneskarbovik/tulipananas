@@ -1,0 +1,659 @@
+{
+  "id": "2027-03-25",
+  "date": "2027-03-25",
+  "title": "Hvilken vaffel er du i dag?",
+  "intro": "I dag er det vaffeldagen, og det dufter av nystekte vafler. Svar på sju spørsmål og finn ut hvilken vaffel du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvilken tegneserie liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Klassiske striper i avisa",
+          "scores": {
+            "sukker": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Morsomme dyr som finner på tull",
+          "scores": {
+            "is": 2,
+            "baer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lange eventyr med flotte tegninger",
+          "scores": {
+            "belgisk": 2,
+            "eplekanel": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Koselige hverdagshistorier",
+          "scores": {
+            "sjokolade": 2,
+            "rommesylt": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Smarte serier med mange vitser",
+          "scores": {
+            "skinkeost": 1,
+            "lonnesirup": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg tegner heller mine egne",
+          "scores": {
+            "eplekanel": 2,
+            "baer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du kommer for tidlig til en avtale. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Går en liten runde i nabolaget",
+          "scores": {
+            "baer": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Kjøper noe godt mens jeg venter",
+          "scores": {
+            "sjokolade": 2,
+            "belgisk": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sjekker at alt er klart",
+          "scores": {
+            "skinkeost": 2,
+            "lonnesirup": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer en venn og prater",
+          "scores": {
+            "rommesylt": 1,
+            "is": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Setter meg og ser på folk",
+          "scores": {
+            "sukker": 1,
+            "eplekanel": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvilken pastarett liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spagetti med kjøttsaus",
+          "scores": {
+            "rommesylt": 1,
+            "brunost": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Pasta med pesto",
+          "scores": {
+            "baer": 2,
+            "lonnesirup": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lasagne fra ovnen",
+          "scores": {
+            "sjokolade": 2,
+            "sukker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Rask pasta med det som er i kjøleskapet",
+          "scores": {
+            "skinkeost": 2,
+            "is": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ravioli med god fyll",
+          "scores": {
+            "belgisk": 2,
+            "eplekanel": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Makaroni og ost",
+          "scores": {
+            "sukker": 1,
+            "is": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du har bestilt noe på nett, og det kommer ikke. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spiser noe godt og venter litt til",
+          "scores": {
+            "sjokolade": 1,
+            "is": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sjekker sporingen og ringer dem",
+          "scores": {
+            "skinkeost": 2,
+            "baer": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Glemmer det til det plutselig dukker opp",
+          "scores": {
+            "eplekanel": 2,
+            "sukker": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør naboene om de har fått den",
+          "scores": {
+            "rommesylt": 2,
+            "belgisk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Går en tur til hentestedet og sjekker",
+          "scores": {
+            "baer": 1,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar det helt med ro",
+          "scores": {
+            "brunost": 2,
+            "lonnesirup": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket naturfenomen vil du helst oppleve?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nordlys over et snødekt landskap",
+          "scores": {
+            "brunost": 2,
+            "eplekanel": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Midnattssol på en fjelltopp",
+          "scores": {
+            "baer": 1,
+            "lonnesirup": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kirsebærblomstring i en park",
+          "scores": {
+            "belgisk": 2,
+            "sjokolade": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Soloppgang over havet",
+          "scores": {
+            "lonnesirup": 2,
+            "sukker": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tordenvær på trygg avstand",
+          "scores": {
+            "is": 1,
+            "skinkeost": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fullmåne en klar kveld",
+          "scores": {
+            "sukker": 1,
+            "rommesylt": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Det er fellesmiddag, og maten kommer på bordet. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sørger for at alle får like mye",
+          "scores": {
+            "rommesylt": 2,
+            "skinkeost": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sender fatet rundt til de andre først",
+          "scores": {
+            "sukker": 2,
+            "brunost": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forsyner meg raskt før det blir tomt",
+          "scores": {
+            "is": 2,
+            "sjokolade": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Begynner med salaten",
+          "scores": {
+            "baer": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Spør hvem som har laget maten, og hvordan",
+          "scores": {
+            "eplekanel": 2,
+            "rommesylt": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spiser sakte og nyter hver bit",
+          "scores": {
+            "sjokolade": 1,
+            "belgisk": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Det er vaffeldagen. Hvordan vil du ha vaflene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sprø og rett fra jernet",
+          "scores": {
+            "lonnesirup": 2,
+            "belgisk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Myke og lune, stablet i en bunke",
+          "scores": {
+            "sukker": 1,
+            "sjokolade": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Brettet sammen og spist på farten",
+          "scores": {
+            "skinkeost": 2,
+            "baer": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lagt pent på et fat til gjestene",
+          "scores": {
+            "rommesylt": 1,
+            "belgisk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Med alt mulig tilbehør på bordet",
+          "scores": {
+            "is": 2,
+            "eplekanel": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kalde, dagen etter",
+          "scores": {
+            "brunost": 1,
+            "skinkeost": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "rommesylt",
+      "name": "Vaffel med rømme og syltetøy",
+      "shareName": "en vaffel med rømme og syltetøy",
+      "emoji": null,
+      "description": "Du er klassisk, varm og alltid klar for besøk. Du får alle til å føle seg velkomne rundt bordet.",
+      "funFact": "Et vanlig norsk vaffeljern lager en rund plate med fem hjerter.",
+      "image": "images/2027-03-25/rommesylt.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Har alltid plass til flere."
+        },
+        {
+          "title": "Varm",
+          "text": "Gir gode klemmer."
+        },
+        {
+          "title": "Sosial",
+          "text": "Elsker et fullt bord."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Holder på det gode."
+        }
+      ]
+    },
+    {
+      "id": "brunost",
+      "name": "Vaffel med brunost",
+      "shareName": "en vaffel med brunost",
+      "emoji": null,
+      "description": "Du er jordnær, trofast og glad i det enkle. Du trives best på hytta med lukten av bål.",
+      "funFact": "Brunost lages av myse, som blir til overs når man lager hvit ost.",
+      "image": "images/2027-03-25/brunost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Begge beina på bakken."
+        },
+        {
+          "title": "Trofast",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast her."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Glad i gamle vaner."
+        }
+      ]
+    },
+    {
+      "id": "sukker",
+      "name": "Vaffel med smør og sukker",
+      "shareName": "en vaffel med smør og sukker",
+      "emoji": null,
+      "description": "Du er enkel, beskjeden og helt nydelig. Du trenger ikke mye for å ha det fint.",
+      "funFact": "Vaffeldagen kommer fra Sverige, der «Vårfrudagen» etter hvert ble uttalt som «våffeldagen».",
+      "image": "images/2027-03-25/sukker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke stå fram."
+        },
+        {
+          "title": "Nøysom",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Mild",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Tenker sine egne tanker."
+        }
+      ]
+    },
+    {
+      "id": "belgisk",
+      "name": "Belgisk vaffel",
+      "shareName": "en belgisk vaffel",
+      "emoji": null,
+      "description": "Du er festlig, stilfull og litt eventyrlysten. Du liker å prøve nye steder og gjøre hverdagen litt finere.",
+      "funFact": "Belgiske vafler har dype ruter og lages ofte med gjær i deigen.",
+      "image": "images/2027-03-25/belgisk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Stilfull",
+          "text": "Har sans for detaljer."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Festlig",
+          "text": "Løfter stemningen."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Prøver gjerne nytt."
+        }
+      ]
+    },
+    {
+      "id": "sjokolade",
+      "name": "Vaffel med sjokoladekrem",
+      "shareName": "en vaffel med sjokoladekrem",
+      "emoji": null,
+      "description": "Du er koselig, søt og et ekte nytelsesmenneske. Du vet hvordan man gjør en vanlig kveld helt spesiell.",
+      "funFact": "Kakaofrukter vokser rett på stammen av kakaotreet.",
+      "image": "images/2027-03-25/sjokolade.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kosete",
+          "text": "Pledd og stearinlys."
+        },
+        {
+          "title": "Søt",
+          "text": "Mykt hjerte."
+        },
+        {
+          "title": "Nytende",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Lun",
+          "text": "Varmer de rundt seg."
+        }
+      ]
+    },
+    {
+      "id": "is",
+      "name": "Vaffel med is",
+      "shareName": "en vaffel med is",
+      "emoji": null,
+      "description": "Du er leken, spontan og full av energi. Du finner på noe gøy uansett vær.",
+      "funFact": "Iskremkjeksen ble kjent for alvor på verdensutstillingen i St. Louis i 1904.",
+      "image": "images/2027-03-25/is.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Alltid klar for moro."
+        },
+        {
+          "title": "Spontan",
+          "text": "Hopper rett i det."
+        },
+        {
+          "title": "Energisk",
+          "text": "Har masse krefter."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får andre til å le."
+        }
+      ]
+    },
+    {
+      "id": "lonnesirup",
+      "name": "Vaffel med lønnesirup",
+      "shareName": "en vaffel med lønnesirup",
+      "emoji": null,
+      "description": "Du er en optimistisk morgenfugl med et stort hjerte. Du starter dagen med et smil og smitter andre med det.",
+      "funFact": "Det trengs rundt 40 liter lønnesaft for å koke én liter lønnesirup.",
+      "image": "images/2027-03-25/lonnesirup.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Morgenfugl",
+          "text": "Våkner med et smil."
+        },
+        {
+          "title": "Optimist",
+          "text": "Ser lyst på det."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        },
+        {
+          "title": "Blid",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "skinkeost",
+      "name": "Vaffel med skinke og ost",
+      "shareName": "en vaffel med skinke og ost",
+      "emoji": null,
+      "description": "Du er praktisk, smart og alltid et skritt foran. Du finner gode løsninger der andre ser problemer.",
+      "funFact": "De første vaffeljernene ble holdt over åpen flamme med lange skaft.",
+      "image": "images/2027-03-25/skinkeost.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker raskt."
+        },
+        {
+          "title": "Ærlig",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Effektiv",
+          "text": "Ingen tid å miste."
+        }
+      ]
+    },
+    {
+      "id": "baer",
+      "name": "Vaffel med ferske bær",
+      "shareName": "en vaffel med ferske bær",
+      "emoji": null,
+      "description": "Du er frisk, aktiv og glad i å være ute. Du kjenner deg best når du har fått litt luft.",
+      "funFact": "De små prikkene på utsiden av et jordbær er egentlig bittesmå frukter.",
+      "image": "images/2027-03-25/baer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Frisk",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Ute i all slags vær."
+        },
+        {
+          "title": "Positiv",
+          "text": "Ser muligheter."
+        }
+      ]
+    },
+    {
+      "id": "eplekanel",
+      "name": "Vaffel med eple og kanel",
+      "shareName": "en vaffel med eple og kanel",
+      "emoji": null,
+      "description": "Du er kreativ, omtenksom og litt drømmende. Du legger merke til de små tingene som gjør livet fint.",
+      "funFact": "Kanel er tørket bark fra kaneltreet.",
+      "image": "images/2027-03-25/eplekanel.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Full av ideer."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Husker det viktige."
+        },
+        {
+          "title": "Drømmende",
+          "text": "Har hodet i skyene."
+        },
+        {
+          "title": "Varm",
+          "text": "Krydrer hverdagen."
+        }
+      ]
+    }
+  ]
+}

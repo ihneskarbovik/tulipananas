@@ -1,0 +1,806 @@
+{
+  "id": "2027-03-06",
+  "date": "2027-03-06",
+  "title": "Hvilket fylke er du i dag?",
+  "intro": "Norge har 15 fylker, og alle har noe helt eget. Svar på sju spørsmål og finn ut hvilket fylke du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hvordan fisker du helst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fra båt ute på havet",
+          "scores": {
+            "nordland": 2,
+            "more": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Isfiske på et islagt vann",
+          "scores": {
+            "innlandet": 1,
+            "finnmark": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med stang fra brygga",
+          "scores": {
+            "agder": 1,
+            "vestfold": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Med flue i en elv",
+          "scores": {
+            "buskerud": 1,
+            "trondelag": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg kjøper heller fisken på torget",
+          "scores": {
+            "oslo": 1,
+            "vestland": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Jeg vil heller bade",
+          "scores": {
+            "ostfold": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du møter folk på tur. Hvordan hilser du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier hei til alle",
+          "scores": {
+            "agder": 2,
+            "trondelag": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Nikker og smiler",
+          "scores": {
+            "buskerud": 2,
+            "vestland": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Stopper og slår av en prat",
+          "scores": {
+            "ostfold": 1,
+            "troms": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør hvor de skal",
+          "scores": {
+            "rogaland": 2,
+            "nordland": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Hilser hvis de hilser først",
+          "scores": {
+            "oslo": 1,
+            "akershus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Roper et muntert «God tur!»",
+          "scores": {
+            "telemark": 2,
+            "more": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hva liker du best med Norge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fjellene",
+          "scores": {
+            "innlandet": 1,
+            "buskerud": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fjordene",
+          "scores": {
+            "vestland": 2,
+            "more": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kysten og skjærgården",
+          "scores": {
+            "agder": 2,
+            "ostfold": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Nordlyset",
+          "scores": {
+            "troms": 1,
+            "finnmark": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Midnattssola",
+          "scores": {
+            "nordland": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Byene og kulturen",
+          "scores": {
+            "oslo": 1,
+            "trondelag": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du kommer til et flott sted du aldri har sett før. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tar masse bilder",
+          "scores": {
+            "oslo": 1,
+            "vestfold": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Blir stille og bare nyter det",
+          "scores": {
+            "innlandet": 2,
+            "nordland": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vil gå enda lenger for å se mer",
+          "scores": {
+            "finnmark": 2,
+            "rogaland": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer noen og forteller om det",
+          "scores": {
+            "troms": 2,
+            "agder": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lurer på historien bak stedet",
+          "scores": {
+            "trondelag": 1,
+            "telemark": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Planlegger å komme tilbake",
+          "scores": {
+            "more": 2,
+            "akershus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket måltid er dagens beste?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frokost",
+          "scores": {
+            "innlandet": 2,
+            "buskerud": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lunsj",
+          "scores": {
+            "oslo": 1,
+            "akershus": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Middag",
+          "scores": {
+            "trondelag": 2,
+            "ostfold": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kveldsmat",
+          "scores": {
+            "vestland": 2,
+            "more": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Nattmat",
+          "scores": {
+            "troms": 2,
+            "rogaland": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Matpakka på tur",
+          "scores": {
+            "finnmark": 2,
+            "nordland": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Noen forteller en lang historie. Hvordan er du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lytter med stor interesse",
+          "scores": {
+            "trondelag": 2,
+            "innlandet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Stiller mange spørsmål underveis",
+          "scores": {
+            "oslo": 1,
+            "rogaland": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Forteller en enda bedre historie etterpå",
+          "scores": {
+            "troms": 2,
+            "vestland": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ler høyt av de morsomme delene",
+          "scores": {
+            "agder": 1,
+            "ostfold": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Venter tålmodig på poenget",
+          "scores": {
+            "more": 1,
+            "akershus": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Husker den og forteller den videre",
+          "scores": {
+            "telemark": 2,
+            "vestfold": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvilket arrangement vil du helst gå på?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Et stort skirenn",
+          "scores": {
+            "telemark": 2,
+            "innlandet": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En musikkfestival om sommeren",
+          "scores": {
+            "agder": 1,
+            "troms": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et vikingmarked",
+          "scores": {
+            "vestfold": 2,
+            "trondelag": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En fotballkamp på stadion",
+          "scores": {
+            "rogaland": 2,
+            "ostfold": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En regatta med seilbåter",
+          "scores": {
+            "more": 2,
+            "nordland": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "En stor konsert i hovedstaden",
+          "scores": {
+            "oslo": 2,
+            "akershus": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "ostfold",
+      "name": "Østfold",
+      "shareName": "Østfold",
+      "emoji": null,
+      "description": "Du er jordnær, varm og elsker lange sommerdager ved vannet. Du tar livet med ro og har alltid plass til en til rundt bordet.",
+      "funFact": "Glomma, Norges lengste elv, renner ut i havet ved Fredrikstad i Østfold.",
+      "image": "images/2027-03-06/ostfold.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Ekte og enkel."
+        },
+        {
+          "title": "Varm",
+          "text": "Tar imot alle."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker lyse kvelder."
+        },
+        {
+          "title": "Sosial",
+          "text": "Liker en prat."
+        }
+      ]
+    },
+    {
+      "id": "akershus",
+      "name": "Akershus",
+      "shareName": "Akershus",
+      "emoji": null,
+      "description": "Du er allsidig, travel og alltid på vei et sted. Du trives både i byen og ute i skogen.",
+      "funFact": "Norges største flyplass, Oslo lufthavn Gardermoen, ligger i Akershus.",
+      "image": "images/2027-03-06/akershus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Allsidig",
+          "text": "Trives overalt."
+        },
+        {
+          "title": "Travel",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Reiseglad",
+          "text": "Klar for avgang."
+        }
+      ]
+    },
+    {
+      "id": "buskerud",
+      "name": "Buskerud",
+      "shareName": "Buskerud",
+      "emoji": null,
+      "description": "Du er en ekte turentusiast som trives i både dal og fjell. Du er stødig, praktisk og alltid klar for en helg på hytta.",
+      "funFact": "Både Hallingdal og Numedal ligger i Buskerud.",
+      "image": "images/2027-03-06/buskerud.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Turglad",
+          "text": "Alltid på tur."
+        },
+        {
+          "title": "Stødig",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Hyttekos",
+          "text": "Elsker peiskvelder."
+        },
+        {
+          "title": "Allsidig",
+          "text": "Fra fjell til fjord."
+        }
+      ]
+    },
+    {
+      "id": "oslo",
+      "name": "Oslo",
+      "shareName": "Oslo",
+      "emoji": null,
+      "description": "Du er nysgjerrig, kulturglad og elsker at det skjer mye rundt deg. Du finner alltid noe nytt å oppleve.",
+      "funFact": "Oslo er både en kommune og et fylke.",
+      "image": "images/2027-03-06/oslo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil oppleve mye."
+        },
+        {
+          "title": "Kulturglad",
+          "text": "Elsker konserter."
+        },
+        {
+          "title": "Sosial",
+          "text": "Mange venner."
+        },
+        {
+          "title": "Rask",
+          "text": "Alltid i farta."
+        }
+      ]
+    },
+    {
+      "id": "innlandet",
+      "name": "Innlandet",
+      "shareName": "Innlandet",
+      "emoji": null,
+      "description": "Du er rolig, solid og glad i skog og fjell. Du trenger ikke havet for å ha det fint, du har alt du trenger rundt deg.",
+      "funFact": "Innlandet er det eneste fylket i Norge uten kystlinje, men har Norges største innsjø, Mjøsa.",
+      "image": "images/2027-03-06/innlandet.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Solid",
+          "text": "Til å stole på."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker skogen."
+        },
+        {
+          "title": "Lun",
+          "text": "God humor."
+        }
+      ]
+    },
+    {
+      "id": "vestfold",
+      "name": "Vestfold",
+      "shareName": "Vestfold",
+      "emoji": null,
+      "description": "Du er sommerglad, historieinteressert og elsker livet ved sjøen. Du har litt vikingånd i deg.",
+      "funFact": "Både Osebergskipet og Gokstadskipet ble funnet i Vestfold.",
+      "image": "images/2027-03-06/vestfold.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sommerglad",
+          "text": "Elsker lyse dager."
+        },
+        {
+          "title": "Historisk",
+          "text": "Liker gamle ting."
+        },
+        {
+          "title": "Båtglad",
+          "text": "Trives på sjøen."
+        },
+        {
+          "title": "Modig",
+          "text": "Litt viking."
+        }
+      ]
+    },
+    {
+      "id": "telemark",
+      "name": "Telemark",
+      "shareName": "Telemark",
+      "emoji": null,
+      "description": "Du er kreativ, tradisjonsrik og glad i å bruke hendene. Du tar vare på det gamle og gjør det til noe nytt.",
+      "funFact": "Telemarksvingen i skisporten har fått navnet sitt fra Telemark.",
+      "image": "images/2027-03-06/telemark.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Skaper gjerne."
+        },
+        {
+          "title": "Tradisjonsrik",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker ski."
+        },
+        {
+          "title": "Stolt",
+          "text": "Glad i røttene."
+        }
+      ]
+    },
+    {
+      "id": "agder",
+      "name": "Agder",
+      "shareName": "Agder",
+      "emoji": null,
+      "description": "Du er vennlig, solfylt og har en lun ro over deg. Du elsker sommer, skjærgård og hvite hus.",
+      "funFact": "Norges sørligste punkt på fastlandet ligger ved Lindesnes i Agder.",
+      "image": "images/2027-03-06/agder.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Vennlig",
+          "text": "Hilser på alle."
+        },
+        {
+          "title": "Solfylt",
+          "text": "Godt humør."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen hast."
+        },
+        {
+          "title": "Sommerglad",
+          "text": "Elsker skjærgården."
+        }
+      ]
+    },
+    {
+      "id": "rogaland",
+      "name": "Rogaland",
+      "shareName": "Rogaland",
+      "emoji": null,
+      "description": "Du er driftig, modig og rett på sak. Du liker utsikt, utfordringer og å få ting gjort.",
+      "funFact": "Preikestolen i Rogaland ruver over 600 meter over Lysefjorden.",
+      "image": "images/2027-03-06/rogaland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Driftig",
+          "text": "Får ting gjort."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør det meste."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det rett ut."
+        },
+        {
+          "title": "Sporty",
+          "text": "Elsker utfordringer."
+        }
+      ]
+    },
+    {
+      "id": "vestland",
+      "name": "Vestland",
+      "shareName": "Vestland",
+      "emoji": null,
+      "description": "Du er ekte, robust og lar deg ikke stoppe av litt regn. Du har mye fortellerglede og en stor kjærlighet til naturen.",
+      "funFact": "Sognefjorden i Vestland er Norges lengste fjord.",
+      "image": "images/2027-03-06/vestland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Robust",
+          "text": "Tåler alt vær."
+        },
+        {
+          "title": "Ekte",
+          "text": "Rett fra hjertet."
+        },
+        {
+          "title": "Fortellerglad",
+          "text": "Har mye å si."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker fjorden."
+        }
+      ]
+    },
+    {
+      "id": "more",
+      "name": "Møre og Romsdal",
+      "shareName": "Møre og Romsdal",
+      "emoji": null,
+      "description": "Du er kreativ, værhard og glad i havet. Du bygger bruer mellom folk og finner løsninger der andre gir opp.",
+      "funFact": "Atlanterhavsvegen i Møre og Romsdal er kjent for de buede bruene som går rett over havet.",
+      "image": "images/2027-03-06/more.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Værhard",
+          "text": "Tåler storm."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Finner løsninger."
+        },
+        {
+          "title": "Havglad",
+          "text": "Trives ved sjøen."
+        },
+        {
+          "title": "Sta",
+          "text": "Gir seg ikke."
+        }
+      ]
+    },
+    {
+      "id": "trondelag",
+      "name": "Trøndelag",
+      "shareName": "Trøndelag",
+      "emoji": null,
+      "description": "Du er gjestfri, historieglad og har en rolig humor. Du liker gode samtaler og lange middager.",
+      "funFact": "Nidarosdomen i Trondheim er verdens nordligste middelalderkatedral.",
+      "image": "images/2027-03-06/trondelag.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Gjestfri",
+          "text": "Alltid velkommen."
+        },
+        {
+          "title": "Historisk",
+          "text": "Elsker historier."
+        },
+        {
+          "title": "Lun",
+          "text": "Rolig humor."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder kontakten."
+        }
+      ]
+    },
+    {
+      "id": "nordland",
+      "name": "Nordland",
+      "shareName": "Nordland",
+      "emoji": null,
+      "description": "Du er sterk, naturglad og full av kontraster. Du trives i både mørketid og midnattssol.",
+      "funFact": "Saltstraumen i Nordland er en av verdens sterkeste tidevannsstrømmer.",
+      "image": "images/2027-03-06/nordland.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sterk",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Elsker villmarka."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har god tid."
+        },
+        {
+          "title": "Ekte",
+          "text": "Rett fram."
+        }
+      ]
+    },
+    {
+      "id": "troms",
+      "name": "Troms",
+      "shareName": "Troms",
+      "emoji": null,
+      "description": "Du er festglad, nysgjerrig og elsker lange, mørke kvelder med god stemning. Du lyser opp selv den mørkeste vinteren.",
+      "funFact": "Tromsø i Troms blir ofte kalt «Nordens Paris».",
+      "image": "images/2027-03-06/troms.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festglad",
+          "text": "Elsker god stemning."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil lære mer."
+        },
+        {
+          "title": "Varm",
+          "text": "Lyser opp."
+        },
+        {
+          "title": "Sosial",
+          "text": "Mange venner."
+        }
+      ]
+    },
+    {
+      "id": "finnmark",
+      "name": "Finnmark",
+      "shareName": "Finnmark",
+      "emoji": null,
+      "description": "Du er tøff, fri og eventyrlysten. Du trives der det er god plass og ser langt i alle retninger.",
+      "funFact": "Nordkapp i Finnmark er kjent som et av de nordligste punktene i Europa.",
+      "image": "images/2027-03-06/finnmark.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler kulde."
+        },
+        {
+          "title": "Fri",
+          "text": "Trenger plass."
+        },
+        {
+          "title": "Eventyrlysten",
+          "text": "Vil se mer."
+        },
+        {
+          "title": "Gjestfri",
+          "text": "Varmt hjerte."
+        }
+      ]
+    }
+  ]
+}

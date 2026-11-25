@@ -1,0 +1,668 @@
+{
+  "id": "2027-03-19",
+  "date": "2027-03-19",
+  "title": "Hvilken sovestilling er du i dag?",
+  "intro": "I dag er det verdens søvndag, en fin unnskyldning for å snakke om senga. Svar på sju spørsmål og finn ut hvilken sovestilling du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva liker du best å se på når du ligger i gresset?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skyer som ligner på ting",
+          "scores": {
+            "flamingo": 2,
+            "stjernen": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Fly som suser forbi",
+          "scores": {
+            "frittfall": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Små insekter som kryper rundt",
+          "scores": {
+            "foster": 2,
+            "puteklemmer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingenting, jeg sovner",
+          "scores": {
+            "burrito": 2,
+            "sofasover": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tretoppene som vaier",
+          "scores": {
+            "fotenute": 2,
+            "soldaten": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Folk som går forbi",
+          "scores": {
+            "stokken": 2,
+            "puteklemmer": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva slags pyjamas liker du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Myk heldress",
+          "scores": {
+            "burrito": 2,
+            "foster": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "T-skjorte og shorts",
+          "scores": {
+            "fotenute": 2,
+            "frittfall": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Et matchende sett med knapper",
+          "scores": {
+            "soldaten": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Den eldste og mest utslitte",
+          "scores": {
+            "puteklemmer": 2,
+            "sofasover": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Noe med morsomt mønster",
+          "scores": {
+            "flamingo": 2,
+            "stjernen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Det jeg hadde på meg i dag",
+          "scores": {
+            "sofasover": 2,
+            "frittfall": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Du vinner en tur for to. Hvem tar du med?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bestevennen min",
+          "scores": {
+            "puteklemmer": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Den jeg bor med",
+          "scores": {
+            "burrito": 2,
+            "foster": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Den som trenger en ferie mest",
+          "scores": {
+            "stjernen": 2,
+            "fotenute": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hele gjengen, vi spleiser på resten",
+          "scores": {
+            "stokken": 2,
+            "sofasover": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ingen, jeg drar alene og koser meg",
+          "scores": {
+            "flamingo": 2,
+            "frittfall": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som sier ja raskest",
+          "scores": {
+            "frittfall": 2,
+            "fotenute": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hva gjør du helst i en bokhandel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitter i kaféhjørnet",
+          "scores": {
+            "sofasover": 2,
+            "burrito": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Finner en gave til noen jeg er glad i",
+          "scores": {
+            "puteklemmer": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Blar i store bøker om natur",
+          "scores": {
+            "foster": 2,
+            "soldaten": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Spør de ansatte om tips og prater litt",
+          "scores": {
+            "stjernen": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Leter etter den rareste boka",
+          "scores": {
+            "flamingo": 2,
+            "fotenute": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Kjøper det jeg kom for og går",
+          "scores": {
+            "fotenute": 2,
+            "soldaten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva gjør du når du ikke får sove?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ligger helt stille og venter",
+          "scores": {
+            "soldaten": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Snur og vender meg hele tiden",
+          "scores": {
+            "frittfall": 2,
+            "burrito": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager meg en kopp te",
+          "scores": {
+            "burrito": 2,
+            "foster": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Hører på en rolig lydbok",
+          "scores": {
+            "foster": 2,
+            "puteklemmer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Står opp og gjør noe helt annet",
+          "scores": {
+            "flamingo": 2,
+            "stjernen": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tenker på alt jeg skal gjøre i morgen",
+          "scores": {
+            "fotenute": 2,
+            "soldaten": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvor slapper du helst av en søndag ettermiddag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I sofaen under et pledd",
+          "scores": {
+            "burrito": 2,
+            "sofasover": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Ved kjøkkenbordet med et kryssord",
+          "scores": {
+            "soldaten": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På gulvet med beina opp",
+          "scores": {
+            "sofasover": 2,
+            "stjernen": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en kafé med god plass",
+          "scores": {
+            "stokken": 2,
+            "stjernen": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en benk i sola",
+          "scores": {
+            "frittfall": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "I et lunt hjørne sammen med noen jeg liker",
+          "scores": {
+            "puteklemmer": 2,
+            "foster": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Noen har ikke svart på meldingen din. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sender en ny med en gang",
+          "scores": {
+            "frittfall": 2,
+            "flamingo": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Venter tålmodig",
+          "scores": {
+            "sofasover": 2,
+            "stokken": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lurer på om jeg sa noe dumt",
+          "scores": {
+            "foster": 2,
+            "puteklemmer": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ringer i stedet",
+          "scores": {
+            "stjernen": 2,
+            "puteklemmer": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Glemmer det selv",
+          "scores": {
+            "sofasover": 2,
+            "burrito": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Sender en hyggelig påminnelse etter en stund",
+          "scores": {
+            "fotenute": 2,
+            "soldaten": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "stjernen",
+      "name": "Stjernen",
+      "shareName": "stjernen",
+      "emoji": null,
+      "description": "Du tar plass og deler gjerne med deg av alt du har. Du er åpen, raus og lett å bli glad i.",
+      "funFact": "Det er lettere å snorke når man ligger på ryggen, fordi tunga kan falle litt bakover.",
+      "image": "images/2027-03-19/stjernen.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Raus",
+          "text": "Deler alt."
+        },
+        {
+          "title": "Åpen",
+          "text": "Slipper alle inn."
+        },
+        {
+          "title": "Trygg",
+          "text": "Tar sin plass."
+        },
+        {
+          "title": "Varm",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "soldaten",
+      "name": "Soldaten",
+      "shareName": "soldaten",
+      "emoji": null,
+      "description": "Du er ryddig, rolig og liker at ting er i orden. Andre kan stole helt på deg.",
+      "funFact": "I drømmesøvnen, også kalt REM-søvn, er de fleste musklene i kroppen nesten helt avslappet.",
+      "image": "images/2027-03-19/soldaten.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Ryddig",
+          "text": "Alt på plass."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker skuldrene."
+        },
+        {
+          "title": "Pålitelig",
+          "text": "Holder ord."
+        },
+        {
+          "title": "Disiplinert",
+          "text": "Faste rutiner."
+        }
+      ]
+    },
+    {
+      "id": "foster",
+      "name": "Fosterstillingen",
+      "shareName": "fosterstillingen",
+      "emoji": null,
+      "description": "Du er myk, følsom og elsker å ha det koselig. Du merker godt hvordan andre har det.",
+      "funFact": "Å sove på siden er den vanligste sovestillingen blant voksne.",
+      "image": "images/2027-03-19/foster.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Følsom",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Koselig",
+          "text": "Elsker hygge."
+        },
+        {
+          "title": "Omtenksom",
+          "text": "Ser andre."
+        },
+        {
+          "title": "Varm",
+          "text": "Myk innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "stokken",
+      "name": "Stokken",
+      "shareName": "stokken",
+      "emoji": null,
+      "description": "Du er sosial, avslappet og ukomplisert. Du kommer godt overens med nesten alle.",
+      "funFact": "Babyer skal legges til å sove på ryggen, mens de fleste voksne ender opp på siden.",
+      "image": "images/2027-03-19/stokken.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Venn med alle."
+        },
+        {
+          "title": "Avslappet",
+          "text": "Tar ting som de kommer."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ukomplisert og grei."
+        },
+        {
+          "title": "Stødig",
+          "text": "Rett og trygg."
+        }
+      ]
+    },
+    {
+      "id": "frittfall",
+      "name": "Fritt fall",
+      "shareName": "fritt fall",
+      "emoji": null,
+      "description": "Du er spontan og full av energi, og du går rett på sak. Når du først legger deg, går du rett ut.",
+      "funFact": "Å sove på magen er den minst vanlige sovestillingen blant voksne.",
+      "image": "images/2027-03-19/frittfall.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Spontan",
+          "text": "Hopper i det."
+        },
+        {
+          "title": "Energisk",
+          "text": "Full fart."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det som det er."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør mye."
+        }
+      ]
+    },
+    {
+      "id": "flamingo",
+      "name": "Flamingoen",
+      "shareName": "flamingoen",
+      "emoji": null,
+      "description": "Du er kreativ og litt annerledes, og du gjør ting på din egen måte. Det er aldri kjedelig rundt deg.",
+      "funFact": "Ekte flamingoer sover ofte stående på ett bein.",
+      "image": "images/2027-03-19/flamingo.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Tenker nytt."
+        },
+        {
+          "title": "Unik",
+          "text": "Helt egen stil."
+        },
+        {
+          "title": "Leken",
+          "text": "Liker moro."
+        },
+        {
+          "title": "Fri",
+          "text": "Gjør det på sin måte."
+        }
+      ]
+    },
+    {
+      "id": "puteklemmer",
+      "name": "Puteklemmeren",
+      "shareName": "puteklemmeren",
+      "emoji": null,
+      "description": "Du er kjærlig, trofast og glad i nærhet. Folk rundt deg føler seg alltid tatt vare på.",
+      "funFact": "Mange som sover på siden, ligger bedre med en pute mellom knærne.",
+      "image": "images/2027-03-19/puteklemmer.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kjærlig",
+          "text": "Gir gode klemmer."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder fast."
+        },
+        {
+          "title": "Omsorgsfull",
+          "text": "Passer på andre."
+        },
+        {
+          "title": "Trygg",
+          "text": "Gir ro."
+        }
+      ]
+    },
+    {
+      "id": "burrito",
+      "name": "Burritoen",
+      "shareName": "burritoen",
+      "emoji": null,
+      "description": "Du elsker komfort, varme og en god kveld hjemme. Du vet nøyaktig hva som skal til for å ha det godt.",
+      "funFact": "Kroppstemperaturen synker litt når vi sovner, og det hjelper oss å sove godt.",
+      "image": "images/2027-03-19/burrito.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Hjemmekjær",
+          "text": "Elsker egen sofa."
+        },
+        {
+          "title": "Komfortabel",
+          "text": "Vet hva som er godt."
+        },
+        {
+          "title": "Lun",
+          "text": "Holder på varmen."
+        },
+        {
+          "title": "Rolig",
+          "text": "Senker tempoet."
+        }
+      ]
+    },
+    {
+      "id": "fotenute",
+      "name": "Foten ute",
+      "shareName": "foten ute",
+      "emoji": null,
+      "description": "Du er flink til å finne gode løsninger og et fint kompromiss. Du får alltid ting til å gå opp.",
+      "funFact": "Føttene har mange blodårer nær huden, så en fot ut av dyna kan hjelpe kroppen å kvitte seg med varme.",
+      "image": "images/2027-03-19/fotenute.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Løsningsorientert",
+          "text": "Finner en vei."
+        },
+        {
+          "title": "Balansert",
+          "text": "Midt imellom."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Tilpasser seg."
+        },
+        {
+          "title": "Smart",
+          "text": "Tenker praktisk."
+        }
+      ]
+    },
+    {
+      "id": "sofasover",
+      "name": "Sofasoveren",
+      "shareName": "sofasoveren",
+      "emoji": null,
+      "description": "Du er avslappet og kan slappe av nesten hvor som helst. Du minner andre på å ta det litt med ro.",
+      "funFact": "En kort lur på 10–20 minutter kan gjøre deg mer opplagt uten at du blir ør.",
+      "image": "images/2027-03-19/sofasover.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Hviler hvor som helst."
+        },
+        {
+          "title": "Sosial",
+          "text": "Sovner midt i praten."
+        },
+        {
+          "title": "Fornøyd",
+          "text": "Trenger lite."
+        },
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        }
+      ]
+    }
+  ]
+}

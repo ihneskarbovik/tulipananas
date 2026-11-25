@@ -1,0 +1,688 @@
+{
+  "id": "2027-03-05",
+  "date": "2027-03-05",
+  "title": "Hvilken dessert er du i dag?",
+  "intro": "Det er fredag, og da fortjener alle litt dessert. Svar på sju spørsmål og finn ut hvilken dessert du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags duk liker du best på bordet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hvit og stivet",
+          "scores": {
+            "cremebrulee": 2,
+            "pannacotta": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rutete",
+          "scores": {
+            "bondepiker": 2,
+            "karamellpudding": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Med store blomster",
+          "scores": {
+            "pavlova": 1,
+            "fruktsalat": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ingen duk, bare fint treverk",
+          "scores": {
+            "multekrem": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Mørk og elegant",
+          "scores": {
+            "fondant": 2,
+            "mousse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Fargerik, fra en reise",
+          "scores": {
+            "tiramisu": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Noen spør hva du har lyst til å gjøre i helgen. Hva svarer du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Noe sosialt med mange folk",
+          "scores": {
+            "tiramisu": 1,
+            "fruktsalat": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Noe rolig hjemme",
+          "scores": {
+            "pannacotta": 1,
+            "bondepiker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe jeg aldri har gjort før",
+          "scores": {
+            "fondant": 1,
+            "cremebrulee": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En tur ut i naturen",
+          "scores": {
+            "multekrem": 2,
+            "trollkrem": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bake eller lage noe fint",
+          "scores": {
+            "pavlova": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe koselig med én jeg er glad i",
+          "scores": {
+            "mousse": 1,
+            "karamellpudding": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Når smaker dessert aller best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Etter en stor middag med familien",
+          "scores": {
+            "karamellpudding": 1,
+            "bondepiker": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sent på kvelden i sofaen",
+          "scores": {
+            "mousse": 2,
+            "fondant": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Ute i sola på en varm dag",
+          "scores": {
+            "fruktsalat": 2,
+            "pavlova": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en fin restaurant",
+          "scores": {
+            "cremebrulee": 1,
+            "tiramisu": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Etter en lang tur i fjellet",
+          "scores": {
+            "multekrem": 2,
+            "trollkrem": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Midt på dagen, helt uten grunn",
+          "scores": {
+            "pannacotta": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du skal få gjester i kveld. Hvordan forbereder du deg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vasker og ordner hele huset",
+          "scores": {
+            "cremebrulee": 2,
+            "pannacotta": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lager masse mat",
+          "scores": {
+            "tiramisu": 2,
+            "karamellpudding": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Kjøper blomster og tenner lys",
+          "scores": {
+            "mousse": 2,
+            "pavlova": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ikke så mye, de får ta meg som jeg er",
+          "scores": {
+            "bondepiker": 2,
+            "trollkrem": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager noe de aldri har smakt",
+          "scores": {
+            "fondant": 2,
+            "multekrem": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Setter fram frukt og noe lett",
+          "scores": {
+            "fruktsalat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hvilket ord passer best på hjemmet ditt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ryddig",
+          "scores": {
+            "pannacotta": 2,
+            "cremebrulee": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Koselig",
+          "scores": {
+            "karamellpudding": 2,
+            "bondepiker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Fargerikt",
+          "scores": {
+            "pavlova": 2,
+            "fruktsalat": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Lunt",
+          "scores": {
+            "fondant": 2,
+            "mousse": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Livlig",
+          "scores": {
+            "tiramisu": 1,
+            "trollkrem": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Naturlig",
+          "scores": {
+            "multekrem": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har noe godt du må dele med andre. Hvordan gjør du det?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deler gjerne, det blir bedre sammen",
+          "scores": {
+            "tiramisu": 1,
+            "fruktsalat": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Deler, men tar vare på den beste biten",
+          "scores": {
+            "fondant": 1,
+            "cremebrulee": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Deler helt likt",
+          "scores": {
+            "pannacotta": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "Gir bort det meste",
+          "scores": {
+            "bondepiker": 2,
+            "karamellpudding": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Deler bare med de aller nærmeste",
+          "scores": {
+            "multekrem": 1,
+            "mousse": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Lager mer, så alle får nok",
+          "scores": {
+            "pavlova": 2,
+            "trollkrem": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvor spiser du helst lunsj?",
+      "options": [
+        {
+          "id": "a",
+          "text": "På en fin kafé med duk på bordet",
+          "scores": {
+            "cremebrulee": 2,
+            "mousse": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Hjemme ved kjøkkenbordet",
+          "scores": {
+            "karamellpudding": 2,
+            "bondepiker": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "I parken med matpakke",
+          "scores": {
+            "fruktsalat": 2,
+            "trollkrem": 2
+          }
+        },
+        {
+          "id": "d",
+          "text": "På en italiensk restaurant",
+          "scores": {
+            "tiramisu": 2,
+            "pannacotta": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "På en stein ute i naturen",
+          "scores": {
+            "multekrem": 2
+          }
+        },
+        {
+          "id": "f",
+          "text": "Et sted jeg aldri har vært før",
+          "scores": {
+            "fondant": 2,
+            "pavlova": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "karamellpudding",
+      "name": "Karamellpudding",
+      "shareName": "en karamellpudding",
+      "emoji": null,
+      "description": "Du er klassisk, trofast og alltid like populær. Du minner folk om gode stunder rundt familiebordet.",
+      "funFact": "Karamellpudding er i slekt med flan, en dessert som er vanlig i Spania og Latin-Amerika.",
+      "image": "images/2027-03-05/karamellpudding.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid den samme."
+        },
+        {
+          "title": "Klassisk",
+          "text": "Aldri ute av moten."
+        },
+        {
+          "title": "Varm",
+          "text": "Samler familien."
+        },
+        {
+          "title": "Søt",
+          "text": "Lett å like."
+        }
+      ]
+    },
+    {
+      "id": "mousse",
+      "name": "Sjokolademousse",
+      "shareName": "en sjokolademousse",
+      "emoji": null,
+      "description": "Du er myk, elegant og litt romantisk. Du setter pris på kos og gode øyeblikk med de du er glad i.",
+      "funFact": "Mousse betyr «skum» på fransk.",
+      "image": "images/2027-03-05/mousse.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Romantisk",
+          "text": "Elsker det koselige."
+        },
+        {
+          "title": "Myk",
+          "text": "Mild og god."
+        },
+        {
+          "title": "Elegant",
+          "text": "Litt fin på det."
+        },
+        {
+          "title": "Nær",
+          "text": "Trives med få."
+        }
+      ]
+    },
+    {
+      "id": "tiramisu",
+      "name": "Tiramisu",
+      "shareName": "en tiramisu",
+      "emoji": null,
+      "description": "Du er sosial, varm og en ekte livsnyter. Du gir andre energi og får festen til å vare lenger.",
+      "funFact": "Tiramisu betyr omtrent «løft meg opp» på italiensk.",
+      "image": "images/2027-03-05/tiramisu.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives i lag."
+        },
+        {
+          "title": "Livsnyter",
+          "text": "Elsker gode stunder."
+        },
+        {
+          "title": "Oppkvikkende",
+          "text": "Gir energi."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "pannacotta",
+      "name": "Panna cotta",
+      "shareName": "en panna cotta",
+      "emoji": null,
+      "description": "Du er rolig, enkel og stilren. Du trenger ikke mye pynt for å gjøre inntrykk.",
+      "funFact": "Panna cotta betyr «kokt fløte» på italiensk.",
+      "image": "images/2027-03-05/pannacotta.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Ingen stress."
+        },
+        {
+          "title": "Stilren",
+          "text": "Enkelt er fint."
+        },
+        {
+          "title": "Mild",
+          "text": "Snill mot alle."
+        },
+        {
+          "title": "Ryddig",
+          "text": "Alt på plass."
+        }
+      ]
+    },
+    {
+      "id": "cremebrulee",
+      "name": "Crème brûlée",
+      "shareName": "en crème brûlée",
+      "emoji": null,
+      "description": "Du er elegant og litt hard i kanten, men myk og god innvendig. Du har sans for kvalitet og fine detaljer.",
+      "funFact": "Crème brûlée betyr «brent krem» på fransk.",
+      "image": "images/2027-03-05/cremebrulee.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Sans for kvalitet."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn det ser ut."
+        },
+        {
+          "title": "Nøye",
+          "text": "Detaljene teller."
+        },
+        {
+          "title": "Myk",
+          "text": "Innerst inne."
+        }
+      ]
+    },
+    {
+      "id": "pavlova",
+      "name": "Pavlova",
+      "shareName": "en pavlova",
+      "emoji": null,
+      "description": "Du er festlig, luftig og full av farger. Du gjør vanlige dager til små feiringer.",
+      "funFact": "Pavlova er oppkalt etter den russiske ballettdanseren Anna Pavlova.",
+      "image": "images/2027-03-05/pavlova.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Festlig",
+          "text": "Elsker feiring."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Pynter alt."
+        },
+        {
+          "title": "Lett",
+          "text": "Godt humør."
+        },
+        {
+          "title": "Fargerik",
+          "text": "Liv og glede."
+        }
+      ]
+    },
+    {
+      "id": "trollkrem",
+      "name": "Trollkrem",
+      "shareName": "en trollkrem",
+      "emoji": null,
+      "description": "Du er leken, frisk og litt eventyrlig. Du finner på ting og lager moro av nesten ingenting.",
+      "funFact": "Trollkrem lages tradisjonelt av tyttebær, sukker og eggehvite som piskes luftig.",
+      "image": "images/2027-03-05/trollkrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Finner på ting."
+        },
+        {
+          "title": "Frisk",
+          "text": "Mye energi."
+        },
+        {
+          "title": "Eventyrlig",
+          "text": "Elsker det magiske."
+        },
+        {
+          "title": "Enkel",
+          "text": "Trenger lite."
+        }
+      ]
+    },
+    {
+      "id": "bondepiker",
+      "name": "Tilslørte bondepiker",
+      "shareName": "tilslørte bondepiker",
+      "emoji": null,
+      "description": "Du er jordnær, beskjeden og ekte hjemmekoselig. Du gjør mye godt uten å lage noe nummer ut av det.",
+      "funFact": "Tilslørte bondepiker lages av eplemos, brødsmuler stekt med sukker og krem.",
+      "image": "images/2027-03-05/bondepiker.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Jordnær",
+          "text": "Ekte og enkel."
+        },
+        {
+          "title": "Beskjeden",
+          "text": "Lite oppstyr."
+        },
+        {
+          "title": "Koselig",
+          "text": "Gjør det hjemmekjært."
+        },
+        {
+          "title": "Raus",
+          "text": "Gir mye."
+        }
+      ]
+    },
+    {
+      "id": "multekrem",
+      "name": "Multekrem",
+      "shareName": "en multekrem",
+      "emoji": null,
+      "description": "Du er sjelden, ekte og glad i naturen. De som får bli kjent med deg, vet at det er noe helt spesielt.",
+      "funFact": "Multebær er røde før de er modne og blir gyllent oransje når de er klare til å plukkes.",
+      "image": "images/2027-03-05/multekrem.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sjelden",
+          "text": "Ikke hver dag."
+        },
+        {
+          "title": "Naturglad",
+          "text": "Trives i fjellet."
+        },
+        {
+          "title": "Ekte",
+          "text": "Ingen jåleri."
+        },
+        {
+          "title": "Spesiell",
+          "text": "Verdt å vente på."
+        }
+      ]
+    },
+    {
+      "id": "fruktsalat",
+      "name": "Fruktsalat",
+      "shareName": "en fruktsalat",
+      "emoji": null,
+      "description": "Du er sprudlende, åpen og har plass til alle. Du blander folk og ideer og får det beste ut av dem.",
+      "funFact": "Ananasen er egentlig mange små bær som har vokst sammen til én frukt.",
+      "image": "images/2027-03-05/fruktsalat.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sprudlende",
+          "text": "Full av liv."
+        },
+        {
+          "title": "Inkluderende",
+          "text": "Plass til alle."
+        },
+        {
+          "title": "Frisk",
+          "text": "Alltid pigg."
+        },
+        {
+          "title": "Mangfoldig",
+          "text": "Mye å by på."
+        }
+      ]
+    },
+    {
+      "id": "fondant",
+      "name": "Sjokoladefondant",
+      "shareName": "en sjokoladefondant",
+      "emoji": null,
+      "description": "Du er varm, intens og full av overraskelser. Utenpå er du rolig, men innvendig koker det av ideer og følelser.",
+      "funFact": "Kakaobønner vokser i store frukter som sitter rett på stammen av kakaotreet.",
+      "image": "images/2027-03-05/fondant.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Intens",
+          "text": "Kjenner mye."
+        },
+        {
+          "title": "Varm",
+          "text": "Stort hjerte."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer inni."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å prøve."
+        }
+      ]
+    }
+  ]
+}

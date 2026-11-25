@@ -1,0 +1,679 @@
+{
+  "id": "2027-03-17",
+  "date": "2027-03-17",
+  "title": "Hvilket krypdyr er du i dag?",
+  "intro": "Skjell, skinn og masse personlighet. Svar på sju spørsmål og finn ut hvilket krypdyr du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags T-skjorte liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En med morsomt trykk",
+          "scores": {
+            "gekko": 2,
+            "firfisle": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En med logoen til favorittlaget",
+          "scores": {
+            "komodovaran": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En i knallsterk farge",
+          "scores": {
+            "kragefirfisle": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En stripete en",
+          "scores": {
+            "havskilpadde": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Den myke, gamle favoritten",
+          "scores": {
+            "skilpadde": 2,
+            "leguan": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En helt enkel og ensfarget",
+          "scores": {
+            "hoggorm": 2,
+            "stalorm": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Hva har du helst på brødskiva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avokado",
+          "scores": {
+            "leguan": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Salami og ost",
+          "scores": {
+            "krokodille": 2,
+            "komodovaran": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Noe nytt hver dag",
+          "scores": {
+            "kameleon": 2,
+            "kragefirfisle": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Det som går raskest",
+          "scores": {
+            "firfisle": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Bare smør",
+          "scores": {
+            "stalorm": 2,
+            "hoggorm": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Reker og majones",
+          "scores": {
+            "komodovaran": 2,
+            "havskilpadde": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Et ukjent nummer ringer. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Svarer med en gang",
+          "scores": {
+            "kragefirfisle": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Lar det ringe og søker opp nummeret",
+          "scores": {
+            "hoggorm": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Venter og ser om de legger igjen en beskjed",
+          "scores": {
+            "krokodille": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Svarer høflig og rolig",
+          "scores": {
+            "stalorm": 2,
+            "leguan": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Svarer kjapt mens jeg gjør noe annet",
+          "scores": {
+            "firfisle": 2,
+            "komodovaran": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Hvilken strand liker du best?",
+      "options": [
+        {
+          "id": "a",
+          "text": "En lang, rolig sandstrand",
+          "scores": {
+            "skilpadde": 2,
+            "leguan": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En strand med stor kiosk",
+          "scores": {
+            "komodovaran": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En strand med svaberg å klatre på",
+          "scores": {
+            "firfisle": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "En liten strand der ingen andre er",
+          "scores": {
+            "leguan": 2,
+            "hoggorm": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "En strand med store bølger",
+          "scores": {
+            "havskilpadde": 2,
+            "kragefirfisle": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "En strand med fine skjell og steiner",
+          "scores": {
+            "kameleon": 2,
+            "stalorm": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Du finner en lommebok på bakken. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spør folk rundt om noen har mistet den",
+          "scores": {
+            "gekko": 2
+          }
+        },
+        {
+          "id": "b",
+          "text": "Leverer den til politiet med en gang",
+          "scores": {
+            "krokodille": 2,
+            "komodovaran": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Leverer den i nærmeste butikk uten mye prat",
+          "scores": {
+            "hoggorm": 2,
+            "stalorm": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Legger ut en melding på nettet for å finne eieren",
+          "scores": {
+            "kragefirfisle": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Løper etter den jeg tror mistet den",
+          "scores": {
+            "firfisle": 2,
+            "havskilpadde": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Hvilken dans vil du helst lære?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Salsa",
+          "scores": {
+            "kragefirfisle": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Moderne dans",
+          "scores": {
+            "kameleon": 2,
+            "stalorm": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Rolig vals",
+          "scores": {
+            "leguan": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Folkedans",
+          "scores": {
+            "stalorm": 2,
+            "skilpadde": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Breakdance",
+          "scores": {
+            "firfisle": 2,
+            "havskilpadde": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingen, jeg ser heller på",
+          "scores": {
+            "hoggorm": 2,
+            "krokodille": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hvordan er du når du er sulten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blir stille og litt grinete",
+          "scores": {
+            "hoggorm": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Spiser litt av alt jeg finner",
+          "scores": {
+            "komodovaran": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lager noe ordentlig, selv om det tar tid",
+          "scores": {
+            "skilpadde": 2,
+            "krokodille": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Merker det knapt før noen minner meg på det",
+          "scores": {
+            "stalorm": 2,
+            "kameleon": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Snakker om mat helt til jeg får noe",
+          "scores": {
+            "kragefirfisle": 2,
+            "gekko": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Tar en frukt og klarer meg lenge",
+          "scores": {
+            "leguan": 2,
+            "havskilpadde": 1
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "skilpadde",
+      "name": "Skilpadde",
+      "shareName": "en skilpadde",
+      "emoji": null,
+      "description": "Du er rolig, tålmodig og helt fornøyd med å ta ting i ditt eget tempo. Du har alltid et lunt sted å trekke deg tilbake til.",
+      "funFact": "Noen landskilpadder kan bli over 150 år gamle.",
+      "image": "images/2027-03-17/skilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rolig",
+          "text": "Tar det med ro."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Venter gjerne litt."
+        },
+        {
+          "title": "Hjemmekjær",
+          "text": "Har hjemmet med seg."
+        },
+        {
+          "title": "Stødig",
+          "text": "Kommer alltid fram."
+        }
+      ]
+    },
+    {
+      "id": "havskilpadde",
+      "name": "Havskilpadde",
+      "shareName": "en havskilpadde",
+      "emoji": null,
+      "description": "Du er en eventyrlysten reisende som elsker vann og nye steder. Samtidig glemmer du aldri hvor du kommer fra.",
+      "funFact": "Havskilpadder kan svømme tusenvis av kilometer og vender ofte tilbake til stranden der de selv ble klekket for å legge egg.",
+      "image": "images/2027-03-17/havskilpadde.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Eventyrlysten",
+          "text": "Elsker lange reiser."
+        },
+        {
+          "title": "Trofast",
+          "text": "Husker hvor hjemme er."
+        },
+        {
+          "title": "Rolig",
+          "text": "Flyter med strømmen."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Gir aldri opp."
+        }
+      ]
+    },
+    {
+      "id": "kameleon",
+      "name": "Kameleon",
+      "shareName": "en kameleon",
+      "emoji": null,
+      "description": "Du er observant og kreativ, og du merker ting andre ikke ser. Du tilpasser deg lett, uansett hvor du havner.",
+      "funFact": "Kameleonen kan bevege øynene hver for seg og se i to retninger samtidig.",
+      "image": "images/2027-03-17/kameleon.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Observant",
+          "text": "Ser alt rundt seg."
+        },
+        {
+          "title": "Kreativ",
+          "text": "Leker med farger."
+        },
+        {
+          "title": "Fleksibel",
+          "text": "Passer inn overalt."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tenker før den handler."
+        }
+      ]
+    },
+    {
+      "id": "gekko",
+      "name": "Gekko",
+      "shareName": "en gekko",
+      "emoji": null,
+      "description": "Du er sosial, nysgjerrig og full av energi. Du klatrer gjerne opp dit ingen andre tør, og drar med deg venner på veien.",
+      "funFact": "Mange gekkoer kan gå oppover glassvegger takket være millioner av bittesmå hår under føttene.",
+      "image": "images/2027-03-17/gekko.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Liker å være mange."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil se alt."
+        },
+        {
+          "title": "Energisk",
+          "text": "Alltid i bevegelse."
+        },
+        {
+          "title": "Modig",
+          "text": "Klatrer høyt opp."
+        }
+      ]
+    },
+    {
+      "id": "leguan",
+      "name": "Leguan",
+      "shareName": "en leguan",
+      "emoji": null,
+      "description": "Du er avslappet og elsker sol, grønne ting og gode pauser. Folk blir roligere bare av å være sammen med deg.",
+      "funFact": "Grønn leguan har et lite lysfølsomt «tredje øye» på toppen av hodet.",
+      "image": "images/2027-03-17/leguan.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Avslappet",
+          "text": "Mester i pauser."
+        },
+        {
+          "title": "Solglad",
+          "text": "Elsker varme dager."
+        },
+        {
+          "title": "Sunn",
+          "text": "Glad i grønt."
+        },
+        {
+          "title": "Vennlig",
+          "text": "Rolig og hyggelig."
+        }
+      ]
+    },
+    {
+      "id": "krokodille",
+      "name": "Krokodille",
+      "shareName": "en krokodille",
+      "emoji": null,
+      "description": "Du er tålmodig, sterk og vet hva du vil. Du passer godt på dem du er glad i.",
+      "funFact": "Krokodillemødre bærer ofte de nyklekte ungene forsiktig i munnen ned til vannet.",
+      "image": "images/2027-03-17/krokodille.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tålmodig",
+          "text": "Venter på rett øyeblikk."
+        },
+        {
+          "title": "Sterk",
+          "text": "Står støtt."
+        },
+        {
+          "title": "Beskyttende",
+          "text": "Passer på sine."
+        },
+        {
+          "title": "Fokusert",
+          "text": "Har blikket på målet."
+        }
+      ]
+    },
+    {
+      "id": "komodovaran",
+      "name": "Komodovaran",
+      "shareName": "en komodovaran",
+      "emoji": null,
+      "description": "Du er selvsikker, modig og har god appetitt på livet. Du tar gjerne ledelsen når noe skal skje.",
+      "funFact": "Komodovaranen er verdens største øgle og kan bli rundt tre meter lang.",
+      "image": "images/2027-03-17/komodovaran.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvsikker",
+          "text": "Vet hva den kan."
+        },
+        {
+          "title": "Modig",
+          "text": "Går først."
+        },
+        {
+          "title": "Sulten",
+          "text": "Glad i god mat."
+        },
+        {
+          "title": "Leder",
+          "text": "Tar gjerne ansvar."
+        }
+      ]
+    },
+    {
+      "id": "firfisle",
+      "name": "Firfisle",
+      "shareName": "en firfisle",
+      "emoji": null,
+      "description": "Du er rask, kjapp i hodet og trives ute i norsk natur. Du er liten, men tøffere enn mange tror.",
+      "funFact": "Firfisla vi har i Norge føder levende unger i stedet for å legge egg.",
+      "image": "images/2027-03-17/firfisle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Rask",
+          "text": "Kjappere enn de fleste."
+        },
+        {
+          "title": "Hardfør",
+          "text": "Tåler litt kulde."
+        },
+        {
+          "title": "Aktiv",
+          "text": "Alltid på farten."
+        },
+        {
+          "title": "Nordisk",
+          "text": "Hjemme i Norge."
+        }
+      ]
+    },
+    {
+      "id": "hoggorm",
+      "name": "Hoggorm",
+      "shareName": "en hoggorm",
+      "emoji": null,
+      "description": "Du er selvstendig og liker å ha litt plass rundt deg. Når folk først blir kjent med deg, merker de at du er varmere enn de trodde.",
+      "funFact": "Hoggormen er den eneste giftige slangen som lever vilt i Norge.",
+      "image": "images/2027-03-17/hoggorm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        },
+        {
+          "title": "Sjenert",
+          "text": "Holder seg litt unna."
+        },
+        {
+          "title": "Varmekjær",
+          "text": "Elsker solflekker."
+        },
+        {
+          "title": "Klok",
+          "text": "Unngår bråk."
+        }
+      ]
+    },
+    {
+      "id": "stalorm",
+      "name": "Stålorm",
+      "shareName": "en stålorm",
+      "emoji": null,
+      "description": "Du er beskjeden og overraskende, og det er alltid mer med deg enn folk tror. Du trives best i det stille.",
+      "funFact": "Stålormen ser ut som en slange, men er egentlig en øgle uten bein, og den kan blunke.",
+      "image": "images/2027-03-17/stalorm.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Beskjeden",
+          "text": "Trenger ikke oppmerksomhet."
+        },
+        {
+          "title": "Overraskende",
+          "text": "Mer enn man tror."
+        },
+        {
+          "title": "Rolig",
+          "text": "Liker det stille."
+        },
+        {
+          "title": "Ekte",
+          "text": "Helt seg selv."
+        }
+      ]
+    },
+    {
+      "id": "kragefirfisle",
+      "name": "Kragefirfisle",
+      "shareName": "en kragefirfisle",
+      "emoji": null,
+      "description": "Du er uttrykksfull, morsom og glad i litt drama. Når du kommer inn i et rom, merker alle det.",
+      "funFact": "Når kragefirfisla blir skremt, folder den ut en stor krage rundt halsen for å virke større.",
+      "image": "images/2027-03-17/kragefirfisle.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Uttrykksfull",
+          "text": "Viser alt den føler."
+        },
+        {
+          "title": "Morsom",
+          "text": "Får folk til å le."
+        },
+        {
+          "title": "Modig",
+          "text": "Tør å stå fram."
+        },
+        {
+          "title": "Livlig",
+          "text": "Full av energi."
+        }
+      ]
+    }
+  ]
+}

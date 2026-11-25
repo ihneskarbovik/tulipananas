@@ -1,0 +1,724 @@
+{
+  "id": "2027-03-16",
+  "date": "2027-03-16",
+  "title": "Hvilken kopp er du i dag?",
+  "intro": "Noen kopper er store og trygge, andre er små og fine. Svar på sju spørsmål og finn ut hvilken kopp du er i dag.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Hva slags bukser bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gode, gamle olabukser",
+          "scores": {
+            "krus": 1,
+            "emaljekopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Myke joggebukser",
+          "scores": {
+            "kakaokrus": 1,
+            "tutekopp": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Pene bukser med press",
+          "scores": {
+            "tekopp": 1,
+            "espresso": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Turbukse med mange lommer",
+          "scores": {
+            "emaljekopp": 1,
+            "termokopp": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Vide bukser i lin",
+          "scores": {
+            "japansk": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Noe fargerikt jeg fant på ferie",
+          "scores": {
+            "suvenirkrus": 2,
+            "latteglass": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Du får en lapp fra naboen om at du bråker. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banker på og sier unnskyld",
+          "scores": {
+            "tekopp": 1,
+            "kakaokrus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Skriver en hyggelig lapp tilbake",
+          "scores": {
+            "keramikk": 2,
+            "suvenirkrus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Skrur ned og tenker ikke mer på det",
+          "scores": {
+            "krus": 1,
+            "termokopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Blir litt satt ut og tenker på det lenge",
+          "scores": {
+            "japansk": 1,
+            "kasa": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Inviterer naboen på besøk neste gang",
+          "scores": {
+            "latteglass": 2,
+            "tutekopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Spør hva som var for høyt",
+          "scores": {
+            "espresso": 2,
+            "emaljekopp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Hvor drikker du helst noe varmt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ved kjøkkenbordet om morgenen",
+          "scores": {
+            "krus": 1,
+            "tekopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "På en kafé med venner",
+          "scores": {
+            "latteglass": 2,
+            "espresso": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "På en stein i skogen",
+          "scores": {
+            "kasa": 2,
+            "emaljekopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Under et pledd i sofaen",
+          "scores": {
+            "kakaokrus": 2,
+            "keramikk": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "På vei et sted",
+          "scores": {
+            "termokopp": 1,
+            "espresso": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ved et vindu med fin utsikt",
+          "scores": {
+            "japansk": 2,
+            "suvenirkrus": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Du kommer hjem etter en lang tur. Hvordan pakker du ut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alt med en gang, så er det gjort",
+          "scores": {
+            "termokopp": 1,
+            "tekopp": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Sekken står i gangen et par dager",
+          "scores": {
+            "tutekopp": 2,
+            "krus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Vasker alt utstyret og henger det til tørk",
+          "scores": {
+            "emaljekopp": 2,
+            "kasa": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Legger fram ting jeg kjøpte og ser på dem",
+          "scores": {
+            "suvenirkrus": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Tar en kopp te først og pakker ut i ro og fred",
+          "scores": {
+            "japansk": 2,
+            "kakaokrus": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ringer en venn og forteller om turen mens jeg pakker",
+          "scores": {
+            "latteglass": 2,
+            "espresso": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Hva står i vinduskarmen din?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stearinlys",
+          "scores": {
+            "kakaokrus": 2,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "En lyslenke og noen bilder",
+          "scores": {
+            "tutekopp": 2,
+            "latteglass": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "En bunke bøker",
+          "scores": {
+            "tekopp": 2,
+            "krus": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Kongler og steiner fra tur",
+          "scores": {
+            "emaljekopp": 1,
+            "kasa": 2
+          }
+        },
+        {
+          "id": "e",
+          "text": "Ting fra reiser",
+          "scores": {
+            "suvenirkrus": 2,
+            "keramikk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Ingenting, så lyset kommer inn",
+          "scores": {
+            "espresso": 2,
+            "termokopp": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Du har ryddet, og noen roter det til igjen. Hva gjør du?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sier fra på en rolig måte",
+          "scores": {
+            "tekopp": 2,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Rydder litt til, det er ikke farlig",
+          "scores": {
+            "krus": 1,
+            "kakaokrus": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "Sier fra kort og tydelig",
+          "scores": {
+            "espresso": 1,
+            "termokopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Ler og lar det ligge",
+          "scores": {
+            "tutekopp": 2,
+            "latteglass": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Lager et system så alle vet hvor ting skal",
+          "scores": {
+            "keramikk": 2,
+            "termokopp": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Går en tur og tar det senere",
+          "scores": {
+            "kasa": 2,
+            "emaljekopp": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "Hva slags melk bruker du mest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helmelk",
+          "scores": {
+            "krus": 2,
+            "kakaokrus": 1
+          }
+        },
+        {
+          "id": "b",
+          "text": "Havremelk",
+          "scores": {
+            "latteglass": 1,
+            "keramikk": 2
+          }
+        },
+        {
+          "id": "c",
+          "text": "Lettmelk",
+          "scores": {
+            "termokopp": 2,
+            "tekopp": 1
+          }
+        },
+        {
+          "id": "d",
+          "text": "Sjokolademelk",
+          "scores": {
+            "tutekopp": 2,
+            "kakaokrus": 1
+          }
+        },
+        {
+          "id": "e",
+          "text": "Jeg drikker sjelden melk",
+          "scores": {
+            "espresso": 1,
+            "japansk": 1
+          }
+        },
+        {
+          "id": "f",
+          "text": "Den som er nærmest i kjøleskapet",
+          "scores": {
+            "emaljekopp": 2,
+            "suvenirkrus": 2
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "krus",
+      "name": "Kaffekrus",
+      "shareName": "et kaffekrus",
+      "emoji": null,
+      "description": "Du er trofast og stødig og alltid klar for en ny dag. Folk vet at de kan regne med deg.",
+      "funFact": "Nordmenn er blant dem i verden som drikker mest kaffe.",
+      "image": "images/2027-03-16/krus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Trofast",
+          "text": "Alltid der."
+        },
+        {
+          "title": "Stødig",
+          "text": "Tåler mye."
+        },
+        {
+          "title": "Hverdagshelt",
+          "text": "Holder hjulene i gang."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ingen dikkedarer."
+        }
+      ]
+    },
+    {
+      "id": "tekopp",
+      "name": "Tekopp med skål",
+      "shareName": "en tekopp med skål",
+      "emoji": null,
+      "description": "Du er høflig og elegant og liker å gjøre ting ordentlig. Du setter pris på små ritualer og fine stunder.",
+      "funFact": "Før i tiden helte mange teen over i skålen for at den skulle bli kald fortere.",
+      "image": "images/2027-03-16/tekopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Elegant",
+          "text": "Har god stil."
+        },
+        {
+          "title": "Høflig",
+          "text": "Har fine manerer."
+        },
+        {
+          "title": "Rolig",
+          "text": "Tar seg god tid."
+        },
+        {
+          "title": "Ordentlig",
+          "text": "Gjør ting skikkelig."
+        }
+      ]
+    },
+    {
+      "id": "termokopp",
+      "name": "Termokopp",
+      "shareName": "en termokopp",
+      "emoji": null,
+      "description": "Du er effektiv og alltid på farten, men holder varmen hele veien. Du får mye gjort uten å stresse.",
+      "funFact": "Den skotske forskeren James Dewar fant opp termosflasken i 1892.",
+      "image": "images/2027-03-16/termokopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Effektiv",
+          "text": "Alltid på vei."
+        },
+        {
+          "title": "Praktisk",
+          "text": "Klar for alt."
+        },
+        {
+          "title": "Utholdende",
+          "text": "Holder varmen lenge."
+        },
+        {
+          "title": "Selvstendig",
+          "text": "Klarer seg selv."
+        }
+      ]
+    },
+    {
+      "id": "espresso",
+      "name": "Espressokopp",
+      "shareName": "en espressokopp",
+      "emoji": null,
+      "description": "Du er liten, men full av energi og kraft. Du sier mye med få ord.",
+      "funFact": "Det italienske ordet «espresso» betyr omtrent «presset ut».",
+      "image": "images/2027-03-16/espresso.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Energisk",
+          "text": "Mye kraft."
+        },
+        {
+          "title": "Direkte",
+          "text": "Sier det kort."
+        },
+        {
+          "title": "Intens",
+          "text": "Gir full gass."
+        },
+        {
+          "title": "Stilig",
+          "text": "Liten og fin."
+        }
+      ]
+    },
+    {
+      "id": "kakaokrus",
+      "name": "Kakaokrus",
+      "shareName": "et kakaokrus",
+      "emoji": null,
+      "description": "Du er koselig og varm og elsker å trøste andre. Hos deg er det alltid plass til en til i sofaen.",
+      "funFact": "Aztekerne drakk kakao, men da var den bitter og krydret.",
+      "image": "images/2027-03-16/kakaokrus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Koselig",
+          "text": "Gir varme."
+        },
+        {
+          "title": "Trøstende",
+          "text": "Er der for andre."
+        },
+        {
+          "title": "Myk",
+          "text": "Har et mildt sinn."
+        },
+        {
+          "title": "Raus",
+          "text": "Deler gjerne."
+        }
+      ]
+    },
+    {
+      "id": "emaljekopp",
+      "name": "Emaljekopp",
+      "shareName": "en emaljekopp",
+      "emoji": null,
+      "description": "Du er tøff og turglad og trives best ute ved bålet. Du tåler en støyt og blir bare finere med årene.",
+      "funFact": "Emalje er et tynt lag glass som er smeltet fast på metall.",
+      "image": "images/2027-03-16/emaljekopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tøff",
+          "text": "Tåler en støyt."
+        },
+        {
+          "title": "Turglad",
+          "text": "Hjemme ved bålet."
+        },
+        {
+          "title": "Jordnær",
+          "text": "Glad i det enkle."
+        },
+        {
+          "title": "Trofast",
+          "text": "Holder i mange år."
+        }
+      ]
+    },
+    {
+      "id": "kasa",
+      "name": "Kåsa",
+      "shareName": "en kåsa",
+      "emoji": null,
+      "description": "Du er naturlig og tradisjonsrik og har ro i deg. Du er laget for lange turer og stille stunder ute.",
+      "funFact": "En kåsa er en drikkekopp av tre, ofte laget av en knort fra bjørk.",
+      "image": "images/2027-03-16/kasa.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Naturlig",
+          "text": "Laget av skogen."
+        },
+        {
+          "title": "Tradisjonell",
+          "text": "Tar vare på det gamle."
+        },
+        {
+          "title": "Rolig",
+          "text": "Har ro i seg."
+        },
+        {
+          "title": "Håndlaget",
+          "text": "Helt unik."
+        }
+      ]
+    },
+    {
+      "id": "latteglass",
+      "name": "Latteglass",
+      "shareName": "et latteglass",
+      "emoji": null,
+      "description": "Du er moderne og sosial og liker å vise hva du har inni. Du trives på kafé med gode venner.",
+      "funFact": "«Caffè latte» betyr «kaffe med melk» på italiensk.",
+      "image": "images/2027-03-16/latteglass.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Sosial",
+          "text": "Trives på kafé."
+        },
+        {
+          "title": "Åpen",
+          "text": "Viser hvem du er."
+        },
+        {
+          "title": "Moderne",
+          "text": "Følger med i tiden."
+        },
+        {
+          "title": "Lett",
+          "text": "Har et lyst sinn."
+        }
+      ]
+    },
+    {
+      "id": "japansk",
+      "name": "Japansk tekopp",
+      "shareName": "en japansk tekopp",
+      "emoji": null,
+      "description": "Du er stille, oppmerksom og til stede i øyeblikket. Du ser skjønnheten i det enkle.",
+      "funFact": "I Japan har tekopper ofte ikke hank, og man holder koppen med begge hender.",
+      "image": "images/2027-03-16/japansk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Tilstede",
+          "text": "Lever i øyeblikket."
+        },
+        {
+          "title": "Stille",
+          "text": "Trenger få ord."
+        },
+        {
+          "title": "Enkel",
+          "text": "Ser det vakre."
+        },
+        {
+          "title": "Oppmerksom",
+          "text": "Merker detaljene."
+        }
+      ]
+    },
+    {
+      "id": "suvenirkrus",
+      "name": "Suvenirkrus",
+      "shareName": "et suvenirkrus",
+      "emoji": null,
+      "description": "Du er reiseglad og full av gode minner. Du har alltid en historie fra et sted du har vært.",
+      "funFact": "Bilder på krus blir ofte trykket med varme, slik at fargen trekker inn i et belegg på koppen.",
+      "image": "images/2027-03-16/suvenirkrus.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Reiseglad",
+          "text": "Vil se verden."
+        },
+        {
+          "title": "Minnerik",
+          "text": "Samler på historier."
+        },
+        {
+          "title": "Morsom",
+          "text": "Har mye å fortelle."
+        },
+        {
+          "title": "Nysgjerrig",
+          "text": "Vil oppleve mer."
+        }
+      ]
+    },
+    {
+      "id": "tutekopp",
+      "name": "Tutekopp",
+      "shareName": "en tutekopp",
+      "emoji": null,
+      "description": "Du er leken og fri og tar ikke livet så tungt. Du får folk til å smile og minner dem om å ha det gøy.",
+      "funFact": "Mange barn begynner å drikke av kopp med tut når de er rundt et halvt år gamle.",
+      "image": "images/2027-03-16/tutekopp.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Leken",
+          "text": "Har det gøy."
+        },
+        {
+          "title": "Fri",
+          "text": "Tar det lett."
+        },
+        {
+          "title": "Blid",
+          "text": "Smiler mye."
+        },
+        {
+          "title": "Uskyldig",
+          "text": "Ser det gode."
+        }
+      ]
+    },
+    {
+      "id": "keramikk",
+      "name": "Hjemmelaget keramikkopp",
+      "shareName": "en hjemmelaget keramikkopp",
+      "emoji": null,
+      "description": "Du er kreativ og personlig, og ingen er helt som deg. Du legger hjertet i alt du lager.",
+      "funFact": "Pottemakerhjulet ble tatt i bruk for over 5000 år siden.",
+      "image": "images/2027-03-16/keramikk.jpg",
+      "imageCredit": null,
+      "traits": [
+        {
+          "title": "Kreativ",
+          "text": "Lager egne ting."
+        },
+        {
+          "title": "Personlig",
+          "text": "Helt unik."
+        },
+        {
+          "title": "Varm",
+          "text": "Legger hjertet i det."
+        },
+        {
+          "title": "Tålmodig",
+          "text": "Gir ting tid."
+        }
+      ]
+    }
+  ]
+}
